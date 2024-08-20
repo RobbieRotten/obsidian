@@ -1,3 +1,11 @@
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 ## Civil Practice Cheat Sheet
 
 Civil Practice Cheat Sheet: NSW Law
@@ -55,7 +63,7 @@ Subpoena:
 - Rules 33.1, 33.3, 33.4, 33.6(1): Subpoenas compel the production of documents or attendance for testimony.
 Interlocutory Orders (Week 8)
 Security for Costs:
-- UCPR Rule 42.21 and CPA Section 67: Provides for security to be given for the defendant’s costs.
+- UCPR Rule 42.21 and CPA Section 67: Provides for security to be given for the defendant's costs.
 Interim Injunctions:
 - Criteria for Interlocutory Injunctions:
   - ABC v O'Neill (2006): Plaintiff must show a prima facie case and that the balance of convenience favours granting the injunction.
@@ -133,7 +141,7 @@ Writs of Execution:
     - Four different methods of service internationally:
       - 1. Service by private means (i.e. using a process server or local agent in the concerned country).	
         - rr 11.4, 11.6-11.7, 11.8AA-11.8AC
-      - 2. Service through diplomatic channels i.e. through using the Attorney-General’s office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
+      - 2. Service through diplomatic channels i.e. through using the Attorney-General's office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
       - 3. Service pursuant to the Hague Convention. Regulated by Part 11A of the UCPR; and
       - 4. Service arrangements agreed in bilateral treaties. Service by private means is most important for our purposes.
 - Evidence in Proceedings - Week 7
@@ -156,12 +164,12 @@ Writs of Execution:
   - Objection to produce documents founded on privilege
     - r 1.9
 - Interlocutory orders - Week 8
-  - Security for the defendant’s cost
+  - Security for the defendant's cost
     - r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
   - interim junction/interlocutory injunction 
     - S 18 of UCPR - need notice of motion form 20 UCPR
       - Two criteria for an interlocutory injunction
-        - Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+        - Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
           - 1. A prima facie case in relation to the substantive litigation; and
           - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
       - See ->
@@ -201,7 +209,7 @@ Writs of Execution:
         - CPA s 98(1)(c) 
     - The primary rule in relation to costs
       - Baulderstone Hornibrook v Gordian Runoff [2006] NSWSC 583. 
-        - Other things being equal, the loser has to pay the winner’s costs (the “loser pays” principle). See r 42.1 of the UCPR.
+        - Other things being equal, the loser has to pay the winner's costs (the "loser pays" principle). See r 42.1 of the UCPR.
         - However, courts have broad discretion to order costs: s 98 CPA
         - See also Pt 42 of the UCPR.
       - Case management decisions
@@ -237,7 +245,7 @@ Writs of Execution:
   - Dismissal for want of due despatch
     - r 12.7
   - Vexatious Proceedings Act 2008 (NSW)
-    - s 6 - Meaning of “vexatious proceedings”
+    - s 6 - Meaning of "vexatious proceedings"
     - s 8 - Making of vexatious proceedings order
     - s 14 - Application for leave to institute proceedings
     - s 16
@@ -389,17 +397,17 @@ Week 2 Ch 1: Introduction and Guiding Principles, Case Management and Purpose
 ● Procedural Law
 ○ Procedural Law def
 ● the law that governs the conduct of proceedings before the court
-● rules which are directed to governing or regulating the mode or conduct of court proceedings”: McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
-● Described as “adjectival” law
+● rules which are directed to governing or regulating the mode or conduct of court proceedings": McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
+● Described as "adjectival" law
 ● is governed by the lex fori which means that the applicable laws of procedure and evidence will be the laws of the forum, that is, the laws of the court which is hearing the claim.
 ● procedural law regulates the way in which substantive rights and obligations are claimed and enforced, without impacting on the definition of those particular substantive rights.
 ○ Substantive law is the law that defines legal rights, duties, powers and liabilities
 ● Judging Civil Justice
-Dame Hazel Genn, “Introduction: What Is Civil Justice for?” in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
+Dame Hazel Genn, "Introduction: What Is Civil Justice for?" in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
 ○ The significance of procedure
 ○ Sources of procedural law
 ○ ADVERSARIAL SYSTEM OF CIVIL LITIGATION
-○ “Cards on the table” approach to litigation
+○ "Cards on the table" approach to litigation
 Week 2 Ch 2: Case Management in New South Wales
 ● Intro
 ○ Traditional Adversarial preparation
@@ -435,11 +443,11 @@ Week 3: Access to Justice, Open Justice and Client Care
 ● Statutory power to close the court in civil proceedings
 ○ CPA s 71 - closing the court
 ○ Statutory power to make suppression and non-publication orders
-○ X” v Sydney Children’s Hospitals Specialty Network [2011] NSWSC 1272
+○ X" v Sydney Children's Hospitals Specialty Network [2011] NSWSC 1272
 ○ A v Bird; C v Bird [2015] NSWSC 570
 Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Periods
 ● Alternative Dispute Resolution (ADR)
-○ Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers)
+○ Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers)
 ○ Negotiation
 ○ Jurisdiction – an introduction
 ○ Transferring proceedings between courts
@@ -448,7 +456,7 @@ Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Perio
 ● Limitation periods
 ○ Limitation statutes impose a time limit within which you must commence proceedings for a cause of action.
 ○ Some common limitation periods
-○ [l]awyers may use ADR not for the accomplishment of a ‘better’ result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage”
+○ [l]awyers may use ADR not for the accomplishment of a 'better' result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage"
 ○ TYPES OF ADR PROCESSES
 ● Negotiation
 ○ The distinguishing feature of negotiation, compared to the other forms of dispute resolution that will be examined, is that negotiation involves no third party whose role is to facilitate, advise or determine the resolution of the dispute.
@@ -479,8 +487,8 @@ Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Perio
 ○ Specific limitations Chart
 ○
 Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Causes of Action, and Drafting Pleadings
-● Proceedings commenced by the ‘originating process’
-○ s 3 of the CPA: the originating process ‘means the process by which proceedings are commenced...’
+● Proceedings commenced by the 'originating process'
+○ s 3 of the CPA: the originating process 'means the process by which proceedings are commenced...'
 ○ r 6.2(1) of the UCPR: our originating process can take two forms:
 ● Statement of claim
 ○
@@ -508,7 +516,7 @@ Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Cause
 ○ JOINDER OF CAUSES OF Action
 ○ JOINDER, EFFICIENCY AND Costs
 ● Initiating Proceedings and Pleadings
-○ Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the “originating process” as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
+○ Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the "originating process" as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
 ○ APPEARANCE
 ○ PLEADINGS
 ○ Material facts
@@ -586,7 +594,7 @@ Week 7: Evidence in Proceedings
 ○ Drafting affidavits
 ○ Ying v Song [2010] NSWSC 1500
 Week 8: Interlocutory Applications and Injunctions
-● The court has power to order a plaintiff to give security for the defendant’s cost of defending the plaintiff’s claim and can order a stay of proceedings until the security is given
+● The court has power to order a plaintiff to give security for the defendant's cost of defending the plaintiff's claim and can order a stay of proceedings until the security is given
 ○ s r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
 ● Wollongong City Council v Legal Business Centre Pty Limited [2012] NSWCA 245
 ○ Jurisdiction:
@@ -624,9 +632,9 @@ Week 8: Interlocutory Applications and Injunctions
 ○ The majority judgment subsequently made explicitly clear that a freezing order is not to be used to provide security to a plaintiff.
 ○ Marango Investments Pty Ltd v Kingdom Towers 4 Pty Ltd [2019] NSWSC 801
 ○ Cardile v LED Builders Pty Ltd [1999] HCA 18; (1999) 198 CLR 380
-○ Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as “Mareva orders” or “asset preservation orders”)
+○ Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as "Mareva orders" or "asset preservation orders")
 ○ Search orders def are otherwise known as Anton Piller orders:
-○ Practice Note SC Gen 13 Supreme Court – Search Orders (also known as “Anton Piller Orders”)
+○ Practice Note SC Gen 13 Supreme Court – Search Orders (also known as "Anton Piller Orders")
 ● Interlocutory Applications and Injunctions
 ○ What is an interlocutory application?
 ○ The broad procedure for interlocutory applications
@@ -663,7 +671,7 @@ Week 9: Costs and Settlement
 ○ Offers of compromise
 ○ Offers of compromise – cost implications
 ○ Offers of compromise – some technical matters
-○ Leach v The Nominal Defendant [2014] NSWCA 391
+○ Leach v The [[Nominal]] Defendant [2014] NSWCA 391
 ○ The legislative framework for costs
 ○ The UCPR and costs
 ○ Bullock and Sanderson orders
@@ -727,14 +735,14 @@ Week 12: Appeals
 - Procedural Law
   - Procedural Law def
 - the law that governs the conduct of proceedings before the court
-- rules which are directed to governing or regulating the mode or conduct of court proceedings”: McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
-- Described as “adjectival” law
+- rules which are directed to governing or regulating the mode or conduct of court proceedings": McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
+- Described as "adjectival" law
 - is governed by the lex fori which means that the applicable laws of procedure and evidence will be the laws of the forum, that is, the laws of the court which is hearing the claim. 
 - procedural law regulates the way in which substantive rights and obligations are claimed and enforced, without impacting on the definition of those particular substantive rights.
   - Substantive law is the law that defines legal rights, duties, powers and liabilities
     - The distinction between substantive and procedural law was stated by the majority in John Pfeiffer Pty Ltd v Rogerson [2000] HCA 36
 - Judging Civil Justice 
-### Dame Hazel Genn, “Introduction: What Is Civil Justice for?” in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
+### Dame Hazel Genn, "Introduction: What Is Civil Justice for?" in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
 
   - The significance of procedure 
     - Civil Justice system comprises
@@ -809,7 +817,7 @@ Week 12: Appeals
         - This case clarifies the scope of implied powers of courts, particularly concerning orders that affect the property rights of individuals post-judgment. 
         - It underscores the principle that courts' powers to make ancillary orders are limited to what is reasonably necessary for the effective exercise of expressly conferred jurisdiction, highlighting the balance between judicial discretion and statutory limits.
     - GUIDING PRINCIPLES FOR PROCEDURE 
-      - The CPA sets out that the “overriding purpose of this Act and of the rules of court, in their application to civil proceedings, is to facilitate the just, quick and cheap resolution of the real issues in the proceedings”: s 56.
+      - The CPA sets out that the "overriding purpose of this Act and of the rules of court, in their application to civil proceedings, is to facilitate the just, quick and cheap resolution of the real issues in the proceedings": s 56.
       - The court is to act in accordance with the dictates of justice in deciding whether to make any order or direction for the management of proceedings, including orders for amendment or adjournment: s 58.
       - When determining the overriding purpose and the objects of case management (ss 56 and 57) 
         - 1. the degree of difficulty or complexity to which the issues in the proceedings give rise; 
@@ -824,10 +832,10 @@ Week 12: Appeals
         - In addition, advocates use oral argument in the presentation of their case; 
       - the trial is the climactic end of the litigation process (and is distinct from the pre-trial stages of proceedings); and 
       - use of the trial transcript for an appeal.
-  - “Cards on the table” approach to litigation 
+  - "Cards on the table" approach to litigation 
     - Conducting litigation as if it were a card game is now discouraged in the adversarial system. 
     - In Nowlan v Marson Transport Pty Ltd (2001) 53 NSWLR 116, Heydon JA said at [26]: 
-      - The conduct of litigation as if it were a card game in which opponents never see some of each other’s cards until the last moment is out of line with modern trends.
+      - The conduct of litigation as if it were a card game in which opponents never see some of each other's cards until the last moment is out of line with modern trends.
     - Baulderstone Hornibrook Engineering Pty Ltd v Gordian Runoff Ltd [2008] NSWCA 243
       - Jurisdiction & Citation: 
         - New South Wales Court of Appeal, persuasive authority outside NSW but binding within.
@@ -859,7 +867,7 @@ Week 12: Appeals
 - Intro
   - Traditional Adversarial preparation
     - Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 at [113], the High Court stated, 
-      - “In the past it has been left largely to the parties to prepare for trial and to seek the court’s assistance as required. Those times are long gone”.
+      - "In the past it has been left largely to the parties to prepare for trial and to seek the court's assistance as required. Those times are long gone".
 - JUSTICE DELAYED IS JUSTICE DENIED 
   -  Jackamara v Krakouer (1998) 195 CLR 516 at 526–527
     - Delays are not beneficial and increase burden on the judicial system
@@ -879,11 +887,11 @@ Week 12: Appeals
       - The second way in which judicial case management has the potential to drive up expenses is simply by being excessive
 - CASELOAD MANAGEMENT AND MANAGERIAL JUDGING 
   - Case Management in New South Wales
-    - The New South Wales Courts do not have what the Americans call a “docket system” under which cases are assigned to the judge who will conduct the trial for management
+    - The New South Wales Courts do not have what the Americans call a "docket system" under which cases are assigned to the judge who will conduct the trial for management
   - The Act and Rules
     - The Civil Procedure Act 2005 and the Uniform Civil Procedure Rules confirm and re-enact the powers of courts to confine a case to issues genuinely in dispute and to ensure compliance with court orders, directions, rules and practices. 
     - When exercising any power a court is required to give effect to the overriding purpose expressed in the Act, namely: 
-      - to facilitate the “just, quick and cheap” resolution of the real issues in the proceedings. 
+      - to facilitate the "just, quick and cheap" resolution of the real issues in the proceedings. 
         - S 56
     - Objects of case management – s 57 CPA
       - The just determination of proceedings. 
@@ -997,7 +1005,7 @@ Week 12: Appeals
       - UCPR 2.1 expands s 61(1) in two important respects: 
         - the power is not confined to making directions for the speedy determination of the real issues in 
         - the proceedings, but includes a power to make directions or orders as appear convenient for the just, cheap and quick disposal of the proceedings; and 
-        - the power is to give directions or orders “for the conduct of any proceedings”
+        - the power is to give directions or orders "for the conduct of any proceedings"
     - Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175; [2009] HCA 27
       - Jurisdiction: 
         - Supreme Court of the Australian Capital Territory
@@ -1035,7 +1043,7 @@ Week 12: Appeals
       - Overriding Purpose: 
         - The court emphasized the CPA's overriding purpose to ensure the just, quick, and cheap resolution of disputes. 
         - It criticized the resort to lengthy interlocutory proceedings over the privileged documents as contrary to this purpose.
-      - Court’s Powers: 
+      - Court's Powers: 
         - Highlighted the broad powers granted by the CPA, particularly under Part 6, to manage discovery issues and correct mistakes without extensive litigation. 
         - These powers are aimed at addressing real issues in disputes efficiently.
       - Case Management: 
@@ -1060,15 +1068,15 @@ Week 12: Appeals
         - Emphasizes the necessity for parties and their lawyers to cooperate genuinely and promptly to resolve interlocutory issues without resorting to court processes unnecessarily.
       - Case Management and CPA Objectives: 
         - Reflects on the broader objectives of case management under the CPA, including avoiding undue technical disputes and facilitating efficient dispute resolution.
-      - Solicitors’ Responsibilities: 
-        - Highlights the positive duty of legal representatives to support the CPA’s purposes, advocating for professional conduct that aligns with the administration of justice.
+      - Solicitors' Responsibilities: 
+        - Highlights the positive duty of legal representatives to support the CPA's purposes, advocating for professional conduct that aligns with the administration of justice.
     - Court's Directions:
       - Professional Conduct: 
         - Calls for civility, trust, and mutual respect among legal professionals, discouraging conduct that contradicts these values.
       - Efficient Dispute Resolution: 
         - Advises on practical steps for resolving interlocutory issues, such as reasonable information requests, last-resort motions, and focused litigation on real issues.
       - Cost Implications: 
-        - Warns that the court will use its powers to impose costs on parties or lawyers who engage in conduct contrary to the CPA’s objectives, emphasizing the importance of adhering to s 56 and related provisions.
+        - Warns that the court will use its powers to impose costs on parties or lawyers who engage in conduct contrary to the CPA's objectives, emphasizing the importance of adhering to s 56 and related provisions.
     - Conclusion: 
       - This case illustrates the critical role of the CPA and professional conduct rules in guiding the management of legal proceedings. 
       - It stresses the importance of cooperation, efficiency, and ethical behavior among legal practitioners to achieve the overarching goals of just, quick, and cheap resolution of disputes, as mandated by the CPA.
@@ -1090,15 +1098,15 @@ Week 12: Appeals
       - The court can also make orders permitting a witness to give evidence behind a screen or via encrypted video-link or closed circuit television from a remote point; such orders can prevent the public and also the litigant/s from identifying a witness by sight and/or sound. 
       - The court also has the power to make pseudonym orders to protect the true identity of a witness
     - Legislation
-      - The power to make orders to “close” justice can be the subject of specific legislation, 
+      - The power to make orders to "close" justice can be the subject of specific legislation, 
       - s 71 of the CPA permits a judge to close the court to the public (see [1.250]), and the Court Suppression and Non- publication Orders Act 2010 provides for the making of suppression and non-publication orders 
   - Common law power to depart from the open justice principle 
     -  Scott v Scott [1913] AC 417 at 437
-      - Chief object of the courts of justice must be to secure that justice is done” and that “it may well be that justice could not be done at all if it had to be done in public”
+      - Chief object of the courts of justice must be to secure that justice is done" and that "it may well be that justice could not be done at all if it had to be done in public"
     - John Fairfax Group Pty Ltd v Local Court of NSW (1991) 26 NSWLR 131 at 16
-      - The power to make orders to “close” justice is an inherent power of a superior court, and in statutory courts, the power to make orders that depart from the principle of open justice can be implied as necessary to the proper function of the court
-      - The power of the court to depart from the principle of open justice and make the orders described in [1.160] is on the basis that such orders are “really necessary to secure the proper administration of justice” in the proceedings
-      - only in “wholly exceptional” circumstances, not merely where such measures would be useful or desirable 
+      - The power to make orders to "close" justice is an inherent power of a superior court, and in statutory courts, the power to make orders that depart from the principle of open justice can be implied as necessary to the proper function of the court
+      - The power of the court to depart from the principle of open justice and make the orders described in [1.160] is on the basis that such orders are "really necessary to secure the proper administration of justice" in the proceedings
+      - only in "wholly exceptional" circumstances, not merely where such measures would be useful or desirable 
       - Attorney- General (NSW) v Mayas Pty Ltd (1988) 14 NSWLR 342 at 347 per Mahoney JA
         - and would save embarrassment, distress or financial loss: 
   - Hogan v Hinch (2011) 243 CLR 50
@@ -1132,7 +1140,7 @@ Week 12: Appeals
       - This case is pivotal in understanding the scope of legislative power in imposing constraints on court proceedings and the dissemination of related information, emphasizing the careful consideration required to uphold both transparency and justice.
   - Common law categories of cases that are exceptions to the open justice principle
     - Exceptions to the principle of open justice are valid in few categories of cases in the common law. 
-    - The exceptions are “strictly defined”: 
+    - The exceptions are "strictly defined": 
       - R v Tait (1979) 46 FLR 386 at 401; 
       - McPherson v McPherson [1936] AC 417 at 200; 
       - Russell v Russell (1976) 134 CLR 495; 
@@ -1194,18 +1202,18 @@ Week 12: Appeals
         - This case underscores the significance of the open justice principle in the judicial process, illustrating the careful consideration courts must give to requests for confidentiality and suppression orders. 
           - It highlights the judiciary's role in ensuring that justice is administered openly and transparently, except in exceptional circumstances where confidentiality is deemed necessary to prevent prejudice to the administration of justice. 
         - The decision reinforces the notion that agreements between parties to resolve disputes confidentially do not automatically warrant suppression of court proceedings.
-  - X” v Sydney Children’s Hospitals Specialty Network [2011] NSWSC 1272
+  - X" v Sydney Children's Hospitals Specialty Network [2011] NSWSC 1272
     - Jurisdiction: 
       - New South Wales Supreme Court 
     - Procedural History: 
-      - The Plaintiff sought an order under the Court Suppression and Non-publication Orders Act 2010 (NSW) to prohibit the publication of her name and other identifying information, including that of her family members, to protect her privacy and psychological well-being in litigation against the Sydney Children’s Hospitals Specialty Network.
+      - The Plaintiff sought an order under the Court Suppression and Non-publication Orders Act 2010 (NSW) to prohibit the publication of her name and other identifying information, including that of her family members, to protect her privacy and psychological well-being in litigation against the Sydney Children's Hospitals Specialty Network.
     - Original Dispute: 
-      - The dispute involves a legal action against the Sydney Children’s Hospitals Specialty Network, with the specific details of the claim not provided in the extracted summary.
+      - The dispute involves a legal action against the Sydney Children's Hospitals Specialty Network, with the specific details of the claim not provided in the extracted summary.
     - Reason for Trial: 
       - Application for a pseudonym order to protect the Plaintiff's identity due to her vulnerability and psychiatric condition.
     - Material Facts: 
       - The Plaintiff, represented by Ms. Sant, Junior Counsel, argued for the necessity of a pseudonym order based on the potential psychological harm and prejudice to the administration of justice that could arise from public disclosure of her identity. 
-      - The application was supported by the Plaintiff’s psychiatric condition and the potential for exacerbation of her symptoms if identified publicly.
+      - The application was supported by the Plaintiff's psychiatric condition and the potential for exacerbation of her symptoms if identified publicly.
     - Issue: 
       - Whether a suppression order to prevent the publication of the Plaintiff's identifying information is necessary to protect her psychological safety and ensure the proper administration of justice.
     - Law(s)/Statute(s) in Contention: 
@@ -1216,7 +1224,7 @@ Week 12: Appeals
       - Adamson J accepted the necessity of a pseudonym order to minimize harm to the Plaintiff and avoid prejudicing the administration of justice. 
       - The judgment emphasized the minimal interference such orders have on the principle of open justice, balanced against the need to protect vulnerable individuals' rights to pursue legal remedies without undue harm.
     - Ratio Decidendi: 
-      - The Court determined that a pseudonym order was necessary to protect the Plaintiff’s psychological safety and prevent prejudice to the proper administration of justice, considering the potential harm that could arise from public disclosure of her identity.
+      - The Court determined that a pseudonym order was necessary to protect the Plaintiff's psychological safety and prevent prejudice to the proper administration of justice, considering the potential harm that could arise from public disclosure of her identity.
     - Conclusion and Relevance to Modern Law: 
       - This case underscores the court's discretion to issue suppression orders under the Court Suppression and Non-publication Orders Act 2010 (NSW) to protect individuals' privacy and psychological well-being in sensitive cases. 
       - It highlights the balance between the public interest in open justice and the need to protect vulnerable parties from the potential negative impacts of litigation on their mental health and personal life. 
@@ -1250,9 +1258,9 @@ Week 12: Appeals
 ## Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Periods 
 
 - Alternative Dispute Resolution (ADR)
-  - Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers) 
+  - Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers) 
     - Accordingly, it falls to the lawyer to educate the client as to the options for dispute resolution
-      - A practitioner must inform the client or the instructing practitioner about the alternatives to fully contested adjudication of the case which are reasonably available to the client, unless the practitioner believes on reasonable grounds that the client already has such an understanding of those alternatives as to permit the client to make decisions about the client’s best interests in relation to the litigation
+      - A practitioner must inform the client or the instructing practitioner about the alternatives to fully contested adjudication of the case which are reasonably available to the client, unless the practitioner believes on reasonable grounds that the client already has such an understanding of those alternatives as to permit the client to make decisions about the client's best interests in relation to the litigation
     - Alternative Dispute Resolution ADR Def
       - an umbrella term for processes, other than judicial determination, in which an impartial person assists those in a dispute to resolve the issues between them
       - AKA Appropriate Dispute Resolution
@@ -1261,12 +1269,12 @@ Week 12: Appeals
     - Play to Win (Legal Negotiations Are a Zero-Sum Game)
       - Legal negotiations are about winning and playing to win. 
         - Playing to win means regarding negotiation as a zero-sum game
-          - A zero-sum game is a conception of bargaining in which one side’s loss is the other side’s gain
+          - A zero-sum game is a conception of bargaining in which one side's loss is the other side's gain
         - When information is only about winning, a culture of secrecy and non- disclosure develops in legal negotiations that borders on the paranoid.
         - Disclosure is giving away an advantage
     - ADR vs Court
       - ADR
-        - The adversarial system’s disadvantages, such as delay and cost, support the use of ADR
+        - The adversarial system's disadvantages, such as delay and cost, support the use of ADR
         - ADR is friendlier to both sides, especially parties with ongoing commercial relationships
       - Court
         - The courts wield the power of the State, 
@@ -1274,11 +1282,11 @@ Week 12: Appeals
         - ensure procedural fairness and render binding decisions in public that authoritatively state the law for the parties and society at large
     - Why companies often litigate
       - Generally, companies tend to litigate rather than employ ADR when: 
-        - (a) an important principle is involved, eg, the credibility of one’s product; 
+        - (a) an important principle is involved, eg, the credibility of one's product; 
         - (b) there is a need for legal precedent; 
         - (c) there is a need to send a message to the marketplace; 
         - (d) settlement would open the floodgates to frivolous litigation;
-        - (e) the claim is so large that the “discipline of litigation” is called for; 
+        - (e) the claim is so large that the "discipline of litigation" is called for; 
         - (f) the claim is bogus, eg, the business organization is in the case solely because of its deep pockets, or perhaps because it made a product in the chain of distribution even though the product had nothing to do with the alleged harm; 
         - (g) the law is heavily weighted in its favour ...; 
         - (h) senior management is unalterably opposed to settlement; 
@@ -1362,11 +1370,11 @@ Week 12: Appeals
       - Note option of rehearing: CPA ss 42-47
   - Negotiation 
     - Negotiation keywords
-      - Position: what a person says they want – a demand e.g. ‘I want $1,000,000 in damages for a breach of contract’ is a position.
-      - Interest: why the person has that position – the need, desire, fears or concerns behind the demand e.g. ‘I want the $1,000,000 because I need to shore up my business and be in a position to take future orders.’
+      - Position: what a person says they want – a demand e.g. 'I want $1,000,000 in damages for a breach of contract' is a position.
+      - Interest: why the person has that position – the need, desire, fears or concerns behind the demand e.g. 'I want the $1,000,000 because I need to shore up my business and be in a position to take future orders.'
     - Negotiation styles
       - Positional negotiation:
-        - based on parties’ respective positions or claims;
+        - based on parties' respective positions or claims;
         - linear and reciprocal concession-making moving towards a compromise;
         - adversarial and potentially damages relationships.
       - Interest-based negotiation:
@@ -1390,7 +1398,7 @@ Week 12: Appeals
       - A court must possess both in order to exercise judicial power over a person/entity.
     - Subject matter jurisdiction
       - s 23 of the Supreme Court Act 1970 (NSW): 
-        - ‘The Court shall have all jurisdiction which may be necessary for the administration of justice in New South Wales.’
+        - 'The Court shall have all jurisdiction which may be necessary for the administration of justice in New South Wales.'
       - Supreme Court divided into two main divisions:
         - the Common Law Division, which deals with civil, criminal and administrative law matters; and
         - the Equity Division hears cases involving commercial law, corporations law, equity, trusts, probate and matters pursuant to family provisions legislation.
@@ -1412,14 +1420,14 @@ Week 12: Appeals
         - the Jurisdiction of Courts (Cross-Vesting) Act 1987 (NSW). 
   - Transferring proceedings between courts
     - Discussing s 5 of the Jurisdiction of Courts (Cross-Vesting) Act 1987 (NSW): 
-      - ‘Section 5(1) provides for the transfer of proceedings from the Supreme Court to the Federal Court or Family Court; 
+      - 'Section 5(1) provides for the transfer of proceedings from the Supreme Court to the Federal Court or Family Court; 
       - s 5(2) provides for the transfer of proceedings from the Supreme Court to the Supreme Court of another State or Territory; 
       - s 5(3) for the transfer of proceedings in the Supreme Court of another State or Territory to the NSW Supreme Court; 
       - s 5(4) for the transfer of proceedings from the Federal or Family Court to the Supreme Court
   - Three considerations in transferring proceedings – s 5 Cross-Vesting Act
-    - 1. Whether, apart from the cross-vesting scheme ‘the relevant proceeding or a substantial part of it’ would have been incapable of being instituted in the court in question
+    - 1. Whether, apart from the cross-vesting scheme 'the relevant proceeding or a substantial part of it' would have been incapable of being instituted in the court in question
       - i.e. would the chosen Court have had the capacity to hear the dispute in the absence of the cross-vesting legislation;
-    - 2. The extent to which the case involved an issue of ‘the application, interpretation or validity of a law’ of the receiving court; and
+    - 2. The extent to which the case involved an issue of 'the application, interpretation or validity of a law' of the receiving court; and
     - 3. The interests of justice.
   - The interests of justice
     - BHP Billiton Ltd v Schultz (2004) 221 CLR 400 establishes that the interests of justice are broader than the interests of one party – rather, it involves weighing the interests of all the parties.
@@ -1445,8 +1453,8 @@ Week 12: Appeals
       - s 14(1)(a): for most breaches of contract, six year limitation period.
       - s 14(1)(b): six year limitation period for most species of tort.
       - s 27(2): twelve year limitation period in cases involving the recovery of land for people other than the Crown..
-      - s 50C(1): in cases of personal injury, three years post discovering the cause of action, or twelve years in the event you don’t discover it, whichever expires first
-  - [l]awyers may use ADR not for the accomplishment of a ‘better’ result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage”
+      - s 50C(1): in cases of personal injury, three years post discovering the cause of action, or twelve years in the event you don't discover it, whichever expires first
+  - [l]awyers may use ADR not for the accomplishment of a 'better' result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage"
   - TYPES OF ADR PROCESSES
     - Facilitative dispute resolution processes 
       - are processes in which a dispute resolution practitioner assists the parties to a dispute to identify the disputed issues, develop options, consider alternatives and endeavour to reach an agreement about some issues or the whole dispute. 
@@ -1488,7 +1496,7 @@ Week 12: Appeals
     - It involves a facilitated negotiation aimed at reaching an agreement. 
     - A neutral third party (the mediator) assists and facilitates an agreement between the parties.
   - Role of the lawyer	
-    - Scale of Lawyer’s role - Less to Most involvement scale
+    - Scale of Lawyer's role - Less to Most involvement scale
       - Absent advisor
         -  assists the client to prepare for the mediation but does not attend the mediation session itself.
       - Advisor observer
@@ -1518,16 +1526,16 @@ Week 12: Appeals
         - This is an opportunity to communicate directly with an opponent and a mediator.
     - Elements
       - Heading: 
-        - it should be headed up with the names and description of the parties (eg, plaintiff, lessor or sub- contractor) and marked “Without Prejudice and for use in the Mediation only”.
+        - it should be headed up with the names and description of the parties (eg, plaintiff, lessor or sub- contractor) and marked "Without Prejudice and for use in the Mediation only".
       - Formalities: 
         - it should also include the date and time of the mediation, the name of the mediator, a list of the individuals attending the mediation on behalf of the party on whose behalf the statement is made, and their connection with the dispute
       - Issues: 
         - it should identify the issues in the case, both legal and factual. 
         - The statement should also identify the key issues that are of vital importance to the parties at the date of the mediation
-      - Outline of the party’s case on issues: 
-        - the statement needs to clearly set out the party’s position in relation to each of the issues
-        - The statement may make brief reference to statements of case, key documents or evidence, and matters of law that support the party’s position
-      - The party’s interests and objectives: 
+      - Outline of the party's case on issues: 
+        - the statement needs to clearly set out the party's position in relation to each of the issues
+        - The statement may make brief reference to statements of case, key documents or evidence, and matters of law that support the party's position
+      - The party's interests and objectives: 
         - the key objectives that the party wants to achieve at the mediation should be identified.
   - Duty to act in good faith
     - S 27
@@ -1596,7 +1604,7 @@ Week 12: Appeals
     - A quasi-judicial process
     - The dispute is submitted to a third party (an arbitrator) who renders a binding determination (an award
   - Re Carus-Wilson & Greene (1886) 18 QBD 7,
-    - determinative feature of an arbitration as being an “inquiry in the nature of a judicial inquiry”
+    - determinative feature of an arbitration as being an "inquiry in the nature of a judicial inquiry"
   - Arbitration elements
     - Arenson v Casson Beckman Rutley & Co [1977] AC 40
       - (a) there is a dispute or a difference between the parties which has been formulated in some way or another; 
@@ -1655,7 +1663,7 @@ Week 12: Appeals
     - Law/Statute in Contention: 
       - Application of Rule 20.14 for referral to a referee, considering the case's intricacies and the potential for expedited, cost-effective resolution.
     - Precedences: 
-      - Reference to Ritchie’s Uniform Civil Procedure New South Wales on the discretionary nature of Rule 20.14.
+      - Reference to Ritchie's Uniform Civil Procedure New South Wales on the discretionary nature of Rule 20.14.
     - Judicial Opinions and Interpretation: 
       - Campbell J considered the benefits of referral to a referee, such as speed and flexibility, against potential drawbacks like lack of finality and legal complexities.
     - Legal Reasoning: 
@@ -1737,19 +1745,19 @@ Week 12: Appeals
     - LIMITATION PERIODS 
       - Time period to bring a claim
     - The rationale for imposing limitation periods - Brisbane South Regional Health Authority v Taylor [1996] HCA 25; (1996) 186 CLR 541
-      - The enactment of time limitations has been driven by the general perception that “[w]here there is delay the whole quality of justice deteriorates” [R v Lawrence [1982] AC 510 at 517
+      - The enactment of time limitations has been driven by the general perception that "[w]here there is delay the whole quality of justice deteriorates" [R v Lawrence [1982] AC 510 at 517
       - A verdict may appear well based on the evidence given in the proceedings, but, if the tribunal of fact had all the evidence concerning the matter, an opposite result may have ensued
       - four broad rationales for the enactment of limitation periods.
         - 1. As time goes by, relevant evidence is likely to be lost [Jones v Bellgrove Properties Ltd [1949] 2 KB 700 at 704
-        - 2. It is oppressive, even “cruel”, to a defendant to allow an action to be brought long after the circumstances which gave rise to it have passed [RB Policies at Lloyd’s v Butler [1950] 1 KB 76
+        - 2. It is oppressive, even "cruel", to a defendant to allow an action to be brought long after the circumstances which gave rise to it have passed [RB Policies at Lloyd's v Butler [1950] 1 KB 76
         - 3. People should be able to arrange their affairs and utilise their resources on the basis that claims can no longer be made against them
         - 4. Public interest requires that disputes be settled as quickly as possible.
   - Specific limitations Chart
   - 
 ## Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Causes of Action, and Drafting Pleadings
 
-- Proceedings commenced by the ‘originating process’
-  - s 3 of the CPA: the originating process ‘means the process by which proceedings are commenced...’
+- Proceedings commenced by the 'originating process'
+  - s 3 of the CPA: the originating process 'means the process by which proceedings are commenced...'
   - r 6.2(1) of the UCPR: our originating process can take two forms:
     - A statement of claim; or
     - A summons.
@@ -1764,7 +1772,7 @@ Week 12: Appeals
   - 
   - Statement of claim or a summons?
     - In general terms, statements of claim are usually required where the proceedings involve disputed contentions of fact and they will initiate the pre-trial and trial processes for that purpose. 
-    - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue.’
+    - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue.'
       - Kumar, Legg, Vickovich & Metzger, Civil Procedure in New South Wales (Lawbook Co, 2020), 488. 
     - r 6.3: proceedings required to be commenced by a statement of claim include:
       - a claim for relief in relation to a debt or other liquidated claim;
@@ -1779,9 +1787,9 @@ Week 12: Appeals
       - proceedings for preliminary discovery or inspection under Part
     - Touchstone: statements of claim used where we have substantive disputes involving contested questions of fact, whereas summons apply more to technical situations involving a question of law
   - What are pleadings?
-    - Pleadings def are formal documents filed in court and exchanged between the parties that set out the plaintiff’s claim and the defendant’s response to the claim. 
-    - The UCPR Dictionary indicates that ‘pleading’ includes a statement of claim, defence, reply and any subsequent pleading for which leave ... but does not include a summons or notice of motion’: Kumar, Legg, Vickovich & Metzger, 493.
-    - ‘The function of pleadings is to state with sufficient clarity the case that must be met...In this way, pleadings serve to ensure the basic requirement of procedural fairness that a party should have the opportunity of meeting the case against him or her and, incidentally, to define the issues for decision’: Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279 at [18]
+    - Pleadings def are formal documents filed in court and exchanged between the parties that set out the plaintiff's claim and the defendant's response to the claim. 
+    - The UCPR Dictionary indicates that 'pleading' includes a statement of claim, defence, reply and any subsequent pleading for which leave ... but does not include a summons or notice of motion': Kumar, Legg, Vickovich & Metzger, 493.
+    - 'The function of pleadings is to state with sufficient clarity the case that must be met...In this way, pleadings serve to ensure the basic requirement of procedural fairness that a party should have the opportunity of meeting the case against him or her and, incidentally, to define the issues for decision': Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279 at [18]
   - Pleadings – some general points of significance
     - Two general points of significance which should be taken into account regarding pleadings generally:
       - 1. Pleadings must be drafted and read very carefully for two main reasons:
@@ -1797,7 +1805,7 @@ Week 12: Appeals
     - r 14.8: pleadings as brief as the nature of the case allows
   - Particulars
     - What are particulars def? Bruce v Odhams Press Ltd [1936] 1 KB 697, 712-713:
-      - broadly, the purpose of particulars is ‘to fill in the picture of the plaintiff’s cause of action with information sufficiently detailed to put the defendant on his guard as to the case he has to meet and to enable him to prepare for trial.’
+      - broadly, the purpose of particulars is 'to fill in the picture of the plaintiff's cause of action with information sufficiently detailed to put the defendant on his guard as to the case he has to meet and to enable him to prepare for trial.'
     - Examples of distinction based on hypothetical of reckless bulldozer driver:
         - Pleading: the building collapsed on a certain date, caused by the negligence of the defendant;
         - Particular: the excavator failed to exercise due care when conducting the excavation. 
@@ -1811,12 +1819,12 @@ Week 12: Appeals
   - Joining parties
     - Joining parties def: broadly, where two or more plaintiffs or two or more defendants have interests in common, rather than having multiple proceedings heard separately, we can deal with their interests in the one proceeding.
     - r 6.19: parties can be joined where:
-      - ‘(a) separate proceedings...would give rise to a common question of law or fact, and
-      - (b)all rights of relief claimed in the originating process are in respect of, or arise out of, the same transaction or series of transactions, or if the court gives leave for them to be joined.’
+      - '(a) separate proceedings...would give rise to a common question of law or fact, and
+      - (b)all rights of relief claimed in the originating process are in respect of, or arise out of, the same transaction or series of transactions, or if the court gives leave for them to be joined.'
   - Joining parties cont.
     - What is a transaction for the purposes of r 6.19?
-      - ‘The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of ‘transaction’ in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
-      - It may mean simply an act by one party which affects another, thereby binding the two parties in a ‘transaction’ for the purposes of potential litigation’: 
+      - 'The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of 'transaction' in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
+      - It may mean simply an act by one party which affects another, thereby binding the two parties in a 'transaction' for the purposes of potential litigation': 
         - Kumar, Legg, Vickovich & Metzger, 389-390.
   - Joining causes of action
     - r 6.18 is the key provision.
@@ -1835,7 +1843,7 @@ Week 12: Appeals
     - Clearly, the common law favours the resolution of particular disputes between parties by the bringing of a single action rather than successive proceedings. 
     - The principles of res judicata, issue estoppel, and what has come to be known as Anshun estoppel, all find their roots in that policy. 
   - Res judicata def
-    - meaning “a matter already judged”, and sometimes referred to as “cause of action estoppel”
+    - meaning "a matter already judged", and sometimes referred to as "cause of action estoppel"
     - Issue estoppel may preclude a particular issue or matter in previous proceedings from being raised in any subsequent proceedings. 
     - Finally, Anshun estoppel def applies to a claim that could have been, but was not, made in the earlier proceedings
   - Joining plaintiffs 
@@ -1847,19 +1855,19 @@ Week 12: Appeals
   - Joining defendants 
     - Different defendants can be joined in the same proceedings if the claim of relief against each defendant arises out of the same transaction (or series of transactions) and the causes of action give rise to a common question of law or fact. 
   - What is a transaction? 
-    - The meaning of “transaction” is not settled and the term is not defined in the Dictionary of the UCPR. 
-    - The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of “transaction” in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
+    - The meaning of "transaction" is not settled and the term is not defined in the Dictionary of the UCPR. 
+    - The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of "transaction" in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
     -  Bendir v Anson [1936] 3 All ER 326. 
-      - The plaintiffs were owners of adjoining buildings who were affected in different ways by the defendant’s construction of a new building across the road.
-      - Lord Wright MR in the Court of Appeal discussed the preferable meaning of “transaction” and held there was no common question of fact. Because of that, it was preferable to exercise the court’s discretion in favour of separate trials.
+      - The plaintiffs were owners of adjoining buildings who were affected in different ways by the defendant's construction of a new building across the road.
+      - Lord Wright MR in the Court of Appeal discussed the preferable meaning of "transaction" and held there was no common question of fact. Because of that, it was preferable to exercise the court's discretion in favour of separate trials.
     - Birtles v Commonwealth [1960] VR 247. 
-      - the notion of “transaction” was given a broader interpretation than in Bendir v Anson
+      - the notion of "transaction" was given a broader interpretation than in Bendir v Anson
       - Facts
         - In that case the plaintiff, while at work digging a hole, used a crowbar that contacted a high-voltage underground cable. He suffered an electric shock and sued the occupier of the land (the Commonwealth), the State Electricity Commission (SEC) and his employer. 
         - All defendants claimed that the relevant limitation period had expired. 
-        - The SEC also claimed that it had not received the required statutory notice of the plaintiff’s intention to sue. 
+        - The SEC also claimed that it had not received the required statutory notice of the plaintiff's intention to sue. 
         - After the defences had been filed, the plaintiff changed his solicitor and sought to add his former solicitor as a new defendant in the proceedings in an action for negligence in the event that he failed against the existing defendants
-      - Adam J held that the “transaction” included the accident and injury to the plaintiff as well as the matters relating to the litigation and the limitation issue
+      - Adam J held that the "transaction" included the accident and injury to the plaintiff as well as the matters relating to the litigation and the limitation issue
     -  Payne v Young (1980) 145 CLR 609
       - Procedural History
         - The plaintiffs, operators of different Western Australian abattoirs, challenged the validity of regulations under which inspection fees were levied for carcass inspections by state authorities.
@@ -1930,7 +1938,7 @@ Week 12: Appeals
     - Can solve one issue with multiple different points of contention, but not multiple issues that have different facts but same issue. 
       - Bray v F Hoffmann-La Roche Ltd (2003) 130 FCR 317
 - Initiating Proceedings and Pleadings 
-  - Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the “originating process” as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
+  - Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the "originating process" as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
     - THE ORIGINATING PROCESS 
       - proceedings are initiated by using either a statement of claim or summons: UCPR r 6.2.
       - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue. UCPR r 6.4
@@ -1939,12 +1947,12 @@ Week 12: Appeals
       - Information that must be contained in the originating process is prescribed, as are the paper and margin sizes, those parts of the document that must be in bold print, and the requirements for a proper address for service. 
         - The originating process should also specifically state the relief claimed: UCPR r 6.12
   - APPEARANCE 
-    - The defendant may file an appearance or a defence and serve it on the plaintiff’s address for service as indicated on the plaintiff’s statement of claim or summons. 
+    - The defendant may file an appearance or a defence and serve it on the plaintiff's address for service as indicated on the plaintiff's statement of claim or summons. 
     - Regulated by rr 6, 7, and 12
     - Entering an appearance formally notifies the court and the plaintiff that the defendant intends to take some part in the proceedings and may indicate a submission to the jurisdiction.
     - It also acts as a waiver to object to any possibility that the originating process has failed to comply with the rules.
   - PLEADINGS 
-    - Pleadings are formal documents filed in court and exchanged between the parties that set out the plaintiff’s claim and the defendant’s response to the claim. 
+    - Pleadings are formal documents filed in court and exchanged between the parties that set out the plaintiff's claim and the defendant's response to the claim. 
       - includes a statement of claim, defence, reply and any subsequent pleading for which leave is given under Pt 14, but does not include a summons or notice of motion.
       - R 14 regulations
       - Pleadings may be amended and, with leave of the court, even at the stage of trial. 
@@ -1955,7 +1963,7 @@ Week 12: Appeals
       - Reason for Trial
         - The appeal focused on several key issues, including whether Malla breached the contract as pleaded, whether Temple was entitled to damages despite the pleading, the operation of Malla's guarantee, the composition of the May 23 agreement, and the interpretation of "unable to pay" within that agreement.
       - Material Facts
-        - Temple argued that Malla had breached a clause (cl 9.3) in the contract intended to protect Temple’s confidential information by engaging in activities with two Indian film projects without involving Temple for production management services.
+        - Temple argued that Malla had breached a clause (cl 9.3) in the contract intended to protect Temple's confidential information by engaging in activities with two Indian film projects without involving Temple for production management services.
       - Issue Raised
         - The appeal raised questions about the interpretation and enforcement of contractual obligations, the scope of a guarantee, and the impact of mischaracterization in pleadings on the outcome of a case.
       - Law(s)/Statute(s) in Contention
@@ -1967,14 +1975,14 @@ Week 12: Appeals
         - The court's decision centered on the notion that a case can be decided based on the facts and evidence presented at trial, even if they diverge from the specific claims or defenses pleaded. 
         - This approach is contingent on ensuring that such a decision does not unfairly prejudice the opposing party.
       - Conclusion and Relevance to Modern Law
-        - The Films and Casting Temple v Malla case underscores the NSW Court of Appeal’s approach to dealing with issues of contractual interpretation, the importance of clear and accurate pleading in litigation, and the discretion of courts to grant relief based on the substance of the evidence presented, rather than being overly constrained by the technicalities of pleadings. 
+        - The Films and Casting Temple v Malla case underscores the NSW Court of Appeal's approach to dealing with issues of contractual interpretation, the importance of clear and accurate pleading in litigation, and the discretion of courts to grant relief based on the substance of the evidence presented, rather than being overly constrained by the technicalities of pleadings. 
         - This decision reaffirms the principle that legal disputes should be resolved based on their merits, with due consideration for procedural fairness and the real issues in controversy, as evidenced by the conduct of the trial.
     - Young v Hones [2014] NSWCA 337, the New South Wales Court of Appeal confirmed that a reply should be used to respond to allegations in the defence. 
       - It is not appropriate to use a reply to raise new allegations or causes of action against the defendant. 
       - This would require an application to amend the statement of claim.
     - Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279
       - [Akhil Holdings Ltd (Akhil) sued the Banque Commerciale (the bank), Deauville Nominees Pty. Limited (Deauville), and a Mr Messara for breach of trust for transferring shares without authority
-      - A copy of the reply to Messara was served on the bank, but Akhil did not file or serve a formal reply to the bank’s limitation defence. 
+      - A copy of the reply to Messara was served on the bank, but Akhil did not file or serve a formal reply to the bank's limitation defence. 
         - If Akhil had made a reply alleging fraud the bank would have been entitled to details of the fraud alleged.
       - The bank appealed to the High Court of Australia where one of the main issues was whether the Court of Appeal could make a finding of fraud against the bank when that issue was not raised on the pleadings against it.
         - The fraud allegation was raised only in the pleadings against Deauville and Messara.] 
@@ -1985,37 +1993,37 @@ Week 12: Appeals
         - The Court held that relief is generally confined to what is claimed in the pleadings unless parties deliberately choose a different basis for determining their rights and liabilities.
         - parties are entitled to know and respond to the case against them as defined by pleading
     - ASIC v Rich [2006] NSWSC 712
-      - Each objection asserted that the line of questioning was outside ASIC’s pleadings and amount to an attempt to establish a previously unpleaded case
+      - Each objection asserted that the line of questioning was outside ASIC's pleadings and amount to an attempt to establish a previously unpleaded case
       - Pleadings 
         - Upheld Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279
         - The plaintiff is entitled to attack in cross-examination evidence going to matters raised in a defence, though not in the statement of claim.
-          - Defendant can respond to assertions made by Plaintiff, it’s not raising new content, but addressing content from their pleadings
+          - Defendant can respond to assertions made by Plaintiff, it's not raising new content, but addressing content from their pleadings
     - Young v Hones [2014] NSWCA 337
       - Original Dispute
         - The dispute involved proceedings in the Land and Environment Court over a neighborhood drainage problem that were settled by consent orders. 
         - Years later, Young attempted to set aside these orders due to unresolved issues and sued her lawyer and engineering expert for negligent advice.
       - Reason for Trial
-        - The trial examined the applicability of advocate’s immunity and witness immunity raised by the lawyer and the expert, respectively, as defenses against Young's claims.
+        - The trial examined the applicability of advocate's immunity and witness immunity raised by the lawyer and the expert, respectively, as defenses against Young's claims.
       - Material Facts
         - Young's attempts to reopen the settled case and sue her advisers were met with immunity defenses. 
         - The trial judge decided that these immunities were a complete answer to Young's claims, dismissing them before the close of pleadings.
       - Issue Raised
-        - The main issue on appeal was whether the trial judge erred by deciding on the immunities as complete defenses before Young had the opportunity to file a reply, where she intended to allege bad faith, potentially affecting the applicability of the advocate’s immunity.
+        - The main issue on appeal was whether the trial judge erred by deciding on the immunities as complete defenses before Young had the opportunity to file a reply, where she intended to allege bad faith, potentially affecting the applicability of the advocate's immunity.
       - Law(s)/Statute(s) in Contention
-        - The case centered around the principles of pleading and the specific application of advocate’s immunity and witness immunity in civil litigation.
+        - The case centered around the principles of pleading and the specific application of advocate's immunity and witness immunity in civil litigation.
       - Judicial Opinions and Interpretation
         - Ward JA: Highlighted that new claims or causes of action should not be introduced in a reply, and that a reply should not contradict the initial claim.
         - The rationale is to ensure clarity and efficiency in litigation, preventing unnecessary proliferation of documentation and associated costs and delays.
       - Ratio Decidendi
         - The Court of Appeal upheld the trial judge's dismissal of Young's claims, emphasizing that allegations of bad faith must be made in the statement of claim, not in the reply. 
-        - The court reasoned that a procedural decision had been made to proceed with the hearing on separate questions of law regarding immunities before the close of pleadings, with Young’s consent.
+        - The court reasoned that a procedural decision had been made to proceed with the hearing on separate questions of law regarding immunities before the close of pleadings, with Young's consent.
       - Conclusion and Relevance to Modern Law
         - This case reaffirms the importance of adhering to procedural rules and the structure of pleadings in civil litigation, particularly in New South Wales. 
         - It demonstrates the constraints on introducing new allegations outside the statement of claim and the significance of consent in procedural decisions. 
-        - The decision also underscores the protective scope of advocate’s and witness immunities, even when there is a suggestion of bad faith, unless properly pleaded against in the initial stages of litigation.
+        - The decision also underscores the protective scope of advocate's and witness immunities, even when there is a suggestion of bad faith, unless properly pleaded against in the initial stages of litigation.
   - Material facts
     - material facts def will be those facts that are critical to supporting each of the elements of the cause of action. 
-    - Charlie Carter Pty Ltd v The Shop, Distributive and Allied Employees’ Association of Western Australia (1987) 13 FCR 413
+    - Charlie Carter Pty Ltd v The Shop, Distributive and Allied Employees' Association of Western Australia (1987) 13 FCR 413
       - There are certain levels of generality of pleading which, while they may bring in all facts necessary to establish a cause of action, are insufficient for the purpose of properly informing the defendant of the case it has to meet
         - Bruce v Odhams Press Ltd - The cause of action must be alleged with particularity
   - Evidence 
@@ -2027,7 +2035,7 @@ Week 12: Appeals
         - This part was negligent in setting xyz up. - wrong
     - Kirby v Sanderson Motors Pty Ltd [2002] NSWCA 44;
       - Hodgson JA
-        - Material” means material to the claim, that is, to the cause or causes of action which are relied on. 
+        - Material" means material to the claim, that is, to the cause or causes of action which are relied on. 
         - (2) The requirement of a statement of material facts does not exclude the allegation of legal categories, such as duty of care, fiduciary duty, trust and contract. 
         - (3) The general requirement to avoid surprise means that material facts must be stated in such a way that a defendant can understand the materiality of the facts, that is, how they are material to a cause of action.
     - Markisic v Department of Community Services of New South Wales (No 2) [2006] NSWCA 321
@@ -2054,14 +2062,14 @@ Week 12: Appeals
         - Appeal failed
   - Glover v Australian Ultra Concrete Floors Pty Ltd [2003] NSWCA 80
     - [The appellant appealed a decision at trial that he did not injure himself at work in the way he asserted.] 
-    - The failure to plead the positive case asserted at the trial was, however, contrary to the surprise rule and goes a long way, on its own, in providing a satisfactory explanation for the appellant’s failure to call more witnesses to bolster his case that an accident occurred as alleged by him.
+    - The failure to plead the positive case asserted at the trial was, however, contrary to the surprise rule and goes a long way, on its own, in providing a satisfactory explanation for the appellant's failure to call more witnesses to bolster his case that an accident occurred as alleged by him.
     - Heydon JA in Nowlan v Marson Transport Pty Limited [2001] NSWCA 346; (2001) 53 NSWLR 116 approved the statement of Allsop J in White v Overland [2001] FCA 1333 at [4] that: 
       - [I] t should always be recognised that in the propounding of issues for trial the parties should take steps to ensure that all relevant parties to the dispute are cognisant of what the issues are
-    - The respondent’s non-admission plea in answer to the appellant’s detailed description of the accident contained in the statement of claim, together with reliance by the respondent on the workers compensation payments made by it, would have resulted in the appellant being taken by surprise when, during the course of the trial, it was first made plain that the respondent was seeking to make an affirmative case in regard to the question whether the appellant was injured by an accident at work in the manner asserted by him.
+    - The respondent's non-admission plea in answer to the appellant's detailed description of the accident contained in the statement of claim, together with reliance by the respondent on the workers compensation payments made by it, would have resulted in the appellant being taken by surprise when, during the course of the trial, it was first made plain that the respondent was seeking to make an affirmative case in regard to the question whether the appellant was injured by an accident at work in the manner asserted by him.
   - Verification 
     - Traditionally, material facts contained in pleadings were not assertions of their truth. 
-    - They were merely considered “written identification and communications of the extent of the plaintiff’s claim”
-    -  UCPR r 14.23 requires a party’s pleading to be verified by affidavit which is made on the pleading
+    - They were merely considered "written identification and communications of the extent of the plaintiff's claim"
+    -  UCPR r 14.23 requires a party's pleading to be verified by affidavit which is made on the pleading
       - Far as they believe, true
   - PARTICULARS 
     - Particulars are details of the material facts on which the party relies in his or her pleadings. 
@@ -2074,14 +2082,14 @@ Week 12: Appeals
       - Cosmidis, a tanker driver employed by D M & B P Wiskich Pty Ltd (Wiskich), was injured by a forklift driven by a Boral Bricks Ltd (Boral) employee after delivering fuel to Boral's premises. 
       - Cosmidis sued Boral for negligence, and Boral, in turn, joined Wiskich to the proceedings, seeking to reduce any damages payable to Cosmidis by alleging Wiskich's negligence.
     - Reason for Trial
-      - The trial focused on Boral’s negligence and the applicability of section 151Z of the Workers Compensation Act 1987 (NSW) regarding the reduction of damages due to Wiskich's alleged negligence.
+      - The trial focused on Boral's negligence and the applicability of section 151Z of the Workers Compensation Act 1987 (NSW) regarding the reduction of damages due to Wiskich's alleged negligence.
     - Material Facts
       - Boral pleaded a general reliance on section 151Z for reducing damages but did not provide particulars of Wiskich's alleged breaches of duty. 
       - The trial judge refused Boral's late attempt to amend its defense to specify these breaches.
     - Issue Raised
       - Whether Boral was required to provide particulars of the alleged negligence by Wiskich under section 151Z and if the failure to do so affected the outcome of the trial.
     - Law(s)/Statute(s) in Contention
-      - Section 151Z of the Workers Compensation Act 1987 (NSW) and its application in cases where a defendant seeks to reduce liability for damages by attributing negligence to a worker’s employer.
+      - Section 151Z of the Workers Compensation Act 1987 (NSW) and its application in cases where a defendant seeks to reduce liability for damages by attributing negligence to a worker's employer.
     - Judicial Opinions and Interpretation
       - Basten JA: Emphasized the importance of particulars in pleadings, especially when a defendant wishes to benefit from section 151Z(2) of the Workers Compensation Act. 
       - Basten JA referred to precedent and clarified that identifying material facts in pleadings prevents surprises and ensures fairness in legal proceedings.
@@ -2120,23 +2128,23 @@ Week 12: Appeals
     - Designed to ensure the document is brought to the attention of the person being served.
     - An important component of the rule of law & necessary to enliven the jurisdiction of the Court.
   - Service – some rules
-    - A general departure point, r 10.1(1): ‘(1) Unless the court orders otherwise, a party that files a document must as soon as practicable serve copies of the document on each other active party.’
+    - A general departure point, r 10.1(1): '(1) Unless the court orders otherwise, a party that files a document must as soon as practicable serve copies of the document on each other active party.'
     - r 10.5: specifies the general ways by which service can be effected. 
       - Service quite simple once proceedings are underway.
     - r 10.20(2)(a): originating documents in the Supreme Court have to be personally served.
   - What is involved in personal service?
     - Personal service can be effected by plaintiff – more commonly it is by a process server or the NSW Sheriff.
     - r 10.21:
-      - ‘(1) Personal service of a document on a person is effected by leaving a copy of the document with the person or, if the person does not accept the copy, by putting the copy down in the person’s presence and telling the person the nature of the document.
+      - '(1) Personal service of a document on a person is effected by leaving a copy of the document with the person or, if the person does not accept the copy, by putting the copy down in the person's presence and telling the person the nature of the document.
         -  Ainsworth v Redd 
-          - where the defendant told the process server to give it to his representative who was standing next to him and afterward the defendant was heard to say: “We’d better look at these”
+          - where the defendant told the process server to give it to his representative who was standing next to him and afterward the defendant was heard to say: "We'd better look at these"
         - Graczyk v Graczyk
-          - the requirement of placing the document in the person’s presence was fulfilled by pushing it under a locked door. 
+          - the requirement of placing the document in the person's presence was fulfilled by pushing it under a locked door. 
         - Re Hudson; Ex parte G E Crane & Sons Ltd
           - it was satisfied by attaching the document to the front of a locked door and at the same time telling the defendant that this was occurring. 
         - Lawindi; Re Elkateb v Elkateb 
           - Stone J said the requirement that the nature of the document be explained is not demanding and need not be done if the nature of the document is clear on its face
-      - (2) If, by violence or threat of violence, a person attempting service is prevented from approaching another person for the purpose of delivering a document to the other person, the person attempting service may deliver the document to the other person by leaving it as near as practicable to that other person.’
+      - (2) If, by violence or threat of violence, a person attempting service is prevented from approaching another person for the purpose of delivering a document to the other person, the person attempting service may deliver the document to the other person by leaving it as near as practicable to that other person.'
     - r 35.8: affidavit of service required.
   - Personal service on corporations/business entities
     - rr 10.9-10.11: service on defendants operating under a registered/unregistered business name or in a partnership is effected by:
@@ -2152,13 +2160,13 @@ Week 12: Appeals
     - Order for substituted service will specify the steps required for service to be effected.
   - Limits to substituted service
     - In order to prevent substituted service being the norm, there are two central considerations:
-      - 1. Substituted service only applies where the kind of service envisaged by the UCPR cannot be practically undertaken – sometimes referred to as “practical impossibility”. 
+      - 1. Substituted service only applies where the kind of service envisaged by the UCPR cannot be practically undertaken – sometimes referred to as "practical impossibility". 
         - The applicant should have made efforts to effect service properly,and/or should lead evidence to prove that such an effort would be futile – see Munkarra v Fischer (1980) 5 NTR 3;
-      - 2. The Court has to be satisfied that the proposed alternative means of service is reasonably likely to bring the proceedings to the defendant’s attention – see Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 268.
+      - 2. The Court has to be satisfied that the proposed alternative means of service is reasonably likely to bring the proceedings to the defendant's attention – see Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 268.
     - Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 
       - Procedural History:
         - Flo Rida entered a contract to perform at a music festival in Newcastle in 2011 but did not appear.
-        - The promoter filed a claim for damages in the District Court and obtained a freezing order on Flo Rida’s assets in Australia.
+        - The promoter filed a claim for damages in the District Court and obtained a freezing order on Flo Rida's assets in Australia.
         - The court permitted substituted service via email and Facebook. 
         - Flo Rida appealed the judgment, arguing improper substituted service.
       - Original Dispute: 
@@ -2195,7 +2203,7 @@ Week 12: Appeals
     - Unable initially to effect personal service – Williams is in France.
     - Order for substituted service specifies that:
       - Copies to be left at registered addresses of Toulon Rugby club;
-      - Copies left at Williams’ Sydney residence;
+      - Copies left at Williams' Sydney residence;
       - Text messages sent to what appears to be Williams phone number and that of his manager.
   - Nash v Stewart [2010] NSWSC 513
     - Barrett J held that an order for substituted service could not be made in respect of personal service of a subpoena to give evidence.
@@ -2208,19 +2216,19 @@ Week 12: Appeals
         - In practice, SEPA is almost invariably used.
     - Munkarra v Fisher 
       - the plaintiff was injured in an accident involving a motor cycle in Darwin. 
-      - The offending motor bike was registered and insured in Western Australia, and the rider was a German national who held a Northern Territory and international driver’s licence.
+      - The offending motor bike was registered and insured in Western Australia, and the rider was a German national who held a Northern Territory and international driver's licence.
       - Immigration records showed that he had arrived in Australia two years earlier, and there was no record that he had left. At the time of the accident he was resident in the South Darwin Caravan Park, and his current address was unknown. 
       - The plaintiff showed that the application was not urgent and that incomplete checks of official records (driving licences, electoral rolls, phone books etc) had been undertaken. 
       - The court directed that further checks be undertaken with, for example, the German embassy and German clubs in the relevant areas
   - SEPA
     - s 15 of SEPA:
-      - ‘(1) An initiating process issued in a State may be served in another State.
+      - '(1) An initiating process issued in a State may be served in another State.
       - (2) Service on an individual must be effected in the same way as service of such an initiating process in the place of issue.
-      - (3) Service on a company or a registered body must be effected in accordance with section 9.’
+      - (3) Service on a company or a registered body must be effected in accordance with section 9.'
   - Service internationally
     - Four different methods of service internationally:
       - 1. Service by private means (i.e. using a process server or local agent in the concerned country). Regulated by Part 11, Division 1A of the UCPR;
-      - 2. Service through diplomatic channels i.e. through using the Attorney-General’s office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
+      - 2. Service through diplomatic channels i.e. through using the Attorney-General's office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
       - 3. Service pursuant to the Hague Convention. Regulated by Part 11A of the UCPR; and
       - 4. Service arrangements agreed in bilateral treaties. Service by private means is most important for our purposes.
   - Service by private means
@@ -2229,9 +2237,9 @@ Week 12: Appeals
   - Service by private means cont.
     - Some inbuilt mechanisms to regulate service overseas:
       - r 11.6: if the person served overseas applies to the Supreme Court, then the Supreme Court can decide not to assume jurisdiction and can stay or dismiss the proceedings. 
-        - The Court can do so if the document wasn’t served according to the rules, if the court is clearly an inappropriate forum, or if the case has insufficient prospects of success;
-      - r 11.7: the document served on the party overseas has to include a notice to the defendant informing them of the scope of the jurisdiction of the court, the grounds alleged by the plaintiff to give rise to that jurisdiction, and the person’s right to challenge service of the originating process or the jurisdiction of the court.
-      - r 11.8AA: if you have served your originating document on someone in another country, and they haven’t filed an appearance within the appropriate time-frame, then the plaintiff may only proceed with leave of the Court
+        - The Court can do so if the document wasn't served according to the rules, if the court is clearly an inappropriate forum, or if the case has insufficient prospects of success;
+      - r 11.7: the document served on the party overseas has to include a notice to the defendant informing them of the scope of the jurisdiction of the court, the grounds alleged by the plaintiff to give rise to that jurisdiction, and the person's right to challenge service of the originating process or the jurisdiction of the court.
+      - r 11.8AA: if you have served your originating document on someone in another country, and they haven't filed an appearance within the appropriate time-frame, then the plaintiff may only proceed with leave of the Court
   - Hunter v Hanson [2014] NSWCA 263 
     - the New South Wales Court of Appeal by majority (McColl and Macfarlan JJA; Emmett JA dissenting) dismissed an application for leave to appeal against the decision of the District Court to extend the time for service of a statement of claim
     - The respondent in the appeal had sued the applicant for defamation, and had decided to delay service of the statement of claim for two reasons: 
@@ -2251,7 +2259,7 @@ Week 12: Appeals
     - Mondial Trading Pty Ltd v Interocean Marine Transport Inc
       - an agreement concerning the appropriate jurisdiction to bring a claim was held not to encompass an agreement as to mode of service.
     - Westpac Banking Corp v Thurairajah [2009] NSWSC 442 at [6] per Barrett J
-      - In a case where a bank (the mortgagee) commenced proceedings against the mortgagor for possession of land the subject of a mortgage due to the mortgagor’s default in payments under the mortgage, the court held that a statement of claim could be served by leaving it at the mortgaged property because the mortgage included an express term to that effect
+      - In a case where a bank (the mortgagee) commenced proceedings against the mortgagor for possession of land the subject of a mortgage due to the mortgagor's default in payments under the mortgage, the court held that a statement of claim could be served by leaving it at the mortgaged property because the mortgage included an express term to that effect
 ## Week 7: Evidence in Proceedings
 
 - Evidence in Proceedings
@@ -2265,7 +2273,7 @@ Week 12: Appeals
     - Affidavits that do not comply with rules about form can be struck out.
     - Nevertheless, an affidavit with an irregularity may be used with the leave of the court (r 35.1).
     - NB – limits on who can make affidavits (e.g. limits where under legal incapacity, corporation, the Crown) (r 35.3).
-      - Also limits on use of affidavits made by ‘blind or illiterate persons’ (r 35.7).
+      - Also limits on use of affidavits made by 'blind or illiterate persons' (r 35.7).
     - Deponent may be cross-examined on contents of affidavit (r 35.2).
   - Affidavits – rules of drafting
     - Name of deponent and date sworn or affirmed on front page as a heading: r 35.3A.
@@ -2273,7 +2281,7 @@ Week 12: Appeals
     - All paragraphs numbered consecutively: r 35.4(c).
     - Each paragraph dealing with separate issue or event: r 35.4 (a)&(b).
     - Each page must be signed by deponent and witness: r 35.7B.
-    - Annexures must be clearly identified e.g. This is the annexure marked “A”: r 35.6(2).
+    - Annexures must be clearly identified e.g. This is the annexure marked "A": r 35.6(2).
     - Jurat (which is the formal part at the end of the affidavit) must be completed: r 35.7A.
     - Changes must be initialled or otherwise affidavit cannot be used: r 35.5.
   - Affidavits – some conventions
@@ -2293,12 +2301,12 @@ Week 12: Appeals
     - 
     - 
   - Discovery
-    - Discovery is a pre-trial process whereby one side looks at the other side’s relevant documents or administers interrogatories to the other side. 
+    - Discovery is a pre-trial process whereby one side looks at the other side's relevant documents or administers interrogatories to the other side. 
       - It includes the notion of preliminary discovery.
     - Purpose of discovery is to promote fair trial because:
       - It enables parties to best prepare their case; and
       - Ensures judges will have evidence available to them to decide on the case.
-    - ‘The right is peculiar to the common law jurisdictions. In plain language, litigation in this country is conducted ‘cards face up on the table’...litigation is not a war or even a game. It is designed to do real justice between opposing parties and, if the court does not have all the relevant information, it cannot achieve this object.’: Davies v Eli Lilly & Co [1987] All ER 801, 804.
+    - 'The right is peculiar to the common law jurisdictions. In plain language, litigation in this country is conducted 'cards face up on the table'...litigation is not a war or even a game. It is designed to do real justice between opposing parties and, if the court does not have all the relevant information, it cannot achieve this object.': Davies v Eli Lilly & Co [1987] All ER 801, 804.
   - Limits on discovery
     - Limitations in Supreme Court Equity Division as per Practice Note SC Eq 11:
       - Court will not make an order for disclosure of documents unless there are exceptional circumstances necessitating disclosure.
@@ -2318,7 +2326,7 @@ Week 12: Appeals
     - r 5.2 – two main criteria:
       - 1. Applicant is unable to locate or identify prospective defendant after making reasonable inquiries; and
       - 2. Some other person may have information, or possess documents, that tend to assist locating or identifying defendant.
-    - NB – applicant must “desire” to commence proceedings against the person: Roads and Traffic Authority of New South Wales v Care Park Pty Limited [2012] NSWCA 35.
+    - NB – applicant must "desire" to commence proceedings against the person: Roads and Traffic Authority of New South Wales v Care Park Pty Limited [2012] NSWCA 35.
   - Preliminary discovery – whether or not to commence proceedings
     - r 5.3 is cast in much the same language as r 5.2:
       - 1. Applicant may have claim against another person, but has been unable to obtain sufficient information to decide whether to commence after having made reasonable inquiries, and
@@ -2335,13 +2343,13 @@ Week 12: Appeals
       - 2.Notices to produce, where one party requires another party to produce specific documents
   - Discovery (limits)
     - Discovery pertains to documents – this is construed broadly e.g. it can include text messages, emails, webpages etc.
-    - To be discoverable, a document has to be ‘relevant to a fact in issue’ – r 21.2(4).
+    - To be discoverable, a document has to be 'relevant to a fact in issue' – r 21.2(4).
     - Scope of discovery limited by reference to the overriding purpose, s 56 CPA. Parties can no longer seek general discovery.
     - NB – as per r 21.7, discovered documents cannot be disclosed
     - r 21.3: party subject to an order for discovery complies by serving on the requesting party a list dealing with all of the documents (other than excluded documents) referred to in the order.
     - r 21.5: party rendering discovery has to make the documents available for inspection (generally within 21 days of the list being served).
     - Discovery not once-and-for-all – an ongoing obligation.
-    - Discovery is verified by affidavit, together with solicitor’s certificate of advice (if appropriate): r 21.4.
+    - Discovery is verified by affidavit, together with solicitor's certificate of advice (if appropriate): r 21.4.
   - Notice to produce
     - Party can serve notice to produce any specified document or thing on another party (r 21.10).
     - Party served with notice needs to provide inspection of the document or thing within a reasonable time (usually 14 days).
@@ -2352,7 +2360,7 @@ Week 12: Appeals
     - According to r 33.1, a "subpoena" means an order in writing requiring the addressee:
       - (a) to attend to give evidence (a subpoena to attend), or
       - (b) to produce the subpoena or a copy of it and a document or thing (a subpoena to produce), or
-      - (c) to do both of those things.’
+      - (c) to do both of those things.'
   - Formal requirements for a subpoena
     - r 33.3 specifies some formal requirements for subpoenas:
       - (1) A subpoena must be in the approved form.
@@ -2365,11 +2373,11 @@ Week 12: Appeals
       - NB – subpoena must be personally served on address – r 33.5.
   - Subpoenas and conduct money
     - r 33.6(1): 
-      - “An addressee need not comply with the requirements of a subpoena to attend to give evidence unless conduct money has been handed or tendered to the addressee a reasonable time before the date on which attendance is required.
+      - "An addressee need not comply with the requirements of a subpoena to attend to give evidence unless conduct money has been handed or tendered to the addressee a reasonable time before the date on which attendance is required.
     - What is conduct money? 
-      - r 33.1 states that "conduct money" means a sum of money or its equivalent, such as pre-paid travel, sufficient to meet the reasonable expenses of the addressee of attending court as required by the subpoena and returning after so attending.”
+      - r 33.1 states that "conduct money" means a sum of money or its equivalent, such as pre-paid travel, sufficient to meet the reasonable expenses of the addressee of attending court as required by the subpoena and returning after so attending."
   - Notice to admit
-    - The ‘requesting party’ sends a notice to admit to the ‘admitting party’. The notice requests that the admitting party make certain admissions in favour of the requesting party. The admitting party has 14 days to respond. (rr 17.3, 17.4). Often used where you have facts that are material and relevant to a party’s case, but are not seriously in dispute
+    - The 'requesting party' sends a notice to admit to the 'admitting party'. The notice requests that the admitting party make certain admissions in favour of the requesting party. The admitting party has 14 days to respond. (rr 17.3, 17.4). Often used where you have facts that are material and relevant to a party's case, but are not seriously in dispute
     - Can go not only to facts but authenticity of documents.
     - If the party does not admit, and the facts are then proved at trial, that party has to bear the costs of such proof.
     - Pacific Steel Constructions Pty Ltd v Barahona [2009] NSWCA 406 at [153]
@@ -2377,7 +2385,7 @@ Week 12: Appeals
     - Party or its representative is required to answer in writing, and usually on oath, specific questions prior to the trial.
     - Must obtain an order from the court requiring answers to specified interrogatories (r 22.1)
     - Application for an order for interrogatories may be made at any time and must be accompanied by a copy of the proposed interrogatories (r 22.1(2))
-    - Court won’t make order unless satisfied order is necessary at the time it is made (r 22.1(4))
+    - Court won't make order unless satisfied order is necessary at the time it is made (r 22.1(4))
   - Objection to produce documents founded on privilege
     - Objections to production of documents and answering of questions founded on privilege (r 1.9).
     - Client legal privilege does not mean the document need not be discovered, it is simply listed as a document that does not have to be produced for inspection.
@@ -2475,24 +2483,24 @@ Week 12: Appeals
     - The process for discovery under the UCPR can be summarised as follows (Party A is the party receiving discovery and Party B is the party giving discovery): 
       - 1. Party A files and serves a notice of motion (with supporting affidavit) seeking discovery from Party B pursuant to UCPR r 21.2. 
         - The notice of motion will specify the order for discovery of documents within a class or classes of documents or samples of documents within a class (r 21.2). 
-        - A “class of documents” is defined by relevance to the facts in issue, or by the type of documents within a class, or in “such other manner as the court considers appropriate in the circumstances” (r 21.3). 
+        - A "class of documents" is defined by relevance to the facts in issue, or by the type of documents within a class, or in "such other manner as the court considers appropriate in the circumstances" (r 21.3). 
       - 2. The notice of motion is heard (this is an interlocutory hearing) and the court may order discovery of documents within a class or classes of documents or samples of documents within a class (r 21.2). 
         - The court does not order general discovery. 
       - 3. Within 28 days of the order (or as the order specifies), Party B prepares a list of documents (r 21.3) which is divided into two parts (documents in the possession of Party B and documents which were in possession of Party B in the last six months). 
         - The list needs to describe the documents. The list also states whether privilege is claimed in respect of the documents and the circumstances that give rise to privilege being claimed. 
         - If the documents are not in the possession of Party B then Party B needs to indicate who he or she believes has possession of the documents. 
-      - 4. Discovery does not apply to an “excluded document” (see definition in r 21.1), but note the court may declare a document not to be an excluded document. 
-        - “Excluded documents” do not have to be included in the list (r 21.3(1)). 
-      - 5. The list must be accompanied by a supporting affidavit by Party B (r 21.4(2)) and a solicitor’s certificate of advice (r 21.4(3)). 
+      - 4. Discovery does not apply to an "excluded document" (see definition in r 21.1), but note the court may declare a document not to be an excluded document. 
+        - "Excluded documents" do not have to be included in the list (r 21.3(1)). 
+      - 5. The list must be accompanied by a supporting affidavit by Party B (r 21.4(2)) and a solicitor's certificate of advice (r 21.4(3)). 
         - The affidavit deposed by Party B verifies the list 662 and must state the specific matters listed in r 21.4(2). 
-        - The solicitor’s certificate of advice must state the matters set out in r 21.4(3) namely that the solicitor has advised Party B as to the obligations arising under an order for discovery and the solicitor is not aware of documents that are not on the list. 
-      - 6. Party B then makes the documents “readily accessible and capable of convenient inspection” for Party A (r 21.5). 
+        - The solicitor's certificate of advice must state the matters set out in r 21.4(3) namely that the solicitor has advised Party B as to the obligations arising under an order for discovery and the solicitor is not aware of documents that are not on the list. 
+      - 6. Party B then makes the documents "readily accessible and capable of convenient inspection" for Party A (r 21.5). 
       - 7. There is a continuing obligation on Party B to make available subsequently discovered documents (r 21.6). 
         - This means that documents which become known after discovery has been carried out are to be made available to Party A. 
         - Privileged documents that cease to be privileged also need to be made available. 
-      - 8. Except with the court’s leave (permission), no information from a document obtained as a result of discovery is to be disclosed, or used in other legal proceedings.
+      - 8. Except with the court's leave (permission), no information from a document obtained as a result of discovery is to be disclosed, or used in other legal proceedings.
         - The exception to this rule is if the document has been received into evidence in open court (r 21.7). 
-      - 9. The court will not order discovery in personal injury cases unless the court “for special reasons” orders otherwise (r 21.8). Special reasons will exist if discovery is necessary for a fair trial.
+      - 9. The court will not order discovery in personal injury cases unless the court "for special reasons" orders otherwise (r 21.8). Special reasons will exist if discovery is necessary for a fair trial.
   - Evidence Types 
     - Client evidence types
       - Witness statements
@@ -2554,7 +2562,7 @@ Week 12: Appeals
         - Production – Delivering ESI to others in appropriate forms and using appropriate delivery mechanisms. 
         - Presentation – Displaying ESI before audiences (at depositions, hearings, trials, etc), especially in native and near-native forms, to elicit further information, validate existing facts or positions, or persuade an audience
   - Technology assisted review (TAR) def 
-    - has been defined as “[a] process for Prioritizing or Coding a Collection of Documents using a computerized system that harnesses human judgments of one or more Subject Matter Expert(s) on a smaller set of Documents and then extrapolates those judgments to the remaining Document 
+    - has been defined as "[a] process for Prioritizing or Coding a Collection of Documents using a computerized system that harnesses human judgments of one or more Subject Matter Expert(s) on a smaller set of Documents and then extrapolates those judgments to the remaining Document 
       - In the review stage, TAR examines ESI for relevance, and in the analysis stage may be able to evaluate the ESI for other characteristics such as privilege or particular issues or topics
   - McConnell Dowell Constructors v Santam (2016) 51 VR 42
     - Jurisdiction: 
@@ -2591,13 +2599,13 @@ Week 12: Appeals
     - A subpoena can be set aside, whole or in part, on the grounds that it is an abuse of process because of the following: 
       - A subpoena cannot be used as a substitute for discovery: 
         - The Commissioner for Railways v Small (1938) 38 SR 654 at 574 and NSW Commissioner of Police v Tuxford [2002] NSWCA 139 at [19] (see [12.410]). 
-        - An issuing party is “not entitled to procure the issue of the subpoena for the purpose of fishing, that is, endeavouring not to obtain evidence to support their case, but to discover whether they had a case at all, or to discover the nature of the case of the defendant”: 
+        - An issuing party is "not entitled to procure the issue of the subpoena for the purpose of fishing, that is, endeavouring not to obtain evidence to support their case, but to discover whether they had a case at all, or to discover the nature of the case of the defendant": 
           -  [2002] NSWCA 139 at [27]. 
       - A subpoena cannot be oppressive. A subpoena may be oppressive if it has insufficient particularisation of the documents called for. 
         - This creates oppression because the recipient is required to judge what documents are caught by the subpoena. 
         - A subpoena could also be oppressive where compliance is too onerous. 
           - This is demonstrated where an excessive burden is placed on the producing party, for example, in NSW Commissioner of Police v Tuxford (see [12.410]). 
-        - Tuxford called for all “originals or copies” of documents that were located in many locations. This was found to be oppressive. 
+        - Tuxford called for all "originals or copies" of documents that were located in many locations. This was found to be oppressive. 
     - A subpoena cannot have an improper purpose. 
       - For example, the subpoena may seek documents not for the purpose of the litigation but for some spurious purpose such as a private purpose or for use in other proceedings. 
     - An absence of the apparent relevance of documents is a sufficient ground to have it set aside, see Trade Practices Commission v Arnotts Limited (No 2) (1989) 21 FCR 306. 
@@ -2608,7 +2616,7 @@ Week 12: Appeals
     - Judges and legal practitioners have also provided suggestions as to best practice for drafting affidavits which include:2 
       - identify the deponent and their relationship to the dispute; 
       - set out the matters in the affidavit in a logical manner – this may or may not be a chronological sequence; 
-      - use the witness’s own words; 
+      - use the witness's own words; 
       - conversations should be stated in direct speech, that is, the first person – I said, she said; 
       - state facts the witness has personal and actual knowledge of, not opinions or assumptions unless the affidavit is for an expert witness; 
       - be concise but complete; 
@@ -2616,18 +2624,18 @@ Week 12: Appeals
       - avoid irrelevant material; 
       - avoid hearsay, except in interlocutory applications, as an affidavit must be confined to facts the witness can prove from direct knowledge; and 
       - avoid making submissions or arguments
-    -  Revised Professional Conduct and Practice Rules 1995 (Solicitors’ Rules) rule 17
+    -  Revised Professional Conduct and Practice Rules 1995 (Solicitors' Rules) rule 17
   -  Ying v Song [2010] NSWSC 1500
     - dispute between former family members over shares in the second defendant (Budget Scaffold Supplies Pty Ltd, to which I will refer as BSS) and in respect of amounts recorded at one stage in the financial records of BSS as a shareholder loan from the plaintiff (Ming Ying) to the company. 
-    - Ming Ying’s sister (Hua Ying) was formerly married to the first defendant (Lida Song). 
+    - Ming Ying's sister (Hua Ying) was formerly married to the first defendant (Lida Song). 
       - There are Family Court proceedings presently on foot between the couple 
-      - According to Ming Ying, he paid some $106,025 to acquire shares in BSS, shares which Lida Song later transferred back to himself, without Ming Ying’s consent, in 2005.
-      - According to Lida Song, however, the shares were only transferred to Ming Ying (and the company’s records recorded shareholder loans by Ming Ying) as part of an attempt to present a false impression of Ming Ying’s assets in Australia to the Department of Immigration so as to assist in Ming Ying’s attempt to obtain permanent residency in Australia
-    - much of the later affidavit evidence must have been prepared by cutting and pasting material from Mr Ying’s earlier affidavits – even material that had in the interim been corrected by other affidavits sworn by Mr Ying
+      - According to Ming Ying, he paid some $106,025 to acquire shares in BSS, shares which Lida Song later transferred back to himself, without Ming Ying's consent, in 2005.
+      - According to Lida Song, however, the shares were only transferred to Ming Ying (and the company's records recorded shareholder loans by Ming Ying) as part of an attempt to present a false impression of Ming Ying's assets in Australia to the Department of Immigration so as to assist in Ming Ying's attempt to obtain permanent residency in Australia
+    - much of the later affidavit evidence must have been prepared by cutting and pasting material from Mr Ying's earlier affidavits – even material that had in the interim been corrected by other affidavits sworn by Mr Ying
       - This may diminish the reliability and hence the weight to be accorded to that evidence (on any of the various versions).
 ## Week 8: Interlocutory Applications and Injunctions
 
--  The court has power to order a plaintiff to give security for the defendant’s cost of defending the plaintiff’s claim and can order a stay of proceedings until the security is given
+-  The court has power to order a plaintiff to give security for the defendant's cost of defending the plaintiff's claim and can order a stay of proceedings until the security is given
   - s r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
 - Wollongong City Council v Legal Business Centre Pty Limited [2012] NSWCA 245
   - Jurisdiction: 
@@ -2641,13 +2649,13 @@ Week 12: Appeals
     - The appellant sought leave to appeal an interlocutory order that dismissed its application for security for costs against the respondent. 
     - The Court of Appeal granted leave and overturned the initial decision, ordering LBC to provide security for costs.
   - Original Dispute:
-    - Wollongong City Council applied for an order for security for costs against LBC, citing concerns over LBC’s financial capacity to cover costs if ordered to do so.
+    - Wollongong City Council applied for an order for security for costs against LBC, citing concerns over LBC's financial capacity to cover costs if ordered to do so.
   - Current Reason for Trial:
-    - To appeal the trial judge’s refusal to grant an order for security for costs.
+    - To appeal the trial judge's refusal to grant an order for security for costs.
   - Material Facts:
-    - The trial judge dismissed the Council's application based on his assessment of LBC’s financial circumstances and discretionary considerations.
+    - The trial judge dismissed the Council's application based on his assessment of LBC's financial circumstances and discretionary considerations.
   - Issue Raised:
-    - Whether the trial judge erred in his assessment of the respondent’s financial circumstances and in refusing the application for security for costs.
+    - Whether the trial judge erred in his assessment of the respondent's financial circumstances and in refusing the application for security for costs.
   - Laws/Statutes in Contention:
     - Uniform Civil Procedure Rules 2005 (UCPR), r 42.21
     - Corporations Act 2001 (Cth), s 1335(1)
@@ -2658,12 +2666,12 @@ Week 12: Appeals
   - Tests and Principles:
     - The court adopts a practical common-sense approach to examining the financial affairs of a corporation for security for costs.
     - The defendant bears the onus of proving the plaintiff's inability to pay litigation costs if unsuccessful.
-    - Factors considered in exercising discretion include risk of unsatisfied costs orders, whether the order stifles a claim, and the conduct’s effect on the plaintiff's finances.
+    - Factors considered in exercising discretion include risk of unsatisfied costs orders, whether the order stifles a claim, and the conduct's effect on the plaintiff's finances.
   - Judicial Opinions:
     - The Court of Appeal agreed that the trial judge erred in assessing LBC's financial position and in his discretionary decision not to grant security for costs.
     - It emphasized the necessity of a practical approach to evaluating a corporation's financial status and the established principles guiding the discretion to order security for costs.
   - Ratio Decidendi:
-    - The decision to order security for costs should be based on a practical assessment of the corporation’s financial affairs and the established principles for exercising such discretion. 
+    - The decision to order security for costs should be based on a practical assessment of the corporation's financial affairs and the established principles for exercising such discretion. 
     - The appellant successfully demonstrated that LBC, likely unable to cover costs if the proceedings failed, justified the need for security for costs.
   - Conclusion and Relevance to Modern Law:
     - The case underscores the courts' discretion in ordering security for costs, emphasizing the importance of a defendant proving the plaintiff's potential inability to pay litigation costs. 
@@ -2697,7 +2705,7 @@ Week 12: Appeals
     - The decision to order security for costs is discretionary, depending on various factors:
       - 1. Promptness of the application.
       - 2. The strength and bona fides of the applicant's case.
-      - 3. Whether the applicant’s impecuniosity was caused by the respondent’s conduct.
+      - 3. Whether the applicant's impecuniosity was caused by the respondent's conduct.
       - 4. Whether the application is oppressive or denies the right to litigate.
       - 5. The willingness of those benefiting from the litigation to provide security.
       - 6. The personal undertaking of costs by those behind the company.
@@ -2715,11 +2723,11 @@ Week 12: Appeals
   - interim junction def or interlocutory injunction def
     - S 18 of UCPR - need notice of motion form 20 UCPR
       - Notice of motion form needs to be accompanied by supporting affidavit indicating reason for notice
-    - To obtain an interlocutory injunction an applicant must show that there is a “prima facie case” and that the “balance of convenience” favours the order being made. 
+    - To obtain an interlocutory injunction an applicant must show that there is a "prima facie case" and that the "balance of convenience" favours the order being made. 
     - An interim injunction will usually continue for a short period of time (measured in days).
       - The District Court has a limited power to grant temporary injunctions for a period not exceeding 14 days or exceeding that period if necessary to enable Supreme Court proceedings to be commenced or heard: 
         - District Court Act 1973 (NSW) s 141, also see s 140
-      - Federal Court has power to make interlocutory injunctions as the Court “has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate”: 
+      - Federal Court has power to make interlocutory injunctions as the Court "has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate": 
         - Federal Court of Australia Act 1976 (Cth) s 23
   - Injunction types:
     - Mandatory injunction: order requiring a party to act;
@@ -2727,27 +2735,27 @@ Week 12: Appeals
     - Interim injunction: order in force for a short period of time;
     - And Final or perpetual injunction: 
       - order finally determines rights of parties.
-    - Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57; 229 ALR 457; [2006] HCA 46
-      - An interlocutory injunction was ordered that restrained the ABC from broadcasting or otherwise publishing any part of a documentary known as “The Fisherman” that imputed or implied that O’Neill was responsible for or is suspected of being responsible for the disappearance or murder of children commonly referred to as the Beaumont children or that O’Neill is a multiple killer of children
+    - Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57; 229 ALR 457; [2006] HCA 46
+      - An interlocutory injunction was ordered that restrained the ABC from broadcasting or otherwise publishing any part of a documentary known as "The Fisherman" that imputed or implied that O'Neill was responsible for or is suspected of being responsible for the disappearance or murder of children commonly referred to as the Beaumont children or that O'Neill is a multiple killer of children
       - Prima Facie case meaning
         - it is sufficient that the plaintiff show a sufficient likelihood of success to justify in the circumstances the preservation of the status quo pending the trial. 
     - Two criteria for an interlocutory injunction
-      - An applicant must establish (Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+      - An applicant must establish (Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
         - 1. A prima facie case in relation to the substantive litigation; and
         - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
-      - 3. What does the ‘balance of convenience’ entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 
-        - ‘whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.’
+      - 3. What does the 'balance of convenience' entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 
+        - 'whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.'
   - Freezing orders def are otherwise known as Mareva injunctions or Mareva orders.
     - Jackson v Sterling Industries Ltd (1987) 162 CLR 612
     - Mareva orders are named after one of the earliest cases which allowed their use: 
-      - Mareva Compania Naviera SA v International Bulkcarriers SA [1975] 2 Lloyd’s Rep 50
+      - Mareva Compania Naviera SA v International Bulkcarriers SA [1975] 2 Lloyd's Rep 50
     - A Mareva order prevents a party from disposing of assets to frustrate the enforcement of a judgment. 
-      - The power to make such an order derives from the court’s equitable inherent jurisdiction.
+      - The power to make such an order derives from the court's equitable inherent jurisdiction.
     - An application for a freezing order should comply with the substance of the requirements contained in Practice Note SC Gen 14 
   - Jackson v Sterling Industries Ltd (1987) 162 CLR 612
     - Facts
       - The plaintiff, who sued the defendant for breach of s 52 of the Trade Practices Act 1974 (Cth), applied to the Federal Court for an order that the respondent pay $3 million into court as security for the satisfaction of any judgment that might be entered against him in the application. 
-      - The Federal Court judge found that the plaintiff had a good chance of success and ordered that the defendant “provide security in the sum of $3,000,000 in such manner and form as the parties may agree or, in default of agreement, the Court or its Registrar may approve”. 
+      - The Federal Court judge found that the plaintiff had a good chance of success and ordered that the defendant "provide security in the sum of $3,000,000 in such manner and form as the parties may agree or, in default of agreement, the Court or its Registrar may approve". 
     - The defendant appealed. 
       - In the High Court, Mason CJ, Wilson, Brennan, Deane and Dawson JJ (Toohey and Gaudron JJ dissenting) found that the order should not have been made. 
       - However, the court recognised the power of courts to grant Mareva injunctions. 
@@ -2768,7 +2776,7 @@ Week 12: Appeals
       - Breach of contract by Kingdom Towers for failing to make full payment under a property sale contract. 
       - Andrew Brodner was implicated as the guarantor of Kingdom Towers' obligations.
     - Current Reason for Trial:
-      - The matter concerns the plaintiff’s application for a freezing order to include additional assets (shares held by the defendants) beyond the initially specified properties.
+      - The matter concerns the plaintiff's application for a freezing order to include additional assets (shares held by the defendants) beyond the initially specified properties.
     - Material Facts:
       - The plaintiff demonstrated a strong case for damages or payment under the guarantee for about $2,070,625, necessitating a freezing order to prevent asset dissipation.
     - Issue Raised:
@@ -2785,7 +2793,7 @@ Week 12: Appeals
       - Justice Robb was convinced that the absence of evidence or an explanation from the defendants regarding their asset disposition activities justified the imposition of a freezing order. 
       - However, an amended order as sought by the plaintiff at the hearing was denied due to lack of notice and evidence on the value of the newly included assets.
     - Ratio Decidendi:
-      - The court's decision to grant a freezing order was based on the balance of probabilities, considering the strength of the plaintiff’s case and the lack of evidence from the defendants to counter the risk of asset dissipation.
+      - The court's decision to grant a freezing order was based on the balance of probabilities, considering the strength of the plaintiff's case and the lack of evidence from the defendants to counter the risk of asset dissipation.
     - Conclusion and Relevance to Modern Law:
       - This case illustrates the court's approach in granting freezing orders to preserve the integrity of its judgment against potential asset dissipation by defendants. 
       - It emphasizes the importance of presenting a strong arguable case and evidence of risk to asset dissipation. 
@@ -2806,7 +2814,7 @@ Week 12: Appeals
       - Copyright infringement by Eagle Homes Pty Ltd in relation to building plans owned by LED Builders Pty Ltd. 
       - The dispute extended to securing assets to satisfy the judgment.
     - Current Reason for Trial:
-      - The High Court considered the appeal against the Mareva injunctions, focusing on whether such injunctions could extend to third parties not directly involved in the proceedings or shown to have an interest in the judgment debtor’s assets.
+      - The High Court considered the appeal against the Mareva injunctions, focusing on whether such injunctions could extend to third parties not directly involved in the proceedings or shown to have an interest in the judgment debtor's assets.
     - Material Facts:
       - The Cardiles, after receiving large dividends from Eagle Homes, established Ultra Modern Pty Ltd.
       - LED sought Mareva orders to freeze assets of Eagle Homes, the Cardiles, and Ultra Modern Pty Ltd to prevent dissipation and ensure satisfaction of the judgment.
@@ -2822,17 +2830,17 @@ Week 12: Appeals
       - The jurisdiction for such injunctions stems from the court's power to protect the integrity of its processes and ensure the effective administration of justice, including preserving the efficacy of execution against judgment debtors.
       - The court must exercise caution, ensuring Mareva orders are not used oppressively or to unjustly restrict commerce.
     - Judicial Opinions:
-      - The High Court clarified the limits of Mareva injunctions, emphasizing that while they can extend to third parties in appropriate cases, it is crucial to establish a direct link between the third party’s assets and the judgment debtor. 
+      - The High Court clarified the limits of Mareva injunctions, emphasizing that while they can extend to third parties in appropriate cases, it is crucial to establish a direct link between the third party's assets and the judgment debtor. 
       - The court highlighted the discretionary nature of such orders and the necessity for a principled and analytical approach to their issuance.
     - Ratio Decidendi:
-      - Mareva orders can be justified against third parties when there is a substantive connection between the third party’s assets and the judgment debtor, reflecting the courts’ broad power but emphasizing the need for a careful and principled exercise of discretion.
+      - Mareva orders can be justified against third parties when there is a substantive connection between the third party's assets and the judgment debtor, reflecting the courts' broad power but emphasizing the need for a careful and principled exercise of discretion.
     - Conclusion and Relevance to Modern Law:
       - Cardile v LED Builders Pty Ltd signifies a critical examination of the scope of Mareva injunctions, underscoring the importance of ensuring such orders are grounded in clear legal principles and used judiciously to balance the effective administration of justice with the rights of third parties. 
       - This decision has profound implications for the use of asset preservation orders in Australian law, illustrating the courts' cautious approach to extending such orders beyond the direct parties to litigation.
-  - Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as “Mareva orders” or “asset preservation orders”)
+  - Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as "Mareva orders" or "asset preservation orders")
   - Search orders def are otherwise known as Anton Piller orders: 
     - Anton Piller KG v Manufacturing Processes Ltd [1976] 1 Ch 55.
-    - Anton Piller orders have a statutory basis in the UCPR, however, the UCPR preserve the court’s inherent, implied or statutory jurisdiction. 
+    - Anton Piller orders have a statutory basis in the UCPR, however, the UCPR preserve the court's inherent, implied or statutory jurisdiction. 
     - Search orders authorise the seizure of documents and other evidence. 
       - Search orders are obtained on an ex parte basis.
     - The requirements for the granting of a search order are: 
@@ -2841,7 +2849,7 @@ Week 12: Appeals
       - (c) there is sufficient evidence in relation to a respondent that: 
         - (i) the respondent possesses important evidentiary material; and 
         - (ii) there is a real possibility that the respondent might destroy such material or cause it to be unavailable for use in evidence in a proceeding or anticipated proceeding before the court.
-  - Practice Note SC Gen 13 Supreme Court – Search Orders (also known as “Anton Piller Orders”)
+  - Practice Note SC Gen 13 Supreme Court – Search Orders (also known as "Anton Piller Orders")
     - Findex Group Ltd v McKay [2019] NSWCA 93
       - Jurisdiction: 
         - New South Wales Court of Appeal - Binding in NSW
@@ -2879,12 +2887,12 @@ Week 12: Appeals
 - Interlocutory Applications and Injunctions
   - What is an interlocutory application?
     - An interlocutory application def is an application made in a proceeding before a final determination for one of two purposes:
-      - 1. Preserving the status quo until the parties’ rights are finally determined e.g. interlocutory injunction;
+      - 1. Preserving the status quo until the parties' rights are finally determined e.g. interlocutory injunction;
       - 2. Dealing with the formalities which it is necessary to attend to before trial, such as the provision of particulars, discovery and interrogation.
   - The broad procedure for interlocutory applications
     - Interlocutory applications are generally sought by notice of motion supported by an affidavit (part 35 UCPR).
     - If an application is heard ex parte before the institution of proceedings, it is usually on the proviso that proceedings are issued forthwith.
-    - r 18.1 of the UCPR: ‘An interlocutory or other application is to be made by motion unless these rules otherwise provide.’
+    - r 18.1 of the UCPR: 'An interlocutory or other application is to be made by motion unless these rules otherwise provide.'
     - r 18.2(1): generally speaking, a notice of motion must be filed and served on each person affected by the proposed order. Exceptions found in r 18.2(2). 
   - What must a notice of motion contain?
     - r 18.3 spells out some of the things a notice of motion must do, including:
@@ -2894,8 +2902,8 @@ Week 12: Appeals
       - The notice must also state concisely the nature of the proposed order.
   - Notices of motion – some more requirements
     - r 18.4: unless the court orders otherwise, a notice of motion must be served at least 3 days before the date fixed for the motion.
-    - r 18.5: a notice of motion must be personally served if the person on whom it is to be served is not a party to the proceedings or is not an active party (i.e. they haven’t entered an appearance).
-    - r 18.7: if you have served the notice of motion in accordance with the rules, and the other party doesn’t turn up, then the Court can deal with the motion in their absence.
+    - r 18.5: a notice of motion must be personally served if the person on whom it is to be served is not a party to the proceedings or is not an active party (i.e. they haven't entered an appearance).
+    - r 18.7: if you have served the notice of motion in accordance with the rules, and the other party doesn't turn up, then the Court can deal with the motion in their absence.
   - Pro forma notice of motion
     - 
   - Some types of interlocutory orders
@@ -2910,10 +2918,10 @@ Week 12: Appeals
       - Where address of plaintiff is misstated or omitted from originating process, and reason to believe this was done with intention to deceive;
       - Where plaintiff has changed their address, and reason to believe this was done to
       - avoid the consequences of the proceedings;
-      - If there is reason to believe that a corporation won’t be able to pay the defendant’s costs e.g. because it is bankrupt;
-      - Where the plaintiff is suing for someone else’s benefit and appears unable to pay for defendants costs; and
+      - If there is reason to believe that a corporation won't be able to pay the defendant's costs e.g. because it is bankrupt;
+      - Where the plaintiff is suing for someone else's benefit and appears unable to pay for defendants costs; and
       - If there is reason to believe that the plaintiff has divested assets with intention of avoiding consequences of proceedings.
-    - r 42.21(1B): if the plaintiff is a natural person, a security can’t be imposed simply because they are impecunious.
+    - r 42.21(1B): if the plaintiff is a natural person, a security can't be imposed simply because they are impecunious.
     - r 42.21(1A) lists the many different factors that the Court can take into account in weighing the interests of the plaintiff and the defendant. Some are:
       - (a) the prospects of success or merits of the proceedings;
       - (b) the genuineness of the proceedings;
@@ -2936,22 +2944,22 @@ Week 12: Appeals
   - The usual undertaking as to damages
     - Applies for interlocutory injunctions, Mareva orders and Anton Piller orders.
     - r 25.8: with the usual undertaking as to damages, the plaintiff submits to give compensation to another party (it could be the defendant, it could be someone else) due to the operation of the interlocutory order.
-    - If the court determines at trial that the injunction shouldn’t have been made, it conducts an inquiry as to damages, which the plaintiff then has to cover as part of the usual undertaking.
+    - If the court determines at trial that the injunction shouldn't have been made, it conducts an inquiry as to damages, which the plaintiff then has to cover as part of the usual undertaking.
   - Two criteria for an interlocutory injunction
-    - An applicant must establish (Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+    - An applicant must establish (Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
       - 1. A prima facie case in relation to the substantive litigation; and
       - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
-      - 3. What does the ‘balance of convenience’ entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: ‘whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.
+      - 3. What does the 'balance of convenience' entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 'whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.
   - Factors going to the balance of convenience
     - A non-exhaustive list of factors relevant to determining where the balance of convenience lies:
-      - The respondent’s intention to carry out threat;
+      - The respondent's intention to carry out threat;
       - The relative damage to both parties if the injunction were granted;
       - Where making injunction would lead inevitably to breach;
       - Where there are difficulties in supervising compliance;
       - The possibility the plaintiff will suffer irreparable damage if an injunction is not granted;
       - Whether or not other forms of relief such as damages will be an adequate remedy;
-      - The applicant’s performance in making their application;
-      - Where concerned with contracts: if specific performance would be refused, then an injunction won’t be granted; and
+      - The applicant's performance in making their application;
+      - Where concerned with contracts: if specific performance would be refused, then an injunction won't be granted; and
       - The impact of the injunction on third parties.
   - Appeals from orders granting interlocutory injunctions
     - Samsung Electronics Co. Limited v Apple Inc. [2011] FCAFC 156.
@@ -2961,17 +2969,17 @@ Week 12: Appeals
   - Mareva orders
     - A Mareva order is a special type of order restraining the defendant from dealing with the whole or part of their assets pending the outcome of proceedings.
     - Designed to prevent a defendant abusing the processes of the court by hiding or dissipating their assets in order to frustrate the ability of the plaintiff to recover damages
-    - Historically, Mareva orders stemmed from the Court’s inherent jurisdiction. 
+    - Historically, Mareva orders stemmed from the Court's inherent jurisdiction. 
       - They got their name from the case of Mareva Compania Naviera SA v International Bulkcarriers SA (The Mareva) [1980] 1 All ER 213.
       - Today, Mareva orders are also provided for by UCPR Pt 25 Div 2 and Practice Note SC Gen 14: Supreme Court – Freezing Orders.
       - cl 6 of Practice Note SC Gen 14 confirms that a freezing order is an extraordinary remedy.
   - Mareva orders – when are they appropriate?
     - r 25.14: Mareva orders can be made if two criteria are fulfilled:
       - (1): a judgment has been given in favour of the applicant or an applicant has a good arguable case; and
-      - (4): “(a) the judgment debtor, prospective judgment debtor or another person absconds.
+      - (4): "(a) the judgment debtor, prospective judgment debtor or another person absconds.
       - (b) the assets of the judgment debtor, prospective judgment debtor or another person are:
           - (i) removed from Australia or from a place inside or outside Australia, or
-          - (ii) disposed of, dealt with or diminished in value.”
+          - (ii) disposed of, dealt with or diminished in value."
     - r 25.14(5): Mareva orders can be sought against third-parties, but stricter criteria apply.
   - An application for a Mareva order
     - An application for a Mareva order is made by way of a motion supported by an affidavit.
@@ -2979,18 +2987,18 @@ Week 12: Appeals
       - The basis of the claim for substantive relief;
       - The amount of the claim;
       - If the application is made ex parte, then the applicant has to include in it their knowledge of any possible defence;
-      - The applicant also has to include their knowledge of the nature and value of the respondent’s assets;
+      - The applicant also has to include their knowledge of the nature and value of the respondent's assets;
       - The affidavit has to include the matters referred to in r 25.14; and
       - The affidavit has to reveal the identity of any person, other than the respondent, who the applicant believes may be affected by the order, and how they may be affected.
     - Applicant is to give usual undertaking as to damages: cl 16 of Supreme Court Practice Note 14.
       - Extreme care needed in making such an order.
-      - Value of the assets covered by a Mareva order should not exceed the likely maximum amount of the applicant’s claim and order should exclude dealings by the respondent with its assets for legitimate purposes: Practice Note cl 11, 12.
+      - Value of the assets covered by a Mareva order should not exceed the likely maximum amount of the applicant's claim and order should exclude dealings by the respondent with its assets for legitimate purposes: Practice Note cl 11, 12.
       - Ex parte Mareva orders generally only for short period of time so respondent has opportunity to be heard: Practice Note cl 9.
       - Operate in personam (i.e. does not attach to the property itself). 
   - Anton Piller orders
-    - An Anton Piller order (often known as a ‘search order’) compels the defendant to allow the plaintiff or its agents to inspect their property and premises, and allows for the search, preservation and seizure of documents and other evidence.
+    - An Anton Piller order (often known as a 'search order') compels the defendant to allow the plaintiff or its agents to inspect their property and premises, and allows for the search, preservation and seizure of documents and other evidence.
     - Derive their name from Anton Piller KG v Manufacturing Processes Ltd [1976] 1 All ER 779.
-    - Initially derived from the Court’s inherent jurisdiction, but now find expression in Pt 25 Div 3 of the UCPR and Practice Note SC Gen 13 Supreme Court – Search Orders.
+    - Initially derived from the Court's inherent jurisdiction, but now find expression in Pt 25 Div 3 of the UCPR and Practice Note SC Gen 13 Supreme Court – Search Orders.
   - Three essential criteria for the grant of an Anton Piller order
     - r 25.20 specifies that for a search order to be granted, there needs to be:
       - 1. A strong prima facie case;
@@ -3005,23 +3013,23 @@ Week 12: Appeals
       - Outline why the order is sought, including why there is a real possibility that the evidence will be destroyed or made unavailable;
       - Detail the prejudice, loss or damage likely to be suffered by the applicant if the order is not made;
       - The name, address, firm and commercial litigation experience of an independent solicitor who consents to serving the order and supervising its execution; and
-      - Lastly, if the premises to be searched are or include residential premises, the applicant has to state whether or not they believe that the only occupant of the premises is likely to be a female, a child under the age of 18, or a “vulnerable” person.
+      - Lastly, if the premises to be searched are or include residential premises, the applicant has to state whether or not they believe that the only occupant of the premises is likely to be a female, a child under the age of 18, or a "vulnerable" person.
   - Independent solicitors
     - According to cl 11 of Practice Note SC Gen 13 Supreme Court, an independent solicitor supervising an order is an important safeguard against abuse.
     - Independent solicitors:
-      - Can’t be a member or employee of the applicant’s firm of solicitors;
+      - Can't be a member or employee of the applicant's firm of solicitors;
       - Should be a solicitor experienced in commercial litigation, preferably in the execution of search orders.
     - Have a number of important functions spelled out in cl 11.
   - Anton Piller orders – some other characteristics
     - Various clauses of Practice Note SC Gen 13 Supreme Court:
       - cl 6: the search party has to include the independent solicitor plus a solicitor or solicitors representing the applicant. It may be necessary that it include other, more specialised persons e.g. an independent computer expert.
-      - cl 7: an “order should be clear about the maximum number of persons permitted to be in the search party. 
-        - The number of people in the search party should be as small as is reasonably practicable.”
+      - cl 7: an "order should be clear about the maximum number of persons permitted to be in the search party. 
+        - The number of people in the search party should be as small as is reasonably practicable."
       - cl 18: just like Mareva orders, the making of a search order will usually be made contingent upon the applicant giving the usual undertaking as to damages.
   - Obligation of candour
     - Injunctions, Mareva orders and Anton Piller orders are often sought urgently on an ex parte basis. 
-      - The absence of the other party is countervailed through the applicant’s obligation of candour. 
-      - The obligation of candour is an obligation to bring to th court’s attention all the material facts, even if those facts are detrimental to the applicant’s case.
+      - The absence of the other party is countervailed through the applicant's obligation of candour. 
+      - The obligation of candour is an obligation to bring to th court's attention all the material facts, even if those facts are detrimental to the applicant's case.
     - Includes raising all the relevant matters which would have been raised by the opposing party if he or she had been present.
     - Applies even if non-disclosure was inadvertent.
 ## Week 9: Costs and Settlement
@@ -3029,9 +3037,9 @@ Week 12: Appeals
 - Costs and Settlement
   - What are costs?
     - Costs are the actual amounts a party is charged or may be charged for legal services provided by a law practice related to the litigation.
-    - s 3 of the Civil Procedure Act 2005 (NSW) defines costs as ‘costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.’
+    - s 3 of the Civil Procedure Act 2005 (NSW) defines costs as 'costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.'
   - Costs agreements
-    - Part 4.3 Division 4 of the Legal Profession Uniform Law (NSW) provides for written costs agreements between solicitors and their clients which form the basis of the solicitors’ professional fees.
+    - Part 4.3 Division 4 of the Legal Profession Uniform Law (NSW) provides for written costs agreements between solicitors and their clients which form the basis of the solicitors' professional fees.
     - s 174: a law practice must:
       - Specify the basis on which costs will be calculated e.g. hourly rate; and
       - Notify the client of any significant change in costs.
@@ -3040,10 +3048,10 @@ Week 12: Appeals
     - Two main types of cost bases:
       - 1. Ordinary basis: 
         - Ordered pursuant to s 98(1)(c) of the CPA. 
-        - “Fair and reasonable amount...for the work concerned”; 
+        - "Fair and reasonable amount...for the work concerned"; 
         - s 76(1) Legal Profession Uniform Law Application Act 2014 (NSW). 
         - Normally considerably less than expenses actually incurred. 
-        - Also referred to as ‘standard party and party’ costs.
+        - Also referred to as 'standard party and party' costs.
       - 2. Indemnity basis: 
         - Also ordered pursuant to s 98(1)(c) of the CPA. 
         - More generous than ordinary basis. 
@@ -3051,7 +3059,7 @@ Week 12: Appeals
 - The primary rule in relation to costs
   - Usually, costs follow the event: 
     - Baulderstone Hornibrook v Gordian Runoff [2006] NSWSC 583. 
-      - Other things being equal, the loser has to pay the winner’s costs (the “loser pays” principle). See r 42.1 of the UCPR.
+      - Other things being equal, the loser has to pay the winner's costs (the "loser pays" principle). See r 42.1 of the UCPR.
       - However, courts have broad discretion to order costs: s 98 CPA
       - See also Pt 42 of the UCPR.
       - In exceptional circumstances courts will depart from this principle.
@@ -3069,23 +3077,23 @@ Week 12: Appeals
       - 3. Costs encourage early settlement; and
       - 4. They are factor relevant to case management decisions under various sections of the CPA, including ss 56(5), 57(1)(d), 60, 61(3)(f), 62(6).
   - Costs as a spur to settlement
-    - Settlements ‘encouraged’ by:
-      - penalising those who don’t settle when they should; and
+    - Settlements 'encouraged' by:
+      - penalising those who don't settle when they should; and
       - supporting institutions designed to ease negotiations.
     - Mechanisms of settlement:
       - Calderbank letters; and
       - Offers of compromise under Pt 42 Div 3 of the UCPR.
   - Calderbank letters
     - Calderbank v Calderbank [1976] Fam 93 (UK case).
-    - ‘Without prejudice’ letter offering to settle for a sum.
+    - 'Without prejudice' letter offering to settle for a sum.
     - They promote settlement of disputes: 
       - Messiter v Hutchinson (1987) 10 NSWLR 525.
-    - Indemnity costs may be awarded where “unreasonable” refusal of settlement offer (no prima facie presumption in favour of indemnity costs).
+    - Indemnity costs may be awarded where "unreasonable" refusal of settlement offer (no prima facie presumption in favour of indemnity costs).
     - Was there a genuine offer of compromise? & Was it unreasonable for the offeree not to accept it?: Miwa Pty Ltd v Siantan Properties Pty Ltd (No.2) [2011] NSWCA 344.
     - 
   - Offers of compromise
     - An offer to settle is made by A to B. 
-      - B does not accept offer and litigation continues. If B subsequently receives a less favourable judgment than what they would have received under A’s offer, B is usually penalised by adverse costs awards.
+      - B does not accept offer and litigation continues. If B subsequently receives a less favourable judgment than what they would have received under A's offer, B is usually penalised by adverse costs awards.
     - Conceptually related to Calderbank offers except explicitly provided for by the UCPR.
     - Regulated by UCPR Part 20 Div 4 and Part 42.
   - Offers of compromise – cost implications
@@ -3093,9 +3101,9 @@ Week 12: Appeals
       - UCPR r 42.13A.
     - D does not accept and P does better: P normally awarded indemnity costs from day of offer: 
       - r 42.14.
-    - P does not accept D’s offer and P does not do better: P entitled to their costs on the normal basis up to the offer and then has to pay D’s costs on an indemnity basis for period after the offer: 	
+    - P does not accept D's offer and P does not do better: P entitled to their costs on the normal basis up to the offer and then has to pay D's costs on an indemnity basis for period after the offer: 	
       - UCPR r 42.15.
-    - NB – court can always ‘otherwise order’ if it sees fit: 
+    - NB – court can always 'otherwise order' if it sees fit: 
       - rr 42.14 & 42.15
     - Table of Costs Scenarios
     - 
@@ -3105,9 +3113,9 @@ Week 12: Appeals
       - r 20.26(5).
     - During the time it is open it can be accepted: 
       - r 20.27.
-    - Offers of compromise are ‘without prejudice’: 
+    - Offers of compromise are 'without prejudice': 
       - r 20.26(9).
-    - If a party accepts an offer of compromise and then reneges, then the other party is entitled to judgment or dismissal of the plaintiff’s case, striking out a defendants defence, etc: 
+    - If a party accepts an offer of compromise and then reneges, then the other party is entitled to judgment or dismissal of the plaintiff's case, striking out a defendants defence, etc: 
       - r 20.29.
     - An offer of compromise can be accepted by serving written notice on the offeror any time within the period of acceptance. Once accepted, any party to the offer can enter judgment in accordance with the offer.
   - Leach v The Nominal Defendant [2014] NSWCA 391
@@ -3115,29 +3123,29 @@ Week 12: Appeals
     - Driver shot at and seriously injured appellant.
     - Appellant brings action against nominal defendant, State Insurance Regulatory Authority (SIRA).
     - SIRA makes an offer focused solely on costs – Court accepts this is a genuine compromise.
-    - If there is a genuine compromise, onus shifts to offeree to show why indemnity costs shouldn’t be levied. 
-    - Sometimes seen as offeree demonstrating “exceptional circumstances.”
+    - If there is a genuine compromise, onus shifts to offeree to show why indemnity costs shouldn't be levied. 
+    - Sometimes seen as offeree demonstrating "exceptional circumstances."
   - The legislative framework for costs
     - The key provisions surrounding costs are s 98 of the CPA and Pt 42 of the UCPR.
     - s 98 CPA:
-      - ‘(1) Subject to rules of court and to this or any other Act:
+      - '(1) Subject to rules of court and to this or any other Act:
         - (a) costs are in the discretion of the court, and
         - (b) the court has full power to determine by whom, to whom and to what extent costs are to be paid, and
-        - (c) the court may order that costs are to be awarded on the ordinary basis or on an indemnity basis.’
+        - (c) the court may order that costs are to be awarded on the ordinary basis or on an indemnity basis.'
   - The UCPR and costs
-    - r 42.1: the general rule is that costs follow the event – but also states: ‘unless it appears to the court that some other order should be made as to the whole or any part of the costs.’
+    - r 42.1: the general rule is that costs follow the event – but also states: 'unless it appears to the court that some other order should be made as to the whole or any part of the costs.'
     - r 42.2: general rule as to assessment of costs:
-      - ‘Unless the court orders otherwise or these rules otherwise provide, costs payable to a person under an order of the court or these rules are to be assessed on the ordinary basis.’
+      - 'Unless the court orders otherwise or these rules otherwise provide, costs payable to a person under an order of the court or these rules are to be assessed on the ordinary basis.'
     - r 42.4: Court may give order to fix maximum costs that may be recovered.
     - r 42.5: gives a sense of how indemnity costs are levied.
     - r 42.6: amendment of pleading etc without leave - must pay costs of amendment.
     - r 42.7: the costs for interlocutory applications are dealt with in same way as general costs.
     - rr 42.8 & 42.9: dispute of fact / document subsequently proved or admitted (i.e. notice to admit/produce). 
       - The requesting party has associated costs assessed on an indemnity basis.
-    - r 42.10: if a party fails to comply with a requirement of the rules, or of any judgment or order of the court, the court may order the party to pay such of the other parties’ costs as are occasioned by the failure.
-    - r 42.19: where plaintiff discontinues proceedings, they must pay defendant’s costs up until date of discontinuance.
-    - r 42.20(1): if the court makes an order for the dismissal of proceedings, the plaintiff must pay the defendant’s costs to the extent to which they have been dismissed.
-    - r 42.20(2): if the court makes an order striking out a defence, the defendant must pay the plaintiff’s costs in relation to those matters in respect of which the defence has been struck out. 
+    - r 42.10: if a party fails to comply with a requirement of the rules, or of any judgment or order of the court, the court may order the party to pay such of the other parties' costs as are occasioned by the failure.
+    - r 42.19: where plaintiff discontinues proceedings, they must pay defendant's costs up until date of discontinuance.
+    - r 42.20(1): if the court makes an order for the dismissal of proceedings, the plaintiff must pay the defendant's costs to the extent to which they have been dismissed.
+    - r 42.20(2): if the court makes an order striking out a defence, the defendant must pay the plaintiff's costs in relation to those matters in respect of which the defence has been struck out. 
     - r 42.32: provides for Smyth orders.
   - Bullock and Sanderson orders
     - Bullock order: the unsuccessful defendants required to pay the plaintiff by way of reimbursement any costs the plaintiff has paid to the successful defendant(s). 
@@ -3148,9 +3156,9 @@ Week 12: Appeals
   - Costs assessment process
     - Costs order does not provide specific amount payable.
     - Parties will try to agree between themselves on the amount of costs payable.
-    - If parties are unable to agree, then winner will arrange for the costs to be quantified or ‘assessed’.
+    - If parties are unable to agree, then winner will arrange for the costs to be quantified or 'assessed'.
     - Two stages: 
-      - winning party prepares a ‘bill of costs’; 
+      - winning party prepares a 'bill of costs'; 
       - costs will be assessed at an informal hearing before an assessor.
   - Costs orders against legal practitioners
     - s 99 of the CPA provides for costs orders against legal practitioners where costs have been incurred:
@@ -3161,9 +3169,9 @@ Week 12: Appeals
       - See Treadwell v Hickey [2010] NSWSC 1119.
     - Supreme Court Practice Note 5 – General Division 
     - Cachia v Hanes (1994) 179 CLR 403 – costs for the litigant in person.
-    - Bell Lawyers v Pentelow [2019] HCA 29 - No exception to Cachia for self-represented legal practitioners (cf the earlier ‘Chorley exception’)
+    - Bell Lawyers v Pentelow [2019] HCA 29 - No exception to Cachia for self-represented legal practitioners (cf the earlier 'Chorley exception')
   - Firth v Latham & Ors [2007] NSWCA 40
-    - Case revolved around what constitutes ‘reasonable prospects of success.’
+    - Case revolved around what constitutes 'reasonable prospects of success.'
     - A local Council was added as a defendant in a case involving an injury caused as a result of a motor vehicle accident.
     - The Council had a total defence under s 43A of the Civil Liability Act 2002 (NSW).
     - The case against the Council was thus commenced without any reasonable prospects of success.
@@ -3176,7 +3184,7 @@ Week 12: Appeals
 
 - Strike out, Summary Disposal, and Vexatious Litigants
   - What is Strike out?
-    - Strike out def refers to a situation where a Court cuts down, or “strikes out”, a party’s pleadings, either in whole or in part.
+    - Strike out def refers to a situation where a Court cuts down, or "strikes out", a party's pleadings, either in whole or in part.
     - The UCPR tightly controls the circumstances in which Strike out can occur – r. 14.28.
     - A concept with a long history in the common law.
   - The role of pleadings
@@ -3186,26 +3194,26 @@ Week 12: Appeals
     - See also Markisic v Department of Community Services of New South Wales (No 2) [2006] NSWCA 321.
   - Strike out – r 14.28
     - r 14.28 is the key rule for Strike out. It provides:
-      - ‘(1) The court may at any stage of the proceedings order that the whole or any part of a pleading be struck out if the pleading:
+      - '(1) The court may at any stage of the proceedings order that the whole or any part of a pleading be struck out if the pleading:
         - (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading, or
         - (b) has a tendency to cause prejudice, embarrassment or delay in the proceedings, or
         - (c) is otherwise an abuse of the process of the court. 
-      - (2) The court may receive evidence on the hearing of an application for an order under subrule (1).’
+      - (2) The court may receive evidence on the hearing of an application for an order under subrule (1).'
   - r 14.28(1)(a) – discloses no reasonable cause of action/defence
     - Similar in some ways to the old demurrer procedure i.e. no evidence is led, it is the wording of the pleading itself.
-    - “A pleading or part thereof will be struck out if the court is satisfied that even if all the allegations of fact set out in the pleading are proved, those facts would not establish the essential ingredients of a cause of action or constitute a defence”
+    - "A pleading or part thereof will be struck out if the court is satisfied that even if all the allegations of fact set out in the pleading are proved, those facts would not establish the essential ingredients of a cause of action or constitute a defence"
   - r 14.28(1)(a) – discloses no reasonable cause of action/defence cont.
     - A hypothetical: a statement of claim alleges a cause of action in negligence and a cause of action in trespass. 
     - The facts in the statement all attest to how the plaintiff saw their neighbour routinely jump their fence and come onto their property.
     - One part of the pleading (trespass) can clearly be made out. 
     - However, there is nothing in the facts that could possibly disclose an action in negligence – that part could be struck-out under r 14.28(1)(a).
   - r 14.28(1)(b) – tends to cause prejudice, embarrassment or delay
-    - “A pleading or part thereof may tend to prejudice, embarrass or delay the fair trial of the proceedings if it contains allegations which are vague or imprecise such that the other party cannot plead to such allegations specifically, or if it contains allegations that are irrelevant, unnecessary or scandalous”:
+    - "A pleading or part thereof may tend to prejudice, embarrass or delay the fair trial of the proceedings if it contains allegations which are vague or imprecise such that the other party cannot plead to such allegations specifically, or if it contains allegations that are irrelevant, unnecessary or scandalous":
     - Priest v New South Wales [2006] NSWSC 12	
   - r 14.28(1)(c) – abuse of process
     - Courts have an inherent jurisdiction to prevent the abuse of their processes.
-    - In Hunter v Chief Constable of West Midland Police [1982] AC 529, at 536, this power was described as preventing a misuse of the court’s procedure in a way “which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it, or would otherwise bring the administration of justice into disrepute among right-thinking people.”
-    - Abuse of the process of the court ‘is insusceptible of a formulation comprising closed categories’ - 
+    - In Hunter v Chief Constable of West Midland Police [1982] AC 529, at 536, this power was described as preventing a misuse of the court's procedure in a way "which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it, or would otherwise bring the administration of justice into disrepute among right-thinking people."
+    - Abuse of the process of the court 'is insusceptible of a formulation comprising closed categories' - 
       - Batistatos v Road and Traffic Authority NSW (2006) 226 CLR 256.
     - Examples of abuse of process include:
       - The institution of proceedings for an improper purpose – 
@@ -3223,21 +3231,21 @@ Week 12: Appeals
       - Destruction of evidence – 
         - Palavi v Queensland Newspapers Pty Ltd (2012) 84 NSWLR 523
   - Court wary of striking-out pleadings
-    - The ordinary presumption of the legal system is that people are entitled to their ‘day in Court’.
+    - The ordinary presumption of the legal system is that people are entitled to their 'day in Court'.
     - That being the case, the power to strike out pleadings is one the Court will only use sparingly and in clear cases.
   - Summary disposal
-    - Summary disposal is a label used to describe applications to the court that can result in proceedings being concluded before a trial.’:
+    - Summary disposal is a label used to describe applications to the court that can result in proceedings being concluded before a trial.':
       - Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4th ed, Thomson Reuters, 2020), 930.
     - Pt 13 of the UCPR provides for (amongst other things):
       - Summary judgment – r 13.1;
       - Frivolous and vexatious proceedings (summary dismissal) – r 13.4;
       - Non-appearance by the plaintiff – r 13.6
   - Difference between summary disposal and Strike out
-    - “Unlike UCPR Pt 13, applications under this rule (here it is talking about r 14.28) are directed to the form of the pleading rather than to the merits, or lack thereof, of the respective parties, and if the application is successful the order usually made is not that the proceedings be struck out or dismissed, but that the pleading or particular parts thereof be struck out, usually with leave given to file an amended document (replead), in which case the proceedings remain on foot.
-    - If on the other hand, the evidence establishes that, no matter how the plaintiff pleads his or her case, he or she has no arguable cause of action and cannot possibly succeed, the proceedings should be dismissed pursuant to r 13.4”:
+    - "Unlike UCPR Pt 13, applications under this rule (here it is talking about r 14.28) are directed to the form of the pleading rather than to the merits, or lack thereof, of the respective parties, and if the application is successful the order usually made is not that the proceedings be struck out or dismissed, but that the pleading or particular parts thereof be struck out, usually with leave given to file an amended document (replead), in which case the proceedings remain on foot.
+    - If on the other hand, the evidence establishes that, no matter how the plaintiff pleads his or her case, he or she has no arguable cause of action and cannot possibly succeed, the proceedings should be dismissed pursuant to r 13.4":
   - Summary disposal – summary judgment, r 13.1
     - r 13.1 provides that:
-      - “(1) If, on application by the plaintiff in relation to the plaintiff's claim for relief or any part of the plaintiff's claim for relief:
+      - "(1) If, on application by the plaintiff in relation to the plaintiff's claim for relief or any part of the plaintiff's claim for relief:
         - (a) there is evidence of the facts on which the claim or part of the claim is based, and
         - (b) there is evidence, given by the plaintiff or by some responsible person, that, in the belief of the person giving the evidence, the defendant has no defence to the claim or part of the claim, or no defence except as to the amount of any damages claimed, 
       - the court may give such judgment for the plaintiff, or make such order on the claim or that part of the claim, as the case requires.
@@ -3251,27 +3259,27 @@ Week 12: Appeals
   - Summary dismissal, r 13.4
     - Whereas summary judgment is for the plaintiff, summary dismissal provides a corresponding right for the defendant.
     - Relevant rule is r 13.4:
-      - ‘(1) If in any proceedings it appears to the court that in relation to the proceedings generally or in relation to any claim for relief in the proceedings:
+      - '(1) If in any proceedings it appears to the court that in relation to the proceedings generally or in relation to any claim for relief in the proceedings:
         - (a) the proceedings are frivolous or vexatious, or
         - (b) no reasonable cause of action is disclosed, or
         - (c) the proceedings are an abuse of the process of the court,
-    - the court may order that the proceedings be dismissed generally or in relation to that claim.’
+    - the court may order that the proceedings be dismissed generally or in relation to that claim.'
   - r 13.4(1)(a) – frivolous or vexatious proceedings
-    - Although related, “frivolous” and “vexatious” are conceptually distinct.
-    - “Material is frivolous where it is without substance, or groundless or fanciful, and it is vexatious where it lacks bona fides and is hopeless or oppressive and tends to cause the opposite side unnecessary anxiety, trouble and expense” 
-      - – Bullen and Leake and Jacob’s Precedents of Pleading (12 th ed, Sweet & Maxwell: 1975), 145.
+    - Although related, "frivolous" and "vexatious" are conceptually distinct.
+    - "Material is frivolous where it is without substance, or groundless or fanciful, and it is vexatious where it lacks bona fides and is hopeless or oppressive and tends to cause the opposite side unnecessary anxiety, trouble and expense" 
+      - – Bullen and Leake and Jacob's Precedents of Pleading (12 th ed, Sweet & Maxwell: 1975), 145.
   - Summary dismissal - procedure
     - Ordinarily summary disposal will be instigated by an application from the defendant i.e. by way of motion (Pt 18 UCPR) supported by affidavit (Pt 35).
-    - HOWEVER, remember the general presumption: “
-      - “Where the court is asked to reject the plaintiff’s case, either under its statutory rules or its inherent jurisdiction, the fundamental principle is that prima facie a plaintiff is entitled to have his case come to trial; and applications to deprive him of that right will succeed only in the clearest of cases...fatal defects in the plaintiff’s case must be very clear before the court will intervene in this fashion”: 
+    - HOWEVER, remember the general presumption: "
+      - "Where the court is asked to reject the plaintiff's case, either under its statutory rules or its inherent jurisdiction, the fundamental principle is that prima facie a plaintiff is entitled to have his case come to trial; and applications to deprive him of that right will succeed only in the clearest of cases...fatal defects in the plaintiff's case must be very clear before the court will intervene in this fashion": 
       - Brimson v Rocla Concrete Pipes Ltd [1982] 2 NSWLR 937, 944.
   - General Steel Industries Inc v Commissioner for Railways (NSW) (1964) 112 CLR 125
     - Key case on summary dismissal/Strike out.
     - Case involved the plaintiff alleging patent infringement against the defendants related to the construction of rail carriage bearings. 
       - The defendants in turn argued this was permitted by ss 125 and 132 of the Patents Act 1952-1960 (Cth).
-      - Barwick CJ agreed, striking out the plaintiff’s statement of claim and dismissing the proceedings.
+      - Barwick CJ agreed, striking out the plaintiff's statement of claim and dismissing the proceedings.
     - Barwick CJ: summary dismissal is a drastic step to be taken with great caution. Over the years, that caution has been expressed as only dismissing cases that are:
-      - So obviously untenable that it couldn’t succeed;
+      - So obviously untenable that it couldn't succeed;
       - Manifestly groundless;
       - So manifestly faulty that it does not admit of argument or cannot possibly succeed;
       - Under no possibility could there be a good cause of action;
@@ -3280,13 +3288,13 @@ Week 12: Appeals
         - Cosmos E-C Comerce v Bidwell [2005] NSWCA 81.
   - r 13.6 – dismissal where plaintiff fails to appear
     - r 13.6 provides for the dismissal of proceedings where the plaintiff fails to appear for a hearing that was adjourned because of their absence.
-    - r 13.6(1): if plaintiff doesn’t turn up for a hearing, then the Court can adjourn to another date. 
-      - Not less than five days before that new date, a notice of the adjournment will be served on the plaintiff advising them that if they don’t turn up for this new date, then their proceedings may be dismissed.
-    - r 13.6(2): court can dismiss plaintiff’s proceedings if given notice of adjourned hearings.
+    - r 13.6(1): if plaintiff doesn't turn up for a hearing, then the Court can adjourn to another date. 
+      - Not less than five days before that new date, a notice of the adjournment will be served on the plaintiff advising them that if they don't turn up for this new date, then their proceedings may be dismissed.
+    - r 13.6(2): court can dismiss plaintiff's proceedings if given notice of adjourned hearings.
   - Default judgments
     - What is a default judgment?
-      - ‘A default judgement applies to proceedings commenced by statement of claim...and is a judgment entered by virtue of court rules rather than one ordered by the court. 
-      - A default judgement can be entered if the defendant is in “default”...’: Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 931.
+      - 'A default judgement applies to proceedings commenced by statement of claim...and is a judgment entered by virtue of court rules rather than one ordered by the court. 
+      - A default judgement can be entered if the defendant is in "default"...': Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 931.
     - Arises in situations of procedural shortcoming defined by r 16.2 e.g. failing to file a defence in time, failing to file any affidavit verifying a defence, having a defence struck out.
       - r 16.3 is the master rule for default judgments.
       - r 16.3(1): plaintiff has to apply for a default judgment.
@@ -3298,38 +3306,38 @@ Week 12: Appeals
       - NB – the affidavit in support must attest to different things depending upon whether the default judgment is for debt or liquidated damages (r 16.6) or unliquidated damages (r 16.7).
   - Overturning a default judgment
     - r 36.16:
-      - ‘(2) The court may set aside or vary a judgment or order after it has bee entered if:
+      - '(2) The court may set aside or vary a judgment or order after it has bee entered if:
         - (a) it is a default judgment (other than a default judgment given in open court), or
-        - (b) it has been given or made in the absence of a party, whether or not the absent party had notice of the relevant hearing or of the application for the judgment or order...’
+        - (b) it has been given or made in the absence of a party, whether or not the absent party had notice of the relevant hearing or of the application for the judgment or order...'
     - Defendant would seek overturn by way of motion supported by an affidavit.
     - The affidavit would lay out the grounds on which the overturn was sought and that there is a defence to the claim that has merit.
-      - The fundamental (but not the only) principles guiding a court asked to exercise the unfettered discretion UCPR r 36.16(2)(a) confers, are whether the applicant has a bona fide ground of defence, an adequate explanation for failure to defend and the length of any delay...In the final analysis, it is necessary to consider whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits...’:
+      - The fundamental (but not the only) principles guiding a court asked to exercise the unfettered discretion UCPR r 36.16(2)(a) confers, are whether the applicant has a bona fide ground of defence, an adequate explanation for failure to defend and the length of any delay...In the final analysis, it is necessary to consider whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits...':
         - Dunwoodie v Teachers Mutual Bank Ltd [2014] NSWCA 24, at [43].
-      - ‘I would only add [to Dunwoodie] that, in my view, in determining whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits, it is appropriate for the Court to consider the relative weight of each of the individual considerations of the strength of any defence, the adequacy of the explanation for the failure to defend proceedings and the length of any delay. 
-      - So that, for example, although the Court does not embark upon a hearing of the full merits of the case, the existence of what would appear to be a strong defence would warrant a more indulgent approach regarding the adequacy of the explanation for the failure to defend.’ 
+      - 'I would only add [to Dunwoodie] that, in my view, in determining whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits, it is appropriate for the Court to consider the relative weight of each of the individual considerations of the strength of any defence, the adequacy of the explanation for the failure to defend proceedings and the length of any delay. 
+      - So that, for example, although the Court does not embark upon a hearing of the full merits of the case, the existence of what would appear to be a strong defence would warrant a more indulgent approach regarding the adequacy of the explanation for the failure to defend.' 
         - Cronau v Vavakis (No 3) [2018] NSWSC 1973, at [5].
   - Dismissal for want of due despatch
     - r 12.7:
-      - ‘(1) If a plaintiff does not prosecute the proceedings with due despatch, the court may order that the proceedings be dismissed or make such other order as the court thinks fit.
-      - (2) If the defendant does not conduct the defence with due despatch, the court may strike out the defence, either in whole or in part, or make such other order as the court thinks fit.’
+      - '(1) If a plaintiff does not prosecute the proceedings with due despatch, the court may order that the proceedings be dismissed or make such other order as the court thinks fit.
+      - (2) If the defendant does not conduct the defence with due despatch, the court may strike out the defence, either in whole or in part, or make such other order as the court thinks fit.'
     - Examples of things which reflect lack of due despatch can include changing solicitors frequently, seeking many adjournments, not abiding by the correct procedural steps etc -
       - Building Insurers' Guarantee Corp. v. Daniel Touma & Ors. [2010] NSWSC 4.
-    - “The central consideration in a want of prosecution case is whether, at the time when the action is likely to be tried, it will be capable of being tried adequately and fairly”: 
+    - "The central consideration in a want of prosecution case is whether, at the time when the action is likely to be tried, it will be capable of being tried adequately and fairly": 
       - McKenna v McKenna [1984] VR 665, 666.
     - Party seeking dismissal for want of due despatch would apply by way of motion supported by affidavit.
-    - NB - r 12.8 allows the Supreme Court and Land and Environment Court to dismiss proceedings of their own accord if it appears from the court’s records that, for over 5 months, no party to the proceedings has taken any step in the proceedings.
+    - NB - r 12.8 allows the Supreme Court and Land and Environment Court to dismiss proceedings of their own accord if it appears from the court's records that, for over 5 months, no party to the proceedings has taken any step in the proceedings.
   - Vexatious litigants
-    - Vexatious litigants form a very small sub-class of litigants who persistently begin legal actions but don’t have sufficient grounds for doing so.
+    - Vexatious litigants form a very small sub-class of litigants who persistently begin legal actions but don't have sufficient grounds for doing so.
     - An example is John Wilson, prominent in the Australian sovereign citizen movement.
     - For the purposes of s 6 of the Vexatious Proceedings Act 2008 (NSW), vexatious proceedings include:
-      - ‘(a) proceedings that are an abuse of the process of a court or tribunal, and
+      - '(a) proceedings that are an abuse of the process of a court or tribunal, and
       - (b) proceedings instituted to harass or annoy, to cause delay or detriment, or for another wrongful purpose, and
       - (c) proceedings instituted or pursued without reasonable ground, and
-      - (d) proceedings that are conducted to achieve a wrongful purpose, or in a way that harasses, or causes unreasonable annoyance, delay or detriment, regardless of the subjective intention or motive of the person who instituted the proceedings.’
+      - (d) proceedings that are conducted to achieve a wrongful purpose, or in a way that harasses, or causes unreasonable annoyance, delay or detriment, regardless of the subjective intention or motive of the person who instituted the proceedings.'
     - Relevant parts of s 8 of Vexatious Proceedings Act 2008 (NSW):
-      - s 8(1): an order can apply to someone who has “frequently” instituted or conducted vexatious proceedings in Australia, or someone working in concert with such a person.
+      - s 8(1): an order can apply to someone who has "frequently" instituted or conducted vexatious proceedings in Australia, or someone working in concert with such a person.
       - s 8(3): the person subject to the order has a right to be heard before that order is made.
-      - s 8(4): an order can be made on the Court’s own motion, or it can be made on the instigation of the Attorney-General, the Solicitor General, the registrar of the Court, a party against or in relation to whom the litigant has commenced vexatious proceedings, or anyone else possessing a sufficient interest.
+      - s 8(4): an order can be made on the Court's own motion, or it can be made on the instigation of the Attorney-General, the Solicitor General, the registrar of the Court, a party against or in relation to whom the litigant has commenced vexatious proceedings, or anyone else possessing a sufficient interest.
       - s 8(7): an order can stay any of their current proceedings, or indeed prohibit them from instituting proceedings in NSW at all.
     - Register of vexatious litigants kept on Supreme Court website:
       - http://www.supremecourt.justice.nsw.gov.au/Pages/sco2_practiceprocedure/SCO2_vexatiousproceedings.aspx#Istherearegisterofvexatiouslitigantsandtheordersthatapplytothem
@@ -3340,21 +3348,21 @@ Week 12: Appeals
       - Cases centre on a wide variety of matters e.g. English-language test, speeding tickets, social security payments, employment decisions and a suspension from studies as a law student.
       - The 2014 case saw the NSW Attorney-General apply to the Supreme Court to have Mr Rahman designated as a vexatious litigant.
     - Justice Adams drew upon Justice Davies in Attorney General in and for the State of NSW v Gargan [2010] NSWSC 1192 in identifying some key considerations:
-      - ‘(a) the test of "frequently" is a less demanding test than was required under s 84 Supreme Court Act 1970;
+      - '(a) the test of "frequently" is a less demanding test than was required under s 84 Supreme Court Act 1970;
       - (b) the term "frequently" is a relative term and must be looked at in the context of the litigation being considered;
       - (c) the number of proceedings considered may be small if the proceedings are an attempt to re-litigate an issue already determined against the person;
     - Key considerations continued:
-      - ‘(d) regard may be had to applications made by the person in proceedings commenced against that person;
+      - '(d) regard may be had to applications made by the person in proceedings commenced against that person;
       - (e) regard may be had to the way the person has behaved and conducted himself or herself in the proceedings before the Court;
       - (f) regard may be had to proceedings in any Australian court or tribunal;
-      - (g) regard may be had to the findings and result in the proceedings under consideration.’
-    - Remember: “the making of such an order is an extreme remedy depriving its object of recourse to the enforcement of the law which is every citizen's ordinary right. 
+      - (g) regard may be had to the findings and result in the proceedings under consideration.'
+    - Remember: "the making of such an order is an extreme remedy depriving its object of recourse to the enforcement of the law which is every citizen's ordinary right. 
       - It is, therefore, not lightly to be made.
 ## Week 11: Enforcing Judgments
 
 - Enforcing Judgments
   - What is judgment enforcement?
-    - ‘Enforcement is the process by which compliance with a determination or order of a court is compelled’: Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 987.
+    - 'Enforcement is the process by which compliance with a determination or order of a court is compelled': Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 987.
     - Enforcement is pursued by a judgment creditor against a judgment debtor:
       - Judgment debtor: owes money pursuant to court order.
       - Judgment creditor: is owed money pursuant to court order.
@@ -3376,7 +3384,7 @@ Week 12: Appeals
     - Judgment debtors might be tempted to put off paying damages so that inflation whittles away their value.
     - s 101 of the Civil Procedure Act 2005 (NSW): 
       - provides that judgment debts incur interest until paid. 
-      - Interest payable at the ‘prescribed rate’.
+      - Interest payable at the 'prescribed rate'.
     - No interest payable if full amount paid within 28 days of judgment.
   - Writs of execution
     - Writ of execution: court orders addressed to the Sheriff authorising him/her to seize and sell goods, land, money and other assets of a judgment debtor.
@@ -3395,13 +3403,13 @@ Week 12: Appeals
       - Those requiring the payment of money – s 106 CPA; and
       - Those involving mandatory or injunctive orders.
   - When is a judgment enforceable?
-    - s 133 CPA: ‘A judgment or order of the court may not be enforced until it has been entered in accordance with the uniform rules.’
-    - r 36.11(2): ‘Unless the court orders otherwise, a judgment or order is taken to be entered when it is recorded in the court's computerised court record system.’
+    - s 133 CPA: 'A judgment or order of the court may not be enforced until it has been entered in accordance with the uniform rules.'
+    - r 36.11(2): 'Unless the court orders otherwise, a judgment or order is taken to be entered when it is recorded in the court's computerised court record system.'
     - s 17 of the Limitation Act 1969 (NSW): judgment is enforceable for 12 years from when it is entered in the Court records.
   - Orders for examination
     - Orders for examination may sometimes be necessary to ascertain the financial circumstances of the judgment debtor.
     - s 108 CPA: 
-      - the court can order the judgment debtor to attend court to be orally examined and/or to produce documents as to their financial circumstances. Debtor must answer “material questions.”
+      - the court can order the judgment debtor to attend court to be orally examined and/or to produce documents as to their financial circumstances. Debtor must answer "material questions."
     - Relevant UCPR rules: rr 38.1 & 38.2
   - Judgment for the payment of money
     - s 106(1) CPA: judgment for the payment of money can be enforced through three main instruments:
@@ -3423,7 +3431,7 @@ Week 12: Appeals
     - r 39.6(3): land must not be sold before other property unless the judgment debtor requests it.
     - NB – the sheriff requires a valid writ, otherwise they are technically committing trespass.
   - Instalment orders
-    - s 107(1)(b): the court can make an order for the ‘payment of the judgment debt by instalments, payable in such amounts and at such times as are specified in the order.’
+    - s 107(1)(b): the court can make an order for the 'payment of the judgment debt by instalments, payable in such amounts and at such times as are specified in the order.'
     - Two main situations in which an instalment order can be made:
       - 1. As a result of an agreement between the judgment creditor and debtor: r 37.1A;
       - 2. Judgment debtor can apply for one: r 37.2. 
@@ -3436,7 +3444,7 @@ Week 12: Appeals
   - Orders against third parties
     - Two main orders against third parties:
     - Garnishee order
-      - Can target parties that owe the judgment debtor money (e.g. banks) or the debtor’s employer (rr 39.36 & 39.37).
+      - Can target parties that owe the judgment debtor money (e.g. banks) or the debtor's employer (rr 39.36 & 39.37).
       - Judgment creditor applies by way of notice of motion supported by affidavit (rr 39.34 & 39.35).
     - Charging order
       - Order made against the beneficial interest debtor has in any securities.
@@ -3491,7 +3499,7 @@ Week 12: Appeals
       - s 75A(5) – an appeal is by way of a rehearing.
       - s 75A(6) – appellate court has all the powers and duties of the original court.
       - s 75A(7) – the court may receive further evidence.
-      - s 75A(8) – despite ss 7, where the appeal is from a judgment after a trial or hearing on the merits, the court won’t receive further evidence except on special grounds.
+      - s 75A(8) – despite ss 7, where the appeal is from a judgment after a trial or hearing on the merits, the court won't receive further evidence except on special grounds.
     - See Fox v Percy (2003) 214 CLR 118 at [27]; 
     - House v R (1936) 55 CLR 499 at 504–5.
   - Appeal process timeframes
@@ -3704,7 +3712,7 @@ Subpoena:
 - Rules 33.1, 33.3, 33.4, 33.6(1): Subpoenas compel the production of documents or attendance for testimony.
 Interlocutory Orders (Week 8)
 Security for Costs:
-- UCPR Rule 42.21 and CPA Section 67: Provides for security to be given for the defendant’s costs.
+- UCPR Rule 42.21 and CPA Section 67: Provides for security to be given for the defendant's costs.
 Interim Injunctions:
 - Criteria for Interlocutory Injunctions:
   - ABC v O'Neill (2006): Plaintiff must show a prima facie case and that the balance of convenience favours granting the injunction.
@@ -3782,7 +3790,7 @@ Writs of Execution:
     - Four different methods of service internationally:
       - 1. Service by private means (i.e. using a process server or local agent in the concerned country).	
         - rr 11.4, 11.6-11.7, 11.8AA-11.8AC
-      - 2. Service through diplomatic channels i.e. through using the Attorney-General’s office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
+      - 2. Service through diplomatic channels i.e. through using the Attorney-General's office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
       - 3. Service pursuant to the Hague Convention. Regulated by Part 11A of the UCPR; and
       - 4. Service arrangements agreed in bilateral treaties. Service by private means is most important for our purposes.
 - Evidence in Proceedings - Week 7
@@ -3805,12 +3813,12 @@ Writs of Execution:
   - Objection to produce documents founded on privilege
     - r 1.9
 - Interlocutory orders - Week 8
-  - Security for the defendant’s cost
+  - Security for the defendant's cost
     - r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
   - interim junction/interlocutory injunction 
     - S 18 of UCPR - need notice of motion form 20 UCPR
       - Two criteria for an interlocutory injunction
-        - Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+        - Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
           - 1. A prima facie case in relation to the substantive litigation; and
           - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
       - See ->
@@ -3850,7 +3858,7 @@ Writs of Execution:
         - CPA s 98(1)(c) 
     - The primary rule in relation to costs
       - Baulderstone Hornibrook v Gordian Runoff [2006] NSWSC 583. 
-        - Other things being equal, the loser has to pay the winner’s costs (the “loser pays” principle). See r 42.1 of the UCPR.
+        - Other things being equal, the loser has to pay the winner's costs (the "loser pays" principle). See r 42.1 of the UCPR.
         - However, courts have broad discretion to order costs: s 98 CPA
         - See also Pt 42 of the UCPR.
       - Case management decisions
@@ -3886,7 +3894,7 @@ Writs of Execution:
   - Dismissal for want of due despatch
     - r 12.7
   - Vexatious Proceedings Act 2008 (NSW)
-    - s 6 - Meaning of “vexatious proceedings”
+    - s 6 - Meaning of "vexatious proceedings"
     - s 8 - Making of vexatious proceedings order
     - s 14 - Application for leave to institute proceedings
     - s 16
@@ -4038,17 +4046,17 @@ Week 2 Ch 1: Introduction and Guiding Principles, Case Management and Purpose
 ● Procedural Law
 ○ Procedural Law def
 ● the law that governs the conduct of proceedings before the court
-● rules which are directed to governing or regulating the mode or conduct of court proceedings”: McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
-● Described as “adjectival” law
+● rules which are directed to governing or regulating the mode or conduct of court proceedings": McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
+● Described as "adjectival" law
 ● is governed by the lex fori which means that the applicable laws of procedure and evidence will be the laws of the forum, that is, the laws of the court which is hearing the claim.
 ● procedural law regulates the way in which substantive rights and obligations are claimed and enforced, without impacting on the definition of those particular substantive rights.
 ○ Substantive law is the law that defines legal rights, duties, powers and liabilities
 ● Judging Civil Justice
-Dame Hazel Genn, “Introduction: What Is Civil Justice for?” in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
+Dame Hazel Genn, "Introduction: What Is Civil Justice for?" in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
 ○ The significance of procedure
 ○ Sources of procedural law
 ○ ADVERSARIAL SYSTEM OF CIVIL LITIGATION
-○ “Cards on the table” approach to litigation
+○ "Cards on the table" approach to litigation
 Week 2 Ch 2: Case Management in New South Wales
 ● Intro
 ○ Traditional Adversarial preparation
@@ -4084,11 +4092,11 @@ Week 3: Access to Justice, Open Justice and Client Care
 ● Statutory power to close the court in civil proceedings
 ○ CPA s 71 - closing the court
 ○ Statutory power to make suppression and non-publication orders
-○ X” v Sydney Children’s Hospitals Specialty Network [2011] NSWSC 1272
+○ X" v Sydney Children's Hospitals Specialty Network [2011] NSWSC 1272
 ○ A v Bird; C v Bird [2015] NSWSC 570
 Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Periods
 ● Alternative Dispute Resolution (ADR)
-○ Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers)
+○ Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers)
 ○ Negotiation
 ○ Jurisdiction – an introduction
 ○ Transferring proceedings between courts
@@ -4097,7 +4105,7 @@ Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Perio
 ● Limitation periods
 ○ Limitation statutes impose a time limit within which you must commence proceedings for a cause of action.
 ○ Some common limitation periods
-○ [l]awyers may use ADR not for the accomplishment of a ‘better’ result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage”
+○ [l]awyers may use ADR not for the accomplishment of a 'better' result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage"
 ○ TYPES OF ADR PROCESSES
 ● Negotiation
 ○ The distinguishing feature of negotiation, compared to the other forms of dispute resolution that will be examined, is that negotiation involves no third party whose role is to facilitate, advise or determine the resolution of the dispute.
@@ -4128,8 +4136,8 @@ Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Perio
 ○ Specific limitations Chart
 ○
 Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Causes of Action, and Drafting Pleadings
-● Proceedings commenced by the ‘originating process’
-○ s 3 of the CPA: the originating process ‘means the process by which proceedings are commenced...’
+● Proceedings commenced by the 'originating process'
+○ s 3 of the CPA: the originating process 'means the process by which proceedings are commenced...'
 ○ r 6.2(1) of the UCPR: our originating process can take two forms:
 ● Statement of claim
 ○
@@ -4157,7 +4165,7 @@ Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Cause
 ○ JOINDER OF CAUSES OF Action
 ○ JOINDER, EFFICIENCY AND Costs
 ● Initiating Proceedings and Pleadings
-○ Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the “originating process” as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
+○ Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the "originating process" as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
 ○ APPEARANCE
 ○ PLEADINGS
 ○ Material facts
@@ -4235,7 +4243,7 @@ Week 7: Evidence in Proceedings
 ○ Drafting affidavits
 ○ Ying v Song [2010] NSWSC 1500
 Week 8: Interlocutory Applications and Injunctions
-● The court has power to order a plaintiff to give security for the defendant’s cost of defending the plaintiff’s claim and can order a stay of proceedings until the security is given
+● The court has power to order a plaintiff to give security for the defendant's cost of defending the plaintiff's claim and can order a stay of proceedings until the security is given
 ○ s r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
 ● Wollongong City Council v Legal Business Centre Pty Limited [2012] NSWCA 245
 ○ Jurisdiction:
@@ -4273,9 +4281,9 @@ Week 8: Interlocutory Applications and Injunctions
 ○ The majority judgment subsequently made explicitly clear that a freezing order is not to be used to provide security to a plaintiff.
 ○ Marango Investments Pty Ltd v Kingdom Towers 4 Pty Ltd [2019] NSWSC 801
 ○ Cardile v LED Builders Pty Ltd [1999] HCA 18; (1999) 198 CLR 380
-○ Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as “Mareva orders” or “asset preservation orders”)
+○ Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as "Mareva orders" or "asset preservation orders")
 ○ Search orders def are otherwise known as Anton Piller orders:
-○ Practice Note SC Gen 13 Supreme Court – Search Orders (also known as “Anton Piller Orders”)
+○ Practice Note SC Gen 13 Supreme Court – Search Orders (also known as "Anton Piller Orders")
 ● Interlocutory Applications and Injunctions
 ○ What is an interlocutory application?
 ○ The broad procedure for interlocutory applications
@@ -4376,14 +4384,14 @@ Week 12: Appeals
 - Procedural Law
   - Procedural Law def
 - the law that governs the conduct of proceedings before the court
-- rules which are directed to governing or regulating the mode or conduct of court proceedings”: McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
-- Described as “adjectival” law
+- rules which are directed to governing or regulating the mode or conduct of court proceedings": McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
+- Described as "adjectival" law
 - is governed by the lex fori which means that the applicable laws of procedure and evidence will be the laws of the forum, that is, the laws of the court which is hearing the claim. 
 - procedural law regulates the way in which substantive rights and obligations are claimed and enforced, without impacting on the definition of those particular substantive rights.
   - Substantive law is the law that defines legal rights, duties, powers and liabilities
     - The distinction between substantive and procedural law was stated by the majority in John Pfeiffer Pty Ltd v Rogerson [2000] HCA 36
 - Judging Civil Justice 
-### Dame Hazel Genn, “Introduction: What Is Civil Justice for?” in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
+### Dame Hazel Genn, "Introduction: What Is Civil Justice for?" in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
 
   - The significance of procedure 
     - Civil Justice system comprises
@@ -4458,7 +4466,7 @@ Week 12: Appeals
         - This case clarifies the scope of implied powers of courts, particularly concerning orders that affect the property rights of individuals post-judgment. 
         - It underscores the principle that courts' powers to make ancillary orders are limited to what is reasonably necessary for the effective exercise of expressly conferred jurisdiction, highlighting the balance between judicial discretion and statutory limits.
     - GUIDING PRINCIPLES FOR PROCEDURE 
-      - The CPA sets out that the “overriding purpose of this Act and of the rules of court, in their application to civil proceedings, is to facilitate the just, quick and cheap resolution of the real issues in the proceedings”: s 56.
+      - The CPA sets out that the "overriding purpose of this Act and of the rules of court, in their application to civil proceedings, is to facilitate the just, quick and cheap resolution of the real issues in the proceedings": s 56.
       - The court is to act in accordance with the dictates of justice in deciding whether to make any order or direction for the management of proceedings, including orders for amendment or adjournment: s 58.
       - When determining the overriding purpose and the objects of case management (ss 56 and 57) 
         - 1. the degree of difficulty or complexity to which the issues in the proceedings give rise; 
@@ -4473,10 +4481,10 @@ Week 12: Appeals
         - In addition, advocates use oral argument in the presentation of their case; 
       - the trial is the climactic end of the litigation process (and is distinct from the pre-trial stages of proceedings); and 
       - use of the trial transcript for an appeal.
-  - “Cards on the table” approach to litigation 
+  - "Cards on the table" approach to litigation 
     - Conducting litigation as if it were a card game is now discouraged in the adversarial system. 
     - In Nowlan v Marson Transport Pty Ltd (2001) 53 NSWLR 116, Heydon JA said at [26]: 
-      - The conduct of litigation as if it were a card game in which opponents never see some of each other’s cards until the last moment is out of line with modern trends.
+      - The conduct of litigation as if it were a card game in which opponents never see some of each other's cards until the last moment is out of line with modern trends.
     - Baulderstone Hornibrook Engineering Pty Ltd v Gordian Runoff Ltd [2008] NSWCA 243
       - Jurisdiction & Citation: 
         - New South Wales Court of Appeal, persuasive authority outside NSW but binding within.
@@ -4508,7 +4516,7 @@ Week 12: Appeals
 - Intro
   - Traditional Adversarial preparation
     - Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 at [113], the High Court stated, 
-      - “In the past it has been left largely to the parties to prepare for trial and to seek the court’s assistance as required. Those times are long gone”.
+      - "In the past it has been left largely to the parties to prepare for trial and to seek the court's assistance as required. Those times are long gone".
 - JUSTICE DELAYED IS JUSTICE DENIED 
   -  Jackamara v Krakouer (1998) 195 CLR 516 at 526–527
     - Delays are not beneficial and increase burden on the judicial system
@@ -4528,11 +4536,11 @@ Week 12: Appeals
       - The second way in which judicial case management has the potential to drive up expenses is simply by being excessive
 - CASELOAD MANAGEMENT AND MANAGERIAL JUDGING 
   - Case Management in New South Wales
-    - The New South Wales Courts do not have what the Americans call a “docket system” under which cases are assigned to the judge who will conduct the trial for management
+    - The New South Wales Courts do not have what the Americans call a "docket system" under which cases are assigned to the judge who will conduct the trial for management
   - The Act and Rules
     - The Civil Procedure Act 2005 and the Uniform Civil Procedure Rules confirm and re-enact the powers of courts to confine a case to issues genuinely in dispute and to ensure compliance with court orders, directions, rules and practices. 
     - When exercising any power a court is required to give effect to the overriding purpose expressed in the Act, namely: 
-      - to facilitate the “just, quick and cheap” resolution of the real issues in the proceedings. 
+      - to facilitate the "just, quick and cheap" resolution of the real issues in the proceedings. 
         - S 56
     - Objects of case management – s 57 CPA
       - The just determination of proceedings. 
@@ -4646,7 +4654,7 @@ Week 12: Appeals
       - UCPR 2.1 expands s 61(1) in two important respects: 
         - the power is not confined to making directions for the speedy determination of the real issues in 
         - the proceedings, but includes a power to make directions or orders as appear convenient for the just, cheap and quick disposal of the proceedings; and 
-        - the power is to give directions or orders “for the conduct of any proceedings”
+        - the power is to give directions or orders "for the conduct of any proceedings"
     - Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175; [2009] HCA 27
       - Jurisdiction: 
         - Supreme Court of the Australian Capital Territory
@@ -4684,7 +4692,7 @@ Week 12: Appeals
       - Overriding Purpose: 
         - The court emphasized the CPA's overriding purpose to ensure the just, quick, and cheap resolution of disputes. 
         - It criticized the resort to lengthy interlocutory proceedings over the privileged documents as contrary to this purpose.
-      - Court’s Powers: 
+      - Court's Powers: 
         - Highlighted the broad powers granted by the CPA, particularly under Part 6, to manage discovery issues and correct mistakes without extensive litigation. 
         - These powers are aimed at addressing real issues in disputes efficiently.
       - Case Management: 
@@ -4709,15 +4717,15 @@ Week 12: Appeals
         - Emphasizes the necessity for parties and their lawyers to cooperate genuinely and promptly to resolve interlocutory issues without resorting to court processes unnecessarily.
       - Case Management and CPA Objectives: 
         - Reflects on the broader objectives of case management under the CPA, including avoiding undue technical disputes and facilitating efficient dispute resolution.
-      - Solicitors’ Responsibilities: 
-        - Highlights the positive duty of legal representatives to support the CPA’s purposes, advocating for professional conduct that aligns with the administration of justice.
+      - Solicitors' Responsibilities: 
+        - Highlights the positive duty of legal representatives to support the CPA's purposes, advocating for professional conduct that aligns with the administration of justice.
     - Court's Directions:
       - Professional Conduct: 
         - Calls for civility, trust, and mutual respect among legal professionals, discouraging conduct that contradicts these values.
       - Efficient Dispute Resolution: 
         - Advises on practical steps for resolving interlocutory issues, such as reasonable information requests, last-resort motions, and focused litigation on real issues.
       - Cost Implications: 
-        - Warns that the court will use its powers to impose costs on parties or lawyers who engage in conduct contrary to the CPA’s objectives, emphasizing the importance of adhering to s 56 and related provisions.
+        - Warns that the court will use its powers to impose costs on parties or lawyers who engage in conduct contrary to the CPA's objectives, emphasizing the importance of adhering to s 56 and related provisions.
     - Conclusion: 
       - This case illustrates the critical role of the CPA and professional conduct rules in guiding the management of legal proceedings. 
       - It stresses the importance of cooperation, efficiency, and ethical behavior among legal practitioners to achieve the overarching goals of just, quick, and cheap resolution of disputes, as mandated by the CPA.
@@ -4739,15 +4747,15 @@ Week 12: Appeals
       - The court can also make orders permitting a witness to give evidence behind a screen or via encrypted video-link or closed circuit television from a remote point; such orders can prevent the public and also the litigant/s from identifying a witness by sight and/or sound. 
       - The court also has the power to make pseudonym orders to protect the true identity of a witness
     - Legislation
-      - The power to make orders to “close” justice can be the subject of specific legislation, 
+      - The power to make orders to "close" justice can be the subject of specific legislation, 
       - s 71 of the CPA permits a judge to close the court to the public (see [1.250]), and the Court Suppression and Non- publication Orders Act 2010 provides for the making of suppression and non-publication orders 
   - Common law power to depart from the open justice principle 
     -  Scott v Scott [1913] AC 417 at 437
-      - Chief object of the courts of justice must be to secure that justice is done” and that “it may well be that justice could not be done at all if it had to be done in public”
+      - Chief object of the courts of justice must be to secure that justice is done" and that "it may well be that justice could not be done at all if it had to be done in public"
     - John Fairfax Group Pty Ltd v Local Court of NSW (1991) 26 NSWLR 131 at 16
-      - The power to make orders to “close” justice is an inherent power of a superior court, and in statutory courts, the power to make orders that depart from the principle of open justice can be implied as necessary to the proper function of the court
-      - The power of the court to depart from the principle of open justice and make the orders described in [1.160] is on the basis that such orders are “really necessary to secure the proper administration of justice” in the proceedings
-      - only in “wholly exceptional” circumstances, not merely where such measures would be useful or desirable 
+      - The power to make orders to "close" justice is an inherent power of a superior court, and in statutory courts, the power to make orders that depart from the principle of open justice can be implied as necessary to the proper function of the court
+      - The power of the court to depart from the principle of open justice and make the orders described in [1.160] is on the basis that such orders are "really necessary to secure the proper administration of justice" in the proceedings
+      - only in "wholly exceptional" circumstances, not merely where such measures would be useful or desirable 
       - Attorney- General (NSW) v Mayas Pty Ltd (1988) 14 NSWLR 342 at 347 per Mahoney JA
         - and would save embarrassment, distress or financial loss: 
   - Hogan v Hinch (2011) 243 CLR 50
@@ -4781,7 +4789,7 @@ Week 12: Appeals
       - This case is pivotal in understanding the scope of legislative power in imposing constraints on court proceedings and the dissemination of related information, emphasizing the careful consideration required to uphold both transparency and justice.
   - Common law categories of cases that are exceptions to the open justice principle
     - Exceptions to the principle of open justice are valid in few categories of cases in the common law. 
-    - The exceptions are “strictly defined”: 
+    - The exceptions are "strictly defined": 
       - R v Tait (1979) 46 FLR 386 at 401; 
       - McPherson v McPherson [1936] AC 417 at 200; 
       - Russell v Russell (1976) 134 CLR 495; 
@@ -4843,18 +4851,18 @@ Week 12: Appeals
         - This case underscores the significance of the open justice principle in the judicial process, illustrating the careful consideration courts must give to requests for confidentiality and suppression orders. 
           - It highlights the judiciary's role in ensuring that justice is administered openly and transparently, except in exceptional circumstances where confidentiality is deemed necessary to prevent prejudice to the administration of justice. 
         - The decision reinforces the notion that agreements between parties to resolve disputes confidentially do not automatically warrant suppression of court proceedings.
-  - X” v Sydney Children’s Hospitals Specialty Network [2011] NSWSC 1272
+  - X" v Sydney Children's Hospitals Specialty Network [2011] NSWSC 1272
     - Jurisdiction: 
       - New South Wales Supreme Court 
     - Procedural History: 
-      - The Plaintiff sought an order under the Court Suppression and Non-publication Orders Act 2010 (NSW) to prohibit the publication of her name and other identifying information, including that of her family members, to protect her privacy and psychological well-being in litigation against the Sydney Children’s Hospitals Specialty Network.
+      - The Plaintiff sought an order under the Court Suppression and Non-publication Orders Act 2010 (NSW) to prohibit the publication of her name and other identifying information, including that of her family members, to protect her privacy and psychological well-being in litigation against the Sydney Children's Hospitals Specialty Network.
     - Original Dispute: 
-      - The dispute involves a legal action against the Sydney Children’s Hospitals Specialty Network, with the specific details of the claim not provided in the extracted summary.
+      - The dispute involves a legal action against the Sydney Children's Hospitals Specialty Network, with the specific details of the claim not provided in the extracted summary.
     - Reason for Trial: 
       - Application for a pseudonym order to protect the Plaintiff's identity due to her vulnerability and psychiatric condition.
     - Material Facts: 
       - The Plaintiff, represented by Ms. Sant, Junior Counsel, argued for the necessity of a pseudonym order based on the potential psychological harm and prejudice to the administration of justice that could arise from public disclosure of her identity. 
-      - The application was supported by the Plaintiff’s psychiatric condition and the potential for exacerbation of her symptoms if identified publicly.
+      - The application was supported by the Plaintiff's psychiatric condition and the potential for exacerbation of her symptoms if identified publicly.
     - Issue: 
       - Whether a suppression order to prevent the publication of the Plaintiff's identifying information is necessary to protect her psychological safety and ensure the proper administration of justice.
     - Law(s)/Statute(s) in Contention: 
@@ -4865,7 +4873,7 @@ Week 12: Appeals
       - Adamson J accepted the necessity of a pseudonym order to minimize harm to the Plaintiff and avoid prejudicing the administration of justice. 
       - The judgment emphasized the minimal interference such orders have on the principle of open justice, balanced against the need to protect vulnerable individuals' rights to pursue legal remedies without undue harm.
     - Ratio Decidendi: 
-      - The Court determined that a pseudonym order was necessary to protect the Plaintiff’s psychological safety and prevent prejudice to the proper administration of justice, considering the potential harm that could arise from public disclosure of her identity.
+      - The Court determined that a pseudonym order was necessary to protect the Plaintiff's psychological safety and prevent prejudice to the proper administration of justice, considering the potential harm that could arise from public disclosure of her identity.
     - Conclusion and Relevance to Modern Law: 
       - This case underscores the court's discretion to issue suppression orders under the Court Suppression and Non-publication Orders Act 2010 (NSW) to protect individuals' privacy and psychological well-being in sensitive cases. 
       - It highlights the balance between the public interest in open justice and the need to protect vulnerable parties from the potential negative impacts of litigation on their mental health and personal life. 
@@ -4899,9 +4907,9 @@ Week 12: Appeals
 ## Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Periods 
 
 - Alternative Dispute Resolution (ADR)
-  - Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers) 
+  - Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers) 
     - Accordingly, it falls to the lawyer to educate the client as to the options for dispute resolution
-      - A practitioner must inform the client or the instructing practitioner about the alternatives to fully contested adjudication of the case which are reasonably available to the client, unless the practitioner believes on reasonable grounds that the client already has such an understanding of those alternatives as to permit the client to make decisions about the client’s best interests in relation to the litigation
+      - A practitioner must inform the client or the instructing practitioner about the alternatives to fully contested adjudication of the case which are reasonably available to the client, unless the practitioner believes on reasonable grounds that the client already has such an understanding of those alternatives as to permit the client to make decisions about the client's best interests in relation to the litigation
     - Alternative Dispute Resolution ADR Def
       - an umbrella term for processes, other than judicial determination, in which an impartial person assists those in a dispute to resolve the issues between them
       - AKA Appropriate Dispute Resolution
@@ -4910,12 +4918,12 @@ Week 12: Appeals
     - Play to Win (Legal Negotiations Are a Zero-Sum Game)
       - Legal negotiations are about winning and playing to win. 
         - Playing to win means regarding negotiation as a zero-sum game
-          - A zero-sum game is a conception of bargaining in which one side’s loss is the other side’s gain
+          - A zero-sum game is a conception of bargaining in which one side's loss is the other side's gain
         - When information is only about winning, a culture of secrecy and non- disclosure develops in legal negotiations that borders on the paranoid.
         - Disclosure is giving away an advantage
     - ADR vs Court
       - ADR
-        - The adversarial system’s disadvantages, such as delay and cost, support the use of ADR
+        - The adversarial system's disadvantages, such as delay and cost, support the use of ADR
         - ADR is friendlier to both sides, especially parties with ongoing commercial relationships
       - Court
         - The courts wield the power of the State, 
@@ -4923,11 +4931,11 @@ Week 12: Appeals
         - ensure procedural fairness and render binding decisions in public that authoritatively state the law for the parties and society at large
     - Why companies often litigate
       - Generally, companies tend to litigate rather than employ ADR when: 
-        - (a) an important principle is involved, eg, the credibility of one’s product; 
+        - (a) an important principle is involved, eg, the credibility of one's product; 
         - (b) there is a need for legal precedent; 
         - (c) there is a need to send a message to the marketplace; 
         - (d) settlement would open the floodgates to frivolous litigation;
-        - (e) the claim is so large that the “discipline of litigation” is called for; 
+        - (e) the claim is so large that the "discipline of litigation" is called for; 
         - (f) the claim is bogus, eg, the business organization is in the case solely because of its deep pockets, or perhaps because it made a product in the chain of distribution even though the product had nothing to do with the alleged harm; 
         - (g) the law is heavily weighted in its favour ...; 
         - (h) senior management is unalterably opposed to settlement; 
@@ -5011,11 +5019,11 @@ Week 12: Appeals
       - Note option of rehearing: CPA ss 42-47
   - Negotiation 
     - Negotiation keywords
-      - Position: what a person says they want – a demand e.g. ‘I want $1,000,000 in damages for a breach of contract’ is a position.
-      - Interest: why the person has that position – the need, desire, fears or concerns behind the demand e.g. ‘I want the $1,000,000 because I need to shore up my business and be in a position to take future orders.’
+      - Position: what a person says they want – a demand e.g. 'I want $1,000,000 in damages for a breach of contract' is a position.
+      - Interest: why the person has that position – the need, desire, fears or concerns behind the demand e.g. 'I want the $1,000,000 because I need to shore up my business and be in a position to take future orders.'
     - Negotiation styles
       - Positional negotiation:
-        - based on parties’ respective positions or claims;
+        - based on parties' respective positions or claims;
         - linear and reciprocal concession-making moving towards a compromise;
         - adversarial and potentially damages relationships.
       - Interest-based negotiation:
@@ -5039,7 +5047,7 @@ Week 12: Appeals
       - A court must possess both in order to exercise judicial power over a person/entity.
     - Subject matter jurisdiction
       - s 23 of the Supreme Court Act 1970 (NSW): 
-        - ‘The Court shall have all jurisdiction which may be necessary for the administration of justice in New South Wales.’
+        - 'The Court shall have all jurisdiction which may be necessary for the administration of justice in New South Wales.'
       - Supreme Court divided into two main divisions:
         - the Common Law Division, which deals with civil, criminal and administrative law matters; and
         - the Equity Division hears cases involving commercial law, corporations law, equity, trusts, probate and matters pursuant to family provisions legislation.
@@ -5061,14 +5069,14 @@ Week 12: Appeals
         - the Jurisdiction of Courts (Cross-Vesting) Act 1987 (NSW). 
   - Transferring proceedings between courts
     - Discussing s 5 of the Jurisdiction of Courts (Cross-Vesting) Act 1987 (NSW): 
-      - ‘Section 5(1) provides for the transfer of proceedings from the Supreme Court to the Federal Court or Family Court; 
+      - 'Section 5(1) provides for the transfer of proceedings from the Supreme Court to the Federal Court or Family Court; 
       - s 5(2) provides for the transfer of proceedings from the Supreme Court to the Supreme Court of another State or Territory; 
       - s 5(3) for the transfer of proceedings in the Supreme Court of another State or Territory to the NSW Supreme Court; 
       - s 5(4) for the transfer of proceedings from the Federal or Family Court to the Supreme Court
   - Three considerations in transferring proceedings – s 5 Cross-Vesting Act
-    - 1. Whether, apart from the cross-vesting scheme ‘the relevant proceeding or a substantial part of it’ would have been incapable of being instituted in the court in question
+    - 1. Whether, apart from the cross-vesting scheme 'the relevant proceeding or a substantial part of it' would have been incapable of being instituted in the court in question
       - i.e. would the chosen Court have had the capacity to hear the dispute in the absence of the cross-vesting legislation;
-    - 2. The extent to which the case involved an issue of ‘the application, interpretation or validity of a law’ of the receiving court; and
+    - 2. The extent to which the case involved an issue of 'the application, interpretation or validity of a law' of the receiving court; and
     - 3. The interests of justice.
   - The interests of justice
     - BHP Billiton Ltd v Schultz (2004) 221 CLR 400 establishes that the interests of justice are broader than the interests of one party – rather, it involves weighing the interests of all the parties.
@@ -5094,8 +5102,8 @@ Week 12: Appeals
       - s 14(1)(a): for most breaches of contract, six year limitation period.
       - s 14(1)(b): six year limitation period for most species of tort.
       - s 27(2): twelve year limitation period in cases involving the recovery of land for people other than the Crown..
-      - s 50C(1): in cases of personal injury, three years post discovering the cause of action, or twelve years in the event you don’t discover it, whichever expires first
-  - [l]awyers may use ADR not for the accomplishment of a ‘better’ result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage”
+      - s 50C(1): in cases of personal injury, three years post discovering the cause of action, or twelve years in the event you don't discover it, whichever expires first
+  - [l]awyers may use ADR not for the accomplishment of a 'better' result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage"
   - TYPES OF ADR PROCESSES
     - Facilitative dispute resolution processes 
       - are processes in which a dispute resolution practitioner assists the parties to a dispute to identify the disputed issues, develop options, consider alternatives and endeavour to reach an agreement about some issues or the whole dispute. 
@@ -5137,7 +5145,7 @@ Week 12: Appeals
     - It involves a facilitated negotiation aimed at reaching an agreement. 
     - A neutral third party (the mediator) assists and facilitates an agreement between the parties.
   - Role of the lawyer	
-    - Scale of Lawyer’s role - Less to Most involvement scale
+    - Scale of Lawyer's role - Less to Most involvement scale
       - Absent advisor
         -  assists the client to prepare for the mediation but does not attend the mediation session itself.
       - Advisor observer
@@ -5167,16 +5175,16 @@ Week 12: Appeals
         - This is an opportunity to communicate directly with an opponent and a mediator.
     - Elements
       - Heading: 
-        - it should be headed up with the names and description of the parties (eg, plaintiff, lessor or sub- contractor) and marked “Without Prejudice and for use in the Mediation only”.
+        - it should be headed up with the names and description of the parties (eg, plaintiff, lessor or sub- contractor) and marked "Without Prejudice and for use in the Mediation only".
       - Formalities: 
         - it should also include the date and time of the mediation, the name of the mediator, a list of the individuals attending the mediation on behalf of the party on whose behalf the statement is made, and their connection with the dispute
       - Issues: 
         - it should identify the issues in the case, both legal and factual. 
         - The statement should also identify the key issues that are of vital importance to the parties at the date of the mediation
-      - Outline of the party’s case on issues: 
-        - the statement needs to clearly set out the party’s position in relation to each of the issues
-        - The statement may make brief reference to statements of case, key documents or evidence, and matters of law that support the party’s position
-      - The party’s interests and objectives: 
+      - Outline of the party's case on issues: 
+        - the statement needs to clearly set out the party's position in relation to each of the issues
+        - The statement may make brief reference to statements of case, key documents or evidence, and matters of law that support the party's position
+      - The party's interests and objectives: 
         - the key objectives that the party wants to achieve at the mediation should be identified.
   - Duty to act in good faith
     - S 27
@@ -5245,7 +5253,7 @@ Week 12: Appeals
     - A quasi-judicial process
     - The dispute is submitted to a third party (an arbitrator) who renders a binding determination (an award
   - Re Carus-Wilson & Greene (1886) 18 QBD 7,
-    - determinative feature of an arbitration as being an “inquiry in the nature of a judicial inquiry”
+    - determinative feature of an arbitration as being an "inquiry in the nature of a judicial inquiry"
   - Arbitration elements
     - Arenson v Casson Beckman Rutley & Co [1977] AC 40
       - (a) there is a dispute or a difference between the parties which has been formulated in some way or another; 
@@ -5304,7 +5312,7 @@ Week 12: Appeals
     - Law/Statute in Contention: 
       - Application of Rule 20.14 for referral to a referee, considering the case's intricacies and the potential for expedited, cost-effective resolution.
     - Precedences: 
-      - Reference to Ritchie’s Uniform Civil Procedure New South Wales on the discretionary nature of Rule 20.14.
+      - Reference to Ritchie's Uniform Civil Procedure New South Wales on the discretionary nature of Rule 20.14.
     - Judicial Opinions and Interpretation: 
       - Campbell J considered the benefits of referral to a referee, such as speed and flexibility, against potential drawbacks like lack of finality and legal complexities.
     - Legal Reasoning: 
@@ -5386,19 +5394,19 @@ Week 12: Appeals
     - LIMITATION PERIODS 
       - Time period to bring a claim
     - The rationale for imposing limitation periods - Brisbane South Regional Health Authority v Taylor [1996] HCA 25; (1996) 186 CLR 541
-      - The enactment of time limitations has been driven by the general perception that “[w]here there is delay the whole quality of justice deteriorates” [R v Lawrence [1982] AC 510 at 517
+      - The enactment of time limitations has been driven by the general perception that "[w]here there is delay the whole quality of justice deteriorates" [R v Lawrence [1982] AC 510 at 517
       - A verdict may appear well based on the evidence given in the proceedings, but, if the tribunal of fact had all the evidence concerning the matter, an opposite result may have ensued
       - four broad rationales for the enactment of limitation periods.
         - 1. As time goes by, relevant evidence is likely to be lost [Jones v Bellgrove Properties Ltd [1949] 2 KB 700 at 704
-        - 2. It is oppressive, even “cruel”, to a defendant to allow an action to be brought long after the circumstances which gave rise to it have passed [RB Policies at Lloyd’s v Butler [1950] 1 KB 76
+        - 2. It is oppressive, even "cruel", to a defendant to allow an action to be brought long after the circumstances which gave rise to it have passed [RB Policies at Lloyd's v Butler [1950] 1 KB 76
         - 3. People should be able to arrange their affairs and utilise their resources on the basis that claims can no longer be made against them
         - 4. Public interest requires that disputes be settled as quickly as possible.
   - Specific limitations Chart
   - 
 ## Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Causes of Action, and Drafting Pleadings
 
-- Proceedings commenced by the ‘originating process’
-  - s 3 of the CPA: the originating process ‘means the process by which proceedings are commenced...’
+- Proceedings commenced by the 'originating process'
+  - s 3 of the CPA: the originating process 'means the process by which proceedings are commenced...'
   - r 6.2(1) of the UCPR: our originating process can take two forms:
     - A statement of claim; or
     - A summons.
@@ -5413,7 +5421,7 @@ Week 12: Appeals
   - 
   - Statement of claim or a summons?
     - In general terms, statements of claim are usually required where the proceedings involve disputed contentions of fact and they will initiate the pre-trial and trial processes for that purpose. 
-    - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue.’
+    - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue.'
       - Kumar, Legg, Vickovich & Metzger, Civil Procedure in New South Wales (Lawbook Co, 2020), 488. 
     - r 6.3: proceedings required to be commenced by a statement of claim include:
       - a claim for relief in relation to a debt or other liquidated claim;
@@ -5428,9 +5436,9 @@ Week 12: Appeals
       - proceedings for preliminary discovery or inspection under Part
     - Touchstone: statements of claim used where we have substantive disputes involving contested questions of fact, whereas summons apply more to technical situations involving a question of law
   - What are pleadings?
-    - Pleadings def are formal documents filed in court and exchanged between the parties that set out the plaintiff’s claim and the defendant’s response to the claim. 
-    - The UCPR Dictionary indicates that ‘pleading’ includes a statement of claim, defence, reply and any subsequent pleading for which leave ... but does not include a summons or notice of motion’: Kumar, Legg, Vickovich & Metzger, 493.
-    - ‘The function of pleadings is to state with sufficient clarity the case that must be met...In this way, pleadings serve to ensure the basic requirement of procedural fairness that a party should have the opportunity of meeting the case against him or her and, incidentally, to define the issues for decision’: Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279 at [18]
+    - Pleadings def are formal documents filed in court and exchanged between the parties that set out the plaintiff's claim and the defendant's response to the claim. 
+    - The UCPR Dictionary indicates that 'pleading' includes a statement of claim, defence, reply and any subsequent pleading for which leave ... but does not include a summons or notice of motion': Kumar, Legg, Vickovich & Metzger, 493.
+    - 'The function of pleadings is to state with sufficient clarity the case that must be met...In this way, pleadings serve to ensure the basic requirement of procedural fairness that a party should have the opportunity of meeting the case against him or her and, incidentally, to define the issues for decision': Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279 at [18]
   - Pleadings – some general points of significance
     - Two general points of significance which should be taken into account regarding pleadings generally:
       - 1. Pleadings must be drafted and read very carefully for two main reasons:
@@ -5446,7 +5454,7 @@ Week 12: Appeals
     - r 14.8: pleadings as brief as the nature of the case allows
   - Particulars
     - What are particulars def? Bruce v Odhams Press Ltd [1936] 1 KB 697, 712-713:
-      - broadly, the purpose of particulars is ‘to fill in the picture of the plaintiff’s cause of action with information sufficiently detailed to put the defendant on his guard as to the case he has to meet and to enable him to prepare for trial.’
+      - broadly, the purpose of particulars is 'to fill in the picture of the plaintiff's cause of action with information sufficiently detailed to put the defendant on his guard as to the case he has to meet and to enable him to prepare for trial.'
     - Examples of distinction based on hypothetical of reckless bulldozer driver:
         - Pleading: the building collapsed on a certain date, caused by the negligence of the defendant;
         - Particular: the excavator failed to exercise due care when conducting the excavation. 
@@ -5460,12 +5468,12 @@ Week 12: Appeals
   - Joining parties
     - Joining parties def: broadly, where two or more plaintiffs or two or more defendants have interests in common, rather than having multiple proceedings heard separately, we can deal with their interests in the one proceeding.
     - r 6.19: parties can be joined where:
-      - ‘(a) separate proceedings...would give rise to a common question of law or fact, and
-      - (b)all rights of relief claimed in the originating process are in respect of, or arise out of, the same transaction or series of transactions, or if the court gives leave for them to be joined.’
+      - '(a) separate proceedings...would give rise to a common question of law or fact, and
+      - (b)all rights of relief claimed in the originating process are in respect of, or arise out of, the same transaction or series of transactions, or if the court gives leave for them to be joined.'
   - Joining parties cont.
     - What is a transaction for the purposes of r 6.19?
-      - ‘The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of ‘transaction’ in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
-      - It may mean simply an act by one party which affects another, thereby binding the two parties in a ‘transaction’ for the purposes of potential litigation’: 
+      - 'The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of 'transaction' in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
+      - It may mean simply an act by one party which affects another, thereby binding the two parties in a 'transaction' for the purposes of potential litigation': 
         - Kumar, Legg, Vickovich & Metzger, 389-390.
   - Joining causes of action
     - r 6.18 is the key provision.
@@ -5484,7 +5492,7 @@ Week 12: Appeals
     - Clearly, the common law favours the resolution of particular disputes between parties by the bringing of a single action rather than successive proceedings. 
     - The principles of res judicata, issue estoppel, and what has come to be known as Anshun estoppel, all find their roots in that policy. 
   - Res judicata def
-    - meaning “a matter already judged”, and sometimes referred to as “cause of action estoppel”
+    - meaning "a matter already judged", and sometimes referred to as "cause of action estoppel"
     - Issue estoppel may preclude a particular issue or matter in previous proceedings from being raised in any subsequent proceedings. 
     - Finally, Anshun estoppel def applies to a claim that could have been, but was not, made in the earlier proceedings
   - Joining plaintiffs 
@@ -5496,19 +5504,19 @@ Week 12: Appeals
   - Joining defendants 
     - Different defendants can be joined in the same proceedings if the claim of relief against each defendant arises out of the same transaction (or series of transactions) and the causes of action give rise to a common question of law or fact. 
   - What is a transaction? 
-    - The meaning of “transaction” is not settled and the term is not defined in the Dictionary of the UCPR. 
-    - The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of “transaction” in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
+    - The meaning of "transaction" is not settled and the term is not defined in the Dictionary of the UCPR. 
+    - The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of "transaction" in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
     -  Bendir v Anson [1936] 3 All ER 326. 
-      - The plaintiffs were owners of adjoining buildings who were affected in different ways by the defendant’s construction of a new building across the road.
-      - Lord Wright MR in the Court of Appeal discussed the preferable meaning of “transaction” and held there was no common question of fact. Because of that, it was preferable to exercise the court’s discretion in favour of separate trials.
+      - The plaintiffs were owners of adjoining buildings who were affected in different ways by the defendant's construction of a new building across the road.
+      - Lord Wright MR in the Court of Appeal discussed the preferable meaning of "transaction" and held there was no common question of fact. Because of that, it was preferable to exercise the court's discretion in favour of separate trials.
     - Birtles v Commonwealth [1960] VR 247. 
-      - the notion of “transaction” was given a broader interpretation than in Bendir v Anson
+      - the notion of "transaction" was given a broader interpretation than in Bendir v Anson
       - Facts
         - In that case the plaintiff, while at work digging a hole, used a crowbar that contacted a high-voltage underground cable. He suffered an electric shock and sued the occupier of the land (the Commonwealth), the State Electricity Commission (SEC) and his employer. 
         - All defendants claimed that the relevant limitation period had expired. 
-        - The SEC also claimed that it had not received the required statutory notice of the plaintiff’s intention to sue. 
+        - The SEC also claimed that it had not received the required statutory notice of the plaintiff's intention to sue. 
         - After the defences had been filed, the plaintiff changed his solicitor and sought to add his former solicitor as a new defendant in the proceedings in an action for negligence in the event that he failed against the existing defendants
-      - Adam J held that the “transaction” included the accident and injury to the plaintiff as well as the matters relating to the litigation and the limitation issue
+      - Adam J held that the "transaction" included the accident and injury to the plaintiff as well as the matters relating to the litigation and the limitation issue
     -  Payne v Young (1980) 145 CLR 609
       - Procedural History
         - The plaintiffs, operators of different Western Australian abattoirs, challenged the validity of regulations under which inspection fees were levied for carcass inspections by state authorities.
@@ -5579,7 +5587,7 @@ Week 12: Appeals
     - Can solve one issue with multiple different points of contention, but not multiple issues that have different facts but same issue. 
       - Bray v F Hoffmann-La Roche Ltd (2003) 130 FCR 317
 - Initiating Proceedings and Pleadings 
-  - Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the “originating process” as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
+  - Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the "originating process" as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
     - THE ORIGINATING PROCESS 
       - proceedings are initiated by using either a statement of claim or summons: UCPR r 6.2.
       - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue. UCPR r 6.4
@@ -5588,12 +5596,12 @@ Week 12: Appeals
       - Information that must be contained in the originating process is prescribed, as are the paper and margin sizes, those parts of the document that must be in bold print, and the requirements for a proper address for service. 
         - The originating process should also specifically state the relief claimed: UCPR r 6.12
   - APPEARANCE 
-    - The defendant may file an appearance or a defence and serve it on the plaintiff’s address for service as indicated on the plaintiff’s statement of claim or summons. 
+    - The defendant may file an appearance or a defence and serve it on the plaintiff's address for service as indicated on the plaintiff's statement of claim or summons. 
     - Regulated by rr 6, 7, and 12
     - Entering an appearance formally notifies the court and the plaintiff that the defendant intends to take some part in the proceedings and may indicate a submission to the jurisdiction.
     - It also acts as a waiver to object to any possibility that the originating process has failed to comply with the rules.
   - PLEADINGS 
-    - Pleadings are formal documents filed in court and exchanged between the parties that set out the plaintiff’s claim and the defendant’s response to the claim. 
+    - Pleadings are formal documents filed in court and exchanged between the parties that set out the plaintiff's claim and the defendant's response to the claim. 
       - includes a statement of claim, defence, reply and any subsequent pleading for which leave is given under Pt 14, but does not include a summons or notice of motion.
       - R 14 regulations
       - Pleadings may be amended and, with leave of the court, even at the stage of trial. 
@@ -5604,7 +5612,7 @@ Week 12: Appeals
       - Reason for Trial
         - The appeal focused on several key issues, including whether Malla breached the contract as pleaded, whether Temple was entitled to damages despite the pleading, the operation of Malla's guarantee, the composition of the May 23 agreement, and the interpretation of "unable to pay" within that agreement.
       - Material Facts
-        - Temple argued that Malla had breached a clause (cl 9.3) in the contract intended to protect Temple’s confidential information by engaging in activities with two Indian film projects without involving Temple for production management services.
+        - Temple argued that Malla had breached a clause (cl 9.3) in the contract intended to protect Temple's confidential information by engaging in activities with two Indian film projects without involving Temple for production management services.
       - Issue Raised
         - The appeal raised questions about the interpretation and enforcement of contractual obligations, the scope of a guarantee, and the impact of mischaracterization in pleadings on the outcome of a case.
       - Law(s)/Statute(s) in Contention
@@ -5616,14 +5624,14 @@ Week 12: Appeals
         - The court's decision centered on the notion that a case can be decided based on the facts and evidence presented at trial, even if they diverge from the specific claims or defenses pleaded. 
         - This approach is contingent on ensuring that such a decision does not unfairly prejudice the opposing party.
       - Conclusion and Relevance to Modern Law
-        - The Films and Casting Temple v Malla case underscores the NSW Court of Appeal’s approach to dealing with issues of contractual interpretation, the importance of clear and accurate pleading in litigation, and the discretion of courts to grant relief based on the substance of the evidence presented, rather than being overly constrained by the technicalities of pleadings. 
+        - The Films and Casting Temple v Malla case underscores the NSW Court of Appeal's approach to dealing with issues of contractual interpretation, the importance of clear and accurate pleading in litigation, and the discretion of courts to grant relief based on the substance of the evidence presented, rather than being overly constrained by the technicalities of pleadings. 
         - This decision reaffirms the principle that legal disputes should be resolved based on their merits, with due consideration for procedural fairness and the real issues in controversy, as evidenced by the conduct of the trial.
     - Young v Hones [2014] NSWCA 337, the New South Wales Court of Appeal confirmed that a reply should be used to respond to allegations in the defence. 
       - It is not appropriate to use a reply to raise new allegations or causes of action against the defendant. 
       - This would require an application to amend the statement of claim.
     - Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279
       - [Akhil Holdings Ltd (Akhil) sued the Banque Commerciale (the bank), Deauville Nominees Pty. Limited (Deauville), and a Mr Messara for breach of trust for transferring shares without authority
-      - A copy of the reply to Messara was served on the bank, but Akhil did not file or serve a formal reply to the bank’s limitation defence. 
+      - A copy of the reply to Messara was served on the bank, but Akhil did not file or serve a formal reply to the bank's limitation defence. 
         - If Akhil had made a reply alleging fraud the bank would have been entitled to details of the fraud alleged.
       - The bank appealed to the High Court of Australia where one of the main issues was whether the Court of Appeal could make a finding of fraud against the bank when that issue was not raised on the pleadings against it.
         - The fraud allegation was raised only in the pleadings against Deauville and Messara.] 
@@ -5634,37 +5642,37 @@ Week 12: Appeals
         - The Court held that relief is generally confined to what is claimed in the pleadings unless parties deliberately choose a different basis for determining their rights and liabilities.
         - parties are entitled to know and respond to the case against them as defined by pleading
     - ASIC v Rich [2006] NSWSC 712
-      - Each objection asserted that the line of questioning was outside ASIC’s pleadings and amount to an attempt to establish a previously unpleaded case
+      - Each objection asserted that the line of questioning was outside ASIC's pleadings and amount to an attempt to establish a previously unpleaded case
       - Pleadings 
         - Upheld Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279
         - The plaintiff is entitled to attack in cross-examination evidence going to matters raised in a defence, though not in the statement of claim.
-          - Defendant can respond to assertions made by Plaintiff, it’s not raising new content, but addressing content from their pleadings
+          - Defendant can respond to assertions made by Plaintiff, it's not raising new content, but addressing content from their pleadings
     - Young v Hones [2014] NSWCA 337
       - Original Dispute
         - The dispute involved proceedings in the Land and Environment Court over a neighborhood drainage problem that were settled by consent orders. 
         - Years later, Young attempted to set aside these orders due to unresolved issues and sued her lawyer and engineering expert for negligent advice.
       - Reason for Trial
-        - The trial examined the applicability of advocate’s immunity and witness immunity raised by the lawyer and the expert, respectively, as defenses against Young's claims.
+        - The trial examined the applicability of advocate's immunity and witness immunity raised by the lawyer and the expert, respectively, as defenses against Young's claims.
       - Material Facts
         - Young's attempts to reopen the settled case and sue her advisers were met with immunity defenses. 
         - The trial judge decided that these immunities were a complete answer to Young's claims, dismissing them before the close of pleadings.
       - Issue Raised
-        - The main issue on appeal was whether the trial judge erred by deciding on the immunities as complete defenses before Young had the opportunity to file a reply, where she intended to allege bad faith, potentially affecting the applicability of the advocate’s immunity.
+        - The main issue on appeal was whether the trial judge erred by deciding on the immunities as complete defenses before Young had the opportunity to file a reply, where she intended to allege bad faith, potentially affecting the applicability of the advocate's immunity.
       - Law(s)/Statute(s) in Contention
-        - The case centered around the principles of pleading and the specific application of advocate’s immunity and witness immunity in civil litigation.
+        - The case centered around the principles of pleading and the specific application of advocate's immunity and witness immunity in civil litigation.
       - Judicial Opinions and Interpretation
         - Ward JA: Highlighted that new claims or causes of action should not be introduced in a reply, and that a reply should not contradict the initial claim.
         - The rationale is to ensure clarity and efficiency in litigation, preventing unnecessary proliferation of documentation and associated costs and delays.
       - Ratio Decidendi
         - The Court of Appeal upheld the trial judge's dismissal of Young's claims, emphasizing that allegations of bad faith must be made in the statement of claim, not in the reply. 
-        - The court reasoned that a procedural decision had been made to proceed with the hearing on separate questions of law regarding immunities before the close of pleadings, with Young’s consent.
+        - The court reasoned that a procedural decision had been made to proceed with the hearing on separate questions of law regarding immunities before the close of pleadings, with Young's consent.
       - Conclusion and Relevance to Modern Law
         - This case reaffirms the importance of adhering to procedural rules and the structure of pleadings in civil litigation, particularly in New South Wales. 
         - It demonstrates the constraints on introducing new allegations outside the statement of claim and the significance of consent in procedural decisions. 
-        - The decision also underscores the protective scope of advocate’s and witness immunities, even when there is a suggestion of bad faith, unless properly pleaded against in the initial stages of litigation.
+        - The decision also underscores the protective scope of advocate's and witness immunities, even when there is a suggestion of bad faith, unless properly pleaded against in the initial stages of litigation.
   - Material facts
     - material facts def will be those facts that are critical to supporting each of the elements of the cause of action. 
-    - Charlie Carter Pty Ltd v The Shop, Distributive and Allied Employees’ Association of Western Australia (1987) 13 FCR 413
+    - Charlie Carter Pty Ltd v The Shop, Distributive and Allied Employees' Association of Western Australia (1987) 13 FCR 413
       - There are certain levels of generality of pleading which, while they may bring in all facts necessary to establish a cause of action, are insufficient for the purpose of properly informing the defendant of the case it has to meet
         - Bruce v Odhams Press Ltd - The cause of action must be alleged with particularity
   - Evidence 
@@ -5676,7 +5684,7 @@ Week 12: Appeals
         - This part was negligent in setting xyz up. - wrong
     - Kirby v Sanderson Motors Pty Ltd [2002] NSWCA 44;
       - Hodgson JA
-        - Material” means material to the claim, that is, to the cause or causes of action which are relied on. 
+        - Material" means material to the claim, that is, to the cause or causes of action which are relied on. 
         - (2) The requirement of a statement of material facts does not exclude the allegation of legal categories, such as duty of care, fiduciary duty, trust and contract. 
         - (3) The general requirement to avoid surprise means that material facts must be stated in such a way that a defendant can understand the materiality of the facts, that is, how they are material to a cause of action.
     - Markisic v Department of Community Services of New South Wales (No 2) [2006] NSWCA 321
@@ -5703,14 +5711,14 @@ Week 12: Appeals
         - Appeal failed
   - Glover v Australian Ultra Concrete Floors Pty Ltd [2003] NSWCA 80
     - [The appellant appealed a decision at trial that he did not injure himself at work in the way he asserted.] 
-    - The failure to plead the positive case asserted at the trial was, however, contrary to the surprise rule and goes a long way, on its own, in providing a satisfactory explanation for the appellant’s failure to call more witnesses to bolster his case that an accident occurred as alleged by him.
+    - The failure to plead the positive case asserted at the trial was, however, contrary to the surprise rule and goes a long way, on its own, in providing a satisfactory explanation for the appellant's failure to call more witnesses to bolster his case that an accident occurred as alleged by him.
     - Heydon JA in Nowlan v Marson Transport Pty Limited [2001] NSWCA 346; (2001) 53 NSWLR 116 approved the statement of Allsop J in White v Overland [2001] FCA 1333 at [4] that: 
       - [I] t should always be recognised that in the propounding of issues for trial the parties should take steps to ensure that all relevant parties to the dispute are cognisant of what the issues are
-    - The respondent’s non-admission plea in answer to the appellant’s detailed description of the accident contained in the statement of claim, together with reliance by the respondent on the workers compensation payments made by it, would have resulted in the appellant being taken by surprise when, during the course of the trial, it was first made plain that the respondent was seeking to make an affirmative case in regard to the question whether the appellant was injured by an accident at work in the manner asserted by him.
+    - The respondent's non-admission plea in answer to the appellant's detailed description of the accident contained in the statement of claim, together with reliance by the respondent on the workers compensation payments made by it, would have resulted in the appellant being taken by surprise when, during the course of the trial, it was first made plain that the respondent was seeking to make an affirmative case in regard to the question whether the appellant was injured by an accident at work in the manner asserted by him.
   - Verification 
     - Traditionally, material facts contained in pleadings were not assertions of their truth. 
-    - They were merely considered “written identification and communications of the extent of the plaintiff’s claim”
-    -  UCPR r 14.23 requires a party’s pleading to be verified by affidavit which is made on the pleading
+    - They were merely considered "written identification and communications of the extent of the plaintiff's claim"
+    -  UCPR r 14.23 requires a party's pleading to be verified by affidavit which is made on the pleading
       - Far as they believe, true
   - PARTICULARS 
     - Particulars are details of the material facts on which the party relies in his or her pleadings. 
@@ -5723,14 +5731,14 @@ Week 12: Appeals
       - Cosmidis, a tanker driver employed by D M & B P Wiskich Pty Ltd (Wiskich), was injured by a forklift driven by a Boral Bricks Ltd (Boral) employee after delivering fuel to Boral's premises. 
       - Cosmidis sued Boral for negligence, and Boral, in turn, joined Wiskich to the proceedings, seeking to reduce any damages payable to Cosmidis by alleging Wiskich's negligence.
     - Reason for Trial
-      - The trial focused on Boral’s negligence and the applicability of section 151Z of the Workers Compensation Act 1987 (NSW) regarding the reduction of damages due to Wiskich's alleged negligence.
+      - The trial focused on Boral's negligence and the applicability of section 151Z of the Workers Compensation Act 1987 (NSW) regarding the reduction of damages due to Wiskich's alleged negligence.
     - Material Facts
       - Boral pleaded a general reliance on section 151Z for reducing damages but did not provide particulars of Wiskich's alleged breaches of duty. 
       - The trial judge refused Boral's late attempt to amend its defense to specify these breaches.
     - Issue Raised
       - Whether Boral was required to provide particulars of the alleged negligence by Wiskich under section 151Z and if the failure to do so affected the outcome of the trial.
     - Law(s)/Statute(s) in Contention
-      - Section 151Z of the Workers Compensation Act 1987 (NSW) and its application in cases where a defendant seeks to reduce liability for damages by attributing negligence to a worker’s employer.
+      - Section 151Z of the Workers Compensation Act 1987 (NSW) and its application in cases where a defendant seeks to reduce liability for damages by attributing negligence to a worker's employer.
     - Judicial Opinions and Interpretation
       - Basten JA: Emphasized the importance of particulars in pleadings, especially when a defendant wishes to benefit from section 151Z(2) of the Workers Compensation Act. 
       - Basten JA referred to precedent and clarified that identifying material facts in pleadings prevents surprises and ensures fairness in legal proceedings.
@@ -5769,23 +5777,23 @@ Week 12: Appeals
     - Designed to ensure the document is brought to the attention of the person being served.
     - An important component of the rule of law & necessary to enliven the jurisdiction of the Court.
   - Service – some rules
-    - A general departure point, r 10.1(1): ‘(1) Unless the court orders otherwise, a party that files a document must as soon as practicable serve copies of the document on each other active party.’
+    - A general departure point, r 10.1(1): '(1) Unless the court orders otherwise, a party that files a document must as soon as practicable serve copies of the document on each other active party.'
     - r 10.5: specifies the general ways by which service can be effected. 
       - Service quite simple once proceedings are underway.
     - r 10.20(2)(a): originating documents in the Supreme Court have to be personally served.
   - What is involved in personal service?
     - Personal service can be effected by plaintiff – more commonly it is by a process server or the NSW Sheriff.
     - r 10.21:
-      - ‘(1) Personal service of a document on a person is effected by leaving a copy of the document with the person or, if the person does not accept the copy, by putting the copy down in the person’s presence and telling the person the nature of the document.
+      - '(1) Personal service of a document on a person is effected by leaving a copy of the document with the person or, if the person does not accept the copy, by putting the copy down in the person's presence and telling the person the nature of the document.
         -  Ainsworth v Redd 
-          - where the defendant told the process server to give it to his representative who was standing next to him and afterward the defendant was heard to say: “We’d better look at these”
+          - where the defendant told the process server to give it to his representative who was standing next to him and afterward the defendant was heard to say: "We'd better look at these"
         - Graczyk v Graczyk
-          - the requirement of placing the document in the person’s presence was fulfilled by pushing it under a locked door. 
+          - the requirement of placing the document in the person's presence was fulfilled by pushing it under a locked door. 
         - Re Hudson; Ex parte G E Crane & Sons Ltd
           - it was satisfied by attaching the document to the front of a locked door and at the same time telling the defendant that this was occurring. 
         - Lawindi; Re Elkateb v Elkateb 
           - Stone J said the requirement that the nature of the document be explained is not demanding and need not be done if the nature of the document is clear on its face
-      - (2) If, by violence or threat of violence, a person attempting service is prevented from approaching another person for the purpose of delivering a document to the other person, the person attempting service may deliver the document to the other person by leaving it as near as practicable to that other person.’
+      - (2) If, by violence or threat of violence, a person attempting service is prevented from approaching another person for the purpose of delivering a document to the other person, the person attempting service may deliver the document to the other person by leaving it as near as practicable to that other person.'
     - r 35.8: affidavit of service required.
   - Personal service on corporations/business entities
     - rr 10.9-10.11: service on defendants operating under a registered/unregistered business name or in a partnership is effected by:
@@ -5801,13 +5809,13 @@ Week 12: Appeals
     - Order for substituted service will specify the steps required for service to be effected.
   - Limits to substituted service
     - In order to prevent substituted service being the norm, there are two central considerations:
-      - 1. Substituted service only applies where the kind of service envisaged by the UCPR cannot be practically undertaken – sometimes referred to as “practical impossibility”. 
+      - 1. Substituted service only applies where the kind of service envisaged by the UCPR cannot be practically undertaken – sometimes referred to as "practical impossibility". 
         - The applicant should have made efforts to effect service properly,and/or should lead evidence to prove that such an effort would be futile – see Munkarra v Fischer (1980) 5 NTR 3;
-      - 2. The Court has to be satisfied that the proposed alternative means of service is reasonably likely to bring the proceedings to the defendant’s attention – see Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 268.
+      - 2. The Court has to be satisfied that the proposed alternative means of service is reasonably likely to bring the proceedings to the defendant's attention – see Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 268.
     - Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 
       - Procedural History:
         - Flo Rida entered a contract to perform at a music festival in Newcastle in 2011 but did not appear.
-        - The promoter filed a claim for damages in the District Court and obtained a freezing order on Flo Rida’s assets in Australia.
+        - The promoter filed a claim for damages in the District Court and obtained a freezing order on Flo Rida's assets in Australia.
         - The court permitted substituted service via email and Facebook. 
         - Flo Rida appealed the judgment, arguing improper substituted service.
       - Original Dispute: 
@@ -5844,7 +5852,7 @@ Week 12: Appeals
     - Unable initially to effect personal service – Williams is in France.
     - Order for substituted service specifies that:
       - Copies to be left at registered addresses of Toulon Rugby club;
-      - Copies left at Williams’ Sydney residence;
+      - Copies left at Williams' Sydney residence;
       - Text messages sent to what appears to be Williams phone number and that of his manager.
   - Nash v Stewart [2010] NSWSC 513
     - Barrett J held that an order for substituted service could not be made in respect of personal service of a subpoena to give evidence.
@@ -5857,19 +5865,19 @@ Week 12: Appeals
         - In practice, SEPA is almost invariably used.
     - Munkarra v Fisher 
       - the plaintiff was injured in an accident involving a motor cycle in Darwin. 
-      - The offending motor bike was registered and insured in Western Australia, and the rider was a German national who held a Northern Territory and international driver’s licence.
+      - The offending motor bike was registered and insured in Western Australia, and the rider was a German national who held a Northern Territory and international driver's licence.
       - Immigration records showed that he had arrived in Australia two years earlier, and there was no record that he had left. At the time of the accident he was resident in the South Darwin Caravan Park, and his current address was unknown. 
       - The plaintiff showed that the application was not urgent and that incomplete checks of official records (driving licences, electoral rolls, phone books etc) had been undertaken. 
       - The court directed that further checks be undertaken with, for example, the German embassy and German clubs in the relevant areas
   - SEPA
     - s 15 of SEPA:
-      - ‘(1) An initiating process issued in a State may be served in another State.
+      - '(1) An initiating process issued in a State may be served in another State.
       - (2) Service on an individual must be effected in the same way as service of such an initiating process in the place of issue.
-      - (3) Service on a company or a registered body must be effected in accordance with section 9.’
+      - (3) Service on a company or a registered body must be effected in accordance with section 9.'
   - Service internationally
     - Four different methods of service internationally:
       - 1. Service by private means (i.e. using a process server or local agent in the concerned country). Regulated by Part 11, Division 1A of the UCPR;
-      - 2. Service through diplomatic channels i.e. through using the Attorney-General’s office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
+      - 2. Service through diplomatic channels i.e. through using the Attorney-General's office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
       - 3. Service pursuant to the Hague Convention. Regulated by Part 11A of the UCPR; and
       - 4. Service arrangements agreed in bilateral treaties. Service by private means is most important for our purposes.
   - Service by private means
@@ -5878,9 +5886,9 @@ Week 12: Appeals
   - Service by private means cont.
     - Some inbuilt mechanisms to regulate service overseas:
       - r 11.6: if the person served overseas applies to the Supreme Court, then the Supreme Court can decide not to assume jurisdiction and can stay or dismiss the proceedings. 
-        - The Court can do so if the document wasn’t served according to the rules, if the court is clearly an inappropriate forum, or if the case has insufficient prospects of success;
-      - r 11.7: the document served on the party overseas has to include a notice to the defendant informing them of the scope of the jurisdiction of the court, the grounds alleged by the plaintiff to give rise to that jurisdiction, and the person’s right to challenge service of the originating process or the jurisdiction of the court.
-      - r 11.8AA: if you have served your originating document on someone in another country, and they haven’t filed an appearance within the appropriate time-frame, then the plaintiff may only proceed with leave of the Court
+        - The Court can do so if the document wasn't served according to the rules, if the court is clearly an inappropriate forum, or if the case has insufficient prospects of success;
+      - r 11.7: the document served on the party overseas has to include a notice to the defendant informing them of the scope of the jurisdiction of the court, the grounds alleged by the plaintiff to give rise to that jurisdiction, and the person's right to challenge service of the originating process or the jurisdiction of the court.
+      - r 11.8AA: if you have served your originating document on someone in another country, and they haven't filed an appearance within the appropriate time-frame, then the plaintiff may only proceed with leave of the Court
   - Hunter v Hanson [2014] NSWCA 263 
     - the New South Wales Court of Appeal by majority (McColl and Macfarlan JJA; Emmett JA dissenting) dismissed an application for leave to appeal against the decision of the District Court to extend the time for service of a statement of claim
     - The respondent in the appeal had sued the applicant for defamation, and had decided to delay service of the statement of claim for two reasons: 
@@ -5900,7 +5908,7 @@ Week 12: Appeals
     - Mondial Trading Pty Ltd v Interocean Marine Transport Inc
       - an agreement concerning the appropriate jurisdiction to bring a claim was held not to encompass an agreement as to mode of service.
     - Westpac Banking Corp v Thurairajah [2009] NSWSC 442 at [6] per Barrett J
-      - In a case where a bank (the mortgagee) commenced proceedings against the mortgagor for possession of land the subject of a mortgage due to the mortgagor’s default in payments under the mortgage, the court held that a statement of claim could be served by leaving it at the mortgaged property because the mortgage included an express term to that effect
+      - In a case where a bank (the mortgagee) commenced proceedings against the mortgagor for possession of land the subject of a mortgage due to the mortgagor's default in payments under the mortgage, the court held that a statement of claim could be served by leaving it at the mortgaged property because the mortgage included an express term to that effect
 ## Week 7: Evidence in Proceedings
 
 - Evidence in Proceedings
@@ -5914,7 +5922,7 @@ Week 12: Appeals
     - Affidavits that do not comply with rules about form can be struck out.
     - Nevertheless, an affidavit with an irregularity may be used with the leave of the court (r 35.1).
     - NB – limits on who can make affidavits (e.g. limits where under legal incapacity, corporation, the Crown) (r 35.3).
-      - Also limits on use of affidavits made by ‘blind or illiterate persons’ (r 35.7).
+      - Also limits on use of affidavits made by 'blind or illiterate persons' (r 35.7).
     - Deponent may be cross-examined on contents of affidavit (r 35.2).
   - Affidavits – rules of drafting
     - Name of deponent and date sworn or affirmed on front page as a heading: r 35.3A.
@@ -5922,7 +5930,7 @@ Week 12: Appeals
     - All paragraphs numbered consecutively: r 35.4(c).
     - Each paragraph dealing with separate issue or event: r 35.4 (a)&(b).
     - Each page must be signed by deponent and witness: r 35.7B.
-    - Annexures must be clearly identified e.g. This is the annexure marked “A”: r 35.6(2).
+    - Annexures must be clearly identified e.g. This is the annexure marked "A": r 35.6(2).
     - Jurat (which is the formal part at the end of the affidavit) must be completed: r 35.7A.
     - Changes must be initialled or otherwise affidavit cannot be used: r 35.5.
   - Affidavits – some conventions
@@ -5942,12 +5950,12 @@ Week 12: Appeals
     - 
     - 
   - Discovery
-    - Discovery is a pre-trial process whereby one side looks at the other side’s relevant documents or administers interrogatories to the other side. 
+    - Discovery is a pre-trial process whereby one side looks at the other side's relevant documents or administers interrogatories to the other side. 
       - It includes the notion of preliminary discovery.
     - Purpose of discovery is to promote fair trial because:
       - It enables parties to best prepare their case; and
       - Ensures judges will have evidence available to them to decide on the case.
-    - ‘The right is peculiar to the common law jurisdictions. In plain language, litigation in this country is conducted ‘cards face up on the table’...litigation is not a war or even a game. It is designed to do real justice between opposing parties and, if the court does not have all the relevant information, it cannot achieve this object.’: Davies v Eli Lilly & Co [1987] All ER 801, 804.
+    - 'The right is peculiar to the common law jurisdictions. In plain language, litigation in this country is conducted 'cards face up on the table'...litigation is not a war or even a game. It is designed to do real justice between opposing parties and, if the court does not have all the relevant information, it cannot achieve this object.': Davies v Eli Lilly & Co [1987] All ER 801, 804.
   - Limits on discovery
     - Limitations in Supreme Court Equity Division as per Practice Note SC Eq 11:
       - Court will not make an order for disclosure of documents unless there are exceptional circumstances necessitating disclosure.
@@ -5967,7 +5975,7 @@ Week 12: Appeals
     - r 5.2 – two main criteria:
       - 1. Applicant is unable to locate or identify prospective defendant after making reasonable inquiries; and
       - 2. Some other person may have information, or possess documents, that tend to assist locating or identifying defendant.
-    - NB – applicant must “desire” to commence proceedings against the person: Roads and Traffic Authority of New South Wales v Care Park Pty Limited [2012] NSWCA 35.
+    - NB – applicant must "desire" to commence proceedings against the person: Roads and Traffic Authority of New South Wales v Care Park Pty Limited [2012] NSWCA 35.
   - Preliminary discovery – whether or not to commence proceedings
     - r 5.3 is cast in much the same language as r 5.2:
       - 1. Applicant may have claim against another person, but has been unable to obtain sufficient information to decide whether to commence after having made reasonable inquiries, and
@@ -5984,13 +5992,13 @@ Week 12: Appeals
       - 2.Notices to produce, where one party requires another party to produce specific documents
   - Discovery (limits)
     - Discovery pertains to documents – this is construed broadly e.g. it can include text messages, emails, webpages etc.
-    - To be discoverable, a document has to be ‘relevant to a fact in issue’ – r 21.2(4).
+    - To be discoverable, a document has to be 'relevant to a fact in issue' – r 21.2(4).
     - Scope of discovery limited by reference to the overriding purpose, s 56 CPA. Parties can no longer seek general discovery.
     - NB – as per r 21.7, discovered documents cannot be disclosed
     - r 21.3: party subject to an order for discovery complies by serving on the requesting party a list dealing with all of the documents (other than excluded documents) referred to in the order.
     - r 21.5: party rendering discovery has to make the documents available for inspection (generally within 21 days of the list being served).
     - Discovery not once-and-for-all – an ongoing obligation.
-    - Discovery is verified by affidavit, together with solicitor’s certificate of advice (if appropriate): r 21.4.
+    - Discovery is verified by affidavit, together with solicitor's certificate of advice (if appropriate): r 21.4.
   - Notice to produce
     - Party can serve notice to produce any specified document or thing on another party (r 21.10).
     - Party served with notice needs to provide inspection of the document or thing within a reasonable time (usually 14 days).
@@ -6001,7 +6009,7 @@ Week 12: Appeals
     - According to r 33.1, a "subpoena" means an order in writing requiring the addressee:
       - (a) to attend to give evidence (a subpoena to attend), or
       - (b) to produce the subpoena or a copy of it and a document or thing (a subpoena to produce), or
-      - (c) to do both of those things.’
+      - (c) to do both of those things.'
   - Formal requirements for a subpoena
     - r 33.3 specifies some formal requirements for subpoenas:
       - (1) A subpoena must be in the approved form.
@@ -6014,11 +6022,11 @@ Week 12: Appeals
       - NB – subpoena must be personally served on address – r 33.5.
   - Subpoenas and conduct money
     - r 33.6(1): 
-      - “An addressee need not comply with the requirements of a subpoena to attend to give evidence unless conduct money has been handed or tendered to the addressee a reasonable time before the date on which attendance is required.
+      - "An addressee need not comply with the requirements of a subpoena to attend to give evidence unless conduct money has been handed or tendered to the addressee a reasonable time before the date on which attendance is required.
     - What is conduct money? 
-      - r 33.1 states that "conduct money" means a sum of money or its equivalent, such as pre-paid travel, sufficient to meet the reasonable expenses of the addressee of attending court as required by the subpoena and returning after so attending.”
+      - r 33.1 states that "conduct money" means a sum of money or its equivalent, such as pre-paid travel, sufficient to meet the reasonable expenses of the addressee of attending court as required by the subpoena and returning after so attending."
   - Notice to admit
-    - The ‘requesting party’ sends a notice to admit to the ‘admitting party’. The notice requests that the admitting party make certain admissions in favour of the requesting party. The admitting party has 14 days to respond. (rr 17.3, 17.4). Often used where you have facts that are material and relevant to a party’s case, but are not seriously in dispute
+    - The 'requesting party' sends a notice to admit to the 'admitting party'. The notice requests that the admitting party make certain admissions in favour of the requesting party. The admitting party has 14 days to respond. (rr 17.3, 17.4). Often used where you have facts that are material and relevant to a party's case, but are not seriously in dispute
     - Can go not only to facts but authenticity of documents.
     - If the party does not admit, and the facts are then proved at trial, that party has to bear the costs of such proof.
     - Pacific Steel Constructions Pty Ltd v Barahona [2009] NSWCA 406 at [153]
@@ -6026,7 +6034,7 @@ Week 12: Appeals
     - Party or its representative is required to answer in writing, and usually on oath, specific questions prior to the trial.
     - Must obtain an order from the court requiring answers to specified interrogatories (r 22.1)
     - Application for an order for interrogatories may be made at any time and must be accompanied by a copy of the proposed interrogatories (r 22.1(2))
-    - Court won’t make order unless satisfied order is necessary at the time it is made (r 22.1(4))
+    - Court won't make order unless satisfied order is necessary at the time it is made (r 22.1(4))
   - Objection to produce documents founded on privilege
     - Objections to production of documents and answering of questions founded on privilege (r 1.9).
     - Client legal privilege does not mean the document need not be discovered, it is simply listed as a document that does not have to be produced for inspection.
@@ -6124,24 +6132,24 @@ Week 12: Appeals
     - The process for discovery under the UCPR can be summarised as follows (Party A is the party receiving discovery and Party B is the party giving discovery): 
       - 1. Party A files and serves a notice of motion (with supporting affidavit) seeking discovery from Party B pursuant to UCPR r 21.2. 
         - The notice of motion will specify the order for discovery of documents within a class or classes of documents or samples of documents within a class (r 21.2). 
-        - A “class of documents” is defined by relevance to the facts in issue, or by the type of documents within a class, or in “such other manner as the court considers appropriate in the circumstances” (r 21.3). 
+        - A "class of documents" is defined by relevance to the facts in issue, or by the type of documents within a class, or in "such other manner as the court considers appropriate in the circumstances" (r 21.3). 
       - 2. The notice of motion is heard (this is an interlocutory hearing) and the court may order discovery of documents within a class or classes of documents or samples of documents within a class (r 21.2). 
         - The court does not order general discovery. 
       - 3. Within 28 days of the order (or as the order specifies), Party B prepares a list of documents (r 21.3) which is divided into two parts (documents in the possession of Party B and documents which were in possession of Party B in the last six months). 
         - The list needs to describe the documents. The list also states whether privilege is claimed in respect of the documents and the circumstances that give rise to privilege being claimed. 
         - If the documents are not in the possession of Party B then Party B needs to indicate who he or she believes has possession of the documents. 
-      - 4. Discovery does not apply to an “excluded document” (see definition in r 21.1), but note the court may declare a document not to be an excluded document. 
-        - “Excluded documents” do not have to be included in the list (r 21.3(1)). 
-      - 5. The list must be accompanied by a supporting affidavit by Party B (r 21.4(2)) and a solicitor’s certificate of advice (r 21.4(3)). 
+      - 4. Discovery does not apply to an "excluded document" (see definition in r 21.1), but note the court may declare a document not to be an excluded document. 
+        - "Excluded documents" do not have to be included in the list (r 21.3(1)). 
+      - 5. The list must be accompanied by a supporting affidavit by Party B (r 21.4(2)) and a solicitor's certificate of advice (r 21.4(3)). 
         - The affidavit deposed by Party B verifies the list 662 and must state the specific matters listed in r 21.4(2). 
-        - The solicitor’s certificate of advice must state the matters set out in r 21.4(3) namely that the solicitor has advised Party B as to the obligations arising under an order for discovery and the solicitor is not aware of documents that are not on the list. 
-      - 6. Party B then makes the documents “readily accessible and capable of convenient inspection” for Party A (r 21.5). 
+        - The solicitor's certificate of advice must state the matters set out in r 21.4(3) namely that the solicitor has advised Party B as to the obligations arising under an order for discovery and the solicitor is not aware of documents that are not on the list. 
+      - 6. Party B then makes the documents "readily accessible and capable of convenient inspection" for Party A (r 21.5). 
       - 7. There is a continuing obligation on Party B to make available subsequently discovered documents (r 21.6). 
         - This means that documents which become known after discovery has been carried out are to be made available to Party A. 
         - Privileged documents that cease to be privileged also need to be made available. 
-      - 8. Except with the court’s leave (permission), no information from a document obtained as a result of discovery is to be disclosed, or used in other legal proceedings.
+      - 8. Except with the court's leave (permission), no information from a document obtained as a result of discovery is to be disclosed, or used in other legal proceedings.
         - The exception to this rule is if the document has been received into evidence in open court (r 21.7). 
-      - 9. The court will not order discovery in personal injury cases unless the court “for special reasons” orders otherwise (r 21.8). Special reasons will exist if discovery is necessary for a fair trial.
+      - 9. The court will not order discovery in personal injury cases unless the court "for special reasons" orders otherwise (r 21.8). Special reasons will exist if discovery is necessary for a fair trial.
   - Evidence Types 
     - Client evidence types
       - Witness statements
@@ -6203,7 +6211,7 @@ Week 12: Appeals
         - Production – Delivering ESI to others in appropriate forms and using appropriate delivery mechanisms. 
         - Presentation – Displaying ESI before audiences (at depositions, hearings, trials, etc), especially in native and near-native forms, to elicit further information, validate existing facts or positions, or persuade an audience
   - Technology assisted review (TAR) def 
-    - has been defined as “[a] process for Prioritizing or Coding a Collection of Documents using a computerized system that harnesses human judgments of one or more Subject Matter Expert(s) on a smaller set of Documents and then extrapolates those judgments to the remaining Document 
+    - has been defined as "[a] process for Prioritizing or Coding a Collection of Documents using a computerized system that harnesses human judgments of one or more Subject Matter Expert(s) on a smaller set of Documents and then extrapolates those judgments to the remaining Document 
       - In the review stage, TAR examines ESI for relevance, and in the analysis stage may be able to evaluate the ESI for other characteristics such as privilege or particular issues or topics
   - McConnell Dowell Constructors v Santam (2016) 51 VR 42
     - Jurisdiction: 
@@ -6240,13 +6248,13 @@ Week 12: Appeals
     - A subpoena can be set aside, whole or in part, on the grounds that it is an abuse of process because of the following: 
       - A subpoena cannot be used as a substitute for discovery: 
         - The Commissioner for Railways v Small (1938) 38 SR 654 at 574 and NSW Commissioner of Police v Tuxford [2002] NSWCA 139 at [19] (see [12.410]). 
-        - An issuing party is “not entitled to procure the issue of the subpoena for the purpose of fishing, that is, endeavouring not to obtain evidence to support their case, but to discover whether they had a case at all, or to discover the nature of the case of the defendant”: 
+        - An issuing party is "not entitled to procure the issue of the subpoena for the purpose of fishing, that is, endeavouring not to obtain evidence to support their case, but to discover whether they had a case at all, or to discover the nature of the case of the defendant": 
           -  [2002] NSWCA 139 at [27]. 
       - A subpoena cannot be oppressive. A subpoena may be oppressive if it has insufficient particularisation of the documents called for. 
         - This creates oppression because the recipient is required to judge what documents are caught by the subpoena. 
         - A subpoena could also be oppressive where compliance is too onerous. 
           - This is demonstrated where an excessive burden is placed on the producing party, for example, in NSW Commissioner of Police v Tuxford (see [12.410]). 
-        - Tuxford called for all “originals or copies” of documents that were located in many locations. This was found to be oppressive. 
+        - Tuxford called for all "originals or copies" of documents that were located in many locations. This was found to be oppressive. 
     - A subpoena cannot have an improper purpose. 
       - For example, the subpoena may seek documents not for the purpose of the litigation but for some spurious purpose such as a private purpose or for use in other proceedings. 
     - An absence of the apparent relevance of documents is a sufficient ground to have it set aside, see Trade Practices Commission v Arnotts Limited (No 2) (1989) 21 FCR 306. 
@@ -6257,7 +6265,7 @@ Week 12: Appeals
     - Judges and legal practitioners have also provided suggestions as to best practice for drafting affidavits which include:2 
       - identify the deponent and their relationship to the dispute; 
       - set out the matters in the affidavit in a logical manner – this may or may not be a chronological sequence; 
-      - use the witness’s own words; 
+      - use the witness's own words; 
       - conversations should be stated in direct speech, that is, the first person – I said, she said; 
       - state facts the witness has personal and actual knowledge of, not opinions or assumptions unless the affidavit is for an expert witness; 
       - be concise but complete; 
@@ -6265,18 +6273,18 @@ Week 12: Appeals
       - avoid irrelevant material; 
       - avoid hearsay, except in interlocutory applications, as an affidavit must be confined to facts the witness can prove from direct knowledge; and 
       - avoid making submissions or arguments
-    -  Revised Professional Conduct and Practice Rules 1995 (Solicitors’ Rules) rule 17
+    -  Revised Professional Conduct and Practice Rules 1995 (Solicitors' Rules) rule 17
   -  Ying v Song [2010] NSWSC 1500
     - dispute between former family members over shares in the second defendant (Budget Scaffold Supplies Pty Ltd, to which I will refer as BSS) and in respect of amounts recorded at one stage in the financial records of BSS as a shareholder loan from the plaintiff (Ming Ying) to the company. 
-    - Ming Ying’s sister (Hua Ying) was formerly married to the first defendant (Lida Song). 
+    - Ming Ying's sister (Hua Ying) was formerly married to the first defendant (Lida Song). 
       - There are Family Court proceedings presently on foot between the couple 
-      - According to Ming Ying, he paid some $106,025 to acquire shares in BSS, shares which Lida Song later transferred back to himself, without Ming Ying’s consent, in 2005.
-      - According to Lida Song, however, the shares were only transferred to Ming Ying (and the company’s records recorded shareholder loans by Ming Ying) as part of an attempt to present a false impression of Ming Ying’s assets in Australia to the Department of Immigration so as to assist in Ming Ying’s attempt to obtain permanent residency in Australia
-    - much of the later affidavit evidence must have been prepared by cutting and pasting material from Mr Ying’s earlier affidavits – even material that had in the interim been corrected by other affidavits sworn by Mr Ying
+      - According to Ming Ying, he paid some $106,025 to acquire shares in BSS, shares which Lida Song later transferred back to himself, without Ming Ying's consent, in 2005.
+      - According to Lida Song, however, the shares were only transferred to Ming Ying (and the company's records recorded shareholder loans by Ming Ying) as part of an attempt to present a false impression of Ming Ying's assets in Australia to the Department of Immigration so as to assist in Ming Ying's attempt to obtain permanent residency in Australia
+    - much of the later affidavit evidence must have been prepared by cutting and pasting material from Mr Ying's earlier affidavits – even material that had in the interim been corrected by other affidavits sworn by Mr Ying
       - This may diminish the reliability and hence the weight to be accorded to that evidence (on any of the various versions).
 ## Week 8: Interlocutory Applications and Injunctions
 
--  The court has power to order a plaintiff to give security for the defendant’s cost of defending the plaintiff’s claim and can order a stay of proceedings until the security is given
+-  The court has power to order a plaintiff to give security for the defendant's cost of defending the plaintiff's claim and can order a stay of proceedings until the security is given
   - s r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
 - Wollongong City Council v Legal Business Centre Pty Limited [2012] NSWCA 245
   - Jurisdiction: 
@@ -6290,13 +6298,13 @@ Week 12: Appeals
     - The appellant sought leave to appeal an interlocutory order that dismissed its application for security for costs against the respondent. 
     - The Court of Appeal granted leave and overturned the initial decision, ordering LBC to provide security for costs.
   - Original Dispute:
-    - Wollongong City Council applied for an order for security for costs against LBC, citing concerns over LBC’s financial capacity to cover costs if ordered to do so.
+    - Wollongong City Council applied for an order for security for costs against LBC, citing concerns over LBC's financial capacity to cover costs if ordered to do so.
   - Current Reason for Trial:
-    - To appeal the trial judge’s refusal to grant an order for security for costs.
+    - To appeal the trial judge's refusal to grant an order for security for costs.
   - Material Facts:
-    - The trial judge dismissed the Council's application based on his assessment of LBC’s financial circumstances and discretionary considerations.
+    - The trial judge dismissed the Council's application based on his assessment of LBC's financial circumstances and discretionary considerations.
   - Issue Raised:
-    - Whether the trial judge erred in his assessment of the respondent’s financial circumstances and in refusing the application for security for costs.
+    - Whether the trial judge erred in his assessment of the respondent's financial circumstances and in refusing the application for security for costs.
   - Laws/Statutes in Contention:
     - Uniform Civil Procedure Rules 2005 (UCPR), r 42.21
     - Corporations Act 2001 (Cth), s 1335(1)
@@ -6307,12 +6315,12 @@ Week 12: Appeals
   - Tests and Principles:
     - The court adopts a practical common-sense approach to examining the financial affairs of a corporation for security for costs.
     - The defendant bears the onus of proving the plaintiff's inability to pay litigation costs if unsuccessful.
-    - Factors considered in exercising discretion include risk of unsatisfied costs orders, whether the order stifles a claim, and the conduct’s effect on the plaintiff's finances.
+    - Factors considered in exercising discretion include risk of unsatisfied costs orders, whether the order stifles a claim, and the conduct's effect on the plaintiff's finances.
   - Judicial Opinions:
     - The Court of Appeal agreed that the trial judge erred in assessing LBC's financial position and in his discretionary decision not to grant security for costs.
     - It emphasized the necessity of a practical approach to evaluating a corporation's financial status and the established principles guiding the discretion to order security for costs.
   - Ratio Decidendi:
-    - The decision to order security for costs should be based on a practical assessment of the corporation’s financial affairs and the established principles for exercising such discretion. 
+    - The decision to order security for costs should be based on a practical assessment of the corporation's financial affairs and the established principles for exercising such discretion. 
     - The appellant successfully demonstrated that LBC, likely unable to cover costs if the proceedings failed, justified the need for security for costs.
   - Conclusion and Relevance to Modern Law:
     - The case underscores the courts' discretion in ordering security for costs, emphasizing the importance of a defendant proving the plaintiff's potential inability to pay litigation costs. 
@@ -6346,7 +6354,7 @@ Week 12: Appeals
     - The decision to order security for costs is discretionary, depending on various factors:
       - 1. Promptness of the application.
       - 2. The strength and bona fides of the applicant's case.
-      - 3. Whether the applicant’s impecuniosity was caused by the respondent’s conduct.
+      - 3. Whether the applicant's impecuniosity was caused by the respondent's conduct.
       - 4. Whether the application is oppressive or denies the right to litigate.
       - 5. The willingness of those benefiting from the litigation to provide security.
       - 6. The personal undertaking of costs by those behind the company.
@@ -6364,11 +6372,11 @@ Week 12: Appeals
   - interim junction def or interlocutory injunction def
     - S 18 of UCPR - need notice of motion form 20 UCPR
       - Notice of motion form needs to be accompanied by supporting affidavit indicating reason for notice
-    - To obtain an interlocutory injunction an applicant must show that there is a “prima facie case” and that the “balance of convenience” favours the order being made. 
+    - To obtain an interlocutory injunction an applicant must show that there is a "prima facie case" and that the "balance of convenience" favours the order being made. 
     - An interim injunction will usually continue for a short period of time (measured in days).
       - The District Court has a limited power to grant temporary injunctions for a period not exceeding 14 days or exceeding that period if necessary to enable Supreme Court proceedings to be commenced or heard: 
         - District Court Act 1973 (NSW) s 141, also see s 140
-      - Federal Court has power to make interlocutory injunctions as the Court “has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate”: 
+      - Federal Court has power to make interlocutory injunctions as the Court "has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate": 
         - Federal Court of Australia Act 1976 (Cth) s 23
   - Injunction types:
     - Mandatory injunction: order requiring a party to act;
@@ -6376,27 +6384,27 @@ Week 12: Appeals
     - Interim injunction: order in force for a short period of time;
     - And Final or perpetual injunction: 
       - order finally determines rights of parties.
-    - Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57; 229 ALR 457; [2006] HCA 46
-      - An interlocutory injunction was ordered that restrained the ABC from broadcasting or otherwise publishing any part of a documentary known as “The Fisherman” that imputed or implied that O’Neill was responsible for or is suspected of being responsible for the disappearance or murder of children commonly referred to as the Beaumont children or that O’Neill is a multiple killer of children
+    - Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57; 229 ALR 457; [2006] HCA 46
+      - An interlocutory injunction was ordered that restrained the ABC from broadcasting or otherwise publishing any part of a documentary known as "The Fisherman" that imputed or implied that O'Neill was responsible for or is suspected of being responsible for the disappearance or murder of children commonly referred to as the Beaumont children or that O'Neill is a multiple killer of children
       - Prima Facie case meaning
         - it is sufficient that the plaintiff show a sufficient likelihood of success to justify in the circumstances the preservation of the status quo pending the trial. 
     - Two criteria for an interlocutory injunction
-      - An applicant must establish (Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+      - An applicant must establish (Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
         - 1. A prima facie case in relation to the substantive litigation; and
         - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
-      - 3. What does the ‘balance of convenience’ entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 
-        - ‘whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.’
+      - 3. What does the 'balance of convenience' entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 
+        - 'whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.'
   - Freezing orders def are otherwise known as Mareva injunctions or Mareva orders.
     - Jackson v Sterling Industries Ltd (1987) 162 CLR 612
     - Mareva orders are named after one of the earliest cases which allowed their use: 
-      - Mareva Compania Naviera SA v International Bulkcarriers SA [1975] 2 Lloyd’s Rep 50
+      - Mareva Compania Naviera SA v International Bulkcarriers SA [1975] 2 Lloyd's Rep 50
     - A Mareva order prevents a party from disposing of assets to frustrate the enforcement of a judgment. 
-      - The power to make such an order derives from the court’s equitable inherent jurisdiction.
+      - The power to make such an order derives from the court's equitable inherent jurisdiction.
     - An application for a freezing order should comply with the substance of the requirements contained in Practice Note SC Gen 14 
   - Jackson v Sterling Industries Ltd (1987) 162 CLR 612
     - Facts
       - The plaintiff, who sued the defendant for breach of s 52 of the Trade Practices Act 1974 (Cth), applied to the Federal Court for an order that the respondent pay $3 million into court as security for the satisfaction of any judgment that might be entered against him in the application. 
-      - The Federal Court judge found that the plaintiff had a good chance of success and ordered that the defendant “provide security in the sum of $3,000,000 in such manner and form as the parties may agree or, in default of agreement, the Court or its Registrar may approve”. 
+      - The Federal Court judge found that the plaintiff had a good chance of success and ordered that the defendant "provide security in the sum of $3,000,000 in such manner and form as the parties may agree or, in default of agreement, the Court or its Registrar may approve". 
     - The defendant appealed. 
       - In the High Court, Mason CJ, Wilson, Brennan, Deane and Dawson JJ (Toohey and Gaudron JJ dissenting) found that the order should not have been made. 
       - However, the court recognised the power of courts to grant Mareva injunctions. 
@@ -6417,7 +6425,7 @@ Week 12: Appeals
       - Breach of contract by Kingdom Towers for failing to make full payment under a property sale contract. 
       - Andrew Brodner was implicated as the guarantor of Kingdom Towers' obligations.
     - Current Reason for Trial:
-      - The matter concerns the plaintiff’s application for a freezing order to include additional assets (shares held by the defendants) beyond the initially specified properties.
+      - The matter concerns the plaintiff's application for a freezing order to include additional assets (shares held by the defendants) beyond the initially specified properties.
     - Material Facts:
       - The plaintiff demonstrated a strong case for damages or payment under the guarantee for about $2,070,625, necessitating a freezing order to prevent asset dissipation.
     - Issue Raised:
@@ -6434,7 +6442,7 @@ Week 12: Appeals
       - Justice Robb was convinced that the absence of evidence or an explanation from the defendants regarding their asset disposition activities justified the imposition of a freezing order. 
       - However, an amended order as sought by the plaintiff at the hearing was denied due to lack of notice and evidence on the value of the newly included assets.
     - Ratio Decidendi:
-      - The court's decision to grant a freezing order was based on the balance of probabilities, considering the strength of the plaintiff’s case and the lack of evidence from the defendants to counter the risk of asset dissipation.
+      - The court's decision to grant a freezing order was based on the balance of probabilities, considering the strength of the plaintiff's case and the lack of evidence from the defendants to counter the risk of asset dissipation.
     - Conclusion and Relevance to Modern Law:
       - This case illustrates the court's approach in granting freezing orders to preserve the integrity of its judgment against potential asset dissipation by defendants. 
       - It emphasizes the importance of presenting a strong arguable case and evidence of risk to asset dissipation. 
@@ -6455,7 +6463,7 @@ Week 12: Appeals
       - Copyright infringement by Eagle Homes Pty Ltd in relation to building plans owned by LED Builders Pty Ltd. 
       - The dispute extended to securing assets to satisfy the judgment.
     - Current Reason for Trial:
-      - The High Court considered the appeal against the Mareva injunctions, focusing on whether such injunctions could extend to third parties not directly involved in the proceedings or shown to have an interest in the judgment debtor’s assets.
+      - The High Court considered the appeal against the Mareva injunctions, focusing on whether such injunctions could extend to third parties not directly involved in the proceedings or shown to have an interest in the judgment debtor's assets.
     - Material Facts:
       - The Cardiles, after receiving large dividends from Eagle Homes, established Ultra Modern Pty Ltd.
       - LED sought Mareva orders to freeze assets of Eagle Homes, the Cardiles, and Ultra Modern Pty Ltd to prevent dissipation and ensure satisfaction of the judgment.
@@ -6471,17 +6479,17 @@ Week 12: Appeals
       - The jurisdiction for such injunctions stems from the court's power to protect the integrity of its processes and ensure the effective administration of justice, including preserving the efficacy of execution against judgment debtors.
       - The court must exercise caution, ensuring Mareva orders are not used oppressively or to unjustly restrict commerce.
     - Judicial Opinions:
-      - The High Court clarified the limits of Mareva injunctions, emphasizing that while they can extend to third parties in appropriate cases, it is crucial to establish a direct link between the third party’s assets and the judgment debtor. 
+      - The High Court clarified the limits of Mareva injunctions, emphasizing that while they can extend to third parties in appropriate cases, it is crucial to establish a direct link between the third party's assets and the judgment debtor. 
       - The court highlighted the discretionary nature of such orders and the necessity for a principled and analytical approach to their issuance.
     - Ratio Decidendi:
-      - Mareva orders can be justified against third parties when there is a substantive connection between the third party’s assets and the judgment debtor, reflecting the courts’ broad power but emphasizing the need for a careful and principled exercise of discretion.
+      - Mareva orders can be justified against third parties when there is a substantive connection between the third party's assets and the judgment debtor, reflecting the courts' broad power but emphasizing the need for a careful and principled exercise of discretion.
     - Conclusion and Relevance to Modern Law:
       - Cardile v LED Builders Pty Ltd signifies a critical examination of the scope of Mareva injunctions, underscoring the importance of ensuring such orders are grounded in clear legal principles and used judiciously to balance the effective administration of justice with the rights of third parties. 
       - This decision has profound implications for the use of asset preservation orders in Australian law, illustrating the courts' cautious approach to extending such orders beyond the direct parties to litigation.
-  - Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as “Mareva orders” or “asset preservation orders”)
+  - Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as "Mareva orders" or "asset preservation orders")
   - Search orders def are otherwise known as Anton Piller orders: 
     - Anton Piller KG v Manufacturing Processes Ltd [1976] 1 Ch 55.
-    - Anton Piller orders have a statutory basis in the UCPR, however, the UCPR preserve the court’s inherent, implied or statutory jurisdiction. 
+    - Anton Piller orders have a statutory basis in the UCPR, however, the UCPR preserve the court's inherent, implied or statutory jurisdiction. 
     - Search orders authorise the seizure of documents and other evidence. 
       - Search orders are obtained on an ex parte basis.
     - The requirements for the granting of a search order are: 
@@ -6490,7 +6498,7 @@ Week 12: Appeals
       - (c) there is sufficient evidence in relation to a respondent that: 
         - (i) the respondent possesses important evidentiary material; and 
         - (ii) there is a real possibility that the respondent might destroy such material or cause it to be unavailable for use in evidence in a proceeding or anticipated proceeding before the court.
-  - Practice Note SC Gen 13 Supreme Court – Search Orders (also known as “Anton Piller Orders”)
+  - Practice Note SC Gen 13 Supreme Court – Search Orders (also known as "Anton Piller Orders")
     - Findex Group Ltd v McKay [2019] NSWCA 93
       - Jurisdiction: 
         - New South Wales Court of Appeal - Binding in NSW
@@ -6528,12 +6536,12 @@ Week 12: Appeals
 - Interlocutory Applications and Injunctions
   - What is an interlocutory application?
     - An interlocutory application def is an application made in a proceeding before a final determination for one of two purposes:
-      - 1. Preserving the status quo until the parties’ rights are finally determined e.g. interlocutory injunction;
+      - 1. Preserving the status quo until the parties' rights are finally determined e.g. interlocutory injunction;
       - 2. Dealing with the formalities which it is necessary to attend to before trial, such as the provision of particulars, discovery and interrogation.
   - The broad procedure for interlocutory applications
     - Interlocutory applications are generally sought by notice of motion supported by an affidavit (part 35 UCPR).
     - If an application is heard ex parte before the institution of proceedings, it is usually on the proviso that proceedings are issued forthwith.
-    - r 18.1 of the UCPR: ‘An interlocutory or other application is to be made by motion unless these rules otherwise provide.’
+    - r 18.1 of the UCPR: 'An interlocutory or other application is to be made by motion unless these rules otherwise provide.'
     - r 18.2(1): generally speaking, a notice of motion must be filed and served on each person affected by the proposed order. Exceptions found in r 18.2(2). 
   - What must a notice of motion contain?
     - r 18.3 spells out some of the things a notice of motion must do, including:
@@ -6543,8 +6551,8 @@ Week 12: Appeals
       - The notice must also state concisely the nature of the proposed order.
   - Notices of motion – some more requirements
     - r 18.4: unless the court orders otherwise, a notice of motion must be served at least 3 days before the date fixed for the motion.
-    - r 18.5: a notice of motion must be personally served if the person on whom it is to be served is not a party to the proceedings or is not an active party (i.e. they haven’t entered an appearance).
-    - r 18.7: if you have served the notice of motion in accordance with the rules, and the other party doesn’t turn up, then the Court can deal with the motion in their absence.
+    - r 18.5: a notice of motion must be personally served if the person on whom it is to be served is not a party to the proceedings or is not an active party (i.e. they haven't entered an appearance).
+    - r 18.7: if you have served the notice of motion in accordance with the rules, and the other party doesn't turn up, then the Court can deal with the motion in their absence.
   - Pro forma notice of motion
     - 
   - Some types of interlocutory orders
@@ -6559,10 +6567,10 @@ Week 12: Appeals
       - Where address of plaintiff is misstated or omitted from originating process, and reason to believe this was done with intention to deceive;
       - Where plaintiff has changed their address, and reason to believe this was done to
       - avoid the consequences of the proceedings;
-      - If there is reason to believe that a corporation won’t be able to pay the defendant’s costs e.g. because it is bankrupt;
-      - Where the plaintiff is suing for someone else’s benefit and appears unable to pay for defendants costs; and
+      - If there is reason to believe that a corporation won't be able to pay the defendant's costs e.g. because it is bankrupt;
+      - Where the plaintiff is suing for someone else's benefit and appears unable to pay for defendants costs; and
       - If there is reason to believe that the plaintiff has divested assets with intention of avoiding consequences of proceedings.
-    - r 42.21(1B): if the plaintiff is a natural person, a security can’t be imposed simply because they are impecunious.
+    - r 42.21(1B): if the plaintiff is a natural person, a security can't be imposed simply because they are impecunious.
     - r 42.21(1A) lists the many different factors that the Court can take into account in weighing the interests of the plaintiff and the defendant. Some are:
       - (a) the prospects of success or merits of the proceedings;
       - (b) the genuineness of the proceedings;
@@ -6585,22 +6593,22 @@ Week 12: Appeals
   - The usual undertaking as to damages
     - Applies for interlocutory injunctions, Mareva orders and Anton Piller orders.
     - r 25.8: with the usual undertaking as to damages, the plaintiff submits to give compensation to another party (it could be the defendant, it could be someone else) due to the operation of the interlocutory order.
-    - If the court determines at trial that the injunction shouldn’t have been made, it conducts an inquiry as to damages, which the plaintiff then has to cover as part of the usual undertaking.
+    - If the court determines at trial that the injunction shouldn't have been made, it conducts an inquiry as to damages, which the plaintiff then has to cover as part of the usual undertaking.
   - Two criteria for an interlocutory injunction
-    - An applicant must establish (Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+    - An applicant must establish (Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
       - 1. A prima facie case in relation to the substantive litigation; and
       - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
-      - 3. What does the ‘balance of convenience’ entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: ‘whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.
+      - 3. What does the 'balance of convenience' entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 'whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.
   - Factors going to the balance of convenience
     - A non-exhaustive list of factors relevant to determining where the balance of convenience lies:
-      - The respondent’s intention to carry out threat;
+      - The respondent's intention to carry out threat;
       - The relative damage to both parties if the injunction were granted;
       - Where making injunction would lead inevitably to breach;
       - Where there are difficulties in supervising compliance;
       - The possibility the plaintiff will suffer irreparable damage if an injunction is not granted;
       - Whether or not other forms of relief such as damages will be an adequate remedy;
-      - The applicant’s performance in making their application;
-      - Where concerned with contracts: if specific performance would be refused, then an injunction won’t be granted; and
+      - The applicant's performance in making their application;
+      - Where concerned with contracts: if specific performance would be refused, then an injunction won't be granted; and
       - The impact of the injunction on third parties.
   - Appeals from orders granting interlocutory injunctions
     - Samsung Electronics Co. Limited v Apple Inc. [2011] FCAFC 156.
@@ -6610,17 +6618,17 @@ Week 12: Appeals
   - Mareva orders
     - A Mareva order is a special type of order restraining the defendant from dealing with the whole or part of their assets pending the outcome of proceedings.
     - Designed to prevent a defendant abusing the processes of the court by hiding or dissipating their assets in order to frustrate the ability of the plaintiff to recover damages
-    - Historically, Mareva orders stemmed from the Court’s inherent jurisdiction. 
+    - Historically, Mareva orders stemmed from the Court's inherent jurisdiction. 
       - They got their name from the case of Mareva Compania Naviera SA v International Bulkcarriers SA (The Mareva) [1980] 1 All ER 213.
       - Today, Mareva orders are also provided for by UCPR Pt 25 Div 2 and Practice Note SC Gen 14: Supreme Court – Freezing Orders.
       - cl 6 of Practice Note SC Gen 14 confirms that a freezing order is an extraordinary remedy.
   - Mareva orders – when are they appropriate?
     - r 25.14: Mareva orders can be made if two criteria are fulfilled:
       - (1): a judgment has been given in favour of the applicant or an applicant has a good arguable case; and
-      - (4): “(a) the judgment debtor, prospective judgment debtor or another person absconds.
+      - (4): "(a) the judgment debtor, prospective judgment debtor or another person absconds.
       - (b) the assets of the judgment debtor, prospective judgment debtor or another person are:
           - (i) removed from Australia or from a place inside or outside Australia, or
-          - (ii) disposed of, dealt with or diminished in value.”
+          - (ii) disposed of, dealt with or diminished in value."
     - r 25.14(5): Mareva orders can be sought against third-parties, but stricter criteria apply.
   - An application for a Mareva order
     - An application for a Mareva order is made by way of a motion supported by an affidavit.
@@ -6628,18 +6636,18 @@ Week 12: Appeals
       - The basis of the claim for substantive relief;
       - The amount of the claim;
       - If the application is made ex parte, then the applicant has to include in it their knowledge of any possible defence;
-      - The applicant also has to include their knowledge of the nature and value of the respondent’s assets;
+      - The applicant also has to include their knowledge of the nature and value of the respondent's assets;
       - The affidavit has to include the matters referred to in r 25.14; and
       - The affidavit has to reveal the identity of any person, other than the respondent, who the applicant believes may be affected by the order, and how they may be affected.
     - Applicant is to give usual undertaking as to damages: cl 16 of Supreme Court Practice Note 14.
       - Extreme care needed in making such an order.
-      - Value of the assets covered by a Mareva order should not exceed the likely maximum amount of the applicant’s claim and order should exclude dealings by the respondent with its assets for legitimate purposes: Practice Note cl 11, 12.
+      - Value of the assets covered by a Mareva order should not exceed the likely maximum amount of the applicant's claim and order should exclude dealings by the respondent with its assets for legitimate purposes: Practice Note cl 11, 12.
       - Ex parte Mareva orders generally only for short period of time so respondent has opportunity to be heard: Practice Note cl 9.
       - Operate in personam (i.e. does not attach to the property itself). 
   - Anton Piller orders
-    - An Anton Piller order (often known as a ‘search order’) compels the defendant to allow the plaintiff or its agents to inspect their property and premises, and allows for the search, preservation and seizure of documents and other evidence.
+    - An Anton Piller order (often known as a 'search order') compels the defendant to allow the plaintiff or its agents to inspect their property and premises, and allows for the search, preservation and seizure of documents and other evidence.
     - Derive their name from Anton Piller KG v Manufacturing Processes Ltd [1976] 1 All ER 779.
-    - Initially derived from the Court’s inherent jurisdiction, but now find expression in Pt 25 Div 3 of the UCPR and Practice Note SC Gen 13 Supreme Court – Search Orders.
+    - Initially derived from the Court's inherent jurisdiction, but now find expression in Pt 25 Div 3 of the UCPR and Practice Note SC Gen 13 Supreme Court – Search Orders.
   - Three essential criteria for the grant of an Anton Piller order
     - r 25.20 specifies that for a search order to be granted, there needs to be:
       - 1. A strong prima facie case;
@@ -6654,23 +6662,23 @@ Week 12: Appeals
       - Outline why the order is sought, including why there is a real possibility that the evidence will be destroyed or made unavailable;
       - Detail the prejudice, loss or damage likely to be suffered by the applicant if the order is not made;
       - The name, address, firm and commercial litigation experience of an independent solicitor who consents to serving the order and supervising its execution; and
-      - Lastly, if the premises to be searched are or include residential premises, the applicant has to state whether or not they believe that the only occupant of the premises is likely to be a female, a child under the age of 18, or a “vulnerable” person.
+      - Lastly, if the premises to be searched are or include residential premises, the applicant has to state whether or not they believe that the only occupant of the premises is likely to be a female, a child under the age of 18, or a "vulnerable" person.
   - Independent solicitors
     - According to cl 11 of Practice Note SC Gen 13 Supreme Court, an independent solicitor supervising an order is an important safeguard against abuse.
     - Independent solicitors:
-      - Can’t be a member or employee of the applicant’s firm of solicitors;
+      - Can't be a member or employee of the applicant's firm of solicitors;
       - Should be a solicitor experienced in commercial litigation, preferably in the execution of search orders.
     - Have a number of important functions spelled out in cl 11.
   - Anton Piller orders – some other characteristics
     - Various clauses of Practice Note SC Gen 13 Supreme Court:
       - cl 6: the search party has to include the independent solicitor plus a solicitor or solicitors representing the applicant. It may be necessary that it include other, more specialised persons e.g. an independent computer expert.
-      - cl 7: an “order should be clear about the maximum number of persons permitted to be in the search party. 
-        - The number of people in the search party should be as small as is reasonably practicable.”
+      - cl 7: an "order should be clear about the maximum number of persons permitted to be in the search party. 
+        - The number of people in the search party should be as small as is reasonably practicable."
       - cl 18: just like Mareva orders, the making of a search order will usually be made contingent upon the applicant giving the usual undertaking as to damages.
   - Obligation of candour
     - Injunctions, Mareva orders and Anton Piller orders are often sought urgently on an ex parte basis. 
-      - The absence of the other party is countervailed through the applicant’s obligation of candour. 
-      - The obligation of candour is an obligation to bring to th court’s attention all the material facts, even if those facts are detrimental to the applicant’s case.
+      - The absence of the other party is countervailed through the applicant's obligation of candour. 
+      - The obligation of candour is an obligation to bring to th court's attention all the material facts, even if those facts are detrimental to the applicant's case.
     - Includes raising all the relevant matters which would have been raised by the opposing party if he or she had been present.
     - Applies even if non-disclosure was inadvertent.
 ## Week 9: Costs and Settlement
@@ -6678,9 +6686,9 @@ Week 12: Appeals
 - Costs and Settlement
   - What are costs?
     - Costs are the actual amounts a party is charged or may be charged for legal services provided by a law practice related to the litigation.
-    - s 3 of the Civil Procedure Act 2005 (NSW) defines costs as ‘costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.’
+    - s 3 of the Civil Procedure Act 2005 (NSW) defines costs as 'costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.'
   - Costs agreements
-    - Part 4.3 Division 4 of the Legal Profession Uniform Law (NSW) provides for written costs agreements between solicitors and their clients which form the basis of the solicitors’ professional fees.
+    - Part 4.3 Division 4 of the Legal Profession Uniform Law (NSW) provides for written costs agreements between solicitors and their clients which form the basis of the solicitors' professional fees.
     - s 174: a law practice must:
       - Specify the basis on which costs will be calculated e.g. hourly rate; and
       - Notify the client of any significant change in costs.
@@ -6689,10 +6697,10 @@ Week 12: Appeals
     - Two main types of cost bases:
       - 1. Ordinary basis: 
         - Ordered pursuant to s 98(1)(c) of the CPA. 
-        - “Fair and reasonable amount...for the work concerned”; 
+        - "Fair and reasonable amount...for the work concerned"; 
         - s 76(1) Legal Profession Uniform Law Application Act 2014 (NSW). 
         - Normally considerably less than expenses actually incurred. 
-        - Also referred to as ‘standard party and party’ costs.
+        - Also referred to as 'standard party and party' costs.
       - 2. Indemnity basis: 
         - Also ordered pursuant to s 98(1)(c) of the CPA. 
         - More generous than ordinary basis. 
@@ -6700,7 +6708,7 @@ Week 12: Appeals
 - The primary rule in relation to costs
   - Usually, costs follow the event: 
     - Baulderstone Hornibrook v Gordian Runoff [2006] NSWSC 583. 
-      - Other things being equal, the loser has to pay the winner’s costs (the “loser pays” principle). See r 42.1 of the UCPR.
+      - Other things being equal, the loser has to pay the winner's costs (the "loser pays" principle). See r 42.1 of the UCPR.
       - However, courts have broad discretion to order costs: s 98 CPA
       - See also Pt 42 of the UCPR.
       - In exceptional circumstances courts will depart from this principle.
@@ -6718,23 +6726,23 @@ Week 12: Appeals
       - 3. Costs encourage early settlement; and
       - 4. They are factor relevant to case management decisions under various sections of the CPA, including ss 56(5), 57(1)(d), 60, 61(3)(f), 62(6).
   - Costs as a spur to settlement
-    - Settlements ‘encouraged’ by:
-      - penalising those who don’t settle when they should; and
+    - Settlements 'encouraged' by:
+      - penalising those who don't settle when they should; and
       - supporting institutions designed to ease negotiations.
     - Mechanisms of settlement:
       - Calderbank letters; and
       - Offers of compromise under Pt 42 Div 3 of the UCPR.
   - Calderbank letters
     - Calderbank v Calderbank [1976] Fam 93 (UK case).
-    - ‘Without prejudice’ letter offering to settle for a sum.
+    - 'Without prejudice' letter offering to settle for a sum.
     - They promote settlement of disputes: 
       - Messiter v Hutchinson (1987) 10 NSWLR 525.
-    - Indemnity costs may be awarded where “unreasonable” refusal of settlement offer (no prima facie presumption in favour of indemnity costs).
+    - Indemnity costs may be awarded where "unreasonable" refusal of settlement offer (no prima facie presumption in favour of indemnity costs).
     - Was there a genuine offer of compromise? & Was it unreasonable for the offeree not to accept it?: Miwa Pty Ltd v Siantan Properties Pty Ltd (No.2) [2011] NSWCA 344.
     - 
   - Offers of compromise
     - An offer to settle is made by A to B. 
-      - B does not accept offer and litigation continues. If B subsequently receives a less favourable judgment than what they would have received under A’s offer, B is usually penalised by adverse costs awards.
+      - B does not accept offer and litigation continues. If B subsequently receives a less favourable judgment than what they would have received under A's offer, B is usually penalised by adverse costs awards.
     - Conceptually related to Calderbank offers except explicitly provided for by the UCPR.
     - Regulated by UCPR Part 20 Div 4 and Part 42.
   - Offers of compromise – cost implications
@@ -6742,9 +6750,9 @@ Week 12: Appeals
       - UCPR r 42.13A.
     - D does not accept and P does better: P normally awarded indemnity costs from day of offer: 
       - r 42.14.
-    - P does not accept D’s offer and P does not do better: P entitled to their costs on the normal basis up to the offer and then has to pay D’s costs on an indemnity basis for period after the offer: 	
+    - P does not accept D's offer and P does not do better: P entitled to their costs on the normal basis up to the offer and then has to pay D's costs on an indemnity basis for period after the offer: 	
       - UCPR r 42.15.
-    - NB – court can always ‘otherwise order’ if it sees fit: 
+    - NB – court can always 'otherwise order' if it sees fit: 
       - rr 42.14 & 42.15
     - Table of Costs Scenarios
     - 
@@ -6754,9 +6762,9 @@ Week 12: Appeals
       - r 20.26(5).
     - During the time it is open it can be accepted: 
       - r 20.27.
-    - Offers of compromise are ‘without prejudice’: 
+    - Offers of compromise are 'without prejudice': 
       - r 20.26(9).
-    - If a party accepts an offer of compromise and then reneges, then the other party is entitled to judgment or dismissal of the plaintiff’s case, striking out a defendants defence, etc: 
+    - If a party accepts an offer of compromise and then reneges, then the other party is entitled to judgment or dismissal of the plaintiff's case, striking out a defendants defence, etc: 
       - r 20.29.
     - An offer of compromise can be accepted by serving written notice on the offeror any time within the period of acceptance. Once accepted, any party to the offer can enter judgment in accordance with the offer.
   - Leach v The Nominal Defendant [2014] NSWCA 391
@@ -6764,29 +6772,29 @@ Week 12: Appeals
     - Driver shot at and seriously injured appellant.
     - Appellant brings action against nominal defendant, State Insurance Regulatory Authority (SIRA).
     - SIRA makes an offer focused solely on costs – Court accepts this is a genuine compromise.
-    - If there is a genuine compromise, onus shifts to offeree to show why indemnity costs shouldn’t be levied. 
-    - Sometimes seen as offeree demonstrating “exceptional circumstances.”
+    - If there is a genuine compromise, onus shifts to offeree to show why indemnity costs shouldn't be levied. 
+    - Sometimes seen as offeree demonstrating "exceptional circumstances."
   - The legislative framework for costs
     - The key provisions surrounding costs are s 98 of the CPA and Pt 42 of the UCPR.
     - s 98 CPA:
-      - ‘(1) Subject to rules of court and to this or any other Act:
+      - '(1) Subject to rules of court and to this or any other Act:
         - (a) costs are in the discretion of the court, and
         - (b) the court has full power to determine by whom, to whom and to what extent costs are to be paid, and
-        - (c) the court may order that costs are to be awarded on the ordinary basis or on an indemnity basis.’
+        - (c) the court may order that costs are to be awarded on the ordinary basis or on an indemnity basis.'
   - The UCPR and costs
-    - r 42.1: the general rule is that costs follow the event – but also states: ‘unless it appears to the court that some other order should be made as to the whole or any part of the costs.’
+    - r 42.1: the general rule is that costs follow the event – but also states: 'unless it appears to the court that some other order should be made as to the whole or any part of the costs.'
     - r 42.2: general rule as to assessment of costs:
-      - ‘Unless the court orders otherwise or these rules otherwise provide, costs payable to a person under an order of the court or these rules are to be assessed on the ordinary basis.’
+      - 'Unless the court orders otherwise or these rules otherwise provide, costs payable to a person under an order of the court or these rules are to be assessed on the ordinary basis.'
     - r 42.4: Court may give order to fix maximum costs that may be recovered.
     - r 42.5: gives a sense of how indemnity costs are levied.
     - r 42.6: amendment of pleading etc without leave - must pay costs of amendment.
     - r 42.7: the costs for interlocutory applications are dealt with in same way as general costs.
     - rr 42.8 & 42.9: dispute of fact / document subsequently proved or admitted (i.e. notice to admit/produce). 
       - The requesting party has associated costs assessed on an indemnity basis.
-    - r 42.10: if a party fails to comply with a requirement of the rules, or of any judgment or order of the court, the court may order the party to pay such of the other parties’ costs as are occasioned by the failure.
-    - r 42.19: where plaintiff discontinues proceedings, they must pay defendant’s costs up until date of discontinuance.
-    - r 42.20(1): if the court makes an order for the dismissal of proceedings, the plaintiff must pay the defendant’s costs to the extent to which they have been dismissed.
-    - r 42.20(2): if the court makes an order striking out a defence, the defendant must pay the plaintiff’s costs in relation to those matters in respect of which the defence has been struck out. 
+    - r 42.10: if a party fails to comply with a requirement of the rules, or of any judgment or order of the court, the court may order the party to pay such of the other parties' costs as are occasioned by the failure.
+    - r 42.19: where plaintiff discontinues proceedings, they must pay defendant's costs up until date of discontinuance.
+    - r 42.20(1): if the court makes an order for the dismissal of proceedings, the plaintiff must pay the defendant's costs to the extent to which they have been dismissed.
+    - r 42.20(2): if the court makes an order striking out a defence, the defendant must pay the plaintiff's costs in relation to those matters in respect of which the defence has been struck out. 
     - r 42.32: provides for Smyth orders.
   - Bullock and Sanderson orders
     - Bullock order: the unsuccessful defendants required to pay the plaintiff by way of reimbursement any costs the plaintiff has paid to the successful defendant(s). 
@@ -6797,9 +6805,9 @@ Week 12: Appeals
   - Costs assessment process
     - Costs order does not provide specific amount payable.
     - Parties will try to agree between themselves on the amount of costs payable.
-    - If parties are unable to agree, then winner will arrange for the costs to be quantified or ‘assessed’.
+    - If parties are unable to agree, then winner will arrange for the costs to be quantified or 'assessed'.
     - Two stages: 
-      - winning party prepares a ‘bill of costs’; 
+      - winning party prepares a 'bill of costs'; 
       - costs will be assessed at an informal hearing before an assessor.
   - Costs orders against legal practitioners
     - s 99 of the CPA provides for costs orders against legal practitioners where costs have been incurred:
@@ -6810,9 +6818,9 @@ Week 12: Appeals
       - See Treadwell v Hickey [2010] NSWSC 1119.
     - Supreme Court Practice Note 5 – General Division 
     - Cachia v Hanes (1994) 179 CLR 403 – costs for the litigant in person.
-    - Bell Lawyers v Pentelow [2019] HCA 29 - No exception to Cachia for self-represented legal practitioners (cf the earlier ‘Chorley exception’)
+    - Bell Lawyers v Pentelow [2019] HCA 29 - No exception to Cachia for self-represented legal practitioners (cf the earlier 'Chorley exception')
   - Firth v Latham & Ors [2007] NSWCA 40
-    - Case revolved around what constitutes ‘reasonable prospects of success.’
+    - Case revolved around what constitutes 'reasonable prospects of success.'
     - A local Council was added as a defendant in a case involving an injury caused as a result of a motor vehicle accident.
     - The Council had a total defence under s 43A of the Civil Liability Act 2002 (NSW).
     - The case against the Council was thus commenced without any reasonable prospects of success.
@@ -6825,7 +6833,7 @@ Week 12: Appeals
 
 - Strike out, Summary Disposal, and Vexatious Litigants
   - What is Strike out?
-    - Strike out def refers to a situation where a Court cuts down, or “strikes out”, a party’s pleadings, either in whole or in part.
+    - Strike out def refers to a situation where a Court cuts down, or "strikes out", a party's pleadings, either in whole or in part.
     - The UCPR tightly controls the circumstances in which Strike out can occur – r. 14.28.
     - A concept with a long history in the common law.
   - The role of pleadings
@@ -6835,26 +6843,26 @@ Week 12: Appeals
     - See also Markisic v Department of Community Services of New South Wales (No 2) [2006] NSWCA 321.
   - Strike out – r 14.28
     - r 14.28 is the key rule for Strike out. It provides:
-      - ‘(1) The court may at any stage of the proceedings order that the whole or any part of a pleading be struck out if the pleading:
+      - '(1) The court may at any stage of the proceedings order that the whole or any part of a pleading be struck out if the pleading:
         - (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading, or
         - (b) has a tendency to cause prejudice, embarrassment or delay in the proceedings, or
         - (c) is otherwise an abuse of the process of the court. 
-      - (2) The court may receive evidence on the hearing of an application for an order under subrule (1).’
+      - (2) The court may receive evidence on the hearing of an application for an order under subrule (1).'
   - r 14.28(1)(a) – discloses no reasonable cause of action/defence
     - Similar in some ways to the old demurrer procedure i.e. no evidence is led, it is the wording of the pleading itself.
-    - “A pleading or part thereof will be struck out if the court is satisfied that even if all the allegations of fact set out in the pleading are proved, those facts would not establish the essential ingredients of a cause of action or constitute a defence”
+    - "A pleading or part thereof will be struck out if the court is satisfied that even if all the allegations of fact set out in the pleading are proved, those facts would not establish the essential ingredients of a cause of action or constitute a defence"
   - r 14.28(1)(a) – discloses no reasonable cause of action/defence cont.
     - A hypothetical: a statement of claim alleges a cause of action in negligence and a cause of action in trespass. 
     - The facts in the statement all attest to how the plaintiff saw their neighbour routinely jump their fence and come onto their property.
     - One part of the pleading (trespass) can clearly be made out. 
     - However, there is nothing in the facts that could possibly disclose an action in negligence – that part could be struck-out under r 14.28(1)(a).
   - r 14.28(1)(b) – tends to cause prejudice, embarrassment or delay
-    - “A pleading or part thereof may tend to prejudice, embarrass or delay the fair trial of the proceedings if it contains allegations which are vague or imprecise such that the other party cannot plead to such allegations specifically, or if it contains allegations that are irrelevant, unnecessary or scandalous”:
+    - "A pleading or part thereof may tend to prejudice, embarrass or delay the fair trial of the proceedings if it contains allegations which are vague or imprecise such that the other party cannot plead to such allegations specifically, or if it contains allegations that are irrelevant, unnecessary or scandalous":
     - Priest v New South Wales [2006] NSWSC 12	
   - r 14.28(1)(c) – abuse of process
     - Courts have an inherent jurisdiction to prevent the abuse of their processes.
-    - In Hunter v Chief Constable of West Midland Police [1982] AC 529, at 536, this power was described as preventing a misuse of the court’s procedure in a way “which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it, or would otherwise bring the administration of justice into disrepute among right-thinking people.”
-    - Abuse of the process of the court ‘is insusceptible of a formulation comprising closed categories’ - 
+    - In Hunter v Chief Constable of West Midland Police [1982] AC 529, at 536, this power was described as preventing a misuse of the court's procedure in a way "which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it, or would otherwise bring the administration of justice into disrepute among right-thinking people."
+    - Abuse of the process of the court 'is insusceptible of a formulation comprising closed categories' - 
       - Batistatos v Road and Traffic Authority NSW (2006) 226 CLR 256.
     - Examples of abuse of process include:
       - The institution of proceedings for an improper purpose – 
@@ -6872,21 +6880,21 @@ Week 12: Appeals
       - Destruction of evidence – 
         - Palavi v Queensland Newspapers Pty Ltd (2012) 84 NSWLR 523
   - Court wary of striking-out pleadings
-    - The ordinary presumption of the legal system is that people are entitled to their ‘day in Court’.
+    - The ordinary presumption of the legal system is that people are entitled to their 'day in Court'.
     - That being the case, the power to strike out pleadings is one the Court will only use sparingly and in clear cases.
   - Summary disposal
-    - Summary disposal is a label used to describe applications to the court that can result in proceedings being concluded before a trial.’:
+    - Summary disposal is a label used to describe applications to the court that can result in proceedings being concluded before a trial.':
       - Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4th ed, Thomson Reuters, 2020), 930.
     - Pt 13 of the UCPR provides for (amongst other things):
       - Summary judgment – r 13.1;
       - Frivolous and vexatious proceedings (summary dismissal) – r 13.4;
       - Non-appearance by the plaintiff – r 13.6
   - Difference between summary disposal and Strike out
-    - “Unlike UCPR Pt 13, applications under this rule (here it is talking about r 14.28) are directed to the form of the pleading rather than to the merits, or lack thereof, of the respective parties, and if the application is successful the order usually made is not that the proceedings be struck out or dismissed, but that the pleading or particular parts thereof be struck out, usually with leave given to file an amended document (replead), in which case the proceedings remain on foot.
-    - If on the other hand, the evidence establishes that, no matter how the plaintiff pleads his or her case, he or she has no arguable cause of action and cannot possibly succeed, the proceedings should be dismissed pursuant to r 13.4”:
+    - "Unlike UCPR Pt 13, applications under this rule (here it is talking about r 14.28) are directed to the form of the pleading rather than to the merits, or lack thereof, of the respective parties, and if the application is successful the order usually made is not that the proceedings be struck out or dismissed, but that the pleading or particular parts thereof be struck out, usually with leave given to file an amended document (replead), in which case the proceedings remain on foot.
+    - If on the other hand, the evidence establishes that, no matter how the plaintiff pleads his or her case, he or she has no arguable cause of action and cannot possibly succeed, the proceedings should be dismissed pursuant to r 13.4":
   - Summary disposal – summary judgment, r 13.1
     - r 13.1 provides that:
-      - “(1) If, on application by the plaintiff in relation to the plaintiff's claim for relief or any part of the plaintiff's claim for relief:
+      - "(1) If, on application by the plaintiff in relation to the plaintiff's claim for relief or any part of the plaintiff's claim for relief:
         - (a) there is evidence of the facts on which the claim or part of the claim is based, and
         - (b) there is evidence, given by the plaintiff or by some responsible person, that, in the belief of the person giving the evidence, the defendant has no defence to the claim or part of the claim, or no defence except as to the amount of any damages claimed, 
       - the court may give such judgment for the plaintiff, or make such order on the claim or that part of the claim, as the case requires.
@@ -6900,27 +6908,27 @@ Week 12: Appeals
   - Summary dismissal, r 13.4
     - Whereas summary judgment is for the plaintiff, summary dismissal provides a corresponding right for the defendant.
     - Relevant rule is r 13.4:
-      - ‘(1) If in any proceedings it appears to the court that in relation to the proceedings generally or in relation to any claim for relief in the proceedings:
+      - '(1) If in any proceedings it appears to the court that in relation to the proceedings generally or in relation to any claim for relief in the proceedings:
         - (a) the proceedings are frivolous or vexatious, or
         - (b) no reasonable cause of action is disclosed, or
         - (c) the proceedings are an abuse of the process of the court,
-    - the court may order that the proceedings be dismissed generally or in relation to that claim.’
+    - the court may order that the proceedings be dismissed generally or in relation to that claim.'
   - r 13.4(1)(a) – frivolous or vexatious proceedings
-    - Although related, “frivolous” and “vexatious” are conceptually distinct.
-    - “Material is frivolous where it is without substance, or groundless or fanciful, and it is vexatious where it lacks bona fides and is hopeless or oppressive and tends to cause the opposite side unnecessary anxiety, trouble and expense” 
-      - – Bullen and Leake and Jacob’s Precedents of Pleading (12 th ed, Sweet & Maxwell: 1975), 145.
+    - Although related, "frivolous" and "vexatious" are conceptually distinct.
+    - "Material is frivolous where it is without substance, or groundless or fanciful, and it is vexatious where it lacks bona fides and is hopeless or oppressive and tends to cause the opposite side unnecessary anxiety, trouble and expense" 
+      - – Bullen and Leake and Jacob's Precedents of Pleading (12 th ed, Sweet & Maxwell: 1975), 145.
   - Summary dismissal - procedure
     - Ordinarily summary disposal will be instigated by an application from the defendant i.e. by way of motion (Pt 18 UCPR) supported by affidavit (Pt 35).
-    - HOWEVER, remember the general presumption: “
-      - “Where the court is asked to reject the plaintiff’s case, either under its statutory rules or its inherent jurisdiction, the fundamental principle is that prima facie a plaintiff is entitled to have his case come to trial; and applications to deprive him of that right will succeed only in the clearest of cases...fatal defects in the plaintiff’s case must be very clear before the court will intervene in this fashion”: 
+    - HOWEVER, remember the general presumption: "
+      - "Where the court is asked to reject the plaintiff's case, either under its statutory rules or its inherent jurisdiction, the fundamental principle is that prima facie a plaintiff is entitled to have his case come to trial; and applications to deprive him of that right will succeed only in the clearest of cases...fatal defects in the plaintiff's case must be very clear before the court will intervene in this fashion": 
       - Brimson v Rocla Concrete Pipes Ltd [1982] 2 NSWLR 937, 944.
   - General Steel Industries Inc v Commissioner for Railways (NSW) (1964) 112 CLR 125
     - Key case on summary dismissal/Strike out.
     - Case involved the plaintiff alleging patent infringement against the defendants related to the construction of rail carriage bearings. 
       - The defendants in turn argued this was permitted by ss 125 and 132 of the Patents Act 1952-1960 (Cth).
-      - Barwick CJ agreed, striking out the plaintiff’s statement of claim and dismissing the proceedings.
+      - Barwick CJ agreed, striking out the plaintiff's statement of claim and dismissing the proceedings.
     - Barwick CJ: summary dismissal is a drastic step to be taken with great caution. Over the years, that caution has been expressed as only dismissing cases that are:
-      - So obviously untenable that it couldn’t succeed;
+      - So obviously untenable that it couldn't succeed;
       - Manifestly groundless;
       - So manifestly faulty that it does not admit of argument or cannot possibly succeed;
       - Under no possibility could there be a good cause of action;
@@ -6929,13 +6937,13 @@ Week 12: Appeals
         - Cosmos E-C Comerce v Bidwell [2005] NSWCA 81.
   - r 13.6 – dismissal where plaintiff fails to appear
     - r 13.6 provides for the dismissal of proceedings where the plaintiff fails to appear for a hearing that was adjourned because of their absence.
-    - r 13.6(1): if plaintiff doesn’t turn up for a hearing, then the Court can adjourn to another date. 
-      - Not less than five days before that new date, a notice of the adjournment will be served on the plaintiff advising them that if they don’t turn up for this new date, then their proceedings may be dismissed.
-    - r 13.6(2): court can dismiss plaintiff’s proceedings if given notice of adjourned hearings.
+    - r 13.6(1): if plaintiff doesn't turn up for a hearing, then the Court can adjourn to another date. 
+      - Not less than five days before that new date, a notice of the adjournment will be served on the plaintiff advising them that if they don't turn up for this new date, then their proceedings may be dismissed.
+    - r 13.6(2): court can dismiss plaintiff's proceedings if given notice of adjourned hearings.
   - Default judgments
     - What is a default judgment?
-      - ‘A default judgement applies to proceedings commenced by statement of claim...and is a judgment entered by virtue of court rules rather than one ordered by the court. 
-      - A default judgement can be entered if the defendant is in “default”...’: Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 931.
+      - 'A default judgement applies to proceedings commenced by statement of claim...and is a judgment entered by virtue of court rules rather than one ordered by the court. 
+      - A default judgement can be entered if the defendant is in "default"...': Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 931.
     - Arises in situations of procedural shortcoming defined by r 16.2 e.g. failing to file a defence in time, failing to file any affidavit verifying a defence, having a defence struck out.
       - r 16.3 is the master rule for default judgments.
       - r 16.3(1): plaintiff has to apply for a default judgment.
@@ -6947,38 +6955,38 @@ Week 12: Appeals
       - NB – the affidavit in support must attest to different things depending upon whether the default judgment is for debt or liquidated damages (r 16.6) or unliquidated damages (r 16.7).
   - Overturning a default judgment
     - r 36.16:
-      - ‘(2) The court may set aside or vary a judgment or order after it has bee entered if:
+      - '(2) The court may set aside or vary a judgment or order after it has bee entered if:
         - (a) it is a default judgment (other than a default judgment given in open court), or
-        - (b) it has been given or made in the absence of a party, whether or not the absent party had notice of the relevant hearing or of the application for the judgment or order...’
+        - (b) it has been given or made in the absence of a party, whether or not the absent party had notice of the relevant hearing or of the application for the judgment or order...'
     - Defendant would seek overturn by way of motion supported by an affidavit.
     - The affidavit would lay out the grounds on which the overturn was sought and that there is a defence to the claim that has merit.
-      - The fundamental (but not the only) principles guiding a court asked to exercise the unfettered discretion UCPR r 36.16(2)(a) confers, are whether the applicant has a bona fide ground of defence, an adequate explanation for failure to defend and the length of any delay...In the final analysis, it is necessary to consider whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits...’:
+      - The fundamental (but not the only) principles guiding a court asked to exercise the unfettered discretion UCPR r 36.16(2)(a) confers, are whether the applicant has a bona fide ground of defence, an adequate explanation for failure to defend and the length of any delay...In the final analysis, it is necessary to consider whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits...':
         - Dunwoodie v Teachers Mutual Bank Ltd [2014] NSWCA 24, at [43].
-      - ‘I would only add [to Dunwoodie] that, in my view, in determining whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits, it is appropriate for the Court to consider the relative weight of each of the individual considerations of the strength of any defence, the adequacy of the explanation for the failure to defend proceedings and the length of any delay. 
-      - So that, for example, although the Court does not embark upon a hearing of the full merits of the case, the existence of what would appear to be a strong defence would warrant a more indulgent approach regarding the adequacy of the explanation for the failure to defend.’ 
+      - 'I would only add [to Dunwoodie] that, in my view, in determining whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits, it is appropriate for the Court to consider the relative weight of each of the individual considerations of the strength of any defence, the adequacy of the explanation for the failure to defend proceedings and the length of any delay. 
+      - So that, for example, although the Court does not embark upon a hearing of the full merits of the case, the existence of what would appear to be a strong defence would warrant a more indulgent approach regarding the adequacy of the explanation for the failure to defend.' 
         - Cronau v Vavakis (No 3) [2018] NSWSC 1973, at [5].
   - Dismissal for want of due despatch
     - r 12.7:
-      - ‘(1) If a plaintiff does not prosecute the proceedings with due despatch, the court may order that the proceedings be dismissed or make such other order as the court thinks fit.
-      - (2) If the defendant does not conduct the defence with due despatch, the court may strike out the defence, either in whole or in part, or make such other order as the court thinks fit.’
+      - '(1) If a plaintiff does not prosecute the proceedings with due despatch, the court may order that the proceedings be dismissed or make such other order as the court thinks fit.
+      - (2) If the defendant does not conduct the defence with due despatch, the court may strike out the defence, either in whole or in part, or make such other order as the court thinks fit.'
     - Examples of things which reflect lack of due despatch can include changing solicitors frequently, seeking many adjournments, not abiding by the correct procedural steps etc -
       - Building Insurers' Guarantee Corp. v. Daniel Touma & Ors. [2010] NSWSC 4.
-    - “The central consideration in a want of prosecution case is whether, at the time when the action is likely to be tried, it will be capable of being tried adequately and fairly”: 
+    - "The central consideration in a want of prosecution case is whether, at the time when the action is likely to be tried, it will be capable of being tried adequately and fairly": 
       - McKenna v McKenna [1984] VR 665, 666.
     - Party seeking dismissal for want of due despatch would apply by way of motion supported by affidavit.
-    - NB - r 12.8 allows the Supreme Court and Land and Environment Court to dismiss proceedings of their own accord if it appears from the court’s records that, for over 5 months, no party to the proceedings has taken any step in the proceedings.
+    - NB - r 12.8 allows the Supreme Court and Land and Environment Court to dismiss proceedings of their own accord if it appears from the court's records that, for over 5 months, no party to the proceedings has taken any step in the proceedings.
   - Vexatious litigants
-    - Vexatious litigants form a very small sub-class of litigants who persistently begin legal actions but don’t have sufficient grounds for doing so.
+    - Vexatious litigants form a very small sub-class of litigants who persistently begin legal actions but don't have sufficient grounds for doing so.
     - An example is John Wilson, prominent in the Australian sovereign citizen movement.
     - For the purposes of s 6 of the Vexatious Proceedings Act 2008 (NSW), vexatious proceedings include:
-      - ‘(a) proceedings that are an abuse of the process of a court or tribunal, and
+      - '(a) proceedings that are an abuse of the process of a court or tribunal, and
       - (b) proceedings instituted to harass or annoy, to cause delay or detriment, or for another wrongful purpose, and
       - (c) proceedings instituted or pursued without reasonable ground, and
-      - (d) proceedings that are conducted to achieve a wrongful purpose, or in a way that harasses, or causes unreasonable annoyance, delay or detriment, regardless of the subjective intention or motive of the person who instituted the proceedings.’
+      - (d) proceedings that are conducted to achieve a wrongful purpose, or in a way that harasses, or causes unreasonable annoyance, delay or detriment, regardless of the subjective intention or motive of the person who instituted the proceedings.'
     - Relevant parts of s 8 of Vexatious Proceedings Act 2008 (NSW):
-      - s 8(1): an order can apply to someone who has “frequently” instituted or conducted vexatious proceedings in Australia, or someone working in concert with such a person.
+      - s 8(1): an order can apply to someone who has "frequently" instituted or conducted vexatious proceedings in Australia, or someone working in concert with such a person.
       - s 8(3): the person subject to the order has a right to be heard before that order is made.
-      - s 8(4): an order can be made on the Court’s own motion, or it can be made on the instigation of the Attorney-General, the Solicitor General, the registrar of the Court, a party against or in relation to whom the litigant has commenced vexatious proceedings, or anyone else possessing a sufficient interest.
+      - s 8(4): an order can be made on the Court's own motion, or it can be made on the instigation of the Attorney-General, the Solicitor General, the registrar of the Court, a party against or in relation to whom the litigant has commenced vexatious proceedings, or anyone else possessing a sufficient interest.
       - s 8(7): an order can stay any of their current proceedings, or indeed prohibit them from instituting proceedings in NSW at all.
     - Register of vexatious litigants kept on Supreme Court website:
       - http://www.supremecourt.justice.nsw.gov.au/Pages/sco2_practiceprocedure/SCO2_vexatiousproceedings.aspx#Istherearegisterofvexatiouslitigantsandtheordersthatapplytothem
@@ -6989,21 +6997,21 @@ Week 12: Appeals
       - Cases centre on a wide variety of matters e.g. English-language test, speeding tickets, social security payments, employment decisions and a suspension from studies as a law student.
       - The 2014 case saw the NSW Attorney-General apply to the Supreme Court to have Mr Rahman designated as a vexatious litigant.
     - Justice Adams drew upon Justice Davies in Attorney General in and for the State of NSW v Gargan [2010] NSWSC 1192 in identifying some key considerations:
-      - ‘(a) the test of "frequently" is a less demanding test than was required under s 84 Supreme Court Act 1970;
+      - '(a) the test of "frequently" is a less demanding test than was required under s 84 Supreme Court Act 1970;
       - (b) the term "frequently" is a relative term and must be looked at in the context of the litigation being considered;
       - (c) the number of proceedings considered may be small if the proceedings are an attempt to re-litigate an issue already determined against the person;
     - Key considerations continued:
-      - ‘(d) regard may be had to applications made by the person in proceedings commenced against that person;
+      - '(d) regard may be had to applications made by the person in proceedings commenced against that person;
       - (e) regard may be had to the way the person has behaved and conducted himself or herself in the proceedings before the Court;
       - (f) regard may be had to proceedings in any Australian court or tribunal;
-      - (g) regard may be had to the findings and result in the proceedings under consideration.’
-    - Remember: “the making of such an order is an extreme remedy depriving its object of recourse to the enforcement of the law which is every citizen's ordinary right. 
+      - (g) regard may be had to the findings and result in the proceedings under consideration.'
+    - Remember: "the making of such an order is an extreme remedy depriving its object of recourse to the enforcement of the law which is every citizen's ordinary right. 
       - It is, therefore, not lightly to be made.
 ## Week 11: Enforcing Judgments
 
 - Enforcing Judgments
   - What is judgment enforcement?
-    - ‘Enforcement is the process by which compliance with a determination or order of a court is compelled’: Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 987.
+    - 'Enforcement is the process by which compliance with a determination or order of a court is compelled': Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 987.
     - Enforcement is pursued by a judgment creditor against a judgment debtor:
       - Judgment debtor: owes money pursuant to court order.
       - Judgment creditor: is owed money pursuant to court order.
@@ -7025,7 +7033,7 @@ Week 12: Appeals
     - Judgment debtors might be tempted to put off paying damages so that inflation whittles away their value.
     - s 101 of the Civil Procedure Act 2005 (NSW): 
       - provides that judgment debts incur interest until paid. 
-      - Interest payable at the ‘prescribed rate’.
+      - Interest payable at the 'prescribed rate'.
     - No interest payable if full amount paid within 28 days of judgment.
   - Writs of execution
     - Writ of execution: court orders addressed to the Sheriff authorising him/her to seize and sell goods, land, money and other assets of a judgment debtor.
@@ -7044,13 +7052,13 @@ Week 12: Appeals
       - Those requiring the payment of money – s 106 CPA; and
       - Those involving mandatory or injunctive orders.
   - When is a judgment enforceable?
-    - s 133 CPA: ‘A judgment or order of the court may not be enforced until it has been entered in accordance with the uniform rules.’
-    - r 36.11(2): ‘Unless the court orders otherwise, a judgment or order is taken to be entered when it is recorded in the court's computerised court record system.’
+    - s 133 CPA: 'A judgment or order of the court may not be enforced until it has been entered in accordance with the uniform rules.'
+    - r 36.11(2): 'Unless the court orders otherwise, a judgment or order is taken to be entered when it is recorded in the court's computerised court record system.'
     - s 17 of the Limitation Act 1969 (NSW): judgment is enforceable for 12 years from when it is entered in the Court records.
   - Orders for examination
     - Orders for examination may sometimes be necessary to ascertain the financial circumstances of the judgment debtor.
     - s 108 CPA: 
-      - the court can order the judgment debtor to attend court to be orally examined and/or to produce documents as to their financial circumstances. Debtor must answer “material questions.”
+      - the court can order the judgment debtor to attend court to be orally examined and/or to produce documents as to their financial circumstances. Debtor must answer "material questions."
     - Relevant UCPR rules: rr 38.1 & 38.2
   - Judgment for the payment of money
     - s 106(1) CPA: judgment for the payment of money can be enforced through three main instruments:
@@ -7072,7 +7080,7 @@ Week 12: Appeals
     - r 39.6(3): land must not be sold before other property unless the judgment debtor requests it.
     - NB – the sheriff requires a valid writ, otherwise they are technically committing trespass.
   - Instalment orders
-    - s 107(1)(b): the court can make an order for the ‘payment of the judgment debt by instalments, payable in such amounts and at such times as are specified in the order.’
+    - s 107(1)(b): the court can make an order for the 'payment of the judgment debt by instalments, payable in such amounts and at such times as are specified in the order.'
     - Two main situations in which an instalment order can be made:
       - 1. As a result of an agreement between the judgment creditor and debtor: r 37.1A;
       - 2. Judgment debtor can apply for one: r 37.2. 
@@ -7085,7 +7093,7 @@ Week 12: Appeals
   - Orders against third parties
     - Two main orders against third parties:
     - Garnishee order
-      - Can target parties that owe the judgment debtor money (e.g. banks) or the debtor’s employer (rr 39.36 & 39.37).
+      - Can target parties that owe the judgment debtor money (e.g. banks) or the debtor's employer (rr 39.36 & 39.37).
       - Judgment creditor applies by way of notice of motion supported by affidavit (rr 39.34 & 39.35).
     - Charging order
       - Order made against the beneficial interest debtor has in any securities.
@@ -7140,7 +7148,7 @@ Week 12: Appeals
       - s 75A(5) – an appeal is by way of a rehearing.
       - s 75A(6) – appellate court has all the powers and duties of the original court.
       - s 75A(7) – the court may receive further evidence.
-      - s 75A(8) – despite ss 7, where the appeal is from a judgment after a trial or hearing on the merits, the court won’t receive further evidence except on special grounds.
+      - s 75A(8) – despite ss 7, where the appeal is from a judgment after a trial or hearing on the merits, the court won't receive further evidence except on special grounds.
     - See Fox v Percy (2003) 214 CLR 118 at [27]; 
     - House v R (1936) 55 CLR 499 at 504–5.
   - Appeal process timeframes
@@ -7355,7 +7363,7 @@ Subpoena:
 - Rules 33.1, 33.3, 33.4, 33.6(1): Subpoenas compel the production of documents or attendance for testimony.
 Interlocutory Orders (Week 8)
 Security for Costs:
-- UCPR Rule 42.21 and CPA Section 67: Provides for security to be given for the defendant’s costs.
+- UCPR Rule 42.21 and CPA Section 67: Provides for security to be given for the defendant's costs.
 Interim Injunctions:
 - Criteria for Interlocutory Injunctions:
   - ABC v O'Neill (2006): Plaintiff must show a prima facie case and that the balance of convenience favours granting the injunction.
@@ -7433,7 +7441,7 @@ Writs of Execution:
     - Four different methods of service internationally:
       - 1. Service by private means (i.e. using a process server or local agent in the concerned country).	
         - rr 11.4, 11.6-11.7, 11.8AA-11.8AC
-      - 2. Service through diplomatic channels i.e. through using the Attorney-General’s office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
+      - 2. Service through diplomatic channels i.e. through using the Attorney-General's office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
       - 3. Service pursuant to the Hague Convention. Regulated by Part 11A of the UCPR; and
       - 4. Service arrangements agreed in bilateral treaties. Service by private means is most important for our purposes.
 - Evidence in Proceedings - Week 7
@@ -7456,12 +7464,12 @@ Writs of Execution:
   - Objection to produce documents founded on privilege
     - r 1.9
 - Interlocutory orders - Week 8
-  - Security for the defendant’s cost
+  - Security for the defendant's cost
     - r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
   - interim junction/interlocutory injunction 
     - S 18 of UCPR - need notice of motion form 20 UCPR
       - Two criteria for an interlocutory injunction
-        - Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+        - Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
           - 1. A prima facie case in relation to the substantive litigation; and
           - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
       - See ->
@@ -7501,7 +7509,7 @@ Writs of Execution:
         - CPA s 98(1)(c) 
     - The primary rule in relation to costs
       - Baulderstone Hornibrook v Gordian Runoff [2006] NSWSC 583. 
-        - Other things being equal, the loser has to pay the winner’s costs (the “loser pays” principle). See r 42.1 of the UCPR.
+        - Other things being equal, the loser has to pay the winner's costs (the "loser pays" principle). See r 42.1 of the UCPR.
         - However, courts have broad discretion to order costs: s 98 CPA
         - See also Pt 42 of the UCPR.
       - Case management decisions
@@ -7537,7 +7545,7 @@ Writs of Execution:
   - Dismissal for want of due despatch
     - r 12.7
   - Vexatious Proceedings Act 2008 (NSW)
-    - s 6 - Meaning of “vexatious proceedings”
+    - s 6 - Meaning of "vexatious proceedings"
     - s 8 - Making of vexatious proceedings order
     - s 14 - Application for leave to institute proceedings
     - s 16
@@ -7689,17 +7697,17 @@ Week 2 Ch 1: Introduction and Guiding Principles, Case Management and Purpose
 ● Procedural Law
 ○ Procedural Law def
 ● the law that governs the conduct of proceedings before the court
-● rules which are directed to governing or regulating the mode or conduct of court proceedings”: McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
-● Described as “adjectival” law
+● rules which are directed to governing or regulating the mode or conduct of court proceedings": McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
+● Described as "adjectival" law
 ● is governed by the lex fori which means that the applicable laws of procedure and evidence will be the laws of the forum, that is, the laws of the court which is hearing the claim.
 ● procedural law regulates the way in which substantive rights and obligations are claimed and enforced, without impacting on the definition of those particular substantive rights.
 ○ Substantive law is the law that defines legal rights, duties, powers and liabilities
 ● Judging Civil Justice
-Dame Hazel Genn, “Introduction: What Is Civil Justice for?” in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
+Dame Hazel Genn, "Introduction: What Is Civil Justice for?" in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
 ○ The significance of procedure
 ○ Sources of procedural law
 ○ ADVERSARIAL SYSTEM OF CIVIL LITIGATION
-○ “Cards on the table” approach to litigation
+○ "Cards on the table" approach to litigation
 Week 2 Ch 2: Case Management in New South Wales
 ● Intro
 ○ Traditional Adversarial preparation
@@ -7735,11 +7743,11 @@ Week 3: Access to Justice, Open Justice and Client Care
 ● Statutory power to close the court in civil proceedings
 ○ CPA s 71 - closing the court
 ○ Statutory power to make suppression and non-publication orders
-○ X” v Sydney Children’s Hospitals Specialty Network [2011] NSWSC 1272
+○ X" v Sydney Children's Hospitals Specialty Network [2011] NSWSC 1272
 ○ A v Bird; C v Bird [2015] NSWSC 570
 Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Periods
 ● Alternative Dispute Resolution (ADR)
-○ Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers)
+○ Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers)
 ○ Negotiation
 ○ Jurisdiction – an introduction
 ○ Transferring proceedings between courts
@@ -7748,7 +7756,7 @@ Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Perio
 ● Limitation periods
 ○ Limitation statutes impose a time limit within which you must commence proceedings for a cause of action.
 ○ Some common limitation periods
-○ [l]awyers may use ADR not for the accomplishment of a ‘better’ result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage”
+○ [l]awyers may use ADR not for the accomplishment of a 'better' result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage"
 ○ TYPES OF ADR PROCESSES
 ● Negotiation
 ○ The distinguishing feature of negotiation, compared to the other forms of dispute resolution that will be examined, is that negotiation involves no third party whose role is to facilitate, advise or determine the resolution of the dispute.
@@ -7779,8 +7787,8 @@ Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Perio
 ○ Specific limitations Chart
 ○
 Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Causes of Action, and Drafting Pleadings
-● Proceedings commenced by the ‘originating process’
-○ s 3 of the CPA: the originating process ‘means the process by which proceedings are commenced...’
+● Proceedings commenced by the 'originating process'
+○ s 3 of the CPA: the originating process 'means the process by which proceedings are commenced...'
 ○ r 6.2(1) of the UCPR: our originating process can take two forms:
 ● Statement of claim
 ○
@@ -7808,7 +7816,7 @@ Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Cause
 ○ JOINDER OF CAUSES OF Action
 ○ JOINDER, EFFICIENCY AND Costs
 ● Initiating Proceedings and Pleadings
-○ Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the “originating process” as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
+○ Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the "originating process" as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
 ○ APPEARANCE
 ○ PLEADINGS
 ○ Material facts
@@ -7886,7 +7894,7 @@ Week 7: Evidence in Proceedings
 ○ Drafting affidavits
 ○ Ying v Song [2010] NSWSC 1500
 Week 8: Interlocutory Applications and Injunctions
-● The court has power to order a plaintiff to give security for the defendant’s cost of defending the plaintiff’s claim and can order a stay of proceedings until the security is given
+● The court has power to order a plaintiff to give security for the defendant's cost of defending the plaintiff's claim and can order a stay of proceedings until the security is given
 ○ s r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
 ● Wollongong City Council v Legal Business Centre Pty Limited [2012] NSWCA 245
 ○ Jurisdiction:
@@ -7924,9 +7932,9 @@ Week 8: Interlocutory Applications and Injunctions
 ○ The majority judgment subsequently made explicitly clear that a freezing order is not to be used to provide security to a plaintiff.
 ○ Marango Investments Pty Ltd v Kingdom Towers 4 Pty Ltd [2019] NSWSC 801
 ○ Cardile v LED Builders Pty Ltd [1999] HCA 18; (1999) 198 CLR 380
-○ Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as “Mareva orders” or “asset preservation orders”)
+○ Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as "Mareva orders" or "asset preservation orders")
 ○ Search orders def are otherwise known as Anton Piller orders:
-○ Practice Note SC Gen 13 Supreme Court – Search Orders (also known as “Anton Piller Orders”)
+○ Practice Note SC Gen 13 Supreme Court – Search Orders (also known as "Anton Piller Orders")
 ● Interlocutory Applications and Injunctions
 ○ What is an interlocutory application?
 ○ The broad procedure for interlocutory applications
@@ -8027,14 +8035,14 @@ Week 12: Appeals
 - Procedural Law
   - Procedural Law def
 - the law that governs the conduct of proceedings before the court
-- rules which are directed to governing or regulating the mode or conduct of court proceedings”: McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
-- Described as “adjectival” law
+- rules which are directed to governing or regulating the mode or conduct of court proceedings": McKain v RW Miller & Co (SA) Pty Ltd (1991) 174 CLR 1
+- Described as "adjectival" law
 - is governed by the lex fori which means that the applicable laws of procedure and evidence will be the laws of the forum, that is, the laws of the court which is hearing the claim. 
 - procedural law regulates the way in which substantive rights and obligations are claimed and enforced, without impacting on the definition of those particular substantive rights.
   - Substantive law is the law that defines legal rights, duties, powers and liabilities
     - The distinction between substantive and procedural law was stated by the majority in John Pfeiffer Pty Ltd v Rogerson [2000] HCA 36
 - Judging Civil Justice 
-### Dame Hazel Genn, “Introduction: What Is Civil Justice for?” in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
+### Dame Hazel Genn, "Introduction: What Is Civil Justice for?" in Hazel Genn (ed), Judging Civil Justice, 2008 Hamlyn Lecture
 
   - The significance of procedure 
     - Civil Justice system comprises
@@ -8109,7 +8117,7 @@ Week 12: Appeals
         - This case clarifies the scope of implied powers of courts, particularly concerning orders that affect the property rights of individuals post-judgment. 
         - It underscores the principle that courts' powers to make ancillary orders are limited to what is reasonably necessary for the effective exercise of expressly conferred jurisdiction, highlighting the balance between judicial discretion and statutory limits.
     - GUIDING PRINCIPLES FOR PROCEDURE 
-      - The CPA sets out that the “overriding purpose of this Act and of the rules of court, in their application to civil proceedings, is to facilitate the just, quick and cheap resolution of the real issues in the proceedings”: s 56.
+      - The CPA sets out that the "overriding purpose of this Act and of the rules of court, in their application to civil proceedings, is to facilitate the just, quick and cheap resolution of the real issues in the proceedings": s 56.
       - The court is to act in accordance with the dictates of justice in deciding whether to make any order or direction for the management of proceedings, including orders for amendment or adjournment: s 58.
       - When determining the overriding purpose and the objects of case management (ss 56 and 57) 
         - 1. the degree of difficulty or complexity to which the issues in the proceedings give rise; 
@@ -8124,10 +8132,10 @@ Week 12: Appeals
         - In addition, advocates use oral argument in the presentation of their case; 
       - the trial is the climactic end of the litigation process (and is distinct from the pre-trial stages of proceedings); and 
       - use of the trial transcript for an appeal.
-  - “Cards on the table” approach to litigation 
+  - "Cards on the table" approach to litigation 
     - Conducting litigation as if it were a card game is now discouraged in the adversarial system. 
     - In Nowlan v Marson Transport Pty Ltd (2001) 53 NSWLR 116, Heydon JA said at [26]: 
-      - The conduct of litigation as if it were a card game in which opponents never see some of each other’s cards until the last moment is out of line with modern trends.
+      - The conduct of litigation as if it were a card game in which opponents never see some of each other's cards until the last moment is out of line with modern trends.
     - Baulderstone Hornibrook Engineering Pty Ltd v Gordian Runoff Ltd [2008] NSWCA 243
       - Jurisdiction & Citation: 
         - New South Wales Court of Appeal, persuasive authority outside NSW but binding within.
@@ -8159,7 +8167,7 @@ Week 12: Appeals
 - Intro
   - Traditional Adversarial preparation
     - Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 at [113], the High Court stated, 
-      - “In the past it has been left largely to the parties to prepare for trial and to seek the court’s assistance as required. Those times are long gone”.
+      - "In the past it has been left largely to the parties to prepare for trial and to seek the court's assistance as required. Those times are long gone".
 - JUSTICE DELAYED IS JUSTICE DENIED 
   -  Jackamara v Krakouer (1998) 195 CLR 516 at 526–527
     - Delays are not beneficial and increase burden on the judicial system
@@ -8179,11 +8187,11 @@ Week 12: Appeals
       - The second way in which judicial case management has the potential to drive up expenses is simply by being excessive
 - CASELOAD MANAGEMENT AND MANAGERIAL JUDGING 
   - Case Management in New South Wales
-    - The New South Wales Courts do not have what the Americans call a “docket system” under which cases are assigned to the judge who will conduct the trial for management
+    - The New South Wales Courts do not have what the Americans call a "docket system" under which cases are assigned to the judge who will conduct the trial for management
   - The Act and Rules
     - The Civil Procedure Act 2005 and the Uniform Civil Procedure Rules confirm and re-enact the powers of courts to confine a case to issues genuinely in dispute and to ensure compliance with court orders, directions, rules and practices. 
     - When exercising any power a court is required to give effect to the overriding purpose expressed in the Act, namely: 
-      - to facilitate the “just, quick and cheap” resolution of the real issues in the proceedings. 
+      - to facilitate the "just, quick and cheap" resolution of the real issues in the proceedings. 
         - S 56
     - Objects of case management – s 57 CPA
       - The just determination of proceedings. 
@@ -8297,7 +8305,7 @@ Week 12: Appeals
       - UCPR 2.1 expands s 61(1) in two important respects: 
         - the power is not confined to making directions for the speedy determination of the real issues in 
         - the proceedings, but includes a power to make directions or orders as appear convenient for the just, cheap and quick disposal of the proceedings; and 
-        - the power is to give directions or orders “for the conduct of any proceedings”
+        - the power is to give directions or orders "for the conduct of any proceedings"
     - Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175; [2009] HCA 27
       - Jurisdiction: 
         - Supreme Court of the Australian Capital Territory
@@ -8335,7 +8343,7 @@ Week 12: Appeals
       - Overriding Purpose: 
         - The court emphasized the CPA's overriding purpose to ensure the just, quick, and cheap resolution of disputes. 
         - It criticized the resort to lengthy interlocutory proceedings over the privileged documents as contrary to this purpose.
-      - Court’s Powers: 
+      - Court's Powers: 
         - Highlighted the broad powers granted by the CPA, particularly under Part 6, to manage discovery issues and correct mistakes without extensive litigation. 
         - These powers are aimed at addressing real issues in disputes efficiently.
       - Case Management: 
@@ -8360,15 +8368,15 @@ Week 12: Appeals
         - Emphasizes the necessity for parties and their lawyers to cooperate genuinely and promptly to resolve interlocutory issues without resorting to court processes unnecessarily.
       - Case Management and CPA Objectives: 
         - Reflects on the broader objectives of case management under the CPA, including avoiding undue technical disputes and facilitating efficient dispute resolution.
-      - Solicitors’ Responsibilities: 
-        - Highlights the positive duty of legal representatives to support the CPA’s purposes, advocating for professional conduct that aligns with the administration of justice.
+      - Solicitors' Responsibilities: 
+        - Highlights the positive duty of legal representatives to support the CPA's purposes, advocating for professional conduct that aligns with the administration of justice.
     - Court's Directions:
       - Professional Conduct: 
         - Calls for civility, trust, and mutual respect among legal professionals, discouraging conduct that contradicts these values.
       - Efficient Dispute Resolution: 
         - Advises on practical steps for resolving interlocutory issues, such as reasonable information requests, last-resort motions, and focused litigation on real issues.
       - Cost Implications: 
-        - Warns that the court will use its powers to impose costs on parties or lawyers who engage in conduct contrary to the CPA’s objectives, emphasizing the importance of adhering to s 56 and related provisions.
+        - Warns that the court will use its powers to impose costs on parties or lawyers who engage in conduct contrary to the CPA's objectives, emphasizing the importance of adhering to s 56 and related provisions.
     - Conclusion: 
       - This case illustrates the critical role of the CPA and professional conduct rules in guiding the management of legal proceedings. 
       - It stresses the importance of cooperation, efficiency, and ethical behavior among legal practitioners to achieve the overarching goals of just, quick, and cheap resolution of disputes, as mandated by the CPA.
@@ -8390,15 +8398,15 @@ Week 12: Appeals
       - The court can also make orders permitting a witness to give evidence behind a screen or via encrypted video-link or closed circuit television from a remote point; such orders can prevent the public and also the litigant/s from identifying a witness by sight and/or sound. 
       - The court also has the power to make pseudonym orders to protect the true identity of a witness
     - Legislation
-      - The power to make orders to “close” justice can be the subject of specific legislation, 
+      - The power to make orders to "close" justice can be the subject of specific legislation, 
       - s 71 of the CPA permits a judge to close the court to the public (see [1.250]), and the Court Suppression and Non- publication Orders Act 2010 provides for the making of suppression and non-publication orders 
   - Common law power to depart from the open justice principle 
     -  Scott v Scott [1913] AC 417 at 437
-      - Chief object of the courts of justice must be to secure that justice is done” and that “it may well be that justice could not be done at all if it had to be done in public”
+      - Chief object of the courts of justice must be to secure that justice is done" and that "it may well be that justice could not be done at all if it had to be done in public"
     - John Fairfax Group Pty Ltd v Local Court of NSW (1991) 26 NSWLR 131 at 16
-      - The power to make orders to “close” justice is an inherent power of a superior court, and in statutory courts, the power to make orders that depart from the principle of open justice can be implied as necessary to the proper function of the court
-      - The power of the court to depart from the principle of open justice and make the orders described in [1.160] is on the basis that such orders are “really necessary to secure the proper administration of justice” in the proceedings
-      - only in “wholly exceptional” circumstances, not merely where such measures would be useful or desirable 
+      - The power to make orders to "close" justice is an inherent power of a superior court, and in statutory courts, the power to make orders that depart from the principle of open justice can be implied as necessary to the proper function of the court
+      - The power of the court to depart from the principle of open justice and make the orders described in [1.160] is on the basis that such orders are "really necessary to secure the proper administration of justice" in the proceedings
+      - only in "wholly exceptional" circumstances, not merely where such measures would be useful or desirable 
       - Attorney- General (NSW) v Mayas Pty Ltd (1988) 14 NSWLR 342 at 347 per Mahoney JA
         - and would save embarrassment, distress or financial loss: 
   - Hogan v Hinch (2011) 243 CLR 50
@@ -8432,7 +8440,7 @@ Week 12: Appeals
       - This case is pivotal in understanding the scope of legislative power in imposing constraints on court proceedings and the dissemination of related information, emphasizing the careful consideration required to uphold both transparency and justice.
   - Common law categories of cases that are exceptions to the open justice principle
     - Exceptions to the principle of open justice are valid in few categories of cases in the common law. 
-    - The exceptions are “strictly defined”: 
+    - The exceptions are "strictly defined": 
       - R v Tait (1979) 46 FLR 386 at 401; 
       - McPherson v McPherson [1936] AC 417 at 200; 
       - Russell v Russell (1976) 134 CLR 495; 
@@ -8494,18 +8502,18 @@ Week 12: Appeals
         - This case underscores the significance of the open justice principle in the judicial process, illustrating the careful consideration courts must give to requests for confidentiality and suppression orders. 
           - It highlights the judiciary's role in ensuring that justice is administered openly and transparently, except in exceptional circumstances where confidentiality is deemed necessary to prevent prejudice to the administration of justice. 
         - The decision reinforces the notion that agreements between parties to resolve disputes confidentially do not automatically warrant suppression of court proceedings.
-  - X” v Sydney Children’s Hospitals Specialty Network [2011] NSWSC 1272
+  - X" v Sydney Children's Hospitals Specialty Network [2011] NSWSC 1272
     - Jurisdiction: 
       - New South Wales Supreme Court 
     - Procedural History: 
-      - The Plaintiff sought an order under the Court Suppression and Non-publication Orders Act 2010 (NSW) to prohibit the publication of her name and other identifying information, including that of her family members, to protect her privacy and psychological well-being in litigation against the Sydney Children’s Hospitals Specialty Network.
+      - The Plaintiff sought an order under the Court Suppression and Non-publication Orders Act 2010 (NSW) to prohibit the publication of her name and other identifying information, including that of her family members, to protect her privacy and psychological well-being in litigation against the Sydney Children's Hospitals Specialty Network.
     - Original Dispute: 
-      - The dispute involves a legal action against the Sydney Children’s Hospitals Specialty Network, with the specific details of the claim not provided in the extracted summary.
+      - The dispute involves a legal action against the Sydney Children's Hospitals Specialty Network, with the specific details of the claim not provided in the extracted summary.
     - Reason for Trial: 
       - Application for a pseudonym order to protect the Plaintiff's identity due to her vulnerability and psychiatric condition.
     - Material Facts: 
       - The Plaintiff, represented by Ms. Sant, Junior Counsel, argued for the necessity of a pseudonym order based on the potential psychological harm and prejudice to the administration of justice that could arise from public disclosure of her identity. 
-      - The application was supported by the Plaintiff’s psychiatric condition and the potential for exacerbation of her symptoms if identified publicly.
+      - The application was supported by the Plaintiff's psychiatric condition and the potential for exacerbation of her symptoms if identified publicly.
     - Issue: 
       - Whether a suppression order to prevent the publication of the Plaintiff's identifying information is necessary to protect her psychological safety and ensure the proper administration of justice.
     - Law(s)/Statute(s) in Contention: 
@@ -8516,7 +8524,7 @@ Week 12: Appeals
       - Adamson J accepted the necessity of a pseudonym order to minimize harm to the Plaintiff and avoid prejudicing the administration of justice. 
       - The judgment emphasized the minimal interference such orders have on the principle of open justice, balanced against the need to protect vulnerable individuals' rights to pursue legal remedies without undue harm.
     - Ratio Decidendi: 
-      - The Court determined that a pseudonym order was necessary to protect the Plaintiff’s psychological safety and prevent prejudice to the proper administration of justice, considering the potential harm that could arise from public disclosure of her identity.
+      - The Court determined that a pseudonym order was necessary to protect the Plaintiff's psychological safety and prevent prejudice to the proper administration of justice, considering the potential harm that could arise from public disclosure of her identity.
     - Conclusion and Relevance to Modern Law: 
       - This case underscores the court's discretion to issue suppression orders under the Court Suppression and Non-publication Orders Act 2010 (NSW) to protect individuals' privacy and psychological well-being in sensitive cases. 
       - It highlights the balance between the public interest in open justice and the need to protect vulnerable parties from the potential negative impacts of litigation on their mental health and personal life. 
@@ -8550,9 +8558,9 @@ Week 12: Appeals
 ## Week 4: Alternative Dispute Resolution (ADR), Jurisdiction, and Limitation Periods 
 
 - Alternative Dispute Resolution (ADR)
-  - Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers) 
+  - Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW) r 7.2 (r 36 for barristers) 
     - Accordingly, it falls to the lawyer to educate the client as to the options for dispute resolution
-      - A practitioner must inform the client or the instructing practitioner about the alternatives to fully contested adjudication of the case which are reasonably available to the client, unless the practitioner believes on reasonable grounds that the client already has such an understanding of those alternatives as to permit the client to make decisions about the client’s best interests in relation to the litigation
+      - A practitioner must inform the client or the instructing practitioner about the alternatives to fully contested adjudication of the case which are reasonably available to the client, unless the practitioner believes on reasonable grounds that the client already has such an understanding of those alternatives as to permit the client to make decisions about the client's best interests in relation to the litigation
     - Alternative Dispute Resolution ADR Def
       - an umbrella term for processes, other than judicial determination, in which an impartial person assists those in a dispute to resolve the issues between them
       - AKA Appropriate Dispute Resolution
@@ -8561,12 +8569,12 @@ Week 12: Appeals
     - Play to Win (Legal Negotiations Are a Zero-Sum Game)
       - Legal negotiations are about winning and playing to win. 
         - Playing to win means regarding negotiation as a zero-sum game
-          - A zero-sum game is a conception of bargaining in which one side’s loss is the other side’s gain
+          - A zero-sum game is a conception of bargaining in which one side's loss is the other side's gain
         - When information is only about winning, a culture of secrecy and non- disclosure develops in legal negotiations that borders on the paranoid.
         - Disclosure is giving away an advantage
     - ADR vs Court
       - ADR
-        - The adversarial system’s disadvantages, such as delay and cost, support the use of ADR
+        - The adversarial system's disadvantages, such as delay and cost, support the use of ADR
         - ADR is friendlier to both sides, especially parties with ongoing commercial relationships
       - Court
         - The courts wield the power of the State, 
@@ -8574,11 +8582,11 @@ Week 12: Appeals
         - ensure procedural fairness and render binding decisions in public that authoritatively state the law for the parties and society at large
     - Why companies often litigate
       - Generally, companies tend to litigate rather than employ ADR when: 
-        - (a) an important principle is involved, eg, the credibility of one’s product; 
+        - (a) an important principle is involved, eg, the credibility of one's product; 
         - (b) there is a need for legal precedent; 
         - (c) there is a need to send a message to the marketplace; 
         - (d) settlement would open the floodgates to frivolous litigation;
-        - (e) the claim is so large that the “discipline of litigation” is called for; 
+        - (e) the claim is so large that the "discipline of litigation" is called for; 
         - (f) the claim is bogus, eg, the business organization is in the case solely because of its deep pockets, or perhaps because it made a product in the chain of distribution even though the product had nothing to do with the alleged harm; 
         - (g) the law is heavily weighted in its favour ...; 
         - (h) senior management is unalterably opposed to settlement; 
@@ -8662,11 +8670,11 @@ Week 12: Appeals
       - Note option of rehearing: CPA ss 42-47
   - Negotiation 
     - Negotiation keywords
-      - Position: what a person says they want – a demand e.g. ‘I want $1,000,000 in damages for a breach of contract’ is a position.
-      - Interest: why the person has that position – the need, desire, fears or concerns behind the demand e.g. ‘I want the $1,000,000 because I need to shore up my business and be in a position to take future orders.’
+      - Position: what a person says they want – a demand e.g. 'I want $1,000,000 in damages for a breach of contract' is a position.
+      - Interest: why the person has that position – the need, desire, fears or concerns behind the demand e.g. 'I want the $1,000,000 because I need to shore up my business and be in a position to take future orders.'
     - Negotiation styles
       - Positional negotiation:
-        - based on parties’ respective positions or claims;
+        - based on parties' respective positions or claims;
         - linear and reciprocal concession-making moving towards a compromise;
         - adversarial and potentially damages relationships.
       - Interest-based negotiation:
@@ -8690,7 +8698,7 @@ Week 12: Appeals
       - A court must possess both in order to exercise judicial power over a person/entity.
     - Subject matter jurisdiction
       - s 23 of the Supreme Court Act 1970 (NSW): 
-        - ‘The Court shall have all jurisdiction which may be necessary for the administration of justice in New South Wales.’
+        - 'The Court shall have all jurisdiction which may be necessary for the administration of justice in New South Wales.'
       - Supreme Court divided into two main divisions:
         - the Common Law Division, which deals with civil, criminal and administrative law matters; and
         - the Equity Division hears cases involving commercial law, corporations law, equity, trusts, probate and matters pursuant to family provisions legislation.
@@ -8712,14 +8720,14 @@ Week 12: Appeals
         - the Jurisdiction of Courts (Cross-Vesting) Act 1987 (NSW). 
   - Transferring proceedings between courts
     - Discussing s 5 of the Jurisdiction of Courts (Cross-Vesting) Act 1987 (NSW): 
-      - ‘Section 5(1) provides for the transfer of proceedings from the Supreme Court to the Federal Court or Family Court; 
+      - 'Section 5(1) provides for the transfer of proceedings from the Supreme Court to the Federal Court or Family Court; 
       - s 5(2) provides for the transfer of proceedings from the Supreme Court to the Supreme Court of another State or Territory; 
       - s 5(3) for the transfer of proceedings in the Supreme Court of another State or Territory to the NSW Supreme Court; 
       - s 5(4) for the transfer of proceedings from the Federal or Family Court to the Supreme Court
   - Three considerations in transferring proceedings – s 5 Cross-Vesting Act
-    - 1. Whether, apart from the cross-vesting scheme ‘the relevant proceeding or a substantial part of it’ would have been incapable of being instituted in the court in question
+    - 1. Whether, apart from the cross-vesting scheme 'the relevant proceeding or a substantial part of it' would have been incapable of being instituted in the court in question
       - i.e. would the chosen Court have had the capacity to hear the dispute in the absence of the cross-vesting legislation;
-    - 2. The extent to which the case involved an issue of ‘the application, interpretation or validity of a law’ of the receiving court; and
+    - 2. The extent to which the case involved an issue of 'the application, interpretation or validity of a law' of the receiving court; and
     - 3. The interests of justice.
   - The interests of justice
     - BHP Billiton Ltd v Schultz (2004) 221 CLR 400 establishes that the interests of justice are broader than the interests of one party – rather, it involves weighing the interests of all the parties.
@@ -8745,8 +8753,8 @@ Week 12: Appeals
       - s 14(1)(a): for most breaches of contract, six year limitation period.
       - s 14(1)(b): six year limitation period for most species of tort.
       - s 27(2): twelve year limitation period in cases involving the recovery of land for people other than the Crown..
-      - s 50C(1): in cases of personal injury, three years post discovering the cause of action, or twelve years in the event you don’t discover it, whichever expires first
-  - [l]awyers may use ADR not for the accomplishment of a ‘better’ result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage”
+      - s 50C(1): in cases of personal injury, three years post discovering the cause of action, or twelve years in the event you don't discover it, whichever expires first
+  - [l]awyers may use ADR not for the accomplishment of a 'better' result, but as another weapon in the adversarial arsenal to manipulate time, methods of discovery, and rules of procedure for perceived client advantage"
   - TYPES OF ADR PROCESSES
     - Facilitative dispute resolution processes 
       - are processes in which a dispute resolution practitioner assists the parties to a dispute to identify the disputed issues, develop options, consider alternatives and endeavour to reach an agreement about some issues or the whole dispute. 
@@ -8788,7 +8796,7 @@ Week 12: Appeals
     - It involves a facilitated negotiation aimed at reaching an agreement. 
     - A neutral third party (the mediator) assists and facilitates an agreement between the parties.
   - Role of the lawyer	
-    - Scale of Lawyer’s role - Less to Most involvement scale
+    - Scale of Lawyer's role - Less to Most involvement scale
       - Absent advisor
         -  assists the client to prepare for the mediation but does not attend the mediation session itself.
       - Advisor observer
@@ -8818,16 +8826,16 @@ Week 12: Appeals
         - This is an opportunity to communicate directly with an opponent and a mediator.
     - Elements
       - Heading: 
-        - it should be headed up with the names and description of the parties (eg, plaintiff, lessor or sub- contractor) and marked “Without Prejudice and for use in the Mediation only”.
+        - it should be headed up with the names and description of the parties (eg, plaintiff, lessor or sub- contractor) and marked "Without Prejudice and for use in the Mediation only".
       - Formalities: 
         - it should also include the date and time of the mediation, the name of the mediator, a list of the individuals attending the mediation on behalf of the party on whose behalf the statement is made, and their connection with the dispute
       - Issues: 
         - it should identify the issues in the case, both legal and factual. 
         - The statement should also identify the key issues that are of vital importance to the parties at the date of the mediation
-      - Outline of the party’s case on issues: 
-        - the statement needs to clearly set out the party’s position in relation to each of the issues
-        - The statement may make brief reference to statements of case, key documents or evidence, and matters of law that support the party’s position
-      - The party’s interests and objectives: 
+      - Outline of the party's case on issues: 
+        - the statement needs to clearly set out the party's position in relation to each of the issues
+        - The statement may make brief reference to statements of case, key documents or evidence, and matters of law that support the party's position
+      - The party's interests and objectives: 
         - the key objectives that the party wants to achieve at the mediation should be identified.
   - Duty to act in good faith
     - S 27
@@ -8896,7 +8904,7 @@ Week 12: Appeals
     - A quasi-judicial process
     - The dispute is submitted to a third party (an arbitrator) who renders a binding determination (an award
   - Re Carus-Wilson & Greene (1886) 18 QBD 7,
-    - determinative feature of an arbitration as being an “inquiry in the nature of a judicial inquiry”
+    - determinative feature of an arbitration as being an "inquiry in the nature of a judicial inquiry"
   - Arbitration elements
     - Arenson v Casson Beckman Rutley & Co [1977] AC 40
       - (a) there is a dispute or a difference between the parties which has been formulated in some way or another; 
@@ -8955,7 +8963,7 @@ Week 12: Appeals
     - Law/Statute in Contention: 
       - Application of Rule 20.14 for referral to a referee, considering the case's intricacies and the potential for expedited, cost-effective resolution.
     - Precedences: 
-      - Reference to Ritchie’s Uniform Civil Procedure New South Wales on the discretionary nature of Rule 20.14.
+      - Reference to Ritchie's Uniform Civil Procedure New South Wales on the discretionary nature of Rule 20.14.
     - Judicial Opinions and Interpretation: 
       - Campbell J considered the benefits of referral to a referee, such as speed and flexibility, against potential drawbacks like lack of finality and legal complexities.
     - Legal Reasoning: 
@@ -9037,19 +9045,19 @@ Week 12: Appeals
     - LIMITATION PERIODS 
       - Time period to bring a claim
     - The rationale for imposing limitation periods - Brisbane South Regional Health Authority v Taylor [1996] HCA 25; (1996) 186 CLR 541
-      - The enactment of time limitations has been driven by the general perception that “[w]here there is delay the whole quality of justice deteriorates” [R v Lawrence [1982] AC 510 at 517
+      - The enactment of time limitations has been driven by the general perception that "[w]here there is delay the whole quality of justice deteriorates" [R v Lawrence [1982] AC 510 at 517
       - A verdict may appear well based on the evidence given in the proceedings, but, if the tribunal of fact had all the evidence concerning the matter, an opposite result may have ensued
       - four broad rationales for the enactment of limitation periods.
         - 1. As time goes by, relevant evidence is likely to be lost [Jones v Bellgrove Properties Ltd [1949] 2 KB 700 at 704
-        - 2. It is oppressive, even “cruel”, to a defendant to allow an action to be brought long after the circumstances which gave rise to it have passed [RB Policies at Lloyd’s v Butler [1950] 1 KB 76
+        - 2. It is oppressive, even "cruel", to a defendant to allow an action to be brought long after the circumstances which gave rise to it have passed [RB Policies at Lloyd's v Butler [1950] 1 KB 76
         - 3. People should be able to arrange their affairs and utilise their resources on the basis that claims can no longer be made against them
         - 4. Public interest requires that disputes be settled as quickly as possible.
   - Specific limitations Chart
   - 
 ## Week 5: Initiating Proceedings, Commencing Litigation, Joining Parties and Causes of Action, and Drafting Pleadings
 
-- Proceedings commenced by the ‘originating process’
-  - s 3 of the CPA: the originating process ‘means the process by which proceedings are commenced...’
+- Proceedings commenced by the 'originating process'
+  - s 3 of the CPA: the originating process 'means the process by which proceedings are commenced...'
   - r 6.2(1) of the UCPR: our originating process can take two forms:
     - A statement of claim; or
     - A summons.
@@ -9064,7 +9072,7 @@ Week 12: Appeals
   - 
   - Statement of claim or a summons?
     - In general terms, statements of claim are usually required where the proceedings involve disputed contentions of fact and they will initiate the pre-trial and trial processes for that purpose. 
-    - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue.’
+    - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue.'
       - Kumar, Legg, Vickovich & Metzger, Civil Procedure in New South Wales (Lawbook Co, 2020), 488. 
     - r 6.3: proceedings required to be commenced by a statement of claim include:
       - a claim for relief in relation to a debt or other liquidated claim;
@@ -9079,9 +9087,9 @@ Week 12: Appeals
       - proceedings for preliminary discovery or inspection under Part
     - Touchstone: statements of claim used where we have substantive disputes involving contested questions of fact, whereas summons apply more to technical situations involving a question of law
   - What are pleadings?
-    - Pleadings def are formal documents filed in court and exchanged between the parties that set out the plaintiff’s claim and the defendant’s response to the claim. 
-    - The UCPR Dictionary indicates that ‘pleading’ includes a statement of claim, defence, reply and any subsequent pleading for which leave ... but does not include a summons or notice of motion’: Kumar, Legg, Vickovich & Metzger, 493.
-    - ‘The function of pleadings is to state with sufficient clarity the case that must be met...In this way, pleadings serve to ensure the basic requirement of procedural fairness that a party should have the opportunity of meeting the case against him or her and, incidentally, to define the issues for decision’: Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279 at [18]
+    - Pleadings def are formal documents filed in court and exchanged between the parties that set out the plaintiff's claim and the defendant's response to the claim. 
+    - The UCPR Dictionary indicates that 'pleading' includes a statement of claim, defence, reply and any subsequent pleading for which leave ... but does not include a summons or notice of motion': Kumar, Legg, Vickovich & Metzger, 493.
+    - 'The function of pleadings is to state with sufficient clarity the case that must be met...In this way, pleadings serve to ensure the basic requirement of procedural fairness that a party should have the opportunity of meeting the case against him or her and, incidentally, to define the issues for decision': Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279 at [18]
   - Pleadings – some general points of significance
     - Two general points of significance which should be taken into account regarding pleadings generally:
       - 1. Pleadings must be drafted and read very carefully for two main reasons:
@@ -9097,7 +9105,7 @@ Week 12: Appeals
     - r 14.8: pleadings as brief as the nature of the case allows
   - Particulars
     - What are particulars def? Bruce v Odhams Press Ltd [1936] 1 KB 697, 712-713:
-      - broadly, the purpose of particulars is ‘to fill in the picture of the plaintiff’s cause of action with information sufficiently detailed to put the defendant on his guard as to the case he has to meet and to enable him to prepare for trial.’
+      - broadly, the purpose of particulars is 'to fill in the picture of the plaintiff's cause of action with information sufficiently detailed to put the defendant on his guard as to the case he has to meet and to enable him to prepare for trial.'
     - Examples of distinction based on hypothetical of reckless bulldozer driver:
         - Pleading: the building collapsed on a certain date, caused by the negligence of the defendant;
         - Particular: the excavator failed to exercise due care when conducting the excavation. 
@@ -9111,12 +9119,12 @@ Week 12: Appeals
   - Joining parties
     - Joining parties def: broadly, where two or more plaintiffs or two or more defendants have interests in common, rather than having multiple proceedings heard separately, we can deal with their interests in the one proceeding.
     - r 6.19: parties can be joined where:
-      - ‘(a) separate proceedings...would give rise to a common question of law or fact, and
-      - (b)all rights of relief claimed in the originating process are in respect of, or arise out of, the same transaction or series of transactions, or if the court gives leave for them to be joined.’
+      - '(a) separate proceedings...would give rise to a common question of law or fact, and
+      - (b)all rights of relief claimed in the originating process are in respect of, or arise out of, the same transaction or series of transactions, or if the court gives leave for them to be joined.'
   - Joining parties cont.
     - What is a transaction for the purposes of r 6.19?
-      - ‘The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of ‘transaction’ in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
-      - It may mean simply an act by one party which affects another, thereby binding the two parties in a ‘transaction’ for the purposes of potential litigation’: 
+      - 'The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of 'transaction' in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
+      - It may mean simply an act by one party which affects another, thereby binding the two parties in a 'transaction' for the purposes of potential litigation': 
         - Kumar, Legg, Vickovich & Metzger, 389-390.
   - Joining causes of action
     - r 6.18 is the key provision.
@@ -9135,7 +9143,7 @@ Week 12: Appeals
     - Clearly, the common law favours the resolution of particular disputes between parties by the bringing of a single action rather than successive proceedings. 
     - The principles of res judicata, issue estoppel, and what has come to be known as Anshun estoppel, all find their roots in that policy. 
   - Res judicata def
-    - meaning “a matter already judged”, and sometimes referred to as “cause of action estoppel”
+    - meaning "a matter already judged", and sometimes referred to as "cause of action estoppel"
     - Issue estoppel may preclude a particular issue or matter in previous proceedings from being raised in any subsequent proceedings. 
     - Finally, Anshun estoppel def applies to a claim that could have been, but was not, made in the earlier proceedings
   - Joining plaintiffs 
@@ -9147,19 +9155,19 @@ Week 12: Appeals
   - Joining defendants 
     - Different defendants can be joined in the same proceedings if the claim of relief against each defendant arises out of the same transaction (or series of transactions) and the causes of action give rise to a common question of law or fact. 
   - What is a transaction? 
-    - The meaning of “transaction” is not settled and the term is not defined in the Dictionary of the UCPR. 
-    - The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of “transaction” in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
+    - The meaning of "transaction" is not settled and the term is not defined in the Dictionary of the UCPR. 
+    - The notion of a transaction suggests a contract but it seems clear from the case law that the meaning of "transaction" in this context is not limited to a contractual transaction, which implies a consensual act between two parties.
     -  Bendir v Anson [1936] 3 All ER 326. 
-      - The plaintiffs were owners of adjoining buildings who were affected in different ways by the defendant’s construction of a new building across the road.
-      - Lord Wright MR in the Court of Appeal discussed the preferable meaning of “transaction” and held there was no common question of fact. Because of that, it was preferable to exercise the court’s discretion in favour of separate trials.
+      - The plaintiffs were owners of adjoining buildings who were affected in different ways by the defendant's construction of a new building across the road.
+      - Lord Wright MR in the Court of Appeal discussed the preferable meaning of "transaction" and held there was no common question of fact. Because of that, it was preferable to exercise the court's discretion in favour of separate trials.
     - Birtles v Commonwealth [1960] VR 247. 
-      - the notion of “transaction” was given a broader interpretation than in Bendir v Anson
+      - the notion of "transaction" was given a broader interpretation than in Bendir v Anson
       - Facts
         - In that case the plaintiff, while at work digging a hole, used a crowbar that contacted a high-voltage underground cable. He suffered an electric shock and sued the occupier of the land (the Commonwealth), the State Electricity Commission (SEC) and his employer. 
         - All defendants claimed that the relevant limitation period had expired. 
-        - The SEC also claimed that it had not received the required statutory notice of the plaintiff’s intention to sue. 
+        - The SEC also claimed that it had not received the required statutory notice of the plaintiff's intention to sue. 
         - After the defences had been filed, the plaintiff changed his solicitor and sought to add his former solicitor as a new defendant in the proceedings in an action for negligence in the event that he failed against the existing defendants
-      - Adam J held that the “transaction” included the accident and injury to the plaintiff as well as the matters relating to the litigation and the limitation issue
+      - Adam J held that the "transaction" included the accident and injury to the plaintiff as well as the matters relating to the litigation and the limitation issue
     -  Payne v Young (1980) 145 CLR 609
       - Procedural History
         - The plaintiffs, operators of different Western Australian abattoirs, challenged the validity of regulations under which inspection fees were levied for carcass inspections by state authorities.
@@ -9230,7 +9238,7 @@ Week 12: Appeals
     - Can solve one issue with multiple different points of contention, but not multiple issues that have different facts but same issue. 
       - Bray v F Hoffmann-La Roche Ltd (2003) 130 FCR 317
 - Initiating Proceedings and Pleadings 
-  - Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the “originating process” as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
+  - Section 3 of the Civil Procedure Act 2005 (NSW) (CPA) defines the "originating process" as the process by which proceedings are commenced and includes the process by which a cross-claim1 is made
     - THE ORIGINATING PROCESS 
       - proceedings are initiated by using either a statement of claim or summons: UCPR r 6.2.
       - A summons, on the other hand, is used where a question of law, rather than a substantial dispute of fact, is at issue. UCPR r 6.4
@@ -9239,12 +9247,12 @@ Week 12: Appeals
       - Information that must be contained in the originating process is prescribed, as are the paper and margin sizes, those parts of the document that must be in bold print, and the requirements for a proper address for service. 
         - The originating process should also specifically state the relief claimed: UCPR r 6.12
   - APPEARANCE 
-    - The defendant may file an appearance or a defence and serve it on the plaintiff’s address for service as indicated on the plaintiff’s statement of claim or summons. 
+    - The defendant may file an appearance or a defence and serve it on the plaintiff's address for service as indicated on the plaintiff's statement of claim or summons. 
     - Regulated by rr 6, 7, and 12
     - Entering an appearance formally notifies the court and the plaintiff that the defendant intends to take some part in the proceedings and may indicate a submission to the jurisdiction.
     - It also acts as a waiver to object to any possibility that the originating process has failed to comply with the rules.
   - PLEADINGS 
-    - Pleadings are formal documents filed in court and exchanged between the parties that set out the plaintiff’s claim and the defendant’s response to the claim. 
+    - Pleadings are formal documents filed in court and exchanged between the parties that set out the plaintiff's claim and the defendant's response to the claim. 
       - includes a statement of claim, defence, reply and any subsequent pleading for which leave is given under Pt 14, but does not include a summons or notice of motion.
       - R 14 regulations
       - Pleadings may be amended and, with leave of the court, even at the stage of trial. 
@@ -9255,7 +9263,7 @@ Week 12: Appeals
       - Reason for Trial
         - The appeal focused on several key issues, including whether Malla breached the contract as pleaded, whether Temple was entitled to damages despite the pleading, the operation of Malla's guarantee, the composition of the May 23 agreement, and the interpretation of "unable to pay" within that agreement.
       - Material Facts
-        - Temple argued that Malla had breached a clause (cl 9.3) in the contract intended to protect Temple’s confidential information by engaging in activities with two Indian film projects without involving Temple for production management services.
+        - Temple argued that Malla had breached a clause (cl 9.3) in the contract intended to protect Temple's confidential information by engaging in activities with two Indian film projects without involving Temple for production management services.
       - Issue Raised
         - The appeal raised questions about the interpretation and enforcement of contractual obligations, the scope of a guarantee, and the impact of mischaracterization in pleadings on the outcome of a case.
       - Law(s)/Statute(s) in Contention
@@ -9267,14 +9275,14 @@ Week 12: Appeals
         - The court's decision centered on the notion that a case can be decided based on the facts and evidence presented at trial, even if they diverge from the specific claims or defenses pleaded. 
         - This approach is contingent on ensuring that such a decision does not unfairly prejudice the opposing party.
       - Conclusion and Relevance to Modern Law
-        - The Films and Casting Temple v Malla case underscores the NSW Court of Appeal’s approach to dealing with issues of contractual interpretation, the importance of clear and accurate pleading in litigation, and the discretion of courts to grant relief based on the substance of the evidence presented, rather than being overly constrained by the technicalities of pleadings. 
+        - The Films and Casting Temple v Malla case underscores the NSW Court of Appeal's approach to dealing with issues of contractual interpretation, the importance of clear and accurate pleading in litigation, and the discretion of courts to grant relief based on the substance of the evidence presented, rather than being overly constrained by the technicalities of pleadings. 
         - This decision reaffirms the principle that legal disputes should be resolved based on their merits, with due consideration for procedural fairness and the real issues in controversy, as evidenced by the conduct of the trial.
     - Young v Hones [2014] NSWCA 337, the New South Wales Court of Appeal confirmed that a reply should be used to respond to allegations in the defence. 
       - It is not appropriate to use a reply to raise new allegations or causes of action against the defendant. 
       - This would require an application to amend the statement of claim.
     - Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279
       - [Akhil Holdings Ltd (Akhil) sued the Banque Commerciale (the bank), Deauville Nominees Pty. Limited (Deauville), and a Mr Messara for breach of trust for transferring shares without authority
-      - A copy of the reply to Messara was served on the bank, but Akhil did not file or serve a formal reply to the bank’s limitation defence. 
+      - A copy of the reply to Messara was served on the bank, but Akhil did not file or serve a formal reply to the bank's limitation defence. 
         - If Akhil had made a reply alleging fraud the bank would have been entitled to details of the fraud alleged.
       - The bank appealed to the High Court of Australia where one of the main issues was whether the Court of Appeal could make a finding of fraud against the bank when that issue was not raised on the pleadings against it.
         - The fraud allegation was raised only in the pleadings against Deauville and Messara.] 
@@ -9285,37 +9293,37 @@ Week 12: Appeals
         - The Court held that relief is generally confined to what is claimed in the pleadings unless parties deliberately choose a different basis for determining their rights and liabilities.
         - parties are entitled to know and respond to the case against them as defined by pleading
     - ASIC v Rich [2006] NSWSC 712
-      - Each objection asserted that the line of questioning was outside ASIC’s pleadings and amount to an attempt to establish a previously unpleaded case
+      - Each objection asserted that the line of questioning was outside ASIC's pleadings and amount to an attempt to establish a previously unpleaded case
       - Pleadings 
         - Upheld Banque Commerciale SA (in liq) v Akhil Holdings Ltd (1990) 169 CLR 279
         - The plaintiff is entitled to attack in cross-examination evidence going to matters raised in a defence, though not in the statement of claim.
-          - Defendant can respond to assertions made by Plaintiff, it’s not raising new content, but addressing content from their pleadings
+          - Defendant can respond to assertions made by Plaintiff, it's not raising new content, but addressing content from their pleadings
     - Young v Hones [2014] NSWCA 337
       - Original Dispute
         - The dispute involved proceedings in the Land and Environment Court over a neighborhood drainage problem that were settled by consent orders. 
         - Years later, Young attempted to set aside these orders due to unresolved issues and sued her lawyer and engineering expert for negligent advice.
       - Reason for Trial
-        - The trial examined the applicability of advocate’s immunity and witness immunity raised by the lawyer and the expert, respectively, as defenses against Young's claims.
+        - The trial examined the applicability of advocate's immunity and witness immunity raised by the lawyer and the expert, respectively, as defenses against Young's claims.
       - Material Facts
         - Young's attempts to reopen the settled case and sue her advisers were met with immunity defenses. 
         - The trial judge decided that these immunities were a complete answer to Young's claims, dismissing them before the close of pleadings.
       - Issue Raised
-        - The main issue on appeal was whether the trial judge erred by deciding on the immunities as complete defenses before Young had the opportunity to file a reply, where she intended to allege bad faith, potentially affecting the applicability of the advocate’s immunity.
+        - The main issue on appeal was whether the trial judge erred by deciding on the immunities as complete defenses before Young had the opportunity to file a reply, where she intended to allege bad faith, potentially affecting the applicability of the advocate's immunity.
       - Law(s)/Statute(s) in Contention
-        - The case centered around the principles of pleading and the specific application of advocate’s immunity and witness immunity in civil litigation.
+        - The case centered around the principles of pleading and the specific application of advocate's immunity and witness immunity in civil litigation.
       - Judicial Opinions and Interpretation
         - Ward JA: Highlighted that new claims or causes of action should not be introduced in a reply, and that a reply should not contradict the initial claim.
         - The rationale is to ensure clarity and efficiency in litigation, preventing unnecessary proliferation of documentation and associated costs and delays.
       - Ratio Decidendi
         - The Court of Appeal upheld the trial judge's dismissal of Young's claims, emphasizing that allegations of bad faith must be made in the statement of claim, not in the reply. 
-        - The court reasoned that a procedural decision had been made to proceed with the hearing on separate questions of law regarding immunities before the close of pleadings, with Young’s consent.
+        - The court reasoned that a procedural decision had been made to proceed with the hearing on separate questions of law regarding immunities before the close of pleadings, with Young's consent.
       - Conclusion and Relevance to Modern Law
         - This case reaffirms the importance of adhering to procedural rules and the structure of pleadings in civil litigation, particularly in New South Wales. 
         - It demonstrates the constraints on introducing new allegations outside the statement of claim and the significance of consent in procedural decisions. 
-        - The decision also underscores the protective scope of advocate’s and witness immunities, even when there is a suggestion of bad faith, unless properly pleaded against in the initial stages of litigation.
+        - The decision also underscores the protective scope of advocate's and witness immunities, even when there is a suggestion of bad faith, unless properly pleaded against in the initial stages of litigation.
   - Material facts
     - material facts def will be those facts that are critical to supporting each of the elements of the cause of action. 
-    - Charlie Carter Pty Ltd v The Shop, Distributive and Allied Employees’ Association of Western Australia (1987) 13 FCR 413
+    - Charlie Carter Pty Ltd v The Shop, Distributive and Allied Employees' Association of Western Australia (1987) 13 FCR 413
       - There are certain levels of generality of pleading which, while they may bring in all facts necessary to establish a cause of action, are insufficient for the purpose of properly informing the defendant of the case it has to meet
         - Bruce v Odhams Press Ltd - The cause of action must be alleged with particularity
   - Evidence 
@@ -9327,7 +9335,7 @@ Week 12: Appeals
         - This part was negligent in setting xyz up. - wrong
     - Kirby v Sanderson Motors Pty Ltd [2002] NSWCA 44;
       - Hodgson JA
-        - Material” means material to the claim, that is, to the cause or causes of action which are relied on. 
+        - Material" means material to the claim, that is, to the cause or causes of action which are relied on. 
         - (2) The requirement of a statement of material facts does not exclude the allegation of legal categories, such as duty of care, fiduciary duty, trust and contract. 
         - (3) The general requirement to avoid surprise means that material facts must be stated in such a way that a defendant can understand the materiality of the facts, that is, how they are material to a cause of action.
     - Markisic v Department of Community Services of New South Wales (No 2) [2006] NSWCA 321
@@ -9354,14 +9362,14 @@ Week 12: Appeals
         - Appeal failed
   - Glover v Australian Ultra Concrete Floors Pty Ltd [2003] NSWCA 80
     - [The appellant appealed a decision at trial that he did not injure himself at work in the way he asserted.] 
-    - The failure to plead the positive case asserted at the trial was, however, contrary to the surprise rule and goes a long way, on its own, in providing a satisfactory explanation for the appellant’s failure to call more witnesses to bolster his case that an accident occurred as alleged by him.
+    - The failure to plead the positive case asserted at the trial was, however, contrary to the surprise rule and goes a long way, on its own, in providing a satisfactory explanation for the appellant's failure to call more witnesses to bolster his case that an accident occurred as alleged by him.
     - Heydon JA in Nowlan v Marson Transport Pty Limited [2001] NSWCA 346; (2001) 53 NSWLR 116 approved the statement of Allsop J in White v Overland [2001] FCA 1333 at [4] that: 
       - [I] t should always be recognised that in the propounding of issues for trial the parties should take steps to ensure that all relevant parties to the dispute are cognisant of what the issues are
-    - The respondent’s non-admission plea in answer to the appellant’s detailed description of the accident contained in the statement of claim, together with reliance by the respondent on the workers compensation payments made by it, would have resulted in the appellant being taken by surprise when, during the course of the trial, it was first made plain that the respondent was seeking to make an affirmative case in regard to the question whether the appellant was injured by an accident at work in the manner asserted by him.
+    - The respondent's non-admission plea in answer to the appellant's detailed description of the accident contained in the statement of claim, together with reliance by the respondent on the workers compensation payments made by it, would have resulted in the appellant being taken by surprise when, during the course of the trial, it was first made plain that the respondent was seeking to make an affirmative case in regard to the question whether the appellant was injured by an accident at work in the manner asserted by him.
   - Verification 
     - Traditionally, material facts contained in pleadings were not assertions of their truth. 
-    - They were merely considered “written identification and communications of the extent of the plaintiff’s claim”
-    -  UCPR r 14.23 requires a party’s pleading to be verified by affidavit which is made on the pleading
+    - They were merely considered "written identification and communications of the extent of the plaintiff's claim"
+    -  UCPR r 14.23 requires a party's pleading to be verified by affidavit which is made on the pleading
       - Far as they believe, true
   - PARTICULARS 
     - Particulars are details of the material facts on which the party relies in his or her pleadings. 
@@ -9374,14 +9382,14 @@ Week 12: Appeals
       - Cosmidis, a tanker driver employed by D M & B P Wiskich Pty Ltd (Wiskich), was injured by a forklift driven by a Boral Bricks Ltd (Boral) employee after delivering fuel to Boral's premises. 
       - Cosmidis sued Boral for negligence, and Boral, in turn, joined Wiskich to the proceedings, seeking to reduce any damages payable to Cosmidis by alleging Wiskich's negligence.
     - Reason for Trial
-      - The trial focused on Boral’s negligence and the applicability of section 151Z of the Workers Compensation Act 1987 (NSW) regarding the reduction of damages due to Wiskich's alleged negligence.
+      - The trial focused on Boral's negligence and the applicability of section 151Z of the Workers Compensation Act 1987 (NSW) regarding the reduction of damages due to Wiskich's alleged negligence.
     - Material Facts
       - Boral pleaded a general reliance on section 151Z for reducing damages but did not provide particulars of Wiskich's alleged breaches of duty. 
       - The trial judge refused Boral's late attempt to amend its defense to specify these breaches.
     - Issue Raised
       - Whether Boral was required to provide particulars of the alleged negligence by Wiskich under section 151Z and if the failure to do so affected the outcome of the trial.
     - Law(s)/Statute(s) in Contention
-      - Section 151Z of the Workers Compensation Act 1987 (NSW) and its application in cases where a defendant seeks to reduce liability for damages by attributing negligence to a worker’s employer.
+      - Section 151Z of the Workers Compensation Act 1987 (NSW) and its application in cases where a defendant seeks to reduce liability for damages by attributing negligence to a worker's employer.
     - Judicial Opinions and Interpretation
       - Basten JA: Emphasized the importance of particulars in pleadings, especially when a defendant wishes to benefit from section 151Z(2) of the Workers Compensation Act. 
       - Basten JA referred to precedent and clarified that identifying material facts in pleadings prevents surprises and ensures fairness in legal proceedings.
@@ -9420,23 +9428,23 @@ Week 12: Appeals
     - Designed to ensure the document is brought to the attention of the person being served.
     - An important component of the rule of law & necessary to enliven the jurisdiction of the Court.
   - Service – some rules
-    - A general departure point, r 10.1(1): ‘(1) Unless the court orders otherwise, a party that files a document must as soon as practicable serve copies of the document on each other active party.’
+    - A general departure point, r 10.1(1): '(1) Unless the court orders otherwise, a party that files a document must as soon as practicable serve copies of the document on each other active party.'
     - r 10.5: specifies the general ways by which service can be effected. 
       - Service quite simple once proceedings are underway.
     - r 10.20(2)(a): originating documents in the Supreme Court have to be personally served.
   - What is involved in personal service?
     - Personal service can be effected by plaintiff – more commonly it is by a process server or the NSW Sheriff.
     - r 10.21:
-      - ‘(1) Personal service of a document on a person is effected by leaving a copy of the document with the person or, if the person does not accept the copy, by putting the copy down in the person’s presence and telling the person the nature of the document.
+      - '(1) Personal service of a document on a person is effected by leaving a copy of the document with the person or, if the person does not accept the copy, by putting the copy down in the person's presence and telling the person the nature of the document.
         -  Ainsworth v Redd 
-          - where the defendant told the process server to give it to his representative who was standing next to him and afterward the defendant was heard to say: “We’d better look at these”
+          - where the defendant told the process server to give it to his representative who was standing next to him and afterward the defendant was heard to say: "We'd better look at these"
         - Graczyk v Graczyk
-          - the requirement of placing the document in the person’s presence was fulfilled by pushing it under a locked door. 
+          - the requirement of placing the document in the person's presence was fulfilled by pushing it under a locked door. 
         - Re Hudson; Ex parte G E Crane & Sons Ltd
           - it was satisfied by attaching the document to the front of a locked door and at the same time telling the defendant that this was occurring. 
         - Lawindi; Re Elkateb v Elkateb 
           - Stone J said the requirement that the nature of the document be explained is not demanding and need not be done if the nature of the document is clear on its face
-      - (2) If, by violence or threat of violence, a person attempting service is prevented from approaching another person for the purpose of delivering a document to the other person, the person attempting service may deliver the document to the other person by leaving it as near as practicable to that other person.’
+      - (2) If, by violence or threat of violence, a person attempting service is prevented from approaching another person for the purpose of delivering a document to the other person, the person attempting service may deliver the document to the other person by leaving it as near as practicable to that other person.'
     - r 35.8: affidavit of service required.
   - Personal service on corporations/business entities
     - rr 10.9-10.11: service on defendants operating under a registered/unregistered business name or in a partnership is effected by:
@@ -9452,13 +9460,13 @@ Week 12: Appeals
     - Order for substituted service will specify the steps required for service to be effected.
   - Limits to substituted service
     - In order to prevent substituted service being the norm, there are two central considerations:
-      - 1. Substituted service only applies where the kind of service envisaged by the UCPR cannot be practically undertaken – sometimes referred to as “practical impossibility”. 
+      - 1. Substituted service only applies where the kind of service envisaged by the UCPR cannot be practically undertaken – sometimes referred to as "practical impossibility". 
         - The applicant should have made efforts to effect service properly,and/or should lead evidence to prove that such an effort would be futile – see Munkarra v Fischer (1980) 5 NTR 3;
-      - 2. The Court has to be satisfied that the proposed alternative means of service is reasonably likely to bring the proceedings to the defendant’s attention – see Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 268.
+      - 2. The Court has to be satisfied that the proposed alternative means of service is reasonably likely to bring the proceedings to the defendant's attention – see Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 268.
     - Flo Rida v Mothership Music Pty Ltd [2013] NSWCA 
       - Procedural History:
         - Flo Rida entered a contract to perform at a music festival in Newcastle in 2011 but did not appear.
-        - The promoter filed a claim for damages in the District Court and obtained a freezing order on Flo Rida’s assets in Australia.
+        - The promoter filed a claim for damages in the District Court and obtained a freezing order on Flo Rida's assets in Australia.
         - The court permitted substituted service via email and Facebook. 
         - Flo Rida appealed the judgment, arguing improper substituted service.
       - Original Dispute: 
@@ -9495,7 +9503,7 @@ Week 12: Appeals
     - Unable initially to effect personal service – Williams is in France.
     - Order for substituted service specifies that:
       - Copies to be left at registered addresses of Toulon Rugby club;
-      - Copies left at Williams’ Sydney residence;
+      - Copies left at Williams' Sydney residence;
       - Text messages sent to what appears to be Williams phone number and that of his manager.
   - Nash v Stewart [2010] NSWSC 513
     - Barrett J held that an order for substituted service could not be made in respect of personal service of a subpoena to give evidence.
@@ -9508,19 +9516,19 @@ Week 12: Appeals
         - In practice, SEPA is almost invariably used.
     - Munkarra v Fisher 
       - the plaintiff was injured in an accident involving a motor cycle in Darwin. 
-      - The offending motor bike was registered and insured in Western Australia, and the rider was a German national who held a Northern Territory and international driver’s licence.
+      - The offending motor bike was registered and insured in Western Australia, and the rider was a German national who held a Northern Territory and international driver's licence.
       - Immigration records showed that he had arrived in Australia two years earlier, and there was no record that he had left. At the time of the accident he was resident in the South Darwin Caravan Park, and his current address was unknown. 
       - The plaintiff showed that the application was not urgent and that incomplete checks of official records (driving licences, electoral rolls, phone books etc) had been undertaken. 
       - The court directed that further checks be undertaken with, for example, the German embassy and German clubs in the relevant areas
   - SEPA
     - s 15 of SEPA:
-      - ‘(1) An initiating process issued in a State may be served in another State.
+      - '(1) An initiating process issued in a State may be served in another State.
       - (2) Service on an individual must be effected in the same way as service of such an initiating process in the place of issue.
-      - (3) Service on a company or a registered body must be effected in accordance with section 9.’
+      - (3) Service on a company or a registered body must be effected in accordance with section 9.'
   - Service internationally
     - Four different methods of service internationally:
       - 1. Service by private means (i.e. using a process server or local agent in the concerned country). Regulated by Part 11, Division 1A of the UCPR;
-      - 2. Service through diplomatic channels i.e. through using the Attorney-General’s office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
+      - 2. Service through diplomatic channels i.e. through using the Attorney-General's office and Australian embassies. Regulated by Part 11, Division 2 of the UCPR;
       - 3. Service pursuant to the Hague Convention. Regulated by Part 11A of the UCPR; and
       - 4. Service arrangements agreed in bilateral treaties. Service by private means is most important for our purposes.
   - Service by private means
@@ -9529,9 +9537,9 @@ Week 12: Appeals
   - Service by private means cont.
     - Some inbuilt mechanisms to regulate service overseas:
       - r 11.6: if the person served overseas applies to the Supreme Court, then the Supreme Court can decide not to assume jurisdiction and can stay or dismiss the proceedings. 
-        - The Court can do so if the document wasn’t served according to the rules, if the court is clearly an inappropriate forum, or if the case has insufficient prospects of success;
-      - r 11.7: the document served on the party overseas has to include a notice to the defendant informing them of the scope of the jurisdiction of the court, the grounds alleged by the plaintiff to give rise to that jurisdiction, and the person’s right to challenge service of the originating process or the jurisdiction of the court.
-      - r 11.8AA: if you have served your originating document on someone in another country, and they haven’t filed an appearance within the appropriate time-frame, then the plaintiff may only proceed with leave of the Court
+        - The Court can do so if the document wasn't served according to the rules, if the court is clearly an inappropriate forum, or if the case has insufficient prospects of success;
+      - r 11.7: the document served on the party overseas has to include a notice to the defendant informing them of the scope of the jurisdiction of the court, the grounds alleged by the plaintiff to give rise to that jurisdiction, and the person's right to challenge service of the originating process or the jurisdiction of the court.
+      - r 11.8AA: if you have served your originating document on someone in another country, and they haven't filed an appearance within the appropriate time-frame, then the plaintiff may only proceed with leave of the Court
   - Hunter v Hanson [2014] NSWCA 263 
     - the New South Wales Court of Appeal by majority (McColl and Macfarlan JJA; Emmett JA dissenting) dismissed an application for leave to appeal against the decision of the District Court to extend the time for service of a statement of claim
     - The respondent in the appeal had sued the applicant for defamation, and had decided to delay service of the statement of claim for two reasons: 
@@ -9551,7 +9559,7 @@ Week 12: Appeals
     - Mondial Trading Pty Ltd v Interocean Marine Transport Inc
       - an agreement concerning the appropriate jurisdiction to bring a claim was held not to encompass an agreement as to mode of service.
     - Westpac Banking Corp v Thurairajah [2009] NSWSC 442 at [6] per Barrett J
-      - In a case where a bank (the mortgagee) commenced proceedings against the mortgagor for possession of land the subject of a mortgage due to the mortgagor’s default in payments under the mortgage, the court held that a statement of claim could be served by leaving it at the mortgaged property because the mortgage included an express term to that effect
+      - In a case where a bank (the mortgagee) commenced proceedings against the mortgagor for possession of land the subject of a mortgage due to the mortgagor's default in payments under the mortgage, the court held that a statement of claim could be served by leaving it at the mortgaged property because the mortgage included an express term to that effect
 ## Week 7: Evidence in Proceedings
 
 - Evidence in Proceedings
@@ -9565,7 +9573,7 @@ Week 12: Appeals
     - Affidavits that do not comply with rules about form can be struck out.
     - Nevertheless, an affidavit with an irregularity may be used with the leave of the court (r 35.1).
     - NB – limits on who can make affidavits (e.g. limits where under legal incapacity, corporation, the Crown) (r 35.3).
-      - Also limits on use of affidavits made by ‘blind or illiterate persons’ (r 35.7).
+      - Also limits on use of affidavits made by 'blind or illiterate persons' (r 35.7).
     - Deponent may be cross-examined on contents of affidavit (r 35.2).
   - Affidavits – rules of drafting
     - Name of deponent and date sworn or affirmed on front page as a heading: r 35.3A.
@@ -9573,7 +9581,7 @@ Week 12: Appeals
     - All paragraphs numbered consecutively: r 35.4(c).
     - Each paragraph dealing with separate issue or event: r 35.4 (a)&(b).
     - Each page must be signed by deponent and witness: r 35.7B.
-    - Annexures must be clearly identified e.g. This is the annexure marked “A”: r 35.6(2).
+    - Annexures must be clearly identified e.g. This is the annexure marked "A": r 35.6(2).
     - Jurat (which is the formal part at the end of the affidavit) must be completed: r 35.7A.
     - Changes must be initialled or otherwise affidavit cannot be used: r 35.5.
   - Affidavits – some conventions
@@ -9593,12 +9601,12 @@ Week 12: Appeals
     - 
     - 
   - Discovery
-    - Discovery is a pre-trial process whereby one side looks at the other side’s relevant documents or administers interrogatories to the other side. 
+    - Discovery is a pre-trial process whereby one side looks at the other side's relevant documents or administers interrogatories to the other side. 
       - It includes the notion of preliminary discovery.
     - Purpose of discovery is to promote fair trial because:
       - It enables parties to best prepare their case; and
       - Ensures judges will have evidence available to them to decide on the case.
-    - ‘The right is peculiar to the common law jurisdictions. In plain language, litigation in this country is conducted ‘cards face up on the table’...litigation is not a war or even a game. It is designed to do real justice between opposing parties and, if the court does not have all the relevant information, it cannot achieve this object.’: Davies v Eli Lilly & Co [1987] All ER 801, 804.
+    - 'The right is peculiar to the common law jurisdictions. In plain language, litigation in this country is conducted 'cards face up on the table'...litigation is not a war or even a game. It is designed to do real justice between opposing parties and, if the court does not have all the relevant information, it cannot achieve this object.': Davies v Eli Lilly & Co [1987] All ER 801, 804.
   - Limits on discovery
     - Limitations in Supreme Court Equity Division as per Practice Note SC Eq 11:
       - Court will not make an order for disclosure of documents unless there are exceptional circumstances necessitating disclosure.
@@ -9618,7 +9626,7 @@ Week 12: Appeals
     - r 5.2 – two main criteria:
       - 1. Applicant is unable to locate or identify prospective defendant after making reasonable inquiries; and
       - 2. Some other person may have information, or possess documents, that tend to assist locating or identifying defendant.
-    - NB – applicant must “desire” to commence proceedings against the person: Roads and Traffic Authority of New South Wales v Care Park Pty Limited [2012] NSWCA 35.
+    - NB – applicant must "desire" to commence proceedings against the person: Roads and Traffic Authority of New South Wales v Care Park Pty Limited [2012] NSWCA 35.
   - Preliminary discovery – whether or not to commence proceedings
     - r 5.3 is cast in much the same language as r 5.2:
       - 1. Applicant may have claim against another person, but has been unable to obtain sufficient information to decide whether to commence after having made reasonable inquiries, and
@@ -9635,13 +9643,13 @@ Week 12: Appeals
       - 2.Notices to produce, where one party requires another party to produce specific documents
   - Discovery (limits)
     - Discovery pertains to documents – this is construed broadly e.g. it can include text messages, emails, webpages etc.
-    - To be discoverable, a document has to be ‘relevant to a fact in issue’ – r 21.2(4).
+    - To be discoverable, a document has to be 'relevant to a fact in issue' – r 21.2(4).
     - Scope of discovery limited by reference to the overriding purpose, s 56 CPA. Parties can no longer seek general discovery.
     - NB – as per r 21.7, discovered documents cannot be disclosed
     - r 21.3: party subject to an order for discovery complies by serving on the requesting party a list dealing with all of the documents (other than excluded documents) referred to in the order.
     - r 21.5: party rendering discovery has to make the documents available for inspection (generally within 21 days of the list being served).
     - Discovery not once-and-for-all – an ongoing obligation.
-    - Discovery is verified by affidavit, together with solicitor’s certificate of advice (if appropriate): r 21.4.
+    - Discovery is verified by affidavit, together with solicitor's certificate of advice (if appropriate): r 21.4.
   - Notice to produce
     - Party can serve notice to produce any specified document or thing on another party (r 21.10).
     - Party served with notice needs to provide inspection of the document or thing within a reasonable time (usually 14 days).
@@ -9652,7 +9660,7 @@ Week 12: Appeals
     - According to r 33.1, a "subpoena" means an order in writing requiring the addressee:
       - (a) to attend to give evidence (a subpoena to attend), or
       - (b) to produce the subpoena or a copy of it and a document or thing (a subpoena to produce), or
-      - (c) to do both of those things.’
+      - (c) to do both of those things.'
   - Formal requirements for a subpoena
     - r 33.3 specifies some formal requirements for subpoenas:
       - (1) A subpoena must be in the approved form.
@@ -9665,11 +9673,11 @@ Week 12: Appeals
       - NB – subpoena must be personally served on address – r 33.5.
   - Subpoenas and conduct money
     - r 33.6(1): 
-      - “An addressee need not comply with the requirements of a subpoena to attend to give evidence unless conduct money has been handed or tendered to the addressee a reasonable time before the date on which attendance is required.
+      - "An addressee need not comply with the requirements of a subpoena to attend to give evidence unless conduct money has been handed or tendered to the addressee a reasonable time before the date on which attendance is required.
     - What is conduct money? 
-      - r 33.1 states that "conduct money" means a sum of money or its equivalent, such as pre-paid travel, sufficient to meet the reasonable expenses of the addressee of attending court as required by the subpoena and returning after so attending.”
+      - r 33.1 states that "conduct money" means a sum of money or its equivalent, such as pre-paid travel, sufficient to meet the reasonable expenses of the addressee of attending court as required by the subpoena and returning after so attending."
   - Notice to admit
-    - The ‘requesting party’ sends a notice to admit to the ‘admitting party’. The notice requests that the admitting party make certain admissions in favour of the requesting party. The admitting party has 14 days to respond. (rr 17.3, 17.4). Often used where you have facts that are material and relevant to a party’s case, but are not seriously in dispute
+    - The 'requesting party' sends a notice to admit to the 'admitting party'. The notice requests that the admitting party make certain admissions in favour of the requesting party. The admitting party has 14 days to respond. (rr 17.3, 17.4). Often used where you have facts that are material and relevant to a party's case, but are not seriously in dispute
     - Can go not only to facts but authenticity of documents.
     - If the party does not admit, and the facts are then proved at trial, that party has to bear the costs of such proof.
     - Pacific Steel Constructions Pty Ltd v Barahona [2009] NSWCA 406 at [153]
@@ -9677,7 +9685,7 @@ Week 12: Appeals
     - Party or its representative is required to answer in writing, and usually on oath, specific questions prior to the trial.
     - Must obtain an order from the court requiring answers to specified interrogatories (r 22.1)
     - Application for an order for interrogatories may be made at any time and must be accompanied by a copy of the proposed interrogatories (r 22.1(2))
-    - Court won’t make order unless satisfied order is necessary at the time it is made (r 22.1(4))
+    - Court won't make order unless satisfied order is necessary at the time it is made (r 22.1(4))
   - Objection to produce documents founded on privilege
     - Objections to production of documents and answering of questions founded on privilege (r 1.9).
     - Client legal privilege does not mean the document need not be discovered, it is simply listed as a document that does not have to be produced for inspection.
@@ -9775,24 +9783,24 @@ Week 12: Appeals
     - The process for discovery under the UCPR can be summarised as follows (Party A is the party receiving discovery and Party B is the party giving discovery): 
       - 1. Party A files and serves a notice of motion (with supporting affidavit) seeking discovery from Party B pursuant to UCPR r 21.2. 
         - The notice of motion will specify the order for discovery of documents within a class or classes of documents or samples of documents within a class (r 21.2). 
-        - A “class of documents” is defined by relevance to the facts in issue, or by the type of documents within a class, or in “such other manner as the court considers appropriate in the circumstances” (r 21.3). 
+        - A "class of documents" is defined by relevance to the facts in issue, or by the type of documents within a class, or in "such other manner as the court considers appropriate in the circumstances" (r 21.3). 
       - 2. The notice of motion is heard (this is an interlocutory hearing) and the court may order discovery of documents within a class or classes of documents or samples of documents within a class (r 21.2). 
         - The court does not order general discovery. 
       - 3. Within 28 days of the order (or as the order specifies), Party B prepares a list of documents (r 21.3) which is divided into two parts (documents in the possession of Party B and documents which were in possession of Party B in the last six months). 
         - The list needs to describe the documents. The list also states whether privilege is claimed in respect of the documents and the circumstances that give rise to privilege being claimed. 
         - If the documents are not in the possession of Party B then Party B needs to indicate who he or she believes has possession of the documents. 
-      - 4. Discovery does not apply to an “excluded document” (see definition in r 21.1), but note the court may declare a document not to be an excluded document. 
-        - “Excluded documents” do not have to be included in the list (r 21.3(1)). 
-      - 5. The list must be accompanied by a supporting affidavit by Party B (r 21.4(2)) and a solicitor’s certificate of advice (r 21.4(3)). 
+      - 4. Discovery does not apply to an "excluded document" (see definition in r 21.1), but note the court may declare a document not to be an excluded document. 
+        - "Excluded documents" do not have to be included in the list (r 21.3(1)). 
+      - 5. The list must be accompanied by a supporting affidavit by Party B (r 21.4(2)) and a solicitor's certificate of advice (r 21.4(3)). 
         - The affidavit deposed by Party B verifies the list 662 and must state the specific matters listed in r 21.4(2). 
-        - The solicitor’s certificate of advice must state the matters set out in r 21.4(3) namely that the solicitor has advised Party B as to the obligations arising under an order for discovery and the solicitor is not aware of documents that are not on the list. 
-      - 6. Party B then makes the documents “readily accessible and capable of convenient inspection” for Party A (r 21.5). 
+        - The solicitor's certificate of advice must state the matters set out in r 21.4(3) namely that the solicitor has advised Party B as to the obligations arising under an order for discovery and the solicitor is not aware of documents that are not on the list. 
+      - 6. Party B then makes the documents "readily accessible and capable of convenient inspection" for Party A (r 21.5). 
       - 7. There is a continuing obligation on Party B to make available subsequently discovered documents (r 21.6). 
         - This means that documents which become known after discovery has been carried out are to be made available to Party A. 
         - Privileged documents that cease to be privileged also need to be made available. 
-      - 8. Except with the court’s leave (permission), no information from a document obtained as a result of discovery is to be disclosed, or used in other legal proceedings.
+      - 8. Except with the court's leave (permission), no information from a document obtained as a result of discovery is to be disclosed, or used in other legal proceedings.
         - The exception to this rule is if the document has been received into evidence in open court (r 21.7). 
-      - 9. The court will not order discovery in personal injury cases unless the court “for special reasons” orders otherwise (r 21.8). Special reasons will exist if discovery is necessary for a fair trial.
+      - 9. The court will not order discovery in personal injury cases unless the court "for special reasons" orders otherwise (r 21.8). Special reasons will exist if discovery is necessary for a fair trial.
   - Evidence Types 
     - Client evidence types
       - Witness statements
@@ -9854,7 +9862,7 @@ Week 12: Appeals
         - Production – Delivering ESI to others in appropriate forms and using appropriate delivery mechanisms. 
         - Presentation – Displaying ESI before audiences (at depositions, hearings, trials, etc), especially in native and near-native forms, to elicit further information, validate existing facts or positions, or persuade an audience
   - Technology assisted review (TAR) def 
-    - has been defined as “[a] process for Prioritizing or Coding a Collection of Documents using a computerized system that harnesses human judgments of one or more Subject Matter Expert(s) on a smaller set of Documents and then extrapolates those judgments to the remaining Document 
+    - has been defined as "[a] process for Prioritizing or Coding a Collection of Documents using a computerized system that harnesses human judgments of one or more Subject Matter Expert(s) on a smaller set of Documents and then extrapolates those judgments to the remaining Document 
       - In the review stage, TAR examines ESI for relevance, and in the analysis stage may be able to evaluate the ESI for other characteristics such as privilege or particular issues or topics
   - McConnell Dowell Constructors v Santam (2016) 51 VR 42
     - Jurisdiction: 
@@ -9891,13 +9899,13 @@ Week 12: Appeals
     - A subpoena can be set aside, whole or in part, on the grounds that it is an abuse of process because of the following: 
       - A subpoena cannot be used as a substitute for discovery: 
         - The Commissioner for Railways v Small (1938) 38 SR 654 at 574 and NSW Commissioner of Police v Tuxford [2002] NSWCA 139 at [19] (see [12.410]). 
-        - An issuing party is “not entitled to procure the issue of the subpoena for the purpose of fishing, that is, endeavouring not to obtain evidence to support their case, but to discover whether they had a case at all, or to discover the nature of the case of the defendant”: 
+        - An issuing party is "not entitled to procure the issue of the subpoena for the purpose of fishing, that is, endeavouring not to obtain evidence to support their case, but to discover whether they had a case at all, or to discover the nature of the case of the defendant": 
           -  [2002] NSWCA 139 at [27]. 
       - A subpoena cannot be oppressive. A subpoena may be oppressive if it has insufficient particularisation of the documents called for. 
         - This creates oppression because the recipient is required to judge what documents are caught by the subpoena. 
         - A subpoena could also be oppressive where compliance is too onerous. 
           - This is demonstrated where an excessive burden is placed on the producing party, for example, in NSW Commissioner of Police v Tuxford (see [12.410]). 
-        - Tuxford called for all “originals or copies” of documents that were located in many locations. This was found to be oppressive. 
+        - Tuxford called for all "originals or copies" of documents that were located in many locations. This was found to be oppressive. 
     - A subpoena cannot have an improper purpose. 
       - For example, the subpoena may seek documents not for the purpose of the litigation but for some spurious purpose such as a private purpose or for use in other proceedings. 
     - An absence of the apparent relevance of documents is a sufficient ground to have it set aside, see Trade Practices Commission v Arnotts Limited (No 2) (1989) 21 FCR 306. 
@@ -9908,7 +9916,7 @@ Week 12: Appeals
     - Judges and legal practitioners have also provided suggestions as to best practice for drafting affidavits which include:2 
       - identify the deponent and their relationship to the dispute; 
       - set out the matters in the affidavit in a logical manner – this may or may not be a chronological sequence; 
-      - use the witness’s own words; 
+      - use the witness's own words; 
       - conversations should be stated in direct speech, that is, the first person – I said, she said; 
       - state facts the witness has personal and actual knowledge of, not opinions or assumptions unless the affidavit is for an expert witness; 
       - be concise but complete; 
@@ -9916,18 +9924,18 @@ Week 12: Appeals
       - avoid irrelevant material; 
       - avoid hearsay, except in interlocutory applications, as an affidavit must be confined to facts the witness can prove from direct knowledge; and 
       - avoid making submissions or arguments
-    -  Revised Professional Conduct and Practice Rules 1995 (Solicitors’ Rules) rule 17
+    -  Revised Professional Conduct and Practice Rules 1995 (Solicitors' Rules) rule 17
   -  Ying v Song [2010] NSWSC 1500
     - dispute between former family members over shares in the second defendant (Budget Scaffold Supplies Pty Ltd, to which I will refer as BSS) and in respect of amounts recorded at one stage in the financial records of BSS as a shareholder loan from the plaintiff (Ming Ying) to the company. 
-    - Ming Ying’s sister (Hua Ying) was formerly married to the first defendant (Lida Song). 
+    - Ming Ying's sister (Hua Ying) was formerly married to the first defendant (Lida Song). 
       - There are Family Court proceedings presently on foot between the couple 
-      - According to Ming Ying, he paid some $106,025 to acquire shares in BSS, shares which Lida Song later transferred back to himself, without Ming Ying’s consent, in 2005.
-      - According to Lida Song, however, the shares were only transferred to Ming Ying (and the company’s records recorded shareholder loans by Ming Ying) as part of an attempt to present a false impression of Ming Ying’s assets in Australia to the Department of Immigration so as to assist in Ming Ying’s attempt to obtain permanent residency in Australia
-    - much of the later affidavit evidence must have been prepared by cutting and pasting material from Mr Ying’s earlier affidavits – even material that had in the interim been corrected by other affidavits sworn by Mr Ying
+      - According to Ming Ying, he paid some $106,025 to acquire shares in BSS, shares which Lida Song later transferred back to himself, without Ming Ying's consent, in 2005.
+      - According to Lida Song, however, the shares were only transferred to Ming Ying (and the company's records recorded shareholder loans by Ming Ying) as part of an attempt to present a false impression of Ming Ying's assets in Australia to the Department of Immigration so as to assist in Ming Ying's attempt to obtain permanent residency in Australia
+    - much of the later affidavit evidence must have been prepared by cutting and pasting material from Mr Ying's earlier affidavits – even material that had in the interim been corrected by other affidavits sworn by Mr Ying
       - This may diminish the reliability and hence the weight to be accorded to that evidence (on any of the various versions).
 ## Week 8: Interlocutory Applications and Injunctions
 
--  The court has power to order a plaintiff to give security for the defendant’s cost of defending the plaintiff’s claim and can order a stay of proceedings until the security is given
+-  The court has power to order a plaintiff to give security for the defendant's cost of defending the plaintiff's claim and can order a stay of proceedings until the security is given
   - s r 2.1 and r 42.21 of the UCPR, s 67 of the CPA and, in respect of corporations, from s 1335 of the Corporations Act 2001 (Cth).
 - Wollongong City Council v Legal Business Centre Pty Limited [2012] NSWCA 245
   - Jurisdiction: 
@@ -9941,13 +9949,13 @@ Week 12: Appeals
     - The appellant sought leave to appeal an interlocutory order that dismissed its application for security for costs against the respondent. 
     - The Court of Appeal granted leave and overturned the initial decision, ordering LBC to provide security for costs.
   - Original Dispute:
-    - Wollongong City Council applied for an order for security for costs against LBC, citing concerns over LBC’s financial capacity to cover costs if ordered to do so.
+    - Wollongong City Council applied for an order for security for costs against LBC, citing concerns over LBC's financial capacity to cover costs if ordered to do so.
   - Current Reason for Trial:
-    - To appeal the trial judge’s refusal to grant an order for security for costs.
+    - To appeal the trial judge's refusal to grant an order for security for costs.
   - Material Facts:
-    - The trial judge dismissed the Council's application based on his assessment of LBC’s financial circumstances and discretionary considerations.
+    - The trial judge dismissed the Council's application based on his assessment of LBC's financial circumstances and discretionary considerations.
   - Issue Raised:
-    - Whether the trial judge erred in his assessment of the respondent’s financial circumstances and in refusing the application for security for costs.
+    - Whether the trial judge erred in his assessment of the respondent's financial circumstances and in refusing the application for security for costs.
   - Laws/Statutes in Contention:
     - Uniform Civil Procedure Rules 2005 (UCPR), r 42.21
     - Corporations Act 2001 (Cth), s 1335(1)
@@ -9958,12 +9966,12 @@ Week 12: Appeals
   - Tests and Principles:
     - The court adopts a practical common-sense approach to examining the financial affairs of a corporation for security for costs.
     - The defendant bears the onus of proving the plaintiff's inability to pay litigation costs if unsuccessful.
-    - Factors considered in exercising discretion include risk of unsatisfied costs orders, whether the order stifles a claim, and the conduct’s effect on the plaintiff's finances.
+    - Factors considered in exercising discretion include risk of unsatisfied costs orders, whether the order stifles a claim, and the conduct's effect on the plaintiff's finances.
   - Judicial Opinions:
     - The Court of Appeal agreed that the trial judge erred in assessing LBC's financial position and in his discretionary decision not to grant security for costs.
     - It emphasized the necessity of a practical approach to evaluating a corporation's financial status and the established principles guiding the discretion to order security for costs.
   - Ratio Decidendi:
-    - The decision to order security for costs should be based on a practical assessment of the corporation’s financial affairs and the established principles for exercising such discretion. 
+    - The decision to order security for costs should be based on a practical assessment of the corporation's financial affairs and the established principles for exercising such discretion. 
     - The appellant successfully demonstrated that LBC, likely unable to cover costs if the proceedings failed, justified the need for security for costs.
   - Conclusion and Relevance to Modern Law:
     - The case underscores the courts' discretion in ordering security for costs, emphasizing the importance of a defendant proving the plaintiff's potential inability to pay litigation costs. 
@@ -9997,7 +10005,7 @@ Week 12: Appeals
     - The decision to order security for costs is discretionary, depending on various factors:
       - 1. Promptness of the application.
       - 2. The strength and bona fides of the applicant's case.
-      - 3. Whether the applicant’s impecuniosity was caused by the respondent’s conduct.
+      - 3. Whether the applicant's impecuniosity was caused by the respondent's conduct.
       - 4. Whether the application is oppressive or denies the right to litigate.
       - 5. The willingness of those benefiting from the litigation to provide security.
       - 6. The personal undertaking of costs by those behind the company.
@@ -10015,11 +10023,11 @@ Week 12: Appeals
   - interim junction def or interlocutory injunction def
     - S 18 of UCPR - need notice of motion form 20 UCPR
       - Notice of motion form needs to be accompanied by supporting affidavit indicating reason for notice
-    - To obtain an interlocutory injunction an applicant must show that there is a “prima facie case” and that the “balance of convenience” favours the order being made. 
+    - To obtain an interlocutory injunction an applicant must show that there is a "prima facie case" and that the "balance of convenience" favours the order being made. 
     - An interim injunction will usually continue for a short period of time (measured in days).
       - The District Court has a limited power to grant temporary injunctions for a period not exceeding 14 days or exceeding that period if necessary to enable Supreme Court proceedings to be commenced or heard: 
         - District Court Act 1973 (NSW) s 141, also see s 140
-      - Federal Court has power to make interlocutory injunctions as the Court “has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate”: 
+      - Federal Court has power to make interlocutory injunctions as the Court "has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate": 
         - Federal Court of Australia Act 1976 (Cth) s 23
   - Injunction types:
     - Mandatory injunction: order requiring a party to act;
@@ -10027,27 +10035,27 @@ Week 12: Appeals
     - Interim injunction: order in force for a short period of time;
     - And Final or perpetual injunction: 
       - order finally determines rights of parties.
-    - Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57; 229 ALR 457; [2006] HCA 46
-      - An interlocutory injunction was ordered that restrained the ABC from broadcasting or otherwise publishing any part of a documentary known as “The Fisherman” that imputed or implied that O’Neill was responsible for or is suspected of being responsible for the disappearance or murder of children commonly referred to as the Beaumont children or that O’Neill is a multiple killer of children
+    - Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57; 229 ALR 457; [2006] HCA 46
+      - An interlocutory injunction was ordered that restrained the ABC from broadcasting or otherwise publishing any part of a documentary known as "The Fisherman" that imputed or implied that O'Neill was responsible for or is suspected of being responsible for the disappearance or murder of children commonly referred to as the Beaumont children or that O'Neill is a multiple killer of children
       - Prima Facie case meaning
         - it is sufficient that the plaintiff show a sufficient likelihood of success to justify in the circumstances the preservation of the status quo pending the trial. 
     - Two criteria for an interlocutory injunction
-      - An applicant must establish (Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+      - An applicant must establish (Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
         - 1. A prima facie case in relation to the substantive litigation; and
         - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
-      - 3. What does the ‘balance of convenience’ entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 
-        - ‘whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.’
+      - 3. What does the 'balance of convenience' entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 
+        - 'whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.'
   - Freezing orders def are otherwise known as Mareva injunctions or Mareva orders.
     - Jackson v Sterling Industries Ltd (1987) 162 CLR 612
     - Mareva orders are named after one of the earliest cases which allowed their use: 
-      - Mareva Compania Naviera SA v International Bulkcarriers SA [1975] 2 Lloyd’s Rep 50
+      - Mareva Compania Naviera SA v International Bulkcarriers SA [1975] 2 Lloyd's Rep 50
     - A Mareva order prevents a party from disposing of assets to frustrate the enforcement of a judgment. 
-      - The power to make such an order derives from the court’s equitable inherent jurisdiction.
+      - The power to make such an order derives from the court's equitable inherent jurisdiction.
     - An application for a freezing order should comply with the substance of the requirements contained in Practice Note SC Gen 14 
   - Jackson v Sterling Industries Ltd (1987) 162 CLR 612
     - Facts
       - The plaintiff, who sued the defendant for breach of s 52 of the Trade Practices Act 1974 (Cth), applied to the Federal Court for an order that the respondent pay $3 million into court as security for the satisfaction of any judgment that might be entered against him in the application. 
-      - The Federal Court judge found that the plaintiff had a good chance of success and ordered that the defendant “provide security in the sum of $3,000,000 in such manner and form as the parties may agree or, in default of agreement, the Court or its Registrar may approve”. 
+      - The Federal Court judge found that the plaintiff had a good chance of success and ordered that the defendant "provide security in the sum of $3,000,000 in such manner and form as the parties may agree or, in default of agreement, the Court or its Registrar may approve". 
     - The defendant appealed. 
       - In the High Court, Mason CJ, Wilson, Brennan, Deane and Dawson JJ (Toohey and Gaudron JJ dissenting) found that the order should not have been made. 
       - However, the court recognised the power of courts to grant Mareva injunctions. 
@@ -10068,7 +10076,7 @@ Week 12: Appeals
       - Breach of contract by Kingdom Towers for failing to make full payment under a property sale contract. 
       - Andrew Brodner was implicated as the guarantor of Kingdom Towers' obligations.
     - Current Reason for Trial:
-      - The matter concerns the plaintiff’s application for a freezing order to include additional assets (shares held by the defendants) beyond the initially specified properties.
+      - The matter concerns the plaintiff's application for a freezing order to include additional assets (shares held by the defendants) beyond the initially specified properties.
     - Material Facts:
       - The plaintiff demonstrated a strong case for damages or payment under the guarantee for about $2,070,625, necessitating a freezing order to prevent asset dissipation.
     - Issue Raised:
@@ -10085,7 +10093,7 @@ Week 12: Appeals
       - Justice Robb was convinced that the absence of evidence or an explanation from the defendants regarding their asset disposition activities justified the imposition of a freezing order. 
       - However, an amended order as sought by the plaintiff at the hearing was denied due to lack of notice and evidence on the value of the newly included assets.
     - Ratio Decidendi:
-      - The court's decision to grant a freezing order was based on the balance of probabilities, considering the strength of the plaintiff’s case and the lack of evidence from the defendants to counter the risk of asset dissipation.
+      - The court's decision to grant a freezing order was based on the balance of probabilities, considering the strength of the plaintiff's case and the lack of evidence from the defendants to counter the risk of asset dissipation.
     - Conclusion and Relevance to Modern Law:
       - This case illustrates the court's approach in granting freezing orders to preserve the integrity of its judgment against potential asset dissipation by defendants. 
       - It emphasizes the importance of presenting a strong arguable case and evidence of risk to asset dissipation. 
@@ -10106,7 +10114,7 @@ Week 12: Appeals
       - Copyright infringement by Eagle Homes Pty Ltd in relation to building plans owned by LED Builders Pty Ltd. 
       - The dispute extended to securing assets to satisfy the judgment.
     - Current Reason for Trial:
-      - The High Court considered the appeal against the Mareva injunctions, focusing on whether such injunctions could extend to third parties not directly involved in the proceedings or shown to have an interest in the judgment debtor’s assets.
+      - The High Court considered the appeal against the Mareva injunctions, focusing on whether such injunctions could extend to third parties not directly involved in the proceedings or shown to have an interest in the judgment debtor's assets.
     - Material Facts:
       - The Cardiles, after receiving large dividends from Eagle Homes, established Ultra Modern Pty Ltd.
       - LED sought Mareva orders to freeze assets of Eagle Homes, the Cardiles, and Ultra Modern Pty Ltd to prevent dissipation and ensure satisfaction of the judgment.
@@ -10122,17 +10130,17 @@ Week 12: Appeals
       - The jurisdiction for such injunctions stems from the court's power to protect the integrity of its processes and ensure the effective administration of justice, including preserving the efficacy of execution against judgment debtors.
       - The court must exercise caution, ensuring Mareva orders are not used oppressively or to unjustly restrict commerce.
     - Judicial Opinions:
-      - The High Court clarified the limits of Mareva injunctions, emphasizing that while they can extend to third parties in appropriate cases, it is crucial to establish a direct link between the third party’s assets and the judgment debtor. 
+      - The High Court clarified the limits of Mareva injunctions, emphasizing that while they can extend to third parties in appropriate cases, it is crucial to establish a direct link between the third party's assets and the judgment debtor. 
       - The court highlighted the discretionary nature of such orders and the necessity for a principled and analytical approach to their issuance.
     - Ratio Decidendi:
-      - Mareva orders can be justified against third parties when there is a substantive connection between the third party’s assets and the judgment debtor, reflecting the courts’ broad power but emphasizing the need for a careful and principled exercise of discretion.
+      - Mareva orders can be justified against third parties when there is a substantive connection between the third party's assets and the judgment debtor, reflecting the courts' broad power but emphasizing the need for a careful and principled exercise of discretion.
     - Conclusion and Relevance to Modern Law:
       - Cardile v LED Builders Pty Ltd signifies a critical examination of the scope of Mareva injunctions, underscoring the importance of ensuring such orders are grounded in clear legal principles and used judiciously to balance the effective administration of justice with the rights of third parties. 
       - This decision has profound implications for the use of asset preservation orders in Australian law, illustrating the courts' cautious approach to extending such orders beyond the direct parties to litigation.
-  - Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as “Mareva orders” or “asset preservation orders”)
+  - Practice Note SC Gen 14 Supreme Court – Freezing Orders (also known as "Mareva orders" or "asset preservation orders")
   - Search orders def are otherwise known as Anton Piller orders: 
     - Anton Piller KG v Manufacturing Processes Ltd [1976] 1 Ch 55.
-    - Anton Piller orders have a statutory basis in the UCPR, however, the UCPR preserve the court’s inherent, implied or statutory jurisdiction. 
+    - Anton Piller orders have a statutory basis in the UCPR, however, the UCPR preserve the court's inherent, implied or statutory jurisdiction. 
     - Search orders authorise the seizure of documents and other evidence. 
       - Search orders are obtained on an ex parte basis.
     - The requirements for the granting of a search order are: 
@@ -10141,7 +10149,7 @@ Week 12: Appeals
       - (c) there is sufficient evidence in relation to a respondent that: 
         - (i) the respondent possesses important evidentiary material; and 
         - (ii) there is a real possibility that the respondent might destroy such material or cause it to be unavailable for use in evidence in a proceeding or anticipated proceeding before the court.
-  - Practice Note SC Gen 13 Supreme Court – Search Orders (also known as “Anton Piller Orders”)
+  - Practice Note SC Gen 13 Supreme Court – Search Orders (also known as "Anton Piller Orders")
     - Findex Group Ltd v McKay [2019] NSWCA 93
       - Jurisdiction: 
         - New South Wales Court of Appeal - Binding in NSW
@@ -10179,12 +10187,12 @@ Week 12: Appeals
 - Interlocutory Applications and Injunctions
   - What is an interlocutory application?
     - An interlocutory application def is an application made in a proceeding before a final determination for one of two purposes:
-      - 1. Preserving the status quo until the parties’ rights are finally determined e.g. interlocutory injunction;
+      - 1. Preserving the status quo until the parties' rights are finally determined e.g. interlocutory injunction;
       - 2. Dealing with the formalities which it is necessary to attend to before trial, such as the provision of particulars, discovery and interrogation.
   - The broad procedure for interlocutory applications
     - Interlocutory applications are generally sought by notice of motion supported by an affidavit (part 35 UCPR).
     - If an application is heard ex parte before the institution of proceedings, it is usually on the proviso that proceedings are issued forthwith.
-    - r 18.1 of the UCPR: ‘An interlocutory or other application is to be made by motion unless these rules otherwise provide.’
+    - r 18.1 of the UCPR: 'An interlocutory or other application is to be made by motion unless these rules otherwise provide.'
     - r 18.2(1): generally speaking, a notice of motion must be filed and served on each person affected by the proposed order. Exceptions found in r 18.2(2). 
   - What must a notice of motion contain?
     - r 18.3 spells out some of the things a notice of motion must do, including:
@@ -10194,8 +10202,8 @@ Week 12: Appeals
       - The notice must also state concisely the nature of the proposed order.
   - Notices of motion – some more requirements
     - r 18.4: unless the court orders otherwise, a notice of motion must be served at least 3 days before the date fixed for the motion.
-    - r 18.5: a notice of motion must be personally served if the person on whom it is to be served is not a party to the proceedings or is not an active party (i.e. they haven’t entered an appearance).
-    - r 18.7: if you have served the notice of motion in accordance with the rules, and the other party doesn’t turn up, then the Court can deal with the motion in their absence.
+    - r 18.5: a notice of motion must be personally served if the person on whom it is to be served is not a party to the proceedings or is not an active party (i.e. they haven't entered an appearance).
+    - r 18.7: if you have served the notice of motion in accordance with the rules, and the other party doesn't turn up, then the Court can deal with the motion in their absence.
   - Pro forma notice of motion
     - 
   - Some types of interlocutory orders
@@ -10210,10 +10218,10 @@ Week 12: Appeals
       - Where address of plaintiff is misstated or omitted from originating process, and reason to believe this was done with intention to deceive;
       - Where plaintiff has changed their address, and reason to believe this was done to
       - avoid the consequences of the proceedings;
-      - If there is reason to believe that a corporation won’t be able to pay the defendant’s costs e.g. because it is bankrupt;
-      - Where the plaintiff is suing for someone else’s benefit and appears unable to pay for defendants costs; and
+      - If there is reason to believe that a corporation won't be able to pay the defendant's costs e.g. because it is bankrupt;
+      - Where the plaintiff is suing for someone else's benefit and appears unable to pay for defendants costs; and
       - If there is reason to believe that the plaintiff has divested assets with intention of avoiding consequences of proceedings.
-    - r 42.21(1B): if the plaintiff is a natural person, a security can’t be imposed simply because they are impecunious.
+    - r 42.21(1B): if the plaintiff is a natural person, a security can't be imposed simply because they are impecunious.
     - r 42.21(1A) lists the many different factors that the Court can take into account in weighing the interests of the plaintiff and the defendant. Some are:
       - (a) the prospects of success or merits of the proceedings;
       - (b) the genuineness of the proceedings;
@@ -10236,22 +10244,22 @@ Week 12: Appeals
   - The usual undertaking as to damages
     - Applies for interlocutory injunctions, Mareva orders and Anton Piller orders.
     - r 25.8: with the usual undertaking as to damages, the plaintiff submits to give compensation to another party (it could be the defendant, it could be someone else) due to the operation of the interlocutory order.
-    - If the court determines at trial that the injunction shouldn’t have been made, it conducts an inquiry as to damages, which the plaintiff then has to cover as part of the usual undertaking.
+    - If the court determines at trial that the injunction shouldn't have been made, it conducts an inquiry as to damages, which the plaintiff then has to cover as part of the usual undertaking.
   - Two criteria for an interlocutory injunction
-    - An applicant must establish (Australian Broadcasting Corporation v O’Neill (2006) 227 CLR 57):
+    - An applicant must establish (Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57):
       - 1. A prima facie case in relation to the substantive litigation; and
       - 2. Balance of convenience: weighing relative inconvenience and injury of plaintiff and defendant.
-      - 3. What does the ‘balance of convenience’ entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: ‘whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.
+      - 3. What does the 'balance of convenience' entail? Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618 at 623, expresses it thus: 'whether the inconvenience or injury which the plaintiff would be likely to suffer if an injunction were refused outweighs or is outweighed by the injury which the defendant would suffer if an injunction were granted.
   - Factors going to the balance of convenience
     - A non-exhaustive list of factors relevant to determining where the balance of convenience lies:
-      - The respondent’s intention to carry out threat;
+      - The respondent's intention to carry out threat;
       - The relative damage to both parties if the injunction were granted;
       - Where making injunction would lead inevitably to breach;
       - Where there are difficulties in supervising compliance;
       - The possibility the plaintiff will suffer irreparable damage if an injunction is not granted;
       - Whether or not other forms of relief such as damages will be an adequate remedy;
-      - The applicant’s performance in making their application;
-      - Where concerned with contracts: if specific performance would be refused, then an injunction won’t be granted; and
+      - The applicant's performance in making their application;
+      - Where concerned with contracts: if specific performance would be refused, then an injunction won't be granted; and
       - The impact of the injunction on third parties.
   - Appeals from orders granting interlocutory injunctions
     - Samsung Electronics Co. Limited v Apple Inc. [2011] FCAFC 156.
@@ -10261,17 +10269,17 @@ Week 12: Appeals
   - Mareva orders
     - A Mareva order is a special type of order restraining the defendant from dealing with the whole or part of their assets pending the outcome of proceedings.
     - Designed to prevent a defendant abusing the processes of the court by hiding or dissipating their assets in order to frustrate the ability of the plaintiff to recover damages
-    - Historically, Mareva orders stemmed from the Court’s inherent jurisdiction. 
+    - Historically, Mareva orders stemmed from the Court's inherent jurisdiction. 
       - They got their name from the case of Mareva Compania Naviera SA v International Bulkcarriers SA (The Mareva) [1980] 1 All ER 213.
       - Today, Mareva orders are also provided for by UCPR Pt 25 Div 2 and Practice Note SC Gen 14: Supreme Court – Freezing Orders.
       - cl 6 of Practice Note SC Gen 14 confirms that a freezing order is an extraordinary remedy.
   - Mareva orders – when are they appropriate?
     - r 25.14: Mareva orders can be made if two criteria are fulfilled:
       - (1): a judgment has been given in favour of the applicant or an applicant has a good arguable case; and
-      - (4): “(a) the judgment debtor, prospective judgment debtor or another person absconds.
+      - (4): "(a) the judgment debtor, prospective judgment debtor or another person absconds.
       - (b) the assets of the judgment debtor, prospective judgment debtor or another person are:
           - (i) removed from Australia or from a place inside or outside Australia, or
-          - (ii) disposed of, dealt with or diminished in value.”
+          - (ii) disposed of, dealt with or diminished in value."
     - r 25.14(5): Mareva orders can be sought against third-parties, but stricter criteria apply.
   - An application for a Mareva order
     - An application for a Mareva order is made by way of a motion supported by an affidavit.
@@ -10279,18 +10287,18 @@ Week 12: Appeals
       - The basis of the claim for substantive relief;
       - The amount of the claim;
       - If the application is made ex parte, then the applicant has to include in it their knowledge of any possible defence;
-      - The applicant also has to include their knowledge of the nature and value of the respondent’s assets;
+      - The applicant also has to include their knowledge of the nature and value of the respondent's assets;
       - The affidavit has to include the matters referred to in r 25.14; and
       - The affidavit has to reveal the identity of any person, other than the respondent, who the applicant believes may be affected by the order, and how they may be affected.
     - Applicant is to give usual undertaking as to damages: cl 16 of Supreme Court Practice Note 14.
       - Extreme care needed in making such an order.
-      - Value of the assets covered by a Mareva order should not exceed the likely maximum amount of the applicant’s claim and order should exclude dealings by the respondent with its assets for legitimate purposes: Practice Note cl 11, 12.
+      - Value of the assets covered by a Mareva order should not exceed the likely maximum amount of the applicant's claim and order should exclude dealings by the respondent with its assets for legitimate purposes: Practice Note cl 11, 12.
       - Ex parte Mareva orders generally only for short period of time so respondent has opportunity to be heard: Practice Note cl 9.
       - Operate in personam (i.e. does not attach to the property itself). 
   - Anton Piller orders
-    - An Anton Piller order (often known as a ‘search order’) compels the defendant to allow the plaintiff or its agents to inspect their property and premises, and allows for the search, preservation and seizure of documents and other evidence.
+    - An Anton Piller order (often known as a 'search order') compels the defendant to allow the plaintiff or its agents to inspect their property and premises, and allows for the search, preservation and seizure of documents and other evidence.
     - Derive their name from Anton Piller KG v Manufacturing Processes Ltd [1976] 1 All ER 779.
-    - Initially derived from the Court’s inherent jurisdiction, but now find expression in Pt 25 Div 3 of the UCPR and Practice Note SC Gen 13 Supreme Court – Search Orders.
+    - Initially derived from the Court's inherent jurisdiction, but now find expression in Pt 25 Div 3 of the UCPR and Practice Note SC Gen 13 Supreme Court – Search Orders.
   - Three essential criteria for the grant of an Anton Piller order
     - r 25.20 specifies that for a search order to be granted, there needs to be:
       - 1. A strong prima facie case;
@@ -10305,23 +10313,23 @@ Week 12: Appeals
       - Outline why the order is sought, including why there is a real possibility that the evidence will be destroyed or made unavailable;
       - Detail the prejudice, loss or damage likely to be suffered by the applicant if the order is not made;
       - The name, address, firm and commercial litigation experience of an independent solicitor who consents to serving the order and supervising its execution; and
-      - Lastly, if the premises to be searched are or include residential premises, the applicant has to state whether or not they believe that the only occupant of the premises is likely to be a female, a child under the age of 18, or a “vulnerable” person.
+      - Lastly, if the premises to be searched are or include residential premises, the applicant has to state whether or not they believe that the only occupant of the premises is likely to be a female, a child under the age of 18, or a "vulnerable" person.
   - Independent solicitors
     - According to cl 11 of Practice Note SC Gen 13 Supreme Court, an independent solicitor supervising an order is an important safeguard against abuse.
     - Independent solicitors:
-      - Can’t be a member or employee of the applicant’s firm of solicitors;
+      - Can't be a member or employee of the applicant's firm of solicitors;
       - Should be a solicitor experienced in commercial litigation, preferably in the execution of search orders.
     - Have a number of important functions spelled out in cl 11.
   - Anton Piller orders – some other characteristics
     - Various clauses of Practice Note SC Gen 13 Supreme Court:
       - cl 6: the search party has to include the independent solicitor plus a solicitor or solicitors representing the applicant. It may be necessary that it include other, more specialised persons e.g. an independent computer expert.
-      - cl 7: an “order should be clear about the maximum number of persons permitted to be in the search party. 
-        - The number of people in the search party should be as small as is reasonably practicable.”
+      - cl 7: an "order should be clear about the maximum number of persons permitted to be in the search party. 
+        - The number of people in the search party should be as small as is reasonably practicable."
       - cl 18: just like Mareva orders, the making of a search order will usually be made contingent upon the applicant giving the usual undertaking as to damages.
   - Obligation of candour
     - Injunctions, Mareva orders and Anton Piller orders are often sought urgently on an ex parte basis. 
-      - The absence of the other party is countervailed through the applicant’s obligation of candour. 
-      - The obligation of candour is an obligation to bring to th court’s attention all the material facts, even if those facts are detrimental to the applicant’s case.
+      - The absence of the other party is countervailed through the applicant's obligation of candour. 
+      - The obligation of candour is an obligation to bring to th court's attention all the material facts, even if those facts are detrimental to the applicant's case.
     - Includes raising all the relevant matters which would have been raised by the opposing party if he or she had been present.
     - Applies even if non-disclosure was inadvertent.
 ## Week 9: Costs and Settlement
@@ -10329,9 +10337,9 @@ Week 12: Appeals
 - Costs and Settlement
   - What are costs?
     - Costs are the actual amounts a party is charged or may be charged for legal services provided by a law practice related to the litigation.
-    - s 3 of the Civil Procedure Act 2005 (NSW) defines costs as ‘costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.’
+    - s 3 of the Civil Procedure Act 2005 (NSW) defines costs as 'costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.'
   - Costs agreements
-    - Part 4.3 Division 4 of the Legal Profession Uniform Law (NSW) provides for written costs agreements between solicitors and their clients which form the basis of the solicitors’ professional fees.
+    - Part 4.3 Division 4 of the Legal Profession Uniform Law (NSW) provides for written costs agreements between solicitors and their clients which form the basis of the solicitors' professional fees.
     - s 174: a law practice must:
       - Specify the basis on which costs will be calculated e.g. hourly rate; and
       - Notify the client of any significant change in costs.
@@ -10340,10 +10348,10 @@ Week 12: Appeals
     - Two main types of cost bases:
       - 1. Ordinary basis: 
         - Ordered pursuant to s 98(1)(c) of the CPA. 
-        - “Fair and reasonable amount...for the work concerned”; 
+        - "Fair and reasonable amount...for the work concerned"; 
         - s 76(1) Legal Profession Uniform Law Application Act 2014 (NSW). 
         - Normally considerably less than expenses actually incurred. 
-        - Also referred to as ‘standard party and party’ costs.
+        - Also referred to as 'standard party and party' costs.
       - 2. Indemnity basis: 
         - Also ordered pursuant to s 98(1)(c) of the CPA. 
         - More generous than ordinary basis. 
@@ -10351,7 +10359,7 @@ Week 12: Appeals
 - The primary rule in relation to costs
   - Usually, costs follow the event: 
     - Baulderstone Hornibrook v Gordian Runoff [2006] NSWSC 583. 
-      - Other things being equal, the loser has to pay the winner’s costs (the “loser pays” principle). See r 42.1 of the UCPR.
+      - Other things being equal, the loser has to pay the winner's costs (the "loser pays" principle). See r 42.1 of the UCPR.
       - However, courts have broad discretion to order costs: s 98 CPA
       - See also Pt 42 of the UCPR.
       - In exceptional circumstances courts will depart from this principle.
@@ -10369,23 +10377,23 @@ Week 12: Appeals
       - 3. Costs encourage early settlement; and
       - 4. They are factor relevant to case management decisions under various sections of the CPA, including ss 56(5), 57(1)(d), 60, 61(3)(f), 62(6).
   - Costs as a spur to settlement
-    - Settlements ‘encouraged’ by:
-      - penalising those who don’t settle when they should; and
+    - Settlements 'encouraged' by:
+      - penalising those who don't settle when they should; and
       - supporting institutions designed to ease negotiations.
     - Mechanisms of settlement:
       - Calderbank letters; and
       - Offers of compromise under Pt 42 Div 3 of the UCPR.
   - Calderbank letters
     - Calderbank v Calderbank [1976] Fam 93 (UK case).
-    - ‘Without prejudice’ letter offering to settle for a sum.
+    - 'Without prejudice' letter offering to settle for a sum.
     - They promote settlement of disputes: 
       - Messiter v Hutchinson (1987) 10 NSWLR 525.
-    - Indemnity costs may be awarded where “unreasonable” refusal of settlement offer (no prima facie presumption in favour of indemnity costs).
+    - Indemnity costs may be awarded where "unreasonable" refusal of settlement offer (no prima facie presumption in favour of indemnity costs).
     - Was there a genuine offer of compromise? & Was it unreasonable for the offeree not to accept it?: Miwa Pty Ltd v Siantan Properties Pty Ltd (No.2) [2011] NSWCA 344.
     - 
   - Offers of compromise
     - An offer to settle is made by A to B. 
-      - B does not accept offer and litigation continues. If B subsequently receives a less favourable judgment than what they would have received under A’s offer, B is usually penalised by adverse costs awards.
+      - B does not accept offer and litigation continues. If B subsequently receives a less favourable judgment than what they would have received under A's offer, B is usually penalised by adverse costs awards.
     - Conceptually related to Calderbank offers except explicitly provided for by the UCPR.
     - Regulated by UCPR Part 20 Div 4 and Part 42.
   - Offers of compromise – cost implications
@@ -10393,9 +10401,9 @@ Week 12: Appeals
       - UCPR r 42.13A.
     - D does not accept and P does better: P normally awarded indemnity costs from day of offer: 
       - r 42.14.
-    - P does not accept D’s offer and P does not do better: P entitled to their costs on the normal basis up to the offer and then has to pay D’s costs on an indemnity basis for period after the offer: 	
+    - P does not accept D's offer and P does not do better: P entitled to their costs on the normal basis up to the offer and then has to pay D's costs on an indemnity basis for period after the offer: 	
       - UCPR r 42.15.
-    - NB – court can always ‘otherwise order’ if it sees fit: 
+    - NB – court can always 'otherwise order' if it sees fit: 
       - rr 42.14 & 42.15
     - Table of Costs Scenarios
     - 
@@ -10405,9 +10413,9 @@ Week 12: Appeals
       - r 20.26(5).
     - During the time it is open it can be accepted: 
       - r 20.27.
-    - Offers of compromise are ‘without prejudice’: 
+    - Offers of compromise are 'without prejudice': 
       - r 20.26(9).
-    - If a party accepts an offer of compromise and then reneges, then the other party is entitled to judgment or dismissal of the plaintiff’s case, striking out a defendants defence, etc: 
+    - If a party accepts an offer of compromise and then reneges, then the other party is entitled to judgment or dismissal of the plaintiff's case, striking out a defendants defence, etc: 
       - r 20.29.
     - An offer of compromise can be accepted by serving written notice on the offeror any time within the period of acceptance. Once accepted, any party to the offer can enter judgment in accordance with the offer.
   - Leach v The Nominal Defendant [2014] NSWCA 391
@@ -10415,29 +10423,29 @@ Week 12: Appeals
     - Driver shot at and seriously injured appellant.
     - Appellant brings action against nominal defendant, State Insurance Regulatory Authority (SIRA).
     - SIRA makes an offer focused solely on costs – Court accepts this is a genuine compromise.
-    - If there is a genuine compromise, onus shifts to offeree to show why indemnity costs shouldn’t be levied. 
-    - Sometimes seen as offeree demonstrating “exceptional circumstances.”
+    - If there is a genuine compromise, onus shifts to offeree to show why indemnity costs shouldn't be levied. 
+    - Sometimes seen as offeree demonstrating "exceptional circumstances."
   - The legislative framework for costs
     - The key provisions surrounding costs are s 98 of the CPA and Pt 42 of the UCPR.
     - s 98 CPA:
-      - ‘(1) Subject to rules of court and to this or any other Act:
+      - '(1) Subject to rules of court and to this or any other Act:
         - (a) costs are in the discretion of the court, and
         - (b) the court has full power to determine by whom, to whom and to what extent costs are to be paid, and
-        - (c) the court may order that costs are to be awarded on the ordinary basis or on an indemnity basis.’
+        - (c) the court may order that costs are to be awarded on the ordinary basis or on an indemnity basis.'
   - The UCPR and costs
-    - r 42.1: the general rule is that costs follow the event – but also states: ‘unless it appears to the court that some other order should be made as to the whole or any part of the costs.’
+    - r 42.1: the general rule is that costs follow the event – but also states: 'unless it appears to the court that some other order should be made as to the whole or any part of the costs.'
     - r 42.2: general rule as to assessment of costs:
-      - ‘Unless the court orders otherwise or these rules otherwise provide, costs payable to a person under an order of the court or these rules are to be assessed on the ordinary basis.’
+      - 'Unless the court orders otherwise or these rules otherwise provide, costs payable to a person under an order of the court or these rules are to be assessed on the ordinary basis.'
     - r 42.4: Court may give order to fix maximum costs that may be recovered.
     - r 42.5: gives a sense of how indemnity costs are levied.
     - r 42.6: amendment of pleading etc without leave - must pay costs of amendment.
     - r 42.7: the costs for interlocutory applications are dealt with in same way as general costs.
     - rr 42.8 & 42.9: dispute of fact / document subsequently proved or admitted (i.e. notice to admit/produce). 
       - The requesting party has associated costs assessed on an indemnity basis.
-    - r 42.10: if a party fails to comply with a requirement of the rules, or of any judgment or order of the court, the court may order the party to pay such of the other parties’ costs as are occasioned by the failure.
-    - r 42.19: where plaintiff discontinues proceedings, they must pay defendant’s costs up until date of discontinuance.
-    - r 42.20(1): if the court makes an order for the dismissal of proceedings, the plaintiff must pay the defendant’s costs to the extent to which they have been dismissed.
-    - r 42.20(2): if the court makes an order striking out a defence, the defendant must pay the plaintiff’s costs in relation to those matters in respect of which the defence has been struck out. 
+    - r 42.10: if a party fails to comply with a requirement of the rules, or of any judgment or order of the court, the court may order the party to pay such of the other parties' costs as are occasioned by the failure.
+    - r 42.19: where plaintiff discontinues proceedings, they must pay defendant's costs up until date of discontinuance.
+    - r 42.20(1): if the court makes an order for the dismissal of proceedings, the plaintiff must pay the defendant's costs to the extent to which they have been dismissed.
+    - r 42.20(2): if the court makes an order striking out a defence, the defendant must pay the plaintiff's costs in relation to those matters in respect of which the defence has been struck out. 
     - r 42.32: provides for Smyth orders.
   - Bullock and Sanderson orders
     - Bullock order: the unsuccessful defendants required to pay the plaintiff by way of reimbursement any costs the plaintiff has paid to the successful defendant(s). 
@@ -10448,9 +10456,9 @@ Week 12: Appeals
   - Costs assessment process
     - Costs order does not provide specific amount payable.
     - Parties will try to agree between themselves on the amount of costs payable.
-    - If parties are unable to agree, then winner will arrange for the costs to be quantified or ‘assessed’.
+    - If parties are unable to agree, then winner will arrange for the costs to be quantified or 'assessed'.
     - Two stages: 
-      - winning party prepares a ‘bill of costs’; 
+      - winning party prepares a 'bill of costs'; 
       - costs will be assessed at an informal hearing before an assessor.
   - Costs orders against legal practitioners
     - s 99 of the CPA provides for costs orders against legal practitioners where costs have been incurred:
@@ -10461,9 +10469,9 @@ Week 12: Appeals
       - See Treadwell v Hickey [2010] NSWSC 1119.
     - Supreme Court Practice Note 5 – General Division 
     - Cachia v Hanes (1994) 179 CLR 403 – costs for the litigant in person.
-    - Bell Lawyers v Pentelow [2019] HCA 29 - No exception to Cachia for self-represented legal practitioners (cf the earlier ‘Chorley exception’)
+    - Bell Lawyers v Pentelow [2019] HCA 29 - No exception to Cachia for self-represented legal practitioners (cf the earlier 'Chorley exception')
   - Firth v Latham & Ors [2007] NSWCA 40
-    - Case revolved around what constitutes ‘reasonable prospects of success.’
+    - Case revolved around what constitutes 'reasonable prospects of success.'
     - A local Council was added as a defendant in a case involving an injury caused as a result of a motor vehicle accident.
     - The Council had a total defence under s 43A of the Civil Liability Act 2002 (NSW).
     - The case against the Council was thus commenced without any reasonable prospects of success.
@@ -10476,7 +10484,7 @@ Week 12: Appeals
 
 - Strike out, Summary Disposal, and Vexatious Litigants
   - What is Strike out?
-    - Strike out def refers to a situation where a Court cuts down, or “strikes out”, a party’s pleadings, either in whole or in part.
+    - Strike out def refers to a situation where a Court cuts down, or "strikes out", a party's pleadings, either in whole or in part.
     - The UCPR tightly controls the circumstances in which Strike out can occur – r. 14.28.
     - A concept with a long history in the common law.
   - The role of pleadings
@@ -10486,26 +10494,26 @@ Week 12: Appeals
     - See also Markisic v Department of Community Services of New South Wales (No 2) [2006] NSWCA 321.
   - Strike out – r 14.28
     - r 14.28 is the key rule for Strike out. It provides:
-      - ‘(1) The court may at any stage of the proceedings order that the whole or any part of a pleading be struck out if the pleading:
+      - '(1) The court may at any stage of the proceedings order that the whole or any part of a pleading be struck out if the pleading:
         - (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading, or
         - (b) has a tendency to cause prejudice, embarrassment or delay in the proceedings, or
         - (c) is otherwise an abuse of the process of the court. 
-      - (2) The court may receive evidence on the hearing of an application for an order under subrule (1).’
+      - (2) The court may receive evidence on the hearing of an application for an order under subrule (1).'
   - r 14.28(1)(a) – discloses no reasonable cause of action/defence
     - Similar in some ways to the old demurrer procedure i.e. no evidence is led, it is the wording of the pleading itself.
-    - “A pleading or part thereof will be struck out if the court is satisfied that even if all the allegations of fact set out in the pleading are proved, those facts would not establish the essential ingredients of a cause of action or constitute a defence”
+    - "A pleading or part thereof will be struck out if the court is satisfied that even if all the allegations of fact set out in the pleading are proved, those facts would not establish the essential ingredients of a cause of action or constitute a defence"
   - r 14.28(1)(a) – discloses no reasonable cause of action/defence cont.
     - A hypothetical: a statement of claim alleges a cause of action in negligence and a cause of action in trespass. 
     - The facts in the statement all attest to how the plaintiff saw their neighbour routinely jump their fence and come onto their property.
     - One part of the pleading (trespass) can clearly be made out. 
     - However, there is nothing in the facts that could possibly disclose an action in negligence – that part could be struck-out under r 14.28(1)(a).
   - r 14.28(1)(b) – tends to cause prejudice, embarrassment or delay
-    - “A pleading or part thereof may tend to prejudice, embarrass or delay the fair trial of the proceedings if it contains allegations which are vague or imprecise such that the other party cannot plead to such allegations specifically, or if it contains allegations that are irrelevant, unnecessary or scandalous”:
+    - "A pleading or part thereof may tend to prejudice, embarrass or delay the fair trial of the proceedings if it contains allegations which are vague or imprecise such that the other party cannot plead to such allegations specifically, or if it contains allegations that are irrelevant, unnecessary or scandalous":
     - Priest v New South Wales [2006] NSWSC 12	
   - r 14.28(1)(c) – abuse of process
     - Courts have an inherent jurisdiction to prevent the abuse of their processes.
-    - In Hunter v Chief Constable of West Midland Police [1982] AC 529, at 536, this power was described as preventing a misuse of the court’s procedure in a way “which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it, or would otherwise bring the administration of justice into disrepute among right-thinking people.”
-    - Abuse of the process of the court ‘is insusceptible of a formulation comprising closed categories’ - 
+    - In Hunter v Chief Constable of West Midland Police [1982] AC 529, at 536, this power was described as preventing a misuse of the court's procedure in a way "which, although not inconsistent with the literal application of its procedural rules, would nevertheless be manifestly unfair to a party to litigation before it, or would otherwise bring the administration of justice into disrepute among right-thinking people."
+    - Abuse of the process of the court 'is insusceptible of a formulation comprising closed categories' - 
       - Batistatos v Road and Traffic Authority NSW (2006) 226 CLR 256.
     - Examples of abuse of process include:
       - The institution of proceedings for an improper purpose – 
@@ -10523,21 +10531,21 @@ Week 12: Appeals
       - Destruction of evidence – 
         - Palavi v Queensland Newspapers Pty Ltd (2012) 84 NSWLR 523
   - Court wary of striking-out pleadings
-    - The ordinary presumption of the legal system is that people are entitled to their ‘day in Court’.
+    - The ordinary presumption of the legal system is that people are entitled to their 'day in Court'.
     - That being the case, the power to strike out pleadings is one the Court will only use sparingly and in clear cases.
   - Summary disposal
-    - Summary disposal is a label used to describe applications to the court that can result in proceedings being concluded before a trial.’:
+    - Summary disposal is a label used to describe applications to the court that can result in proceedings being concluded before a trial.':
       - Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4th ed, Thomson Reuters, 2020), 930.
     - Pt 13 of the UCPR provides for (amongst other things):
       - Summary judgment – r 13.1;
       - Frivolous and vexatious proceedings (summary dismissal) – r 13.4;
       - Non-appearance by the plaintiff – r 13.6
   - Difference between summary disposal and Strike out
-    - “Unlike UCPR Pt 13, applications under this rule (here it is talking about r 14.28) are directed to the form of the pleading rather than to the merits, or lack thereof, of the respective parties, and if the application is successful the order usually made is not that the proceedings be struck out or dismissed, but that the pleading or particular parts thereof be struck out, usually with leave given to file an amended document (replead), in which case the proceedings remain on foot.
-    - If on the other hand, the evidence establishes that, no matter how the plaintiff pleads his or her case, he or she has no arguable cause of action and cannot possibly succeed, the proceedings should be dismissed pursuant to r 13.4”:
+    - "Unlike UCPR Pt 13, applications under this rule (here it is talking about r 14.28) are directed to the form of the pleading rather than to the merits, or lack thereof, of the respective parties, and if the application is successful the order usually made is not that the proceedings be struck out or dismissed, but that the pleading or particular parts thereof be struck out, usually with leave given to file an amended document (replead), in which case the proceedings remain on foot.
+    - If on the other hand, the evidence establishes that, no matter how the plaintiff pleads his or her case, he or she has no arguable cause of action and cannot possibly succeed, the proceedings should be dismissed pursuant to r 13.4":
   - Summary disposal – summary judgment, r 13.1
     - r 13.1 provides that:
-      - “(1) If, on application by the plaintiff in relation to the plaintiff's claim for relief or any part of the plaintiff's claim for relief:
+      - "(1) If, on application by the plaintiff in relation to the plaintiff's claim for relief or any part of the plaintiff's claim for relief:
         - (a) there is evidence of the facts on which the claim or part of the claim is based, and
         - (b) there is evidence, given by the plaintiff or by some responsible person, that, in the belief of the person giving the evidence, the defendant has no defence to the claim or part of the claim, or no defence except as to the amount of any damages claimed, 
       - the court may give such judgment for the plaintiff, or make such order on the claim or that part of the claim, as the case requires.
@@ -10551,27 +10559,27 @@ Week 12: Appeals
   - Summary dismissal, r 13.4
     - Whereas summary judgment is for the plaintiff, summary dismissal provides a corresponding right for the defendant.
     - Relevant rule is r 13.4:
-      - ‘(1) If in any proceedings it appears to the court that in relation to the proceedings generally or in relation to any claim for relief in the proceedings:
+      - '(1) If in any proceedings it appears to the court that in relation to the proceedings generally or in relation to any claim for relief in the proceedings:
         - (a) the proceedings are frivolous or vexatious, or
         - (b) no reasonable cause of action is disclosed, or
         - (c) the proceedings are an abuse of the process of the court,
-    - the court may order that the proceedings be dismissed generally or in relation to that claim.’
+    - the court may order that the proceedings be dismissed generally or in relation to that claim.'
   - r 13.4(1)(a) – frivolous or vexatious proceedings
-    - Although related, “frivolous” and “vexatious” are conceptually distinct.
-    - “Material is frivolous where it is without substance, or groundless or fanciful, and it is vexatious where it lacks bona fides and is hopeless or oppressive and tends to cause the opposite side unnecessary anxiety, trouble and expense” 
-      - – Bullen and Leake and Jacob’s Precedents of Pleading (12 th ed, Sweet & Maxwell: 1975), 145.
+    - Although related, "frivolous" and "vexatious" are conceptually distinct.
+    - "Material is frivolous where it is without substance, or groundless or fanciful, and it is vexatious where it lacks bona fides and is hopeless or oppressive and tends to cause the opposite side unnecessary anxiety, trouble and expense" 
+      - – Bullen and Leake and Jacob's Precedents of Pleading (12 th ed, Sweet & Maxwell: 1975), 145.
   - Summary dismissal - procedure
     - Ordinarily summary disposal will be instigated by an application from the defendant i.e. by way of motion (Pt 18 UCPR) supported by affidavit (Pt 35).
-    - HOWEVER, remember the general presumption: “
-      - “Where the court is asked to reject the plaintiff’s case, either under its statutory rules or its inherent jurisdiction, the fundamental principle is that prima facie a plaintiff is entitled to have his case come to trial; and applications to deprive him of that right will succeed only in the clearest of cases...fatal defects in the plaintiff’s case must be very clear before the court will intervene in this fashion”: 
+    - HOWEVER, remember the general presumption: "
+      - "Where the court is asked to reject the plaintiff's case, either under its statutory rules or its inherent jurisdiction, the fundamental principle is that prima facie a plaintiff is entitled to have his case come to trial; and applications to deprive him of that right will succeed only in the clearest of cases...fatal defects in the plaintiff's case must be very clear before the court will intervene in this fashion": 
       - Brimson v Rocla Concrete Pipes Ltd [1982] 2 NSWLR 937, 944.
   - General Steel Industries Inc v Commissioner for Railways (NSW) (1964) 112 CLR 125
     - Key case on summary dismissal/Strike out.
     - Case involved the plaintiff alleging patent infringement against the defendants related to the construction of rail carriage bearings. 
       - The defendants in turn argued this was permitted by ss 125 and 132 of the Patents Act 1952-1960 (Cth).
-      - Barwick CJ agreed, striking out the plaintiff’s statement of claim and dismissing the proceedings.
+      - Barwick CJ agreed, striking out the plaintiff's statement of claim and dismissing the proceedings.
     - Barwick CJ: summary dismissal is a drastic step to be taken with great caution. Over the years, that caution has been expressed as only dismissing cases that are:
-      - So obviously untenable that it couldn’t succeed;
+      - So obviously untenable that it couldn't succeed;
       - Manifestly groundless;
       - So manifestly faulty that it does not admit of argument or cannot possibly succeed;
       - Under no possibility could there be a good cause of action;
@@ -10580,13 +10588,13 @@ Week 12: Appeals
         - Cosmos E-C Comerce v Bidwell [2005] NSWCA 81.
   - r 13.6 – dismissal where plaintiff fails to appear
     - r 13.6 provides for the dismissal of proceedings where the plaintiff fails to appear for a hearing that was adjourned because of their absence.
-    - r 13.6(1): if plaintiff doesn’t turn up for a hearing, then the Court can adjourn to another date. 
-      - Not less than five days before that new date, a notice of the adjournment will be served on the plaintiff advising them that if they don’t turn up for this new date, then their proceedings may be dismissed.
-    - r 13.6(2): court can dismiss plaintiff’s proceedings if given notice of adjourned hearings.
+    - r 13.6(1): if plaintiff doesn't turn up for a hearing, then the Court can adjourn to another date. 
+      - Not less than five days before that new date, a notice of the adjournment will be served on the plaintiff advising them that if they don't turn up for this new date, then their proceedings may be dismissed.
+    - r 13.6(2): court can dismiss plaintiff's proceedings if given notice of adjourned hearings.
   - Default judgments
     - What is a default judgment?
-      - ‘A default judgement applies to proceedings commenced by statement of claim...and is a judgment entered by virtue of court rules rather than one ordered by the court. 
-      - A default judgement can be entered if the defendant is in “default”...’: Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 931.
+      - 'A default judgement applies to proceedings commenced by statement of claim...and is a judgment entered by virtue of court rules rather than one ordered by the court. 
+      - A default judgement can be entered if the defendant is in "default"...': Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 931.
     - Arises in situations of procedural shortcoming defined by r 16.2 e.g. failing to file a defence in time, failing to file any affidavit verifying a defence, having a defence struck out.
       - r 16.3 is the master rule for default judgments.
       - r 16.3(1): plaintiff has to apply for a default judgment.
@@ -10598,38 +10606,38 @@ Week 12: Appeals
       - NB – the affidavit in support must attest to different things depending upon whether the default judgment is for debt or liquidated damages (r 16.6) or unliquidated damages (r 16.7).
   - Overturning a default judgment
     - r 36.16:
-      - ‘(2) The court may set aside or vary a judgment or order after it has bee entered if:
+      - '(2) The court may set aside or vary a judgment or order after it has bee entered if:
         - (a) it is a default judgment (other than a default judgment given in open court), or
-        - (b) it has been given or made in the absence of a party, whether or not the absent party had notice of the relevant hearing or of the application for the judgment or order...’
+        - (b) it has been given or made in the absence of a party, whether or not the absent party had notice of the relevant hearing or of the application for the judgment or order...'
     - Defendant would seek overturn by way of motion supported by an affidavit.
     - The affidavit would lay out the grounds on which the overturn was sought and that there is a defence to the claim that has merit.
-      - The fundamental (but not the only) principles guiding a court asked to exercise the unfettered discretion UCPR r 36.16(2)(a) confers, are whether the applicant has a bona fide ground of defence, an adequate explanation for failure to defend and the length of any delay...In the final analysis, it is necessary to consider whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits...’:
+      - The fundamental (but not the only) principles guiding a court asked to exercise the unfettered discretion UCPR r 36.16(2)(a) confers, are whether the applicant has a bona fide ground of defence, an adequate explanation for failure to defend and the length of any delay...In the final analysis, it is necessary to consider whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits...':
         - Dunwoodie v Teachers Mutual Bank Ltd [2014] NSWCA 24, at [43].
-      - ‘I would only add [to Dunwoodie] that, in my view, in determining whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits, it is appropriate for the Court to consider the relative weight of each of the individual considerations of the strength of any defence, the adequacy of the explanation for the failure to defend proceedings and the length of any delay. 
-      - So that, for example, although the Court does not embark upon a hearing of the full merits of the case, the existence of what would appear to be a strong defence would warrant a more indulgent approach regarding the adequacy of the explanation for the failure to defend.’ 
+      - 'I would only add [to Dunwoodie] that, in my view, in determining whether it is in the interests of justice to allow the party seeking to set aside a default judgment to be permitted to defend the proceedings on the merits, it is appropriate for the Court to consider the relative weight of each of the individual considerations of the strength of any defence, the adequacy of the explanation for the failure to defend proceedings and the length of any delay. 
+      - So that, for example, although the Court does not embark upon a hearing of the full merits of the case, the existence of what would appear to be a strong defence would warrant a more indulgent approach regarding the adequacy of the explanation for the failure to defend.' 
         - Cronau v Vavakis (No 3) [2018] NSWSC 1973, at [5].
   - Dismissal for want of due despatch
     - r 12.7:
-      - ‘(1) If a plaintiff does not prosecute the proceedings with due despatch, the court may order that the proceedings be dismissed or make such other order as the court thinks fit.
-      - (2) If the defendant does not conduct the defence with due despatch, the court may strike out the defence, either in whole or in part, or make such other order as the court thinks fit.’
+      - '(1) If a plaintiff does not prosecute the proceedings with due despatch, the court may order that the proceedings be dismissed or make such other order as the court thinks fit.
+      - (2) If the defendant does not conduct the defence with due despatch, the court may strike out the defence, either in whole or in part, or make such other order as the court thinks fit.'
     - Examples of things which reflect lack of due despatch can include changing solicitors frequently, seeking many adjournments, not abiding by the correct procedural steps etc -
       - Building Insurers' Guarantee Corp. v. Daniel Touma & Ors. [2010] NSWSC 4.
-    - “The central consideration in a want of prosecution case is whether, at the time when the action is likely to be tried, it will be capable of being tried adequately and fairly”: 
+    - "The central consideration in a want of prosecution case is whether, at the time when the action is likely to be tried, it will be capable of being tried adequately and fairly": 
       - McKenna v McKenna [1984] VR 665, 666.
     - Party seeking dismissal for want of due despatch would apply by way of motion supported by affidavit.
-    - NB - r 12.8 allows the Supreme Court and Land and Environment Court to dismiss proceedings of their own accord if it appears from the court’s records that, for over 5 months, no party to the proceedings has taken any step in the proceedings.
+    - NB - r 12.8 allows the Supreme Court and Land and Environment Court to dismiss proceedings of their own accord if it appears from the court's records that, for over 5 months, no party to the proceedings has taken any step in the proceedings.
   - Vexatious litigants
-    - Vexatious litigants form a very small sub-class of litigants who persistently begin legal actions but don’t have sufficient grounds for doing so.
+    - Vexatious litigants form a very small sub-class of litigants who persistently begin legal actions but don't have sufficient grounds for doing so.
     - An example is John Wilson, prominent in the Australian sovereign citizen movement.
     - For the purposes of s 6 of the Vexatious Proceedings Act 2008 (NSW), vexatious proceedings include:
-      - ‘(a) proceedings that are an abuse of the process of a court or tribunal, and
+      - '(a) proceedings that are an abuse of the process of a court or tribunal, and
       - (b) proceedings instituted to harass or annoy, to cause delay or detriment, or for another wrongful purpose, and
       - (c) proceedings instituted or pursued without reasonable ground, and
-      - (d) proceedings that are conducted to achieve a wrongful purpose, or in a way that harasses, or causes unreasonable annoyance, delay or detriment, regardless of the subjective intention or motive of the person who instituted the proceedings.’
+      - (d) proceedings that are conducted to achieve a wrongful purpose, or in a way that harasses, or causes unreasonable annoyance, delay or detriment, regardless of the subjective intention or motive of the person who instituted the proceedings.'
     - Relevant parts of s 8 of Vexatious Proceedings Act 2008 (NSW):
-      - s 8(1): an order can apply to someone who has “frequently” instituted or conducted vexatious proceedings in Australia, or someone working in concert with such a person.
+      - s 8(1): an order can apply to someone who has "frequently" instituted or conducted vexatious proceedings in Australia, or someone working in concert with such a person.
       - s 8(3): the person subject to the order has a right to be heard before that order is made.
-      - s 8(4): an order can be made on the Court’s own motion, or it can be made on the instigation of the Attorney-General, the Solicitor General, the registrar of the Court, a party against or in relation to whom the litigant has commenced vexatious proceedings, or anyone else possessing a sufficient interest.
+      - s 8(4): an order can be made on the Court's own motion, or it can be made on the instigation of the Attorney-General, the Solicitor General, the registrar of the Court, a party against or in relation to whom the litigant has commenced vexatious proceedings, or anyone else possessing a sufficient interest.
       - s 8(7): an order can stay any of their current proceedings, or indeed prohibit them from instituting proceedings in NSW at all.
     - Register of vexatious litigants kept on Supreme Court website:
       - http://www.supremecourt.justice.nsw.gov.au/Pages/sco2_practiceprocedure/SCO2_vexatiousproceedings.aspx#Istherearegisterofvexatiouslitigantsandtheordersthatapplytothem
@@ -10640,21 +10648,21 @@ Week 12: Appeals
       - Cases centre on a wide variety of matters e.g. English-language test, speeding tickets, social security payments, employment decisions and a suspension from studies as a law student.
       - The 2014 case saw the NSW Attorney-General apply to the Supreme Court to have Mr Rahman designated as a vexatious litigant.
     - Justice Adams drew upon Justice Davies in Attorney General in and for the State of NSW v Gargan [2010] NSWSC 1192 in identifying some key considerations:
-      - ‘(a) the test of "frequently" is a less demanding test than was required under s 84 Supreme Court Act 1970;
+      - '(a) the test of "frequently" is a less demanding test than was required under s 84 Supreme Court Act 1970;
       - (b) the term "frequently" is a relative term and must be looked at in the context of the litigation being considered;
       - (c) the number of proceedings considered may be small if the proceedings are an attempt to re-litigate an issue already determined against the person;
     - Key considerations continued:
-      - ‘(d) regard may be had to applications made by the person in proceedings commenced against that person;
+      - '(d) regard may be had to applications made by the person in proceedings commenced against that person;
       - (e) regard may be had to the way the person has behaved and conducted himself or herself in the proceedings before the Court;
       - (f) regard may be had to proceedings in any Australian court or tribunal;
-      - (g) regard may be had to the findings and result in the proceedings under consideration.’
-    - Remember: “the making of such an order is an extreme remedy depriving its object of recourse to the enforcement of the law which is every citizen's ordinary right. 
+      - (g) regard may be had to the findings and result in the proceedings under consideration.'
+    - Remember: "the making of such an order is an extreme remedy depriving its object of recourse to the enforcement of the law which is every citizen's ordinary right. 
       - It is, therefore, not lightly to be made.
 ## Week 11: Enforcing Judgments
 
 - Enforcing Judgments
   - What is judgment enforcement?
-    - ‘Enforcement is the process by which compliance with a determination or order of a court is compelled’: Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 987.
+    - 'Enforcement is the process by which compliance with a determination or order of a court is compelled': Kumar, Legg, Vickovich & Metzger, Civil Procedure in NSW (4 th ed, Thomson Reuters, 2020), 987.
     - Enforcement is pursued by a judgment creditor against a judgment debtor:
       - Judgment debtor: owes money pursuant to court order.
       - Judgment creditor: is owed money pursuant to court order.
@@ -10676,7 +10684,7 @@ Week 12: Appeals
     - Judgment debtors might be tempted to put off paying damages so that inflation whittles away their value.
     - s 101 of the Civil Procedure Act 2005 (NSW): 
       - provides that judgment debts incur interest until paid. 
-      - Interest payable at the ‘prescribed rate’.
+      - Interest payable at the 'prescribed rate'.
     - No interest payable if full amount paid within 28 days of judgment.
   - Writs of execution
     - Writ of execution: court orders addressed to the Sheriff authorising him/her to seize and sell goods, land, money and other assets of a judgment debtor.
@@ -10695,13 +10703,13 @@ Week 12: Appeals
       - Those requiring the payment of money – s 106 CPA; and
       - Those involving mandatory or injunctive orders.
   - When is a judgment enforceable?
-    - s 133 CPA: ‘A judgment or order of the court may not be enforced until it has been entered in accordance with the uniform rules.’
-    - r 36.11(2): ‘Unless the court orders otherwise, a judgment or order is taken to be entered when it is recorded in the court's computerised court record system.’
+    - s 133 CPA: 'A judgment or order of the court may not be enforced until it has been entered in accordance with the uniform rules.'
+    - r 36.11(2): 'Unless the court orders otherwise, a judgment or order is taken to be entered when it is recorded in the court's computerised court record system.'
     - s 17 of the Limitation Act 1969 (NSW): judgment is enforceable for 12 years from when it is entered in the Court records.
   - Orders for examination
     - Orders for examination may sometimes be necessary to ascertain the financial circumstances of the judgment debtor.
     - s 108 CPA: 
-      - the court can order the judgment debtor to attend court to be orally examined and/or to produce documents as to their financial circumstances. Debtor must answer “material questions.”
+      - the court can order the judgment debtor to attend court to be orally examined and/or to produce documents as to their financial circumstances. Debtor must answer "material questions."
     - Relevant UCPR rules: rr 38.1 & 38.2
   - Judgment for the payment of money
     - s 106(1) CPA: judgment for the payment of money can be enforced through three main instruments:
@@ -10723,7 +10731,7 @@ Week 12: Appeals
     - r 39.6(3): land must not be sold before other property unless the judgment debtor requests it.
     - NB – the sheriff requires a valid writ, otherwise they are technically committing trespass.
   - Instalment orders
-    - s 107(1)(b): the court can make an order for the ‘payment of the judgment debt by instalments, payable in such amounts and at such times as are specified in the order.’
+    - s 107(1)(b): the court can make an order for the 'payment of the judgment debt by instalments, payable in such amounts and at such times as are specified in the order.'
     - Two main situations in which an instalment order can be made:
       - 1. As a result of an agreement between the judgment creditor and debtor: r 37.1A;
       - 2. Judgment debtor can apply for one: r 37.2. 
@@ -10736,7 +10744,7 @@ Week 12: Appeals
   - Orders against third parties
     - Two main orders against third parties:
     - Garnishee order
-      - Can target parties that owe the judgment debtor money (e.g. banks) or the debtor’s employer (rr 39.36 & 39.37).
+      - Can target parties that owe the judgment debtor money (e.g. banks) or the debtor's employer (rr 39.36 & 39.37).
       - Judgment creditor applies by way of notice of motion supported by affidavit (rr 39.34 & 39.35).
     - Charging order
       - Order made against the beneficial interest debtor has in any securities.
@@ -10791,7 +10799,7 @@ Week 12: Appeals
       - s 75A(5) – an appeal is by way of a rehearing.
       - s 75A(6) – appellate court has all the powers and duties of the original court.
       - s 75A(7) – the court may receive further evidence.
-      - s 75A(8) – despite ss 7, where the appeal is from a judgment after a trial or hearing on the merits, the court won’t receive further evidence except on special grounds.
+      - s 75A(8) – despite ss 7, where the appeal is from a judgment after a trial or hearing on the merits, the court won't receive further evidence except on special grounds.
     - See Fox v Percy (2003) 214 CLR 118 at [27]; 
     - House v R (1936) 55 CLR 499 at 504–5.
   - Appeal process timeframes

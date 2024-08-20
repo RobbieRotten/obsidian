@@ -1,3 +1,11 @@
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 # Notes
 
 ## Part A: 150ish words
@@ -52,13 +60,13 @@
           - nature and scope of the proposed changes
           - local statistics
           - objections received
-          - history of the venue’s operation.
+          - history of the venue's operation.
           - AM0020H - summarize this
             - Total application $4,377
             - You must make a duplicate of all pages this application and attachments
             - and lodge it at the local police station immediately before or within two working days of lodging the original with L&GNSW
-            - ‘Local consent authority notice’ on likely – the local council or other consent authority –
-            - You must display a copy of ‘Public consultation and site notice’ to the location of the licensed premises
+            - 'Local consent authority notice' on likely – the local council or other consent authority –
+            - You must display a copy of 'Public consultation and site notice' to the location of the licensed premises
             - You must also provide a copy of the notice to:
               - – the occupiers of any building on land adjoining the licensed premises, even if there is a separating road
               - – the occupiers of any building on land situated within 100 metres of the
@@ -66,10 +74,10 @@ boundary of the licensed premises
               - – the stakeholders consulted during the community impact statement (CIS) process.
             - After 2008, There must be a  6-hour closure period (2am - 10 works)
             - Conform to section 3(2) and explain how
-            - Does the local council’s development consent or approval for the premises (if required) allow extended trading hours?
+            - Does the local council's development consent or approval for the premises (if required) allow extended trading hours?
             - Attach a a plan of the licensed premises
-            - a copy of the local council’s development consent or approval for the extended trading hours
-            - FM2007 ‘Notice of intention to apply for liquor licence or a licence authorisation’ form at least 30 days prior to completing this CIS form
+            - a copy of the local council's development consent or approval for the extended trading hours
+            - FM2007 'Notice of intention to apply for liquor licence or a licence authorisation' form at least 30 days prior to completing this CIS form
           - Gather feedback, identify key issues, assess if further consultation is needed	
             - By describing changes you have made to your proposal after talking to your community the CIS will demonstrate how well you handle, and respond to, community issues.
           - Check what buildings are nearby
@@ -101,7 +109,7 @@ boundary of the licensed premises
     - Acquiring a gaming machine
 - 3. Research Strategy: Document the research strategy you used to answer questions (1) and (2) (i.e., what specific databases and search terms did you use to identify the legislation).
 Part B: 1500 words
-- Provide advice to the Authority about whether the Furnace Hotel’s trading hours should be extended
+- Provide advice to the Authority about whether the Furnace Hotel's trading hours should be extended
   - List all the legal elements the Authority needs to be satisfied of in respect of the trading hours application, and explain what issues are raised on your reading of the facts given.
 
   - 5. Interpret the legislative provisions using the principles of statutory interpretation identified in this subject, giving attention (where appropriate) to interpretation legislation, general principles of interpretation, judicial or quasi-judicial decisions, and extrinsic sources.
@@ -147,7 +155,7 @@ Part B: 1500 words
 
 
 Part C: 350 words
-- The Principal Lawyer supervising your work has noticed that that the Authority’s file on this area of law is out of date. 
+- The Principal Lawyer supervising your work has noticed that that the Authority's file on this area of law is out of date. 
 - She asks you to update it by following the instructions below:
   - List FOUR sources that would directly assist in understanding the laws regarding liquor licences in NSW and be relevant to the specific advice you have given above. 
     - The four sources must be selected from the following categories, with no more than one source from each of these six categories:
@@ -275,13 +283,13 @@ D. Final remarks on the implications for The Furnace Hotel's application and com
           - nature and scope of the proposed changes
           - local statistics
           - objections received
-          - history of the venue’s operation.
+          - history of the venue's operation.
           - AM0020H - summarize this
             - Total application $4,377
             - You must make a duplicate of all pages this application and attachments
             - and lodge it at the local police station immediately before or within two working days of lodging the original with L&GNSW
-            - ‘Local consent authority notice’ on likely – the local council or other consent authority –
-            - You must display a copy of ‘Public consultation and site notice’ to the location of the licensed premises
+            - 'Local consent authority notice' on likely – the local council or other consent authority –
+            - You must display a copy of 'Public consultation and site notice' to the location of the licensed premises
             - You must also provide a copy of the notice to:
               - – the occupiers of any building on land adjoining the licensed premises, even if there is a separating road
               - – the occupiers of any building on land situated within 100 metres of the
@@ -289,10 +297,10 @@ boundary of the licensed premises
               - – the stakeholders consulted during the community impact statement (CIS) process.
             - After 2008, There must be a  6-hour closure period (2am - 10 works)
             - Conform to section 3(2) and explain how
-            - Does the local council’s development consent or approval for the premises (if required) allow extended trading hours?
+            - Does the local council's development consent or approval for the premises (if required) allow extended trading hours?
             - Attach a a plan of the licensed premises
-            - a copy of the local council’s development consent or approval for the extended trading hours
-            - FM2007 ‘Notice of intention to apply for liquor licence or a licence authorisation’ form at least 30 days prior to completing this CIS form
+            - a copy of the local council's development consent or approval for the extended trading hours
+            - FM2007 'Notice of intention to apply for liquor licence or a licence authorisation' form at least 30 days prior to completing this CIS form
           - Gather feedback, identify key issues, assess if further consultation is needed	
             - By describing changes you have made to your proposal after talking to your community the CIS will demonstrate how well you handle, and respond to, community issues.
           - Check what buildings are nearby
@@ -324,7 +332,7 @@ boundary of the licensed premises
     - Acquiring a gaming machine
 - 3. Research Strategy: Document the research strategy you used to answer questions (1) and (2) (i.e., what specific databases and search terms did you use to identify the legislation).
 Part B: 1500 words
-- Provide advice to the Authority about whether the Furnace Hotel’s trading hours should be extended
+- Provide advice to the Authority about whether the Furnace Hotel's trading hours should be extended
   - List all the legal elements the Authority needs to be satisfied of in respect of the trading hours application, and explain what issues are raised on your reading of the facts given.
 
   - 5. Interpret the legislative provisions using the principles of statutory interpretation identified in this subject, giving attention (where appropriate) to interpretation legislation, general principles of interpretation, judicial or quasi-judicial decisions, and extrinsic sources.
@@ -370,7 +378,7 @@ Part B: 1500 words
 
 
 Part C: 350 words
-- The Principal Lawyer supervising your work has noticed that that the Authority’s file on this area of law is out of date. 
+- The Principal Lawyer supervising your work has noticed that that the Authority's file on this area of law is out of date. 
 - She asks you to update it by following the instructions below:
   - List FOUR sources that would directly assist in understanding the laws regarding liquor licences in NSW and be relevant to the specific advice you have given above. 
     - The four sources must be selected from the following categories, with no more than one source from each of these six categories:
@@ -500,13 +508,13 @@ D. Final remarks on the implications for The Furnace Hotel's application and com
           - nature and scope of the proposed changes
           - local statistics
           - objections received
-          - history of the venue’s operation.
+          - history of the venue's operation.
           - AM0020H - summarize this
             - Total application $4,377
             - You must make a duplicate of all pages this application and attachments
             - and lodge it at the local police station immediately before or within two working days of lodging the original with L&GNSW
-            - ‘Local consent authority notice’ on likely – the local council or other consent authority –
-            - You must display a copy of ‘Public consultation and site notice’ to the location of the licensed premises
+            - 'Local consent authority notice' on likely – the local council or other consent authority –
+            - You must display a copy of 'Public consultation and site notice' to the location of the licensed premises
             - You must also provide a copy of the notice to:
               - – the occupiers of any building on land adjoining the licensed premises, even if there is a separating road
               - – the occupiers of any building on land situated within 100 metres of the
@@ -514,10 +522,10 @@ boundary of the licensed premises
               - – the stakeholders consulted during the community impact statement (CIS) process.
             - After 2008, There must be a  6-hour closure period (2am - 10 works)
             - Conform to section 3(2) and explain how
-            - Does the local council’s development consent or approval for the premises (if required) allow extended trading hours?
+            - Does the local council's development consent or approval for the premises (if required) allow extended trading hours?
             - Attach a a plan of the licensed premises
-            - a copy of the local council’s development consent or approval for the extended trading hours
-            - FM2007 ‘Notice of intention to apply for liquor licence or a licence authorisation’ form at least 30 days prior to completing this CIS form
+            - a copy of the local council's development consent or approval for the extended trading hours
+            - FM2007 'Notice of intention to apply for liquor licence or a licence authorisation' form at least 30 days prior to completing this CIS form
           - Gather feedback, identify key issues, assess if further consultation is needed	
             - By describing changes you have made to your proposal after talking to your community the CIS will demonstrate how well you handle, and respond to, community issues.
           - Check what buildings are nearby
@@ -549,7 +557,7 @@ boundary of the licensed premises
     - Acquiring a gaming machine
 - 3. Research Strategy: Document the research strategy you used to answer questions (1) and (2) (i.e., what specific databases and search terms did you use to identify the legislation).
 Part B: 1500 words
-- Provide advice to the Authority about whether the Furnace Hotel’s trading hours should be extended
+- Provide advice to the Authority about whether the Furnace Hotel's trading hours should be extended
   - List all the legal elements the Authority needs to be satisfied of in respect of the trading hours application, and explain what issues are raised on your reading of the facts given.
 
   - 5. Interpret the legislative provisions using the principles of statutory interpretation identified in this subject, giving attention (where appropriate) to interpretation legislation, general principles of interpretation, judicial or quasi-judicial decisions, and extrinsic sources.
@@ -595,7 +603,7 @@ Part B: 1500 words
 
 
 Part C: 350 words
-- The Principal Lawyer supervising your work has noticed that that the Authority’s file on this area of law is out of date. 
+- The Principal Lawyer supervising your work has noticed that that the Authority's file on this area of law is out of date. 
 - She asks you to update it by following the instructions below:
   - List FOUR sources that would directly assist in understanding the laws regarding liquor licences in NSW and be relevant to the specific advice you have given above. 
     - The four sources must be selected from the following categories, with no more than one source from each of these six categories:
