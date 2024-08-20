@@ -4,7 +4,7 @@ title: "Law School Notes Repository"
 
 # Welcome to My Law School Notes Repository
 
-Welcome to my comprehensive collection of law school notes. This repository serves as a centralized hub for all the notes I’ve taken throughout my law school journey at UTS. Whether you're a fellow law student, a legal professional, or someone interested in learning more about the law, you’ll find valuable information organized by subject and course.
+Welcome to my comprehensive collection of law school notes. This repository serves as a centralized hub for all the notes I've taken throughout my law school journey at UTS. Whether you're a fellow law student, a legal professional, or someone interested in learning more about the law, you'll find valuable information organized by subject and course.
 
 ## About This Repository
 

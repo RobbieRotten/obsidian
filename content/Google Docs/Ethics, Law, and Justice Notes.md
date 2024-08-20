@@ -8,7 +8,7 @@
       - Expression space of impact
     - Question of whether sentencing court should consider and respond to the interests and concerns of  both the defendant and the victim.
     - Sentencing Act 1991 (Vic) 
-      - members of the deceased’s family submit VIS providing details of impact loss or damage caused
+      - members of the deceased's family submit VIS providing details of impact loss or damage caused
         - Used to assist the court in determining sentence.
   - Three issues for Public in trial
     - the  contentious nature of the VISs
@@ -19,12 +19,12 @@
   - Weird trial practices
     - Typically ask judges to disregard instead of object, but not the case here
       - Also warn barrister beforehand so they know (very casual)
-        - Didn’t happen
+        - Didn't happen
       - Actually live edited the VIS without family input,
         - Took so long court adjourned
         - No justification to what was cut out
       - Separated defendant and victim families
-    - Courts fixed these issues in May 2011 in ‘practice direction’
+    - Courts fixed these issues in May 2011 in 'practice direction'
       - Impact on the conduct of plea
         - Request a preliminary hearing
       - Did not address inter-personal treatment of victims in the courtroom
@@ -126,7 +126,7 @@
     - Service ideal 
       - Pro bono service
   - professional identity
-    - ‘relatively stable and enduring constellation of attributes, beliefs,values, motives, and experiences in terms of which people define themselves in a professional role
+    - 'relatively stable and enduring constellation of attributes, beliefs,values, motives, and experiences in terms of which people define themselves in a professional role
   -  areas of knowledge necessary for success in future legal practice:
     - Technology
     - Practice Skills 
@@ -153,7 +153,7 @@
       - Commitment to accountability
       - Responsibility for the adequate distribution of legal services
 - Six self-management skills
-  - +/- 50% of a person’s happiness is genetically predetermined, 10% external circumstances, 40% personal control
+  - +/- 50% of a person's happiness is genetically predetermined, 10% external circumstances, 40% personal control
     - Independent Learning
       - Control and responsibility for your learning
       - Help with autonomy
@@ -184,12 +184,12 @@
   - Business
     - Project management
   - Data analytics
-    - federal court data is stuck behind PACER’s paywall,  state court data is not all available online, and there is little data on settlements.
+    - federal court data is stuck behind PACER's paywall,  state court data is not all available online, and there is little data on settlements.
   - Data security
     - Terrible data security at most law firms
   -  lawyer unfamiliar with computer-assisted legal research may be found negligent if his or her offline research fails to find relevant authority.
   - Technium
-    - ‘has  grown  its  own  agenda, its own imperative, its own direction’
+    - 'has  grown  its  own  agenda, its own imperative, its own direction'
 - The life of a lawyer
   - Solicitor
     - Office based
@@ -202,7 +202,7 @@
       - Draft contracts, deeds, trusts, wills, leases, etc/.
       - Investigations on behalf of the client
       - Prepare cases for court and arrange witnesses
-      - Trustee, guardian, or executor of a client’s will
+      - Trustee, guardian, or executor of a client's will
       - Legal research 
   - Barrister
     - Legal advice and opinions
@@ -321,11 +321,11 @@
     - Leges sine moribus vanae: 
       - effective laws need the supportof everydaypracticeand belief
     - Ross different law models
-      - lawyer-control model - the lawyer’s knowledge and training means that they know what is best for the client and expect the client to follow their advice;
+      - lawyer-control model - the lawyer's knowledge and training means that they know what is best for the client and expect the client to follow their advice;
       - client-control model - the lawyer provides the technical advice and the client makes the decisions for the lawyer to carry out, be they ethical or not;
       - Cooperative model - a largely relational model where the lawyer and client work together, based on communication, discussion and agreementon the decisions to be taken.
     - Parker and evans four main strands of ethical reasoning
-      - Adversarial advocacy  - the requirement for lawyers to advocate on their client’s behalf within the bounds of the law, regardless of outcome or effect on others;
+      - Adversarial advocacy  - the requirement for lawyers to advocate on their client's behalf within the bounds of the law, regardless of outcome or effect on others;
       - The responsible lawyer - who accepts that, as an officer of the court, there is also an obligation to facilitate the administration of justice; 
       - moral activism - taking the opportunity to improve justice through law reform, public interest law, and client counseling; and an ethics of care - 
         - an approach to practice that is about preserving relationships with clients, between parties, and within communities. 
@@ -363,7 +363,7 @@
     - Reducing return to crime in first-time offenders
   - Societal ambivalence towards drugs of addiction.
 - Lack of rural and/or cheap translators
-  - Often at person’s own cost
+  - Often at person's own cost
 - Tampa incident 2001
   - ordered a navy ship to turn away
   - a merchant vessel which had picked up the survivors of sinking refugee boats at sea
@@ -409,14 +409,14 @@
       - Laments that the crime charged was murder (little leeway and one result), rather than lesser crime (flesh)
       - Withdrew
     - Keen, J
-      - Personally believes they should be pardoned but belives it’s not his place to address Chief Executive, but will follow the law as his job
+      - Personally believes they should be pardoned but belives it's not his place to address Chief Executive, but will follow the law as his job
       - He is not an advocate, law is law, but knows foster loves hall
       - It sucks, but changing the law now would make things worse
       - Affirmed
     - Handy, J
       - Was it a unilateral or bilateral bargain in the cave
       - Did he revoke his offer prior to action taken
-      - 90% of public and 90% of judges want to pardon or token punish, so that’s what it should be
+      - 90% of public and 90% of judges want to pardon or token punish, so that's what it should be
         - With reason as public is crazy
       - Chief Justice proposes that court sentences them to be hanged but another branch pardons them to preserve the integrity of law
       - Not worth courts time and energy, just use common sense 
@@ -448,7 +448,7 @@
       - Estimated cost of service
     - Cost agreement
       - Disclose cost 
-      - client’s right to negotiate
+      - client's right to negotiate
       -  estimate of total legal cost
       - rate of interest
       - dispute process
@@ -497,13 +497,13 @@
       - Acquitted disclosure
     - Re King
       - Police officer did not fully explain offence 
-        - Material suggested he wasn’t really guilty but pleaded so as to not embarrass the victim
+        - Material suggested he wasn't really guilty but pleaded so as to not embarrass the victim
     - Law Society of Tasmania v Richard
       - Did not disclose academic misconduct as he believed it erroneous, and was told that he did not need to 
         - Found to be error-of-judgment
       - University
     - Re AJG
-      - Plagiarism in PLT, was admitted by Solicitors’ Board, but denied by Supreme Court
+      - Plagiarism in PLT, was admitted by Solicitors' Board, but denied by Supreme Court
       - Similar in Re Liveri
     - Re OG (a lawyer)
       - Cheated on an assignment, OG passed but did not disclose while GL did, OG struck from roll
@@ -515,7 +515,7 @@
   - Complaints besides cost issues typically have a limit of 3 years, unless really obvious reason why longer
   - Prothonotary (the keeper of the Roll of Lawyers)
   - Prothonotary of the Supreme Court of New South  Wales v Pangallo
-    - The High Court did not attempt to revisit  the original criminal conviction and confirmed that this  was not the role of disciplinary proceeding some offenses ‘strike at the heart of the justice system’ and conviction of such offenses can provide conclusive evidence of unfitness. 
+    - The High Court did not attempt to revisit  the original criminal conviction and confirmed that this  was not the role of disciplinary proceeding some offenses 'strike at the heart of the justice system' and conviction of such offenses can provide conclusive evidence of unfitness. 
       - Bribery
   - There are two types of events that require compulsory disclosure: 
     - automatic show cause events 
@@ -568,7 +568,7 @@
         - Child is the client and instructs lawyer
         - Sui juris
           - Not to have the legal capacity to bring the proceedings 
-          - Will often have a tutor, they may be ignored if doing something against client’s best interest
+          - Will often have a tutor, they may be ignored if doing something against client's best interest
         - Includes disabled people
     - The representation of children under the Family Law Act 1975 (Cth)
       - Parenting orders
@@ -579,14 +579,14 @@
       - Cannot decline for moral reasons
     - Solicitor casn decline for moral reasons
   - Solicitors lien
-    - Entitled to refuse to hand over any documents or property of the client (including money) in solicitor’s possession
+    - Entitled to refuse to hand over any documents or property of the client (including money) in solicitor's possession
 - Disbursements
   - Disbursement
     - Outlays
       - Expenses paid by a law practice in the course of providing those services. 
 - Duty to Account
-  - a lawyer who receives funds on behalf of a client acts as a “trustee™ of those funds
-  - Must be held in lawyer’s trust account
+  - a lawyer who receives funds on behalf of a client acts as a "trustee™ of those funds
+  - Must be held in lawyer's trust account
     - Full and accurate records to deposits and withdraws
     - Only client authority can typically handle trust
     - Externally audited yearly
@@ -602,7 +602,7 @@
     - Cannot file a claim or defense unless a win is possible
     - If one does file without a chance, it may be professional misconduct
   - Uniform Civil Procedure Rules (UCPR) Statement of Claim form
-    - Certification of ‘reasonable prospect of success’
+    - Certification of 'reasonable prospect of success'
       - Concerned reasonably on the basis of probable and factual view of the law that the claim has reasonable…
     - Lemoto vs Able Technical Pty Ltd (Lemoto)
       - Appellant: Lemoto was solicitor for third responder
@@ -643,8 +643,8 @@
   - Two issues cause 80% of claims
     - poor communication resulting in a lack of common understanding between solicitor and client
     - Inadequate work processing systems to help solicitors and support staff ensure that a consistently high standard of work is achieved in each and every matter
-  - Advocates’ immunity
-    -  Won’t be sued by client in relation where the work of the lawyer is not only intimately connected with the conduct of the case, but also functionally connected to the judge’s decision.
+  - Advocates' immunity
+    -  Won't be sued by client in relation where the work of the lawyer is not only intimately connected with the conduct of the case, but also functionally connected to the judge's decision.
 - The Lawyer-Client relationship - The Duty of Loyalty
   - Duty of Loyalty
     - a duty to act in good faith, a duty of confidentiality (rule 9) and a duty to avoid conflict with the interests of the client.
@@ -654,18 +654,18 @@
     - Law Society of New South Wales v Harvey
       - the duty to act in good faith elements:
         - the lawyer must not permit their own interests to override those of the client 
-          - the client’s interests are paramount;
+          - the client's interests are paramount;
         - the nature of the lawyer's interest must be fully disclosed to the client;
         - Where a conflict of interest can be avoided, it should be avoided;
           - where a conflict of interest nevertheless remains, the lawyer should advise the client to obtain independent legal advice,
-          - or consider withdrawing from the transaction; and the lawyer's interests have the potential to abuse the client’s position
+          - or consider withdrawing from the transaction; and the lawyer's interests have the potential to abuse the client's position
         - Practitioner acts honestly and with diligence
   - Confidentiality 
     - Equitable doctrine of confidence protects client prior to the creation of, or in the absence of,a retainer.
       - Permitted disclosure
         - the client expressly or impliedly authorises disclosure;
         - the solicitor is permitted or is compelled by law to disclose;
-        - the solicitor discloses the information in a confidential setting, for the sole purpose of obtaining advice in connection with the solicitor’s legal or ethical obligations
+        - the solicitor discloses the information in a confidential setting, for the sole purpose of obtaining advice in connection with the solicitor's legal or ethical obligations
         - the solicitor discloses the information for the sole purpose of avoiding the probable commission of a serious criminal offense
         - the solicitor discloses the information for the purpose of preventing
         - imminent serious physical harm to the client or to another person;or
@@ -676,17 +676,17 @@
       - not advise the client how to carry out or conceal that course;
       - not inform the court or the opponent of the client's intention unless:
         - (a)the client has authorized the practitioner to do so beforehand;or
-        - (b)the practitioner believes on reasonable grounds that the client's conduct constitutes a threat to any person’s safety."
+        - (b)the practitioner believes on reasonable grounds that the client's conduct constitutes a threat to any person's safety."
     - Esso Australia Resources Ltd v Commissioner of Taxation
       - Dominant purpose test
-        - Don’t have to disclose if it’s for the dominant purpose of obtaining, or giving, legal advice. 
+        - Don't have to disclose if it's for the dominant purpose of obtaining, or giving, legal advice. 
         - Does not include fraud or criminal activity
     - Abrogate
       - Repeal law/statue
   - Grant v Downs
     - defined the extent of legal professional privilege until amendments to the uniform Evidence Acts 1995
       - Sole purpose test
-        - documents brought into existence for the ‘sole purpose’ of submission to legal advisers for advice or for use in legal proceedings
+        - documents brought into existence for the 'sole purpose' of submission to legal advisers for advice or for use in legal proceedings
       - Esso Australia Resources Ltd v Commissioner of Taxation (Esso).
         - Found that if information is confidential,
           - information contained in a verbal or written communication made with the dominant purpose of obtaining, or giving, legal advice.
@@ -701,7 +701,7 @@
   - Documents include digitally store information
     - Provide evidence to both sides of whatever will be used in court, and who posses them, and why you may not posses it
   - McCabe v British American Tobacco Australia Services Ltd (McCabe)
-    - Advised client to adopt a “document retention policy” 
+    - Advised client to adopt a "document retention policy" 
       - Shred certain reports 
       - Public outrage, used in US JD lawsuit against tobacco
   - Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015 (Cth)
@@ -710,7 +710,7 @@
   -  Newman v Phillips Fox barriers to act for a former client
     - breach of a duty of confidence;
     - breach of a duty of loyalty;and
-    - the court's inherent jurisdiction over the conduct of solicitors as officers of the court”
+    - the court's inherent jurisdiction over the conduct of solicitors as officers of the court"
   - information barrier arrangement
     - Organizations prevent the flow of information from one department to the other.
     - Rebuttal to conflict of interest of one partner or employee knowing info
@@ -718,12 +718,12 @@
       - Tecnicas Reunidas SA v Andrew
     - Unsuccessful case
       -  APT Ltd and Optus Networks Pty Ltd
-- The Lawyer’s Duty to the Court and the Proper Administration of Justice
+- The Lawyer's Duty to the Court and the Proper Administration of Justice
   - Duty to the court - to act with honesty and candor
     - Uniform Conduct Rules (Solicitors) r 19.1
       - a solicitor must not deceive or knowingly or recklessly mislead the court.
   - Tuckiar v The King
-    - barrister seemed to have formed the view of the client’s guilt and had failed to do all he could to properly defend the matter and represent his client's interests.
+    - barrister seemed to have formed the view of the client's guilt and had failed to do all he could to properly defend the matter and represent his client's interests.
   - If client confesses guilt (if guilty)
     - Lawyer fights due process, and evidence presented
     - Cannot lie and suggest someone else committed it
@@ -732,10 +732,10 @@
     - Lawyer must refuse to take any further part in the case unless the client authorizes the lawyer to inform the court of the lie or falsification. 
     - Cannot inform the court without client authority
   - Universal Music Australia Pty Ltd v Sharman License Holdings Ltd
-    - Expert witness called on behalf of Sharman had allowed material suggested by Sharman’s solicitors to be written into his report
+    - Expert witness called on behalf of Sharman had allowed material suggested by Sharman's solicitors to be written into his report
   - A lawyer will not have breached the duty owed to the client by making an independent judgment as to how the case should be run.
     - Uniform Conduct Rules (Solicitors) r 17.2
-  - D’orta-ekenaike v Victoria Legal Aid
+  - D'orta-ekenaike v Victoria Legal Aid
     - Finality test
       - Cannot be tried further
     - Justified advocates immunity
@@ -748,13 +748,13 @@
   - post 90s
     - Independent prosecution services
       - Office of the Director of Public Prosecutions (DPP)
-      - Prosecuting lawyers referred to as “the crown”
+      - Prosecuting lawyers referred to as "the crown"
         - represent the Crown in criminal proceedings and to present evidence and arguments to secure a conviction.
-      - Minister of justice, don’t struggle for conviction like defense struggles
+      - Minister of justice, don't struggle for conviction like defense struggles
   - Police prosecutors exist for minor offenses (they are police who prosecute for $ offenses)
 - Liability to third parties
   -  Hill v Van Erp
-    - solicitor had asked a potential beneficiary’s husband to witness a client's will, rendering the gift to that beneficiary invalid under the relevant Queensland legislation.
+    - solicitor had asked a potential beneficiary's husband to witness a client's will, rendering the gift to that beneficiary invalid under the relevant Queensland legislation.
       - It was held that the solicitor was liable to the beneficiary in negligence
   -  Badenach v Calvert
     - negligent for failing to advise the client on how to protect his estate against a claim by his daughter 
@@ -762,13 +762,13 @@
     - Found that he did not owe a duty to the beneficiary that was not coincident with the interests of the client
   - McFee v Reilly
     - Disabled husband provided for son, wife came in and removed son to give to daughters
-    - Son sued and “solicitor owed a duty to the beneficiary to ensure that the wishes of the client (father)were protected”
+    - Son sued and "solicitor owed a duty to the beneficiary to ensure that the wishes of the client (father)were protected"
   - non-client beneficiary to a will
-    - a solicitor will be liable to a third party where the intention of the client to benefit a third party “was the primary or direct purpose of the legal transaction” but the third party has been denied that benefit because of an act or omission on the part of the solicitor.
+    - a solicitor will be liable to a third party where the intention of the client to benefit a third party "was the primary or direct purpose of the legal transaction" but the third party has been denied that benefit because of an act or omission on the part of the solicitor.
     - It has also been held that:
-      - Where a third party holds a remainder interest in a property in which the solicitor’s client has a life interest, the solicitor may have a duty to that third party;
+      - Where a third party holds a remainder interest in a property in which the solicitor's client has a life interest, the solicitor may have a duty to that third party;
       - when acting for a bankrupt client, a solicitor may have a duty of care in relation to information provided to the trustee in bankruptcy;"
-      - And where a solicitor creates a “reasonable expectation” on the part of a third party that the solicitor will act with “reasonable care” toward the interests of the third party,” the solicitor has a duty of care in relation to that third party.
+      - And where a solicitor creates a "reasonable expectation" on the part of a third party that the solicitor will act with "reasonable care" toward the interests of the third party," the solicitor has a duty of care in relation to that third party.
 - The Lawyer's Duty to Other Members of the Profession and to Third Parties
   - Third parties lawyers  deal with
     - Expert witnesses
@@ -777,12 +777,12 @@
     - Service provider
     - Law firm staff
   - Forceful and vigorous advocacy
-    - Lawyers must be courteous regardless of current client (don’t burn bridges)
+    - Lawyers must be courteous regardless of current client (don't burn bridges)
     - Theres a difference between forceful and vigorous advocacy and discourteous behavior
       - Some include threats, insults, harassment and derogatory comments
   - Duty to other lawyers - Negotiation
     - Have to be fair and honest
-      - Cannot knowingly make a false statement to an opponent in relation to a case (including its compromise)’
+      - Cannot knowingly make a false statement to an opponent in relation to a case (including its compromise)'
       - Must correct statement if found to be false
       - Rule 34.1 
         - Rules for negotiation
@@ -797,14 +797,14 @@
       - Employer is held responsible for employee undertakings (includes non-lawyer)
     - Lawyer's duty to the client overrides the duty owed to a fellow lawyer, except in official court capacity
     - Law Society of New South Wales v Autore
-      - Lawyer argued that payment of counsel's fees was a personal undertaking, not one of practice’s
-      - Failed, tribunal ruled that ‘failure by a solicitor to honor an undertaking given in a personal capacity, may still amount to professional misconduct’
+      - Lawyer argued that payment of counsel's fees was a personal undertaking, not one of practice's
+      - Failed, tribunal ruled that 'failure by a solicitor to honor an undertaking given in a personal capacity, may still amount to professional misconduct'
     - Undertaking use cases
-      - A solicitor’s payment of bills in order to effect a property settlement
+      - A solicitor's payment of bills in order to effect a property settlement
       - an undertaking given to the lawyer's professional organization to provide documents in response to a complaint
-      - One given to meet another firm’s costs upon the transferring of a file
-  - Duty to other lawyers - not communicating with another lawyer’s client
-    - If both parties are represented, don’t talk to opponent client without asking opponent lawyer
+      - One given to meet another firm's costs upon the transferring of a file
+  - Duty to other lawyers - not communicating with another lawyer's client
+    - If both parties are represented, don't talk to opponent client without asking opponent lawyer
       - Can only inform client that they did not reply
   - Duty to other lawyers - not communicating with another lawyer or government authority
     - Cannot take an unfair advantage of the obvious error of another solicitor or person if you would get an unearned advantage
@@ -816,7 +816,7 @@
       - Intention to deceive
     - Allegations against another lawyer must be bona fide and on reasonable grounds
   - Duty to other lawyers - transfer of client (most states)
-    - If a client terminates a lawyer’s engagement before completion of a matter and instructs another lawyer to take over the matter
+    - If a client terminates a lawyer's engagement before completion of a matter and instructs another lawyer to take over the matter
       - When the first lawyer receives a direction from the second,the first lawyer should promptly provide to the second all documents and other information necessary to the proper conduct of the matter.
       - That obligation is, of course, subject to any lien claimed for unpaid costs 
         - which the second lawyer has an obligation to secure on behalf of the first lawyer.
@@ -828,21 +828,21 @@
     - Be nice to counsel (barrister) 
     - Solicitor briefs and pays barrister, not client (get money from client)
     - Model Litigant - government dpp
-      - does not take a ‘win at all costs’ approach to litigation,
+      - does not take a 'win at all costs' approach to litigation,
       - but adopts an approach that aims to produce a fair resolution of the matter
       - Avoid litigation and keep litigation to a minimum
-  - The lawyer’s duty to third parties
+  - The lawyer's duty to third parties
     - Uniform Conduct Rules (Solicitors) r 34
     - Communication with third parties
       - Lawyers should not make representations asserted as true, but which they know to be untrue.
         - For example, a lawyer must not assert that they have been instructed to take a particular course of action in the absence of such instructions, or seek payment of costs from the third party when the lawyer knows that there is no entitlement to make such a claim.
-      - The lawyer must not make statements that are designed to mislead or intimidate the third party or that ‘grossly exceed’ the legitimate claims of the client's case. 
+      - The lawyer must not make statements that are designed to mislead or intimidate the third party or that 'grossly exceed' the legitimate claims of the client's case. 
         - This would include, for example, making a grossly exaggerated assertion as to the quantum of a client's claim or remedies available against the third party.
       - A lawyer must not threaten to commence criminal or disciplinary proceedings against another person if that person fails to satisfy any civil liability(a debt, for example) to the lawyer's client.
-        - You can actually report the person, just can’t threaten to do so
+        - You can actually report the person, just can't threaten to do so
   - The self-represented litigant
-    - not subject to the ethical constraints applied to lawyers in the conduct of their client’s case.
-    - Counsel may have to assist, even if it hurts client’s case
+    - not subject to the ethical constraints applied to lawyers in the conduct of their client's case.
+    - Counsel may have to assist, even if it hurts client's case
   - An abuse of process is the improper or unjust use of the legal system, such as using legal proceedings to harass or intimidate someone, or to gain an advantage in a case
     - Civility
       - legal and ethical principles that govern the behavior and conduct of lawyers in their interactions with other legal practitioners, clients, and members of the public.
@@ -881,7 +881,7 @@ Final Exam Prep
     - Complaints besides cost issues typically have a limit of 3 years, unless really obvious reason why longer
     - Prothonotary (the keeper of the Roll of Lawyers)
     - Prothonotary of the Supreme Court of New South  Wales v Pangallo
-      - The High Court did not attempt to revisit  the original criminal conviction and confirmed that this  was not the role of disciplinary proceeding some offenses ‘strike at the heart of the justice system’ and conviction of such offenses can provide conclusive evidence of unfitness. 
+      - The High Court did not attempt to revisit  the original criminal conviction and confirmed that this  was not the role of disciplinary proceeding some offenses 'strike at the heart of the justice system' and conviction of such offenses can provide conclusive evidence of unfitness. 
         - Bribery
     - There are two types of events that require compulsory disclosure: 
       - automatic show cause events 
@@ -891,14 +891,14 @@ Final Exam Prep
         - non-compliance with conditions on a practicing certificate,
         - providing unauthorized services,
         - non-compliance with professional indemnity insurance requirements
-- Lawyer’s Duties
+- Lawyer's Duties
   - Duty to disclose
     - Confidentiality 
       - Equitable doctrine of confidence protects client prior to the creation of, or in the absence of,a retainer.
         - Permitted disclosure
           - the client expressly or impliedly authorises disclosure;
           - the solicitor is permitted or is compelled by law to disclose;
-          - the solicitor discloses the information in a confidential setting, for the sole purpose of obtaining advice in connection with the solicitor’s legal or ethical obligations
+          - the solicitor discloses the information in a confidential setting, for the sole purpose of obtaining advice in connection with the solicitor's legal or ethical obligations
           - the solicitor discloses the information for the sole purpose of avoiding the probable commission of a serious criminal offense
           - the solicitor discloses the information for the purpose of preventing
           - imminent serious physical harm to the client or to another person;or
@@ -909,10 +909,10 @@ Final Exam Prep
         - not advise the client how to carry out or conceal that course;
         - not inform the court or the opponent of the client's intention unless:
           - (a)the client has authorized the practitioner to do so beforehand;or
-          - (b)the practitioner believes on reasonable grounds that the client's conduct constitutes a threat to any person’s safety."
+          - (b)the practitioner believes on reasonable grounds that the client's conduct constitutes a threat to any person's safety."
       - Esso Australia Resources Ltd v Commissioner of Taxation
         - Dominant purpose test
-          - Don’t have to disclose if it’s for the dominant purpose of obtaining, or giving, legal advice. 
+          - Don't have to disclose if it's for the dominant purpose of obtaining, or giving, legal advice. 
           - Does not include fraud or criminal activity
   - Duty to advise
     - Informing client what the law is
@@ -925,14 +925,14 @@ Final Exam Prep
       - Cannot file a claim or defense unless a win is possible
       - If one does file without a chance, it may be professional misconduct
     - Uniform Civil Procedure Rules (UCPR) Statement of Claim form
-      - Certification of ‘reasonable prospect of success’
+      - Certification of 'reasonable prospect of success'
         - Concerned reasonably on the basis of probable and factual view of the law that the claim has reasonable…
       - Lemoto vs Able Technical Pty Ltd (Lemoto)
         - Appellant: Lemoto was solicitor for third responder
         - Just because he lost does not mean he did not have a reasonable prospect of success
   - Duty to Account
-    - a lawyer who receives funds on behalf of a client acts as a “trustee™ of those funds
-    - Must be held in lawyer’s trust account
+    - a lawyer who receives funds on behalf of a client acts as a "trustee™ of those funds
+    - Must be held in lawyer's trust account
       - Full and accurate records to deposits and withdraws
       - Only client authority can typically handle trust
       - Externally audited yearly
@@ -972,20 +972,20 @@ Final Exam Prep
       - Law Society of New South Wales v Harvey
         - the duty to act in good faith elements:
           - the lawyer must not permit their own interests to override those of the client 
-            - the client’s interests are paramount;
+            - the client's interests are paramount;
           - the nature of the lawyer's interest must be fully disclosed to the client;
           - Where a conflict of interest can be avoided, it should be avoided;
             - where a conflict of interest nevertheless remains, the lawyer should advise the client to obtain independent legal advice,
-            - or consider withdrawing from the transaction; and the lawyer's interests have the potential to abuse the client’s position
+            - or consider withdrawing from the transaction; and the lawyer's interests have the potential to abuse the client's position
           - Practitioner acts honestly and with diligence
   - Duty of confidence - confidentiality
     - Lake bodies pleasant case
     -  Newman v Phillips Fox barriers to act for a former client
       - breach of a duty of confidence;
       - breach of a duty of loyalty;and
-      - the court's inherent jurisdiction over the conduct of solicitors as officers of the court”
+      - the court's inherent jurisdiction over the conduct of solicitors as officers of the court"
     - See duty of disclosure
-- ASCR  summary for this exam, other’s not that important
+- ASCR  summary for this exam, other's not that important
   - 3 
     - Paramount duty to the court and the administration of justice
   - 4
