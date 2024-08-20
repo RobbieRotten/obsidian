@@ -1,0 +1,1335 @@
+# Cheat Sheet
+
+- Hierarchy of Sources and Jus Cogens
+### .
+
+- Montevideo Convention on the Rights and Duties of States
+  - Article 1
+    - The state as a person of international law should possess the following qualifications: 
+      - (a) a permanent population; 
+      - (b) a defined territory; 
+      - (c) government; and 
+      - (d) capacity to enter into relations with the other states.
+  - Article 3
+    - The political existence of the state is independent of recognition by the other states. 
+    - Even before recognition the state has the right to defend its integrity and independence, to provide for its conservation and prosperity, and consequently to organize itself as it sees fit, to legislate upon its interests, administer its services, and to define the jurisdiction and competence of its courts. 
+    - The exercise of these rights has no other limitation than the exercise of the rights of other states according to international law.
+  - Article 4
+    - States are juridically equal, enjoy the same rights, and have equal capacity in their exercise. 
+    - The rights of each one do not depend upon the power which it possesses to assure its exercise, but upon the simple fact of its existence as a person under international law.
+  - Article 6
+    - The recognition of a state merely signifies that the state which recognizes it accepts the personality of the other with all the rights and duties determined by international law. 
+    - Recognition is unconditional and irrevocable.
+  - Article 7
+    - The recognition of a state may be express or tacit. The latter results from any act which implies the intention of recognizing the new state.
+- Montevideo summary
+  - Criteria for Statehood - population size
+    - Reasonable Stability of Population
+      - A territory with a sparse population, mostly consisting of nomadic tribes (Western Sahara Ad Op)
+  - Criteria for Statehood - Territory
+    - What is the minimum size of a territory in international law?
+    - Must all of a state’s territory be populated?
+    - Does a territory need to have defined borders?
+  - Criteria for Statehood - Government
+    - What form of government must a state have?
+      - –‘effective’ see eg Aaland Islands Case
+      - –Exceptions?
+    - What is the effect of civil war?
+  - Criteria for Statehood - Capacity to enter into relations with other states
+    - Essential requirement connected to concept of independence
+    - Must be legally independent from other states and have no limitations on its capacity to enter into agreements
+    - Does not take economic or political pressures on a state into account
+    - Situations not affecting formal independence:
+      - – Delegation of certain functions (ie military) not seen to affect independence
+      - – Voluntary Surrender:
+        - – ‘the right of entering into international engagements is an attribute of sovereignty’ SS Wimbledon Case (PCIL 1923)
+  - Key Questions:
+    - Is there a relationship of subordination and superiority? (Austro-German Custom Union Case)
+    - Any external sovereignty? Ie subordination to a different state?
+      - – Norfolk Island
+      - – Hong Kong
+    - This is a separate consideration to a state’s subordination to PIL
+  - Other Criteria for Statehood?
+    - Membership in International Orgs – Art 4 UN Charter requires ‘peace loving state’ that accepts and carries out obligations under the charter.
+    - States that act ‘lawfully’
+    - Apartheid South Africa:
+      - Were Bantustans a State under PIL?
+    - Southern Rhodesia: [see H&S p 106-7]
+    - Self-determination
+## Week 1: Introduction to International Law
+
+-  International Law
+  - Public international law = PIL def
+  - THE SCOPE AND NATURE OF INTERNATIONAL LAW
+    - The central core of international law def may be described as the body of rules and principles that determine the rights and duties of States, primarily in respect of their dealings with other States and the citizens of other States
+    - Archetypal international law def
+      - concerned with the rights and duties of States towards one another
+      - but the principles, materials and techniques of international law are applied much more widely. 
+    - International law is not a unified, manufactured system, imposed upon the world of international or inter-communal relations
+    - The rules of international law cover whatever topics happen to have been regarded as appropriate for legal solution on the international plane
+    - It is often asserted that international law in its modern form dates from the Treaty of Westphalia def in 1648, which is said to have ‘created’ the system of modern nation-State
+      - The forms—treaties, embassies, claims to jurisdiction or immunity, to territory and nationality, and so on—go back far beyond the Treaty of Westphalia; and it is in the forms and formulas of governmental intercourse that the lifeblood of international law has always flowed.
+  - 1.3 THE CHANGING SCOPE OF INTERNATIONAL LAW
+    - Modern international human rights law def
+      - The making in 1948 of the Universal Declaration of Human Rights, along with the adoption of regional instruments such as the 
+        - American Declaration of the Rights of Man in 1948 
+        - European Convention on Human Rights in 1950
+        - followed by
+          -  1981 African Charter on Human and People’s Rights, 
+          - 1994 Arab Charter on Human Rights
+  - 1.4 THE EMERGENCE OF INTERNATIONAL ORGANIZATIONS
+    - establishment in 1871 of the arbitration tribunal that settled the United States’ claims against Britain for compensation for the damage inflicted upon the Union by the confederate warship Alabama during the American Civil War
+    - It led to the establishment of the Permanent Court of International Justice (PCIJ) under the League of Nations, and its successor, the International Court of Justice (ICJ), under the United Nations.
+  - 1.5 THE EMERGENCE OF NEW INTERNATIONAL ACTORS
+    - Companies have an easier time negotiating with foreign powers and the resources to do so, rather than letting their state negotiate for them with complicated interests to further
+      - Supported by 1965 Convention on the Settlement of Investment Disputes Between States and Nationals of Other States (the ICSID Convention), the NAFTA, and the Energy Charter Treaty.
+    - Human rights changes
+      - This right of individual petition def 
+        - introduced in the 1950 European Convention on Human Right
+        - Added in addition to the right of states to file against other states
+      - Non-Governmental Organizations (NGOs) have secured an acknowledged place within the international legal system.
+        - Conventions, such as the 1978 American Convention on Human Rights, permit applications to be made by representative organizations.
+  - 1.6 WHY DO PEOPLE COMPLY WITH INTERNATIONAL LAW?
+    - Treaties def are, therefore, commitments that States have already decided that it is in their interest to comply with.
+    - Rules of customary international law def
+      - Rules that are consistently followed such as the historic immunity to envoys/medics/messengers
+    - Countries will typically follow the laws and treaties they’ve signed because they were not forced to sign them to begin with, and as such see the benefit
+    - Arguments you use may be used against you
+  - 1.7 WHY SHOULD PEOPLE COMPLY WITH INTERNATIONAL LAW?
+    - Rule of law, mandate of heaven, swear by religion when making treaties, etc
+    - Eventually shifted towards secular reasoning based on ‘consent of the governed’ 
+      - Positivist def 
+        - the authority of international law derived from the fact that States had—or were to be treated as if they had—consented to be bound by its rules, and not from any external source such as the ‘will of God’ or ‘the natural order’
+      - Jus cogens def:
+        - Rules that are binding on all States regardless of whether or not the States have consented to be bound by them
+        - A.K.A. Peremptory norms def
+  - 1.8 HOW INTERNATIONAL LAW IS INVOKED AND APPLIED
+    - illocution: that is, approximately, the implicit meaning that the speaker intends to communicate when saying something.
+  - 1.9 THE DOMESTIC ANALOGY
+    - Requesting borrowed book back from student on university stationary, makes it official and formal 
+    - Many choices that can change the context, including hinting at police or court involvement
+    - By using a university tribunal, lends credence to the existence of the tribunal itself, and makes their existence more of a factor in the calculations of members of the community.
+    - The law succeeds if it secures enough compliance to enable civilized social life to proceed and if its enforcement is sufficiently effective, impartial, and non-discriminatory to satisfy the basic demands of justice. 
+- Aboriginal Peoples, Colonialism and International Law: Raw Law
+  - Indigenous Ways
+    - Global colonialism has damaged our relationships with the natural world; many First Nations Peoples have no land base and live within cities, suburbs and country towns
+      - But still hold the law, the stories and the songs for country
+  - Transforming the space 
+    - the end result of assimilation is the death of the native
+      - it goes against our law ways and as such we have an obligation to resist it. 
+  - International processes and mechanisms 
+    - UN Declaration on the Rights of Indigenous Peoples was adopted in September 2007.
+      - Article 42 of the UNDRIP
+        -  UNPFII is charged with integrating the declaration into its work and monitoring the effectiveness of its implementation
+        - Only source of law is customary international law
+  - Indigenous philosophy
+    - Murrabina def is a declaration, an agreement with the spirit world, the air, earth, water, fire, animals, plants, rocks, and the fullness and oneness of creation, for the continuance of law, land and peoples, an agreement to engage in the wholeness of the creative process of living in law.
+    - Muldarbi def
+      - original meaning as demon spirit 
+      - failure to recognize Indigenous law and connection to land
+- The Sources of International Law
+  - Generally
+    - Article 38(1) Distinction:
+      - Sub-paragraphs (a)-(c): Address the pedigree of international law rules.
+      - Sub-paragraph (d): Enumerates means for determining alleged rules of international law.
+    - Law-Creating Processes:
+      - For the World Court to apply a rule, it must stem from treaties, international customary law, or general principles recognized by civilized nations.
+      - This enumeration excludes other potential sources like natural law or moral postulates.
+    - Court’s Obligation:
+      - The Court must consider any rule from these three law-creating processes.
+      - The rule’s origin (humanity considerations, civilization standards) is irrelevant if it aligns with these processes.
+    - Ex aequo et bono def Decisions:
+      - The Court can decide cases ex aequo et bono (equity) only with parties' agreement, which must itself be treaty-based.
+    - Formal vs. Material Sources:
+      - Formal sources give legal validity (e.g., customs).
+      - Material sources provide substance (e.g., state practice), serving as evidence of these customs.
+    - Order of Application:
+      - There was a debate about indicating an order of precedence for applying these sources (treaties before customs, etc.).
+      - Ultimately, it was decided to avoid prescribing a strict order to allow for simultaneous application and respect the unique nature of each source.
+  - Custom
+    - Asylum case I.C.J. Reports 1950
+      - Columbia v Peru 
+        - Warrant for coup Haya de la Torre
+        - Hid at embassy in lima, and columbia argued for safe passage out
+        - Relied on Regional custom def / local custom def
+          - Must be a constant and uniform usage, as accepted by law
+        - Peru consistently repudiated any such law or convention, so won’t be held to be a regional custom for Peru
+- Sources of Public International Law 
+  - United Nations System
+    - 
+  - Article 38
+    - Article 38
+    - I. The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply :
+      - a. international conventions, whether general or particular, establishing rules expressly recognized by the contesting states ;
+      - b. international custom, as evidence of a general practice accepted as law;
+      - c. the general principles of law recognized by civilized nations ;
+      - d. subject to the provisions of Article 59, judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law.
+    - 2. This provision shall not prejudice the power of the Court to decide a case ex aequo et bono, if the parties agree thereto.
+  - What is a treaty?
+    - A Treaty is defined as:
+      - An international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation. (See Art. 2 Vienna Convention on the Law of Treaties 1969 – VCLT)
+
+    - But note it is also possible to have oral treaties but these are not covered by VCLT
+    - ‘treaty’, ‘convention’ and protocol etc
+    - Bi-lateral, multi-lateral etc
+    - Exchange of notes?
+    - Written form-minutes of a meeting? Qatar v Bahrain- ICJ Rep 1994, 112
+  - Treaties and their relationship with customary international law
+    - Provisions of Treaties can become customary international law, and customary international law can become part of treaties
+    - In three different ways (see ILC conclusion 11):
+      - Treaty declares pre-existing customary international law (as Nicaragua argued in Military and Paramilitary Activities)
+      - Treaty represents crystallization of an emerging rule of custom customary international law (as Netherlands and Denmark argued in North Sea Shelf)
+      - Subsequent practice makes treaty rule into custom
+  - Case Concerning Military and Paramilitary Activities in and Against Nicaragua (Nicaragua v. United States) (Merits) ICJ Reports 1986, p.14
+    - “customary international law continues to exist alongside treaty law even if the customary norm and the treaty norm were to have exactly the same content, this would not be a reason for the Court to hold that the incorporation of the customary norm into treaty-law must deprive the customary norm of its applicability as distinct from that of the treaty norm…. there are no grounds for holding that when customary international law is comprised of rules identical to those of treaty law, the latter "supervenes" the former, so that the customary international law has no further existence of its own.” (paras 176- 177).
+  - Customary International Law
+    - A useful explanation has been provided by (Greig 1976)
+      - “international custom results from similar and repeated acts by states-repeated with the conscious conviction of the parties that they are acting in conformity with the law. Thus there are two factors in the formation of custom:
+        - 1. a material fact-the repetition of similar acts by states, and
+        - 2. a psychological element usually called the opinion juris sive necessitates the feeling on the part of the States that in acting as they act, they are fulfilling a legal obligation” (Greig 1976)
+      - Two elements. Both must be established: 
+        - 1. State practice- behaviour & practice of states (objective facts)
+          - Duration, consistency, repetition and generality?
+        - 2. Psychological or subjective belief (opinio juris)
+          - States feel bound or obliged to act in a certain way
+          - Maxim: opinio juris sive necessitatis
+      - In summary, Customary International Law = state practice + opinio juris
+    - North Sea Continental Shelf cases (FR Germany v Denmark, FR Germany v The Netherlands) ICJ Reports 1969, p.3
+      - Dispute in boundary delimitation negotiations between Germany, The Netherlands and Denmark. 
+      - Did the equidistance/special circumstances rule in Art 6 of the 1958 Geneva Convention on the Continental shelf apply? Germany had not yet ratified the treaty. Could only apply if the rule was also Customary International Law. 
+      - Held: “…two conditions must be fulfilled. Not only must the acts concerned amount to a settled practice, but they must also be such, or be carried out in such a way, as to be evidence of a belief that this practice is rendered obligatory by the existence of a rule of Iaw requiring it. The need for such a belief, i.e., the existence of a subjective element, is implicit in the very notion of the opinio juris sive necessitatis. The States concerned must therefore feel that they are conforming to what amounts to a legal obligation. The frequency, or even habitual character of the acts is not in itself enough. There are many international acts, e.g., in the field of ceremonial and protocol, which are performed almost invariably, but which are motivated only by considerations of courtesy, convenience or tradition, and not by any sense of legal duty”. (para 77)
+      - “As regards the time element, the Court notes that it is over ten years since the Convention was signed, but that it is even now less than five since it came into force in June 1964, and that when the present proceedings were brought it was less than three years, while less than one had elapsed at the time when the respective negotiations between the Federal Republic and the other two Parties for a complete delimitation broke down on the question of the application of the equidistance principle. Although the passage of only a short period of time is not necessarily, or of itself, a bar to the formation of a new rule of customary international law on the basis of what was originally a purely conventional rule, an indispensable requirement would be that within the period in question, short though it might be, State practice, including that of States whose interests are specially affected, should have been both extensive and virtually uniform in the sense of the provision invoked;-and should moreover have occurred in such a way as to show a general recognition that a rule of law or legal obligation is involved.”
+      - equidistance principle def, or principle of equidistance def, 
+        - a legal concept in maritime boundary claims that a nation's maritime boundaries should conform to a median line that is equidistant from the shores of neighboring nations.
+    - Lotus case (France v Turkey) (1927) PCIJ, Ser.A, no.10
+      - A French vessel The Lotus collided on the high seas with a Turkish vessel the Boz-Kourt. 8 passengers and crew were killed. When the ship docked in Turkey, Turkish authorities arrested the French officer of the watch. Key issue was whether Turkey had jurisdiction to prosecute him for manslaughter? 
+      - France argued that because there had been so few examples of criminal prosecutions of other states ‘flagged vessels’ this demonstrated the existence of a principle of customary international law that only the ‘flag state’ had exclusive jurisdiction.
+      - Court held that needed to show a subjective element stating
+      - [absence of other states exercising jurisdiction would] “merely show that States had often, in practice, abstained from instituting criminal proceedings, and not that they recognised themselves as being obliged to do so; for only is such abstention were based on their being conscious of having a duty to abstain would it be possible to speak of an international custom…”
+    - ILC Conclusions, Part 3: A General Practice
+      - Conclusion 4
+      - Requirement of practice
+        - I. The requirement of a general practice, as a constituent element of customary international law, refers primarily to the practice of States at contributes to the formation, or expression, of rules of customary international law.
+        - 2. In certain cases, the practice of international organizations also contributes to the formation, or expression, of rules of customary Internationa aw.
+        - 3. Conduct of other actors is not practice that contributes to the formation, or expression, of rules of customary international law, but may be relevant when assessing the practice referred to in paragraphs 1 and 2.
+      - Conclusion 5
+      - Conduct of the State as State Practice
+        - State practice consists of conduct of the State, whether in the exercise of its executive, legislative, judicial or other functions.
+      - Conclusion 6
+      - Forms of practice
+        - 1. Practice may take a wide range of forms. 
+          - It includes both physical and verbal acts. It may, under certain circumstances, include inaction.
+        - 2. Forms of State practice include, but are not limited to: diplomatic acts and correspondence;
+          - conduct in connection with resolutions adopted by an international organization or at an intergovernmental conference;
+          - conduct in connection with treaties; executive conduct, including operational conduct "on the ground"; 
+          - legislative and administrative acts; and decisions of national courts.
+        - 3. There is no predetermined hierarchy among the various forms of practice.
+      - Conclusion 7
+      - Assessing a State's practice
+        - 1. Account is to be taken of all available practice of a particular State, which is to be assessed as a whole.
+        - 2. Where the practice of a particular State varies, the weight to be given to that practice may, depending on the circumstances, be reduced.
+  - Breach of treaty does not justify breaching customary international law, even if it is a term of the treaty that was breached (still in force)
+    - Treaties can implement customary international rules in a way that is favorable to the country/ies and will be treated differently
+  - Opinio juris sive necessitatis def
+    -  the belief that an action was carried out as a legal obligation.
+    - rule of international comity def, which is a rule based upon a consistent practice in the relations of states which is not accompanied by a feeling of legal obligation
+    - Example
+      -  the goods of a diplomatic agent and his family are immune from customs duty (may be/come customary law)
+      -  saluting by a ship at sea of another ship flying a different flag 
+  -  ICJ follows consensual theory of international law 
+## Week 1: Legal Personality and Recognition
+
+-  Legal Personality and Recognition
+  - The Subjects of PIL
+  - 
+  - Criteria for Statehood:
+    - Montevideo Convention on the Rights and Duties of States 1933, art 1:
+      - 4 main criteria:
+        - ‘The state as a person of international law should possess the following qualifications:
+          - (a) a permanent population;
+          - (b) a defined territory;
+          - (c) government; and
+          - (d) capacity to enter into relations with other states.
+    - Criteria for Statehood - population size
+      - Reasonable Stability of Population
+        - A territory with a sparse population, mostly consisting of nomadic tribes (Western Sahara Ad Op)
+    - Criteria for Statehood - Territory
+      - What is the minimum size of a territory in international law?
+      - Must all of a state’s territory be populated?
+      - Does a territory need to have defined borders?
+    - Criteria for Statehood - Government
+      - What form of government must a state have?
+        - –‘effective’ see eg Aaland Islands Case
+        - –Exceptions?
+      - What is the effect of civil war?
+    - Criteria for Statehood - Capacity to enter into relations with other states
+      - Essential requirement connected to concept of independence
+      - Must be legally independent from other states and have no limitations on its capacity to enter into agreements
+      - Does not take economic or political pressures on a state into account
+      - Situations not affecting formal independence:
+        - – Delegation of certain functions (ie military) not seen to affect independence
+        - – Voluntary Surrender:
+          - – ‘the right of entering into international engagements is an attribute of sovereignty’ SS Wimbledon Case (PCIL 1923)
+    - Key Questions:
+      - Is there a relationship of subordination and superiority? (Austro-German Custom Union Case)
+      - Any external sovereignty? Ie subordination to a different state?
+        - – Norfolk Island
+        - – Hong Kong
+      - This is a separate consideration to a state’s subordination to PIL
+    - Other Criteria for Statehood?
+      - Membership in International Orgs – Art 4 UN Charter requires ‘peace loving state’ that accepts and carries out obligations under the charter.
+      - States that act ‘lawfully’
+      - Apartheid South Africa:
+        - Were Bantustans a State under PIL?
+      - Southern Rhodesia: [see H&S p 106-7]
+      - Self-determination
+    - Creation of States in PIL
+      - Some different ways that a state can be created include:
+      - Decolonisation / Independence of non-state territory
+        - – eg India/Pakistan (1947), USA (1776), Kenya (1963) [all from UK]
+      - Secession
+        - – eg Southern Sudan (2011), Kosovo from Serbia (2008)
+      - Partition of existing state
+        - – eg Slovakia & Czech Republic from Czechoslovakia (1993)
+      - Unification
+        - – eg East and West Germany (1990)
+      - Continuity of IL Obligations
+        - – Upon succession, reconfiguration, partition: what happens to pre-existing obligations? Continuity of obligation
+          - See USSR → Russia UNSC membership; liability for state debt; etc J Hohma
+    - Rights and Duties of States
+      - Crawford: ‘statehood is not simply a factual situation.
+        - It is a legally circumscribed claim of right, specifically to the competence to govern a certain territory’ (2006: 61).
+      - Rights and Duties of States include:
+        - Sovereign equality (UN Charter, art 2(1))
+        - Right to peaceful co-existence with other States (UN Charter)
+        - Obligation to comply with duties of States under treaty/customary IL
+        - Enjoyment of rights and duties under the principle of state responsibility
+    - Self-Determination
+      - What is the principle of self-determination?
+      - Who has the right to self-determination under international law?
+      - Mandate territories
+        - 
+    - Self-Determination – pre UN Charter
+      - League of Nations Mandate System: The Covenant of the League of Nations, Article 22
+        - To those colonies and territories which as a consequence of the late war have ceased to be under the sovereignty of the States which formerly governed them and which are inhabited by peoples not yet able to stand by themselves under the strenuous conditions of the modern world, there should be applied the principle that the well-being and development of such peoples form a sacred trust of civilisation ... embodied in this Covenan
+    - Self-Determination – After UN Charter
+      - Self-determination:
+        - ‘friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples’ (UN Charter, art 1(2), purposes)
+      - ‘The subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights (UNGA Declaration on the Granting of Independence to Colonial Territories and Peoples 1960) (GA Res 1514)
+      - ‘All people have the right to self-determination; by virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development’ (Common Art 1 ICCPR 1966 & ICESCR 1966)
+      - Western Sahara (ICJ Advisory Opinion, 1975)
+    - Western Sahara (Ad Op)
+      - Questions for the Court:
+        - 1. Was Western Sahara at time of colonisation by Spain terra nullius?
+          - No
+        - 2. If no, what were the legal ties between Western Sahara territory & Morocco & Mauritania at the time?
+          - No ties of territorial sovereignty, therefore ‘no legal ties of such a nature’ that would affect the application of GA Res 1514(XV) re the decolonisation of Western Sahara’
+        - Self Determination is customary IL (para 56)
+    - Other Failures to Decolonize:
+      - Chagos Ad. Op. (2019)
+        - The Court considers that peoples of non self-governing territories are entitled to exercise right to SD in relation to their territory as a whole, the detachment of part of the territory, unless based on the freely expressed and genuine will of the people of the territory, is contrary to the right to SD (para 160).
+        - ‘The Court concludes that, as a result of the Chagos Archipelago’s unlawful detachment and its incorporation into a new colony, known as the BIOT, the process of decolonization of Mauritius was not lawfully completed when Mauritius acceded to independence in 1968.’ (para 174)
+      - Paras 144 – 162 discussing the principle of
+        - self-determination in IL, and its customary status.
+        - *also a useful refresher on the emergence and elements of custom
+      - Law of Self-Determination further reaffirmed in
+        - Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territories, Including East Jerusalem
+    - Self-Determination for whom?
+      - Shaw: ‘The best approach is to accept the development of self-determination as an additional criteria of statehood, denial of which would obviate statehood’
+      - Yet, self-determination for whom?
+        - ‘everything turns upon the elusive concept of a “people” (H&S 8th ed p 109)
+          - Ethnic and linguistic minorities?
+          - Indigenous peoples?
+            - – See UNDRIP esp art 3, 4, 5
+      - Consider:
+        - – Tibet?
+        - – Crimea?
+      - Is there an internal and external aspect of self-determination?
+      - And note: principle of uti possidetis juris def
+        - preserve the boundaries of colonies emerging as States
+    - Other International Legal Subjects
+      - Consider the position of:
+        - – Individuals
+        - –Multinational corporations
+        - –Regional organisations (African Union, EU)
+        - –Insurgents or national liberation movements
+      - To what extent do they have rights and duties?
+      - What is the extent of their personality?
+      - International Organisations:
+        - What is an IO?
+          - – Does it have international legal personality?
+          - – Reparations for Injuries Ad Op (1949) – did the UN as an organization have the ability to bring an international claim?
+    - Recognition in International Law
+      - Considered important act that can affect a state’s ability to exercise its rights and responsibilities as a state
+      - nb there is a difference between recognition of states and recognition of governments.
+    - Two Theories of Recognition (of States)
+      - The Constitutive Theory
+        - Recognition has a ‘constitutive’ effect so that a state becomes an international legal person and a subject of IL only through recognition.’
+      - The Declaratory Theory
+        - States exist independent of recognition:
+          - ‘the primary function of recognition is to acknowledge as a fact something which has hitherto been uncertain, namely the independence of the body claiming to be a state, and to declare the declaring state’s readiness to accept the normal consequences of that fact – namely the usual courtesies, rights and obligations of international relations between states.’ (Brierly, in H&S p 137).
+    - Does State Practice reflect declaratory or constitutive theory?
+      - Declaratory
+        - States make claims under IL against unrecognised states:
+          - Britain: Israel 1949 (see H&S p 138); Taiwan 1957.
+          - US: North Korea
+      - Constitutive
+        - US: Israel (see discussion in H&S p 137)
+    - What do the sources say (Declaratory or Constitutive)?
+      - Declaratory:
+        - Montevideo Convention Arts 3, 6, 7.
+        - Tinoco arbitration
+        - Badinter Commission Opinion No 1.
+          - – recognition is ‘purely declaratory’
+          - – Recognition is a ‘discretionary act’
+      - Writings of the most Qualified Publicists
+        - See H&S p 138
+    - Modes of Recognition
+      - Explicit or implicit (Montevideo art 7).
+      - Diplomatic Relations
+      - Making a bilateral treaty with the entity
+      - Supporting membership at the UN
+      - Arranging an international conference
+      - However: role of intention.
+    - The Political Nature of Recognition
+      - ‘States have discovered that the granting or withholding of recognition can be used to further a national policy.
+      - States have refused it as a mark of disapproval, as nearly all of them did to Manchukuo and they have granted it in order to establish the very independence of which recognition is supposed to be a mere acknowledgement.
+      - So, ... we can point to the situation in 1948 when the US recognised Israel within a few hours of its proclamation of independence.’ Brierly – Law of Nations (H&S p 137) 
+        - – (for context on US recognition of Israel see H&S p 137 fn 180.)
+      - Shaw – recognition is a purely political act
+    - The legal side of Recognition?
+      - Badinter Commission Opinion No 10.
+        - recognition is a discretionary act that other states may perform when and in the manner they choose, ‘subject only to compliance with the imperatives of general international law, and particularly those prohibiting the use of force in dealings with other states or guaranteeing the rights of ethnic, religious or linguistic minorities.’
+      - Southern Rhodesia eg (unlawfulness of minority rule).
+    - Does the practice of state recognition add additional criteria to statehood?
+      - See European Community (EC)’s Guidelines on the Recognition of New States in Eastern Europe and in the Soviet Union (Dec 1991),
+        - Respect for the provisions of UN Charter
+        - Guarantees of ethnic and national groups’ and minorities’ rights
+        - Respect for inviolability of frontiers (only changed by peaceful means and common agreement)
+        - Acceptance of all relevant commitments re disarmament, nuclear non-proliferation, security, regional stability
+        - Commitment to settle by agreement (if necessary, arbitration) all questions concerning state succession and regional disputes
+        - Are these additional criteria of statehood? – See H&S p 140.
+      - Note regional scope (Europe).
+    - Recognition of Governments
+      - Recognition of governments is distinct from recognition of states
+      - When does recognition of Gov’t become relevant?
+        - – Normally after ‘nonconventional’ change [revolution; coup eg]
+    - Tinoco Arbitration
+      - non-recognition by governments ‘cannot outweigh the evidence [of] ... the character of Tinoco’s gov’t according to the standard set by international law
+## Week 2: Personality and Recognition in International Law
+
+- STATES
+  - Personality def
+    - “personality” as a term is only short-hand for the proposition that an entity is endowed by international law with legal capacity
+  - The Vatican City is the only state that is generally recognised by the international community that is not a member of the UN
+  - Population and territory
+    - state it is not necessary for an entity to have exactly defined or undisputed boundaries, either at thetime that it comes into being or subsequently. 
+      - Israel = no borders settled
+      - Deutsche Continental Gas-Gesel/schaft v Polish State
+  - Government
+    - State practice suggests that the requirement of a “stable political organisation” in control of the territory does not apply during a civil war or where there is a collapse of law and order in a state that already exists
+      - Finland separation from USSR
+      - Modern equivalent is somalia
+    -  Failed states. 
+      - Somalia in the 1990s 
+      - Three elements
+        - First - territory: 
+          - ‘failed States’ are essentially associated with internal and endogenous problems, even though these may incidentally have cross-border impacts. 
+        - Second - Governance: 
+          - total or near breakdown of structures guaranteeing law and order rather than the kind of fragmentation of State authority seen in civil wars 
+        - Third - functional aspect
+          - absence of bodies capable, on the one hand, of representing the State at the international level and/ being influenced by the UN
+      - International territories
+        - Cambodia and East Timor were such international-ised territories in the 1990s, and Kosovo was one later
+        - Kosovo
+        - Taiwan
+- Independence
+  - Austro-German Customs Union Case (Advisory Opinion) [1931] PCIJ Series A/B No 41
+    - Court: Permanent Court of International Justice (PCIJ)
+    - Parties: Advisory Opinion requested by the Council of the League of Nations
+    - Procedural History:
+      - In 1931, Austria and Germany reached a preliminary agreement to establish a customs union, which would create free trade between the two states. This proposed union raised significant concerns among other European states, leading to what was described as a "European crisis."
+      - The Council of the League of Nations requested an advisory opinion from the PCIJ to determine whether the proposed customs union would violate international obligations under the Treaty of Saint-Germain and the Protocol of 1922.
+    - Facts:
+      - The Treaty of Saint-Germain (1919) included Article 88, which asserted that Austria's independence was inalienable without the consent of the League of Nations. 
+        - Austria also undertook not to compromise its independence in any way.
+      - The 1922 Protocol reinforced Austria's economic independence, imposing further restrictions on any actions that might undermine its sovereign status.
+    - Legal Issue:
+      - Whether Austria's agreement with Germany to form a customs union would violate Article 88 of the Treaty of Saint-Germain and the 1922 Protocol, thereby compromising Austria's independence.
+    - Decision:
+      - The PCIJ, by a narrow margin of eight votes to seven, advised that the proposed customs union would be incompatible with the Protocol of 1922.
+      - Additionally, a majority of the judges opined (though not as a formal ruling of the Court) that the customs union would also contravene Article 88 of the Treaty of Saint-Germain.
+    - Ratio Decidendi:
+      - The Court emphasized that Austria’s independence, as protected by Article 88, meant that Austria had to remain a separate state with full control over its own economic, political, and financial affairs.
+      - The establishment of the customs union was seen as a potential step toward political union, which would undermine Austria’s sovereignty by subjecting its decisions to German influence.
+    - Significance:
+      - The Austro-German Customs Union Case is significant for its interpretation of state sovereignty and independence in international law.
+      - The decision underscored the importance of maintaining a state's independence from external control, especially in situations where economic agreements could lead to political subordination.
+      - This case is frequently cited in discussions of state sovereignty and the limitations imposed by international treaties on a state’s ability to enter into agreements that may compromise its independence.
+-  FRENCH INDEMNITY OF 1831
+  - FRENCH INDEMNITY OF 1831 US Claims Commission. Moore, 5
+    - Procedural History:
+      - After the Napoleonic Wars, France agreed to pay compensation to the United States for damages suffered by American nationals. 
+      - The US Claims Commission was established to distribute these funds and determine France’s liability, particularly regarding losses caused by other nations under French influence.
+    - Facts:
+      - During the Napoleonic Wars, Holland was a nominally independent state but came under substantial French control, particularly after 1806 when Napoleon’s brother, Louis Bonaparte, was installed as the king of Holland. 
+      - By 1810, Holland was formally annexed into the French Empire. 
+      - American merchants suffered losses due to the sequestration of their goods in Dutch ports, which was ordered by France under the Franco-Dutch treaty.
+      - Denmark, while maintaining formal independence, engaged in actions that harmed U.S. nationals, likely motivated by the desire to align with French interests or gain favor with Napoleon.
+    - Legal Issue:
+      - The central question was whether France could be held liable for the actions of Holland and Denmark, given the extent of France’s control or influence over these nations during the Napoleonic Wars.
+    - Decision:
+      - The US Claims Commission ruled that France was liable for the damages caused by Holland, as Holland was effectively under French control and lacked true sovereignty. 
+      - However, France was not held liable for the damages caused by Denmark, as Denmark was considered an independent state acting on its own accord.
+    - Ratio Decidendi:
+      - The decision was based on the principle that a state can be held responsible for the actions of another state if the latter is under its significant control or influence, to the point where it lacks genuine sovereignty. 
+      - In this case, Holland was deemed to be a dependent state under French control, making France liable for its actions. 
+      - Denmark, however, retained enough independence to absolve France of responsibility.
+    - Significance:
+      - This case is significant in international law for its contribution to the understanding of state sovereignty and responsibility. 
+      - It highlights the conditions under which a state may be held liable for the actions of another state, particularly when issues of de facto control and influence are involved. 
+      - The case informs contemporary discussions on state responsibility, especially in contexts where one state exercises significant influence over another’s actions, and remains relevant in the context of modern international relations.
+-  C. Self-determination 
+  - Under the UN Charter, it became the cornerstone of the General Assembly's decolonisation policy of the 1960s and 1970s.
+    - the principle has generated a rule of international law by which the political future of a colonial or similar non-independent territory should be determined in accordance with the wishes of its inhabitants, within the limits of the principle of uti possidetis def
+      - preserve the boundaries of colonies emerging as States
+    - The 1966 International Covenants on Human Rights, common art. 1, each restate the right to self-determination as a matter of treaty law, although the meaning of the Covenant provisions may differ from that in customary international law.
+  - Western Sahara Case (Advisory Opinion) [1975] ICJ Reports 12
+    - Court: International Court of Justice (ICJ)
+    - Parties:
+      - Requesting Party: United Nations General Assembly (seeking an advisory opinion).
+      - States Involved: Morocco and Mauritania.
+    - Procedural History:
+      - In 1966, the United Nations General Assembly called for the decolonization of Western Sahara, emphasizing the right to self-determination as per General Assembly Resolution 1514 (XV). 
+      - Spain, the colonial power, agreed to hold a referendum under UN supervision in 1975. 
+      - However, Morocco and Mauritania, both neighboring states, claimed historical ties to the territory and sought to assert their claims. 
+      - The General Assembly then requested an advisory opinion from the ICJ on two key questions regarding the status and legal ties of Western Sahara.
+    - Facts:
+      - Western Sahara, also known as the Spanish Sahara, was colonized by Spain in 1884. 
+      - The territory, rich in phosphates and abundant in fishing resources, was sparsely populated, with a 1974 census recording a population of 74,900, mostly nomadic Saharan tribesmen. 
+      - Spain's colonization efforts met with opposition as the territory's strategic and economic value became apparent, especially to Morocco, a competitor in the phosphates industry. 
+      - By the mid-20th century, the pressure for decolonization intensified, leading Spain to agree to a UN-supervised referendum. 
+      - However, Morocco claimed the territory based on historic ties preceding Spanish colonization, with Mauritania making a similar overlapping claim.
+    - Legal Issue:
+      - The ICJ was asked to address two primary questions:
+        - Whether Western Sahara (comprising the regions of Rio de Oro and Sakiet El Hamra) was, at the time of its colonization by Spain, a territory belonging to no one (terra nullius).
+        - If the territory was not terra nullius, what were the legal ties between Western Sahara and the Kingdom of Morocco and the Mauritanian entity?
+    - Decision:
+      - The ICJ concluded that Western Sahara was not terra nullius at the time of Spanish colonization. 
+      - The Court recognized that, although the territory was sparsely populated and had no formal state structures, the indigenous peoples had social and political organizations, and legal ties existed with Morocco and the Mauritanian entity. 
+      - However, these ties did not amount to sovereignty, nor did they indicate that Morocco or Mauritania had ownership or control over Western Sahara at the time of colonization.
+    - Ratio Decidendi:
+      - The ICJ's decision was based on the principle that territory cannot be considered terra nullius if it was inhabited by people with established social and political organization. 
+      - The presence of such structures, along with the acknowledgment of some degree of allegiance or authority (though not sovereignty) between Western Sahara's inhabitants and Morocco/Mauritania, meant that the territory was not ownerless before Spanish colonization. 
+      - However, the legal ties did not confer sovereignty or diminish the applicability of the right to self-determination.
+    - Significance:
+      - The ICJ's advisory opinion reinforced the principle of self-determination in international law, affirming that the historical ties claimed by Morocco and Mauritania did not negate the right of the people of Western Sahara to decide their own future. 
+      - The ruling highlighted the limitations of historical claims in the face of contemporary international legal principles concerning decolonization and self-determination.
+    - Key Takeaways:
+      - The Court clarified that terra nullius cannot be claimed for territories with existing social and political organizations, even if those structures are informal or loosely connected.
+      - The decision emphasized the primacy of self-determination over historical claims when it comes to decolonization.
+    - Relevance to Modern Law:
+      - The Western Sahara case continues to influence international legal discourse on self-determination and the decolonization process. 
+      - It underscores the limitations of historical claims when weighed against the right of indigenous populations to determine their political status and future. 
+      - The ruling has implications for other territorial disputes where historic ties are invoked to override the right to self-determination.
+  -  Reference re Secession of Quebec
+    - Supreme Court of Canada
+    - the international law right to self-determination only generates, at best/ a right to external self-determination in situations of former colonies; 
+      - where a people is oppressed, as for example under foreign military occupation; or where a definable group is denied meaningful access to government to pursue their political, economic, social and cultural development.
+-  D. Extinction and Succession of States 
+  - Yugoslavia - Badinter Commission
+    - Yugoslavia referendum in each state to succeed
+    - Government was no longer representative of the people
+    - Government was powerless to enforce order or to prevent armed conflict
+    - The dissolution of a State means that it no longer has legal personality
+- Montevideo Convention on the Rights and Duties of States
+  - Article 1
+    - The state as a person of international law should possess the following qualifications: 
+      - (a) a permanent population; 
+      - (b) a defined territory; 
+      - (c) government; and 
+      - (d) capacity to enter into relations with the other states.
+  - Article 3
+    - The political existence of the state is independent of recognition by the other states. 
+    - Even before recognition, the state has the right to defend its integrity and independence, to provide for its conservation and prosperity, and consequently to organize itself as it sees fit, to legislate upon its interests, administer its services, and to define the jurisdiction and competence of its courts. 
+    - The exercise of these rights has no other limitation than the exercise of the rights of other states according to international law.
+  - Article 4
+    - States are juridically equal, enjoy the same rights, and have equal capacity in their exercise. 
+    - The rights of each one do not depend upon the power which it possesses to assure its exercise but upon the simple fact of its existence as a person under international law.
+  - Article 6
+    - The recognition of a state merely signifies that the state that recognizes it accepts the personality of the other with all the rights and duties determined by international law. 
+    - Recognition is unconditional and irrevocable.
+  - Article 7
+    - The recognition of a state may be express or tacit. 
+    - The latter results from any act which implies the intention of recognizing the new state.
+## Week 2: The relationship between international law and domestic law 
+
+- The relationship between international law and domestic law 
+  - International Law in Municipal Law
+    - Municipal Law / International Law
+    - Monism / Dualism
+      - ‘This controversy turns on whether international law and internal law are two separate legal orders, existing independently of one another - and, if so, on what basis it can be said that either is superior to or supreme over the other; or whether they are both part of the same order, one or other of them being supreme over the other within that order. The first view is the dualist view, the second the monist’
+    - G Fitzmaurice, ‘General Principles of International Law’ (1957), extracted in Rothwell et al (eds), International Law (3rd ed, 2018) 176.
+    - Incorporation / Transformation- see Trendex Trading Corporation v Central Bank of Nigeria [1977] 1 QB 529, at para 553 per Lord Denning MR for an explanation. (But note Trendex not good law in Australia)
+  - Australia and International Law
+    - Emergence of Australia’s international legal personality
+    - 
+  - Treaties and Australian Law
+    - The Treaty-Making + Domestic Transformation Process (JSCOT)
+    - Basic Principles
+      - Treaties do not form part of Australian law unless incorporated through Commonwealth legislation (ie requires an act of the legislature = strong transformation approach)
+        - See Dietrich v The Queen (1992) 177 CLR 292
+      - Different ways to incorporate international treaty obligations?
+        - All or part of Treaty’s content may be included in an Act;
+        - The text of the Treaty may be added as a Schedule to existing legislation; or 
+        - Legislation can be enacted which states that a Treaty has force of law. (see extract from article by Bill Campbell KC in reading for more examples)
+      - If only a portion of the Treaty is given legislative effect, the remainder is not enforceable under municipal law 
+  - International law and its influence on the Australian common law – customary international law
+    - Unsettled relationship-conflicting authorities
+      - In other common law countries (e.g. UK, Canada), courts have favoured incorporation approach for Customary International Law
+      - Key foundational Australian cases seem to favour a transformation approach:
+        - Polites v Commonwealth (1945) 70 CLR 60
+        - Chow Hung Ching v The King (1948) 77 CLR 449
+        - Nulyarimma v Thompson (1999) 96 FCR 153
+    - Nulyarimma v. Thompson [1999] FCA 1192
+      - Key Legal Question: Is genocide a crime under Australian law?
+        - Accepted that it was a jus cogens prohibition & crime under customary international law
+        - Yet no implementing legislation (at the time) in Australia
+      - FCA held:
+        - Majority (Wilcox & Whitlam JJ):
+          - Crime of genocide can only be introduced into Australian law by legislation
+          - In absence of such legislation, genocide is not a crime under Australian law
+        - In addition, Whitlam J
+          - Even if the crime of genocide could be recognised by the courts, such recognition may be inconsistent with existing legislation
+        - Merkel J (dissenting):
+          - Crime of genocide is part of Australian common law 
+          - Same approach to question of incorporation should be used for both customary crimes and norms of customary international law
+        - YET:
+          - On facts, not genocide
+          - Even if facts made out, relief would not have been granted due to parliamentary privileges and implied freedom of political communication
+      - Nulyarimma majority reasoning was followed in other ‘genocide’ cases:
+        - Thorpe v Kennett [1999] VSC 442 
+        - Sumner v UK [2000] SASC 456
+      - NB: Cth Parliament has since passed International Criminal Court Act 2002 (Cth) and International Criminal Court (Consequential Amendments) Act 2002 (Cth) that gives effect to Rome Statute obligations and criminalises genocide under Australian law
+    - Influencing development of the common law
+      - Mabo (No 2): ‘The common law does not necessarily conform with international law, but international law is a legitimate and important influence on the development of the common law’ (per Brennan J)
+      - Note: ‘cautious approach’ of Mason CJ and Deane J in Minister for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 272.
+    - Informing Presumptions of Statutory Interpretation
+      - i.e. Parliament intends to give effect to Australia’s obligations under International law (including both treaty & Customary International Law)
+        - ‘If the language of the legislation is susceptible of a construction which is consistent with the terms of the international instrument and the obligations which it imposes on Australia, then that construction will prevail’ (Teoh, per Mason CJ and Deane J)
+      - Confirmed in subsequent cases incl Al-Kateb v Godwin (2004) 219 CLR 562, despite McHugh J’s critique
+  - Some examples of International law, treaties and interpreting legislation
+    - Plaintiff M70/2011 v Minister of Immigration and Citizenship [2011] HCA 32
+    - Project Blue Sky Inc v ABC [1988] HCA 28
+## Week 3 Relationship between International and Municipal Law
+
+- INTERNATIONAL AND MUNICIPAL LAW
+  - The challenge then for both international law and municipal legal systems is how the international law obligation becomes recognised at the municipal level so that both rights and obligations are created not only for the State and its institutions but also for citizens and business entities. 
+  - If  States  truly  value international  law   then   not   only  must  they   meet   their  obligations  vis-a-vis   other   States,  but  they must  act  in   good   faith  in  giving  municipal  effect  to  those  obligations. 
+  -  International   law in municipal law
+    - Dualist def Dualist view def
+      - international law and  internal  law  are two separate legal orders existing  independently  of  one  another - debatable  basis that  either int law or municipal law is superior to  or  supreme  over  the other
+      - These laws differ  in the particular social relations they govern; state law deals with individuals, international law regulates the relations between states, who alone are subject to  it
+      - juridical origins are different; the source  of  municipal law  is  the  will of  the state itself, the source  of  international law is the common  will  (Gemeinwil/e)  of  states
+      - Non-Self-Executing Treaties def
+        - Treaties must be ratified or legislated domestically to be enforced
+    - Monist def Monist view def
+      - int law and municipal law are both part of the same order, one  or  other  of  them  being  supreme  over the other  within that order
+      - Self-Executing Treaties def
+        - Treaties automatically become part of domestic law upon ratification and do not require further legislation.
+    - CHUNG   CHI   CHEUNG   V  R   [1939]  AC   160
+      - international law has no validity save in so far as its principles are accepted and adopted by our own domestic 
+    - TRENDTEX  TRADING   CORPORATION   V  CENTRAL  BANK OF NIGERIA   [1977]  1   QB   529
+      - doctrine of incorporation def
+        - Monism
+      - doctrine  of  transformation def
+        - dualism
+
+
+# Cheat Sheet
+
+- Hierarchy of Sources and Jus Cogens
+### .
+
+- Montevideo Convention on the Rights and Duties of States
+  - Article 1
+    - The state as a person of international law should possess the following qualifications: 
+      - (a) a permanent population; 
+      - (b) a defined territory; 
+      - (c) government; and 
+      - (d) capacity to enter into relations with the other states.
+  - Article 3
+    - The political existence of the state is independent of recognition by the other states. 
+    - Even before recognition the state has the right to defend its integrity and independence, to provide for its conservation and prosperity, and consequently to organize itself as it sees fit, to legislate upon its interests, administer its services, and to define the jurisdiction and competence of its courts. 
+    - The exercise of these rights has no other limitation than the exercise of the rights of other states according to international law.
+  - Article 4
+    - States are juridically equal, enjoy the same rights, and have equal capacity in their exercise. 
+    - The rights of each one do not depend upon the power which it possesses to assure its exercise, but upon the simple fact of its existence as a person under international law.
+  - Article 6
+    - The recognition of a state merely signifies that the state which recognizes it accepts the personality of the other with all the rights and duties determined by international law. 
+    - Recognition is unconditional and irrevocable.
+  - Article 7
+    - The recognition of a state may be express or tacit. The latter results from any act which implies the intention of recognizing the new state.
+- Montevideo summary
+  - Criteria for Statehood - population size
+    - Reasonable Stability of Population
+      - A territory with a sparse population, mostly consisting of nomadic tribes (Western Sahara Ad Op)
+  - Criteria for Statehood - Territory
+    - What is the minimum size of a territory in international law?
+    - Must all of a state’s territory be populated?
+    - Does a territory need to have defined borders?
+  - Criteria for Statehood - Government
+    - What form of government must a state have?
+      - –‘effective’ see eg Aaland Islands Case
+      - –Exceptions?
+    - What is the effect of civil war?
+  - Criteria for Statehood - Capacity to enter into relations with other states
+    - Essential requirement connected to concept of independence
+    - Must be legally independent from other states and have no limitations on its capacity to enter into agreements
+    - Does not take economic or political pressures on a state into account
+    - Situations not affecting formal independence:
+      - – Delegation of certain functions (ie military) not seen to affect independence
+      - – Voluntary Surrender:
+        - – ‘the right of entering into international engagements is an attribute of sovereignty’ SS Wimbledon Case (PCIL 1923)
+  - Key Questions:
+    - Is there a relationship of subordination and superiority? (Austro-German Custom Union Case)
+    - Any external sovereignty? Ie subordination to a different state?
+      - – Norfolk Island
+      - – Hong Kong
+    - This is a separate consideration to a state’s subordination to PIL
+  - Other Criteria for Statehood?
+    - Membership in International Orgs – Art 4 UN Charter requires ‘peace loving state’ that accepts and carries out obligations under the charter.
+    - States that act ‘lawfully’
+    - Apartheid South Africa:
+      - Were Bantustans a State under PIL?
+    - Southern Rhodesia: [see H&S p 106-7]
+    - Self-determination
+## Week 1: Introduction to International Law
+
+-  International Law
+  - Public international law = PIL def
+  - THE SCOPE AND NATURE OF INTERNATIONAL LAW
+    - The central core of international law def may be described as the body of rules and principles that determine the rights and duties of States, primarily in respect of their dealings with other States and the citizens of other States
+    - Archetypal international law def
+      - concerned with the rights and duties of States towards one another
+      - but the principles, materials and techniques of international law are applied much more widely. 
+    - International law is not a unified, manufactured system, imposed upon the world of international or inter-communal relations
+    - The rules of international law cover whatever topics happen to have been regarded as appropriate for legal solution on the international plane
+    - It is often asserted that international law in its modern form dates from the Treaty of Westphalia def in 1648, which is said to have ‘created’ the system of modern nation-State
+      - The forms—treaties, embassies, claims to jurisdiction or immunity, to territory and nationality, and so on—go back far beyond the Treaty of Westphalia; and it is in the forms and formulas of governmental intercourse that the lifeblood of international law has always flowed.
+  - 1.3 THE CHANGING SCOPE OF INTERNATIONAL LAW
+    - Modern international human rights law def
+      - The making in 1948 of the Universal Declaration of Human Rights, along with the adoption of regional instruments such as the 
+        - American Declaration of the Rights of Man in 1948 
+        - European Convention on Human Rights in 1950
+        - followed by
+          -  1981 African Charter on Human and People’s Rights, 
+          - 1994 Arab Charter on Human Rights
+  - 1.4 THE EMERGENCE OF INTERNATIONAL ORGANIZATIONS
+    - establishment in 1871 of the arbitration tribunal that settled the United States’ claims against Britain for compensation for the damage inflicted upon the Union by the confederate warship Alabama during the American Civil War
+    - It led to the establishment of the Permanent Court of International Justice (PCIJ) under the League of Nations, and its successor, the International Court of Justice (ICJ), under the United Nations.
+  - 1.5 THE EMERGENCE OF NEW INTERNATIONAL ACTORS
+    - Companies have an easier time negotiating with foreign powers and the resources to do so, rather than letting their state negotiate for them with complicated interests to further
+      - Supported by 1965 Convention on the Settlement of Investment Disputes Between States and Nationals of Other States (the ICSID Convention), the NAFTA, and the Energy Charter Treaty.
+    - Human rights changes
+      - This right of individual petition def 
+        - introduced in the 1950 European Convention on Human Right
+        - Added in addition to the right of states to file against other states
+      - Non-Governmental Organizations (NGOs) have secured an acknowledged place within the international legal system.
+        - Conventions, such as the 1978 American Convention on Human Rights, permit applications to be made by representative organizations.
+  - 1.6 WHY DO PEOPLE COMPLY WITH INTERNATIONAL LAW?
+    - Treaties def are, therefore, commitments that States have already decided that it is in their interest to comply with.
+    - Rules of customary international law def
+      - Rules that are consistently followed such as the historic immunity to envoys/medics/messengers
+    - Countries will typically follow the laws and treaties they’ve signed because they were not forced to sign them to begin with, and as such see the benefit
+    - Arguments you use may be used against you
+  - 1.7 WHY SHOULD PEOPLE COMPLY WITH INTERNATIONAL LAW?
+    - Rule of law, mandate of heaven, swear by religion when making treaties, etc
+    - Eventually shifted towards secular reasoning based on ‘consent of the governed’ 
+      - Positivist def 
+        - the authority of international law derived from the fact that States had—or were to be treated as if they had—consented to be bound by its rules, and not from any external source such as the ‘will of God’ or ‘the natural order’
+      - Jus cogens def:
+        - Rules that are binding on all States regardless of whether or not the States have consented to be bound by them
+        - A.K.A. Peremptory norms def
+  - 1.8 HOW INTERNATIONAL LAW IS INVOKED AND APPLIED
+    - illocution: that is, approximately, the implicit meaning that the speaker intends to communicate when saying something.
+  - 1.9 THE DOMESTIC ANALOGY
+    - Requesting borrowed book back from student on university stationary, makes it official and formal 
+    - Many choices that can change the context, including hinting at police or court involvement
+    - By using a university tribunal, lends credence to the existence of the tribunal itself, and makes their existence more of a factor in the calculations of members of the community.
+    - The law succeeds if it secures enough compliance to enable civilized social life to proceed and if its enforcement is sufficiently effective, impartial, and non-discriminatory to satisfy the basic demands of justice. 
+- Aboriginal Peoples, Colonialism and International Law: Raw Law
+  - Indigenous Ways
+    - Global colonialism has damaged our relationships with the natural world; many First Nations Peoples have no land base and live within cities, suburbs and country towns
+      - But still hold the law, the stories and the songs for country
+  - Transforming the space 
+    - the end result of assimilation is the death of the native
+      - it goes against our law ways and as such we have an obligation to resist it. 
+  - International processes and mechanisms 
+    - UN Declaration on the Rights of Indigenous Peoples was adopted in September 2007.
+      - Article 42 of the UNDRIP
+        -  UNPFII is charged with integrating the declaration into its work and monitoring the effectiveness of its implementation
+        - Only source of law is customary international law
+  - Indigenous philosophy
+    - Murrabina def is a declaration, an agreement with the spirit world, the air, earth, water, fire, animals, plants, rocks, and the fullness and oneness of creation, for the continuance of law, land and peoples, an agreement to engage in the wholeness of the creative process of living in law.
+    - Muldarbi def
+      - original meaning as demon spirit 
+      - failure to recognize Indigenous law and connection to land
+- The Sources of International Law
+  - Generally
+    - Article 38(1) Distinction:
+      - Sub-paragraphs (a)-(c): Address the pedigree of international law rules.
+      - Sub-paragraph (d): Enumerates means for determining alleged rules of international law.
+    - Law-Creating Processes:
+      - For the World Court to apply a rule, it must stem from treaties, international customary law, or general principles recognized by civilized nations.
+      - This enumeration excludes other potential sources like natural law or moral postulates.
+    - Court’s Obligation:
+      - The Court must consider any rule from these three law-creating processes.
+      - The rule’s origin (humanity considerations, civilization standards) is irrelevant if it aligns with these processes.
+    - Ex aequo et bono def Decisions:
+      - The Court can decide cases ex aequo et bono (equity) only with parties' agreement, which must itself be treaty-based.
+    - Formal vs. Material Sources:
+      - Formal sources give legal validity (e.g., customs).
+      - Material sources provide substance (e.g., state practice), serving as evidence of these customs.
+    - Order of Application:
+      - There was a debate about indicating an order of precedence for applying these sources (treaties before customs, etc.).
+      - Ultimately, it was decided to avoid prescribing a strict order to allow for simultaneous application and respect the unique nature of each source.
+  - Custom
+    - Asylum case I.C.J. Reports 1950
+      - Columbia v Peru 
+        - Warrant for coup Haya de la Torre
+        - Hid at embassy in lima, and columbia argued for safe passage out
+        - Relied on Regional custom def / local custom def
+          - Must be a constant and uniform usage, as accepted by law
+        - Peru consistently repudiated any such law or convention, so won’t be held to be a regional custom for Peru
+- Sources of Public International Law 
+  - United Nations System
+    - 
+  - Article 38
+    - Article 38
+    - I. The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply :
+      - a. international conventions, whether general or particular, establishing rules expressly recognized by the contesting states ;
+      - b. international custom, as evidence of a general practice accepted as law;
+      - c. the general principles of law recognized by civilized nations ;
+      - d. subject to the provisions of Article 59, judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law.
+    - 2. This provision shall not prejudice the power of the Court to decide a case ex aequo et bono, if the parties agree thereto.
+  - What is a treaty?
+    - A Treaty is defined as:
+      - An international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation. (See Art. 2 Vienna Convention on the Law of Treaties 1969 – VCLT)
+
+    - But note it is also possible to have oral treaties but these are not covered by VCLT
+    - ‘treaty’, ‘convention’ and protocol etc
+    - Bi-lateral, multi-lateral etc
+    - Exchange of notes?
+    - Written form-minutes of a meeting? Qatar v Bahrain- ICJ Rep 1994, 112
+  - Treaties and their relationship with customary international law
+    - Provisions of Treaties can become customary international law, and customary international law can become part of treaties
+    - In three different ways (see ILC conclusion 11):
+      - Treaty declares pre-existing customary international law (as Nicaragua argued in Military and Paramilitary Activities)
+      - Treaty represents crystallization of an emerging rule of custom customary international law (as Netherlands and Denmark argued in North Sea Shelf)
+      - Subsequent practice makes treaty rule into custom
+  - Case Concerning Military and Paramilitary Activities in and Against Nicaragua (Nicaragua v. United States) (Merits) ICJ Reports 1986, p.14
+    - “customary international law continues to exist alongside treaty law even if the customary norm and the treaty norm were to have exactly the same content, this would not be a reason for the Court to hold that the incorporation of the customary norm into treaty-law must deprive the customary norm of its applicability as distinct from that of the treaty norm…. there are no grounds for holding that when customary international law is comprised of rules identical to those of treaty law, the latter "supervenes" the former, so that the customary international law has no further existence of its own.” (paras 176- 177).
+  - Customary International Law
+    - A useful explanation has been provided by (Greig 1976)
+      - “international custom results from similar and repeated acts by states-repeated with the conscious conviction of the parties that they are acting in conformity with the law. Thus there are two factors in the formation of custom:
+        - 1. a material fact-the repetition of similar acts by states, and
+        - 2. a psychological element usually called the opinion juris sive necessitates the feeling on the part of the States that in acting as they act, they are fulfilling a legal obligation” (Greig 1976)
+      - Two elements. Both must be established: 
+        - 1. State practice- behaviour & practice of states (objective facts)
+          - Duration, consistency, repetition and generality?
+        - 2. Psychological or subjective belief (opinio juris)
+          - States feel bound or obliged to act in a certain way
+          - Maxim: opinio juris sive necessitatis
+      - In summary, Customary International Law = state practice + opinio juris
+    - North Sea Continental Shelf cases (FR Germany v Denmark, FR Germany v The Netherlands) ICJ Reports 1969, p.3
+      - Dispute in boundary delimitation negotiations between Germany, The Netherlands and Denmark. 
+      - Did the equidistance/special circumstances rule in Art 6 of the 1958 Geneva Convention on the Continental shelf apply? Germany had not yet ratified the treaty. Could only apply if the rule was also Customary International Law. 
+      - Held: “…two conditions must be fulfilled. Not only must the acts concerned amount to a settled practice, but they must also be such, or be carried out in such a way, as to be evidence of a belief that this practice is rendered obligatory by the existence of a rule of Iaw requiring it. The need for such a belief, i.e., the existence of a subjective element, is implicit in the very notion of the opinio juris sive necessitatis. The States concerned must therefore feel that they are conforming to what amounts to a legal obligation. The frequency, or even habitual character of the acts is not in itself enough. There are many international acts, e.g., in the field of ceremonial and protocol, which are performed almost invariably, but which are motivated only by considerations of courtesy, convenience or tradition, and not by any sense of legal duty”. (para 77)
+      - “As regards the time element, the Court notes that it is over ten years since the Convention was signed, but that it is even now less than five since it came into force in June 1964, and that when the present proceedings were brought it was less than three years, while less than one had elapsed at the time when the respective negotiations between the Federal Republic and the other two Parties for a complete delimitation broke down on the question of the application of the equidistance principle. Although the passage of only a short period of time is not necessarily, or of itself, a bar to the formation of a new rule of customary international law on the basis of what was originally a purely conventional rule, an indispensable requirement would be that within the period in question, short though it might be, State practice, including that of States whose interests are specially affected, should have been both extensive and virtually uniform in the sense of the provision invoked;-and should moreover have occurred in such a way as to show a general recognition that a rule of law or legal obligation is involved.”
+      - equidistance principle def, or principle of equidistance def, 
+        - a legal concept in maritime boundary claims that a nation's maritime boundaries should conform to a median line that is equidistant from the shores of neighboring nations.
+    - Lotus case (France v Turkey) (1927) PCIJ, Ser.A, no.10
+      - A French vessel The Lotus collided on the high seas with a Turkish vessel the Boz-Kourt. 8 passengers and crew were killed. When the ship docked in Turkey, Turkish authorities arrested the French officer of the watch. Key issue was whether Turkey had jurisdiction to prosecute him for manslaughter? 
+      - France argued that because there had been so few examples of criminal prosecutions of other states ‘flagged vessels’ this demonstrated the existence of a principle of customary international law that only the ‘flag state’ had exclusive jurisdiction.
+      - Court held that needed to show a subjective element stating
+      - [absence of other states exercising jurisdiction would] “merely show that States had often, in practice, abstained from instituting criminal proceedings, and not that they recognised themselves as being obliged to do so; for only is such abstention were based on their being conscious of having a duty to abstain would it be possible to speak of an international custom…”
+    - ILC Conclusions, Part 3: A General Practice
+      - Conclusion 4
+      - Requirement of practice
+        - I. The requirement of a general practice, as a constituent element of customary international law, refers primarily to the practice of States at contributes to the formation, or expression, of rules of customary international law.
+        - 2. In certain cases, the practice of international organizations also contributes to the formation, or expression, of rules of customary Internationa aw.
+        - 3. Conduct of other actors is not practice that contributes to the formation, or expression, of rules of customary international law, but may be relevant when assessing the practice referred to in paragraphs 1 and 2.
+      - Conclusion 5
+      - Conduct of the State as State Practice
+        - State practice consists of conduct of the State, whether in the exercise of its executive, legislative, judicial or other functions.
+      - Conclusion 6
+      - Forms of practice
+        - 1. Practice may take a wide range of forms. 
+          - It includes both physical and verbal acts. It may, under certain circumstances, include inaction.
+        - 2. Forms of State practice include, but are not limited to: diplomatic acts and correspondence;
+          - conduct in connection with resolutions adopted by an international organization or at an intergovernmental conference;
+          - conduct in connection with treaties; executive conduct, including operational conduct "on the ground"; 
+          - legislative and administrative acts; and decisions of national courts.
+        - 3. There is no predetermined hierarchy among the various forms of practice.
+      - Conclusion 7
+      - Assessing a State's practice
+        - 1. Account is to be taken of all available practice of a particular State, which is to be assessed as a whole.
+        - 2. Where the practice of a particular State varies, the weight to be given to that practice may, depending on the circumstances, be reduced.
+  - Breach of treaty does not justify breaching customary international law, even if it is a term of the treaty that was breached (still in force)
+    - Treaties can implement customary international rules in a way that is favorable to the country/ies and will be treated differently
+  - Opinio juris sive necessitatis def
+    -  the belief that an action was carried out as a legal obligation.
+    - rule of international comity def, which is a rule based upon a consistent practice in the relations of states which is not accompanied by a feeling of legal obligation
+    - Example
+      -  the goods of a diplomatic agent and his family are immune from customs duty (may be/come customary law)
+      -  saluting by a ship at sea of another ship flying a different flag 
+  -  ICJ follows consensual theory of international law 
+## Week 1: Legal Personality and Recognition
+
+-  Legal Personality and Recognition
+  - The Subjects of PIL
+  - 
+  - Criteria for Statehood:
+    - Montevideo Convention on the Rights and Duties of States 1933, art 1:
+      - 4 main criteria:
+        - ‘The state as a person of international law should possess the following qualifications:
+          - (a) a permanent population;
+          - (b) a defined territory;
+          - (c) government; and
+          - (d) capacity to enter into relations with other states.
+    - Criteria for Statehood - population size
+      - Reasonable Stability of Population
+        - A territory with a sparse population, mostly consisting of nomadic tribes (Western Sahara Ad Op)
+    - Criteria for Statehood - Territory
+      - What is the minimum size of a territory in international law?
+      - Must all of a state’s territory be populated?
+      - Does a territory need to have defined borders?
+    - Criteria for Statehood - Government
+      - What form of government must a state have?
+        - –‘effective’ see eg Aaland Islands Case
+        - –Exceptions?
+      - What is the effect of civil war?
+    - Criteria for Statehood - Capacity to enter into relations with other states
+      - Essential requirement connected to concept of independence
+      - Must be legally independent from other states and have no limitations on its capacity to enter into agreements
+      - Does not take economic or political pressures on a state into account
+      - Situations not affecting formal independence:
+        - – Delegation of certain functions (ie military) not seen to affect independence
+        - – Voluntary Surrender:
+          - – ‘the right of entering into international engagements is an attribute of sovereignty’ SS Wimbledon Case (PCIL 1923)
+    - Key Questions:
+      - Is there a relationship of subordination and superiority? (Austro-German Custom Union Case)
+      - Any external sovereignty? Ie subordination to a different state?
+        - – Norfolk Island
+        - – Hong Kong
+      - This is a separate consideration to a state’s subordination to PIL
+    - Other Criteria for Statehood?
+      - Membership in International Orgs – Art 4 UN Charter requires ‘peace loving state’ that accepts and carries out obligations under the charter.
+      - States that act ‘lawfully’
+      - Apartheid South Africa:
+        - Were Bantustans a State under PIL?
+      - Southern Rhodesia: [see H&S p 106-7]
+      - Self-determination
+    - Creation of States in PIL
+      - Some different ways that a state can be created include:
+      - Decolonisation / Independence of non-state territory
+        - – eg India/Pakistan (1947), USA (1776), Kenya (1963) [all from UK]
+      - Secession
+        - – eg Southern Sudan (2011), Kosovo from Serbia (2008)
+      - Partition of existing state
+        - – eg Slovakia & Czech Republic from Czechoslovakia (1993)
+      - Unification
+        - – eg East and West Germany (1990)
+      - Continuity of IL Obligations
+        - – Upon succession, reconfiguration, partition: what happens to pre-existing obligations? Continuity of obligation
+          - See USSR → Russia UNSC membership; liability for state debt; etc J Hohma
+    - Rights and Duties of States
+      - Crawford: ‘statehood is not simply a factual situation.
+        - It is a legally circumscribed claim of right, specifically to the competence to govern a certain territory’ (2006: 61).
+      - Rights and Duties of States include:
+        - Sovereign equality (UN Charter, art 2(1))
+        - Right to peaceful co-existence with other States (UN Charter)
+        - Obligation to comply with duties of States under treaty/customary IL
+        - Enjoyment of rights and duties under the principle of state responsibility
+    - Self-Determination
+      - What is the principle of self-determination?
+      - Who has the right to self-determination under international law?
+      - Mandate territories
+        - 
+    - Self-Determination – pre UN Charter
+      - League of Nations Mandate System: The Covenant of the League of Nations, Article 22
+        - To those colonies and territories which as a consequence of the late war have ceased to be under the sovereignty of the States which formerly governed them and which are inhabited by peoples not yet able to stand by themselves under the strenuous conditions of the modern world, there should be applied the principle that the well-being and development of such peoples form a sacred trust of civilisation ... embodied in this Covenan
+    - Self-Determination – After UN Charter
+      - Self-determination:
+        - ‘friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples’ (UN Charter, art 1(2), purposes)
+      - ‘The subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights (UNGA Declaration on the Granting of Independence to Colonial Territories and Peoples 1960) (GA Res 1514)
+      - ‘All people have the right to self-determination; by virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development’ (Common Art 1 ICCPR 1966 & ICESCR 1966)
+      - Western Sahara (ICJ Advisory Opinion, 1975)
+    - Western Sahara (Ad Op)
+      - Questions for the Court:
+        - 1. Was Western Sahara at time of colonisation by Spain terra nullius?
+          - No
+        - 2. If no, what were the legal ties between Western Sahara territory & Morocco & Mauritania at the time?
+          - No ties of territorial sovereignty, therefore ‘no legal ties of such a nature’ that would affect the application of GA Res 1514(XV) re the decolonisation of Western Sahara’
+        - Self Determination is customary IL (para 56)
+    - Other Failures to Decolonize:
+      - Chagos Ad. Op. (2019)
+        - The Court considers that peoples of non self-governing territories are entitled to exercise right to SD in relation to their territory as a whole, the detachment of part of the territory, unless based on the freely expressed and genuine will of the people of the territory, is contrary to the right to SD (para 160).
+        - ‘The Court concludes that, as a result of the Chagos Archipelago’s unlawful detachment and its incorporation into a new colony, known as the BIOT, the process of decolonization of Mauritius was not lawfully completed when Mauritius acceded to independence in 1968.’ (para 174)
+      - Paras 144 – 162 discussing the principle of
+        - self-determination in IL, and its customary status.
+        - *also a useful refresher on the emergence and elements of custom
+      - Law of Self-Determination further reaffirmed in
+        - Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territories, Including East Jerusalem
+    - Self-Determination for whom?
+      - Shaw: ‘The best approach is to accept the development of self-determination as an additional criteria of statehood, denial of which would obviate statehood’
+      - Yet, self-determination for whom?
+        - ‘everything turns upon the elusive concept of a “people” (H&S 8th ed p 109)
+          - Ethnic and linguistic minorities?
+          - Indigenous peoples?
+            - – See UNDRIP esp art 3, 4, 5
+      - Consider:
+        - – Tibet?
+        - – Crimea?
+      - Is there an internal and external aspect of self-determination?
+      - And note: principle of uti possidetis juris def
+        - preserve the boundaries of colonies emerging as States
+    - Other International Legal Subjects
+      - Consider the position of:
+        - – Individuals
+        - –Multinational corporations
+        - –Regional organisations (African Union, EU)
+        - –Insurgents or national liberation movements
+      - To what extent do they have rights and duties?
+      - What is the extent of their personality?
+      - International Organisations:
+        - What is an IO?
+          - – Does it have international legal personality?
+          - – Reparations for Injuries Ad Op (1949) – did the UN as an organization have the ability to bring an international claim?
+    - Recognition in International Law
+      - Considered important act that can affect a state’s ability to exercise its rights and responsibilities as a state
+      - nb there is a difference between recognition of states and recognition of governments.
+    - Two Theories of Recognition (of States)
+      - The Constitutive Theory
+        - Recognition has a ‘constitutive’ effect so that a state becomes an international legal person and a subject of IL only through recognition.’
+      - The Declaratory Theory
+        - States exist independent of recognition:
+          - ‘the primary function of recognition is to acknowledge as a fact something which has hitherto been uncertain, namely the independence of the body claiming to be a state, and to declare the declaring state’s readiness to accept the normal consequences of that fact – namely the usual courtesies, rights and obligations of international relations between states.’ (Brierly, in H&S p 137).
+    - Does State Practice reflect declaratory or constitutive theory?
+      - Declaratory
+        - States make claims under IL against unrecognised states:
+          - Britain: Israel 1949 (see H&S p 138); Taiwan 1957.
+          - US: North Korea
+      - Constitutive
+        - US: Israel (see discussion in H&S p 137)
+    - What do the sources say (Declaratory or Constitutive)?
+      - Declaratory:
+        - Montevideo Convention Arts 3, 6, 7.
+        - Tinoco arbitration
+        - Badinter Commission Opinion No 1.
+          - – recognition is ‘purely declaratory’
+          - – Recognition is a ‘discretionary act’
+      - Writings of the most Qualified Publicists
+        - See H&S p 138
+    - Modes of Recognition
+      - Explicit or implicit (Montevideo art 7).
+      - Diplomatic Relations
+      - Making a bilateral treaty with the entity
+      - Supporting membership at the UN
+      - Arranging an international conference
+      - However: role of intention.
+    - The Political Nature of Recognition
+      - ‘States have discovered that the granting or withholding of recognition can be used to further a national policy.
+      - States have refused it as a mark of disapproval, as nearly all of them did to Manchukuo and they have granted it in order to establish the very independence of which recognition is supposed to be a mere acknowledgement.
+      - So, ... we can point to the situation in 1948 when the US recognised Israel within a few hours of its proclamation of independence.’ Brierly – Law of Nations (H&S p 137) 
+        - – (for context on US recognition of Israel see H&S p 137 fn 180.)
+      - Shaw – recognition is a purely political act
+    - The legal side of Recognition?
+      - Badinter Commission Opinion No 10.
+        - recognition is a discretionary act that other states may perform when and in the manner they choose, ‘subject only to compliance with the imperatives of general international law, and particularly those prohibiting the use of force in dealings with other states or guaranteeing the rights of ethnic, religious or linguistic minorities.’
+      - Southern Rhodesia eg (unlawfulness of minority rule).
+    - Does the practice of state recognition add additional criteria to statehood?
+      - See European Community (EC)’s Guidelines on the Recognition of New States in Eastern Europe and in the Soviet Union (Dec 1991),
+        - Respect for the provisions of UN Charter
+        - Guarantees of ethnic and national groups’ and minorities’ rights
+        - Respect for inviolability of frontiers (only changed by peaceful means and common agreement)
+        - Acceptance of all relevant commitments re disarmament, nuclear non-proliferation, security, regional stability
+        - Commitment to settle by agreement (if necessary, arbitration) all questions concerning state succession and regional disputes
+        - Are these additional criteria of statehood? – See H&S p 140.
+      - Note regional scope (Europe).
+    - Recognition of Governments
+      - Recognition of governments is distinct from recognition of states
+      - When does recognition of Gov’t become relevant?
+        - – Normally after ‘nonconventional’ change [revolution; coup eg]
+    - Tinoco Arbitration
+      - non-recognition by governments ‘cannot outweigh the evidence [of] ... the character of Tinoco’s gov’t according to the standard set by international law
+## Week 2: Personality and Recognition in International Law
+
+- STATES
+  - Personality def
+    - “personality” as a term is only short-hand for the proposition that an entity is endowed by international law with legal capacity
+  - The Vatican City is the only state that is generally recognised by the international community that is not a member of the UN
+  - Population and territory
+    - state it is not necessary for an entity to have exactly defined or undisputed boundaries, either at thetime that it comes into being or subsequently. 
+      - Israel = no borders settled
+      - Deutsche Continental Gas-Gesel/schaft v Polish State
+  - Government
+    - State practice suggests that the requirement of a “stable political organisation” in control of the territory does not apply during a civil war or where there is a collapse of law and order in a state that already exists
+      - Finland separation from USSR
+      - Modern equivalent is somalia
+    -  Failed states. 
+      - Somalia in the 1990s 
+      - Three elements
+        - First - territory: 
+          - ‘failed States’ are essentially associated with internal and endogenous problems, even though these may incidentally have cross-border impacts. 
+        - Second - Governance: 
+          - total or near breakdown of structures guaranteeing law and order rather than the kind of fragmentation of State authority seen in civil wars 
+        - Third - functional aspect
+          - absence of bodies capable, on the one hand, of representing the State at the international level and/ being influenced by the UN
+      - International territories
+        - Cambodia and East Timor were such international-ised territories in the 1990s, and Kosovo was one later
+        - Kosovo
+        - Taiwan
+- Independence
+  - Austro-German Customs Union Case (Advisory Opinion) [1931] PCIJ Series A/B No 41
+    - Court: Permanent Court of International Justice (PCIJ)
+    - Parties: Advisory Opinion requested by the Council of the League of Nations
+    - Procedural History:
+      - In 1931, Austria and Germany reached a preliminary agreement to establish a customs union, which would create free trade between the two states. This proposed union raised significant concerns among other European states, leading to what was described as a "European crisis."
+      - The Council of the League of Nations requested an advisory opinion from the PCIJ to determine whether the proposed customs union would violate international obligations under the Treaty of Saint-Germain and the Protocol of 1922.
+    - Facts:
+      - The Treaty of Saint-Germain (1919) included Article 88, which asserted that Austria's independence was inalienable without the consent of the League of Nations. 
+        - Austria also undertook not to compromise its independence in any way.
+      - The 1922 Protocol reinforced Austria's economic independence, imposing further restrictions on any actions that might undermine its sovereign status.
+    - Legal Issue:
+      - Whether Austria's agreement with Germany to form a customs union would violate Article 88 of the Treaty of Saint-Germain and the 1922 Protocol, thereby compromising Austria's independence.
+    - Decision:
+      - The PCIJ, by a narrow margin of eight votes to seven, advised that the proposed customs union would be incompatible with the Protocol of 1922.
+      - Additionally, a majority of the judges opined (though not as a formal ruling of the Court) that the customs union would also contravene Article 88 of the Treaty of Saint-Germain.
+    - Ratio Decidendi:
+      - The Court emphasized that Austria’s independence, as protected by Article 88, meant that Austria had to remain a separate state with full control over its own economic, political, and financial affairs.
+      - The establishment of the customs union was seen as a potential step toward political union, which would undermine Austria’s sovereignty by subjecting its decisions to German influence.
+    - Significance:
+      - The Austro-German Customs Union Case is significant for its interpretation of state sovereignty and independence in international law.
+      - The decision underscored the importance of maintaining a state's independence from external control, especially in situations where economic agreements could lead to political subordination.
+      - This case is frequently cited in discussions of state sovereignty and the limitations imposed by international treaties on a state’s ability to enter into agreements that may compromise its independence.
+-  FRENCH INDEMNITY OF 1831
+  - FRENCH INDEMNITY OF 1831 US Claims Commission. Moore, 5
+    - Procedural History:
+      - After the Napoleonic Wars, France agreed to pay compensation to the United States for damages suffered by American nationals. 
+      - The US Claims Commission was established to distribute these funds and determine France’s liability, particularly regarding losses caused by other nations under French influence.
+    - Facts:
+      - During the Napoleonic Wars, Holland was a nominally independent state but came under substantial French control, particularly after 1806 when Napoleon’s brother, Louis Bonaparte, was installed as the king of Holland. 
+      - By 1810, Holland was formally annexed into the French Empire. 
+      - American merchants suffered losses due to the sequestration of their goods in Dutch ports, which was ordered by France under the Franco-Dutch treaty.
+      - Denmark, while maintaining formal independence, engaged in actions that harmed U.S. nationals, likely motivated by the desire to align with French interests or gain favor with Napoleon.
+    - Legal Issue:
+      - The central question was whether France could be held liable for the actions of Holland and Denmark, given the extent of France’s control or influence over these nations during the Napoleonic Wars.
+    - Decision:
+      - The US Claims Commission ruled that France was liable for the damages caused by Holland, as Holland was effectively under French control and lacked true sovereignty. 
+      - However, France was not held liable for the damages caused by Denmark, as Denmark was considered an independent state acting on its own accord.
+    - Ratio Decidendi:
+      - The decision was based on the principle that a state can be held responsible for the actions of another state if the latter is under its significant control or influence, to the point where it lacks genuine sovereignty. 
+      - In this case, Holland was deemed to be a dependent state under French control, making France liable for its actions. 
+      - Denmark, however, retained enough independence to absolve France of responsibility.
+    - Significance:
+      - This case is significant in international law for its contribution to the understanding of state sovereignty and responsibility. 
+      - It highlights the conditions under which a state may be held liable for the actions of another state, particularly when issues of de facto control and influence are involved. 
+      - The case informs contemporary discussions on state responsibility, especially in contexts where one state exercises significant influence over another’s actions, and remains relevant in the context of modern international relations.
+-  C. Self-determination 
+  - Under the UN Charter, it became the cornerstone of the General Assembly's decolonisation policy of the 1960s and 1970s.
+    - the principle has generated a rule of international law by which the political future of a colonial or similar non-independent territory should be determined in accordance with the wishes of its inhabitants, within the limits of the principle of uti possidetis def
+      - preserve the boundaries of colonies emerging as States
+    - The 1966 International Covenants on Human Rights, common art. 1, each restate the right to self-determination as a matter of treaty law, although the meaning of the Covenant provisions may differ from that in customary international law.
+  - Western Sahara Case (Advisory Opinion) [1975] ICJ Reports 12
+    - Court: International Court of Justice (ICJ)
+    - Parties:
+      - Requesting Party: United Nations General Assembly (seeking an advisory opinion).
+      - States Involved: Morocco and Mauritania.
+    - Procedural History:
+      - In 1966, the United Nations General Assembly called for the decolonization of Western Sahara, emphasizing the right to self-determination as per General Assembly Resolution 1514 (XV). 
+      - Spain, the colonial power, agreed to hold a referendum under UN supervision in 1975. 
+      - However, Morocco and Mauritania, both neighboring states, claimed historical ties to the territory and sought to assert their claims. 
+      - The General Assembly then requested an advisory opinion from the ICJ on two key questions regarding the status and legal ties of Western Sahara.
+    - Facts:
+      - Western Sahara, also known as the Spanish Sahara, was colonized by Spain in 1884. 
+      - The territory, rich in phosphates and abundant in fishing resources, was sparsely populated, with a 1974 census recording a population of 74,900, mostly nomadic Saharan tribesmen. 
+      - Spain's colonization efforts met with opposition as the territory's strategic and economic value became apparent, especially to Morocco, a competitor in the phosphates industry. 
+      - By the mid-20th century, the pressure for decolonization intensified, leading Spain to agree to a UN-supervised referendum. 
+      - However, Morocco claimed the territory based on historic ties preceding Spanish colonization, with Mauritania making a similar overlapping claim.
+    - Legal Issue:
+      - The ICJ was asked to address two primary questions:
+        - Whether Western Sahara (comprising the regions of Rio de Oro and Sakiet El Hamra) was, at the time of its colonization by Spain, a territory belonging to no one (terra nullius).
+        - If the territory was not terra nullius, what were the legal ties between Western Sahara and the Kingdom of Morocco and the Mauritanian entity?
+    - Decision:
+      - The ICJ concluded that Western Sahara was not terra nullius at the time of Spanish colonization. 
+      - The Court recognized that, although the territory was sparsely populated and had no formal state structures, the indigenous peoples had social and political organizations, and legal ties existed with Morocco and the Mauritanian entity. 
+      - However, these ties did not amount to sovereignty, nor did they indicate that Morocco or Mauritania had ownership or control over Western Sahara at the time of colonization.
+    - Ratio Decidendi:
+      - The ICJ's decision was based on the principle that territory cannot be considered terra nullius if it was inhabited by people with established social and political organization. 
+      - The presence of such structures, along with the acknowledgment of some degree of allegiance or authority (though not sovereignty) between Western Sahara's inhabitants and Morocco/Mauritania, meant that the territory was not ownerless before Spanish colonization. 
+      - However, the legal ties did not confer sovereignty or diminish the applicability of the right to self-determination.
+    - Significance:
+      - The ICJ's advisory opinion reinforced the principle of self-determination in international law, affirming that the historical ties claimed by Morocco and Mauritania did not negate the right of the people of Western Sahara to decide their own future. 
+      - The ruling highlighted the limitations of historical claims in the face of contemporary international legal principles concerning decolonization and self-determination.
+    - Key Takeaways:
+      - The Court clarified that terra nullius cannot be claimed for territories with existing social and political organizations, even if those structures are informal or loosely connected.
+      - The decision emphasized the primacy of self-determination over historical claims when it comes to decolonization.
+    - Relevance to Modern Law:
+      - The Western Sahara case continues to influence international legal discourse on self-determination and the decolonization process. 
+      - It underscores the limitations of historical claims when weighed against the right of indigenous populations to determine their political status and future. 
+      - The ruling has implications for other territorial disputes where historic ties are invoked to override the right to self-determination.
+  -  Reference re Secession of Quebec
+    - Supreme Court of Canada
+    - the international law right to self-determination only generates, at best/ a right to external self-determination in situations of former colonies; 
+      - where a people is oppressed, as for example under foreign military occupation; or where a definable group is denied meaningful access to government to pursue their political, economic, social and cultural development.
+-  D. Extinction and Succession of States 
+  - Yugoslavia - Badinter Commission
+    - Yugoslavia referendum in each state to succeed
+    - Government was no longer representative of the people
+    - Government was powerless to enforce order or to prevent armed conflict
+    - The dissolution of a State means that it no longer has legal personality
+- Montevideo Convention on the Rights and Duties of States
+  - Article 1
+    - The state as a person of international law should possess the following qualifications: 
+      - (a) a permanent population; 
+      - (b) a defined territory; 
+      - (c) government; and 
+      - (d) capacity to enter into relations with the other states.
+  - Article 3
+    - The political existence of the state is independent of recognition by the other states. 
+    - Even before recognition, the state has the right to defend its integrity and independence, to provide for its conservation and prosperity, and consequently to organize itself as it sees fit, to legislate upon its interests, administer its services, and to define the jurisdiction and competence of its courts. 
+    - The exercise of these rights has no other limitation than the exercise of the rights of other states according to international law.
+  - Article 4
+    - States are juridically equal, enjoy the same rights, and have equal capacity in their exercise. 
+    - The rights of each one do not depend upon the power which it possesses to assure its exercise but upon the simple fact of its existence as a person under international law.
+  - Article 6
+    - The recognition of a state merely signifies that the state that recognizes it accepts the personality of the other with all the rights and duties determined by international law. 
+    - Recognition is unconditional and irrevocable.
+  - Article 7
+    - The recognition of a state may be express or tacit. 
+    - The latter results from any act which implies the intention of recognizing the new state.
+## Week 2: The relationship between international law and domestic law 
+
+- The relationship between international law and domestic law 
+  - International Law in Municipal Law
+    - Municipal Law / International Law
+    - Monism / Dualism
+      - ‘This controversy turns on whether international law and internal law are two separate legal orders, existing independently of one another - and, if so, on what basis it can be said that either is superior to or supreme over the other; or whether they are both part of the same order, one or other of them being supreme over the other within that order. The first view is the dualist view, the second the monist’
+    - G Fitzmaurice, ‘General Principles of International Law’ (1957), extracted in Rothwell et al (eds), International Law (3rd ed, 2018) 176.
+    - Incorporation / Transformation- see Trendex Trading Corporation v Central Bank of Nigeria [1977] 1 QB 529, at para 553 per Lord Denning MR for an explanation. (But note Trendex not good law in Australia)
+  - Australia and International Law
+    - Emergence of Australia’s international legal personality
+    - 
+  - Treaties and Australian Law
+    - The Treaty-Making + Domestic Transformation Process (JSCOT)
+    - Basic Principles
+      - Treaties do not form part of Australian law unless incorporated through Commonwealth legislation (ie requires an act of the legislature = strong transformation approach)
+        - See Dietrich v The Queen (1992) 177 CLR 292
+      - Different ways to incorporate international treaty obligations?
+        - All or part of Treaty’s content may be included in an Act;
+        - The text of the Treaty may be added as a Schedule to existing legislation; or 
+        - Legislation can be enacted which states that a Treaty has force of law. (see extract from article by Bill Campbell KC in reading for more examples)
+      - If only a portion of the Treaty is given legislative effect, the remainder is not enforceable under municipal law 
+  - International law and its influence on the Australian common law – customary international law
+    - Unsettled relationship-conflicting authorities
+      - In other common law countries (e.g. UK, Canada), courts have favoured incorporation approach for Customary International Law
+      - Key foundational Australian cases seem to favour a transformation approach:
+        - Polites v Commonwealth (1945) 70 CLR 60
+        - Chow Hung Ching v The King (1948) 77 CLR 449
+        - Nulyarimma v Thompson (1999) 96 FCR 153
+    - Nulyarimma v. Thompson [1999] FCA 1192
+      - Key Legal Question: Is genocide a crime under Australian law?
+        - Accepted that it was a jus cogens prohibition & crime under customary international law
+        - Yet no implementing legislation (at the time) in Australia
+      - FCA held:
+        - Majority (Wilcox & Whitlam JJ):
+          - Crime of genocide can only be introduced into Australian law by legislation
+          - In absence of such legislation, genocide is not a crime under Australian law
+        - In addition, Whitlam J
+          - Even if the crime of genocide could be recognised by the courts, such recognition may be inconsistent with existing legislation
+        - Merkel J (dissenting):
+          - Crime of genocide is part of Australian common law 
+          - Same approach to question of incorporation should be used for both customary crimes and norms of customary international law
+        - YET:
+          - On facts, not genocide
+          - Even if facts made out, relief would not have been granted due to parliamentary privileges and implied freedom of political communication
+      - Nulyarimma majority reasoning was followed in other ‘genocide’ cases:
+        - Thorpe v Kennett [1999] VSC 442 
+        - Sumner v UK [2000] SASC 456
+      - NB: Cth Parliament has since passed International Criminal Court Act 2002 (Cth) and International Criminal Court (Consequential Amendments) Act 2002 (Cth) that gives effect to Rome Statute obligations and criminalises genocide under Australian law
+    - Influencing development of the common law
+      - Mabo (No 2): ‘The common law does not necessarily conform with international law, but international law is a legitimate and important influence on the development of the common law’ (per Brennan J)
+      - Note: ‘cautious approach’ of Mason CJ and Deane J in Minister for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 272.
+    - Informing Presumptions of Statutory Interpretation
+      - i.e. Parliament intends to give effect to Australia’s obligations under International law (including both treaty & Customary International Law)
+        - ‘If the language of the legislation is susceptible of a construction which is consistent with the terms of the international instrument and the obligations which it imposes on Australia, then that construction will prevail’ (Teoh, per Mason CJ and Deane J)
+      - Confirmed in subsequent cases incl Al-Kateb v Godwin (2004) 219 CLR 562, despite McHugh J’s critique
+  - Some examples of International law, treaties and interpreting legislation
+    - Plaintiff M70/2011 v Minister of Immigration and Citizenship [2011] HCA 32
+    - Project Blue Sky Inc v ABC [1988] HCA 28
+## Week 3 Relationship between International and Municipal Law
+
+- INTERNATIONAL AND MUNICIPAL LAW
+  - The challenge then for both international law and municipal legal systems is how the international law obligation becomes recognised at the municipal level so that both rights and obligations are created not only for the State and its institutions but also for citizens and business entities. 
+  - If States truly value international law then not only must they meet their obligations vis-a-vis other States, but they must act in good faith in giving municipal effect to those obligations. 
+  -  International law in municipal law
+    - Dualist def Dualist view def
+      - international law and internal law are two separate legal orders existing independently of one another - debatable basis that either int law or municipal law is superior to or supreme over the other
+      - These laws differ in the particular social relations they govern; state law deals with individuals, international law regulates the relations between states, who alone are subject to it
+      - juridical origins are different; the source of municipal law is the will of the state itself, the source of international law is the common will (Gemeinwil/e) of states
+      - Non-Self-Executing Treaties def
+        - Treaties must be ratified or legislated domestically to be enforced
+    - Monist def Monist view def
+      - int law and municipal law are both part of the same order, one or other of them being supreme over the other within that order
+      - Self-Executing Treaties def
+        - Treaties automatically become part of domestic law upon ratification and do not require further legislation.
+    - CHUNG CHI CHEUNG V R [1939] AC 160
+      - international law has no validity save in so far as its principles are accepted and adopted by our own domestic 
+    - TRENDTEX TRADING CORPORATION V CENTRAL BANK OF NIGERIA [1977] 1 QB 529
+      - doctrine of incorporation def
+        - Monism
+        - Lord Denning held this to be correct
+      - doctrine of transformation def
+        - Dualism
+      - The Court held that the Central Bank of Nigeria was not an emanation, arm, alter ego or department of the State of Nigeria and therefore was not entitled to immunity from suit
+    - Nulyarimma v Thompson the Federal Court noted: 
+      - 'Ratification of a convention does not directly affect Australian domestic law unless and until implementing legislation is enacted.
+  - Australian law and international law
+    - Australia did not functionally begin to gain legal personality until 1923
+      - having acquired a sufficient degree of international legal personality to act on the international plane if they chose to do so
+      - Tons of treaties were signed then
+    - not generally regarded as independent until it finally passed the Statute of Westminster, in 1942, and the last Imperial ties were not cut until 1986
+    - Clearly independent post WWII
+    - Starting with its 1992 decision in Mabo, the High Court considered the impact of international law upon Australian law in a number of important decisions.
+    - MABO V QUEENSLAND (NO 2) ('MABO CASE') (1992) HCA 23;
+      - Brennan J
+        - the common law, and constitutional law, do not necessarily conform with international law.
+    - NEWCREST MINING (WA) LTD V COMMONWEALTH [1997] HCA 38; 
+      - Kirby J
+        - Australia's Constitution, as the fundamental law of government in this country, accommodates itself to international law, including insofar as that law expresses basic rights
+    - WESTERN AUSTRALIA V WARD [2002] HCA 28; 
+      - Callinan J
+        - Courts may not flout the will of Australia's democratic representatives simply because they believe that, all things considered, the legislation would 'be better' if it were read to cohere with the mass of (often ambiguous) international obligations and instruments
+        - subscription to, our international obligations are matters for Parliament and the Executive, who are in a better position to answer to the international community than tenured judges.
+        - There is no requirement for the common law to develop in accordance with international law
+  - Customary international law and its influence upon the common law
+    - developments in customary international law as they may apply to international crimes (eg piracy, genocide) 
+    - CHOW HUNG CHING V R [1948] HCA 37;
+      - Members of a foreign visiting armed force were arrested and prosecuted in the then Australian territory of Papua New Guinea for a criminal offence
+      - Latham CJ
+        - International law is not as such part of the law of Australia (Chung Chi Cheung v The King (1939) AC 160, and see Polites v The Commonwealth (1945) 70 CLR 60) but a universally recognized principle of international law would be applied by our courts: West Rand Central Gold Mining Go v The King (1905) 2 KB 391
+      - Dixon J
+        - 'In each case in which the question arises the court must consider whether the particular rule of international law has been received into, and so become a source of English law' (Sir Williarn Holdsworth, Relation of English Law to International Law: Essays in Law and History, p 267
+        - AKA 'source view def’ of international law
+    - Brennan J (Mabo)
+      - The common law does not necessarily conform with international law, but international law is a legitimate and important influence on the development of the common law, especially when international law declares the existence of universal human rights
+      - Current position 
+    - NULYARIMMA V THOMPSON [1999] FCA 1192; 	
+      - was alleged that the Prime Minister, Mr John Howard, Deputy Prime Minister, Mr Tim Fisher, Senator Brian Harradine and Ms Pauline Hanson, through negotiation of the Commonwealth Government's 'Ten Point Plan' and subsequent passage through the Commonwealth Parliament of the Native Title Amendment Act 1998 (Cth), had committed an act of genocide
+        - The Court held that, although genocide is recognized as a crime under international law, it is not a crime under Australian domestic law unless it has been expressly incorporated into Australian law through legislation. 
+        - At the time of the case, the Genocide Convention had not been implemented into Australian domestic law in a way that allowed for the prosecution of individuals for genocide under Australian law.
+        - Jus Cogens are not automatically part of domestic law
+  - Treaties and municipal law: basic principles
+  - 
