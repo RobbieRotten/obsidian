@@ -227,7 +227,7 @@ See above. Negated beyond a reasonable doubt.
 
 1. At the time of the act/omission causing death, A was suffering from a mental health impairment or cognitive impairment
 
-2. This substantially impaired A’s capacity to understand events; to judge right from wrong; or to control her/himself.
+2. This substantially impaired A's capacity to understand events; to judge right from wrong; or to control her/himself.
 
 3. Impairment so substantial to warrant reduction of liability from murder to manslaughter.
 # INVOLUNTARY MANSLAUGHTER
@@ -242,7 +242,7 @@ UDA Manslaughter
 (s 18(1)(b), elements established at common law: see Wilson)
 
 A caused the death of V but did not possess the MR for murder.
-A’s voluntary act (not omission) caused the death of a person, and that act was:
+A's voluntary act (not omission) caused the death of a person, and that act was:
 
 1. Unlawful (i.e., a breach of criminal law); and
 
@@ -252,15 +252,15 @@ Negligent manslaughter (s 18(1)(b), elements established at common law, can be c
 A caused the death of V but did not possess the MR for murder.
 
 - A caused the death of a person by an act, or by an omission in a situation in which A owed V a duty of care; and 
-- A reasonable person in the position of A would have adverted to the risk that death or GBH would result from that act or omission (‘standard of care’); and
-- There was such a great falling short of the standard of care as to warrant criminal punishment (‘breach of duty’).
+- A reasonable person in the position of A would have adverted to the risk that death or GBH would result from that act or omission ('standard of care'); and
+- There was such a great falling short of the standard of care as to warrant criminal punishment ('breach of duty').
 
 ## JCE Problem questions
 
 - When solving problems involving multiple participants:
   - First analyse the criminal liability of the principal offender who fulfilled the actus reus elements of the crime.
   - Then contemplate whether the other offender/s can be charged with being party to a JCE if there is an agreement or mutual understanding.
-- This is because liability is primary, not derivative, for participating in a JCE. In many cases it would be wise for the prosecution to pursue JCE first and accessorial liability as a ‘back up charge’.
+- This is because liability is primary, not derivative, for participating in a JCE. In many cases it would be wise for the prosecution to pursue JCE first and accessorial liability as a 'back up charge'.
   - If there is no agreement, then the Crown would be likely to assess whether D could be liable due to fulfilling the elements of accessorial liability (either as an ABF or P2), or potentially, through the doctrine of innocent agency.
   - It is also important to consider whether any additional offences have been committed by a co-accused that may not have been agreed to by the D, or which D did not participate in, but D may have contemplated as a possible incident of participating in the original enterprise (Extended JCE).
 ## Specific Intent vs Basic Intent chart
@@ -345,19 +345,19 @@ offences (ss 428C and
 - Different Kinds of Defenses
   - Self-defence
     - Statutory only defence
-    - accused’s conduct was objectively necessary to defend themselves or another from serious harm
+    - accused's conduct was objectively necessary to defend themselves or another from serious harm
   - Duress 
     - operates on the basis that it is unfair to convict somebody, 
   - Necessity
-    - operates where the defendant’s conduct was carried out in response to circumstances of sudden or extraordinary emergency.
+    - operates where the defendant's conduct was carried out in response to circumstances of sudden or extraordinary emergency.
   - Mistake
     - Ignorance of law is not excuse
-    - defendant’s honest and reasonable mistake of fact will operate as an excuse for certain types of offence
+    - defendant's honest and reasonable mistake of fact will operate as an excuse for certain types of offence
       - Offenses of strict liability
 - DIFFERENT KINDS OF CRIMINAL OFFENCES 
   - Summary offences
     - Dealt in Local Court NSW, magistrate w/o jury
-      - Don’t exist in common law, created by parliament
+      - Don't exist in common law, created by parliament
     - Typically maxes at 2 years imprisonment
   - Indictable offences
     - NSW district court and SCNSW
@@ -422,7 +422,7 @@ offences (ss 428C and
           - Have to know conduct is wrong (insanity)
           - Must prove if 10-14 years that they knew was wrong
 - Immunities — the Sovereign, etc .
-  -  King is the fountain of justice’ and ‘the King can do no wrong’
+  -  King is the fountain of justice' and 'the King can do no wrong'
     - While not true, reigning Sovereign cannot be put on trial in the courts for a crime. 
     - In Oz, same for Gov-gen and govs until they exit office
       - Have constitutional convention relieving responsibility on advice of ministers
@@ -442,13 +442,13 @@ offences (ss 428C and
     - After a reasonable period post-arrest, the police must either charge the person or release them without charge. 
       - If a person has been arrested and charged, the police may then release the person unconditionally and they will be summoned to court in due course.
     - Bail Act 2013 (NSW)
-      - If a charged person has been refused bail, they are remanded in custody (that is, returned to custody) and kept in detention (‘on remand’) until the end of their case.
+      - If a charged person has been refused bail, they are remanded in custody (that is, returned to custody) and kept in detention ('on remand') until the end of their case.
     - Most charges filed in lower courts, even indictable
     - Local or lower courts may be simpler, faster, low cost, and lesser sentencing than higher courts
       - Met with limited jurisdiction, and no jury
     - District courts receive jury trial, more thorough consideration
       - But more complex, longer, costlier, greater sentencing
-    - ‘summary procedure’.
+    - 'summary procedure'.
       - a magistrate sitting without a jury and deciding both questions of law and fact. 
     - Typically committal hearing in the lower court to determine whether there is evidence of sufficient weight to support a conviction.
     - infringement notice
@@ -456,16 +456,16 @@ offences (ss 428C and
   - The criminal trial process 
     - First is the arraignment, in which the accused is formally asked by the court whether they plead guilty or not guilty to the charge
     - Prosecution opening then defense opening
-    - Prosecution “examination-in-chief ” - direct
+    - Prosecution "examination-in-chief " - direct
       - Cross-examination next
       - Objection rules found in Evidence Act 1995 (NSW)
-      - After all prosecution witnesses called, Defense may argue no case’ submission; 
+      - After all prosecution witnesses called, Defense may argue no case' submission; 
         - the accused argues there is not enough evidence to support a verdict. 
         - Judge must decide if there is a case to answer (not deciding guilt, just if response necessary)
     - Common for the accused not to call any witnesses and simply rely on the argument that the prosecution case does not prove beyond reasonable doubt that the accused is guilty. 
     - Double jeopardy
       -  Criminal Procedure Act (NSW) s 156
-      - Can retry if acquittal was tainted or there is ‘fresh and compelling evidence’:
+      - Can retry if acquittal was tainted or there is 'fresh and compelling evidence':
         - Crimes (Appeal and Review) Act 2001 (NSW) ss 99–106;
   - Sentencing
     - Crimes (Sentencing Procedure) Act 1999 (NSW)
@@ -556,7 +556,7 @@ offences (ss 428C and
           - Conflicting terms
           - No price escalation clause
         - Ex-Cell-O signed and returned ack w/letter
-          - Machinery would be ‘delivered in acc w our revised quotation of 23 May’
+          - Machinery would be 'delivered in acc w our revised quotation of 23 May'
         - Butler relied on price escalation clause to charge another 3k
         - What terms were in the contract
         - Judge found
@@ -580,13 +580,13 @@ offences (ss 428C and
           - A transaction is not invalid bc took place partly or wholly electronically
       - S 9
         - Signature
-          - Signature of a person is required, method must be used to id person and indicate person’s intent in respect to info communicated and signature must be accepted by both parties in method described (online)
+          - Signature of a person is required, method must be used to id person and indicate person's intent in respect to info communicated and signature must be accepted by both parties in method described (online)
           - Luxottica Retail Australia Pty Ltd v 136 Queen Street Pty Ltd trustee under … [2011]
       - Time of receipt
         - Email is instrrant comm, acceptance effective when received by offerer
         - S 13A(1)
           - Electronic com sent to a designated address
-          - Electronic comm sent to ‘another’ address 
+          - Electronic comm sent to 'another' address 
         - Receive means
           - When capable of being retrieved by addressee at that address
           - When address has become aware that it was sent to that address
@@ -609,18 +609,18 @@ offences (ss 428C and
       - Not a code on electric transactions
       - Common law continues to apply
 - RP v The Queen (2016) 
-  - Further dimension of proof of knowledge of serious wrongness as distinct from mere naughtiness’
-  - [n]o matter how obviously wrong the act or acts constituting the offence may be, the presumption cannot be rebutted merely as an inference from the doing of that act or those acts’
+  - Further dimension of proof of knowledge of serious wrongness as distinct from mere naughtiness'
+  - [n]o matter how obviously wrong the act or acts constituting the offence may be, the presumption cannot be rebutted merely as an inference from the doing of that act or those acts'
   - In R v M (1977) 16 SASR 589, it was established that this requires proof the child understood that the act or omission was wrong according to the ordinary standards of reasonable people.
     - however, that proof of the acts constituting the offence, even if it is an act that is obviously wrong, cannot be used alone to rebut the presumption of doli incapax.
-    -  Evidence of family background, educational level and social environment may also be adduced to gain an overall picture of the child’s capacities:
+    -  Evidence of family background, educational level and social environment may also be adduced to gain an overall picture of the child's capacities:
   - Legal capacity
     - culpability of someone for their criminal acts
 -  R v ALH (2003) 6 VR 276 at 281
   - evidence of the acts that constituted the offence could not be used alone to rebut the presumption were wrong and should not be followed
 - Common form of evidence comes from child police interaction
   - However more likely to make false confessions and admit to wrong thing. 
-- Children’s Court Act 1987 (NSW);
+- Children's Court Act 1987 (NSW);
 - Insanity defense became mental illness mental impairment 
   - will need to show on the balance of probabilities that the accused cannot be held criminally responsible for their actions and that they should be detained in a hospital for treatment
 - Corporations 
@@ -679,7 +679,7 @@ offences (ss 428C and
   - Incidence of the evidential burden 
     - constituent elements of the crime charged are concerned, apart from statute, the prosecution always bears the evidential burden (99% time)
     - Must prove guilt regardless if accused has a defense
-    - But, ‘General defences’ (self-defence, provocation, duress, necessity, honest and reasonable mistake of fact etc), the evidential burden is placed upon the accused.
+    - But, 'General defences' (self-defence, provocation, duress, necessity, honest and reasonable mistake of fact etc), the evidential burden is placed upon the accused.
       - Shifted burden to defense, then shifts back to prosecution
   - Incidence of the legal burden 
     -  the person who makes a claim must establish it.
@@ -688,9 +688,9 @@ offences (ss 428C and
       - Evidential burden - reasonable possibility
     - Beyond a reasonable doubt (90%)
 
-  - The ‘golden thread’ - beyond reasonable doubt footnote NSW
+  - The 'golden thread' - beyond reasonable doubt footnote NSW
     - Woolmington v Director of Public Prosecutions [1935] AC 462
-      -  that it is the duty of the prosecution to prove the prisoner’s guilt subject to what I have already said as to the defence of insanity and subject also to any statutory exception
+      -  that it is the duty of the prosecution to prove the prisoner's guilt subject to what I have already said as to the defence of insanity and subject also to any statutory exception
       - Presumption of innocence
       - set the standard for the burden of proof in criminal cases.
   - Statutory exceptions 
@@ -772,14 +772,14 @@ offences (ss 428C and
       - crimes created by such statutes are called crimes of strict (or absolute) liability.
         - drink driving is a class of strict liability offence
         - Knowledge of being over limit does not matter
-  -  Fitzjames Stephen’s view
+  -  Fitzjames Stephen's view
     - Mens rea was unhelpful and misleading (not absolute)
-      - He held that each case has it’s own level of mens rea, and is subject to case-by-case discretion
+      - He held that each case has it's own level of mens rea, and is subject to case-by-case discretion
 - Evidence of the mental element 
   - Obvious intent is not really open to interpretation
     - Picking a wallet means that they want to permanently deprive that person of property
   - Subjective and objective standards 
-    - determining a person’s thoughts or desires on a 
+    - determining a person's thoughts or desires on a 
     - given occasion: 
       - (a) by asking that person; or 
       - (b) by considering what a reasonable person, behaving as that person was seen to behave on that occasion, would have thought or desired in order to produce such behaviour.
@@ -803,19 +803,19 @@ offences (ss 428C and
         -  Relevant standard of mens rea to be intent to have intercourse without consent
           - A belief, however mistaken or unreasonable, if honestly held, will mean that the accused no longer possesses the intent necessary for conviction.
       -  Nedrick v R [1986] 3 All ER 1;
-        -  jury should be directed that they are not entitled to infer the necessary intention unless they feel sure that death or serious bodily harm was a virtual certainty (barring some unforeseen intervention) as a result of the defendant’s actions and that the defendant appreciated that such was the case.
+        -  jury should be directed that they are not entitled to infer the necessary intention unless they feel sure that death or serious bodily harm was a virtual certainty (barring some unforeseen intervention) as a result of the defendant's actions and that the defendant appreciated that such was the case.
       - R v Woollin [1999] 1 AC 82
         - intent was further stated in terms of a high degree of appreciation of the outcome
   - Basic and specific intent
     -  Director of Public Prosecutions v Majewski [1977] AC 443
-      - House of Lords considered the consequences of the distinction between crimes of basic and specific intent in so far as it related to the ‘defence’ of intoxication
-      - Rejected in R v O’Connor (1980) 146 CLR 64; 2
+      - House of Lords considered the consequences of the distinction between crimes of basic and specific intent in so far as it related to the 'defence' of intoxication
+      - Rejected in R v O'Connor (1980) 146 CLR 64; 2
         - defined basic by contrast to specific intent
         - crimes of specific intent include those where 
-          - the ‘act charged should have been done to achieve a particular purpose’
+          - the 'act charged should have been done to achieve a particular purpose'
           - murder
         - Offences of basic intent may therefore be characterised as crimes where
-          - the accused does not intend a ‘particular purpose’.
+          - the accused does not intend a 'particular purpose'.
           - Manslaughter
           - Can be rape
           - Offensive language
@@ -828,9 +828,9 @@ offences (ss 428C and
     -  R v Crabbe (1985) 156 CLR 46
       - recklessness involves a positive knowledge that a consequence will probably come about
     -  R v Kitchener (1993) 29 NSWLR 69
-      - In sexual assault and rape cases, a failure to turn one’s mind to whether or not the complainant consents is deemed to be reckless and is referred to as non-advertent or inadvertence recklessness
+      - In sexual assault and rape cases, a failure to turn one's mind to whether or not the complainant consents is deemed to be reckless and is referred to as non-advertent or inadvertence recklessness
   - Negligence
-    - ‘criminal negligence’
+    - 'criminal negligence'
     - Nydam v R [1977] VR 430
       - offence of manslaughter by criminal negligence drew from notions of breach of duty in tort, but further developed the standard to one that required the accused to exhibit a degree of wickedness.
         - Test:
@@ -847,13 +847,13 @@ offences (ss 428C and
   - Mental state defences
     - Moreover, if the person is unable to control their actions because they are asleep or unconscious, the law will exculpate them on the basis that their actions were involuntary.
     - if the person is suffering from a sufficiently severe mental impairment, they will not be criminally responsible
-    - involuntary intoxication may, on occasion, be sufficiently severe to result in an acquittal, either on the basis that the defendant’s actions were involuntary or that they were unintentional. 
+    - involuntary intoxication may, on occasion, be sufficiently severe to result in an acquittal, either on the basis that the defendant's actions were involuntary or that they were unintentional. 
   - Partial defences
     - Extreme provocation, substantial impairment by abnormality of mind (diminished responsibility), excessive self-defence and defensive homicide are all examples of partial defences. 
   - Self-help defences
     - because of the existence of some overwhelming need or necessity.
     - self-defence, duress and necessity
-  - Defences of ‘mistake’
+  - Defences of 'mistake'
     - Mistake of consent in rape
     - Mistake of under-age victim under honest belief of age
     - Ignorance of law does not count
@@ -883,28 +883,28 @@ offences (ss 428C and
   - Definition of homicide
     - s 33 of the Human Tissue Act 1983 (NSW)
       - Irreversibe cessation of all function of brain
-      - Irreversible cessation of circulation of blood in person’s body
+      - Irreversible cessation of circulation of blood in person's body
     - Edward Coke murder definition
-      - .. when a man of sound memory and of the age of discretion unlawfully kills any reasonable creature in being, and under the King’s peace, with malice aforethought, either express or implied by the law, the death taking place within a year and a day
+      - .. when a man of sound memory and of the age of discretion unlawfully kills any reasonable creature in being, and under the King's peace, with malice aforethought, either express or implied by the law, the death taking place within a year and a day
       - Found is s 18 Crimes Act 1900 NSW
       - Breaking down the quote
-        - ‘Of sound memory and of the age of discretion’ 
-          - ‘Sound memory’ merely means ‘sane’ or ‘not mentally impaired
+        - 'Of sound memory and of the age of discretion' 
+          - 'Sound memory' merely means 'sane' or 'not mentally impaired
           - Appropriate age to be held culpable
         - Unlawfully kills
           - Must be justifiable or excusable, now the same thing
-        - ‘Any reasonable creature in being’ 
+        - 'Any reasonable creature in being' 
           - Reasonable means human
-          - Must be born “in being”
-        - ‘Under the King’s peace’ 
+          - Must be born "in being"
+        - 'Under the King's peace' 
           - Jurisdictional limit
-        - ‘With malice aforethought, either express or implied by law’ 
+        - 'With malice aforethought, either express or implied by law' 
           - Intention to kill or cause harm
           - Recklesness as to death
           - Express malice is intent
           - Constructive murder
-            - malice is ‘implied by law’ when the law treats a person as if they had the relevant state of mind when in fact they did not (or, at least, it is not proved that they did).
-        - ‘Within a year and a day’ 
+            - malice is 'implied by law' when the law treats a person as if they had the relevant state of mind when in fact they did not (or, at least, it is not proved that they did).
+        - 'Within a year and a day' 
           - Proving causation, especially after long time
           - Now Crimes (Injuries) Amendment Act 1990 (NSW), inserting a new s 17A into the Crimes Act (NSW).
       - The contemporary elements of murder 
@@ -912,8 +912,8 @@ offences (ss 428C and
         - (1) 
           - (a) Murder shall be taken to have been committed where the act of the accused, or thing by him or her omitted to be done, causing the death charged, was done or omitted with reckless indifference to human life,or with intent to kill or inflict grievous bodily harm upon some person, or done in an attempt to commit, or during or immediately after the commission, by the accused, or some accomplice with him or her, of a crime punishable by imprisonment for life or for 25 years
       -  in New South Wales, murder is committed when: 
-        - 1. the accused’s voluntary act or omission causes the death of another human being; and 
-        - 2. the accused’s act or omission is accompanied by: 
+        - 1. the accused's voluntary act or omission causes the death of another human being; and 
+        - 2. the accused's act or omission is accompanied by: 
           - a. intent to kill; or 
           - b. intent to cause grievous bodily harm; or 
           - c. reckless indifference to human life. 
@@ -922,9 +922,9 @@ offences (ss 428C and
       -  In New South Wales, murderous recklessness encompasses only reckless indifference to death, not grievous bodily harm.
   - ACTUS REUS OF MURDER 
     - Who can be murdered
-      -  a child en ventre sa mere (in the womb) is not ‘in being’. 
+      -  a child en ventre sa mere (in the womb) is not 'in being'. 
       - Baby must be breathing, coughing, or sneezing traditionally used
-        - Functioning off it’s own organs, even if still dependant on another person
+        - Functioning off it's own organs, even if still dependant on another person
           - R v West [1848] ER 78; R v Iby (2005) 63 NSWLR 278
           - Unlawful homicide, once out of womb it becomes human life
             -  R v Martin (1995) 13 WAR 472
@@ -943,8 +943,8 @@ offences (ss 428C and
   - Conduct causing death: acts and omissions 
     - General provisions as to what can cause death
       - Conduct must be voluntary
-      - ‘Conduct’ encompasses both acts and omissions to act
-    - ‘innocent agency’ — the person who did the direct killing is innocent and is a tool for murderer if no intent to kill 
+      - 'Conduct' encompasses both acts and omissions to act
+    - 'innocent agency' — the person who did the direct killing is innocent and is a tool for murderer if no intent to kill 
       - offering and inciting are the acts that will satisfy the conduct element of murder, even though they are not the acts that directly cause the 
     - Accused could have chose to preserve life and had a legal duty, but chose not to
       - This is omission, still murder
@@ -952,7 +952,7 @@ offences (ss 428C and
       - Very rare
       - Similar to negligent manslaughter
   - Conduct must be voluntary 
-    -  The prosecution in a murder or manslaughter trial must prove that the accused’s conduct was voluntary. 
+    -  The prosecution in a murder or manslaughter trial must prove that the accused's conduct was voluntary. 
     - Automatism is not involvd
   - Case Summary:
     - Case Name: Ugle v R
@@ -983,23 +983,23 @@ offences (ss 428C and
       - The High Court allowed the appeal and ordered a new trial.
       - The case highlighted the importance of addressing the issue of unwilled acts and causation in murder cases, both under the Criminal Code (WA) and at common law.
   - Causation 
-    - Proving that the accused’s conduct caused the death of the victim is a pivotal part of any homicide trial.
+    - Proving that the accused's conduct caused the death of the victim is a pivotal part of any homicide trial.
     - Causation 
       - attribution of legal responsibility
       - Key case: Royall v The Queen (1991) 172 CLR 378
-        - an accused’s conduct will have caused a result if it ‘contributed significantly’ to that result or was ‘a substantial and operating cause’ of that result.
+        - an accused's conduct will have caused a result if it 'contributed significantly' to that result or was 'a substantial and operating cause' of that result.
         - complicating factor include: 
           - a natural event, for example the incoming tide (R v Hallett [1969] SASR 141: 
           - actions or choices of the victim, 
             - for example fatally injuring themselves when trying to escape the accused (R v RIK [2004] NSWCCA 282; Royall v R (1991) 172 CLR 378); 
             - leaving a hospital against medical advice: R v Bingapore (1975) or refusing medical treatment, such as a blood transfusion, on religious grounds: R v Blaue [1975] 3 All ER 446; [1975] 1 WLR 1411; 
           -  actions of a third party, for example 
-            - poor medical treatment exacerbating the victim’s injury (R v Smith [1959] 2 QB 36);
+            - poor medical treatment exacerbating the victim's injury (R v Smith [1959] 2 QB 36);
             - a police officer shooting at the accused but hitting the victim whom the accused was using as a human shield (R v Pagett (1983) 76 Cr App Rep 279).
         - Question becomes
-          - complicating factor new intervening act (novus actus interveniens) that ‘breaks the chain of causation’?
-    - the ‘but for’ test, 
-      - certain conduct (C) will be shown to be a cause of a particular result (R) if it can be shown that ‘but for’ C, R would not have 
+          - complicating factor new intervening act (novus actus interveniens) that 'breaks the chain of causation'?
+    - the 'but for' test, 
+      - certain conduct (C) will be shown to be a cause of a particular result (R) if it can be shown that 'but for' C, R would not have 
         - aka test for factual causation
       - Causation-in-fact is not causation-in-law. 
     - Case Summary:
@@ -1028,7 +1028,7 @@ offences (ss 428C and
         - Provides examples of situations where an accused might not be held liable for homicide, e.g., if an earthquake causes death after an assault.
         - The court emphasized that foreseeability of death is relevant to malice aforethought but not causation.
         - Explains that the act of the accused, consciously performed, should have a substantial causal effect that persists until the event, without being interrupted.
-        - an accused should not be held to be guilty unless his or her conduct induced the victim to take action which resulted in harm to him or her and that harm was either intended by the accused or was of a type which a reasonable person could have foreseen as a consequence of the accused’s conduct. 
+        - an accused should not be held to be guilty unless his or her conduct induced the victim to take action which resulted in harm to him or her and that harm was either intended by the accused or was of a type which a reasonable person could have foreseen as a consequence of the accused's conduct. 
         - 
       - Result:
         - The court upheld the trial judge's direction on causation.
@@ -1049,13 +1049,13 @@ offences (ss 428C and
           - Large enough to meaningfully contribute to death
           - Ongoing and still have an effect on the cause of death
           - Work backwards: Barman died due to the fire caused by lighting newspapers 
-      - However, in cases where the harm to the injured person would never have occurred but for a subsequent act of the victim or a third person. One test which has been used in this class of case is to ask whether the intervening act was a voluntary act or abnormal occurrence which amounted to a novus actus interveniens which broke ‘the chain of causation’.
+      - However, in cases where the harm to the injured person would never have occurred but for a subsequent act of the victim or a third person. One test which has been used in this class of case is to ask whether the intervening act was a voluntary act or abnormal occurrence which amounted to a novus actus interveniens which broke 'the chain of causation'.
     - Royall tests
       - Reasonable foreseeability test
         - Looks forward to determine whether conduct of D made the result reasonably foreseeable
       - Natural consequences test
         - `similar to rf test, 
-        - was V’s conduct a ‘natural’ response to D’s act?
+        - was V's conduct a 'natural' response to D's act?
           - Good for when victim does something, ex: jumps out a window
       - Substantial and operating cause test
         - Large enough to meaningfully contribute to death
@@ -1079,10 +1079,10 @@ offences (ss 428C and
       - However, the appeal was dismissed, affirming that the applicant's actions reasonably led to the deceased's death. 
       - The court emphasized the relevance of the applicant's state of mind to this outcome and clarified the temporal aspect of the relevant state of mind.
   - Jurisdictional issues 
-    - In New South Wales, there is now jurisdiction where there is ‘a territorial nexus’ between the state and the offence: Crimes Act (NSW) s 10C, inserted by the Crimes (Application of Criminal Law) Amendment Act 1992
+    - In New South Wales, there is now jurisdiction where there is 'a territorial nexus' between the state and the offence: Crimes Act (NSW) s 10C, inserted by the Crimes (Application of Criminal Law) Amendment Act 1992
     - Ward v R (1980) 142 CLR 308;
       - top of a steep bank of the River Murray, on the Victorian side of the river, 
-      - shot and killed the deceased who was fishing by the river’s edge, some 30 feet below
+      - shot and killed the deceased who was fishing by the river's edge, some 30 feet below
         - High Court held that the Victorian court did not have jurisdiction, the killing having taken place in New South Wales
       - not where the physical act of the accused is performed, but where that act takes effect upon its victim that determines the locus of a homicide.
     - R v Graham
@@ -1111,10 +1111,10 @@ offences (ss 428C and
   - Evans and Gardiner (No. 2),
     - Died 11 months after stabbing
     - Scar tissue from surgery - should have been diagnosed and treated (could be cured)
-    - upheld the applicant’s convictions for murder. 
+    - upheld the applicant's convictions for murder. 
     - abnormal treatment could be regarded as a supervening event which broke the causal chain
   - R v Blaue [1975] 1 WLR 1411
-    - chain of causation was not broken because the victim of a stabbing, who was a Jehovah’s Witness, had refused to have a blood transfusion which would probably have saved her life
+    - chain of causation was not broken because the victim of a stabbing, who was a Jehovah's Witness, had refused to have a blood transfusion which would probably have saved her life
     - Religion did not stop the injury from being stabbers fault
       - Those who use violence on other people must take their victims as they find them. 
       - This in our judgment means the whole man, not just the physical man.
@@ -1131,7 +1131,7 @@ offences (ss 428C and
     - a stabbing wound was stitched up but the victim died a week later.
     - death had not been caused by the stab wound but by the introduction of terramycin after the deceased 
     - had shown that he was intolerant of it and by the intravenous introduction of abnormal quantities of liquid which led to broncho-pneumonia from which the victim died
-    - Did not allow this evidence in as it would preclude jury from saying that they were satisfied that death was caused by the stab wound’
+    - Did not allow this evidence in as it would preclude jury from saying that they were satisfied that death was caused by the stab wound'
   - Homicide law table
 
 ##  
@@ -1159,7 +1159,7 @@ offences (ss 428C and
   - Intention to kill 
     - R v Moloney [1985] AC 
       - judge should avoid any elaboration or paraphrase of what is meant by intent,
-    - possessing an intent to kill someone is to meant to kill someone by one’s act, or to have someone’s death as the purpose or design of one’s act. 
+    - possessing an intent to kill someone is to meant to kill someone by one's act, or to have someone's death as the purpose or design of one's act. 
     - Willmot (No 2),
       - intention is not the same as desire or wish
       - Intent vs volition
@@ -1169,7 +1169,7 @@ offences (ss 428C and
         - Purpose directly addresses the act itself and its intended result - purpose is to kill business partner
         - Motive is the reason behind the purpose - to remove debt by killing partner
       - Intent means desire for an outcome
-    - ‘oblique intention’.
+    - 'oblique intention'.
       - Conduct knowing a particular outcome is certain
         - Bomb to destroy airfract for insurance money, knowing people will die
         - Direct pupose is to destroy aircraft
@@ -1181,9 +1181,9 @@ offences (ss 428C and
       - Cut off air supply to girl in motel
     - Director of Public Prosecutions v Smith [1961] AC 290.
       - GBH definition
-      - intention to cause grievous bodily harm’ means, in the law of murder, intention to cause bodily injury of a really serious kind: 
+      - intention to cause grievous bodily harm' means, in the law of murder, intention to cause bodily injury of a really serious kind: 
     - Grogan v R [2016] NSWCCA 168
-      - here a victim’s injuries only suggest a ‘moderate’ degree of force was used, an intention to inflict grievous bodily harm cannot be inferred
+      - here a victim's injuries only suggest a 'moderate' degree of force was used, an intention to inflict grievous bodily harm cannot be inferred
     - Grievous bodily harm definition s 4 Crimes Act 1900
       -  the destruction (other than in the course of a medical procedure or a termination of a pregnancy in accordance with the Abortion Law Reform Act 2019) of the foetus of a pregnant woman, whether or not the woman suffers any other harm, and
       - (b) any permanent or serious disfiguring of the person, and
@@ -1210,7 +1210,7 @@ offences (ss 428C and
   - Recklessness concerning really serious injury 
     - R v Solomon [1980] 1 NSWLR 321
       - murder under s 18 (1)(a) of the Crimes Act does not encompass recklessness as to any form of bodily injury (other than death).
-  - ‘Transferred malice’ 
+  - 'Transferred malice' 
     -  R v Newman [1948] VLR 61
       - if a man, intending to murder one person, kill a third person, even if the killing of the third person is unintended, he is guilty of the murder of the third person. 
     - R v Saunders and Archer (1577) 
@@ -1235,7 +1235,7 @@ offences (ss 428C and
       - Included in s 18(1)(a
     - Known as constructive murder or felony murder
   - Jayasena v The Queen [1970] AC 618 
-    - Defendant burden to raise the ‘reasonable possibility’ of the defence. 
+    - Defendant burden to raise the 'reasonable possibility' of the defence. 
   - Defenses to murder
     - NSW has partial defences
       - extreme provocation, 
@@ -1244,9 +1244,9 @@ offences (ss 428C and
       - or excessive self-defence
       - 12 months - infanticide
   - Criminal Code (Cth) does in its definition of recklessness at s 5.4: 
-    - ‘A person is reckless with respect to a result if: 
+    - 'A person is reckless with respect to a result if: 
       - (a) he or she is aware of a substantial risk that the result will occur; and 
-      - (b) having regard to the circumstances known to him or her, it is unjustifiable to take the risk’. 
+      - (b) having regard to the circumstances known to him or her, it is unjustifiable to take the risk'. 
     - Doctor saving life due to risky surgery is higher purpose
     - R v Faure [1999] 2 VR 537
       - Russian roulette death is not thigher purpose, even with same odds of death
@@ -1275,7 +1275,7 @@ offences (ss 428C and
   - R v Ravindran (No.4) [2013] NSWSC 1106
     - Guilt must not only be a rational inference, but it must be the only rational inference that the proven facts enable me to draw. 
     - Everything was circumstantial evidence
-    - Strong evidence of father suicidal tendancy, killed himself, son beat the father when “dead” which killed him.
+    - Strong evidence of father suicidal tendancy, killed himself, son beat the father when "dead" which killed him.
       - Prosecution did not have provable intent
 ## Week 3B: Voluntary Manslaughter
 
@@ -1298,8 +1298,8 @@ offences (ss 428C and
     -  R v MB [2014] NSWSC 1755
       - found mother to be unfit to be tried, 
       - accused raised the partial defence of infanticide
-      - the effect of giving birth to the child’ and the ‘effect of lactation’ 
-        - disturbance of mind that the accused claims ‘must be by reason solely of her not having fully recovered from the effect of the process of giving birth’ (emphasis in original). 
+      - the effect of giving birth to the child' and the 'effect of lactation' 
+        - disturbance of mind that the accused claims 'must be by reason solely of her not having fully recovered from the effect of the process of giving birth' (emphasis in original). 
       - because of the significance of other factors, the accused could not rely upon s 22A. 
         - Partially schizo aggravated by baby
   - Defence of Substantial Impairment by abnormality of mind: 
@@ -1317,7 +1317,7 @@ offences (ss 428C and
     - Extreme provocation	
       - a killing under extreme provocation provides a partial defence for murder, resulting in a conviction of manslaughter: Crimes Act (NSW) s 23(1).
       - In 2014, amendments were introduced by the Crimes Amendment (Provocation) Act 2014 (NSW) 
-        - changing the name of the partial defence to ‘extreme provocation’ and making the requirements of the defence more stringent.
+        - changing the name of the partial defence to 'extreme provocation' and making the requirements of the defence more stringent.
         - The amended provision introduced a new objective test. 
           - For the partial defense to be available, the acts or omissions of the deceased must constitute extreme provocation to an ordinary person, and the accused must have lost self-control in response to these acts or omissions.
         - Exclusions: 
@@ -1335,21 +1335,21 @@ offences (ss 428C and
         - Must still have been possible to control actions during passion
       - Purpose of provocation is providing an appropriate offence label (that is, manslaughter) that reflects the lesser-degree of culpability of the offender
   - The partial defence of extreme provocation has three aspects: 
-    -  (1) there was a ‘trigger’; that is, there was an act of the deceased towards or affecting the accused that amounted to a serious indictable offence, and that is not excluded by s 23(3); 
+    -  (1) there was a 'trigger'; that is, there was an act of the deceased towards or affecting the accused that amounted to a serious indictable offence, and that is not excluded by s 23(3); 
     - (2) this trigger caused the accused to lose self-control (which is assessed subjectively); and 
     - (3) the conduct of the deceased could have caused an ordinary person to lose self-control to the extent of intending to kill or inflict grievous bodily harm on the deceased (which is assessed objectively)
   - Procedural issues 
     - Extreme provocation becomes relevant only if the prosecution has otherwise proven all the elements of murder.
   - Trigger for the loss of self-control 
     - Triggers for provocations
-      -  ‘Conduct of the deceased towards or affecting the accused’ 
+      -  'Conduct of the deceased towards or affecting the accused' 
         - R v Davis (1998) 100 A Crim R 573.
           - Killed someone that stepdaughter told assaulted her and 5 year old neice.
           - Davis killed deceased while sleeping later days
             - Held in R v Quartly (1986) 11 NSWLR 332, that hearsay provocation does not amount to provocative conduct within the meaning of the Crimes Act (NSW). 
-    -  ‘Serious indictable offence’
-      - conduct of the deceased must constitute a ‘serious indictable offence’ 
-      - According to the Crimes Act (NSW) s 4(1), a serious indictable offence is an ‘indictable offence that is punishable by imprisonment for life or for a term of 5 years or more’
+    -  'Serious indictable offence'
+      - conduct of the deceased must constitute a 'serious indictable offence' 
+      - According to the Crimes Act (NSW) s 4(1), a serious indictable offence is an 'indictable offence that is punishable by imprisonment for life or for a term of 5 years or more'
   - Exclusions
     - The conduct was only a non-violent sexual advance to the accused
       - Green v R (1997) 191 CLR 334; 148 ALR 659 (at 6.40C), Green killed the deceased after the deceased made an unwanted homosexual advance towards him
@@ -1359,20 +1359,20 @@ offences (ss 428C and
     - In R v Allwood, the accused deliberately sought out the deceased and was determined to have a confrontation. 
       - Only if the hostile reaction goes beyond the reasonably predictable can provocation that is itself provoked be fit for consideration by a jury.
   - Words alone?
-    - After 2014, the requirement in s 23(2)(b) that the provocative or ‘triggering’ conduct by the deceased must amount to a serious indictable offence (discussed at 6.31) is likely to prevent an accused from successfully raising provocation in many situations involving words alone
+    - After 2014, the requirement in s 23(2)(b) that the provocative or 'triggering' conduct by the deceased must amount to a serious indictable offence (discussed at 6.31) is likely to prevent an accused from successfully raising provocation in many situations involving words alone
     - Moffa v R (1977) 138 CLR 60
       - Wife became indifferent to husband, wife was going to leave family
       - Begged wife not to leave family
-      - Insulting words Moffa v The Queen (1977) 138 CLR 601, 620-621 Mason J requires “close scrutiny of claims of provocation founded in words, rather than in conduct.” b/c words easier to fake claim
+      - Insulting words Moffa v The Queen (1977) 138 CLR 601, 620-621 Mason J requires "close scrutiny of claims of provocation founded in words, rather than in conduct." b/c words easier to fake claim
     - R v R (1981) 28 SASR 321
       - Woman was not present, but daughters were raped by husband
       - Killed husband
         - Judge found that jury should have decided bc she was not present, almost hearsay
-  - The ‘trigger’ caused the accused to lose self-control 
+  - The 'trigger' caused the accused to lose self-control 
     - There must be some evidence that the accused was, in fact, acting under provocation. 
     - accused cannot assert that the situation would have aroused the ire of another, although it in fact left them unmoved.
   -  Timing between the triggering conduct and the (actual) loss of self-control	
-    - Provocation includes ‘slow-burn’ response to long-term domestic violence: see R v Muy Ky Chhay (1994) 72 A Crim R 1.
+    - Provocation includes 'slow-burn' response to long-term domestic violence: see R v Muy Ky Chhay (1994) 72 A Crim R 1.
       - does not remove the requirement that the accused must have subjectively lost self-control
   - Self-induced intoxication and the loss of self-control
     - However, self-induced intoxication is now irrelevant to this question. 
@@ -1389,7 +1389,7 @@ offences (ss 428C and
           -  The second stage
             - a court must ask whether an ordinary person could have lost self-control to such an extent as to form the intention to kill or inflict grievous bodily harm and to act upon that intention as the accused did.
     - Removed two-stage test
-      - Section 23(2)(d) requires that ‘the conduct of the deceased could have caused an ordinary person to lose self-control to the extent of intending to kill or inflict grievous bodily harm on the deceased.
+      - Section 23(2)(d) requires that 'the conduct of the deceased could have caused an ordinary person to lose self-control to the extent of intending to kill or inflict grievous bodily harm on the deceased.
   -  Singh v R [2012] NSWSC 637
     - Chamanjot Singh was sentenced to just six years in prison for repeatedly slitting his wife's throat with a box cutter after she threatened to leave him and have him deported back to India
     - Sentenced to manslaughter, could not refute explanation
@@ -1400,7 +1400,7 @@ offences (ss 428C and
   - Taiapa v R (2009) 240 CLR 9
     - Taiapa had a drug-related debt of $60,000 to his dealers, Tony and Salvatore.
       - When he couldn't repay the debt, the dealers threatened Taiapa's partner's life if he approached the police. 
-    - Compulsion could not be held due to accused’s belief that police could not protect him
+    - Compulsion could not be held due to accused's belief that police could not protect him
     - The lack of faith in police to protect his familyt was not sufficient to claim compulsion in committing the crime
   - R v Turnball
     - 70 year old farmer held grudge against compliance officer for farm purposes 
@@ -1412,10 +1412,10 @@ offences (ss 428C and
   - (2) manslaughter by gross negligence
     -  Manslaughter by omission 
 - Unlawful and dangerous act manslaughter 
-  - confine the concept of ‘unlawful act’ to those acts that are subject to criminal punishment and not simply to civil liability, 
+  - confine the concept of 'unlawful act' to those acts that are subject to criminal punishment and not simply to civil liability, 
   - Accepted since R v Franklin (1883) 15 Cox CC 163.
   - R v Larkin [1943] 1 All ER 217 
-    - unlawful act must also be ‘dangerous’, and defined a dangerous act as one ‘likely to injure another person’.
+    - unlawful act must also be 'dangerous', and defined a dangerous act as one 'likely to injure another person'.
   -  R v Church [1966] 1 QB 59
     - Unlawful act must reasonably subject the other person to this risk of harm, including minor harm
   - Wilson v R,
@@ -1447,7 +1447,7 @@ offences (ss 428C and
         - Breaks the chain of causation with a voluntary act
         - R v Dalby [1982] 1 All ER
   -  Appreciable risk of serious injury 
-    - a jury must assess whether the act was such that a ‘reasonable person would realize that it was exposing others to an appreciable risk of serious injury’
+    - a jury must assess whether the act was such that a 'reasonable person would realize that it was exposing others to an appreciable risk of serious injury'
 - Supply of drugs causing death 
   - New South Wales has created a new offence of supply of drugs causing death: 
     - Crimes Act (NSW) s 25C. 
@@ -1468,13 +1468,13 @@ offences (ss 428C and
   -  Negligent act 
     - Where negligent manslaughter is due to an act, the elements of the offence are specified in Nydam v R [1977] VR 430.
     - prosecution must establish that: 
-      - D’s acts were voluntary; 
-      - D’s acts caused V’s death; and 
+      - D's acts were voluntary; 
+      - D's acts caused V's death; and 
       - there has been a gross departure from the standard of care of a reasonable person, amounting to criminal negligence. 
   - Negligent omission 
     -  R v Lavender (2005) 222 CLR 67 test of negligent manslaughter by omission,
       - D must be under a legally-recognised duty to act; 
-      - D must have omitted to fulfil this duty, or ‘breached’ the duty, in a way that exhibited a great degree of negligence as required by the doctrine of negligent manslaughter; and 
+      - D must have omitted to fulfil this duty, or 'breached' the duty, in a way that exhibited a great degree of negligence as required by the doctrine of negligent manslaughter; and 
       - as a result of this omission, V died
   -  Gross criminal negligence 
     - The prosecution must identify a legal duty to act. At common law, legal duties to act have been found in: 
@@ -1499,7 +1499,7 @@ offences (ss 428C and
         - (d) That the respondent had control over the site and the ability to direct that steps be taken to secure the wall. 
         - (e) That the wall could be braced at little cost or inconvenience
   - R v Instan [1893] 1 QB 450 
-    - Caretaker niece did not take aunt to doctor, she was the only one who knew of aunt’s condition, but only brought necessities.
+    - Caretaker niece did not take aunt to doctor, she was the only one who knew of aunt's condition, but only brought necessities.
     - Aunt died from exhaustion from the gangrene
   - R v Taber & Styman [2005] NSWSC 1292.
     - Defendants Peter David Taber and Ian Craig Styman were found guilty of manslaughter in a court case in New South Wales, Australia.
@@ -1544,21 +1544,21 @@ offences (ss 428C and
 - Homicide problem-solving tips
   - How to identify a homicide problem question?
     - A homicide fact scenario involves a victim who has died. 
-      - It asks you to assess whether the defendant is criminally liable for that person’s death.
+      - It asks you to assess whether the defendant is criminally liable for that person's death.
     - In this subject, you can assume that fact scenarios take place in NSW, and therefore the relevant law that will apply is NSW legislation, including the Crimes Act 1900 (NSW) and applicable caselaw.
   - Problem-solving: Murder, Involuntary manslaughter and Assault Causing Death
     - For homicide scenarios,
-      - ordinarily, after assessing the defendant (D’s) liability for murder, and assessing the elements success of any partial defence(s) D will raise, you will need to consider the appropriate ‘back up’ offence(s)
+      - ordinarily, after assessing the defendant (D's) liability for murder, and assessing the elements success of any partial defence(s) D will raise, you will need to consider the appropriate 'back up' offence(s)
       - Involuntary manslaughter. They are:
         - Unlawful and Dangerous Act manslaughter (Wilson);
           - alternative, assault causing death (s 25A). 
-            - Intentional hitting’ (like a punch, a strike, a beating, a head-butt or a slap).
+            - Intentional hitting' (like a punch, a strike, a beating, a head-butt or a slap).
         - Negligent manslaughter, noting that this offence can be committed by way of a positive act (Nydam; Lavender) or an omission (Taktak
         - both types of involuntary manslaughter (e.g. Taber; Burns); 
         - or only one type (e.g. Taktak
   - Overal format of essay
     - Step 1. 
-      - assess the defendant’s liability for the offence of murder. 
+      - assess the defendant's liability for the offence of murder. 
     - Step 2.
       -  whether the defendant will raise any partial defences (if the facts raise a partial defence)
         - Becomes voluntary manslaughter
@@ -1596,8 +1596,8 @@ offences (ss 428C and
   - Footnotes should generally appear after the punctuation at the end of a sentence.
   - The first citation of a source should appear in full.
     - Ibid should be used to refer to a source in the immediately preceding footnote, including any pinpoints.
-  - ‘The King’ or ‘The Queen’ should be abbreviated to ‘R’ when it is the first named party (e.g. R v Reid [2007] 1 Qd R 64).
-    - When the Crown is the respondent, ‘The Queen’ or ‘The King’ should be written in full (e.g. Honeysett v The Queen (2014) 253 CLR 122)
+  - 'The King' or 'The Queen' should be abbreviated to 'R' when it is the first named party (e.g. R v Reid [2007] 1 Qd R 64).
+    - When the Crown is the respondent, 'The Queen' or 'The King' should be written in full (e.g. Honeysett v The Queen (2014) 253 CLR 122)
 ## Week 5: Assault and Related Offences 
 
 - assault 
@@ -1614,7 +1614,7 @@ offences (ss 428C and
   - Intention and recklessness 
     - either intent or recklessness is required in order for there to be an assault: 
       - Fagan v Metropolitan Police Commissioner [1969] 1 QB 439
-  - The victim’s mental state 
+  - The victim's mental state 
     - does not matter whether the victim was or was not conscious of what was being done
     - State v Barry (1912) 45 Mont 598 that to point a rifle from behind at a victim who was unaware of what was going on was not an assault
     - Pemble v R (1971) 124 CLR 107;
@@ -1624,7 +1624,7 @@ offences (ss 428C and
         - victim was unaware that the accused was threatening her with the rifle, an assault was not committed.
     - Brady v Schatzel [1911] St R Qd 
       - victim testified that when the accused pointed a gun at him he did not try to protect himself because he did not think she would fire it. 
-      - Judge still found guilty of assault on the grounds that otherwise an accused’s liability would vary according to whether their chosen victim was timid or courageous.
+      - Judge still found guilty of assault on the grounds that otherwise an accused's liability would vary according to whether their chosen victim was timid or courageous.
     -  Ryan v Kuhl [1979] VR 315
       - The accused thrust a carving knife through a hole in the partition between the neighboring toilet cubicle in order, he said, to stop the victim from annoying him.
       -  sight of the knife had not frightened him, since he realised that the accused could not harm him with the knife while he remained in his cubicle. 
@@ -1647,10 +1647,10 @@ offences (ss 428C and
       - Assault cannot be an omission
   - R v Miller [1983] 2 AC 161; 
     -  arson causing death is an offence under s 197A, and under ss 195–197 of the Crimes Act (NSW
-    -  ‘Whether the actus reus of the offence of Arson is present when a Defendant accidentally starts a fire and thereafter, intending to destroy or damage property belonging to another or being reckless as to whether any such property would be destroyed or damaged, fails to take any steps to extinguish the fire or prevent damage to such property by that fire?
+    -  'Whether the actus reus of the offence of Arson is present when a Defendant accidentally starts a fire and thereafter, intending to destroy or damage property belonging to another or being reckless as to whether any such property would be destroyed or damaged, fails to take any steps to extinguish the fire or prevent damage to such property by that fire?
 - R v Patton [1998] 1 VR 7 
   - The accused was convicted of a number of offences, including burglary arising from a spate of criminal activity over the course of an afternoon. 
-  - The Crown alleged the accused had entered a building as a trespasser with ‘intent to assault and injure a person (in the premises)’.
+  - The Crown alleged the accused had entered a building as a trespasser with 'intent to assault and injure a person (in the premises)'.
   - On appeal it was argued that the accused should not have been convicted of burglary because the intent relied on was an intent to commit a common assault, and that crime had been abolished in Victoria when the former s 37 of the Crimes Act (Vic) was repealed in 1985
     - we are satisfied that the Parliament did not intend, when it repealed s 37, to do more than remove the penalty which had been so prescribed. 
     - The effect of the repeal was, we believe, to leave the offence of common assault as a common law offence capable of being tried on indictment and for which the penalty was at large.
@@ -1660,7 +1660,7 @@ offences (ss 428C and
   - In doing so, he kicked the hand of one of the police officers, fracturing a bone. 
   - The appellant claimed that he was kicking out in an attempt to get up off the ground, and that he did not intend his foot to strike the police officer. 
     - The appellant was charged, inter alia, with assault occasioning actual bodily harm. 
-    - The trial judge directed the jury that they could find the appellant guilty if they found that he had lashed out with his feet ‘reckless as to who was there, not caring one iota as to whether he kicked somebody’. 
+    - The trial judge directed the jury that they could find the appellant guilty if they found that he had lashed out with his feet 'reckless as to who was there, not caring one iota as to whether he kicked somebody'. 
     - The appellant was convicted, and appeale
   - Argued on R v Lamb [1967] 2 All ER 1282, 
     - assault is not established by proof of a deliberate act which gives rise to consequences which are not intende
@@ -1717,23 +1717,23 @@ offences (ss 428C and
 - R v Westaway (1991) 52 A Crim R 336
   - The applicant appealed against his conviction under s 16 of the Crimes Act (Vic) for intentionally causing serious injury to a child. 
     - The applicant had been looking after the 1-month old child of his partner in their caravan, while his partner was out. 
-  - On the mother’s return, the child was found to have been injured; she had a fractured skull, brain damage and other injuries. 
+  - On the mother's return, the child was found to have been injured; she had a fractured skull, brain damage and other injuries. 
     - The applicant eventually admitted to hitting the child and to picking her up and throwing her.
   - The injury must have been intended (Westaway v R) AND
     - The prosecution must establish an intention to cause serious injury, not merely an intention to do an act which in fact causes serious injury
 - R v Abdul-Rasool (2008) 18 VR 586
   - The applicant was convicted of reckless conduct endangering life. 
-  - In the course of an altercation in the office of the deputy principal of the school attended by the applicant’s daughter, the applicant poured petrol over herself, some of which splashed onto the deputy principal and an interpreter who was present. 
-  - At trial, the Crown submitted that in the applicant’s highly agitated state she may have lit the petrol by striking a lighter or matches she was carrying and setting fire to herself. On appeal against conviction
+  - In the course of an altercation in the office of the deputy principal of the school attended by the applicant's daughter, the applicant poured petrol over herself, some of which splashed onto the deputy principal and an interpreter who was present. 
+  - At trial, the Crown submitted that in the applicant's highly agitated state she may have lit the petrol by striking a lighter or matches she was carrying and setting fire to herself. On appeal against conviction
 -  R v Knight (1988) 35 A Crim R 314
   - In the given circumstances, a threat of violence made over the phone could be a threat of immediate violence: 
 - Zanker v Vartzokas (1988) 34 A Crim R 11
   - It has also been held that threats made by a driver (the D) in a moving vehicle, where the V is a passenger, can create an apprehension of imminent harm for the purpose of (psychological) assault: 
-    - ‘there was no escape, no reasonable possibility of a novus actus interveniens to break the causal link between the threat and the expected infliction of harm’.
+    - 'there was no escape, no reasonable possibility of a novus actus interveniens to break the causal link between the threat and the expected infliction of harm'.
 - CONSENT 
   - Limits of consent
     - R v Brown [1994] 1 AC 212
-      - Good law for what’s consensual, not good for whether sado-masichism is legal
+      - Good law for what's consensual, not good for whether sado-masichism is legal
       - The appellants belonged to a group of sado-masochistic homosexuals who, over a 10-year period from 1978, willingly participated in the commission of acts of violence against each other, including genital torture, for the sexual pleasure it engendered in the giving and receiving of pain. 
         - The passive partner or victim in each case consented to the acts being committed and suffered no permanent injury. 
       - The activities took place in private at a number of different locations, including rooms equipped as torture chambers at the homes of three of the appellants. 
@@ -1750,7 +1750,7 @@ offences (ss 428C and
     - In R v Clarence (1888) 22 QBD 23; [1886–90] All ER Rep 133, the Court for Crown Cases Reserved had considered the question of whether an apparent consent to sexual relations could be negated by the fact that, unbeknown to the person consenting, the other party was infected with a life-threatening sexually transmitted disease.
   -  Aubrey v The Queen [2017] 
     - appellant caused the complainant to contract HIV.
-      - infecting another person with a sexually transmitted infection is within the definition of ‘maliciously inflicting grievous bodily harm’ under s 35(1)(b) of the Crimes Act (NSW).
+      - infecting another person with a sexually transmitted infection is within the definition of 'maliciously inflicting grievous bodily harm' under s 35(1)(b) of the Crimes Act (NSW).
 - Boxing and other contact sports 
   - Prize fights 
     - (bare knuckle contests of indefinite duration, ending only when one contestant was unable to continue) 
@@ -1761,12 +1761,12 @@ offences (ss 428C and
       - civil action for damages in respect of injuries suffered to his eyesight
     - Used in r v brown as justification for society sanctioned violence
 - Surgery and body modifications 
-  - Surgical operations are lawful when performed with the patient’s consent, even though the operation may be dangerous to life
-    - A surgeon who operates on an unwilling patient commits an assault, no matter how selfless the surgeon’s motives might be or how great their concern for the patient’s well-being.
+  - Surgical operations are lawful when performed with the patient's consent, even though the operation may be dangerous to life
+    - A surgeon who operates on an unwilling patient commits an assault, no matter how selfless the surgeon's motives might be or how great their concern for the patient's well-being.
   - Human Tissue Act 1983 (NSW) s
   - Children and Young Persons (Care and Protection) Act 1998 (NSW) s 174 
     - provides that for emergency medical treatment, a medical practitioner or dentist may carry out medical or dental treatment on a child (under 16 years) or young person (16 or 17 years) without the consent of the child/young person or their parent 
-      - if the medical practitioner or dentist ‘is of the opinion that it is necessary, as a matter of urgency, to carry out the treatment on the child or young person in order to save his or her life or to prevent serious damage to his or her health’
+      - if the medical practitioner or dentist 'is of the opinion that it is necessary, as a matter of urgency, to carry out the treatment on the child or young person in order to save his or her life or to prevent serious damage to his or her health'
 - OTHER OFFENCES AGAINST THE PERSON 
   - Affray
     - using or threatening unlawful violence towards another in circumstances where third persons of reasonable firmness, present at the scene, would fear for their own personal safety
@@ -1775,7 +1775,7 @@ offences (ss 428C and
       - For public order purposes
     - I v Director of Public Prosecutions [2002] 1 AC 285.
       - (1) whether the overt possession of a weapon could constitute a threat of violence for the purpose of affray when it was not used or brandished in a violent manner; 
-        - Answer: the visible carrying in public of primed petrol bombs by a large number of what was obviously a ‘gang out for no good’ 
+        - Answer: the visible carrying in public of primed petrol bombs by a large number of what was obviously a 'gang out for no good' 
       - and (2) whether the threat of unlawful violence had to be towards a person or persons present at the scene
         -  held that the threat of unlawful violence had to be directed towards a person or persons present at the scene.
   - R v St George (1840) 9 Car & P 483
@@ -1794,7 +1794,7 @@ offences (ss 428C and
     - R v Coney (1882) 8 QBD 534 
       - Stephen J
         - The act of maim was unlawful because the King was deprived of the services of an able-bodied citizen for the defence of the realm. 
-        - If injury deprives “the public” of a resource, then consent does not matter
+        - If injury deprives "the public" of a resource, then consent does not matter
       - Hawkins J
         -  though a man may by consent debar himself from his right to maintain a civil action, he cannot thereby defeat proceedings instituted by the Crown in the interest of the public for the maintenance of good order ..
     - Hawkins J
@@ -1809,9 +1809,9 @@ offences (ss 428C and
       - The wife consented to the sexual intercourse that occurred
         - wife did not, however, consent to the infliction of serious injury upon herself in the form of a potentially fatal disease.
   -  Aubrey v The Queen [2017] HCA 18
-    -  High Court held that infecting another person with a sexually transmitted infection is within the definition of ‘maliciously inflicting grievous bodily harm’ under s 35(1)(b) of the Crimes Act (NSW). 
+    -  High Court held that infecting another person with a sexually transmitted infection is within the definition of 'maliciously inflicting grievous bodily harm' under s 35(1)(b) of the Crimes Act (NSW). 
     - R v Clarence (1888) 22 QBD 23 should no longer be followed.
-      - Required: ‘direct causing of some grievous injury to the body itself ’ — a manifest, immediate and obvious occasioning of harm.
+      - Required: 'direct causing of some grievous injury to the body itself ' — a manifest, immediate and obvious occasioning of harm.
 - Boxing and other contact sports 
   - Prize fights have been illegal since the nineteenth century:
     -  bare knuckle contests of indefinite duration, ending only when one contestant was unable to continue
@@ -1837,7 +1837,7 @@ offences (ss 428C and
     - Haoui v R [2008] NSWCCA 209
       - No specific threshold that differentiates GBH from aggravated assault
     - Wick v R [2017] NSWCCA 244 p
-      - severity of the tissue damage is evident from the surgeon’s description of the lacerations as “full thickness”, causing the victims face to be immediately “gushing with blood” (in Mr Danaher’s description) and requiring two layers of suturing
+      - severity of the tissue damage is evident from the surgeon's description of the lacerations as "full thickness", causing the victims face to be immediately "gushing with blood" (in Mr Danaher's description) and requiring two layers of suturing
       - Quantity and quality of wounds indicated GBH
   - Assaults accompanied by particular intentions or performed in a particular way 
     - The most important form of aggravated assault involving a particular intention is assault with intent to commit murder: Crimes Act (NSW) s 27
@@ -1857,8 +1857,8 @@ offences (ss 428C and
     - Section 326 of the Crimes Act (NSW) provides for reprisals against judges, witnesses, and jurors: see R v Pender [2019] NSWSC 1814
   - Assaults resulting in harm of a particular kind: New South Wales 
     - assault occasioning actual bodily harm (Crimes Act (NSW) s 59) and 
-      -  ‘Actual bodily harm’ (abh) covers any hurt or injury calculated to interfere with the health or comfort of the victim, provided it is something more than merely transient and trifling: R v Donovan [1934] 2 KB 498 at 509
-        - Examples include cutting a person’s hair (Director of Public Prosecutions v Smith [2006] EWHC 94) 
+      -  'Actual bodily harm' (abh) covers any hurt or injury calculated to interfere with the health or comfort of the victim, provided it is something more than merely transient and trifling: R v Donovan [1934] 2 KB 498 at 509
+        - Examples include cutting a person's hair (Director of Public Prosecutions v Smith [2006] EWHC 94) 
         - or psychiatric injury (R v Chan-Fook [1994] 2 All ER 552;
     - wounding or inflicting grievous bodily harm (Crimes Act (NSW) ss 33, 35, 54)
       - Wounding def
@@ -1878,15 +1878,15 @@ offences (ss 428C and
   - Section 61AA of the Crimes Act (NSW) limits the extent to which a child can be physically disciplined
     -  the physical force was applied by the parent of the child or by a person acting for a parent of the child, and 
     - (b) the application of that physical force was reasonable having regard to the age, health, maturity or other characteristics of the child, the nature of the alleged misbehaviour or other circumstances.
-  - Unless the force is trivial, it is not ‘reasonable’ if it is applied 
-    - (s 61AA(2)) ‘(a) to any part of the head or neck of the child, 
-    - or (b) to any other part of the body of the child in such a way as to be likely to cause harm to the child that lasts for more than a short period’.
+  - Unless the force is trivial, it is not 'reasonable' if it is applied 
+    - (s 61AA(2)) '(a) to any part of the head or neck of the child, 
+    - or (b) to any other part of the body of the child in such a way as to be likely to cause harm to the child that lasts for more than a short period'.
 - Stalking
   - Stalking
     - is, following or otherwise showing repeated unwanted attention to another, often a woman),
       - in circumstances that arouse reasonable fear or apprehension in the person being stalked, represents a twofold dange
     - Crimes (Domestic and Personal Violence) Act 2007 (NSW) s 13
-      - Section 13(3) requires that the accused actually ‘knows that the conduct is likely to cause fear in the other person’ (that is, a subjective standard).
+      - Section 13(3) requires that the accused actually 'knows that the conduct is likely to cause fear in the other person' (that is, a subjective standard).
       - not required to prove that the victim actually feared physical or mental harm. 
         - Director of Public Prosecutions (NSW) v Lucas [2014] NSWSC 1441
     - Crimes (Domestic and Personal Violence) Amendment Act 2018 (NSW) 
@@ -1894,13 +1894,13 @@ offences (ss 428C and
         - Expanding the definition of stalking and intimidation to publication of offensive material via the internet or a smart device would capture situations where intimate images are distributed without consent, where the offender also intends to cause mental harm to the victim by distributing the image.
   - Ritual circumcision and female genital mutilation 
     - Female circumcision
-      - Aka ‘female genital mutilation’,
+      - Aka 'female genital mutilation',
       - Criminalized Crimes Act (NSW) s 45
     - R v A2; R v Magennis; R v Vaziri [2019] HCA 35 
       - Ritual involving daughters like a circumcision, determined illegal
-      - otherwise mutilates’ in s 45(1)(a) of the Crimes Act (NSW) must mean physical injury to the clitoris to any extent for non-medical reasons, and that a nick or cut is capable of constituting mutilation.
-        - (1) the court erred in construing the words ‘otherwise mutilates’ in s 45(1)(a) as requiring injury or damage that ‘renders the [labia majora or labia minora or clitoris of another person] imperfect or irreparably damaged in some fashion’; 
-        - and (2) the court erred in construing the terms ‘clitoris’ in s 45(1)(a) of the Act as not including the clitoral hood or prepuce
+      - otherwise mutilates' in s 45(1)(a) of the Crimes Act (NSW) must mean physical injury to the clitoris to any extent for non-medical reasons, and that a nick or cut is capable of constituting mutilation.
+        - (1) the court erred in construing the words 'otherwise mutilates' in s 45(1)(a) as requiring injury or damage that 'renders the [labia majora or labia minora or clitoris of another person] imperfect or irreparably damaged in some fashion'; 
+        - and (2) the court erred in construing the terms 'clitoris' in s 45(1)(a) of the Act as not including the clitoral hood or prepuce
   - R v Wilson (1996) Crim LR 573
     - Husband brands wife with initials, goes to hospital bc of slight mistake, wife consents
     - Branding is just like a tattoo, consensual 
@@ -1919,8 +1919,8 @@ offences (ss 428C and
   - Crimes Amendment (Consent—Sexual Assault Offences) Act 2007 (NSW), and, most recently, the 
     - Criminal Legislation Amendment (Child Sexual Abuse) Act 2018 (NSW) 
     - rephrased the non-penetrative sexual offences (indecent assault and acts of indecency) and renumbered several sections within Div 10
-  - The purported justification for a husband’s immunity at common law to a charge of raping his wife was the view that by entering into the marriage the wife impliedly and irrevocably consented to all further acts of intercourse by the husband with her: 
-    - Hale’s The History of the Pleas of the Crown,
+  - The purported justification for a husband's immunity at common law to a charge of raping his wife was the view that by entering into the marriage the wife impliedly and irrevocably consented to all further acts of intercourse by the husband with her: 
+    - Hale's The History of the Pleas of the Crown,
     - Responsability now to protect women from acts of rape within marriage
       - R v L (1991) 174 CLR 379 
       - R v R [1992] 1 AC 599.
@@ -1929,7 +1929,7 @@ offences (ss 428C and
       - (1) A person consents to a sexual activity if, at the time of the sexual activity, the person freely and voluntarily agrees to the sexual activity.
   - Reforming legislation in each of the common law jurisdictions has had the effect of prohibiting cross-examination of a complainant about sexual activities where such cross-examination is essentially intended to suggest that the complainant is the type of person who is likely to have consented to the sexual activity the subject of the charge:
     -  Criminal Procedure Act 1986 (NSW) s 293.
-      - evidence relating to the sexual reputation of the complainant is inadmissible except where it is connected to the offence or the relationship between the accused and the complainant, or is relevant to the complainant’s sexually transmitted disease or pregnancy
+      - evidence relating to the sexual reputation of the complainant is inadmissible except where it is connected to the offence or the relationship between the accused and the complainant, or is relevant to the complainant's sexually transmitted disease or pregnancy
   - Some of the reasons for the low levels of conviction include 
     - the attrition of sexual assault cases at various stages of the justice system, 
     - treatment of complainants throughout the trial, 
@@ -1947,7 +1947,7 @@ offences (ss 428C and
 - SEXUAL PENETRATION 
   - Sexual penetration of the complainant by the accused is an essential element of the crime of rape. 
     - It constitutes the core conduct element of rape
-    - ‘sexual intercourse
+    - 'sexual intercourse
   - Types of commonwealth sexual intercourse def/penetration 
     - penile penetration of the vagina,
     - penetration of the vagina by any other body part or by an object;
@@ -1955,13 +1955,13 @@ offences (ss 428C and
     - penetration of the mouth by the penis. 
     - sexual intercourse also includes cunnilingus. 
       - oral stimulation of the female genitals with the mouth or tongue: BA v R [2015] NSWCCA 189 at [9]. 
-  - In relation to fellatio (BJ), R v Preval [1984] 3 NSWLR 647 it was held (at 649) that ‘the penetration of the lips of the victim is a penetration of the mouth in order to constitute the offence. .
+  - In relation to fellatio (BJ), R v Preval [1984] 3 NSWLR 647 it was held (at 649) that 'the penetration of the lips of the victim is a penetration of the mouth in order to constitute the offence. .
     - Penetration may be only fleeting: see Randall v R (1991) 55 SASR 447; 
 - Continuing penetration 
   - sexual penetration was at first consensual but consent is later withdrawn and the sexual penetration continues
     - Crimes Act (NSW) s 61H(1)(d)
     - Kaitamaki v R [1984] 1 AC 147.
-  - vagina’ in both New South Wales and Victoria includes surgically constructed vaginas: Crimes Act (NSW) s 61H(1)(a)
+  - vagina' in both New South Wales and Victoria includes surgically constructed vaginas: Crimes Act (NSW) s 61H(1)(a)
   -  R v Cogley [1989] VR 799,
     - Verified trans woman as a woman, surgically created genitals can still be violated
     - Changed by Crimes Act (Vic) s 35(3).
@@ -1974,15 +1974,15 @@ offences (ss 428C and
     - not necessary for the prosecution to prove that the accused intentionally had sexual intercourse with the complainant.
 - CONSENT AND ITS ABSENCE 
   - Lack of consent is a crucial element in rape, and lies at the heart of what makes the conduct harmful
-    - consent is statutorily defined in terms of ‘free agreement’. 
+    - consent is statutorily defined in terms of 'free agreement'. 
     - Section 61HE(2) of the Crimes Act (NSW) provides: 
-      - ‘A person “consents” to a sexual activity if the person freely and voluntarily agrees to the sexual activity’. 
+      - 'A person "consents" to a sexual activity if the person freely and voluntarily agrees to the sexual activity'. 
   - R v Wilkes and Briant [1965] VR 475 
     - At a trial of a charge of rape the only issue was whether the girl consented.
-      - ‘No, [permission] does not have to be absolutely verbal, but there has to be a free and conscious permission
+      - 'No, [permission] does not have to be absolutely verbal, but there has to be a free and conscious permission
   - Question of Law (No 1 of 1993) (1993) 59 SASR 214 
     - The accused was acquitted on charges of rape and attempted rape of his wife. 
-      - Issue of the correctness of a direction to the jury that a husband may attempt to persuade a wife to freely consent to intercourse by ‘a measure of rougher than usual handling’
+      - Issue of the correctness of a direction to the jury that a husband may attempt to persuade a wife to freely consent to intercourse by 'a measure of rougher than usual handling'
 - Consent-negating circumstances s 61HJ
   - The element to be proved is the absence of consent.
   - Some consent negating actions
@@ -2015,9 +2015,9 @@ offences (ss 428C and
   - Section s 61HE(6) (amended due to this case)
     - also clarifies the mens rea for those who commit sexual assault knowing the victim is under a mistaken belief in relation to marriage or to the identity of the accused, or that the act is for a medical or hygienic purpose.
   - In New South Wales, s 61HE(8)(a) of the Crimes Act provides that a person does not consent to sexual intercourse if that person is substantially intoxicated
-- Conditional consent and ‘stealthing’ 
-  - ‘Stealthing’
-    - Stealthing involves a person removing their condom during sexual activity, without telling their sexual partner they have done so (and therefore doing so without the partner’s consent). 
+- Conditional consent and 'stealthing' 
+  - 'Stealthing'
+    - Stealthing involves a person removing their condom during sexual activity, without telling their sexual partner they have done so (and therefore doing so without the partner's consent). 
   - Assange v Swedish Prosecution Authority [2012] EWCA 2849 (Admin)
     -  extradition of Julian Assange to Sweden to face questioning in relation to possible sexual offences
     - gave some support to a more expansive approach to the circumstances in which consent is vitiated by mistaken belief or the non-fulfilment of a condition of consent.
@@ -2032,18 +2032,18 @@ offences (ss 428C and
   - Director of Public Prosecutions v Morgan [1976] AC 182
     - House of Lords Material Facts: 
       - Morgan and 3 friends had been drinking when Morgan invited them to his house andsuggested they have sexual intercourse with his wife. 
-      - Morgan told them she was ‘kinky’ and would pretend to resist but that she really enjoyed this sort of sex.
+      - Morgan told them she was 'kinky' and would pretend to resist but that she really enjoyed this sort of sex.
       - All 3 had intercourse with her, claiming that, although she resisted at first she had later actively co-operated and enjoyed it Victim said she screamed, struggled and shouted for their son to call the police, but the defendants held her down and had sexual intercourse with her. 
     - Issue: 
       - Whether in rape a defendant can properly be convicted notwithstanding that he in fact believed the woman consented, if such belief was not based on reasonable grounds? 
     - Ratio: 
       - Point in dispute is as to the quality of belief which entitles the defendant to be acquitted and as to the evidential burden of proof with regard to it. 
       - Belief must be honest. 
-      - Reasonableness is only “evidence for or against the view that the belief and therefore the intent was actually held” 
+      - Reasonableness is only "evidence for or against the view that the belief and therefore the intent was actually held" 
     - Importance/Principle: 
       - NSW legislation is in place that allows for the conviction of those who make an honest and yet unreasonable mistake of fact. 
       - However, the case is still important for the strong statement it makes about the relationship between subjective mens rea standards and mistake. 
-        - Where standard is a subjective one, even unreasonable mistakes will negate proof of mens rea, provided they are genuine: Lord Hailsham’s “inexorable logic”
+        - Where standard is a subjective one, even unreasonable mistakes will negate proof of mens rea, provided they are genuine: Lord Hailsham's "inexorable logic"
     - Morgan defence
       - if an accused genuinely believed that the complainant was consenting to the sexual act, even if that belief was unreasonable, it could be a defense to a charge of rape. 
       - s 61HK of the Crimes Act 1900 (NSW) directly addresses the knowledge about consent in sexual assault cases. 
@@ -2056,13 +2056,13 @@ offences (ss 428C and
       - Did the accused believe that the person was consenting (subjective) 
         - AND were there reasonable grounds to support that belief? (objective)
     - Sex in an alley
-      - complainant did “not say ‘stop’ or ‘no.’ 
-        - She did not take any physical action to move away from the intercourse or attempted intercourse.”
+      - complainant did "not say 'stop' or 'no.' 
+        - She did not take any physical action to move away from the intercourse or attempted intercourse."
         - She had consented without informing him and he did not know that she revoked
     - Led to review of s 61HA of the Crimes Act 1900 (NSW) in order to determine if the law should be amended to better protect victims.
-      - Lazarus’ sexual assault conviction was quashed and a retrial ordered
+      - Lazarus' sexual assault conviction was quashed and a retrial ordered
   - Knowledge and recklessness 
-    - In New South Wales, an accused will be guilty of sexual assault if they have sexual intercourse with another person without that person’s consent 
+    - In New South Wales, an accused will be guilty of sexual assault if they have sexual intercourse with another person without that person's consent 
       - and they know that the other person does not consent to the sexual intercourse (s 61HE(3)(a)) 
       - or is reckless as to whether the other person consents (s 61HE(3)(b)
     - R v Kitchener (1993) 29 NSWLR 696
@@ -2076,31 +2076,31 @@ offences (ss 428C and
         - The victim was asleep when the accused began the intercourse, and when the victim realised that it was her cousin she reprimanded him and told him to get off, which he did
       - The accused was aware of the possibility	that the victim was not	consenting,	but went	ahead regardless (i.e. advertent recklessness)
   - Absence of reasonable belief, or reasonable grounds for belief, in consent 
-    - The third form of fault element of sexual assault in New South Wales is that the accused ‘has no reasonable grounds for believing’ that the other person consents. 
+    - The third form of fault element of sexual assault in New South Wales is that the accused 'has no reasonable grounds for believing' that the other person consents. 
       - This was introduced (as part of the new s 61HA, now s 61HE)
     - Aubertin v Western Australia (2006) 33 WAR 87.
       - how far the objective standard is to be tailored to the particular circumstances of the accused.
-      - articulating the statute’s intended approach to the question of reasonableness of belief in 
+      - articulating the statute's intended approach to the question of reasonableness of belief in 
       - While a purely subjective test is not sufficient, neither should the objective test be wholly detached from the accused's circumstances. 
         - Instead, the court should assess what a "reasonable person" in the position of the accused would have believed.
   - Reasonableness and taking steps to find out whether the other person consents 
-    - Section 61HE(4)(a) of the Crimes Act (NSW) provides that the trier of fact must have regard to ‘any steps taken by the person to ascertain whether the alleged victim consents to the sexual activity’.
+    - Section 61HE(4)(a) of the Crimes Act (NSW) provides that the trier of fact must have regard to 'any steps taken by the person to ascertain whether the alleged victim consents to the sexual activity'.
     - R v Lazarus [2017] NSWCCA 279 at [146]–[147]. 
-      - ‘steps taken’ requirement
+      - 'steps taken' requirement
         - formation of positive belief is sufficient to meet the requirement
   - Intoxication and reasonableness 
     - Section 61AH(3)(e) of the Crimes Act (NSW) 
       - self-induced intoxication cannot be taken into account when assessing the reasonableness of belief in 
   - Mental illness and reasonableness 
     - B v R [2013] EWCA Crim 3. 
-      - In this case, the accused was ‘affected by paranoid schizophrenia and harbouring a number of delusional beliefs’
-      - those delusional beliefs were not to be taken into account in assessing the reasonableness of the accused’s belie
+      - In this case, the accused was 'affected by paranoid schizophrenia and harbouring a number of delusional beliefs'
+      - those delusional beliefs were not to be taken into account in assessing the reasonableness of the accused's belie
   - The relevance of awareness of consent-negating circumstances
     - Crimes Act (NSW) s 61HE(6
       -  relevant statutes define a number of situations to be cases 
       - where there is no consent to sexual intercourse or penetration:
     - Section 61HE(5) of the Crime Act (NSW) provides 
-      - that consent is vitiated where a person consents to sexual intercourse with another person under a mistaken belief as to the other person’s identity, or a mistaken belief that they are married to the other person, or that the intercourse is for a health or hygienic purpose, or any other mistaken belief about the nature of the act induced by fraud.
+      - that consent is vitiated where a person consents to sexual intercourse with another person under a mistaken belief as to the other person's identity, or a mistaken belief that they are married to the other person, or that the intercourse is for a health or hygienic purpose, or any other mistaken belief about the nature of the act induced by fraud.
     - Subsection (7) then provides that if the other person knows that the person consented while under such a mistaken belief, then they know that the person does not consent. 
     - Thus, subsection (8) defines knowledge of certain kinds of circumstances as also cases of knowledge of non-consent.
     - Subsection (9) provides that a person who does not offer actual physical resistance to a sexual activity is not, by reason only of that fact, to be regarded as consenting to the sexual activity
@@ -2131,7 +2131,7 @@ offences (ss 428C and
         - (b) without a claim of right; and 
         - (c) fraudulently.
   - A bailment will exist where goods are: 
-    - (1) lent to another for that other’s benefit; 
+    - (1) lent to another for that other's benefit; 
     - (2) delivered to another who is to hold them or deal with them for the benefit of the bailor; 
     - (3) delivered to another for carriage, either for reward or gratuitously; 
     - (4) leased, either by way of simple lease or hire–purchase; and 
@@ -2172,7 +2172,7 @@ offences (ss 428C and
       - In larceny, all that is required is that, at the time of the taking, it must be owned, controlled or possessed by someone other than the accused
       - Possession
         - Director of Public Prosecutions v Brooks [1974] AC 862
-          - One has in one’s possession whatever it is, to one’s knowledge, physically in one’s custody or under one’s physical 
+          - One has in one's possession whatever it is, to one's knowledge, physically in one's custody or under one's physical 
       -  Constructive possession
         - person does not have actual possession, but has the legal right to assume possession whenever that person wishes to do so. 
       - Actual possession
@@ -2222,7 +2222,7 @@ offences (ss 428C and
         - Kennison v Daire (1986) 160 CLR 129
           - Opened an account to get a card, closed the account, operated an ATM to pull $200
           - Fraudulent not larceny
-          - a possessor’s lack of positive intention to pass possession is sufficient for a trespassory taking.
+          - a possessor's lack of positive intention to pass possession is sufficient for a trespassory taking.
     - Consent due to mistake
       - Unilateral mistake
         - where the accused realises, at the time the property is handed over, that this is being done as the result of a mistak
@@ -2285,11 +2285,11 @@ offences (ss 428C and
         - 
 - 
   - Fraudulently
-    - The common law offence of larceny requires that the accused took the property ‘fraudulently’. 
+    - The common law offence of larceny requires that the accused took the property 'fraudulently'. 
     - R v Glenister [1980] 2 NSWLR 597 
-      - at 604 asserted that ‘fraudulently’ has ‘a meaning interchangeable with “dishonestly”’.
+      - at 604 asserted that 'fraudulently' has 'a meaning interchangeable with "dishonestly"'.
       - R v Feely [1973] QB 530, 
-        - defined ‘dishonesty’ as having: 
+        - defined 'dishonesty' as having: 
           - (1) an ordinary everyday meaning that did not need to be explained to the jury; and 
           - (2) a moral 
     - Peters v R (1998) 192 CLR 493; 
@@ -2357,14 +2357,14 @@ offences (ss 428C and
         - (a) the person has possession or control of the property, or
         - (b) the person has a proprietary right or interest in the property (not being an equitable interest arising only from an agreement to transfer or grant an interest or from a constructive trust).
         - If property is subject to a trust, the persons to whom it belongs include any person having a right to enforce the trust.
-        - (4) A person obtaining property belonging to another without meaning the other permanently to lose the thing itself has, nevertheless, the intention of permanently depriving the other of it if the person’s intention is to treat the thing as his or her own to dispose of regardless of the other’s rights. A borrowing or lending of the property may amount to so treating it if, but only if, the borrowing or lending is for a period and in circumstances making it equivalent to an outright taking or disposal.
+        - (4) A person obtaining property belonging to another without meaning the other permanently to lose the thing itself has, nevertheless, the intention of permanently depriving the other of it if the person's intention is to treat the thing as his or her own to dispose of regardless of the other's rights. A borrowing or lending of the property may amount to so treating it if, but only if, the borrowing or lending is for a period and in circumstances making it equivalent to an outright taking or disposal.
         - (5) Without limiting the generality of subsection (4), if—
         - (a) a person has possession or control (lawfully or not) of property belonging to another, and
         - (b) the person parts with the property under a condition as to its return that the person may not be able to perform, and
-        - (c) the parting is done for the purposes of his or her own and without the other’s authority,
-        - the parting amounts to treating the property as his or her own to dispose of regardless of the other’s rights.
+        - (c) the parting is done for the purposes of his or her own and without the other's authority,
+        - the parting amounts to treating the property as his or her own to dispose of regardless of the other's rights.
         - Site footer	We acknowledge the traditional owners of this land and pay respect to Elders, past,ount had a negative balance from June 2010. 
-        - The terms and conditions of the account permitted Moore to request funds to be lent to him and the bank’s systems accepted these requests
+        - The terms and conditions of the account permitted Moore to request funds to be lent to him and the bank's systems accepted these requests
           - Withdrew 2.1 million
         - Held that Mr Moore requested the funds, and the bank gave him those funds. 
           - "behaved not only extremely foolishly but dishonestly" and that he "continued to borrow and consume funds, knowing that he had no realistic prospect of repaying them".
@@ -2394,12 +2394,12 @@ offences (ss 428C and
       - Barnard [1837] 7 C & P 784
         - deception was found where D obtained credit from a tradesman by entering his shop dressed in an Oxford cap and gown
     - Casuation
-      - The prosecution must prove that the accused ‘obtained by deception’; that is, that the deception caused that victim to part with their property or services.
+      - The prosecution must prove that the accused 'obtained by deception'; that is, that the deception caused that victim to part with their property or services.
       -  R v Clucas [1949] 2 KB 22
         - D wished to place a large sum of money on a horse but knew that because he had been in the habit of collecting on winning bets and defaulting on losing bets he could not get a bookmaker to accept his bet. 
         - He placed a bet by falsely representing his name and that the sum wagered was the aggregate of a number of small amounts bet by workmen for whom he was commission agent.
           - Held, not guilty of obtaining money by false pretences. 
-            - The effective cause of D’s obtaining the money was not his representations as to his agency, but the fact that the horse won
+            - The effective cause of D's obtaining the money was not his representations as to his agency, but the fact that the horse won
     - The consequence of the fraud 
       - The prosecution must prove one of three consequences of the fraud: 
         - (1) obtaining property from another;
@@ -2409,12 +2409,12 @@ offences (ss 428C and
             - obtaining of property to require only that the accused or a third party gain control or possession of the property. 
         - (2) obtaining a financial advantage; or 
           -  R v Walsh (1990) 52 A Crim R 74
-            -  The term ‘financial advantage’ should be given its ordinary meaning: 
+            -  The term 'financial advantage' should be given its ordinary meaning: 
             - s 192D
         - (3) causing a financial disadvantage.
           - Historical issues: 
             - accused attempts to evade a debt
-          - s 192D(2) overcomes these difficulties by providing a non-exhaustive definition of how a ‘financial disadvantage’ may come about.
+          - s 192D(2) overcomes these difficulties by providing a non-exhaustive definition of how a 'financial disadvantage' may come about.
           - a financial disadvantage means— 
             - (a) cause a financial disadvantage to another person, or 
             - (b) induce a third person to do something that results in another person suffering a financial disadvantage, 
@@ -2435,7 +2435,7 @@ offences (ss 428C and
       - If the prohibited consequence of the offence is the first limb of obtaining property, 
         - s 192C(2) requires an additional mens rea element of intention to permanently deprive: 
           - (2) A person does not commit an offence under this Part by obtaining or intending to obtain property belonging to another unless the person intends to permanently deprive the other of the property.
-          - meaning of ‘intention to permanently deprive’ is complicated by s 192C(4)
+          - meaning of 'intention to permanently deprive' is complicated by s 192C(4)
   - Temporal coincidence 
     - Director of Public Prosecutions v Ray [1974] AC 370,
       - which imports a requirement of temporal coincidence.
@@ -2448,12 +2448,12 @@ offences (ss 428C and
   - Hughes v R [2021] NSWCCA 238
     - Charges and Sentence:
       - Guilty of obtaining a financial advantage by deception as per s 192E(1)(b) of the Crimes Act 1900 (NSW).
-      - Sentenced to 2 years and 6 months’ imprisonment starting on 15 June 2020 with an 18-month non-parole period.
+      - Sentenced to 2 years and 6 months' imprisonment starting on 15 June 2020 with an 18-month non-parole period.
     - Details of the Deception:
       - Deception was the "fraudulent transfer of money".
       - Ms Hughes was the practice manager at Moon Street Medical Centre service trust.
         - Responsible for all financial transactions and operated an account with the Commonwealth Bank using MYOB software.
-      - Transferred funds without authority from the service trust’s bank account to her personal accounts on 329 occasions between 19 January 2012 and 15 October 2018.
+      - Transferred funds without authority from the service trust's bank account to her personal accounts on 329 occasions between 19 January 2012 and 15 October 2018.
       - Total amount obtained: $179,153.60.
     - Appeal:
       - Ms Hughes sought to appeal under s 5(1)(b) of the Criminal Appeal Act 1912 (NSW) against her conviction.
@@ -2479,7 +2479,7 @@ offences (ss 428C and
     - Uncompleted
   - Section 344A of the Crimes Act 1900 (NSW) (Crimes Act (NSW)) provides a general offence of attempt
     -  in New South Wales attempted murder (ss 27–30)
-  - It is only when the accused’s activities begin to approach the complete commission of an offence that the law treats the accused as guilty of an attempt.
+  - It is only when the accused's activities begin to approach the complete commission of an offence that the law treats the accused as guilty of an attempt.
     - R v Smith [1975] AC 476 
       - the House of Lords restated and affirmed the basic distinction between attempts and preparation
       - activity sufficiently indicative of criminal purpose to law-abiding 
@@ -2491,7 +2491,7 @@ offences (ss 428C and
       - D drove his car quickly when a policeman ordered him to stop. 
         - The car almost hit the policeman and D was charged with attempted ABH against the policeman. 
         - The judge directed that D had to have been at least reckless that ABH would be caused. 
-        - CA allowed appeal against D’s conviction since in attempted crimes it had to be proved that D intended the crime regardless of normal rules of mens rea. 
+        - CA allowed appeal against D's conviction since in attempted crimes it had to be proved that D intended the crime regardless of normal rules of mens rea. 
         - However, in relation to the offence of attempt, such knowledge is not to be equated with intent unless it is established. 
       - The term "intention" refers to the decision, to ensure that a specific outcome is achieved. 
         - It is thus irrelevant whether the intended result was likely to occur or not.
@@ -2500,27 +2500,27 @@ offences (ss 428C and
   - R v Eagleton (1855) Dears CC 515
     - Eagleton contracted with a local Poor Law authority to supply bread of an agreed weight to poor persons who presented the appropriate tickets.
       - Eagleton supplied underweight loaves but his fraud was discovered before any payment was made, although his account had already been credite
-        - whether, in law, Eagleton’s activity constituted an attempt
+        - whether, in law, Eagleton's activity constituted an attempt
     - jury found that Eagleton intended to represent that the loaves were of full weight
     - Eagleton test?
-      - Acts remotely leading to the commission of the offence are not sufficient: but acts “immediately connected” with it are. 
-        - Here, the “last act, depending on himself” had been committed.
+      - Acts remotely leading to the commission of the offence are not sufficient: but acts "immediately connected" with it are. 
+        - Here, the "last act, depending on himself" had been committed.
   - R v Page [1933] VLR 351
     - D changed his mind after scaling fence to break into house. 
       - Still guilty. 
     - Attempt is an act done or omitted with intent to commit that offence, forming part of a series of acts, which would have constituted the offence if the D completed the offence.
-      - Attempt is “an act done or omitted with intent to commit that offence, forming part of a seriesof acts or omissions which would have constituted the offence if such series of acts or omissions had not been interrupted either by the voluntary determination of the offender not to complete the offence or by some other cause”
+      - Attempt is "an act done or omitted with intent to commit that offence, forming part of a seriesof acts or omissions which would have constituted the offence if such series of acts or omissions had not been interrupted either by the voluntary determination of the offender not to complete the offence or by some other cause"
   - Director of Public Prosecutions v Stonehouse [1978] AC 55
 
     - known as the substantial progress or sufficiently proximate test.
     - Fakes death to claim insurance money.
-    - Here, the charge was that the accused “dishonestly and by deception enabled his wife toobtain insurance money by the false pretence that he had drowned.” 
-      - Towards the commissionof that offence “the faking of his death was 
+    - Here, the charge was that the accused "dishonestly and by deception enabled his wife toobtain insurance money by the false pretence that he had drowned." 
+      - Towards the commissionof that offence "the faking of his death was 
         - (a) intended to produce that result; 
         - (b) was thefinal act that he could perform, and 
         - (c) went a substantial distance towards the attainment of his goal. 
-      - Acts which are “sufficiently proximate” to completed offence, and not merely in preparation
-    - In short, in my judgment it was sufficiently proximate thereto to constitute theattempt charged.” 
+      - Acts which are "sufficiently proximate" to completed offence, and not merely in preparation
+    - In short, in my judgment it was sufficiently proximate thereto to constitute theattempt charged." 
       - Found guilty
 - ATTEMPTS AND SEXUAL ASSAULT 
   - Evans v R (1987) 48 SASR 35
@@ -2541,7 +2541,7 @@ offences (ss 428C and
         - The second type of legal impossibility involves accused persons who are outside the class of those defined by the law as capable of committing particular crimes.
           - 14 and younger could not be convicted of rape
     - Factual impossibility 
-      -  All other types of impossibility are classified as cases of ‘factual impossibility’.
+      -  All other types of impossibility are classified as cases of 'factual impossibility'.
         - The accused fires a gun into an empty room, intending to kill a person believed to be in the room. 
           - The intended victim is, in fact, nowhere in the vicinity. 
           - This was held to constitute an attempt in the American case of State v Mitchell (1902) 170 Mo 633.
@@ -2562,15 +2562,15 @@ offences (ss 428C and
           - (4) The accused may suffer no such outside interference but may fail to complete the crime because of incompetence. 
             - For example, the accused may shoot at an intended victim who is out of range or administer a dose of poison to the intended victim that is insufficiently potent to kill. 
             - Cases such as these constitute criminal attempts. 
-          - (5) The accused may find that what he or she is proposing to do is after all impossible in a physical sense — it does not fail as a result of any incompetence on the accused’s part.
+          - (5) The accused may find that what he or she is proposing to do is after all impossible in a physical sense — it does not fail as a result of any incompetence on the accused's part.
             - The empty pocket case would be an example of this. 
             - Lord Hailsham reviewed the authorities, which were in conflict, and concluded that cases falling within this fifth class did not constitute criminal attempts. 
-          - (6) The accused may do every act he or she sets out to do but it may transpire that those acts, contrary to the accused’s own belief at the time, do not, after all, amount in law to a crime. 
+          - (6) The accused may do every act he or she sets out to do but it may transpire that those acts, contrary to the accused's own belief at the time, do not, after all, amount in law to a crime. 
             - For example, the accused may believe that duty is payable on a particular commodity and smuggle it past customs officers when, in fact, no duty is payable on that item. 
             - In this situation, the accused would not be guilty of attempted smuggling. 
       - to fire a shot at a person just out of range is a case of relative impossibility (class 4), 
         - while to fire a shot into an empty room, the intended victim being many miles away at the time, is a case of absolute impossibility (class 5)
-        -  The accused’s moral culpability is precisely the same in cases of absolute impossibility as in cases of relative impossibility
+        -  The accused's moral culpability is precisely the same in cases of absolute impossibility as in cases of relative impossibility
     - R v Smith does not represent Australian common 
       -  R v Mai (1992) 26 NSWLR 371
         - rejected earlier New South Wales decisions that followed R v Smith in favour of following the Victorian approach in Britten v Alpogut. 
@@ -2578,10 +2578,10 @@ offences (ss 428C and
         - While his wife was bathing, the accused entered the bathroom and threw the bared end of a live electric wire into the water behind her. 
           - The wire did not touch her body and he did not attempt to bring it into contact with her body.
           - If, however, the wire had contacted her body she might have been killed.
-        - Issue was whether the case was one of relative impossibility (because the current was insufficient on the facts) or absolute impossibility (because it was absolutely impossible that an electric wire placed as it was could have led to the victim’s death).
+        - Issue was whether the case was one of relative impossibility (because the current was insufficient on the facts) or absolute impossibility (because it was absolutely impossible that an electric wire placed as it was could have led to the victim's death).
     - Britten v Alpogut [1987] VR 929 
       - Can still be guilty of attempt even if impossible to commit the completed offence. 
-        - “Attempts are crimes because of the criminal intent of the actor”
+        - "Attempts are crimes because of the criminal intent of the actor"
       - Defendant believed he was importing cannabis but it was not actually that substance a non-prohibited one. 
         - Charged with attempting to import prohibited imports into Australia contrary to s 233B of the Customs Act 1901 (Cth). Generally would not be enough of a defense that the product ended up being legal. 
         - This works in the case of homosexuality. 
@@ -2590,7 +2590,7 @@ offences (ss 428C and
   - OTHER INCHOATE CRIMES 
     - Incitement 
       - It is a common law misdemeanour to solicit or incite any person to commit any indictable offence
-      - Young v Cassells (1914) 33 NZLR 852 Stout CJ said ‘The word “incite” means “to rouse; to stimulate, to urge or spur on; to stir up; to animate”.
+      - Young v Cassells (1914) 33 NZLR 852 Stout CJ said 'The word "incite" means "to rouse; to stimulate, to urge or spur on; to stir up; to animate".
       - In R v Quail (1866) 4 F & F 1076 
         - the accused was convicted of inciting to larceny a servant who had no intention of obeying his exhortations and was only interested in helping his employer to entrap Quail.
       - in R v Howe [1987] 1 All ER 771; [1987] 2 WLR 568, 
@@ -2598,19 +2598,19 @@ offences (ss 428C and
 - Week 8B: CH 12: Extending Criminal Liability: Participation in Crime 
 -  INTRODUCTION: THE PROBLEM OF COMPLICITY IN CRIME 
   - In New South Wales, ss 93S(2)(b) and 93T of the Crimes Act provide that a person can be convicted as a member of a criminal group even though only some of the people involved in the group are involved in 
-    - planning, organising or carrying out any particular activity, so long as the person knows or ought reasonably to know that it is a criminal group, and ‘his or her participation in that group contributes to the occurrence of any criminal activity’.
+    - planning, organising or carrying out any particular activity, so long as the person knows or ought reasonably to know that it is a criminal group, and 'his or her participation in that group contributes to the occurrence of any criminal activity'.
   - the main rules governing the criminal liability of those who assist or encourage others to commit criminal offences continue to be the laws of criminal complicity.
   - The doctrine of complicity
     - (1) Where two or more persons agree to commit a crime and one or all of the participants carry out the necessary conduct elements (actus reus), all will be held liable for the crime as principals in the first degree according to the rules of joint criminal enterprise
       - (a) if two or more persons each play a part in performing the acts that go to constitute the crime. 
-        - Thus, if a number of individuals attack another, intending to kill their victim, and the combined effect of their blows is to cause death, each are principals in the first degree: Macklin and Murphy’s case (1838) 2 Lew CC 225; 
+        - Thus, if a number of individuals attack another, intending to kill their victim, and the combined effect of their blows is to cause death, each are principals in the first degree: Macklin and Murphy's case (1838) 2 Lew CC 225; 
       - (b) even if only one participant performed the acts constituting the crime, each will be guilty as principals in the first degree if the acts were performed pursuant to an understanding or agreement between them that they will commit that crime, and D participated in some other way in furtherance of the enterprise: 
         - Dickson v R (2017) 94 NSWLR 476. 
         - In this case, the parties are said to be acting in concert: R v Jensen and Ward [1980] VR 194; 
-    - (2) Accessorial liability applies where a person aids, abets, counsels or procures the commission of a crime by another person (the ‘principal in the first degree’).
-      - At common law, a person who was present at the commission of the crime, aiding and abetting the principal in the first degree, was known as a ‘principal in the second degree’. 
-      - A person who encouraged the commission of the crime, but was not present at its commission, was known as an’ accessory before the fact’. 
-      - A person who assisted a principal offender subsequent to the commission of the offence was known as an ‘accessory after the fact’. 
+    - (2) Accessorial liability applies where a person aids, abets, counsels or procures the commission of a crime by another person (the 'principal in the first degree').
+      - At common law, a person who was present at the commission of the crime, aiding and abetting the principal in the first degree, was known as a 'principal in the second degree'. 
+      - A person who encouraged the commission of the crime, but was not present at its commission, was known as an' accessory before the fact'. 
+      - A person who assisted a principal offender subsequent to the commission of the offence was known as an 'accessory after the fact'. 
     - (3) Where, during the commission of a joint criminal enterprise, one or more members commit an additional crime that was not the subject of the original agreement, the other members of the group may also be liable for that additional crime according to the doctrine of common purpose, also sometimes referred to as extended joint criminal enterprise: 
       - McAuliffe v R (1995) 183 CLR 108.
     - the different types of contributing to group crime, considering in order; 
@@ -2629,7 +2629,7 @@ offences (ss 428C and
         - V was stabbed and killed, conflicting stories about who did what and weapons
         - Unclear who stabbed, all denied to inflict death/ grievous bodily harm or agreement
       - Held 
-        - If agreement to inflict death or grievous harm and Ds were present – sufficient to make them liable as principal offenders (don’t need 323 or 324 but could as an alternative)
+        - If agreement to inflict death or grievous harm and Ds were present – sufficient to make them liable as principal offenders (don't need 323 or 324 but could as an alternative)
         - A person participates in joint criminal enterprise by being present when crime is committed pursuant to an agreement
         - Proof D assaulted person was material to determination of existence and nature of any agreement to which D was a party
     - Likiardopoulos v The Queen (2012) 247 CLR 265, 
@@ -2637,10 +2637,10 @@ offences (ss 428C and
     - Prochilo
   - Withdrawal
     - White v Ridley (1978) 140 CLR 34
-      - High Court emphasised the need for ‘timely communication’ of the intention to withdraw, and taking reasonable steps to prevent the commission of the crime
+      - High Court emphasised the need for 'timely communication' of the intention to withdraw, and taking reasonable steps to prevent the commission of the crime
       - rules of timely withdrawal also apply in cases of joint criminal enterprise
     - R v Tietie, Tulele and Bolamatu (1988) 34 A Crim R 438,
-      - endorsed the following trial judge’s direction to a jury in a case where the appellant alleged that he had withdrawn from a joint criminal enterprise before it escalated into a more violent, and ultimately fatal, attack on the victim
+      - endorsed the following trial judge's direction to a jury in a case where the appellant alleged that he had withdrawn from a joint criminal enterprise before it escalated into a more violent, and ultimately fatal, attack on the victim
         - The Crown must negate timely withdrawal beyond a reasonable doubt.
     - McEwan, Robb and Dambitis v R (2013) 41 VR 330 
       - considered the issue of withdrawal from a joint criminal 
@@ -2658,8 +2658,8 @@ offences (ss 428C and
       - The jury acquitted the co-accused	on all	counts but found the accused guilty of rape on each count.	
     - HELD:
       - Doctrine of	IA should be considered separate	from accessorial	liability
-      - What	has to be demonstrated in order to	support conviction on this basis (per Cogan and	Leak) is that A wanted and intended the act of intercourse by ‘the agent’ to take place and, by his conduct, caused the	act to occur when he knew that the V was not consenting.	
-      - P was “merely the instrument used” (so CAs	AR was attributed to A)
+      - What	has to be demonstrated in order to	support conviction on this basis (per Cogan and	Leak) is that A wanted and intended the act of intercourse by 'the agent' to take place and, by his conduct, caused the	act to occur when he knew that the V was not consenting.	
+      - P was "merely the instrument used" (so CAs	AR was attributed to A)
 ## Week 9: Complicity, and Extended Joint Criminal Enterprise
 
 - ACCESSORIAL LIABILITY 
@@ -2677,12 +2677,12 @@ offences (ss 428C and
         - (2) mens rea: 
           - (a) D knew all the essential facts that made what was done by the P1 a crime; and 
           - (b) with that knowledge, D intentionally aided, abetted, counselled or procured the acts of P1. 
-    - In Osland v R (1998) 197 CLR 316; McHugh J described a principal in the second degree as a person who was present at the commission of the crime, ‘encouraging but not participating physically, or whose acts were not a substantial cause of death’ 
+    - In Osland v R (1998) 197 CLR 316; McHugh J described a principal in the second degree as a person who was present at the commission of the crime, 'encouraging but not participating physically, or whose acts were not a substantial cause of death' 
     - Presence: 
       - The main distinction between principals in the second degree and accessories before the fact is that principals in the second degree are present at the commission of the crime, while accessories before the fact are not
     - Causation 
       - Virtually any act of encouragement, assistance or instigation of P1 to commit a crime will fulfil the actus reus requirements for liability.
-    -  Omissions and ‘mere’ presence
+    -  Omissions and 'mere' presence
       - R v Russell [1933] VLR 59
         - D may be liable for an omission (as a principal in the first degree) where D has a duty to act
         - D was charged with the murder of his wife and two infant children. 
@@ -2695,12 +2695,12 @@ offences (ss 428C and
     - The concern that mere presence will be sufficient for liability neglects the requirement that the prosecution must also prove knowledge and intention beyond a reasonable doubt.
       - Tilmouth J in R v Wellgreen [2014] SADC 10 
         - Facts
-          - In Wellgreen, D was charged with aggravated robbery as a consequence of his involvement in a road rage incident. D and P1 were passengers in a car that was ‘cut off’ by the victim, the driver of another car. 
+          - In Wellgreen, D was charged with aggravated robbery as a consequence of his involvement in a road rage incident. D and P1 were passengers in a car that was 'cut off' by the victim, the driver of another car. 
           - When they were stopped at the lights, D and P1 got out of their car and approached the victim. P1 threatened the victim and demanded that he hand over a can of drink that he had in the car.
         - Held
-          - Tilmouth J found that ‘the incident erupted too spontaneously and occurred too quickly’ to establish an ‘agreement’ for the purposes of joint criminal enterprise and the doctrine of common purpose. 
+          - Tilmouth J found that 'the incident erupted too spontaneously and occurred too quickly' to establish an 'agreement' for the purposes of joint criminal enterprise and the doctrine of common purpose. 
           - Rather, Wellgreen was liable as an accessory — a principal in the second degree.
-  - Conduct amounting to ‘aiding, abetting, counseling and procuring’
+  - Conduct amounting to 'aiding, abetting, counseling and procuring'
     - R v Phan (2001) 53 NSWLR 480 
       - Liability of principal in first degree is primary, p2 is derivative and dependent on p1. 
       - Mere acquiescence or assent is not sufficient - must be linked in purpose to P1 and, by words or conduct, doing something to bring about, or render more likely through encouragement or assistance, commission of crime. 
@@ -2715,7 +2715,7 @@ offences (ss 428C and
         - G must have known breaks were defective & encourage employee to drive
         - Not dependent on MR for completed offence (usually lower MR)
         - Participation must be intentionally aimed at commission of acts which constitute crime
-        - Not sufficient if knowledge/ belief extends only to possibility or even probability that acts PI (principle’s intent) assisting/ encouraging are such to constitute factual ingredients of a crime
+        - Not sufficient if knowledge/ belief extends only to possibility or even probability that acts PI (principle's intent) assisting/ encouraging are such to constitute factual ingredients of a crime
         - E.g. accessory for rape: intentionally assisted or encouraged in circumstances where there is a lack of reasonable belief in consent 
       - Retrial was ordered, but prosecutors did not retry
     - R v Bainbridge [1960] 1 QB 129
@@ -2730,10 +2730,10 @@ offences (ss 428C and
         - He claimed that the trial judge had failed to properly direct the jury in terms of what needs to be established in order to be able to convict someone of being accessory before the fact.
       - Decision/Outcome
         - The Court took the view that the trial judge had not erred in his directions to the jury. 
-        - The Court held that it was sufficient to prove that the defendant knew about the thieves’ general intention to commit a crime, similar in type to the one subsequently actually committed. 
+        - The Court held that it was sufficient to prove that the defendant knew about the thieves' general intention to commit a crime, similar in type to the one subsequently actually committed. 
         - If, equipped with such knowledge, the defendant still did something to help in the commission of the crime (e.g. bought equipment he knew might be used in committing the crime like in the present case), he can be found guilty of being an accessory before the fact. 
         - In other words, the defendant does not need to know the specific time and date and location of the principal offence in advance in order to be found guilty of being an accessory before the fact. 
-        - The defendant’s conviction was thus upheld.
+        - The defendant's conviction was thus upheld.
       - shows that the abettor must know which crime was to be committed for example, a break and enter).
     - the mens rea requirements for abettors are clear: 
       - (1) knowledge of the essential facts that made what was done a crime; and 
@@ -2756,7 +2756,7 @@ offences (ss 428C and
     -  Ancuta v R [1991] 2 Qd R 413
       - confirmed Bainbridge and held that it was sufficient for the Crown to prove that an accessory aided or abetted the kind of crime committed by the principal
   - Intention to aid, abet, counsel or procure 
-    -  D’s encouragement must be willful: 
+    -  D's encouragement must be willful: 
       - R v Clarkson and Carroll [1971] 3 All ER 344;
     - It is a general rule that the enactment of a statutory offence automatically carries with it the liability of principals in the second degree and of accessories, even though the legislature does not expressly mention such liability.
     - expressio unius est exclusio alterius
@@ -2766,17 +2766,17 @@ offences (ss 428C and
 - EXTENDED JOINT CRIMINAL ENTERPRISE 
   - an accessory is only liable if they have intentionally assisted or encouraged the principal offender
   - Giorgianni
-    - [A]iding, abetting, counseling or procuring the commission of an offence requires the intentional assistance or encouragement of the doing of those things which go to make up the offence’.
-  - doctrine of common purpose’
+    - [A]iding, abetting, counseling or procuring the commission of an offence requires the intentional assistance or encouragement of the doing of those things which go to make up the offence'.
+  - doctrine of common purpose'
     - McAuliffe v R (1995) 183 CLR 108
       - each party is liable not only for what was agreed but also for possible consequences that were within the contemplation of the parties:
   - Not valid in Australia:
-    - doctrine of ‘extended common purpose’ or ‘extended joint criminal enterprise’, has been criticised as a form of ‘constructive guilt’ or ‘guilt by criminal association
+    - doctrine of 'extended common purpose' or 'extended joint criminal enterprise', has been criticised as a form of 'constructive guilt' or 'guilt by criminal association
       - Gillard v R (2003) 219 CLR 1; 202 ALR 202 (at 12.48C); Clayton v R; Hartwick v R; Hartwick v R (2006) 231 ALR 500;
   - In general, therefore, where two or more persons are parties to a joint criminal enterprise, each is equally liable for the consequences of such acts of the other as are performed as part of that enterprise.
-    - if A and B agree to assault C, and the assault is committed by A and C dies, A and B are responsible for C’s death.
+    - if A and B agree to assault C, and the assault is committed by A and C dies, A and B are responsible for C's death.
       - If B only intended to assualt v A intend GBH, then B can be held manslaughter, while A murder
-    - If A and B agree to steal from C, the agreement involving neither violence nor the use of any weapon, but, unknown to B, A carries a gun and deliberately shoots and kills C, the difference between what was agreed and what occurred is such that B will bear no responsibility for C’s death
+    - If A and B agree to steal from C, the agreement involving neither violence nor the use of any weapon, but, unknown to B, A carries a gun and deliberately shoots and kills C, the difference between what was agreed and what occurred is such that B will bear no responsibility for C's death
   - The doctrine of extended joint criminal enterprise should only be relied upon where the offence committed is different to that agreed upon by the parties: 
     - R v Tangye (1997) 92 A Crim R 
     - From Johns v R (1980) 143 CLR 108, the prosecution must prove beyond a reasonable doubt that: 
@@ -2785,14 +2785,14 @@ offences (ss 428C and
       - (3) D need only contemplate the incidental crime as no more than a possible incident of the joint enterprise.
     - Varley v R (1976) 12 ALR 347;
       - Facts
-        - D and two police officers went to the deceased’s residence to beat the deceased in order to compel him to pay over part of the proceeds of illegal transactions in which all three were engaged
-          - The accused’s defence, rejected by the jury, was that he had been an unwilling spectator of the assault, coerced by the police into being there
+        - D and two police officers went to the deceased's residence to beat the deceased in order to compel him to pay over part of the proceeds of illegal transactions in which all three were engaged
+          - The accused's defence, rejected by the jury, was that he had been an unwilling spectator of the assault, coerced by the police into being there
         - if during the enterprise the police used a baton to inflict a degree of force that was beyond what Varley had expected, the police would be guilty of murder and Varley guilty of manslaughter.
       - Held
         - Here the use of the baton or cosh, even if not actually contemplated, was clearly a likely means of carrying out the plan of beating up Burton: and obviously within the scope of that plan.
       - Johns v R (1980) 143 CLR 108
         - Getaway driver for armed robbery, knowing they were carrying, expected pistol to be loaded
-        - He knew the principal offender to be quick-tempered and violent, and he had heard the principal offender say he did not intend to let the victim ‘get on top of him’.
+        - He knew the principal offender to be quick-tempered and violent, and he had heard the principal offender say he did not intend to let the victim 'get on top of him'.
         - The trial judge directed the jury that an accessory may be held liable for acts performed by the principal offender if those acts, while differing from what was directly and specifically intended by the accessory, were within the contemplation of the parties as acts that might be done in the course of carrying out their primary criminal intention.
     - Miller v R (1980) 32 ALR 321
       - FACTS:
@@ -2802,7 +2802,7 @@ offences (ss 428C and
         - GUILTY
           - – Would have foreseen	 that after first murder – murder	would be a	possible consequence	
           - RE: First woman who died – not accessory (no knowledge, no	intent) but for women after – jury would state	 M would at least	foresee possibility that murder would	occur.
-          - “It’ll never happen again” perhaps	useful for P	 to show he	 was	aware of possibility of it happening again.	
+          - "It'll never happen again" perhaps	useful for P	 to show he	 was	aware of possibility of it happening again.	
           - Possibility = conviction	– ECP NOW ABOLISHED	
     - McAuliffe v R (1995) 183 CLR 108;
       - FACTS:
@@ -2825,10 +2825,10 @@ offences (ss 428C and
         - Complicated because it is a constructive murder case - no need to prove intent or recklessness - so what did G actually have to foresee as probability? 
         - G guilty if he foresaw killing as a probability
   - The relationship between joint criminal enterprise, accessorial liability, extended joint criminal enterprise and the doctrine of innocent agency
-    - Wood CJ stated (at [65]) that a case of common purpose is one in which it is alleged ‘the parties agreed to commit a particular crime but had in contemplation some further crime, as a possible incident of its commission.’ 
-    - In contrast, a case involving ‘joint criminal enterprise’ is one in which the parties to the enterprise are each ‘active participants and hence liable as principals in the first degree, or one where the Crown being unable to prove which of several persons, present at the scene of a crime, committed the particular act giving rise to the offence, nevertheless was able to establish that each was assisting the other, in which event it was properly left as one of principal and accessory.
-  - The distinction between the different types of complicity is important, as where D acts in joint criminal enterprise (or in concert), D’s liability is primary and not derived from that of the other principal(s). 
-    - In contrast, where the extended joint criminal enterprise (or the doctrine of common purpose) is applied, D’s liability as an abettor depends on the guilt of the principal in the first degree being established.
+    - Wood CJ stated (at [65]) that a case of common purpose is one in which it is alleged 'the parties agreed to commit a particular crime but had in contemplation some further crime, as a possible incident of its commission.' 
+    - In contrast, a case involving 'joint criminal enterprise' is one in which the parties to the enterprise are each 'active participants and hence liable as principals in the first degree, or one where the Crown being unable to prove which of several persons, present at the scene of a crime, committed the particular act giving rise to the offence, nevertheless was able to establish that each was assisting the other, in which event it was properly left as one of principal and accessory.
+  - The distinction between the different types of complicity is important, as where D acts in joint criminal enterprise (or in concert), D's liability is primary and not derived from that of the other principal(s). 
+    - In contrast, where the extended joint criminal enterprise (or the doctrine of common purpose) is applied, D's liability as an abettor depends on the guilt of the principal in the first degree being established.
       - Chan Wing-Siu v R [1985] AC 168, which developed extended joint criminal enterprise in the United Kingdom
   - Matusevich v R (1977) 137 CLR 633
     - In Matusevich v The Queen (1977) 137 CLR 633., this Court decided that, when two persons are said to be acting in concert, the fact that the actual perpetrator is legally insane does not necessarily mean that the conviction of the other, who was present at the scene, should be quashed. - the crown has no automatic right to examine the D just because they raised their good character - this is something leave has been granted for - need for transparency
@@ -2862,16 +2862,16 @@ HELD:
   - ABANDONMENT OF CRIMINAL PARTICIPATION 
     - R v Rook [1993] 2 All ER 955
       - Facts
-        - The accused agreed with A, L and MA to kill MA’s wife in return for MA paying them £20,000
+        - The accused agreed with A, L and MA to kill MA's wife in return for MA paying them £20,000
         - Accused seemingly bailed, but the others killed wife anyways. 
       - Defense
-        - The accused’s defence was that he had never intended the woman to be killed, that he hoped to get some money ‘up front’ from MA and then disappear, that he had never intended to go through with the killing himself and that he had deliberately absented himself on the day of the killing because he thought that if he were not there the other two would not go ahead with the crime
+        - The accused's defence was that he had never intended the woman to be killed, that he hoped to get some money 'up front' from MA and then disappear, that he had never intended to go through with the killing himself and that he had deliberately absented himself on the day of the killing because he thought that if he were not there the other two would not go ahead with the crime
       - Held
-        - while a person who has embarked on a criminal enterprise may withdraw from it and save himself from criminal liability, ‘more than mere inactivity is required to destroy the criminal liability which flows from the earlier acts
+        - while a person who has embarked on a criminal enterprise may withdraw from it and save himself from criminal liability, 'more than mere inactivity is required to destroy the criminal liability which flows from the earlier acts
         - Convicted, appeal dismissed
 
   - ACCESSORIES AFTER THE FACT 
-    - Blackstone’s description of an accessory after the fact is ‘where a person, knowing a felony to have been committed, receives, relieves, comforts, or assists the felon’: 4 B1 Comm 
+    - Blackstone's description of an accessory after the fact is 'where a person, knowing a felony to have been committed, receives, relieves, comforts, or assists the felon': 4 B1 Comm 
     - At common law, an accused can only be convicted as an accessory after the fact if it is established that they had knowledge of all the relevant facts or acts that established the precise offence with respect to which the Crown alleged the accused was an accessory: R v Stone [1981] VR 737
     - The penalty for an accessory after the fact for treason is 2 years; for murder, 25 years; for armed robbery and kidnapping, 14 years; and for all other indicatable offences, 5 years: ss 348–350. 
 ## Week 10A: Defences Part 1: Mental Health Impairment and Cognitive Impairment; Automatism
@@ -2883,55 +2883,55 @@ HELD:
       - At his trial it appeared that Hadfield had acted under a delusion, possibly brought on by an injury to the brain sustained while a soldier, that he was to be the saviour of the world and that this was to be accomplished by his being executed after commission of a spectacular crime.
     - Uncertainty about whether it was possible to detain Hadfield under the criminal law prompted Parliament to pass the Criminal Lunatics Act 1800 (39 & 40 Geo 3 c 94) (England and Wales
       - It provided that in cases where it appeared at a trial that the accused was insane and they were acquitted on this ground, the accused should not be released but should be ordered to be detained at the pleasure of the Sovereign. 
-      - The provision in the 1800 Act that a defendant found ‘not guilty on account of insanity’ would be detained ‘in strict custody ... until His Majesty’s pleasure be known’ came to be known as indefinite detention, and carried over from England and Wales to the Australian states and territories
-  - The second, Re M’Naghten’s Case (1843) 10 Cl & Fin 20
+      - The provision in the 1800 Act that a defendant found 'not guilty on account of insanity' would be detained 'in strict custody ... until His Majesty's pleasure be known' came to be known as indefinite detention, and carried over from England and Wales to the Australian states and territories
+  - The second, Re M'Naghten's Case (1843) 10 Cl & Fin 20
     - Daniel McNaughtan shot and killed Edward Drummond, who was secretary to Sir Robert Peel, the then Prime Minister of England. 
     - McNaughtan had suffered from the delusion that he was being followed and persecuted by his enemies. 
-      - He also believed that these persecutors were ‘the Tories’, and he made several unsuccessful attempts to air his grievances, but without result.
+      - He also believed that these persecutors were 'the Tories', and he made several unsuccessful attempts to air his grievances, but without result.
       - At his trial, various lay witnesses testified to his delusions and five eminent doctors also gave evidence in support of the view that he was insane. 
       - Tindal CJ, in effect, stopped the trial by advising the jury that they could, if they wished, return a verdict of not guilty without hearing further evidence.
-    - Post trial parliament hearing about case came to be known as The M’Naghten Rules
-      - It is well recognised that the M’Naughten Rules-influenced insanity defence is difficult to raise successfully. 
+    - Post trial parliament hearing about case came to be known as The M'Naghten Rules
+      - It is well recognised that the M'Naughten Rules-influenced insanity defence is difficult to raise successfully. 
   - A defence related to the defence of mental impairment is that of automatism. 
     - Autism def
       - Automatism may be described variously as insane automatism, where the accused acts under the influence of an internal or congenital physiological condition or illness, including a mental illness, or non-insane automatism, where the accused acts in response to an external stimulus.
     - Although automatism is colloquially referred to as a defence, it is probably more appropriate to think of it as a negativing factor.
-      - automatism merely restates the requirement that the the act of the accused must be voluntary – ‘conscious’ or ‘willed’ (Ryan)
+      - automatism merely restates the requirement that the the act of the accused must be voluntary – 'conscious' or 'willed' (Ryan)
     - Insane automatism is dealt with under the defence of mental illness/impairment. 
-    - As such, most cases of automatism arise from the accused’s reaction to an ‘external’, rather than an ‘internal’, factor
+    - As such, most cases of automatism arise from the accused's reaction to an 'external', rather than an 'internal', factor
       - It is on this basis that non-insane automatism is thought to mark out an individual who is of less danger to the community, resulting in an unqualified verdict of acquittal. 
     - Where an accused consumes an intoxicant voluntarily they will be dealt with under the law of intoxication, even regarding automatism. 
-      - A plea of automatism is preserved where an accused loses consciousness or ‘blacks out’ as the result of the involuntary consumption of an intoxicant: see s 428G.
-  - An additional defence dependent on the accused’s mental state is the defence of substantial impairment by abnormality of mind
+      - A plea of automatism is preserved where an accused loses consciousness or 'blacks out' as the result of the involuntary consumption of an intoxicant: see s 428G.
+  - An additional defence dependent on the accused's mental state is the defence of substantial impairment by abnormality of mind
   - unfitness to plead def. 
     - It is a procedural provision (rather than a defence) that exempts an accused from an ordinary trial (at least temporarily) on the basis that they cannot understand or participate in it
     - If a defendant is found unfit to plead, they are also subject to the disposal regime that follows a successful mental impairment defence: see Kesavarajah v R (1994) 181 CLR 230; 
       - A person who is unfit to plead may have been of sound mind at the time of the alleged offending, and a person who suffered an exculpatory mental impairment at the time of the otherwise criminal conduct may be fit to plead at the time of the trial. 
       - If an accused satisfies both conditions, then it will usually be the case that they will argue unfitness to plead fi
-  - Re M’Naghten’s Case (1843) 10 Cl & Fin 200
+  - Re M'Naghten's Case (1843) 10 Cl & Fin 200
     - Facts
-      - In January 1843, at the parish of Saint Martin, Middlesex, Daniel M’Naghten took a pistol and shot Edward Drummond, who he believed to the British Prime Minister Robert Pell, wounding him fatally. 
-        - Drummond died five days later and M’Naghten was charged with his murder. He pleaded not guilty by reason of insanity.
-      - At trial, evidence was given of the shooting of Drummond and witnesses were called on the behalf of the defendant, M’Naghten, to attest to the fact he was not in a sound state of mind at the time of committing the act. 
-        - Some of the witnesses who gave this evidence, had previously examined M’Naghten, whilst others had not seen him prior to the trial and, and they formed their opinion on hearing the evidence given by other witnesses.
-        - The medical evidence brought forward stated that persons of otherwise sound mind, might be affected by morbid delusions and that M’Naghten was so affected. 
+      - In January 1843, at the parish of Saint Martin, Middlesex, Daniel M'Naghten took a pistol and shot Edward Drummond, who he believed to the British Prime Minister Robert Pell, wounding him fatally. 
+        - Drummond died five days later and M'Naghten was charged with his murder. He pleaded not guilty by reason of insanity.
+      - At trial, evidence was given of the shooting of Drummond and witnesses were called on the behalf of the defendant, M'Naghten, to attest to the fact he was not in a sound state of mind at the time of committing the act. 
+        - Some of the witnesses who gave this evidence, had previously examined M'Naghten, whilst others had not seen him prior to the trial and, and they formed their opinion on hearing the evidence given by other witnesses.
+        - The medical evidence brought forward stated that persons of otherwise sound mind, might be affected by morbid delusions and that M'Naghten was so affected. 
       - A person labouring under such delusion, might usually possess a moral perception of right and wrong, but in relation to acts connected to their delusion may be carried beyond power of their own control leaving them with no such perception.
-      - Accordingly M’Naghten was not capable of exercising control over his acts whilst under his delusion. Due to the nature of M’Naghten’s condition these delusions went on gradually until they reached a climax, ending with Drummond being shot. 
-        - Evidence brought before the Court about the condition from which M’Naghten suffered stated that a man may go on for years quietly whilst under the delusion’s influence, but had the potential break out into extravagant and violent paroxysms.
-      - In relation to the charge against M’Naghten, Lord Chief Justice Tindal stated that “the question to be determined is, whether at the time the act in question was committed, the prisoner had or had not the use of his understanding, so as to know that he was doing a wrong or wicked act. 
+      - Accordingly M'Naghten was not capable of exercising control over his acts whilst under his delusion. Due to the nature of M'Naghten's condition these delusions went on gradually until they reached a climax, ending with Drummond being shot. 
+        - Evidence brought before the Court about the condition from which M'Naghten suffered stated that a man may go on for years quietly whilst under the delusion's influence, but had the potential break out into extravagant and violent paroxysms.
+      - In relation to the charge against M'Naghten, Lord Chief Justice Tindal stated that "the question to be determined is, whether at the time the act in question was committed, the prisoner had or had not the use of his understanding, so as to know that he was doing a wrong or wicked act. 
         - If the jurors should be of opinion that the prisoner was not sensible, at the time he committed it, that he was violating the laws both of God and man, then he would be entitled to a verdict in his favour: 
-          - but if, on the contrary, they were of opinion that when he committed the act he was in a sound state of mind, then their verdict must be against him.”
-    - M’Naghten was found not guilty.
+          - but if, on the contrary, they were of opinion that when he committed the act he was in a sound state of mind, then their verdict must be against him."
+    - M'Naghten was found not guilty.
       - Following this a panel of Judges attended the House of Lords and had a series of hypothetical questions on the topic of insanity put before them.
     - Issues
       - The hypothetical questions about insanity the judges had to address were as follows:
         - What is the law respecting alleged crimes committed by persons afflicted with insane delusion, in respect of one or more particular subjects or persons: as, for instance, where at the time of the commission of the alleged crime, the accused knew he was acting contrary to law, but did the act complained of with a view, under the influence of insane delusion, of redressing or revenging some supposed grievance or injury, or of producing some supposed public benefit?
         - What are the proper questions to be submitted to the jury, when a person alleged to be afflicted with insane delusion respecting one or more particular subjects or persons, is charged with the commission of a crime (murder, for example), and insanity is set up as a defence?
-        - In what terms ought the question to be left to the jury, as to the prisoner’s state of mind at the time when the act was committed?
+        - In what terms ought the question to be left to the jury, as to the prisoner's state of mind at the time when the act was committed?
         - If a person under an insane delusion as to existing facts, commits an offence in consequence thereof, is he thereby excused?
-        - Can a medical man conversant with the disease of insanity, who never saw the prisoner previously to the trial, but who was present during the whole trial and the examination of all the witnesses, be asked his opinion as to the state of the prisoner’s mind at the time of the commission of the alleged crime, or his opinion whether the prisoner was conscious at the time of doing the act, that he was acting contrary to law, or whether he was labouring under any and what delusion at the time?
+        - Can a medical man conversant with the disease of insanity, who never saw the prisoner previously to the trial, but who was present during the whole trial and the examination of all the witnesses, be asked his opinion as to the state of the prisoner's mind at the time of the commission of the alleged crime, or his opinion whether the prisoner was conscious at the time of doing the act, that he was acting contrary to law, or whether he was labouring under any and what delusion at the time?
     - Decision/Outcome
-      - In response to these questions the Judges formulated the M’Naghten Rules (1843) 4 St.Tr.(N.S.) 847. 
+      - In response to these questions the Judges formulated the M'Naghten Rules (1843) 4 St.Tr.(N.S.) 847. 
       - These provide the legal definition of insanity. Insanity def:
       - They provide that a defendant wishing to rely on the defence of insanity must show that: 
         - They laboured under a defect of reason
@@ -2945,7 +2945,7 @@ HELD:
       - He injected his son with poison, but the police came in beforehe had a chance to kill himself. 
       - He was charged for the murder of his son, and he pleaded that he was mentally insane at the time. 
     - Legal issues
-      - Insanity Defence - Clarifying terms from M’Naghten's Case 
+      - Insanity Defence - Clarifying terms from M'Naghten's Case 
     - Judgement
       - Every person is presumed to be sane unless he argues otherwise (prosecution doesn't need to disprove it until it is raised). 
         - When assessing insanity, it is important to only assess whether the accused was insane at the time the act was committed, as opposed to before, after, or now. 
@@ -2960,7 +2960,7 @@ HELD:
     - Murder during robbery, D psychopath. Distinguished psychopath by gross lack of self-control and gross lack or diminution of emotional feeling, which involved gross diminution of conscience.
       - Argued judge didn't distinguish an intellectual understanding of wrongfulness and an emotional appreciation of it. 
       - Request denied.
-        - The complaint, however, on behalf of the prisoner is that his Honour did not direct the jury that a mere intellectual apprehension on the prisoner’s part of the wrongness of the act would not or might not amount to knowledge unless it was accompanied by some sufficient appreciation of, or feeling about, the effect of his act upon other people; perhaps some moral appreciation. 
+        - The complaint, however, on behalf of the prisoner is that his Honour did not direct the jury that a mere intellectual apprehension on the prisoner's part of the wrongness of the act would not or might not amount to knowledge unless it was accompanied by some sufficient appreciation of, or feeling about, the effect of his act upon other people; perhaps some moral appreciation. 
         - The law provides no foundation for such a complaint.
           - It is enough to say that it is an attempt to refine upon what amounts to knowledge of the wrongness of the act which is not countenanced by the law. 
   - Attorney-General (South Australia) v Brown [1960] AC 432
@@ -3043,22 +3043,22 @@ HELD:
       - Justices Matheson and Nyland concurred with Justice Duggan's reasoning and interpretation of the Act.
   - SOME COMMENTS ON MENTAL IMPAIRMENT AND RELATED DEFENCES
     - Scope of the mental impairment defence 
-      - The scope of the M’Naghten Rules has been restricted to cognitive defects (defects of reason or rationality), excluding defects of conation, the psychological processes of desire and volition.
+      - The scope of the M'Naghten Rules has been restricted to cognitive defects (defects of reason or rationality), excluding defects of conation, the psychological processes of desire and volition.
         - Thus, the rules do not extend to cover the case of psychopathy (Willgoss v R (at 15.14C)) and are not readily applicable to the person who is aware of the nature and wrongfulness of the acts they are performing but who is unable to restrain themself from so acting, that is, the person suffering from uncontrollable impulse: 
           - Attorney-General (South Australia) v Brown (at 15.15C ). 
-    - Commonwealth’s Criminal Code (Schedule to the Criminal Code Act 1995 (Cth)) widens the common law defence of insanity. 
+    - Commonwealth's Criminal Code (Schedule to the Criminal Code Act 1995 (Cth)) widens the common law defence of insanity. 
       - Section 7.3(1) of the Code provides: 
         - (1) A person is not criminally responsible for an offence if, at the time of carrying out the conduct constituting the offence, the person was suffering from a mental impairment that had the effect that: 
           - (a) the person did not know the nature and quality of the conduct; or 
           - (b) the person did not know that the conduct was wrong (that is, the person could not reason with a moderate degree of sense and composure about whether the conduct, as perceived by reasonable people, was wrong); or 
           - (c) the person was unable to control the conduct. 
-      - ‘Mental impairment’ is defined in s 7.3(8) and (9) as follows: 
+      - 'Mental impairment' is defined in s 7.3(8) and (9) as follows: 
         - (8) In this Code: 
           - mental impairment includes senility, intellectual disability, mental illness, brain damage and severe personality disorder. 
         - (9) The reference in subsection (8) to mental illness is a reference to an underlying pathological infirmity of the mind, whether of long or short duration and whether permanent or temporary, but does not include a condition that results from the reaction of a healthy mind to extraordinary external stimuli. 
           - However, such a condition may be evidence of a mental illness if it involves some abnormality and is prone to recur.
-    - In New South Wales, the defence of mental impairment continues to be governed by the common law M’Naghten Rules, but a procedural framework for the defence was included in the Mental Health (Forensic Provisions) Act 1990 (NSW).
-      - Section 38(1) provides that if the person tried ‘did the act or made the omission charged, but was mentally ill at the time’, the jury should return a ‘special verdict’ — ‘that the accused person is not guilty by reason of mental illness’.
+    - In New South Wales, the defence of mental impairment continues to be governed by the common law M'Naghten Rules, but a procedural framework for the defence was included in the Mental Health (Forensic Provisions) Act 1990 (NSW).
+      - Section 38(1) provides that if the person tried 'did the act or made the omission charged, but was mentally ill at the time', the jury should return a 'special verdict' — 'that the accused person is not guilty by reason of mental illness'.
       - Mental illness def
         - the Mental Health Act 2007 (NSW) s 4 provides: 
           - mental illness means a condition that seriously impairs, either temporarily or permanently, the mental functioning of a person and is characterised by the presence in the person of any one or more of the following symptoms— 
@@ -3069,9 +3069,9 @@ HELD:
             - (e) sustained or repeated irrational behaviour indicating the presence of any one or more of the symptoms referred to in paragraphs (a)–(d).
       - volitional incapacity has been proposed
         - Volitional incapacity def
-          - the person was unable to control the conduct’
-        - The revised defence would rest on statutory definitions of ‘mental health impairment’ and ‘cognitive impairmen
-          - ‘Mental health impairment def’ is defined broadly as a ‘temporary or continuing disturbance of thought, mood, volition, perception, or memory that impairs emotional wellbeing, judgment or behaviour, so as to affect functioning in daily life to a material extent’
+          - the person was unable to control the conduct'
+        - The revised defence would rest on statutory definitions of 'mental health impairment' and 'cognitive impairmen
+          - 'Mental health impairment def' is defined broadly as a 'temporary or continuing disturbance of thought, mood, volition, perception, or memory that impairs emotional wellbeing, judgment or behaviour, so as to affect functioning in daily life to a material extent'
       - Cognitive impairment def: 
         - (a) Cognitive impairment is an ongoing impairment in comprehension, reason, adaptive functioning, judgement, learning or memory that is the result of any damage to, dysfunction, developmental delay, or deterioration of the brain or mind. 
         - (b) Such cognitive impairment may arise from, but is not limited to, the following: 
@@ -3081,20 +3081,20 @@ HELD:
           - (iv) acquired brain injury 
           - (v) drug or alcohol related brain damage 
           - (vi) autism spectrum disorders. 
-    - The Mental Health and Cognitive Impairment Forensic Provisions Bill 2020 (NSW) seeks to replace the previous defence of not guilty by reason of mental illness with a verdict of ‘act proven but not criminally responsible’.
+    - The Mental Health and Cognitive Impairment Forensic Provisions Bill 2020 (NSW) seeks to replace the previous defence of not guilty by reason of mental illness with a verdict of 'act proven but not criminally responsible'.
       - The Bill proposes that a jury is to return a special verdict of act proven but not criminally responsible in respect of an offence if the jury is satisfied that the defence of mental health impairment or cognitive impairment has been established.
     - The question of whether the defence is established is to be determined on the balance of probabilities by the jury (or judge where there is no jury)
   - The burden of proof 
-    - In M’Naghten’s Case, the legal burden of proof on the issue of insanity was clearly placed on the accuse
-      - the jurors ought to be told in all cases that every man is to be presumed to be sane, and to possess a sufficient degree of reason to be responsible for his crimes, until the contrary be proved to their satisfaction’
+    - In M'Naghten's Case, the legal burden of proof on the issue of insanity was clearly placed on the accuse
+      - the jurors ought to be told in all cases that every man is to be presumed to be sane, and to possess a sufficient degree of reason to be responsible for his crimes, until the contrary be proved to their satisfaction'
       - The standard of proof is on the balance of probabilities. 
-        - Insanity is the only common law defence that imposes a legal (as opposed to evidentiary) burden on the accused, and it is referred to as the ‘reverse burden of proof ’ on that basis
-    - In Woolmington v DPP [1935] AC 462, the House of Lords accepted insanity as an exception to the ‘golden thread’, and this view has been accepted in numerous Australian cases: 
+        - Insanity is the only common law defence that imposes a legal (as opposed to evidentiary) burden on the accused, and it is referred to as the 'reverse burden of proof ' on that basis
+    - In Woolmington v DPP [1935] AC 462, the House of Lords accepted insanity as an exception to the 'golden thread', and this view has been accepted in numerous Australian cases: 
       - It has also been held that the burden of proof on substantial impairment by abnormality of mind and unfitness to plead, rests on the accused: R v Dunbar [1958] 1 QB 1;
   - Disposition of mentally ill offenders 
     -  The underlying rationale of current disposition rules is that an individual found not guilty by reason of mental illness should be subject to a regime that is the least restrictive of their freedom and autonomy as is consistent with the safety of the community.
     - s 39 of the Mental Health (Criminal Procedure) Act 1990 provides that on a finding of not guilty by reason of mental illness, the court may order that the person be detained in such place and in such manner as the court thinks fit until released by due process of law, or may make such other order (including an order releasing the person from custody, either unconditionally or subject to conditions) as the court considers appropriate. 
-      - s 39(2) provides that the court is not to make an order under this section for the release of a person from custody unless it is satisfied, on the balance of probabilities, that the safety of the person or any member of the public will not be seriously endangered by the person’s release.
+      - s 39(2) provides that the court is not to make an order under this section for the release of a person from custody unless it is satisfied, on the balance of probabilities, that the safety of the person or any member of the public will not be seriously endangered by the person's release.
   - Victim rights following the special hearing 
     - In 2018, New South Wales introduced the Mental Health (Forensic Provisions) Amendment (Victims) Act 2018 (NSW), which gave victims of crime the ability to furnish an impact statement before a judge conducting a special hearing into the standing of mentally ill offenders.
     - The 2018 amending legislation amends the Crimes (Sentencing Procedure) Act 1999 (NSW) by inserting s 28A, which provides the following rights to victims and their families: 
@@ -3129,7 +3129,7 @@ HELD:
   - Self-defence def - ss 418-423
     - Purely statutory - no common law
     - the accused asserts they have been compelled by extreme circumstances or the threats of another to break the law
-    - do not deny that the elements of the offence charged can be proved but instead exculpate the accused on the basis of some further fact, beyond the offence’s elements. 
+    - do not deny that the elements of the offence charged can be proved but instead exculpate the accused on the basis of some further fact, beyond the offence's elements. 
   - Self-defence burden/onus
     - it is the accused who bears the evidential burden with regard to a defence, while the prosecution bears the legal or persuasive burden of disproving the defence
       - Question of law, evaluated by judge
@@ -3150,7 +3150,7 @@ HELD:
         - This condition posed a test that was subjective in nature; the question is whether the accused believed the force used was proportionate to the necessity of the situation in which that person was placed; and 
       - (3) the accused used no greater degree of force than a reasonable person would have regarded as necessary in the circumstances of the case. 
         - This condition posed a test that was objective in nature; the question is not what the accused believed to be reasonably necessary but what an ordinary person would have regarded as necessary. 
-        - In Palmer v R [1971] AC 814, the Privy Council took the view that [failing in condition 3], the accused’s defence would fail altogether and they would be guilty of murder
+        - In Palmer v R [1971] AC 814, the Privy Council took the view that [failing in condition 3], the accused's defence would fail altogether and they would be guilty of murder
         - Zecevic v DPP (Vic) (1987) 162 CLR 645; 71 ALR 641, 
           - The High Court disapproved of its earlier decisions and chose to follow the approach taken 16 years earlier by the Privy Council and the English Court of Appeal, Criminal Division. While
     - Zecevic v DPP (Vic) (1987) 162 CLR 645; 71 ALR 641
@@ -3171,7 +3171,7 @@ HELD:
         - This case serves as a precedent in Australia for cases involving self-defense claims. 
         - It emphasizes that the test should not involve any set words or formulae but focus on the reasonable belief of the accused in the necessity of their actions.
     - R v Burgess (2005) 152 A Crim R 100 
-      - Painted no war on opera house, “if we don’t show iraq we are not enemies, we may be targets”, Both argued in self-defence
+      - Painted no war on opera house, "if we don't show iraq we are not enemies, we may be targets", Both argued in self-defence
       - Self defence cannot be too remote
   - Statutory self-defence 
     - Introduced to Crimes Act 1900 via Crimes Amendment (Self-Defence) Act 2001 (NSW
@@ -3197,7 +3197,7 @@ HELD:
     - New South Wales reintroduced excessive self-defence in s 421 of the Crimes Act (NSW). 
       - (a) all the elements of murder have first been proven by the prosecution beyond reasonable doubt; 
       - (b) the accused genuinely believed it was necessary to engage in the conduct in order to defend themself against another person or prevent unlawful deprivation of liberty; and 
-      - (c) a reasonable person in the accused’s position would not have considered the accused’s response reasonable in the circumstances
+      - (c) a reasonable person in the accused's position would not have considered the accused's response reasonable in the circumstances
   - Excessive Self-defence Onus
     - If s 421 is raised on the evidence or by the defence, the onus is on the prosecution to prove that the act causing death was not done in self-defence; 
     - that is, that the accused did not (subjectively) hold the relevant belief:
@@ -3206,9 +3206,9 @@ HELD:
     - Self-defence in a situation of domestic violence appellant
     - There was much evidence of extreme threats and violence by the deceased against Silva, including recordings of ranting and threats on the day of the homicide. 
       - The prosecution had successfully argued that at the time the fatal stab wound had been inflicted, it was no longer reasonable for Silva to inflict a mortal injury, as the deceased was no longer a threat as he was being held down by two men
-    - On Appeal, the court held that the deceased’s attack on Silva was urgent, life-threatening and inescapable, and the physical confrontation should be considered in the context of the hours prior to the fatal wound
-      - The court focused on Silva’s perception of the threat, including her belief the deceased had a gun (when in fact he did not). 
-      - It was also accepted that her response of arming herself and stabbing the deceased was a ‘reasonable response’ to defend herself, or her brother or father.
+    - On Appeal, the court held that the deceased's attack on Silva was urgent, life-threatening and inescapable, and the physical confrontation should be considered in the context of the hours prior to the fatal wound
+      - The court focused on Silva's perception of the threat, including her belief the deceased had a gun (when in fact he did not). 
+      - It was also accepted that her response of arming herself and stabbing the deceased was a 'reasonable response' to defend herself, or her brother or father.
   - R v Katarzynski [2002] NSWSC 613, 
     - in New South Wales the questions to be considered by the jury when self-defence is raised are: 
       - (a) is there a reasonable possibility the accused believed their conduct was necessary in order to defend themself; and (subjective)
@@ -3222,31 +3222,31 @@ HELD:
   - Intoxication is evidence that may go to the issue of whether the prosecution has proved that the accused performed the requisite actus reus with the mens rea. 
     - the law on intoxication relates to the admissibility of evidence, rather than substantive law. 
     - Intoxication does not of itself excuse or exculpate an accused. 
-  - Intoxication as a consequence of alcohol or drugs voluntarily consumed, and falling short of rendering the accused’s conduct involuntary, cannot, however, give rise to a defence to a crime of absolute liability
-  -  In the important case of R v O’Connor (1980) 146 CLR 64; 29 ALR 449 (at 16.26C ), the High Court of Australia rejected Director of Public Prosecutions v Majewski [1977] AC 443 
+  - Intoxication as a consequence of alcohol or drugs voluntarily consumed, and falling short of rendering the accused's conduct involuntary, cannot, however, give rise to a defence to a crime of absolute liability
+  -  In the important case of R v O'Connor (1980) 146 CLR 64; 29 ALR 449 (at 16.26C ), the High Court of Australia rejected Director of Public Prosecutions v Majewski [1977] AC 443 
     - The accused was charged with the murder of a girl whom he raped and suffocated. 
     - His defence was that he was drunk and had not intended to cause either death or grievous bodily harm to the girl.
       - The accused was charged with the murder of a girl whom he raped and suffocated. 
         - His defence was that he was drunk and had not intended to cause either death or grievous bodily harm to the girl.
       - Principle
-        - In relation to crimes of ‘specific intent’, intoxication could be adduced to cast doubt on whether the Crown had proved the elements of the offence, but that in relation to crimes of ‘basic intent’, self-induced intoxication could not be adduced as evidence to cast doubt on the Crown case. = Beard passage
-    -  In Bratty v Attorney-General (Northern Ireland) [1963] AC 386, Lord Denning stated in obiter that if a ‘drunken man is so drunk that he does not know what he is doing, he has a defence to any charge ... in which a specific intent is essential’
+        - In relation to crimes of 'specific intent', intoxication could be adduced to cast doubt on whether the Crown had proved the elements of the offence, but that in relation to crimes of 'basic intent', self-induced intoxication could not be adduced as evidence to cast doubt on the Crown case. = Beard passage
+    -  In Bratty v Attorney-General (Northern Ireland) [1963] AC 386, Lord Denning stated in obiter that if a 'drunken man is so drunk that he does not know what he is doing, he has a defence to any charge ... in which a specific intent is essential'
       - specific intent def was invested with a distinct technical meaning and came to denote the intent required for an offence, over and above the intent to do the external actus reus of the offence: see R v Heard [2007] 3 All ER 306 
         - Aka ulterior intent
   - In R v Lipman [1970] 1 QB 152, the accused and his girlfriend took a quantity of the drug LSD.
     - In the course of the hallucinatory experience that followed, the accused, believing he was being attacked by snakes and had to fight for his life, suffocated his girlfriend by cramming part of a sheet into her mouth. 
     - The accused was convicted of manslaughter on the basis of both the negligent manslaughter doctrine and the unlawful act manslaughter doctrine
       - Court of appeal held that manslaughter was a crime of basic intent; that is, it can be proven by proof of the fact of having caused 
-      - The Court of Appeal noted that, had the defendant’s girlfriend survived the attack, the defendant would have been acquitted, because the offences with which he would have been charged — causing grievous bodily harm with intent, or assault occasioning actual bodily harm — were specific intent offences; 
+      - The Court of Appeal noted that, had the defendant's girlfriend survived the attack, the defendant would have been acquitted, because the offences with which he would have been charged — causing grievous bodily harm with intent, or assault occasioning actual bodily harm — were specific intent offences; 
         - Specific intent offence def 
           - that is, they required proof that the defendant had a specific intent of causing grievous bodily harm.
   -  In Director of Public Prosecutions v Majewski [1977] AC 443, the accused was involved in a brawl at a pub in which he attacked the landlord and customers.
     - He also attacked the police officer who arrested him, another police officer while he was being driven to the police station, and, the following morning, a police inspector in a cell at the police station.
-      -  The accused’s defence was that the offences had been committed while he was suffering from the effects of alcohol and drugs and that he had not intended to commit the assaults.
+      -  The accused's defence was that the offences had been committed while he was suffering from the effects of alcohol and drugs and that he had not intended to commit the assaults.
     - Judge held assault was not a specific intent crime, self-induced or voluntary intoxication by drink and drugs could not be adduced as evidence and was to be ignored by the jury in reaching their verdict. 
     - House of Lords 
       - Their Lordships accepted as crucial the distinction between crimes of specific intent and crimes of basic intent. 
-      - intoxication voluntarily induced will be admissible to cast doubt on whether the Crown has proved the elements of the offence or, put another way, to assist the defence to suggest that the accused’s acts were involuntary or prevented them from forming the mens rea of the crime charged.
+      - intoxication voluntarily induced will be admissible to cast doubt on whether the Crown has proved the elements of the offence or, put another way, to assist the defence to suggest that the accused's acts were involuntary or prevented them from forming the mens rea of the crime charged.
   - The decision as to which crimes are of specific intent and which are of basic intent is clearly one of public policy rather than clear logic or principle.
     - partial list of crimes falling within each category. 
       - specific intent.
@@ -3263,7 +3263,7 @@ HELD:
         - it was resolved in R v Eatch [1980] Crim LR 650 that rape is a basic intent offence
   - Harkins v R [2015] NSWCCA 263 demonstrates the intended reading of Pt 11A of the Crimes Act (NSW) as wholly replacing the common law of intoxication in New South Wales
   - As to the inclusion of new offences under s 428B, McIlwraith v R [2017] NSWCCA 13 treats as an offence of specific intent one which can be proved by knowledge of specific matters, in the same way as one where the state of mind involves a specific intention, and thus subject to the provisions of Pt 11A.
-    - determines whether error in finding the offence of intimidation under s 13 of the Crimes (Domestic and Personal Violence) Act 2007 (NSW) is not an offence of specific intent, and whether the offender’s intoxication at the time of the offence is able to be taken into account in the determination of guilt.
+    - determines whether error in finding the offence of intimidation under s 13 of the Crimes (Domestic and Personal Violence) Act 2007 (NSW) is not an offence of specific intent, and whether the offender's intoxication at the time of the offence is able to be taken into account in the determination of guilt.
   - McIlwraith v R [2017] NSWCCA 13
     - Background:
       - McIlwraith was convicted for violating s 13(1) of the Personal Violence Act.
@@ -3282,25 +3282,25 @@ HELD:
 - INVOLUNTARY INTOXICATION 
   - Involuntary or non-voluntary intoxication def is defined narrowly to encompass circumstances in which the accused is tricked or forced into consuming alcohol or other drugs. 
     - Consuming a seemingly non-alcoholic drink that has been laced with alcohol will be considered involuntary intoxication (R v Allen [1988] Crim LR 698), but underestimating the effect of alcoholic substances will not: R v Eatch [1980] Crim LR 650.
-  - Under the Majewski approach to intoxicated offending, evidence of involuntary intoxication may be adduced in relation to both ‘specific intent’ and ‘basic intent’ offences. 
-  - Similarly, in R v O’Connor, Barwick CJ suggested that the principles to be applied are the same in cases of both voluntary and involuntary intoxication.
-    - As Lane LJ stated in R v Sheehan; R v Moore [1975] 2 All ER 960; [1975] 1 WLR 739 at 744, a ‘drunken intent is nevertheless an intent’.
+  - Under the Majewski approach to intoxicated offending, evidence of involuntary intoxication may be adduced in relation to both 'specific intent' and 'basic intent' offences. 
+  - Similarly, in R v O'Connor, Barwick CJ suggested that the principles to be applied are the same in cases of both voluntary and involuntary intoxication.
+    - As Lane LJ stated in R v Sheehan; R v Moore [1975] 2 All ER 960; [1975] 1 WLR 739 at 744, a 'drunken intent is nevertheless an intent'.
   - in R v Kingston [1994] 3 All ER 353
     - How involuntary intoxication affects liability 
     - The accused, who had paedophiliac tendencies, was blackmailed by former business associates who arranged for another man, P, who had similar paedophiliac tendencies, to photograph and audiotape the accused in a compromising situation with a boy
       - P lured a boy to his flat, where he gave him what seemed an innocuous drink and some cannabis. 
         - The boy fell asleep on the bed and while he was unconscious P invited the accused to sexually abuse the boy. 
         - The accused did so and was photographed and taped. 
-    - The Law Lords affirmed the trial judge’s direction that Kingston could be acquitted only if his involuntary intoxication meant he did not form, or might not have formed, the intention to assault the boy.
+    - The Law Lords affirmed the trial judge's direction that Kingston could be acquitted only if his involuntary intoxication meant he did not form, or might not have formed, the intention to assault the boy.
   - A different approach is adopted in the Criminal Code Act 1995 (Cth), where a distinction is drawn between self-induced intoxication and intoxication that is not self-induced.
     - s 8.1 provides: 
       - For the purposes of this Division, intoxication is self-induced unless it came about: 
         - (a) involuntarily; or 
         - (b) as a result of fraud, sudden or extraordinary emergency, accident, reasonable mistake, duress or force
     - in the case of defences an element of which depends on whether a reasonable belief exists, 
-      - s 8.4(3) provides that if a person’s intoxication is not self-induced, regard must be had to the standard of a reasonable person intoxicated to the same extent as the person concerned.
+      - s 8.4(3) provides that if a person's intoxication is not self-induced, regard must be had to the standard of a reasonable person intoxicated to the same extent as the person concerned.
       - s 8.5 provides: 
-        - A person is not criminally responsible for an offence if the person’s conduct constituting the offence was as a result of intoxication that was not self-induced.
+        - A person is not criminally responsible for an offence if the person's conduct constituting the offence was as a result of intoxication that was not self-induced.
   - Statutory Provisions of Self-defence
     - The New South Wales provisions follow the Majewski approach
       - s 428C of the Crimes Act (NSW) provides that self-induced intoxication may be a defence in the case of offences of specific intent. 
@@ -3366,20 +3366,20 @@ HELD:
       - 4. electronic tags fitted to the ankles of people who have committed offences enable the police and parole officers to identify when they commit further offences.
     - Post 9/11
       - Australian Security Intelligence Organisation Act 1979 (Cth) s 34D(4)(a) 
-        -  the power to arrest and detain a person for up to 168 hours on the broad ground that the person might ‘substantially assist the collection of Intelligence that is important in relation to a terrorism offence’:
+        -  the power to arrest and detain a person for up to 168 hours on the broad ground that the person might 'substantially assist the collection of Intelligence that is important in relation to a terrorism offence':
   - HUMAN RIGHTS, COMMUNITY PROTECTION AND REASONABLENESS
     - procedural fairness def
       - refers to how fairly the person under investigation is treated and whether he/she is afforded basic legal rights
       - The accused must be treated humanely and his/her innocence presumed.
     - Factual basis for reasonable suspicion
       - Established in R v Rondo (2001) 126 A Crim R 562.
-      - In Goldie v Commonwealth of Australia (2002) 117 FCR 566 at 569, [6], Gray and Lee JJ underscored the importance of officers forming a ‘reasonable’ suspicion before an arrest in order to uphold the principle of ‘individual liberty’ that underlies that common law
-    - In Director of Public Prosecutions (NSW) v Shaba [2018] NSWSC 811, the New South Wales Supreme Court narrowly interpreted the meaning of ‘reasonably required’ under s 74A of the Firearms Act 1996 (NSW), which permits searches if it is ‘reasonably required’ to determine whether a person is in breach of a Firearms Prohibition Order (FPO).
+      - In Goldie v Commonwealth of Australia (2002) 117 FCR 566 at 569, [6], Gray and Lee JJ underscored the importance of officers forming a 'reasonable' suspicion before an arrest in order to uphold the principle of 'individual liberty' that underlies that common law
+    - In Director of Public Prosecutions (NSW) v Shaba [2018] NSWSC 811, the New South Wales Supreme Court narrowly interpreted the meaning of 'reasonably required' under s 74A of the Firearms Act 1996 (NSW), which permits searches if it is 'reasonably required' to determine whether a person is in breach of a Firearms Prohibition Order (FPO).
       - involved a search of a vehicle for a person who was subject to an FPO, where the police found cannabis. 
       - In defending the drug charge, the defendant argued that the search was unlawful because there was no reasonable basis for the search.
-        - R v Ioannidis (2015) 124 SASR 86 at [22], in which the Full Supreme Court of South Australia held in relation to its Firearms Act 1977 (SA) that a police officer may be deemed to have lawfully searched a person, on the basis that it is ‘reasonably required’ to ensure compliance with a FPO and ‘for no other cause than to check compliance with the FPO’.	
+        - R v Ioannidis (2015) 124 SASR 86 at [22], in which the Full Supreme Court of South Australia held in relation to its Firearms Act 1977 (SA) that a police officer may be deemed to have lawfully searched a person, on the basis that it is 'reasonably required' to ensure compliance with a FPO and 'for no other cause than to check compliance with the FPO'.	
           - Supreme court said too bad
-    - However, where police actions, including force, go beyond those prescribed in legislation, courts have restated that there must be proof of ‘reasonable suspicion’ and that their acts must be ‘reasonably necessary’.
+    - However, where police actions, including force, go beyond those prescribed in legislation, courts have restated that there must be proof of 'reasonable suspicion' and that their acts must be 'reasonably necessary'.
       - Moreover, State of Western Australia v Cunningham [No 3] [2018] WASCA 207 concerned a couple, including an associate professor in Law, in Perth who were tasered, handcuffed and charged with obstructing a police officer, as a result of helping a man lying in the bushes. 
         - The Western Australian Court of Appeal found that the use of force and charge was excessive and unreasonable and amounted to battery, false imprisonment and misfeasance in public office. 
           - Their defence of self-defence failed because the officers did not believe or believe on reasonable grounds that it was necessary to use such force
@@ -3392,7 +3392,7 @@ HELD:
     - For over a decade Coco v R (1994) 179 CLR 427 (see at 1.17) has guided Australian courts in relation to fundamental common law rights in criminal procedure.
       - In Coco v R (1994) 179 CLR 427 at 437 the High Court restated this coco principle as follows: 
         - The courts should not impute to the legislature an intention to interfere with fundamental rights.
-      - Lee v New South Wales Crime Commission (2013) 302 ALR 363; [2013] HCA 39 at [186], which rely on Coco, reiterate that the fundamental common law rights extend to immunity for suspects ‘from having to answer, under compulsion, questions of the police’
+      - Lee v New South Wales Crime Commission (2013) 302 ALR 363; [2013] HCA 39 at [186], which rely on Coco, reiterate that the fundamental common law rights extend to immunity for suspects 'from having to answer, under compulsion, questions of the police'
       - In Momcilovic v R (2011) 245 CLR 1; [2011] HCA 34 [444], the High Court described fundamental rights or freedoms as including 
         - freedom from trespass by police officers on private property (referring to Coco), 
         - freedom from arbitrary arrest or search, 
@@ -3402,15 +3402,15 @@ HELD:
       - Public order offences are directly related to policing because they are often utilised by police officers to enforce their power and authority on the street.
         - In Coleman v Power, Coleman was conducting a protest relating to allegations of corruption against certain Townsville police officers. 
         - He was distributing pamphlets to this end, and when Constable Power approached and asked to see a pamphlet, he was pushed by Coleman, who said loudly: 
-        - ‘This is Constable Brendan Power, a corrupt police officer.’ 
-        - It was found that Coleman’s pushing and verbal insult provoked his arrest. 
+        - 'This is Constable Brendan Power, a corrupt police officer.' 
+        - It was found that Coleman's pushing and verbal insult provoked his arrest. 
         - Coleman was convicted of using insulting words to Power in a public place under s 7 of the Queensland vagrancy legislation
       - The major issue before the court was whether s 7 creating the offence was constitutionally valid and, following on from this issue, whether Coleman had been lawfully arrested. 
-        - The court by majority held that the legislation was valid but that Coleman’s conviction should be quashed because any legislation criminalising the use of insulting and abusive words required a narrow interpretation. 
+        - The court by majority held that the legislation was valid but that Coleman's conviction should be quashed because any legislation criminalising the use of insulting and abusive words required a narrow interpretation. 
       - Blood testing, breath testing and tape-recording of police questioning are some of the trappings of modernity that extend and keep in check police powers of investigation.
-    - Al-Kateb v Godwin [2004] HCA 37 illustrates the ‘rights’ tension in this new legal landscape.
+    - Al-Kateb v Godwin [2004] HCA 37 illustrates the 'rights' tension in this new legal landscape.
       - In Al-Kateb the High Court split 4–3 in determining the applicability of the Coco principles to provisions in the Migration Act 1958 (Cth).
-        - These provisions permit detention of unlawful non-citizens until their removal ‘as soon as reasonably practicable’ from Australia.
+        - These provisions permit detention of unlawful non-citizens until their removal 'as soon as reasonably practicable' from Australia.
         - Facts
           - Al-Kateb, an unlawful non-citizen and a stateless Palestinian, had been detained in immigration detention for four years. 
           - The countries with which he had connection by birth or by residency, Kuwait and Israel, refused him entry.
@@ -3418,13 +3418,13 @@ HELD:
             - McHugh, Hayne, Callinan and Heydon JJ, the majority, held that they did.
         - Gleeson CJ, Gummow and Kirby JJ dissented. 
           - Applying the Coco principle, they viewed the provisions as regulating only detention for the purpose of facilitating the removal of unlawful non-citizens from Australia
-          - In their Honours’ view, the provisions did not apply where there was no realistic possibility of removing Al-Kateb from Australia. 
+          - In their Honours' view, the provisions did not apply where there was no realistic possibility of removing Al-Kateb from Australia. 
           - The minority viewed the statutory obligation to detain Al-Kateb as 
   - FOUNDATIONAL ISSUES RELATING TO POLICE POWERS 
     - The scope of reasonable suspicion 
-      - Police have the power to arrest a suspect once they have established a ‘reasonable suspicion’ of guilt, or the test of reasonable belief in some jurisdictions 
-        - If a criminal prosecution is to proceed to conviction, police investigations will usually need to have produced sufficient admissible prosecution evidence to satisfy the court ‘beyond reasonable doubt
-      - Reasonablesnes is based on the objective standard in context of the officer’s subjective standpoint
+      - Police have the power to arrest a suspect once they have established a 'reasonable suspicion' of guilt, or the test of reasonable belief in some jurisdictions 
+        - If a criminal prosecution is to proceed to conviction, police investigations will usually need to have produced sufficient admissible prosecution evidence to satisfy the court 'beyond reasonable doubt
+      - Reasonablesnes is based on the objective standard in context of the officer's subjective standpoint
         - Reasonable suspicion is discussed in R v Nguyen 
     - Goldie v Commonwealth of Australia (2002) 188 ALR 708;
       - Background:
@@ -3445,15 +3445,15 @@ HELD:
     - Police discretion 
       - guilty pleas represent by far the most common outcome where charges have been laid, preventing the court from scrutinising the methods by which evidence was collected. 
       - Even if a policing issue is aired in court, the reality is that curial reviews rely on contested accounts of incidents determined after the event.
-        - ‘Voluntary’ cooperation of suspects often follows peremptory ‘commands/ invitations’ such as, ‘We’ll go back to the station and sort this out’. 
-        - At law these interactions, amounting to ‘consensual policing’ are often invisible.
-          - ‘consensual policing’ continues to suspend police obligations — including charging, considering bail, and offering assistance with respect to legal representation — that would otherwise apply after arrest.
+        - 'Voluntary' cooperation of suspects often follows peremptory 'commands/ invitations' such as, 'We'll go back to the station and sort this out'. 
+        - At law these interactions, amounting to 'consensual policing' are often invisible.
+          - 'consensual policing' continues to suspend police obligations — including charging, considering bail, and offering assistance with respect to legal representation — that would otherwise apply after arrest.
     - POLICE WORK 
       - Police officers are subjected to work stresses, pressures, inflexibility and shift-work that contribute to high attrition rates.
       - Workplace issues such as bullying, and, at the other end of the spectrum, camaraderie, are also described in the Lynch and Tuckey study
       - A significant feature of police culture is the bond in police services. 
-        - The term ‘police culture’ has become synonymous with a strong code of solidarity among police officers.
-          - a sense of mission about one’s work; 
+        - The term 'police culture' has become synonymous with a strong code of solidarity among police officers.
+          - a sense of mission about one's work; 
           - an orientation towards action; 
           - a cynical or pessimistic perspective about the social environment; 
           - a constantly suspicious attitude; an isolated social life with a strong sense of solidarity with other police officers; 
@@ -3465,7 +3465,7 @@ HELD:
 - Statutory limits on police powers: LEPRA and the Evidence Act
   - Overhaul of the Crimes Act 1914 (Cth) and the introduction of the Law Enforcement (Powers and Responsibilities) Act 2002 (NSW
     - regulates and enhances police powers in relation to arrest, search and identification of suspects, with the most recent changes focusing on forensic forms of identification, which will be discussed in future chapters. 
-      - reflecting ‘the views of those who believe “effective law enforcement” is of greater importance than the preservation and protection of individual rights’.
+      - reflecting 'the views of those who believe "effective law enforcement" is of greater importance than the preservation and protection of individual rights'.
   - Legislative limits on police powers in the Evidence Act 
     - The uniform Evidence Act 1995 (Cth) applies federally 
       - New South Wales legislated its own Evidence Act 1995 shortly after the Commonwealth Act came into operation, aka Uniform Evidence Acts (UEA).
@@ -3488,7 +3488,7 @@ HELD:
           - Exceptions exist, such as when officials are handling border controls or exercising certain other powers.
   - WHAT IS AN ARREST? 
     - Arrest def
-      - a means of physically restraining a person’s freedom of movement for the purpose of taking the person before a court to answer criminal charges
+      - a means of physically restraining a person's freedom of movement for the purpose of taking the person before a court to answer criminal charges
       - NOT arresting
         - the stopping of a person for the purpose of a legal search and 
         - the stopping and detaining of motorists under road safety, alcohol and drugs legislation for random breath testing.
@@ -3503,14 +3503,14 @@ HELD:
             - Police v Thomson [1969] NZLR 513; 
             - R v Jones; Ex parte Moore [1965] Crim LR 222 (cited by Macarthur J in Police v Thomson); 
       - In the second situation, it is the prosecution who argues that there was no arrest. 
-        - This typically occurs where the defence disputes the admissibility of an item of prosecution evidence, such as a confession, obtained during the arrestee’s detention
+        - This typically occurs where the defence disputes the admissibility of an item of prosecution evidence, such as a confession, obtained during the arrestee's detention
           - The accused argues that the evidence has been obtained illegally because the police failed to comply with the legal obligations that flow from the arrest. 
-          - The prosecution commonly responds to this argument by asserting that there was no need to comply with these obligations as no arrest occurred — the detainee was merely ‘voluntarily’ assisting the police with their inquiries.
+          - The prosecution commonly responds to this argument by asserting that there was no need to comply with these obligations as no arrest occurred — the detainee was merely 'voluntarily' assisting the police with their inquiries.
       - The point has been made that because a volunteer has none of the rights of an arrestee, he or she is actually at a disadvantage in comparison to an arrestee. 
       - This situation has also been criticised as providing the police with a judicially sanctioned loophole that may be exploited to avoid the obligations imposed by the law of arrest
   - Common law arrest 
     - At common law, there must be an actual deprivation of liberty to constitute an arrest.
-    - But where there is no actual physical restraint of the person, there still must be a deprivation of liberty, which may be proved by showing that the person submitted to the arrestor’s power.
+    - But where there is no actual physical restraint of the person, there still must be a deprivation of liberty, which may be proved by showing that the person submitted to the arrestor's power.
       - Licciardello v R [2012] ACTCA 16 is an example of a case where there had been no deprivation of liberty because, despite the announcement of the police that the defendant was under arrest, the defendant did not submit.
         - Licciardello had been stopped in his vehicle after allegedly committing a traffic infringement. 
         - He was asked to produce his licence, which he could not do because he was unlicensed, being a disqualified driver
@@ -3519,15 +3519,15 @@ HELD:
         - Licciardello responded with words to the effect that he did not want to go back to gaol, and thereupon walked around his car and ran away. 
       - The question for the court was whether Licciardello had actually been under arrest, because if he was not, he could not be guilty of having escaped from lawful custody
         - In finding that no arrest had taken place, the court relied on Wilson v New South Wales (2010) 278 ALR 7
-          - ‘The requirements for an arrest are 
+          - 'The requirements for an arrest are 
             - (1) communication of intention to make an arrest, and 
-            - (2) a sufficient act of arrest or submission’.
-      - In situations like R v O’Donoghue (1988) 34 A Crim R 397 
+            - (2) a sufficient act of arrest or submission'.
+      - In situations like R v O'Donoghue (1988) 34 A Crim R 397 
         - (where the suspect claims he was required to comply with police directions, but police claim that the accused voluntarily accompanied them to the police station, see below), 
-      - courts interpret police words and conduct in terms of their impact upon the suspect’s state of mind, that is: 
+      - courts interpret police words and conduct in terms of their impact upon the suspect's state of mind, that is: 
         - Did the detainee reasonably believe, as a result of police actions, that he or she was under arrest? 
         - Did the police use words or conduct of arrest which compelled the detention of the arrestee? or 
-        - Was this belief merely ‘a product of his own mind’
+        - Was this belief merely 'a product of his own mind'
   - POWERS OF ARREST 
     - Police and officers in many government agencies have statutory powers of arrest (for example, customs and immigration officers etc) that are greater than those given by the common law.
     - Police officers 
@@ -3535,7 +3535,7 @@ HELD:
         - A police officer may arrest a person under the authority of an arrest warrant
         - Where an arrest under warrant takes place, the common law requires the warrant be shown to the arrestee.
       - Arrest without warrant — common law 
-        -  At common law a constable or other ‘peace officer’ could arrest without a warrant in the following situations: 
+        -  At common law a constable or other 'peace officer' could arrest without a warrant in the following situations: 
           - to prevent the commission of a felony; 
           - where a person was found committing a felony or was reasonably suspected of having committed a felony (regardless of whether or not a felony had actually occurred); 
           - where a breach of the peace was occurring: R v Ryan (1890) 11 LR (NSW) L 171. 26
@@ -3611,23 +3611,23 @@ HELD:
           - see Pollard v R (1992) 176 CLR 177; 
           - R v Percerep [1993] 2 VR 109 (CCA);
       - It may also ground an action in tort for false imprisonment.
-        - in Slaveski v State of Victoria [2010] VSC 441, [137], it was held that ‘the detention of a person in custody for longer than a “reasonable time”, contrary to s 464A(1) of the Crimes Act, constitutes the tort of false imprisonment’
+        - in Slaveski v State of Victoria [2010] VSC 441, [137], it was held that 'the detention of a person in custody for longer than a "reasonable time", contrary to s 464A(1) of the Crimes Act, constitutes the tort of false imprisonment'
   - The Law Enforcement (Powers and Responsibilities) Act 2002 (NSW)
     - The Act: 
-      - authorises the detention of an arrestee despite any ‘without delay’ requirement (s 114); 
-      - provides a limited period of time for the detention of an arrestee to enable investigation of the person’s involvement in a criminal offence (s 115); and 
+      - authorises the detention of an arrestee despite any 'without delay' requirement (s 114); 
+      - provides a limited period of time for the detention of an arrestee to enable investigation of the person's involvement in a criminal offence (s 115); and 
       - provides certain rights for the arrestee (ss 122–131). 
     - The investigation period 
       - The New South Wales legislation sets a reasonable time for the investigation period, but limits the total time to six hours: 
         - s 115 (under the previous s 115, the period was four hours). 
-      - This time can be extended by up to a further six hours where the investigation is being ‘conducted diligently and without delay’ but cannot reasonably be completed within the six-hour period otherwise than by continued detention of the suspect: 
+      - This time can be extended by up to a further six hours where the investigation is being 'conducted diligently and without delay' but cannot reasonably be completed within the six-hour period otherwise than by continued detention of the suspect: 
         - s 118.
       -  s 116 requires (but does not limit) consideration of certain circumstances. 
-      - s 117 provides that certain circumstances do not ‘count’ in calculating the investigation period
+      - s 117 provides that certain circumstances do not 'count' in calculating the investigation period
     - After the investigation period has expired 
-      - Once in custody, a person must be released (on bail or unconditionally) or brought before an authorised officer or a court within the investigation period or ‘as soon as practicable’ after the end of that period: 
+      - Once in custody, a person must be released (on bail or unconditionally) or brought before an authorised officer or a court within the investigation period or 'as soon as practicable' after the end of that period: 
         - s 114(4)
-      - s 114(4) brings the ‘without delay’ principle into play, requiring police to conform to Michaels v R (1995) 184 CLR 117 and Williams v R (1986) 161 CLR 278: see also Coco v R (1994) 179 CLR 427
+      - s 114(4) brings the 'without delay' principle into play, requiring police to conform to Michaels v R (1995) 184 CLR 117 and Williams v R (1986) 161 CLR 278: see also Coco v R (1994) 179 CLR 427
     - Detention warrants 
       - A detention warrant to extend the investigation period beyond six hours may be obtained by telephone where it is required urgently and it is not practicable for the application to be made in person: s 61. 
       - Otherwise it must be obtained in person upon a written application: s 60.
@@ -3642,7 +3642,7 @@ HELD:
         - keep custody records as required by regulations and by s 131; 
         - And caution the arrestee when he or she arrives at the police station (or other place of detention), give the arrestee a summary of the portion of the Law Enforcement (Powers and Responsibilities) Act 2002 (NSW) relating to detention after arrest and also fulfil obligations relating to a suspect's rights to communicate: ss 123-127.
     - the New South Wales custody manager is not required to be independent of the investigation,nor is the PACE model of direct responsibility for protecting accused fundamental rights followed in New South Wales
-  - The level of certainty necessary to justify arrest is far lower than the level necessary to found a conviction “beyond reasonable doubt. 
+  - The level of certainty necessary to justify arrest is far lower than the level necessary to found a conviction "beyond reasonable doubt. 
     - Note also that in establishing a reasonable suspicion (or belief), arresting officers may take into account facts and inferences which are inadmissible in a criminal trial.
     - Shaaban bin Hussien v Chong Fook Kam [1969] 3 All ER 1626 (PC)
       - Not binding, but oft cited
@@ -3691,8 +3691,8 @@ HELD:
       - (c) What is important is the information in the mind of the police officer stopping the person or vehicle, or making the arrest at the time he did so. 
         - Having ascertained that information, the question is whether that information afforded reasonable grounds for the suspicion which the police officer formed. 
         - In answering that question, regard must be had to the source of the information and its content seen in the light of the whole of the surrounding circumstances.
-  - Relying on third party’s suspicion or belief
-    - police officer who Simply relies on a superior’s orders and arrests a person on another's reasonable suspicion will not have the requisite state of mind.
+  - Relying on third party's suspicion or belief
+    - police officer who Simply relies on a superior's orders and arrests a person on another's reasonable suspicion will not have the requisite state of mind.
       - Even scanty information given in a briefing session can
       - O'Hara v Chief Constable, Royal Ulster Constabulary [1997]1 All ER 129.
     - For example, where the arrestor relies on information given to him or her from a third party, the credibility of the informant will be relevant to determining the reasonableness of the arrestor's view. 
@@ -3741,7 +3741,7 @@ HELD:
         - This provision also requires the arresting officer to provide his or her name and place of duty to the arrestee and evidence that he or she is a police officer.
   - Use of force in making an arrest
     - Additionally, modern arrest powers permit the arrest of all suspected offenders,not only those suspected of felonies. 
-    - The result is that the common law’s permission to use enough force as is ‘reasonably necessary’ to effect the arrest remains, but in a modified form
+    - The result is that the common law's permission to use enough force as is 'reasonably necessary' to effect the arrest remains, but in a modified form
   - R v Turner [1962]VR 30
     - Background:
       - Turner had been a victim of multiple car thefts.
@@ -3772,7 +3772,7 @@ HELD:
   - Statute 
     - Most Australian jurisdictions have codified the common law power to use reasonable force in arrest. 
     - The terms of those provisions differ,but all employ the requirement that force be reasonable or proportional.
-    - The common law continues to applying those jurisdictions without specific legislation,and in all jurisdictions with respect to what constitutes ‘reasonable force’.
+    - The common law continues to applying those jurisdictions without specific legislation,and in all jurisdictions with respect to what constitutes 'reasonable force'.
     - The relevant statutory provisions are as follows: 
       - Crimes Act 1914 (Cth)s 3ZC; 
       - Law Enforcement (Powers And Responsibilities) Act 2002(NSW)s 231
@@ -3782,7 +3782,7 @@ HELD:
     - statutory obligations: 
       - to alert arrestees to their rights and to enable them to obtain support from friends, relatives, a lawyer and, where necessary,an interpreter
     - the common law:
-      - requires a police officer ‘to take all reasonable steps to avoid acts or omissions which he could reasonably foresee would be likely to harm the person for whom he is responsible’:
+      - requires a police officer 'to take all reasonable steps to avoid acts or omissions which he could reasonably foresee would be likely to harm the person for whom he is responsible':
         - Kirkham v Chief Constable of the Greater Manchester Police [1990] 3 All ER 246
     - Police liabilities: personal and/or vicarious
       - At common law, the independent discretion rule operates when police officers act within the wide discretionary powers at their disposal. 
@@ -3805,7 +3805,7 @@ HELD:
       - Second, where the arrest leads to chargingand a trial, it may be possible for the evidence obtained in the course of the illegal detention to be excluded
         - Uniform Evidence Acts s 138;
         - Bunning v Cross (1978)141 CLR 54.
-        - Appeal courts as a matter of principle are hesitant to overturn a trial judge’s decision based on the exercise of a discretion
+        - Appeal courts as a matter of principle are hesitant to overturn a trial judge's decision based on the exercise of a discretion
       - The third avenue available to a person seeking redress for an unlawful police detention is to set in train internal police disciplinary proceeding
       - none of these options provides expeditious relief to a detainee
     - Injury to innocent third parties
@@ -3814,7 +3814,7 @@ HELD:
 - Interrogation
   - Identifying the Right to Silence
     -  The right to silence def
-      - the right to choose whether to assist one’s accusers by answering their questions
+      - the right to choose whether to assist one's accusers by answering their questions
     - Uniform Evidence Acts s 89
       - in a criminal proceeding an unfavourable inference (defined as a consciousness of guilt) must not be drawn from a failure to answer questions put by an investigating official, and is inadmissible evidence if it can only be used to draw such an inference.
   - Lord Mustill in R v Director of the Serious Fraud Office; Ex parte Smith [1993] AC I at 30—1. Lord Mustill listed six 'immunities' forming the right to silence at common law. 
@@ -3849,8 +3849,8 @@ HELD:
     - S 3V of the Crimes Act 1914(Cth) is a more general power operating in relation to Commonwealth offences
     - Statutes frequently make it a criminal offence for a person to be in possession of property reasonably suspected of having been stolen,unless the person can persuade the court that he or she had no reasonable grounds for suspecting that the property was stolen: 
       - see, for example, Crimes Act 1900 (NSW) s 527C.
-      - Or an Act might penalise the possession of something ‘without reasonable excuse’.
-      - s 11B of the Summary Offences Act 1988 (NSW), for example,makes it an offence to carry an offensive implement in a public place 'without reasonable excuse’.
+      - Or an Act might penalise the possession of something 'without reasonable excuse'.
+      - s 11B of the Summary Offences Act 1988 (NSW), for example,makes it an offence to carry an offensive implement in a public place 'without reasonable excuse'.
     - For thieves and receivers, strictly speaking, the suspect's silence can be taken against them, whether or not they were questioned.
       - The adverse inference is from the general circumstances,rather than any response to interrogate
       - Brucev R (1987) 74 ALR 219;
@@ -3865,26 +3865,26 @@ HELD:
       - and Law Enforcement (Powers And Responsibilities) Act 2002(NSW) ss 122-1
       - Can cause discretions allowing for the exclusion of evidence for unfairness,or because it was obtained illegally improper
   -  In R v Lamb [2002] NSWSC 357,
-    - Dunford J held that under equivalent New South Wales statutory provisions there is a positive duty to assist a ‘vulnerable person’ (which includes Indigenous Australians) in exercising his or her right
+    - Dunford J held that under equivalent New South Wales statutory provisions there is a positive duty to assist a 'vulnerable person' (which includes Indigenous Australians) in exercising his or her right
 - RETAIN THE RIGHT TO SILENCE? 
   - New South Wales has decided to follow the lead set by the United Kingdom with legislation drafted in similar terms in 2013.
   - Evidence Act 1995 (NSW) 
     - 89A  Evidence of silence in criminal proceedings for serious indictable offences 
       - an adverse inference can be drawn if the defendant failed or refused to mention a fact that the defendant could reasonably have been expected to mention at the time and later relied on in court.
-    - s 89A only applies where the defendant is charged with a serious indictable offence (punishable by imprisonment for five years or more); the defendant must have been given a ‘special caution’ as defined in the section above; 
+    - s 89A only applies where the defendant is charged with a serious indictable offence (punishable by imprisonment for five years or more); the defendant must have been given a 'special caution' as defined in the section above; 
       - s 89A deals with official questioning in relation to the offence charged, and permits unfavourable inferences to be drawn from failure to mention a fact that the defendant later relied upon in his or her defence of the charge. 
       - It should be stressed that such unfavourable inferences are entirely separate from inferences drawn from a decision to remain silent at trial
   - For the rest of Australia, the law relating to the right to silence is that set down by the majority in Azzopardi v R (2001) 205 CLR 50
     - Background:
       - The Evidence Act 1995 (NSW) serves as a guide for what is permissible in terms of evidence and comments in court procedures.
-      - s 20 specifically addresses the circumstances under which comments can be made about a defendant’s failure to give evidence in criminal proceedings for indictable offences.
+      - s 20 specifically addresses the circumstances under which comments can be made about a defendant's failure to give evidence in criminal proceedings for indictable offences.
     - Legal Issue:
-      - Whether, and to what extent, a judge or certain parties can comment on a defendant’s failure to give evidence without suggesting that the silence is an admission of guilt.
+      - Whether, and to what extent, a judge or certain parties can comment on a defendant's failure to give evidence without suggesting that the silence is an admission of guilt.
     - Ratio:
       - The law maintains the balance between protecting the defendant's right to silence and allowing comments that serve the interests of justice.
       - The judge can comment, but the comments must not suggest that the defendant's failure to speak is an indication of guilt.
     - Decision:
-      - s 20 is upheld as a means to allow judicial comment on a defendant’s failure to give evidence, provided the comment does not imply guilt.
+      - s 20 is upheld as a means to allow judicial comment on a defendant's failure to give evidence, provided the comment does not imply guilt.
       - The section strengthens the judge's position in terms of making such comments, compared to historical norms.
     - Application:
       - The provision is applicable in criminal cases for indictable offences in New South Wales, Australia.
@@ -3934,12 +3934,12 @@ HELD:
     - The Act  expands the  range  of surveillance devices. 
     - These devices include  listening,optical surveillance,tracking and data surveillance devices. Some do  not  requirethe  warrant process
   - 2013 amendments  to  the Firearms Act 1996 (NSW)
-    - Police  were given strengthened powers  in  2013 to  conduct searches in  aid of FPO orders, which  enable  police, without  a  warrant, to  search  an FPO  subject’s body and  any  vehicle  or premises that  the  person occupies, controls  or manages: 
+    - Police  were given strengthened powers  in  2013 to  conduct searches in  aid of FPO orders, which  enable  police, without  a  warrant, to  search  an FPO  subject's body and  any  vehicle  or premises that  the  person occupies, controls  or manages: 
       - s  74A of the Firearms Act 1996(NSW).
       - Purpose: to determine if the FPO  subjecthas committed  an  offence by having a  firearm, firearm  parts of  ammunition.
   - The  meaning of  s  74A  was considered  by Fagan Jin  Director  of Public Prosecutions (NSW) v Shaba [2018] NSWSC 811
     - Background
-      - the DPP  appealed against a  magistrate’s decision  to  dismiss  charges against the  defendant  of possession and  supply of  a  prohibited drug.
+      - the DPP  appealed against a  magistrate's decision  to  dismiss  charges against the  defendant  of possession and  supply of  a  prohibited drug.
       - The  magistrate held that the search of the vehicle  by which  the constable had located the  drug has been conducted without  lawful  author
     - Held
       - (1) The  power  of search and hence the  efficacy of the orders would  be reduced  considerably if  search were restricted  to  cases where  a  policeofficer  already suspected non-compliance (at [26]);
@@ -3957,7 +3957,7 @@ HELD:
   - In  Nguyen v Elliott  (unreported, SC  Vic,  6  February 1995), 	
     - Background 
       - Nguyen Refused to consent to  a  police search. 
-      - Two  plain-clothes police, Elliott  and  Brittain,  had watched  a  group  of Asian  youths on a  park bench 'known to  be  frequented by drug users and dealers’.
+      - Two  plain-clothes police, Elliott  and  Brittain,  had watched  a  group  of Asian  youths on a  park bench 'known to  be  frequented by drug users and dealers'.
       - The  police testified that  they knew  Nguyento  have been  involved  in  drug transactions previously.
       - After 15 minutes  of  observation, during which time a number of Asian males had approached Nguyen and departed, the police approached. 
       - They had not witnessed any transactions but Nguyen had looked anxious and alert during the period of surveillance.

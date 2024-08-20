@@ -3,7 +3,7 @@
 - Evidence Evifilta
   - 
 - Week 2: Questioning Witnesses – Evidence Act 1995
-  - s 26 Court’s control over questioning of witnesses
+  - s 26 Court's control over questioning of witnesses
   - s29 Manner and form of questioning witnesses and their responses
   - Browne v Dunn Rule
   - s38 Unfavourable Witnesses
@@ -24,7 +24,7 @@ Week 1: Evidence Overview
 - Evidence
   - What is evidence?
     - Evidence is the information (facts) received by the Court in its efforts to determine the existence of some other matter of fact. Sometimes referred to as a proof model.
-    - “it encompasses, in my view, at least all of those matters which one party must prove in order to succeed in the proceeding and that the other must prove to establish its defence” per Branson J
+    - "it encompasses, in my view, at least all of those matters which one party must prove in order to succeed in the proceeding and that the other must prove to establish its defence" per Branson J
   - Why do we need rules / laws that govern the use of evidence?
   - Three main reasons:
     - Fairness – a way of ensuring that the parties are treated fairly. 
@@ -32,10 +32,10 @@ Week 1: Evidence Overview
     - Standardisation – allows for a degree of standardisation across all Court matters (consistency and certainty).
   - Uniform Evidence Legislation
     - Originally we had the Common Law Rules of Evidence – very complicated, convoluted and difficult to apply. 
-    - In the 1980’s ALRC conducted inquiry into problems associated with evidence.
+    - In the 1980's ALRC conducted inquiry into problems associated with evidence.
       - Resulted in Uniform Evidence Acts (1995) in NSW and Cth jurisdictions
       - Since that time other States and Territories have adopted the approach. 
-      - Although the various Acts are described as ‘Uniform’, there are some differences between them. 
+      - Although the various Acts are described as 'Uniform', there are some differences between them. 
   - Evidence Act Structure
     - In NSW, the use of evidence in both Criminal and Civil matters is governed by the Uniform Evidence Act 1995 (EA)
     - Structure of EA is designed to allow for a more systematic approach to the assessment of admissibility. 
@@ -46,7 +46,7 @@ Week 1: Evidence Overview
       - Chapter 3 - Admissibility
       - Chapter 4 - Proof 
     - Under the EA, evidence may be classified as either:
-      - - Testimonial (oral / written evidence given by a Witness) (oath by one’s testicles)
+      - - Testimonial (oral / written evidence given by a Witness) (oath by one's testicles)
       - - Documents (papers, electronic recording etc)
       - - Other evidence (views, re-enactments, real evidence - eg the weapon)
     - EA allows the Court to ensure that facts are proven in a methodical and consistent manner.
@@ -54,7 +54,7 @@ Week 1: Evidence Overview
       - The concept of Relevance.
       - The use of Exclusionary Rules.
       - The Use of Discretionary Rules.
-    - Aim is to be more ‘Inclusionary’ than ‘Exclusionary’.
+    - Aim is to be more 'Inclusionary' than 'Exclusionary'.
   - Admissibility – A 3-Stage Process
     - In assessing the admissibility of evidence, the Court undertakes a three-stage process where each threshold must be met before moving to the next step:
       - 1. Relevant / Not Relevant?
@@ -69,7 +69,7 @@ Week 1: Evidence Overview
     - EA made significant changes to the Common Law about how documents can be adduced. Common Law was very strict on the notion of only using original documents.
     - Part 2.2 of the EA deals with how the contents of documents can be adduced. Deals with how originals, copies, extracts, summaries etc can be tendered in order to bring the contents of the document before the Court. 
     - Should be noted that proving the content of a document is a different issue to how the content of the document is used/assessed in evidence. Getting the content of the document into evidence should be considered the first step.
-  - Definition of “Document”
+  - Definition of "Document"
     - In the Dictionary of the EA
     - "document" means any record of information, and includes: 
     - (a) anything on which there is writing, or 
@@ -101,7 +101,7 @@ Week 1: Evidence Overview
         - (a) tendering a document that is a copy of, or an extract from or summary of, the document in question, or 
         - (b) adducing from a witness evidence of the contents of the document in question.
         - [See R v Cassar and Sleiman (No 28) [1999] NSWSC 651]
-    - Definition of “unavailable”
+    - Definition of "unavailable"
       - Part 2 of the Dictionary: 5 Unavailability of documents and things 
       - For the purposes of this Act, a document or thing is taken not to be available to a party if and only if: 
         - (a) it cannot be found after reasonable inquiry and search by the party, or 
@@ -113,7 +113,7 @@ Week 1: Evidence Overview
           - (ii) it is in the possession or under the control of another party to the proceeding concerned who knows or might reasonably be expected to know that evidence of the contents of the document, or evidence of the thing, is likely to be relevant in the proceeding, or 
           - (iii) it was in the possession or under the control of such a party at a time when that party knew or might reasonably be expected to have known that such evidence was likely to be relevant in the proceeding. 
     - R v Cassar & Sleiman [1999] NSWSC 651
-      - D’s claimed that on the night of the incident they were driving around in a car. 
+      - D's claimed that on the night of the incident they were driving around in a car. 
         - P was given leave to adduce evidence in reply that would show car was elsewhere on that night. 
         - Police had evidence that car was at a motel at the time. 
         - What was this evidence and how was it adduced?
@@ -121,7 +121,7 @@ Week 1: Evidence Overview
         - Problem was that the registration form could not be found and therefore could not be produced as evidence, at trial. 
       - Evidence regarding existence of such registration forms and their general content was given by the motel employee, on duty that night.
       - Evidence as to the content of the registration form was given by police officer who had inspected the original registration form and recorded the name, address, vehicle registration and payment details etc on a piece of paper. 
-        - This information was then faxed to another police officer who recorded it on a ‘running sheet’. 
+        - This information was then faxed to another police officer who recorded it on a 'running sheet'. 
         - Sadly, the piece of paper and the fax of it could not be found at trial. 
       - Only remaining evidence was the police running sheet. The question was whether that was admissible to prove the contents of the original motel registration form ???? 
       - Court held that:
@@ -138,7 +138,7 @@ Week 1: Evidence Overview
       - The other type of Real Evidence (generally referred to as Views) allows for the conduct of experiments, demonstrations and location inspections. (s53)
       - Demonstrations / experiments / inspections can be very powerful evidence so the Court needs to be satisfied that the evidence gained will assist the Court in its deliberations and will not be unfairly prejudicial to the parties (particularly to the Defendant in a Criminal matter). 
       - Important to ensure procedural fairness is observed and that the evidence is able to be tested or commented upon like all other pieces of evidence.
-      - Neither the Judge or any member of the Jury is permitted to conduct a View outside of the rules in s53 (Bilal Skaf’s case)
+      - Neither the Judge or any member of the Jury is permitted to conduct a View outside of the rules in s53 (Bilal Skaf's case)
       - The factors that the Judge needs to consider when contemplating whether to conduct a View are set out in s53(3).
       - s53 does not apply to in-court demonstrations: Evans v The Queen (2007) 235 CLR 521
         - Under s54 the Court may draw any reasonable inference from what it sees, hears or otherwise notices during a demonstration, experiment or inspection.
@@ -149,7 +149,7 @@ Week 1: Evidence Overview
         - (b) the judge and, if there is a jury, the jury will be present. 
       - (3) Without limiting the matters that the judge may take into account in deciding whether to make an order, the judge is to take into account the following: 
         - (a) whether the parties will be present, 
-        - (b) whether the demonstration, experiment or inspection will, in the court’s opinion, assist the court in resolving issues of fact or understanding the evidence, 
+        - (b) whether the demonstration, experiment or inspection will, in the court's opinion, assist the court in resolving issues of fact or understanding the evidence, 
         - (c) the danger that the demonstration, experiment or inspection might be unfairly prejudicial, might be misleading or confusing or might cause or result in undue waste of time, 
         - (d) in the case of a demonstration—the extent to which the demonstration will properly reproduce the conduct or event to be demonstrated,
         - (e) in the case of an inspection—the extent to which the place or thing to be inspected has materially altered. 
@@ -165,10 +165,10 @@ Week 1: Evidence Overview
       - But despite the warning, the 64-year-old Jury Foreman rang another Juror the night before the verdict was delivered and they went to the park where the alleged rape occurred. 
       - The two Jurors went to Gosling Park for about 20 minutes to check the lighting conditions (obviously an issue that had been causing some concern to the Jury).
       - At the Trial, the two Jurors had not told the Judge or anybody else what they had done.
-      - At a BBQ some time later, the Foreman told a Solicitor that he and another had gone to the park. The Foreman said he only went to the park to `clarify something for my own mind‘. Quite correctly, the Solicitor reported the conversation to the NSW Sheriff.
+      - At a BBQ some time later, the Foreman told a Solicitor that he and another had gone to the park. The Foreman said he only went to the park to `clarify something for my own mind'. Quite correctly, the Solicitor reported the conversation to the NSW Sheriff.
       - As a result, the matter went to Appeal and the Judges in the NSWCCA found the experiment was a miscarriage of justice. 
         - "In our view there must, regrettably, be a new trial because of this ground," the judges said. 
-      - They also ordered that in future more specific orders be given to Juries to ensure further trials were not miscarried because of ‘Jury misconduct’.
+      - They also ordered that in future more specific orders be given to Juries to ensure further trials were not miscarried because of 'Jury misconduct'.
       - NSWCCA stated that orders should include:
         - not making private visits to the crime scene;
         - not asking other Jurors to conduct experiments; and
@@ -223,15 +223,15 @@ Week 1: Evidence Overview
     - Defendant: Gulam Mohammad Khan
   - Procedural History:
     - Gulam Mohammad Khan was on trial for the murder of Mohammad Abbas. 
-    - The Crown sought to compel Mr. Khan’s wife, Jatun Bibi Khan, to testify against her husband. 
+    - The Crown sought to compel Mr. Khan's wife, Jatun Bibi Khan, to testify against her husband. 
   - Original Dispute:
     - The dispute originated from the events of 4 December 1993, when Gulam Mohammad Khan allegedly murdered Mohammad Abbas, who had been living with the Khan family. 
     - The prosecution aimed to call Mrs. Khan as a witness to testify about her relationship with Abbas and the circumstances surrounding the murder.
   - Reason for Trial:
-    - The trial was convened to determine Mr. Khan’s guilt in the murder of Mohammad Abbas, with the Crown seeking to establish that the killing was not the result of a sudden loss of self-control (provocation) but rather a premeditated act of revenge.
+    - The trial was convened to determine Mr. Khan's guilt in the murder of Mohammad Abbas, with the Crown seeking to establish that the killing was not the result of a sudden loss of self-control (provocation) but rather a premeditated act of revenge.
   - Material Facts:
-    - Mohammad Abbas, a friend of the Khan family, had been living with them for some time. During Mr. Khan’s absence in Fiji, Mrs. Khan’s relationship with Abbas grew closer, and they became sexually involved shortly before the murder. 
-    - On the night of the murder, Mr. Khan allegedly caught them together and, in a fit of rage, stabbed Abbas multiple times. Mrs. Khan’s initial statement to the police implicated her husband, but she later indicated that she would retract some of that statement if called to testify, claiming that her involvement with Abbas was coerced.
+    - Mohammad Abbas, a friend of the Khan family, had been living with them for some time. During Mr. Khan's absence in Fiji, Mrs. Khan's relationship with Abbas grew closer, and they became sexually involved shortly before the murder. 
+    - On the night of the murder, Mr. Khan allegedly caught them together and, in a fit of rage, stabbed Abbas multiple times. Mrs. Khan's initial statement to the police implicated her husband, but she later indicated that she would retract some of that statement if called to testify, claiming that her involvement with Abbas was coerced.
   - Issue Raised:
     - The central issue was whether the court should compel Mrs. Khan to testify against her husband despite her objection, balancing the harm that might be caused to the marital relationship against the need for her testimony in the interests of justice.
   - Law(s)/Statute(s) in Contention:
@@ -240,33 +240,33 @@ Week 1: Evidence Overview
     - Section 137 of the Evidence Act 1995 (NSW): 
       - This section provides the court with discretion to exclude evidence if its probative value is outweighed by the risk of unfair prejudice to the defendant.
   - Precedences:
-    - Richardson v The Queen (1974) 131 CLR 116: The Crown referenced this case in arguing that Mrs. Khan’s prior statement to the police could be used as evidence, even if she recanted it during her testimony.
+    - Richardson v The Queen (1974) 131 CLR 116: The Crown referenced this case in arguing that Mrs. Khan's prior statement to the police could be used as evidence, even if she recanted it during her testimony.
     - R v Blewitt (1988) 62 ALR 503: This case was cited regarding the admissibility of prior statements when a witness deviates from their earlier testimony.
   - Tests:
-    - The court applied the balancing test outlined in section 18(6) of the Evidence Act 1995 (NSW), considering the potential harm to Mrs. Khan and her marital relationship against the importance of her testimony to the Crown’s case.
+    - The court applied the balancing test outlined in section 18(6) of the Evidence Act 1995 (NSW), considering the potential harm to Mrs. Khan and her marital relationship against the importance of her testimony to the Crown's case.
   - Words and Phrases Considered:
     - "Provocation": The defense centered on whether Mr. Khan acted under sudden provocation upon discovering his wife with Abbas, which could reduce his culpability from murder to manslaughter.
     - "Harm to relationship": The court considered the nature of the harm that compelling Mrs. Khan to testify might cause to her marital relationship.
   - Arguments by Party:
-    - Prosecution: Argued that Mrs. Khan’s testimony was crucial to establishing the sequence of events leading to Abbas’s death, particularly to counter the defense’s claim of provocation. 
-      - The Crown also contended that Mrs. Khan’s initial police statement could be treated as evidence under the new Evidence Act, even if she retracted it on the stand.
+    - Prosecution: Argued that Mrs. Khan's testimony was crucial to establishing the sequence of events leading to Abbas's death, particularly to counter the defense's claim of provocation. 
+      - The Crown also contended that Mrs. Khan's initial police statement could be treated as evidence under the new Evidence Act, even if she retracted it on the stand.
     - Defense: Argued that compelling Mrs. Khan to testify would cause significant harm to her marital relationship, which still endured despite the charges. 
       - The defense also suggested that her testimony would lack credibility and that its key points could be corroborated by other evidence, making it unnecessary to compel her testimony.
   - Judicial Opinions:
     - The court, presided over by Justice Abadee, weighed the arguments presented by both parties. 
-    - Justice Abadee acknowledged the potential importance of Mrs. Khan’s testimony but ultimately decided that the harm to her relationship with her husband outweighed the benefits of compelling her testimony.
+    - Justice Abadee acknowledged the potential importance of Mrs. Khan's testimony but ultimately decided that the harm to her relationship with her husband outweighed the benefits of compelling her testimony.
   - Legal Reasoning:
-    - The court reasoned that although Mrs. Khan’s testimony could be relevant to the issue of provocation, the potential harm to the marital relationship was significant. 
-    - The court also noted that much of the evidence Mrs. Khan could provide was available from other sources, including the defendant’s own statements to the police and other witnesses. 
+    - The court reasoned that although Mrs. Khan's testimony could be relevant to the issue of provocation, the potential harm to the marital relationship was significant. 
+    - The court also noted that much of the evidence Mrs. Khan could provide was available from other sources, including the defendant's own statements to the police and other witnesses. 
     - Therefore, the court chose not to compel Mrs. Khan to testify, as the damage to the marriage outweighed the evidentiary value her testimony might provide.
   - Ratio Decidendi:
-    - The court’s decision was based on the principle that the harm likely to be caused to Mrs. Khan’s marital relationship by compelling her to testify outweighed the desirability of having her evidence presented in court. 
+    - The court's decision was based on the principle that the harm likely to be caused to Mrs. Khan's marital relationship by compelling her to testify outweighed the desirability of having her evidence presented in court. 
     - The ruling emphasized the court's discretion under section 18 of the Evidence Act 1995 (NSW), prioritizing the protection of personal relationships where the evidentiary value does not justify the potential harm.
   - Result:
     - The court ruled that Mrs. Khan would not be compelled to testify against her husband, and her prior statement to the police was not admitted as evidence.
   - Relevance to Modern Law:
     - This case remains relevant in discussions about the limits of compelling testimony from unwilling witnesses, especially within family contexts. 
-    - It highlights the judiciary’s role in safeguarding personal relationships from undue harm during legal proceedings and serves as a precedent for similar cases involving the compellability of spousal testimony.
+    - It highlights the judiciary's role in safeguarding personal relationships from undue harm during legal proceedings and serves as a precedent for similar cases involving the compellability of spousal testimony.
 - Lecture 2A: Witness Competence and Compellability
   - Witness Competence & Compellability
     - Who can give evidence ?
@@ -274,10 +274,10 @@ Week 1: Evidence Overview
     - Evidence – Sworn / Affirmed / Unsworn
     - Child Witness
   - Who can give evidence ?
-    - The legal ability to give evidence is referred to as ‘Competence’.
+    - The legal ability to give evidence is referred to as 'Competence'.
     - Competence def = ability to give a rational reply to questions about facts.
     - Except as otherwise provided by the Evidence Act: 
-      - every person is presumed to be ‘competent’ to give evidence unless some form of exception applies. (s12(a) EA)
+      - every person is presumed to be 'competent' to give evidence unless some form of exception applies. (s12(a) EA)
     - Exceptions to the presumption:
       - Those lacking capacity to give evidence about a fact owing to a mental, intellectual or physical disability. (s13 EA)
       - The Accused is not competent to give evidence for Prosecution. (s17(2) refers)
@@ -298,7 +298,7 @@ Week 1: Evidence Overview
       - Judges / Jurors (in trial in which they were acting) – s16
     - Compellability – Close Relatives
       - In criminal proceedings a close relative of A may object to being compelled to give evidence for P (s18 EA).
-        - See s18(2) for classification of ‘close relative’
+        - See s18(2) for classification of 'close relative'
       - If there is an objection, the W must not give evidence if the Court finds that:
         - a) There is a likelihood of harm to either W or the relationship; and
         - b) The nature / extent of the harm outweighs the desirability of having the evidence (s18(6) refers).
@@ -312,8 +312,8 @@ Week 1: Evidence Overview
         - (e) whether, in giving the evidence, the person would have to disclose matter that was received by the person in confidence from the defendant.
   - Evidence – Sworn / Affirmed / Unsworn
     - Sworn Evidence
-      - A Witness who is competent to give evidence is required to give ‘sworn’ evidence.
-      - Before giving evidence, the Witness must take an ‘Oath’ or make an ‘Affirmation’ that they will tell the truth (s21 EA).
+      - A Witness who is competent to give evidence is required to give 'sworn' evidence.
+      - Before giving evidence, the Witness must take an 'Oath' or make an 'Affirmation' that they will tell the truth (s21 EA).
         - I swear by Almighty God that the evidence I shall give will be the truth, the whole truth and nothing but the truth.
         - I solemnly and sincerely declare and affirm that the evidence I shall give will be the truth, the whole truth and nothing but the truth.
     - Section 21 - Sworn evidence to be on oath or affirmation
@@ -324,9 +324,9 @@ Week 1: Evidence Overview
       - (5) Such an affirmation has the same effect for all purposes as an oath.
     - Evidence – Sworn / Unsworn
       - Unsworn Evidence
-        - Despite the fact that W may be able give a coherent / comprehensible answer to a question, there may be an issue regarding W’s ability to understand their obligation to tell the truth.
+        - Despite the fact that W may be able give a coherent / comprehensible answer to a question, there may be an issue regarding W's ability to understand their obligation to tell the truth.
           - In this situation W is unable to give sworn evidence under s13(3). However, in certain circumstances W may still be able to give unsworn evidence.
-        - Pursuant to s13(4), a person who is otherwise incompetent to give ‘sworn’ evidence may give ‘unsworn’ evidence if the matters in s13(5) have been conveyed to W.
+        - Pursuant to s13(4), a person who is otherwise incompetent to give 'sworn' evidence may give 'unsworn' evidence if the matters in s13(5) have been conveyed to W.
     - Section 13 Competence: lack of capacity
       - (3) A person who is competent to give evidence about a fact is not competent to give sworn evidence about the fact if the person does not have the capacity to understand that, in giving evidence, he or she is under an obligation to give truthful evidence.
       - (4) A person who is not competent to give sworn evidence about a fact may, subject to subsection
@@ -339,20 +339,20 @@ Week 1: Evidence Overview
     - Evidence – Sworn / Unsworn
       - Unsworn Evidence
         - Procedurally, unsworn evidence given by W is treated in exactly the same way as sworn evidence.
-        - Despite the use of ‘may’ in s13(4), the Court has no discretion to prevent the Witness from giving his / her unsworn evidence. 
+        - Despite the use of 'may' in s13(4), the Court has no discretion to prevent the Witness from giving his / her unsworn evidence. 
           - SH v The Queen [2012] NSWCCA 79
         - There remains some question as to whether unsworn evidence should be given less weight – purely on the basis that it is unsworn 
           - (R v GW [2016] HCA 6, [54-57] refers).
   - Child Witness
     - CL traditionally regarded children as an unreliable class of witness, requiring that trial judges warn juries that it is dangerous to convict on the uncorroborated evidence of a child - perception being that children are prone to fantasy, highly suggestible, and likely to give inaccurate accounts of events
-    - This position is no longer the case - research conducted in recent years demonstrates that children’s cognitive and recall skills are not inherently less reliable than that of adults.
+    - This position is no longer the case - research conducted in recent years demonstrates that children's cognitive and recall skills are not inherently less reliable than that of adults.
     - In EA, the guidance relating to judicial warnings with respect to the evidence given by a Child Witness reflects current research
     - The EA now contains the following provisions in relation to judicial warnings and child witnesses:
-      - –s 165(6) provides that warnings in relation to the reliability of a child’s evidence can only be given in accordance withs 165A.
+      - –s 165(6) provides that warnings in relation to the reliability of a child's evidence can only be given in accordance withs 165A.
       - –s 165A prohibits trial judges from warning or suggesting to juries that children (as a class) are unreliable witnesses or that it is generally dangerous to convict on the uncorroborated evidence of any child witness.
 - Lecture 2B: Witness Examination
   - Trial Procedure (Criminal)
-    - 1. Accused has Indictment (charge) read to him / her and then asked to enter his / her plea – this is called the ‘Arraignment’ process.
+    - 1. Accused has Indictment (charge) read to him / her and then asked to enter his / her plea – this is called the 'Arraignment' process.
     - 2. Jury empanelled and sworn in.
     - 3. Prosecution makes brief Opening Address outlining the elements of the offence and the evidence he / she will call in support of the Prosecution case.
     - 4. Defence may make brief statement if wishes to do so.
@@ -368,10 +368,10 @@ Week 1: Evidence Overview
     - Documents and Real Evidence are tendered and if they conform to the Rules governing relevance and authenticity they will be admitted into evidence.
     - Before evidence will be accepted, there must be a basis for finding that the evidence is what it purports to be.
       - Very important requirement for Documentary Evidence, Real Evidence and Expert Evidence.
-    - Court must not use information that was not part of the formal process of receiving evidence (Bilal Skaf case – Jurors undertaking ‘unofficial’ view)
+    - Court must not use information that was not part of the formal process of receiving evidence (Bilal Skaf case – Jurors undertaking 'unofficial' view)
   - Questioning Witnesses
     - Control of Examination by the Court
-      - s 26 Court’s control over questioning of witnesses
+      - s 26 Court's control over questioning of witnesses
       - The court may make such orders as it considers just in relation to:
         - (a) the way in which witnesses are to be questioned, and 
         - (b) the production and use of documents and things in connection with the questioning of witnesses, and
@@ -405,7 +405,7 @@ Week 1: Evidence Overview
         - – What happened when you entered the bank?
       - Leading
         - – The last time you saw the woman was about noon?
-        - – The man was approx 180cm tall, wasn’t he ?
+        - – The man was approx 180cm tall, wasn't he ?
         - – Is it true that when you entered the bank, a shot was fired by the Accused ?
     - s 42 Leading Questions
       - A party may ask a leading question of a witness in cross-examination unless the court disallows the question or directs the witness not to answer it. (s 42(1) refers).
@@ -413,11 +413,11 @@ Week 1: Evidence Overview
         - (a) the evidence given by the witness in examination-in-chief is unfavourable to the party who called the witness, and
         - (b) the witness has an interest that is consistent with an interest of the cross-examiner, and
         - (c) the witness is sympathetic to the party conducting the cross-examination, either generally or about a particular matter, and
-        - (d) the witness’s age, or any mental, intellectual or physical disability to which the witness is subject, may affect the witness’s answers.
+        - (d) the witness's age, or any mental, intellectual or physical disability to which the witness is subject, may affect the witness's answers.
       - The factors in s 42(2)(a)-(c) allow a judge to disallow a question where there are reasons to believe that the witness is favourably inclined to the cross-examining party.
       - Arguably, s 42(2)(c) suggests that a question should be disallowed where there is a danger that the witness is unusually susceptible to suggestive questioning making the evidence unreliable.
       - Pursuant to s 42(3), the court is to disallow the question, or direct the witness not to answer it, if it is satisfied that the facts concerned would be better ascertained if leading questions were not used.
-      - Should be noted that s 42 does not limit the court’s power to control leading questions (s 42(4) refers).
+      - Should be noted that s 42 does not limit the court's power to control leading questions (s 42(4) refers).
     - The Rule in Browne v Dunn
       - An essential aspect of fairness in court process is ensuring that one party has the opportunity to answer the claims or allegations of another. 
         - The opposing party must be put on notice of the case that they must answer.
@@ -426,12 +426,12 @@ Week 1: Evidence Overview
     - Rule in Browne v Dunn
       - When W is giving evidence and you intend to call evidence that contradicts them, you must put the substance of that contradictory evidence to the witness during cross-examination and give them the opportunity to comment on it.
       - Unfair to deny W the opportunity of explaining a point that will later be used to invite criticism or disbelief in their evidence
-      - Duty for parties to ‘put’ to W any matter that may be used to suggest their evidence is untruthful, unreliable or which contradicts their testimony
-      - Can be done in a formal manner ‘I put it to you that...’ or it may be done in a more natural, conversational style as part of the general cross examination, such as ‘Isn’t it true that...’
+      - Duty for parties to 'put' to W any matter that may be used to suggest their evidence is untruthful, unreliable or which contradicts their testimony
+      - Can be done in a formal manner 'I put it to you that...' or it may be done in a more natural, conversational style as part of the general cross examination, such as 'Isn't it true that...'
       - Failure to observe may result in adverse consequences eg recall W, exclude evidence, jury direction, dismiss jury
   - The Rule in Browne v Dunn
     - If the Rule in Browne v Dunn is not observed, there are several different ways that the Court can deal with the issue:
-      - – Prevent non-compliant party from submitting that opponent’s evidence should not be believed.
+      - – Prevent non-compliant party from submitting that opponent's evidence should not be believed.
       - – Exclude evidence given by a non-compliant party.
       - – Recall Witness: s 46
       - – Allow cross-examination of non-compliant party
@@ -440,7 +440,7 @@ Week 1: Evidence Overview
   - Reviving Memory
     - A witness must not, in the course of giving evidence, use a document to try to revive his or her memory about a fact or opinion unless the court gives leave (s 42).
     - Despites 42, in any criminal proceeding, a police officer may give evidence-in-chief for the prosecution by reading or being led through a written statement previously made by the police officer (s 43).
-    - If a witness attempts to revive his / her memory ‘out of court’, the court may, on the request of a party, give directions that the documents / things used by the witness to revive his or her memory are produced to the party (s 44).
+    - If a witness attempts to revive his / her memory 'out of court', the court may, on the request of a party, give directions that the documents / things used by the witness to revive his or her memory are produced to the party (s 44).
   - s 48 Unfavourable Witnesses
     - (1) A party who called a witness may, with the leave of the court, question the witness as though the party were cross-examining the witness, about:
       - (a) evidence given by the witness that is unfavourable to the party, or
@@ -455,7 +455,7 @@ Week 1: Evidence Overview
     - (1) A witness may be cross-examined about a prior inconsistent statement alleged to have been made by the witness...
     - (2) If, in cross-examination, a witness does not admit that he or she has made a prior inconsistent statement, the cross-examiner is not to adduce evidence of the statement otherwise than from the witness unless, in the cross-examination, the cross-examiner:
       - (a) informed the witness of enough of the circumstances of the making of the statement to enable the witness to identify the statement, and
-      - (b) drew the witness’s attention to so much of the statement as is inconsistent with the witness’s evidence
+      - (b) drew the witness's attention to so much of the statement as is inconsistent with the witness's evidence
 - Lecture 3A: Calling Witnesses
   - Witnesses
     - One of the main ways that we still adduce evidence in Court is through the calling and questioning of Witness.
@@ -471,7 +471,7 @@ Week 1: Evidence Overview
         - This can have a major impact on how a witness may be questioned.
         - Can give a huge tactical advantage to one party over another due to limits placed on the manner in which questions can be posed. 
       - The question in criminal matters is who is responsible for deciding who is to be called as a Crown witness ??
-        - Need to be aware of duties and role of Prosecutor.  See Prosecutor’s Duties as set out in Rule 29 Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 [NSW] https://legislation.nsw.gov.au/view/html/inforce/current/sl-2015-0244#sec.29
+        - Need to be aware of duties and role of Prosecutor.  See Prosecutor's Duties as set out in Rule 29 Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 [NSW] https://legislation.nsw.gov.au/view/html/inforce/current/sl-2015-0244#sec.29
     - R v Apostilides (1984) 154 CLR 563 
       - Apostilides was tried and convicted on four counts of rape. At trial P failed to call 2 witness – these witnesses were called by D and cross examined by P.  Apostilides appealed on basis that the P should have called the witnesses so D could cross examine them (argued miscarriage of justice).  Appeal upheld by VSC – retrial ordered (Crown then appealed the VSC decision in HCA)
       - As part Special Leave Application, HCA set out various propositions including:
@@ -495,14 +495,14 @@ Week 1: Evidence Overview
     - R v Damic [1982] 2 NSWLR 750
       - Damic was a self-represented litigant who had been charged with many offences, including murder. 
       - Trial Judge thought Damic was fundamentally incapable of leading a proper defence (serious mental illness). Damic refused to raise mental illness as his defence – Judge considered that this did not accord to the principles of a fair trial. 
-      - Trial Judge called a psychiatrist to assess the fitness of Damic to represent himself, and the psychiatrist was then called as a witness to testify about the Damic’s fitness. Had the judge not called that witness, and had Damic been convicted, the conviction would have been unfair and vulnerable to being overturned on appeal.
+      - Trial Judge called a psychiatrist to assess the fitness of Damic to represent himself, and the psychiatrist was then called as a witness to testify about the Damic's fitness. Had the judge not called that witness, and had Damic been convicted, the conviction would have been unfair and vulnerable to being overturned on appeal.
   - Failure to Call a Witness
     - How does the law address the fact that a party fails to call evidence (witness) that the party would reasonably be expected to ?
       - The rule in Jones v Dunkel (1959) 101 CLR 298 relates to civil cases where the Plaintiff does not call a witness that they would reasonably be expected to have called – as a result the Trial Judge may draw an adverse inference from that failure.  (Note that s20 EA only applies to criminal matters)
       - The principle in Jones v Dunkel was originally extended to apply in criminal cases – this position is no longer valid in criminal matters. 
       - The application of Jones v Dunkel in criminal matters has been repeatedly overruled, most conclusively in the HCA decision in  Dyers.
     - Jones v Dunkel (1959) 101 CLR 298
-      - Although Jones v Dunkel was a civil matter in relation to a fatal road accident where the driver of the defendant’s truck was not called to give evidence and does not directly deal with the issue of the accused’s right to silence at trial, per se, the HCA decision in this matter has been cited as an authority for the proposition that in certain circumstances an inference can be drawn from a party’s failure to give or call evidence.
+      - Although Jones v Dunkel was a civil matter in relation to a fatal road accident where the driver of the defendant's truck was not called to give evidence and does not directly deal with the issue of the accused's right to silence at trial, per se, the HCA decision in this matter has been cited as an authority for the proposition that in certain circumstances an inference can be drawn from a party's failure to give or call evidence.
       - The Jones v Dunkel principle says that if a party would normally be expected to call a witness, or adduce other evidence, and they choose not to call that witness / adduce that evidence, in the absence of an explanation for failure to call the witness, a court might be entitled to conclude / infer that the evidence of that witness would not have assisted the party.
       - In light of the wording of s20 and a several HCA decisions such as Dyers v The Queen, Jones v Dunkel does not have any real application in criminal matters.
   - Failure to Call Evidence
@@ -513,10 +513,10 @@ Week 1: Evidence Overview
     - How does the law address the fact that the Crown fails to call evidence that the Crown would reasonably be expected to have called ?
       - Following decisions such as RPS v The Queen [2000] HCA 3, Dyers v The Queen [2002] HCA 45,  Mahmood v WA (2008) 232 CLR 397 and R v Louizos [2009] NSWCCA 71 the position is that where the P has failed to call a witness (who might have been expected to be called by the P), the jury may properly reach conclusions that the failure may help support a reasonable doubt about the guilt of the accused.
       - As per Criminal Trial Courts Bench Book (NSW)
-        - … a jury is entitled to take into account that there was no evidence from a particular person in deciding whether or not there is a reasonable doubt about the accused’s guilt.
+        - … a jury is entitled to take into account that there was no evidence from a particular person in deciding whether or not there is a reasonable doubt about the accused's guilt.
     - How does the law address the fact that the Crown fails to call evidence that the Crown would reasonably be expected to have called ?
-      - Mahmood v WA (2008) 232 CLR 397, is authority for the proposition that “… where a witness, who might have been expected to be called and to give evidence on a matter, is not called by the prosecution, the question is not whether the jury may properly reach conclusions about issues of fact but whether, in the circumstances, they should entertain a reasonable doubt about the guilt of the accused.”
-      - In R v Louizos [2009] NSWCCA 71 it was held that  “… it may have been appropriate for the Trial Judge to raise with the jury whether the failure of the Crown to call the witness gave rise to a reasonable doubt about the truthfulness and reliability of the evidence… but he was never asked to do so.” [57]
+      - Mahmood v WA (2008) 232 CLR 397, is authority for the proposition that "… where a witness, who might have been expected to be called and to give evidence on a matter, is not called by the prosecution, the question is not whether the jury may properly reach conclusions about issues of fact but whether, in the circumstances, they should entertain a reasonable doubt about the guilt of the accused."
+      - In R v Louizos [2009] NSWCCA 71 it was held that  "… it may have been appropriate for the Trial Judge to raise with the jury whether the failure of the Crown to call the witness gave rise to a reasonable doubt about the truthfulness and reliability of the evidence… but he was never asked to do so." [57]
 - Lecture 3B: Right to Silence
   - The Menu
     - The Right to Silence
@@ -536,12 +536,12 @@ Week 1: Evidence Overview
         - to respond to a representation,
       - put to that person by an investigating official, who at that time, was performing functions in connection with the investigation of the commission, or possible commission, of an offence (s89(1) refers). 
       - For a serious indictable offence, s89A provides unfavourable inferences may be drawn if A failed / refused to mention a fact that A could reasonably have been expected to mention in the circumstances existing at the time, and that is relied on in his / her defence in that proceeding (s89A(1) refers).
-      - Certain requirements such as a ‘Special Caution’ apply in relation to s89A. 
+      - Certain requirements such as a 'Special Caution' apply in relation to s89A. 
   - Silence at Trial
     - How does the law address the situation where the Accused elects to remain silent at trial ?
       - The Accused has the right to remain silent at trial and put the Prosecution to proof.  Consequently he / she may elect not to give evidence or not call evidence on his / her behalf.
-      - As set out in s20 EA, the Prosecution is not permitted to make comment about the Accused’s election not to give evidence. (Raises questions about what ‘comment’ actually means ????)
-      - Under s20(2) the Judge, or other party (not Prosecution), may comment on the Accused’s election but must not make a comment that suggests / infers that the Defendant is guilty of the offence. cf  Weissensteiner v The Queen (1993) 178 CLR 217
+      - As set out in s20 EA, the Prosecution is not permitted to make comment about the Accused's election not to give evidence. (Raises questions about what 'comment' actually means ????)
+      - Under s20(2) the Judge, or other party (not Prosecution), may comment on the Accused's election but must not make a comment that suggests / infers that the Defendant is guilty of the offence. cf  Weissensteiner v The Queen (1993) 178 CLR 217
       - This section only applies in criminal proceeding for an indictable offence. 
     - Evidence Act s20 - Comment on failure to give evidence
       - (1) This section applies only in a criminal proceeding for an indictable offence. 
@@ -550,11 +550,11 @@ Week 1: Evidence Overview
     - Weissensteiner v The Queen (1993) 178 CLR 217
       - Facts: W went on a boat trip with a young couple. Sometime during the trip, the couple dropped out of contact with everyone they knew and stopped drawing upon their bank account. W returned alone, with the boat, and with some of their possessions. When questioned about their whereabouts, he gave conflicting explanations. He was charged with their murder and tried. At his trial, he did not give evidence. The TJ told the jury that, since W was the only person in the world in a position to contradict or deny the Crown case (that he murdered them), and he elected not to do so, the jury could more safely draw an inference of guilt from his decision not to testify.
         - HCA: Held that this was a permissible comment to make.
-      - The HCA decision in Weissensteiner is at odds with the basis for s20 – the practical protection the Accused’s right to silence. 
+      - The HCA decision in Weissensteiner is at odds with the basis for s20 – the practical protection the Accused's right to silence. 
       - *** Weissensteiner reflected a principle that originated in civil case of Jones v Dunkel (1959) 101 CLR 298.
-    - The enactment of the EA has clarified the limitations on judicial comments about the Accused’s decision not to testify. 
+    - The enactment of the EA has clarified the limitations on judicial comments about the Accused's decision not to testify. 
       - When examining s20, the superior courts have said that comments about adverse inferences should be seen as an interference with the right to silence, which is an entrenched and fundamental right.
-      - In light of HCA decisions in RPS, Azzopardi and Dyers, it is clear that only in a rare and exceptional case, where the facts would be peculiarly within the knowledge of the Defendant, will the Judge be permitted to make an adverse comment about the Defendant’s failure to give evidence.  This is how the HCA reconciled and rehabilitated its decision in Weissensteiner v R (1993) 178 CLR 217.
+      - In light of HCA decisions in RPS, Azzopardi and Dyers, it is clear that only in a rare and exceptional case, where the facts would be peculiarly within the knowledge of the Defendant, will the Judge be permitted to make an adverse comment about the Defendant's failure to give evidence.  This is how the HCA reconciled and rehabilitated its decision in Weissensteiner v R (1993) 178 CLR 217.
     - RPS v The Queen (2000) 199 CLR 620
       - Facts: RPS was on trial for sexual assaults against his daughter between the ages of 4 and 14. 
         - The evidence against him came from his daughter (complainant) and her mother, to whom RPS had apparently made certain admissions about the sexual assaults. 
@@ -564,18 +564,18 @@ Week 1: Evidence Overview
         - HCA also held that s20 prohibits the TJ from commenting in any way that suggests the accused is guilty of the offence.
       - *** The following year, in Azzopardi v The Queen (2001) 205 CLR 50, the HCA affirmed this decision.
     - Dyers v The Queen (2002) 210 CLR 285
-      - Facts: Dyers was the leader of what the HCA later described as a “cult” called Kenja. 
-        - A 13-year-old girl was the daughter of a Kenja member, and the girl attended what was called a “processing session” with Dyers during which she alleges he sexually assaulted her.  
-        - In his defence, Dyers said he had an alibi. At the time the girl alleges he sexually assaulted her, he said he had an appointment for an “energy conversion” session with a woman called Wendy. 
+      - Facts: Dyers was the leader of what the HCA later described as a "cult" called Kenja. 
+        - A 13-year-old girl was the daughter of a Kenja member, and the girl attended what was called a "processing session" with Dyers during which she alleges he sexually assaulted her.  
+        - In his defence, Dyers said he had an alibi. At the time the girl alleges he sexually assaulted her, he said he had an appointment for an "energy conversion" session with a woman called Wendy. 
         - He tendered his appointment diary to show that he had an appointment with Wendy at the time. He did not call Wendy.
-      - TJ said to the jury: “you are not entitled to speculate on what the witness might have said if the witness had been called”.
-        - Also said that they were “entitled to draw the inference that the evidence of that witness would not have assisted the party who you have assessed should have called that witness”.
-        - Went on to say, “you do not have to draw the inference that I have suggested”. 
-        - TJ emphasised that “it is for the Crown to prove [the charge] and to do so beyond reasonable doubt. 
-        - And that there is no onus on the accused to prove anything”.
-      - The NSWCCA thought that there was nothing wrong with the TJ’s comments, and that it would have been “abundantly clear” to the jury that Dyers did not have to discharge any onus.
-      - HCA: Majority held that the TJ’s directions contravened s20 - quashing the conviction and ordering a re-trial. 
-        - Majority stressed that nothing must interfere with the Accused person’s right to silence, nor with the presumption of innocence.  
+      - TJ said to the jury: "you are not entitled to speculate on what the witness might have said if the witness had been called".
+        - Also said that they were "entitled to draw the inference that the evidence of that witness would not have assisted the party who you have assessed should have called that witness".
+        - Went on to say, "you do not have to draw the inference that I have suggested". 
+        - TJ emphasised that "it is for the Crown to prove [the charge] and to do so beyond reasonable doubt. 
+        - And that there is no onus on the accused to prove anything".
+      - The NSWCCA thought that there was nothing wrong with the TJ's comments, and that it would have been "abundantly clear" to the jury that Dyers did not have to discharge any onus.
+      - HCA: Majority held that the TJ's directions contravened s20 - quashing the conviction and ordering a re-trial. 
+        - Majority stressed that nothing must interfere with the Accused person's right to silence, nor with the presumption of innocence.  
         - Unanimously agreed that the accused does not need to give or call any evidence.
     - If the Accused does not give evidence at Trial, these directions should be given:
       - 1. The silence of the Accused is not evidence against the Accused (Azzopardi (2001) 205 CLR 50 [51]),
