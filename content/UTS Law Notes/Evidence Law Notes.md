@@ -4,17 +4,30 @@
 
 - Evidence Evifilta
   - 
+  - Admissibility – A 3 Stage Process
+    - In assessing the admissibility of evidence the Court undertakes a three stage process where each threshold must be met before moving to the next step:
+      - Relevant / Not Relevant ?
+      - If Relevant, are there any Exclusionary Rule that apply ?
+      - If no Exclusionary Rule applies, should the Trial Judge use Discretion to exclude the evidence ?
 - Week 2: Questioning Witnesses – Evidence Act 1995
   - s 26 Court’s control over questioning of witnesses
-  - s29 Manner and form of questioning witnesses and their responses
+  - s 29 Manner and form of questioning witnesses and their responses
   - Browne v Dunn Rule
-  - s38 Unfavourable Witnesses
-  - s39 Limits on re-examination
-  - s42 Leading Questions 
-  - s41 - Improper Questions
-  - s43 Prior Inconsistent Statements of Witnesses
+  - s 38 Unfavourable Witnesses
+  - s 39 Limits on re-examination
+  - s 42 Leading Questions 
+  - s 41 - Improper Questions
+  - s 43 Prior Inconsistent Statements of Witnesses
 - Week 3: Who can testify
-  - 
+  - Sections 89, 89A and 20: Inferences from silence  and comments 
+  - Dyers v The Queen (2002) 210 CLR 285 [paras 1-23] 
+  - Weissensteiner v R [1993] HCA 65
+- Week 4: Relevance
+  - Main EA provisions that deal with Relevance are s 55 & s 56.  See also s 57 (Provisional Relevance) & s 58 (Inference as to Relevance – relates to relevance of documents etc). 
+  - Smith v The Queen (2001) 
+  - Papakosmas v The Queen (1999) 196 CLR 297
+  - Evans v The Queen [2007] HCA 59
+- Week 5: Hearsay
 ## Table of Contents
 
 
@@ -98,7 +111,7 @@ Week 1: Evidence Overview
         - -Tender a transcript of it 
           - – s 48(1)(c)
         - -For voluminous documents, it is also possible to tender a summary (with leave) 
-          - – s50.
+          - – s 50.
       - s 48 also provides a way of utilising the contents of a document even though the document in question is not available to the party. (ss 48(2) and 48(4) refer)
     - Section 48(4) Proof of Contents of Documents
       - s 48(4) A party may adduce evidence of the contents of a document in question that is not available to the party, or the existence and contents of which are not in issue in the proceeding, by:
@@ -139,13 +152,13 @@ Week 1: Evidence Overview
         - -Exhibits (physical object tendered as evidence) 
         - -Views (demonstrations, experiments or inspections of locations).
       - EA makes it possible to adduce evidence other than through witness testimony or through documents - this includes physical, tangible objects such as the murder weapon. (s 52)
-      - The other type of Real Evidence (generally referred to as Views) allows for the conduct of experiments, demonstrations and location inspections. (s53)
+      - The other type of Real Evidence (generally referred to as Views) allows for the conduct of experiments, demonstrations and location inspections. (s 53)
       - Demonstrations / experiments / inspections can be very powerful evidence so the Court needs to be satisfied that the evidence gained will assist the Court in its deliberations and will not be unfairly prejudicial to the parties (particularly to the Defendant in a Criminal matter). 
       - Important to ensure procedural fairness is observed and that the evidence is able to be tested or commented upon like all other pieces of evidence.
-      - Neither the Judge or any member of the Jury is permitted to conduct a View outside of the rules in s53 (Bilal Skaf’s case)
-      - The factors that the Judge needs to consider when contemplating whether to conduct a View are set out in s53(3).
-      - s53 does not apply to in-court demonstrations: Evans v The Queen (2007) 235 CLR 521
-        - Under s54 the Court may draw any reasonable inference from what it sees, hears or otherwise notices during a demonstration, experiment or inspection.
+      - Neither the Judge or any member of the Jury is permitted to conduct a View outside of the rules in s 53 (Bilal Skaf’s case)
+      - The factors that the Judge needs to consider when contemplating whether to conduct a View are set out in s 53(3).
+      - s 53 does not apply to in-court demonstrations: Evans v The Queen (2007) 235 CLR 521
+        - Under s 54 the Court may draw any reasonable inference from what it sees, hears or otherwise notices during a demonstration, experiment or inspection.
     - Section 53 - Views
       - (1) A judge may, on application, order that a demonstration, experiment or inspection be held. 
       - (2) A judge is not to make an order unless he or she is satisfied that: 
@@ -271,7 +284,8 @@ Week 1: Evidence Overview
   - Relevance to Modern Law:
     - This case remains relevant in discussions about the limits of compelling testimony from unwilling witnesses, especially within family contexts. 
     - It highlights the judiciary’s role in safeguarding personal relationships from undue harm during legal proceedings and serves as a precedent for similar cases involving the compellability of spousal testimony.
-- Lecture 2A: Witness Competence and Compellability
+## Lecture 2A: Witness Competence and Compellability
+
   - Witness Competence & Compellability
     - Who can give evidence ?
     - Who must give evidence ?
@@ -281,34 +295,34 @@ Week 1: Evidence Overview
     - The legal ability to give evidence is referred to as ‘Competence’.
     - Competence def = ability to give a rational reply to questions about facts.
     - Except as otherwise provided by the Evidence Act: 
-      - every person is presumed to be ‘competent’ to give evidence unless some form of exception applies. (s12(a) EA)
+      - every person is presumed to be ‘competent’ to give evidence unless some form of exception applies. (s 12(a) EA)
     - Exceptions to the presumption:
-      - Those lacking capacity to give evidence about a fact owing to a mental, intellectual or physical disability. (s13 EA)
-      - The Accused is not competent to give evidence for Prosecution. (s17(2) refers)
+      - Those lacking capacity to give evidence about a fact owing to a mental, intellectual or physical disability. (s 13 EA)
+      - The Accused is not competent to give evidence for Prosecution. (s 17(2) refers)
     - Section 13 Competence: lack of capacity
       - (1) A person is not competent to give evidence about a fact if, for any reason (including mental, intellectual or physical disability):
         - a. the person does not have the capacity to understand a question about the fact, or
         - b. the person does not have the capacity to give an answer that can be understood in relation to a question about the fact.
       - and that incapacity cannot be overcome (see ss 30 & 31)
   - Who must give evidence?
-    - A person who is competent to give evidence about a fact is compellable to give that evidence. (s12(b) EA)
+    - A person who is competent to give evidence about a fact is compellable to give that evidence. (s 12(b) EA)
     - If a person is a compellable Witness, they may be legally forced to give evidence despite being reluctant to do so.
     - Various exceptions to compellability may apply:
-      - The Accused in his own Trial - s17(1)
-      - Co-Accused (if not given separate Trial) – s17(3)
-      - Sovereign / Governor-General / Governor – s15(1)
-      - Members of Parliament (if sitting) – s15(2)
-      - Close relatives of the Accused (eg. Spouse) – s18 & s19*
-      - Judges / Jurors (in trial in which they were acting) – s16
+      - The Accused in his own Trial - s 17(1)
+      - Co-Accused (if not given separate Trial) – s 17(3)
+      - Sovereign / Governor-General / Governor – s 15(1)
+      - Members of Parliament (if sitting) – s 15(2)
+      - Close relatives of the Accused (eg. Spouse) – s 18 & s 19*
+      - Judges / Jurors (in trial in which they were acting) – s 16
     - Compellability – Close Relatives
-      - In criminal proceedings a close relative of A may object to being compelled to give evidence for P (s18 EA).
-        - See s18(2) for classification of ‘close relative’
+      - In criminal proceedings a close relative of A may object to being compelled to give evidence for P (s 18 EA).
+        - See s 18(2) for classification of ‘close relative’
       - If there is an objection, the W must not give evidence if the Court finds that:
         - a) There is a likelihood of harm to either W or the relationship; and
-        - b) The nature / extent of the harm outweighs the desirability of having the evidence (s18(6) refers).
-      - When undertaking this balancing exercise, the Court is to have regard to the matters set out in s18(7).
-      - *** s18 does not apply in relation to certain offences in relation to children (see s19 EA)
-      - s18(7) Without limiting the matters that may be taken into account by the court for the purposes of subsection (6), it must take into account the following:
+        - b) The nature / extent of the harm outweighs the desirability of having the evidence (s 18(6) refers).
+      - When undertaking this balancing exercise, the Court is to have regard to the matters set out in s 18(7).
+      - *** s 18 does not apply in relation to certain offences in relation to children (see s 19 EA)
+      - s 18(7) Without limiting the matters that may be taken into account by the court for the purposes of subsection (6), it must take into account the following:
         - (a) the nature and gravity of the offence for which the defendant is being prosecuted,
         - (b) the substance and importance of any evidence that the person might give and the weight that is likely to be attached to it,
         - (c) whether any other evidence concerning the matters to which the evidence of the person would relate is reasonably available to the prosecutor,
@@ -317,7 +331,7 @@ Week 1: Evidence Overview
   - Evidence – Sworn / Affirmed / Unsworn
     - Sworn Evidence
       - A Witness who is competent to give evidence is required to give ‘sworn’ evidence.
-      - Before giving evidence, the Witness must take an ‘Oath’ or make an ‘Affirmation’ that they will tell the truth (s21 EA).
+      - Before giving evidence, the Witness must take an ‘Oath’ or make an ‘Affirmation’ that they will tell the truth (s 21 EA).
         - I swear by Almighty God that the evidence I shall give will be the truth, the whole truth and nothing but the truth.
         - I solemnly and sincerely declare and affirm that the evidence I shall give will be the truth, the whole truth and nothing but the truth.
     - Section 21 - Sworn evidence to be on oath or affirmation
@@ -329,8 +343,8 @@ Week 1: Evidence Overview
     - Evidence – Sworn / Unsworn
       - Unsworn Evidence
         - Despite the fact that W may be able give a coherent / comprehensible answer to a question, there may be an issue regarding W’s ability to understand their obligation to tell the truth.
-          - In this situation W is unable to give sworn evidence under s13(3). However, in certain circumstances W may still be able to give unsworn evidence.
-        - Pursuant to s13(4), a person who is otherwise incompetent to give ‘sworn’ evidence may give ‘unsworn’ evidence if the matters in s13(5) have been conveyed to W.
+          - In this situation W is unable to give sworn evidence under s 13(3). However, in certain circumstances W may still be able to give unsworn evidence.
+        - Pursuant to s 13(4), a person who is otherwise incompetent to give ‘sworn’ evidence may give ‘unsworn’ evidence if the matters in s 13(5) have been conveyed to W.
     - Section 13 Competence: lack of capacity
       - (3) A person who is competent to give evidence about a fact is not competent to give sworn evidence about the fact if the person does not have the capacity to understand that, in giving evidence, he or she is under an obligation to give truthful evidence.
       - (4) A person who is not competent to give sworn evidence about a fact may, subject to subsection
@@ -339,11 +353,11 @@ Week 1: Evidence Overview
           - (a) That it is important to tell the truth, and
           - (b) That he or she may be asked question that he or she does not know, or cannot remember, the answer to, and that he or she should tell the court if this occurs, and
           - (c) That he or she may be asked questions that suggest certain statements are true or untrue and that he or she should agree with the statements that he or she believes are true and should feel no pressure to agree with statements that he or she believes are untrue. [...]
-      - *** There is no longer a requirement for W to acknowledge that they understand the effect of s13(5).
+      - *** There is no longer a requirement for W to acknowledge that they understand the effect of s 13(5).
     - Evidence – Sworn / Unsworn
       - Unsworn Evidence
         - Procedurally, unsworn evidence given by W is treated in exactly the same way as sworn evidence.
-        - Despite the use of ‘may’ in s13(4), the Court has no discretion to prevent the Witness from giving his / her unsworn evidence. 
+        - Despite the use of ‘may’ in s 13(4), the Court has no discretion to prevent the Witness from giving his / her unsworn evidence. 
           - SH v The Queen [2012] NSWCCA 79
         - There remains some question as to whether unsworn evidence should be given less weight – purely on the basis that it is unsworn 
           - (R v GW [2016] HCA 6, [54-57] refers).
@@ -354,7 +368,8 @@ Week 1: Evidence Overview
     - The EA now contains the following provisions in relation to judicial warnings and child witnesses:
       - –s 165(6) provides that warnings in relation to the reliability of a child’s evidence can only be given in accordance withs 165A.
       - –s 165A prohibits trial judges from warning or suggesting to juries that children (as a class) are unreliable witnesses or that it is generally dangerous to convict on the uncorroborated evidence of any child witness.
-- Lecture 2B: Witness Examination
+## Lecture 2B: Witness Examination
+
   - Trial Procedure (Criminal)
     - 1. Accused has Indictment (charge) read to him / her and then asked to enter his / her plea – this is called the ‘Arraignment’ process.
     - 2. Jury empanelled and sworn in.
@@ -381,7 +396,7 @@ Week 1: Evidence Overview
         - (b) the production and use of documents and things in connection with the questioning of witnesses, and
         - (c) the order in which parties may question a witness, and
         - (d) the presence and behaviour of any person in connection with the questioning of witnesses.
-      - s29 Manner and form of questioning witnesses and their responses
+      - s 29 Manner and form of questioning witnesses and their responses
         - (1) A party may question a witness in any way the party thinks fit, except as provided by this Chapter or as directed by the court.
         - (2) A court may, on its own motion or on the application of the party that called the witness, direct that the witness give evidence wholly or partly in narrative form.
         - (3) Such a direction may include directions about the way in which evidence is to be given in that form.
@@ -397,7 +412,7 @@ Week 1: Evidence Overview
     - s 39 Limits on re-examination
       - On re-examination:
         - (a) a witness may be questioned about matters arising out of evidence given by the witness in cross-examination, and
-        - (a) other questions may not be put to the witness unless the court grants leave (permission) to do so (Leave – s192 EA).
+        - (a) other questions may not be put to the witness unless the court grants leave (permission) to do so (Leave – s 192 EA).
     - Leading Questions
       - A Leading Question is a question asked of a Witness that:
         - directly or indirectly suggests a particular answer to the question, or assumes the existence of a fact the existence of which is in dispute in the proceeding and as to the existence of which the witness has not given evidence before the question is asked.
@@ -513,7 +528,8 @@ Week 1: Evidence Overview
     - Relevance to Modern Law:
       - This case highlights the application of the Evidence Act 1995 in compelling spousal testimony and underscores the impact of Lee v The Queen on the treatment of hearsay evidence in criminal trials. It reinforces the principle that errors in jury directions may not warrant overturning a conviction if the evidence against the accused is overwhelming. 
       - It also illustrates the court’s discretion in balancing issues of parity in sentencing between co-offenders.
-- Lecture 3A: Calling Witnesses
+## Week 3A: Calling Witnesses
+
   - Witnesses
     - One of the main ways that we still adduce evidence in Court is through the calling and questioning of Witness.
     - Need to have an understanding of relevant provisions and case law relating to:
@@ -521,22 +537,22 @@ Week 1: Evidence Overview
       - Effect of not calling evidence
   - Failure to Give or Call Evidence
     - How does the law address the fact that a party fails to call evidence that the party would reasonably be expected to ?
-    - How does the law address the situation where the Defendant elects to remain silent at trial ?  (This question will be addressed in the next lecture – s20 EA Silence at Trial)
+    - How does the law address the situation where the Defendant elects to remain silent at trial ? (This question will be addressed in the next lecture – s 20 EA Silence at Trial)
   - Calling Witnesses
     - In a trial, who is responsible for deciding what witnesses will called and by whom ??
       - General principle is that given our adversarial system, it is the parties to the litigation who decide what witnesses are to be called and in what order.
         - This can have a major impact on how a witness may be questioned.
         - Can give a huge tactical advantage to one party over another due to limits placed on the manner in which questions can be posed. 
       - The question in criminal matters is who is responsible for deciding who is to be called as a Crown witness ??
-        - Need to be aware of duties and role of Prosecutor.  See Prosecutor’s Duties as set out in Rule 29 Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 [NSW] https://legislation.nsw.gov.au/view/html/inforce/current/sl-2015-0244#sec.29	
+        - Need to be aware of duties and role of Prosecutor. See Prosecutor’s Duties as set out in Rule 29 Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 [NSW] https://legislation.nsw.gov.au/view/html/inforce/current/sl-2015-0244#sec.29	
           - Must call evidence that may assist court, even if not helpful to case
           - Must be fair case/trial
           - Must assist court
           - Must not press the prosecution’s case for a conviction beyond a full and firm presentation of that case
     - R v Apostilides (1984) 154 CLR 563 
       - Apostilides was tried and convicted on four counts of rape. 
-        - At trial P failed to call 2 witness – these witnesses were called by D and cross examined by P (NOT FAVORABLE AT ALL - CAN’T CROSS).  
-        - Apostilides appealed on basis that the P should have called the witnesses so D could cross examine them (argued miscarriage of justice).  
+        - At trial P failed to call 2 witness – these witnesses were called by D and cross examined by P (NOT FAVORABLE AT ALL - CAN’T CROSS). 
+        - Apostilides appealed on basis that the P should have called the witnesses so D could cross examine them (argued miscarriage of justice). 
         - Appeal upheld by VSC – retrial ordered (Crown then appealed the VSC decision in HCA)
       - As part Special Leave Application, HCA set out various propositions including:
         - The Prosecutor alone bears the responsibility of deciding whether a person will be called as a witness for the Crown. 
@@ -553,7 +569,7 @@ Week 1: Evidence Overview
       - Save for exceptional circumstances, judge should not call a witness.
       - Decision not to call a witness is only a ground to set aside a conviction if, when viewed against conduct of whole trial, it gives rise to a miscarriage of justice.
   - Can the Judge Call a Witness?
-    - The issue of whether a Judge can a call a witness was examined in  Apostilides where one of the propositions identified by the HCA was that only in extraordinary circumstances should the Judge call a witness on his / her own volition.
+    - The issue of whether a Judge can a call a witness was examined in Apostilides where one of the propositions identified by the HCA was that only in extraordinary circumstances should the Judge call a witness on his / her own volition.
       - In an adversarial system of litigation, the dispute is supposed to be run by the disputing parties; the judge is not supposed to intervene in the conduct of their cases. However, if the Judge feels that there may be a miscarriage of justice, the Judge is permitted to call a witness (only in extraordinary circumstances). 
     - The authority for the kind of extraordinary circumstances contemplated by the HCA comes from the decision in R v Damic [1982] 2 NSWLR 750. 
     - R v Damic [1982] 2 NSWLR 750
@@ -562,26 +578,27 @@ Week 1: Evidence Overview
       - Trial Judge called a psychiatrist to assess the fitness of Damic to represent himself, and the psychiatrist was then called as a witness to testify about the Damic’s fitness. Had the judge not called that witness, and had Damic been convicted, the conviction would have been unfair and vulnerable to being overturned on appeal.
   - Failure to Call a Witness
     - How does the law address the fact that a party fails to call evidence (witness) that the party would reasonably be expected to ?
-      - The rule in Jones v Dunkel (1959) 101 CLR 298 relates to civil cases where the Plaintiff does not call a witness that they would reasonably be expected to have called – as a result the Trial Judge may draw an adverse inference from that failure.  (Note that s20 EA only applies to criminal matters)
+      - The rule in Jones v Dunkel (1959) 101 CLR 298 relates to civil cases where the Plaintiff does not call a witness that they would reasonably be expected to have called – as a result the Trial Judge may draw an adverse inference from that failure. (Note that s 20 EA only applies to criminal matters)
       - The principle in Jones v Dunkel was originally extended to apply in criminal cases – this position is no longer valid in criminal matters. 
-      - The application of Jones v Dunkel in criminal matters has been repeatedly overruled, most conclusively in the HCA decision in  Dyers.
+      - The application of Jones v Dunkel in criminal matters has been repeatedly overruled, most conclusively in the HCA decision in Dyers.
     - Jones v Dunkel (1959) 101 CLR 298 (CIVIL)
       - Although Jones v Dunkel was a civil matter in relation to a fatal road accident where the driver of the defendant’s truck was not called to give evidence and does not directly deal with the issue of the accused’s right to silence at trial, per se, the HCA decision in this matter has been cited as an authority for the proposition that in certain circumstances an inference can be drawn from a party’s failure to give or call evidence.
       - The Jones v Dunkel principle says that if a party would normally be expected to call a witness, or adduce other evidence, and they choose not to call that witness / adduce that evidence, in the absence of an explanation for failure to call the witness, a court might be entitled to conclude / infer that the evidence of that witness would not have assisted the party.
-      - In light of the wording of s20 and a several HCA decisions such as Dyers v The Queen, Jones v Dunkel does not have any real application in criminal matters.
+      - In light of the wording of s 20 and a several HCA decisions such as Dyers v The Queen, Jones v Dunkel does not have any real application in criminal matters.
   - Failure to Call Evidence
     - How does the law address the fact that the Defence fails to call evidence (witness) that the Defence would reasonably be expected to have called ?
       - Following the HCA decision in Dyers v The Queen, no comment should be made about the failure of the Defence to call a witness who might have been able to assist the Defence case.
       - Only comment that can be made is that the jury should not speculate about what the witness might have said, if he / she had been called (Dyers v The Queen [15] refers)
     - A similar approach is taken with respect to the Accused making the election not to give evidence on his / her own behalf.
     - How does the law address the fact that the Crown fails to call evidence that the Crown would reasonably be expected to have called ?
-      - Following decisions such as RPS v The Queen [2000] HCA 3, Dyers v The Queen [2002] HCA 45,  Mahmood v WA (2008) 232 CLR 397 and R v Louizos [2009] NSWCCA 71 the position is that where the P has failed to call a witness (who might have been expected to be called by the P), the jury may properly reach conclusions that the failure may help support a reasonable doubt about the guilt of the accused.
+      - Following decisions such as RPS v The Queen [2000] HCA 3, Dyers v The Queen [2002] HCA 45, Mahmood v WA (2008) 232 CLR 397 and R v Louizos [2009] NSWCCA 71 the position is that where the P has failed to call a witness (who might have been expected to be called by the P), the jury may properly reach conclusions that the failure may help support a reasonable doubt about the guilt of the accused.
       - As per Criminal Trial Courts Bench Book (NSW)
         - … a jury is entitled to take into account that there was no evidence from a particular person in deciding whether or not there is a reasonable doubt about the accused’s guilt.
     - How does the law address the fact that the Crown fails to call evidence that the Crown would reasonably be expected to have called ?
       - Mahmood v WA (2008) 232 CLR 397, is authority for the proposition that “… where a witness, who might have been expected to be called and to give evidence on a matter, is not called by the prosecution, the question is not whether the jury may properly reach conclusions about issues of fact but whether, in the circumstances, they should entertain a reasonable doubt about the guilt of the accused.”
-      - In R v Louizos [2009] NSWCCA 71 it was held that  “… it may have been appropriate for the Trial Judge to raise with the jury whether the failure of the Crown to call the witness gave rise to a reasonable doubt about the truthfulness and reliability of the evidence… but he was never asked to do so.” [57]
-- Lecture 3B: Right to Silence
+      - In R v Louizos [2009] NSWCCA 71 it was held that “… it may have been appropriate for the Trial Judge to raise with the jury whether the failure of the Crown to call the witness gave rise to a reasonable doubt about the truthfulness and reliability of the evidence… but he was never asked to do so.” [57]
+## Lecture 3B: Right to Silence
+
   - The Menu
     - The Right to Silence
     - Silence of the Accused Pre-Trial
@@ -594,43 +611,43 @@ Week 1: Evidence Overview
     - Right extends from the moment of arrest to the end of the Trial.
     - Different rules apply in relation to Pre-Trial Silence and Silence at Trial 
   - Pre-Trial Silence
-    - Evidence of Silence (s89 & s89A)
-      - In a Criminal proceeding, s89 provides that subject to the special requirements set out in s89A, an unfavourable inference must not be drawn from evidence that a person failed or refused:
+    - Evidence of Silence (s 89 & s 89A)
+      - In a Criminal proceeding, s 89 provides that subject to the special requirements set out in s 89A, an unfavourable inference must not be drawn from evidence that a person failed or refused:
         - to answer one or more questions, or
         - to respond to a representation,
-      - put to that person by an investigating official, who at that time, was performing functions in connection with the investigation of the commission, or possible commission, of an offence (s89(1) refers). 
-      - For a serious indictable offence, s89A provides unfavourable inferences may be drawn if A failed / refused to mention a fact that A could reasonably have been expected to mention in the circumstances existing at the time, and that is relied on in his / her defence in that proceeding (s89A(1) refers).
+      - put to that person by an investigating official, who at that time, was performing functions in connection with the investigation of the commission, or possible commission, of an offence (s 89(1) refers). 
+      - For a serious indictable offence, s 89A provides unfavourable inferences may be drawn if A failed / refused to mention a fact that A could reasonably have been expected to mention in the circumstances existing at the time, and that is relied on in his / her defence in that proceeding (s 89A(1) refers).
         - AKA TELL THEM YOUR ALIBI
-      - Certain requirements such as a ‘Special Caution’ apply in relation to s89A. 
+      - Certain requirements such as a ‘Special Caution’ apply in relation to s 89A. 
   - Silence at Trial
     - How does the law address the situation where the Accused elects to remain silent at trial ?
-      - The Accused has the right to remain silent at trial and put the Prosecution to proof.  Consequently he / she may elect not to give evidence or not call evidence on his / her behalf.
-      - As set out in s20 EA, the Prosecution is not permitted to make comment about the Accused’s election not to give evidence. (Raises questions about what ‘comment’ actually means ????)
-      - Under s20(2) the Judge, or other party (not Prosecution), may comment on the Accused’s election but must not make a comment that suggests / infers that the Defendant is guilty of the offence. cf  Weissensteiner v The Queen (1993) 178 CLR 217
+      - The Accused has the right to remain silent at trial and put the Prosecution to proof. Consequently he / she may elect not to give evidence or not call evidence on his / her behalf.
+      - As set out in s 20 EA, the Prosecution is not permitted to make comment about the Accused’s election not to give evidence. (Raises questions about what ‘comment’ actually means ????)
+      - Under s 20(2) the Judge, or other party (not Prosecution), may comment on the Accused’s election but must not make a comment that suggests / infers that the Defendant is guilty of the offence. cf Weissensteiner v The Queen (1993) 178 CLR 217
       - This section only applies in criminal proceeding for an indictable offence. 
-    - Evidence Act s20 - Comment on failure to give evidence
+    - Evidence Act s 20 - Comment on failure to give evidence
       - (1) This section applies only in a criminal proceeding for an indictable offence. 
       - (2) The Judge or any party (other than the Prosecutor) may comment on a failure of the Defendant to give evidence. However, unless the comment is made by another Defendant in the proceeding, the comment must not suggest that the Defendant failed to give evidence because the defendant was, or believed that he or she was, guilty of the offence concerned. 
       - (3) ……..
     - Weissensteiner v The Queen (1993) 178 CLR 217
       - Facts: W went on a boat trip with a young couple. Sometime during the trip, the couple dropped out of contact with everyone they knew and stopped drawing upon their bank account. W returned alone, with the boat, and with some of their possessions. When questioned about their whereabouts, he gave conflicting explanations. He was charged with their murder and tried. At his trial, he did not give evidence. The TJ told the jury that, since W was the only person in the world in a position to contradict or deny the Crown case (that he murdered them), and he elected not to do so, the jury could more safely draw an inference of guilt from his decision not to testify.
         - HCA: Held that this was a permissible comment to make.
-      - The HCA decision in Weissensteiner is at odds with the basis for s20 – the practical protection the Accused’s right to silence. 
+      - The HCA decision in Weissensteiner is at odds with the basis for s 20 – the practical protection the Accused’s right to silence. 
       - *** Weissensteiner reflected a principle that originated in civil case of Jones v Dunkel (1959) 101 CLR 298.
     - The enactment of the EA has clarified the limitations on judicial comments about the Accused’s decision not to testify. 
-      - When examining s20, the superior courts have said that comments about adverse inferences should be seen as an interference with the right to silence, which is an entrenched and fundamental right.
-      - In light of HCA decisions in RPS, Azzopardi and Dyers, it is clear that only in a rare and exceptional case, where the facts would be peculiarly within the knowledge of the Defendant, will the Judge be permitted to make an adverse comment about the Defendant’s failure to give evidence.  This is how the HCA reconciled and rehabilitated its decision in Weissensteiner v R (1993) 178 CLR 217.
+      - When examining s 20, the superior courts have said that comments about adverse inferences should be seen as an interference with the right to silence, which is an entrenched and fundamental right.
+      - In light of HCA decisions in RPS, Azzopardi and Dyers, it is clear that only in a rare and exceptional case, where the facts would be peculiarly within the knowledge of the Defendant, will the Judge be permitted to make an adverse comment about the Defendant’s failure to give evidence. This is how the HCA reconciled and rehabilitated its decision in Weissensteiner v R (1993) 178 CLR 217.
     - RPS v The Queen (2000) 199 CLR 620
       - Facts: RPS was on trial for sexual assaults against his daughter between the ages of 4 and 14. 
         - The evidence against him came from his daughter (complainant) and her mother, to whom RPS had apparently made certain admissions about the sexual assaults. 
         - RPS elected not to give evidence, which means in effect that he did not deny the evidence against him.
       - HCA: Held that Weissensteiner, and all the cases that relied on it, were no longer applicable. 
-        - HCA said that, in a criminal trial, the entire onus is upon the Prosecution, and it will never – or rarely – be reasonable to expect the accused to testify.  
-        - HCA also held that s20 prohibits the TJ from commenting in any way that suggests the accused is guilty of the offence.
+        - HCA said that, in a criminal trial, the entire onus is upon the Prosecution, and it will never – or rarely – be reasonable to expect the accused to testify. 
+        - HCA also held that s 20 prohibits the TJ from commenting in any way that suggests the accused is guilty of the offence.
       - *** The following year, in Azzopardi v The Queen (2001) 205 CLR 50, the HCA affirmed this decision.
     - Dyers v The Queen (2002) 210 CLR 285
       - Facts: Dyers was the leader of what the HCA later described as a “cult” called Kenja. 
-        - A 13-year-old girl was the daughter of a Kenja member, and the girl attended what was called a “processing session” with Dyers during which she alleges he sexually assaulted her.  
+        - A 13-year-old girl was the daughter of a Kenja member, and the girl attended what was called a “processing session” with Dyers during which she alleges he sexually assaulted her. 
         - In his defence, Dyers said he had an alibi. At the time the girl alleges he sexually assaulted her, he said he had an appointment for an “energy conversion” session with a woman called Wendy. 
         - He tendered his appointment diary to show that he had an appointment with Wendy at the time. He did not call Wendy.
       - TJ said to the jury: “you are not entitled to speculate on what the witness might have said if the witness had been called”.
@@ -639,11 +656,348 @@ Week 1: Evidence Overview
         - TJ emphasised that “it is for the Crown to prove [the charge] and to do so beyond reasonable doubt. 
         - And that there is no onus on the accused to prove anything”.
       - The NSWCCA thought that there was nothing wrong with the TJ’s comments, and that it would have been “abundantly clear” to the jury that Dyers did not have to discharge any onus.
-      - HCA: Majority held that the TJ’s directions contravened s20 - quashing the conviction and ordering a re-trial. 
-        - Majority stressed that nothing must interfere with the Accused person’s right to silence, nor with the presumption of innocence.  
+      - HCA: Majority held that the TJ’s directions contravened s 20 - quashing the conviction and ordering a re-trial. 
+        - Majority stressed that nothing must interfere with the Accused person’s right to silence, nor with the presumption of innocence. 
         - Unanimously agreed that the accused does not need to give or call any evidence.
     - If the Accused does not give evidence at Trial, these directions should be given:
       - 1. The silence of the Accused is not evidence against the Accused (Azzopardi (2001) 205 CLR 50 [51]),
       - 2. The silence of the Accused cannot be treated as an admission of guilt (OGD (1997) 45 NSWLR 744, R v Baker [2001] NSWCCA 151, Azzopardi (2001) 205 CLR 50),
       - 3. The silence of the Accused cannot be used to fill gaps in the prosecution case (Azzopardi (2001) 205 CLR 50), and 
       - 4. The silence of the Accused cannot be used as a make-weight in assessing whether the Crown has proved its case beyond reasonable doubt (Azzopardi (2001) 205 CLR 50)
+## Week 4: Relevance
+
+- Relevance
+  - Admissibility – A 3 Stage Process
+    - In assessing the admissibility of evidence the Court undertakes a three stage process where each threshold must be met before moving to the next step:
+      - 1. Relevant / Not Relevant ?
+      - 2. If Relevant, are there any Exclusionary Rule that apply ?
+      - 3. If no Exclusionary Rule applies, should the Trial Judge use Discretion to exclude the evidence ?
+  - Common Terms
+    - “Fact in issue def” the principle facts to be proven by the party bearing the burden of proof on a particular issue – facts that need to be proven to win your case
+    - “Probative value def” means the extent to which the evidence could rationally affect the assessment of the probability of the existence of a fact in issue – how important is that evidence when trying to prove that fact ?
+- The Concept of Relevance
+  - Relevance
+    - Relevance is the cornerstone of the Rules of Evidence.
+    - In terms of Evidence, the concept of Relevance is widely defined and can appear to be rather subjective. (R v Le)
+    - The general rule is that the evidence must have some bearing on a fact in issue.
+    - Relevance does not equate to reliability or credibility – plays no part in testing relevance – test assumes the evidence is reliable (Papakosmas v The Queen)
+    - Main EA provisions that deal with Relevance are s 55 & s 56. See also s 57 (Provisional Relevance) & s 58 (Inference as to Relevance – relates to relevance of documents etc).
+  - EVIDENCE ACT 1995 - SECT 55 
+    - Relevant Evidence
+      - (1) The evidence that is relevant in a proceeding is evidence that, if it were accepted, could rationally affect (directly or indirectly) the assessment of the probability of the existence of a fact in issue in the proceeding.
+      - (2) In particular, evidence is not taken to be irrelevant only because it relates only to:
+        - (a) the credibility of a witness, or
+        - (b) the admissibility of other evidence, or
+        - (c) a failure to adduce evidence.
+    - Relevant evidence to be admissible
+      - (1) Except as otherwise provided by this Act, evidence that is relevant in a proceeding is admissible in the proceeding.
+      - (2) Evidence that is not relevant in the proceeding is not admissible.
+  - Relevance
+    - The key concept that underpins s.55 is that there needs to be a logical or rational connection between the evidence and the facts to be proven.
+    - Definition requires the minimal logical connection between the evidence and the facts in issue.
+    - Court looks at the affect that the evidence could have, if it were accepted.
+    - Words like “rational” under the Act, do not necessarily mean what we presume them to mean. 
+      - What is logical or rational to lawyers and judges may bear little relationship to what is logical or rational to lay people
+    - Whether logical or rational connection exists is an objective test grounded in human experience. (per Lindgren J Harrington-Smith v WA [2003] FCA 893)
+    - Indirect connection is sufficient (e.g. Defendant expressed intention to kill victim – sufficient to help the trier of fact better assess whether a fact in issue (intention) is present.
+    - Does not need to make a fact ‘probable’, just needs to make it more or less probable than it would be without the evidence (probative value).
+      - – If no impact on probability, material not relevant
+      - – not a stringent or narrow test
+      - – only need minimal probative value to satisfy the s 55 test.
+  - Relevance & Use
+    - In litigation, the ‘evidence’ may be relevant in several ways.
+      - For example: D told W he robbed a bank.
+        - – It may be important to your case to show that D was involved in a conversation with W – therefore the conversation will be relevant to show that a conversation took place.
+        - – It may also be important to show what was said in the conversation was actually true – the conversation will be relevant to prove D robbed the bank.
+    - Important to be able to identify whether the evidence is Relevant, and if so, for what use / uses. 
+      - *** One piece of evidence may be used in a number of ways.
+        - – Although there may be a rule of evidence that prohibits one of these uses, the evidence may still be permitted for the other use.
+    - This becomes especially important when dealing with Hearsay evidence
+      - – eg. the Hearsay rule may be used to exclude the evidence that proves the truth about what was said, but that same conversation may be admissible for the purpose of showing that something was said.
+  - Papakosmas v The Queen (1999) 196 CLR 297
+    - Facts: A was convicted of sexually assaulting a colleague at an office Christmas party. 
+      - The complainant alleged that A forced her to have sexual intercourse in a little room away from the party. The issue at trial was consent.
+    - The complainant and three other witnesses gave evidence at trial of her immediate complaints.
+    - According to that evidence, when the complainant returned to the party she saw a colleague. The complainant was crying. 
+      - The colleague asked her what was wrong, and the complainant said that A had raped her.
+    - The colleague took the complainant outside to a table where she repeated to complaint to another woman. 
+      - She was crying and holding her head in her hands and appeared distressed. 
+      - Shortly afterwards, the complainant repeated her complaint to a third woman. 
+      - The third woman gave evidence that the complainant was crying uncontrollably and appeared extremely distressed.
+    - Issue – Was the evidence given of the complaint relevant ? If so, for what purpose(s) ??
+      - 1. It was relevant to proving the facts asserted by the complainant (that she had not consented).
+      - 2. It was relevant to supporting the credibility of the complainant.
+  - Smith v The Queen (2001) 2016 CLR 650
+    - Facts: Smith was indicted in relation to the robbery of two banks.
+      - Appeal against conviction to NSWCCA dismissed.
+    - The fact that the robbery took place was not in issue. Bank security cameras had taken photographs showing what happened. 
+      - The Prosecution's case that Smith was the person who was shown in the photographs, standing near the back of the automatic teller machine, apparently keeping lookout while the co-offenders took the money.
+    - Issue: The only question for determination by the jury was ‘Is Smith the person represented in the photograph?” 
+      - The police knew Smith and identified him as the person in the photographs
+    - Police not eyewitnesses. They were just looking at the photographs. So what made their act of looking relevant? The jurors could also look at the photographs and decide, by comparing the man in the photo with Smith.
+    - The Crown argued that because the police already knew Smith, they were better placed than a juror, and that is what makes the police evidence relevant.
+    - Defence argued that the police were in no better position than the jury in making a comparison between the defendant and the photograph.
+  - Smith v The Queen (2001)
+    - [11] Because the witness's assertion of identity was founded on material no different from the material available to the jury from its own observation, the witness's assertion that he recognised the appellant is not evidence that could rationally affect the assessment by the jury of the question we have identified. 
+    - The fact that someone else has reached a conclusion about the identity of the accused and the person in the picture does not provide any logical basis for affecting the jury's assessment of the probability of the existence of that fact when the conclusion is based only on material that is not different in any substantial way from what is available to the jury.
+    - HCA majority held that there was nothing about the police evidence that would rationally help a juror in making his / her own assessment of whether the person in the photograph, was the accused or not. 
+    - The evidence given by police regarding the identity did not satisfy s 55 – therefore not relevant (and therefore not admissible – s 56). 
+    - Kirby J (in dissent) held that the evidence given by the police was indirectly relevant as police had seen A in various guises and from various angles and were in a better position to assess if A was the person in photographs.
+      - [45] As a matter of legal policy it is undesirable, and unnecessary in terms of rules of admissibility "otherwise provided by [the] Act", to set the hurdle of relevance too high. (per Kirby J)
+  - Evans v The Queen [2007] HCA 59
+    - Facts: Evans was on trial for armed robbery at the Strathfield Council Chambers. 
+      - The robber was filmed on security cameras, and was wearing a balaclava, sunglasses and overalls, and said certain words during the robbery. 
+      - During his trial, under cross-examination, the Prosecutor made Evans put on a balaclava, sunglasses and overalls, walk around in front of the jury, and say the words that the robber had said during the robbery.
+    - Appealed all the way to HCA on several grounds – one of which was relevance. Was it relevant for the jury to see the defendant dressed up like that, walking around like that, and saying those words?
+    - Gummow and Hayne JJ – said not relevant because it only enabled a comparison between the clothing and the security photographs - revealed nothing about the actual wearer.
+      - Kirby J – said that the relevance threshold is broad and should not be used to artificially exclude evidence that is, in fact, problematic (and perhaps inadmissible for other reasons).
+    - Heydon J (Crennan J agreeing) – said evidence was relevant but did not prove the whole case against Evans. 
+    - Showing a resemblance would assist the juror. 
+      - Also said that, if the evidence showed that Evans didn’t resemble the offender, it would certainly have been relevant for excluding the Evans as the offender.
+  - Relevance Summary
+    - What is the material (evidence) relevant to prove?
+    - Does it meet the threshold test in s 55 – could it rationally affect the assessment of the probability of the existence of a fact in issue ? If no, material cannot be admissible (s 56)
+    - Not a high threshold – only minimal probative value needed to satisfy s 55.
+    - Relevance does not look at issues of reliability or credibility – these issues are dealt with by other provisions.
+    - Material may be relevant for more than one purpose.
+## Week 5: Hearsay Exclusionary Rule
+
+- Hearsay Exclusionary Rule
+  - An introductory thought !!
+    - The rule against hearsay has been described by text writers as one of the oldest, most complex, most confusing, most intellectually challenging of the exclusionary rules of evidence, absurdly technical, a conglomeration of inconsistencies, with an unclear definition, an unclear ambit, of bewildering breadth and conceptual complexity, resembling an old-fashioned crazy-quilt made of patches cut from a group of paintings by cubists, futurists and surrealists.
+  - Debunking the myths about Hearsay 
+    - Many of the problems associated with the use of Hearsay evidence have been done away with since the introduction of Evidence Act.
+      - For many years there had been calls to rationalise the use of Hearsay evidence throughout the Common Law world – numerous studies undertaking including one conducted by ALRC (which lead to development of EA)
+    - Main thing to remember when mastering Hearsay is to understand what it really means and why the Courts treat it with trepidation – this will help shape your thinking and hopefully minimise the confusion.
+    - In its most simple form, Hearsay relates to information that was not seen / heard by the Witness that is giving the evidence – they have been told about what happened by another person.
+      - eg .   Adam tells Belinda that he had bought a new laptop for his girlfriend, Clare, as a surprise for her birthday.
+    - In this case the only person who really knows the truth of the statement is Adam (the maker of the representation).  Evidence from both Belinda and Claire would be considered Hearsay because they did not see Adam buy the laptop.
+    - The reason why this presents a problem for the Court is that Hearsay evidence cannot be tested properly – the Court wants to deal with the best evidence available.
+    - The Court does not want to deal with evidence that may have been corrupted or influenced as part of the story telling process – it is unfair !!
+    - A good example of how the evidence can be corrupted / influenced as part of the story telling process is Chinese Whispers.
+    - We need of way of dealing with this type of material to make sure that we do not encounter these types of issues.
+    - Under EA, this is the Hearsay Rule and it forms part of the suite of Exclusionary Rules found in Chapter 3 of the Act.
+  - The Hearsay Rule 
+    - The Hearsay Rule is a rule that prevents the use of a previous representation to prove that was intentionally asserted in that representation is actually true.
+    - It is important to understand that Hearsay is not a type of evidence.  It is a use of evidence.  Whether evidence of a previous representation is Hearsay depends on the purpose for which the evidence is being used.
+      - eg.  A Hearsay purpose arises when someone relates what someone else said, not merely to show that it was said, but to prove a fact they asserted in that representation. See Subramaniam v Public Prosecutor [1956] 1 WLR 965
+    - Subramaniam v Public Prosecutor [1956] 1 WLR 965
+      - Subramaniam taken hostage by Chinese Communists during Malaya crisis.  Told by captors that if he talked he would be killed.  Tried to use this as defence of duress.  
+        - Trial Judge held that the comments were hearsay and inadmissible.  
+        - On appeal, Privy Council held that statement was admissible, but only to show that the statement was made – thereby being enough to scare Subramaniam into doing what he was told.
+      - Evidence of a statement made to a witness . . . may or may not be hearsay. 
+        - It is hearsay and inadmissible when the object [purpose] of the evidence is to establish the truth of what is contained in the statement.
+        - It is not hearsay and is admissible when it is proposed to establish by the evidence, not the truth of the statement, but the fact that it was made. 
+        - The fact that the statement was made, quite apart from its truth, is frequently relevant ...
+    - The Hearsay Rule is set out in s59 EA and similar to the other Exclusionary rules in the Act, it provides a prohibition on the use of the material.
+      - Several exceptions to the Hearsay Rule are provided for in Part 3.2 of the Act which details the various circumstances where the Court considers it ‘safe’ to use Hearsay evidence to prove the fact asserted.
+      - To be able to properly utilise the Hearsay Rule and the Exceptions need to understand various terms such as: 
+        - Representation
+        - Previous Representation
+        - Maker of Representation
+        - Fact intended to be asserted
+    - Representation
+      - The EA does not define representation, but in the Dictionary of the Act states that representations include:
+        - (a) an express or implied representation (whether oral or in writing – may also include silence or an action), or 
+        - (b) a representation to be inferred from conduct, or 
+        - (c) a representation not intended by its maker to be communicated to or seen by another person, or 
+        - (d) a representation that for any reason is not communicated.
+      - A representation is not confined to a matter which is relevant to the immediate facts in issue; it may include a matter which is relevant to understanding the facts in issue (R v Ambrosoli (2002) 55 NSWLR 603).  eg. motive rather than mens rea 
+    - Previous Representation
+      - Means a representation made otherwise than in the course of giving evidence in the proceeding in which evidence of the representation is sought to be adduced.
+      - AKA Representation made out of court
+    - Maker of Representation
+      - The person who made previous representation.
+      - AKA the person who claimed something - Adam from laptop
+    - Fact Intended to be Asserted
+      - What did the Maker of the Representation mean by his / her representation ?
+      - Not concerned with the actual representation itself – concerned with the fact that the Maker of the Representation intended to assert.  eg.  Bob said the band he saw was ‘cool’ 
+    - s59 The Hearsay Rule-Exclusion of Hearsay Evidence 
+      - Evidence of a previous representation made by a person is not admissible to prove the existence of a fact that it can reasonably be supposed that the person intended to assert by the representation.
+      - (2) Such a fact is in this Part referred to as an asserted fact.
+      - (2A) For the purposes of determining under subsection (1) whether it can reasonably be supposed that the person intended to assert a particular fact by the representation, the Court may have regard to the circumstances in which the representation was made. 
+      - (3) [.....]
+      - Note : Subsection (2A) was inserted as a response to the decision of the Supreme Court of NSW in R v Hannes(2000) 158 FLR 359 .
+    - Implied Assertions & Intention
+      - Prior to the amendments to this provision, the Act made no strict reference to implied assertions so following comments by Spigelman CJ in R v Hannes, it was decided to give clearer definition to the term ‘intention’ hence the insertion of ‘reasonably be supposed that the person intended to assert ’ and ss2A.
+      - This reinforces the position that under the EA only intended assertions (express or implied) will be subject to the Hearsay Rule (Common Law captured both intended and unintended representations)
+        - See Walton v The Queen (1989) 166 CLR 283:  where child answered phone and said ‘Hello Daddy’.  Under Common Law this comment was captured by Hearsay Rule – under EA this comment would be considered to be unintentional and would not be subject to s59. 
+      - So if the express or implied assertion is unintended then it is not caught by the Hearsay Rule.
+    - Process so far 
+      - Step 1 is to identify the ‘previous representation’ 
+      - Step 2 is to work out who made the representation. (this becomes important when working out what exceptions to the Hearsay Rule may / may not apply).
+      - Step 3 is to derive the intention of the Maker in making the representation.  If made unintentionally, it will not be captured by s59.
+      - Step 4 is to identify the purpose of the evidence.  Is it being adduced to prove the existence of an asserted fact? (Yes = hearsay - s59 applies; No = not hearsay - s59 does not apply).
+  - First-Hand and More Remote Hearsay
+    - Overarching aim of EA is to let in as much relevant evidence as possible whilst still ensuring that the evidence is reliable and fair.
+    - Over the years, some types of ‘problematic’ evidence have been assessed as being potentially reliable if certain criteria are met, or the evidence is handled in a particular manner.
+    - This point is true in relation to some forms of Hearsay evidence.  In certain circumstances it may be possible to apply one of the various exceptions to the Hearsay Rule – because they are potentially reliable. 
+    - Main exceptions to the Hearsay rule fall into two categories - ‘First-Hand Hearsay Exceptions’ or ‘More Remote Hearsay Exceptions’.
+    - Essentially, First-Hand Hearsay is where the previous representation (containing an asserted fact) was made by the Maker in the presence of the person who gives evidence about it (Witness).  See s62
+      - There is only one degree of separation between the Maker of the Previous Representation and the Witness relating that asserted fact.
+    - If there is a greater degree of separation between the Maker of the Previous Representation and the person giving the evidence (Witness), that is referred to as ‘More Remote Hearsay’.
+    - The degree of remoteness becomes important when applying the exceptions under Part 3.2
+    - Under s62, there is a requirement that it must be reasonably supposed that the Maker of the Previous Representation has personal knowledge of the asserted fact because of what he / she has seen, heard or otherwise perceived and makes a representation about that fact to the Witness.
+  - Examples
+    - Molly says to Wendy that she saw the man with the gun.
+      - Wendy’s evidence would be considered First-Hand Hearsay about Molly having seen the man with the gun because it has come directly from the Maker of the previous representation (Molly) who has personal knowledge of the asserted fact.
+    - Molly says to Wendy that she saw the man with gun.  Wendy then tells Richard about what Molly told her.
+      - The giving of this evidence by Richard would be considered More Remote Hearsay because the asserted fact has not come directly from the Maker (Molly) who has personal knowledge of what happened.
+## Week 6: Hearsay Evidence
+
+- Hearsay Evidence
+  - Hearsay Revision
+    - The Hearsay Rule is set out in s59 EA and similar to the other Exclusionary rules in the Act, it provides a prohibition on the use of the material.
+    - Several exceptions to the Hearsay Rule are provided for in Part 3.2 of the Act which details the various circumstances where the Court considers it ‘safe’ to use Hearsay evidence to prove the fact asserted.
+    - To be able to properly utilise the Hearsay Rule and the Exceptions need to understand various terms such as: 
+      - Previous Representation
+      - Maker of Representation
+      - Fact intended to be asserted
+      - First-hand Hearsay v More Remote Hearsay
+  - First Hand and More Remote Hearsay
+    - Essentially, First Hand Hearsay is where the previous representation (containing an asserted fact) was made by the Maker in the presence of the person who gives evidence about it (Witness).  See s62
+      - There is only one degree of separation between the Maker of the representation and the Witness relating that asserted fact.
+    - If there is a greater degree of separation between the Maker of the previous representation and the person giving the evidence (Witness), that is referred to as ‘More Remote Hearsay’.
+    - The degree of remoteness becomes important when applying the exceptions under Part 3.2
+    - Under s62, there is a requirement that it must be reasonably supposed that the Maker of the previous representation has personal knowledge of the asserted fact because of what he / she has seen, heard or otherwise perceived and makes a representation about that fact to the Witness.
+- Exceptions to Hearsay Rule 
+  - Exceptions to Hearsay Rule
+    - Specific exceptions to the Hearsay Rule include: 
+      - First-hand hearsay: 
+        - Civil proceedings, if maker of representation is not available (s63)
+        - Civil proceedings, if maker of representation is available (s64) 
+        - Criminal proceedings, if maker of representation is not available (s65) 
+        - Criminal proceedings, if maker of representation is available (s66)
+    - Contemporaneous statements about a person’s health etc (s66A)
+    - Business records (s69)
+    - ATSI  traditional laws and customs (s72)
+    - Use of evidence in Interlocutory proceedings (s75) 
+*** Evidence relevant for a non-hearsay purpose (s60)
+*** Admissions (s81)
+*** Character Evidence (s110)
+  - Overview of First Hand Hearsay Exceptions
+    - 
+  - Maker Availability
+    - Dictionary, cl.4 Unavailability of persons 
+      - (1) For the purposes of this Act, a person is taken not to be available to give evidence about a fact if: 
+        - (a) the person is dead, or 
+        - (b) the person is, for any reason other than the application of section 16 (Competence and compellability: judges and jurors), not competent to give the evidence about the fact, or 
+        - (c) it would be unlawful for the person to give evidence about the fact, or 
+        - (d) a provision of this Act prohibits the evidence being given, or 
+        - (e) all reasonable steps have been taken, by the party seeking to prove the person is not available, to find the person or to secure his or her attendance, but without success, or 
+        - (f) all reasonable steps have been taken, by the party seeking to prove the person is not available, to compel the person to give the evidence, but without success. 
+      - (2) In all other cases the person is taken to be available to give evidence about the fact. 
+  - s63 Exception to Hearsay Rule
+    - s63 Civil proceedings, if maker of representation is not available
+      - (1) This section applies in a civil proceeding if a person who made a previous representation is not available to give evidence about an asserted fact.
+    - (2) The hearsay rule does not apply to:
+      - (a) evidence of the representation that is given by a person who saw, heard or otherwise perceived the representation being made, or
+      - (b) a document so far as it contains the representation, or another representation to which it is reasonably necessary to refer in order to understand the representation.
+    - Note:  Section 67 imposes notice requirements relating to this subsection. 
+    - s63 provides the lowest threshold for the admissibility of Hearsay Evidence.
+    - Merely requires that the Witness saw, heard or perceived the representation being made by the Maker.
+    - If a party intends to call such evidence to be used for its Hearsay purpose (ie. to prove the asserted fact in the previous representation), that party must conform and provide a Notice to the other party pursuant to s67 EA.
+    - 
+  - s 64 Exception to Hearsay Rule
+    - s64 Civil proceedings, if maker of representation is available
+      - (2) The hearsay rule does not apply to:
+        - (a) evidence of the representation that is given by a person who saw, heard or otherwise perceived the representation being made, or
+        - (b) a document so far as it contains the representation, or another representation to which it is reasonably necessary to refer in order to understand the representation, 
+        - if it would cause undue expense or undue delay, or would not be reasonably practicable, to call the person who made the representation to give evidence.
+      - Note. Section 67 imposes notice requirements relating to this subsection. Section 68 is about objections to notices that relate to this subsection.
+      - (3) If the person who made the representation has been or is to be called to give evidence, the hearsay rule does not apply to evidence of the representation that is given by:
+        - (a) that person, or
+        - (b) a person who saw, heard or otherwise perceived the representation being made.
+      - [section continues…]
+    - The effect of s64 is that it provides the party calling the Hearsay evidence a wide degree of flexibility.
+    - s64(2) enables a party to adduce the Hearsay evidence through a Witness if it would cause undue delay or expense, or would be not be reasonably practicable to call the Maker of the previous representation.
+      - This is very broadly defined and applied and takes into account cost of securing Maker, length of trial, health and location of maker.
+      - *Requires reasonable written notice of intention to call such evidence (s67).
+    - s64(3) provides that if the Maker is called to give evidence, either:
+      - The Maker of the previous representation; or
+      - A person who saw, heard or otherwise perceived the previous representation 
+    - can give evidence of the asserted fact.
+  - s65 Exception to Hearsay Rule
+    - s65 Criminal proceedings, if maker of representation is not available
+      - (2) The Hearsay Rule does not apply to evidence of a previous representation that is given by a person who saw, heard or otherwise perceived the representation being made, if the representation:
+        - (a) was made under a duty to make that representation or to make representations of that kind, or
+        - (b) was made when or shortly after the asserted fact occurred and in circumstances that make it unlikely that the representation is a fabrication, or
+        - (c) was made in circumstances that make it highly probable that the representation is reliable, or
+        - (d) was:
+          - (i) against the interests of the person who made it at the time it was made; and
+          - (ii) made in circumstances that make it likely that the representation is reliable.
+        - Note. s67 imposes notice requirements relating to this subsection.
+    - s65(2) imposes more demanding requirements on the Prosecution.
+      - This is because the evidence will be used against a Defendant who is presumed to be innocent, so there should be greater safeguards in relation to potentially unreliable evidence (not just warning or a discretionary exclusion).  
+    - For the Prosecution, it is not enough that the unavailable maker of the representation had personal knowledge of the asserted fact, and that evidence of the representation will be given by a person who saw, heard or perceived the representation being made – the representation must have been made either:
+      - A. Under a duty
+      - B. Shortly after asserted fact occurred (reduces chance of fabrication)
+      - C. In circumstances highly probable to be reliable (Conway v The Queen)
+      - D. Against the interests of the maker.
+    - (3) The Hearsay Rule does not apply to evidence of a previous representation made in the course of giving evidence in an Australian or overseas proceeding if, in that proceeding, the Defendant in the proceeding to which this section is being applied:
+      - A. cross-examined the person who made the representation about it, or
+      - B. had a reasonable opportunity to cross-examine the person who made the representation about it.
+    - (4) [.... Relates to Co-Accused]
+    - (5) For the purposes of ss(3) and (4), a Defendant is taken to have had a reasonable opportunity to cross-examine a person if the Defendant was not present at a time when the cross-examination of a person might have been conducted but:	(a) could reasonably have been present at that time, and (b) if present could have cross-examined the person.
+    - (6) Evidence of the making of a representation to which ss(3) applies may be adduced by producing a transcript, or a recording, of the representation that is authenticated by: (a) the person to whom, or the court or other body to which, the representation was made, or (b) if applicable, the registrar or other proper officer of the court or other body to which the representation was made, or (c) the person or body responsible for producing the transcript or recording. 
+    - Under ss65(3) – 65(6)  Statements made in previous court proceedings may be adduced for their Hearsay purpose as long as the Defendant had opportunity to cross-examine in those earlier proceedings.  eg. evidence in committal proceedings being used again at trial. 
+    - Puchalski v R held that what is required is that Defendant cross-examined the person in the earlier proceeding or had a reasonable opportunity to do so – the exception does not rely on nature and extent of cross-examination.
+    - (8) The Hearsay Rule does not apply to:
+      - (a) evidence of a previous representation adduced by a Defendant if the evidence is given by a person who saw, heard or otherwise perceived the representation being made, or
+      - (b) a document tendered as evidence by a Defendant so far as it contains a previous representation, or another representation to which it is reasonably necessary to refer in order to understand the representation.
+    - Note. s67 imposes notice requirements relating to this subsection.
+    - (9) If evidence of a previous representation about a matter has been adduced by a Defendant and has been admitted, the hearsay rule does not apply to evidence of another representation about the matter that:
+      - (a) is adduced by another party, and 
+      - (b) is given by a person who saw, heard or otherwise perceived the other representation being made. 
+    - s65(8) imposes are far less demanding threshold for the admission of the asserted fact for its Hearsay purpose, if adduced by the Defendant.  
+      - Essentially, this is the same level required under s63 (Civil – Maker not available:  person who heard / saw/ perceived previous representation can give evidence of the asserted fact.)
+      - This is because of the notions of fairness to the Defendant. 
+    - s65(8) is designed to promote the admission of exonerating statements of the alleged victim, confessions of 3rd parties and statements of deceased persons.
+    - s65(9) provides the Prosecution the ability to ‘reply’ to any material adduced by the Defendant under s65(8), by adducing its own Hearsay evidence that qualifies or explains the Defendant’s s65(8) evidence.
+  - s 66 Exception to Hearsay Rule
+    - s66 Criminal proceedings, if maker of representation is available
+      - (2) If that person (Maker) has been or is to be called to give evidence, the Hearsay Rule does not apply to evidence of the representation that is given by:
+        - (a) that person, or
+        - (b) a person who saw, heard or otherwise perceived the representation being made,
+      - if, when the representation was made, the occurrence of the asserted fact was fresh in the memory of the person who made the representation.
+      - (2A) In determining whether the occurrence of the asserted fact was fresh in the memory of a person, the Court may take into account all matters that it considers are relevant to the question, including:
+        - (a) the nature of the event concerned, and
+        - (b) the age and health of the person, and
+        - (c) the period of time between the occurrence of the asserted fact and the making of the representation.
+      - Note. Subsection (2A) was inserted as a response to the decision of the High Court of Australia in Graham v The Queen (1998) 195 CLR 606.
+      - [section continues…]
+    - s66 provides that in criminal proceedings where the Maker of the previous representation is available and the previous representation is to be used to prove the asserted fact (ie. for its Hearsay purpose) the Maker of the representation must be called to give evidence.  
+    - As well as limiting the ambit of the exception , s66 imposes an additional limitation:
+      - the requirement that the occurrence of the asserted fact be “fresh in the memory” of the Maker of the previous representation - “freshness” is only required in criminal matters.
+    - The “fresh in the memory” requirement in s66(2) has long been the subject of judicial consideration.
+    - In the HCA judgment in Graham v The Queen (1998) 195 CLR 606, the majority held that the term “fresh” meant “recent” or “immediate”  - thereby requiring the statement to be made very soon after the event in question.
+      - “the temporal relationship” required will very likely be measured in hours or days, not, as was the case here (Graham’s case), in years.
+    - This strict temporal requirement held in Graham’s case was considered too limiting and was amended by the insertion of s66(2A).
+    - s66(2A) provides guidance to the Court when determining whether something is  “fresh in the memory”.  Court may now take into account such things as 
+      - The nature of the event concerned; and 
+      - The age and health of the person; and
+      - The period of time between the occurrence of the asserted fact and the representation.
+    - As held in Regina v XY [2010] NSWCCA 181 the temporal relationship between the asserted fact and the making of the representation remains relevant but is in no way determinative of the question. Importantly the court must now take into account the nature of the event concerned.
+    - s66(3) provides that the s66(2) Hearsay exception does not apply to evidence of the previous representation that is adduced by the Prosecution, which:
+      - a.   was made for the purpose of indicating what evidence 	that person would be able to give (called a proof of 	evidence); and 
+      - b.  deals with matters other than the identity of a person, 	place or thing.
+  - Graham v The Queen (1998) 195 CLR 606
+    - Graham was a case where the complainant was raped by her father. 
+      - It was 6 years before she told somebody about it, and it was this 6 year delay which the HCA said made her complaint lose its “freshness”. 
+    - You might think that being raped by your father would be very memorable, and would remain memorable for more than a few hours or days, and that 6 years later you could probably still have a clear memory of it. 
+    - Nevertheless, the HCA did not think so, and this is why there has been an amendment to s66, directly as a result of the decision in Graham.
+  - 66A Exception: contemporaneous statements about a person’s health etc
+    - s66A provides that the Hearsay rule does not apply to evidence of a previous representation made by a person if the representation was a contemporaneous representation about the person’s health, feelings, sensations, intention, knowledge or state of mind.
+    - This means that a person’s physical, mental state or intentions, etc can be inferred by what they say.
+      - eg.  The fact that the Sue says to William “I have really bad a headache at the moment” can be adduced by William to prove that fact that Sue did have a headache at that time.
+  - Some Other Hearsay Exceptions
+    - Essentially, under s69 the Hearsay Rule does not apply to business documents, so that the documents can be used to prove the facts about the business and what is contained in the business document. 
+      - s69 operates together with the rules about proving the contents of documents from ss48-50. 
+    - Both ‘business’ and ‘document’ are very broadly defined, and the rationale here is to save time. It is presumed that business records accurately record the business. If they do not, a party would need to call evidence to prove that.
+    - s70 is a similar exception to s69, and it applies to tags and labels. eg.  it can be presumed that a letter was in fact posted in Wagga on the 8th of June if that is what the postmark says.
+    - s71 says that with electronic communications, information about who it came from, who it was sent to, the time and date, will not be caught by the hearsay rule.
+    - s72 provides that the hearsay rule does not apply to evidence of a representation about the existence or non-existence, or the content, of the traditional laws and customs of an Aboriginal or Torres Strait Islander group.
+    - s75 says that the hearsay rule does not apply in Interlocutory Proceedings if the source of the evidence is adduced. 
+  - Overview of Hearsay Evidence
+    - 
+

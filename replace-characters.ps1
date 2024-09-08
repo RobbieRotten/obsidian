@@ -1,4 +1,4 @@
-Get-ChildItem -Path "D:\Files\UTS Law\Quartz\quartz\content" -Filter *.md -Recurse |
+Get-ChildItem -Path "D:\Files\Quartz\quartz\content" -Filter *.md -Recurse |
 ForEach-Object {
     (Get-Content $_.FullName) -replace '‘', '''' `
                              -replace '’', '''' `

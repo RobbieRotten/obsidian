@@ -3,7 +3,7 @@
 # Cheat Sheet
 
 - Hierarchy of Sources and Jus Cogens
-### .
+### 
 
 - Montevideo Convention on the Rights and Duties of States
   - Article 1
@@ -58,6 +58,35 @@
       - Were Bantustans a State under PIL?
     - Southern Rhodesia: [see H&S p 106-7]
     - Self-determination
+- Five principles of jurisdiction recognized by International Law (Harvard)
+  - Objective Territorial Principle 
+    - asserts that a state has the jurisdiction to prosecute crimes that are initiated outside its territory but have significant effects or consequences within its territory.
+    - AKA Territorial Principle: States have jurisdiction over acts committed within their territory.
+    - D.P.P. v Doot,
+    - R. v Bates,
+    - Lotus case
+    - Island of palmas
+  - Principle of Universality: 
+    - asserts that a state has jurisdiction to prosecute certain offenses, regardless of where they were committed, and regardless of the nationality of the perpetrator or the victim, because the crimes are so serious that they affect the international community as a whole.
+    - Jus cogens
+    - Israel case
+  - Nationality Principle: 
+    - States have jurisdiction over their nationals, even when those nationals are abroad.
+  - Protective Principle: 
+    - States have jurisdiction over acts outside their territory that threaten the state's security, such as espionage or counterfeiting currency.
+    - doctrine of the contiguous zone
+      - Would the principle allow State A to exercise criminal jurisdiction over the officials of State B in respect of their actions in the execution of an unfriendly policy (e.g. a trade embargo) of State B towards State A?
+      - The doctrine provides coastal states with limited enforcement powers beyond their territorial sea, specifically related to customs, immigration, fiscal, and sanitary matters. While it does not confer full sovereignty, it allows states to protect their interests just beyond their territorial boundaries, balancing their rights with the freedoms of other states on the high seas.
+    - Joyce v DPP [1946] AC 347
+  - Passive Personality Principle: 
+    - States may claim jurisdiction over acts committed abroad that harm their nationals.
+    -  US v Yunis (No.2)
+- Five heads of jurisdiction recognized by international law
+  - Territorial Jurisdiction: Authority over acts committed within a state’s own territory.
+  - Nationality (or Active Personality) Jurisdiction: Authority over a state’s nationals, regardless of where they are located.
+  - Passive Personality Jurisdiction: Authority over acts committed abroad that harm the state's nationals.
+  - Protective Jurisdiction: Authority over acts outside a state’s territory that threaten its security or governmental functions.
+  - Universal Jurisdiction: Authority over certain serious crimes (e.g., genocide, war crimes) that are recognized as affecting the international community as a whole, regardless of where they occur.
 ## Week 1: Introduction to International Law
 
 -  International Law
@@ -370,6 +399,7 @@
       - The Declaratory Theory
         - States exist independent of recognition:
           - ‘the primary function of recognition is to acknowledge as a fact something which has hitherto been uncertain, namely the independence of the body claiming to be a state, and to declare the declaring state’s readiness to accept the normal consequences of that fact – namely the usual courtesies, rights and obligations of international relations between states.’ (Brierly, in H&S p 137).
+          - The weight of authorities favours the declaratory theory. 
     - Does State Practice reflect declaratory or constitutive theory?
       - Declaratory
         - States make claims under IL against unrecognised states:
@@ -735,4 +765,269 @@
       - In Project Blue Sky the joint judgment of McHugh, Gummow, Kirby and Hayne JJ acknowledged that cl 9 of the Australian Content Standard was in conflict with arts 4 and 5 of the 1988 CER Protocol with the result that there were two questions for determination:
         - (a) Was the Australian Content Standard in breach of the provisions of the Broadcasting Services Act 1992 (Cth) (BSA)?
         - (b) If so, was cl 9 of the Australian Content Standard invalid?
-      - 
+## Week 4: Jurisdiction and Immunities
+
+- State Jurisdiction
+  - Jurisdiction
+    - Prescriptive jurisdiction def - legislative-power to make laws
+    - Enforcement jurisdiction def -State’s power to enforce its laws against anyone who contravenes them. 
+      - Includes both executive and judicial powers of enforcement.
+  - Civil jurisdiction
+    - There are different views as to the law concerning civil jurisdiction. 
+      - On one view, exorbitant assertions of civil jurisdiction could lead to international responsibility....On another view, there is little by way of limitation on a state’s exercise of civil jurisdiction in what are effectively private law matters; different states assert jurisdiction on different grounds, but deference to foreign law through conflicts rules mitigates any exorbitant elements”
+    - For example, Alien Tort Claims Act (28 U.S.C. § 1350) vests original jurisdiction in US Federal District Courts in “all causes where an alien sues for a tort only in violation of the law of nations or of a treaty of the United States.”
+      - Effectively provides for an action in tort arising from a violation of international law, (eg human rights, environmental law) no matter where the harm occurred, or who inflicted the harm, as long as the plaintiff serves the summons/statement of claim in U.S. territory.
+    - Arguably these matters best left to Private International Law to resolve.
+      - “Private international law is the body of principles, rules, and at time, policies and approaches that indicate how a foreign element in a legal problem or dispute should be dealt with” 
+    - Mortensen, Garnett and Keyes, Private International Law in Australia (2015), p 3
+  - Criminal jurisdiction
+    - A state can exercise jurisdiction on the basis of 5 possible principles:
+      - Territorial Principle
+      - Nationality Principle
+      - Passive Personality Principle
+      - Protective Principle
+      - Universality Principle
+  - Territorial Principle
+    - Island of Palmas Case (Netherlands v US) (1928) 2 R.I.A.A. 829
+      - “Sovereignty in the relations between States signifies independence. Independence in regard to a portion of the globe is the right to exercise therein, to the exclusion of any other State, the functions of a State.”
+    - Based on notion of undoubted right of a State to legislate with regard to its territory or matter within its territory.
+    - Right is absolute – a reflection of sovereignty
+    - Territory not only includes land mass, seas and airspace, but also shipping and aircraft registered in that State.
+    - Simple issue when action takes place completely within the State’s territory.
+    - The Lotus case (France v Turkey) (1927) P.C.I.J. Reports, Series A. No.10
+      - “The first and foremost restriction imposed by international law upon a state is that-failing the exercise of a permissive rule to the contrary-it may not exercise its power in any form in the territory of another State. In this sense jurisdiction is certainly territorial; it cannot be exercised by a State outside its territory except by virtue of a permissive rule derived from international custom or a convention”
+  - Nationality Principle
+    - “No one disputes the right of a State to subject its citizens abroad to the operations of its own penal laws, if it sees fit to do so” per  Judge Moore
+    - The Lotus case (France v Turkey) (1927) P.C.I.J. Reports, Series A. No.10
+      - Based on State’s right to make and enforce laws with respect to conduct by, or affecting, its nationals.
+      - Concept adopted by many States is that if you enjoy the advantage and protection of citizenship, you should also be bound by that State’s laws.
+      - For example Criminal Code Act 1995 (Cth), Schedule-Division 119 Foreign Incursions and Recruitment-s 119.1 Incursions into foreign countries with the intention of engaging in hostile activities
+    - Nottebohm Case (Liechtenstein v Guatemala) ICJ Reports 1955, p4.
+      - How do we determine nationality in international law?
+        - “real and effective nationality” 
+        - ”nationality is a legal bond having as its basis a social fact of attachment, a genuine connection of existence, interests and sentiments, together with the existence of reciprocal rights and duties. It may be said to constitute the juridical expression of the fact that the individual upon whom it is conferred, either directly by the law of as the result of an act of authorities, is in fact more closely connected with the population of the State conferring nationality than with that of any other State.”
+  - Nationality Principle
+    - We do not apply the Nottebohm case test of “real and effective nationality” for corporate entities. 
+      - The test for corporate entities is different.
+    - ”The traditional rule attributes the right of diplomatic protection of a corporate entity to the State under the laws of which it is incorporated and in whose territory it has its registered office.”
+    - Barcelona Traction, Light and Power case (Belgium v Spain) ICJ Reports 1970 p 3
+  - Passive Personality Principle
+    - US v Yunis (No 2) (1988) 82 I.L.R. 344
+      - Allows for a State to prosecute a foreign national if his/her actions abroad affect a national of the prosecuting States.
+      - Sometimes seen as an extension to the concepts that underpin the Nationality Principle
+        - Nationality Principle= National has committed the harm/crime
+        - Passive Personality Principles=National has suffered the harm
+      - But different because the Passive Personality Principle only needs a National of the State claiming jurisdiction to be harmed-not the State itself
+      - Controversial-but accepted by some states such as the USA
+  - Protective Principle
+    - The ‘protection’ of ‘vital’ national interests which may have been injured by the action – security, national integrity and political independence.
+    - Looks at State’s exercise of its jurisdiction to ‘punish’ actions committed overseas which constitute a threat to the interests of that State.
+    - Used to justify prosecution of terrorists and those who plan / train terrorism / terrorists abroad.  
+    - Widely used in espionage /spying type cases – popularity of approach increases after the 1960’s.
+    - Joyce v DPP [1946] AC 347
+      - Joyce (aka Lord Haw Haw) was an American national who helped broadcast German propaganda into Britain, during WWII.
+      - Joyce fraudulently obtained a British passport some years earlier.
+      - Charged with 3 counts of High Treason before U.K Courts
+      - American nationality complicated prosecution-Joyce argued lack of jurisdiction – cannot betray a country you do not a national of.
+      - Countered by the Crown who argued that as a holder of a British passport (even though fraudulently obtained) Joyce enjoyed the protections that it offered and should be subject to the laws of the U.K.
+      - Held that because he held a British passport he owed an allegiance to the Crown and that his actions where against the interests of Britain (applying the  Protective Principle).
+      - Hanged 3 January 1946.
+  - Universality Principle
+    - Accepts that there are certain actions that ‘transcend’ the jurisdiction of any single State.
+    - Looks at ‘international crimes’ that are recognised as affecting the entire world order.
+    - There is no nexus between the State exercising jurisdiction and the action itself i.e.
+      - Not committed in territory
+      - Not committed against State
+      - Not committed by, or against, State nationals.
+    - Nature of the action / crime is the important factor which triggers the jurisdiction.
+    - Aimed at jus cogens type offences such as piracy, slavery, genocide, torture, war crimes and crimes against humanity
+    - Attorney-General of the Government of Israel v Adolf Eichmann  (1961) 36 I.L.R.5. District Court of Jerusalem
+      - Nazi Officer responsible for Germany’s ‘Final Solution’- programme of Genocide.
+      - Escaped to Argentina after WWII. 
+      - In 1960 was discovered and kidnapped by Mossad and taken to Israel where he was placed on trial.  
+      - Hanged in May 1962.
+      - At Trial and on Appeal, Eichmann raised several defences including:
+        - Israel did not exist at the time of the alleged offences.
+        - Actions not taken against Israeli nationals.
+        - Actions did not take place in Israeli territory.
+        - Legal basis for prosecution was retroactive.
+      - Main Israeli argument was that crimes fell within Universal Jurisdiction but court also accepted the protective principle founded jurisdiction on the basis of the “linking point doctrine”
+    - R v Bow Street Metropolitan Magistrate Ex P Pincohet [2000] 1 A.C. 147
+      - Spain demanded that former President of Chile (General Pinochet) be extradited for the torture of Spanish citizens in Chile.  Pinochet was in Britain at the time for medical treatment.
+      - Spain argued, inter alia, that under the Universality Principle they had jurisdiction to try Pinochet.  
+      - House of Lords held that the international arrest warrant issued by Spain was valid 
+      - But only in relation to offences that occurred after U.K. had enacted s134 Criminal Justice Act 1988 - creating an offence of torture  “wherever committed worldwide” under U.K. law).  
+      - This was because of requirements of double criminality for extradition
+      - House of Lords also ruled that Pinochet had no right to immunity from prosecution as a former Head of State, and could be put on trial (we will look at this aspect in more detail next week).
+    - R v Bow Magistrates Ex P Pinochet [2000] 1 A.C. 147 per Lord Browne-Wilkinson
+      - “The jus cogens nature of the international crime of torture justifies States in taking universal jurisdiction over torture wherever committed. International law provides that offences of jus cogens may be punished by any state because the offenders are “common enemies of all mankind and all nations have an equal interest in their apprehension and prosecution”
+    - Democratic Republic of the Congo v Belgium (‘The Arrest Warrant Case’) ICJ Rep 2002, p3
+      - Belgium issued an international arrest warrant against Congo’s Foreign Minister Ndombasi for crimes considered to be grave breaches of International Humanitarian Law (Geneva Conventions & Protocols)
+      - Belgium claimed that it could exercise Universal Jurisdiction.  
+      - Congo argued that it was a violation of the principle that a State cannot exercise authority on the territory of another State and that it was also a violation of the principle of sovereign equality between States.
+    - Per Joint separate opinion of Judges Higgins, Hooijmans and Buergenthal
+      - Court upheld immunity from jurisdiction and we will look at that aspect of the case next week
+      -  But in the course of the judgments comments were made by judges on the issue of Universal Jurisdiction
+        - “That there is no established practice in which States exercise universal jurisdiction, properly so called, is undeniable. 
+        - As we have seen, virtually all national legislation envisages links of some sort to the forum State; and no case law exists in which pure universal jurisdiction has formed the basis of jurisdiction. 
+        - This does not necessarily indicate, however, that such an exercise would be unlawful…. State practice is neutral as to the exercise of universal jurisdiction". 
+  - Associated Concepts
+    - Multiple Sources – a State may have several grounds to support a claim for jurisdiction.
+    - Concurrent Jurisdiction – also possible to have a number of States with competing claims all wishing to exercise jurisdiction.
+    - Lockerbie case
+      - Scotland  - territorial
+      - USA – nationality / protective  / passive personality
+      - Libya – nationality
+      - Malta - territorial 
+    - ***Finally resulted in Scottish High Court of Justiciary applying Scottish Law, in the Netherlands (a neutral country)
+- State Jurisdiction
+  - Harvard Research in International Law (1935)
+    - Objective Territorial Principle 
+      - asserts that a state has the jurisdiction to prosecute crimes that are initiated outside its territory but have significant effects or consequences within its territory.
+      - AKA Territorial Principle: States have jurisdiction over acts committed within their territory.
+      - D.P.P. v Doot,
+      - R. v Bates,
+    - Principle of Universality: 
+      - asserts that a state has jurisdiction to prosecute certain offenses, regardless of where they were committed, and regardless of the nationality of the perpetrator or the victim, because the crimes are so serious that they affect the international community as a whole.
+      - Jus cogens
+    - Nationality Principle: 
+      - States have jurisdiction over their nationals, even when those nationals are abroad.
+    - Protective Principle: 
+      - States have jurisdiction over acts outside their territory that threaten the state's security, such as espionage or counterfeiting currency.
+      - doctrine  of the contiguous  zone
+        - Would  the  principle  allow  State  A to exercise  criminal  jurisdiction  over  the officials  of State  B in respect  of their actions  in the execution  of an  unfriendly  policy (e.g. a trade embargo)  of State  B towards  State  A?
+        - The doctrine provides coastal states with limited enforcement powers beyond their territorial sea, specifically related to customs, immigration, fiscal, and sanitary matters. While it does not confer full sovereignty, it allows states to protect their interests just beyond their territorial boundaries, balancing their rights with the freedoms of other states on the high seas.
+    - Passive Personality Principle: 
+      - States may claim jurisdiction over acts committed abroad that harm their nationals.
+      -  US v Yunis (No.2)
+  - Five heads of jurisdiction recognized by international law
+    - Territorial Jurisdiction: Authority over acts committed within a state’s own territory.
+    - Nationality (or Active Personality) Jurisdiction: Authority over a state’s nationals, regardless of where they are located.
+    - Passive Personality Jurisdiction: Authority over acts committed abroad that harm the state's nationals.
+    - Protective Jurisdiction: Authority over acts outside a state’s territory that threaten its security or governmental functions.
+    - Universal Jurisdiction: Authority over certain serious crimes (e.g., genocide, war crimes) that are recognized as affecting the international community as a whole, regardless of where they occur.
+## Week 5: Immunity from Jurisdiction
+
+- Immunity from Jurisdiction
+  - State Immunity
+    - Concept of Immunity is underpinned by the principles of State Sovereignty, reciprocity and State equality (par in parem non habet imperium – an equal does not have power over an equal).
+    - Concept of Immunity has developed with time and there has been a move from the traditional Absolute Immunity approach (where the State enjoyed complete immunity from domestic legal action) to a so called Restrictive Immunity approach (where the State only enjoys immunity under certain circumstances).
+    - Two key cases are important to understanding the difference
+      - The Schooner Exchange v McFaddon- (US Supreme Court) 1812 11 US 116 (7Cranch)-Absolute Immunity
+      - I Congreso Del Partido [1983] 1 A.C. 244- Restrictive Immunity
+  - State Immunity-Absolute Immunity
+    - The Schooner Exchange v McFaddon (US Supreme Court) 1812 11 US 116 (7Cranch)
+    - French navy vessel docked in Philadelphia
+    - Claimed it was in fact an American schooner called The Exchange.
+    - Issue: Did the court have jurisdiction to consider whether the vessel should be seized and returned to party who claimed they were rightful owner?
+      - Court held lacked jurisdiction because French navy vessel enjoyed immunity
+    - “.. Perfect equality and absolute independence of sovereigns… have given rise to a class of cases in which every sovereign is understood to waive the exercise of a part of that complete exclusive territorial jurisdiction which has been stated to be the attribute of every nation…a public armed ship…constitutes a part of the military force of her nation; acts under the immediate and direct command of the sovereign; is employed by him [sic] in national objects…interference cannot take place without affecting his power and his dignity. The implied licence, therefore, under which such vessel enters the friendly port, may reasonably be construed….as containing an exemption from the jurisdiction of the sovereign within whose territory she claims the right of hospitality..” Per Marshall CJ
+  - State Immunity- Restrictive immunity
+    - I Congreso Del Partido [1983] 1 A.C. 244
+      - Cubazucar (a cuban state owned enterprise) contracted to sell two ship loads of sugar to a Chilean company shipped on two vessels (Playa Larga and the Marble Islands) owned by another Cuban state enterprise Mambisa.
+      - Following the military coup by General Pinochet in Chile the Playa Larga only unloaded part of the sugar cargo in Chile and left port.
+      - The Marble Islands was diverted to North Vietnam
+      - Chilean purchasers of the cuban sugar then had a third Cuban vessel the I Congresso arrested in the UK claiming damages for breach of contract and in Tort
+      - The Cuban government entered a defence of state immunity and argued that the I Congresso could not be seized.
+    - “… I have no doubt that the “restrictive” doctrine should be applied to the present case…[T]he limitation… under the so called “restrictive theory”, arises from the willingness of states to enter into commercial, or other private law, transaction with individuals. It appears to have two main foundations: 
+      - (a) It is necessary in the interest of justice to individuals having such transaction with states to allow them to bring such transactions before the courts. 
+      - (b) To require a state to answer a claim based upon such transactions does not involve a challenge to or inquiry into any of sovereignty or government act of that state….neither a threat to the dignity of the state, nor any interference with its sovereign functions……commercial transaction…a commercial or private law, character…” 
+      - Per Lord Wilberforce
+    - “… Clearly a breach of a contract of that character was within the area of private law…simply (i) whether it could be said that the relevant contract was concluded for governmental purposes, and (ii) whether it was relevant that governmental motives were advanced for breaching the contract… 
+      - Under the “restrictive” theory the court has first to characterise the activity into which the defendant state has entered. 
+      - Having done this, and (assumedly) found it to be of a commercial or private law, character, it may take the view that contractual breaches, or torts, prima facie fall within the same sphere of activity. 
+      - It should then be for the defendant state to make a case…that the act complained of is outside that sphere, and within that of sovereign action” Per Lord Wilberforce
+  - Trendex Trading Corp v Central Bank of Nigeria [1977] Q.B. 529
+    - “…The doctrine grants immunity to a foreign government or its department of state or any body which can be regarded as an “alter ego or organ” of the government…. I confess that I can think of no satisfactory test except that of looking to the functions and control of the organisation. I do not think that it should depend on the foreign law alone. I would look to all the evidence to see whether the organisation was under government control and exercised governmental functions” per Denning M.R.
+  - State Immunity 
+    - Jurisdictional Immunities of the State (Germany v. Italy, with Greece intervening) ICJ Rep 2012, p.99
+      - “under customary international law as it presently stands, a State is not deprived of immunity by reason of the fact that it is accused of serious violations of international human rights law or the international law of armed conflict…
+      - The rules of State immunity are procedural in character and are confined to determining whether or not the courts of one State may exercise jurisdiction in respect of another State. 
+        - They do not bear upon the question whether or not the conduct in respect of which the proceedings are brought was lawful or unlawful.” [at para 91 & 94].
+  - State Immunity- Foreign State Immunities Act 1985 (Cth) 
+    - The general rule now is that activities must fall within the doctrine of governmental action (acta jure imperii def) and not be of a commercial nature (acta jure gestionis def) to attract immunity
+    - This approach to State Immunity is reflected in Australian Domestic Law by the Foreign State Immunities Act 1985 (Cth)
+      - s 9 General immunity from jurisdiction
+        - Except as provided by or under this Act, a foreign State is immune from the jurisdiction of the courts of Australia in a proceeding.
+    - s 11 Commercial transactions
+      - (1) A foreign State is not immune in a proceeding in so far as the proceeding concems a commercial transaction.
+      - (2) Subsection (I) does not apply:
+        - (a) if all the parties to the proceeding:
+          - (i) are foreign States or are the Commonwealth and one or more foreign States; or
+          - (ii) have otherwise agreed in or
+        - (b) in so far as the proceeding concems a payment in respect of a grant, a scholarship, a pension or a payment of a like kind.
+      - (3) In this section, commercial transaction means a commercial, trading, business, professional or industrial or like transaction into which the foreign State has entered or a like activity in which the State has engaged and, without limiting the generality of the foregoing, includes:
+        - (a) a contract for the supply of goods or services;
+        - (b) an agreement for a loan or some other transaction for or in respect of the provision of finance; and
+        - (c) a guarantee or indemnity in respect ofa financial obligation; but does not include a contract of employment or a bill of exchange.
+    - Section 12-Contracts of Employment
+    - Section 13 Personal Injury and damage to property
+    - Section 14-Ownership, use and possession to property
+    - Section 15-Copyright, patents and trademarks etc
+    - Section 16-Membership of bodies corporate
+    - Section 17-Arbitration
+    - Section 18-Actions in rem
+    - Section 19-Bills of exchange
+    - Section 20-Taxes
+    - United Nations Convention on Jurisdictional Immunities of States and the property (2004) (not yet in force)
+  - Heads of State, heads of government and foreign ministers
+    - Immunity ratione personae def = “a wide personal immunity extending to the totality of the person’s act, whether official or private”
+    - Immunity ratione materiae def = “applies not to the officials and representatives of a State but to the acts performed in their official or representative capacity ”
+    - Immunity of Head of State/ former Head of State
+      - R v Bow Street Metropolitan Magistrate Ex P Pinochet [2000] 1 A.C. 147
+        - In summary court held a former head of state has limited functional immunity (ratione materiae)- torture is not a state function therefore no immunity
+  - Immunity of Head of State/ former Head of State
+    - Al-Adsani v United Kingdom (2001) 34 E.H.R.R 273
+      - European Court of Human Rights
+      - Torture-thrown in to swimming pool full of dead bodies
+      - Emir of Kuwait
+      - Civil proceedings-damages for personal injury from torture
+      - Torture and lack of fair trial
+      - Held immunity still applies in relation to civil proceedings
+      - Criminal liability different to civil liability
+      - States still enjoy immunity from civil liability arising from torture
+      - But note there were strong dissenting opinions from other judges
+      - “WHAT A PITY” Judge Ferrari Bravo
+    - In the Case of The Prosecutor v Omar Hassan Ahmad Al-Bashir (International Criminal Court-2019)
+      - Jordan failed to act on arrest warrant
+      - No Head of State Immunity under the Rome Statute creating the International Criminal Court
+      - Jordan had a duty to arrest and deliver him to the court
+  - Immunity of Foreign Minister
+    - Democratic Republic of Congo v Belgium (The Arrest Warrant Case) I.C.J. Rep 2002, p3
+      - Belgium issued international arrest warrant against Congo’s Foreign Minister Ndombasi for crimes considered to be grave breaches of International Humanitarian Law (Geneva Conventions & Protocols)
+      - Belgium claimed that it could exercise Universal Jurisdiction. 
+      - Congo argued that it was a violation of principle that a State cannot exercise authority on territory of another State and that it was also a violation of the principle of sovereign equality between States.
+    - LAST WEEK WE LOOKED AT THIS CASE IN TERMS OF UNIVERSAL JURISDICTION BUT IT IS ALSO IMPORTANT ON QUESTION OF IMMUNITIES
+  - Diplomatic and consular immunity
+    - Diplomats are immune from all administrative, civil, criminal jurisdiction of the receiving State, to which they are accredited. 
+    - Generally, a Diplomats family will also enjoy the same immunities (provided they are not a citizen of the host State)
+    - Diplomats are unable to do their jobs/role without fear or favour. Concept is based on so-called ‘functional necessity’ theory.
+    - The criteria for diplomatic status are set out in the Vienna Convention on Diplomatic Relations 1961 (‘Vienna Convention’). 
+    - The Vienna Convention has been made part of Australian domestic law pursuant to the Diplomatic Privileges and Immunities Act 1967 (Cth)
+  - Diplomatic & Consular Immunity
+    - “diplomatic agent” (Art 1)
+    - Under the Vienna Convention, diplomats are considered inviolable and not subject to arrest or detention (art 29). 
+    - They are absolutely immune from criminal prosecution (art 31) and are immune from civil suite except in relation private activities outside their official functions (art 31).
+    - Important to note that the Immunity belongs to the State not the diplomat → immunity can be waved by the sending State
+  - Diplomatic & Consular Immunity
+    - Under the Vienna Convention, the Diplomatic Mission and its premises are considered to inviolable (art 22).
+    - The agents of the receiving State may not enter them, except with the consent of the head of mission.
+    - Mistaken belief is that this inviolability is because Diplomatic Mission premises is considered to be the sovereign territory of that particular State.
+    - Correct interpretation is based on ‘functional necessity’ theory = to be able to fulfil its function, a Diplomatic Mission must be free from all interference from other States. Honoured through notions of reciprocity and Sovereign State equality.
+      - Under the Vienna Convention art 27, the host State will permit and protect all free communications on behalf of the Mission – provided that it is for an official purpose. 
+    - Diplomatic bags are not to be opened or detained
+      - Host states can declare any member of the the diplomatic staff of the mission “persona non grata” (Art 9)
+  - U.S. Diplomatic and Consular Staff in Tehran Case (US v Iran) (1980) ICJ p 3
+    - 
+  - Armed Activities Case (Democratic Republic of Congo v Uganda) I.C.J. Rep 2005 p 168
+    - 
+    - Consular Immunity not as broad / absolute as Diplomatic Immunity – reason is that Diplomats are direct representatives of sending States dealing with high political issues, whereas Consular staff protect the interests of their fellow nationals in the receiving State (passports, legal assistance, administrative assistance, etc) 
+    - Consular staff and the lesser privileges and immunities that they enjoy are set out in the Vienna Convention on Consular Relations 1963 – implemented in Australia through the Consular Privileges and Immunities Act 1972. 
+  - Holland v Lempen-Wolfe [2000] 1 W.L.R. 1574 HoL
+    - The plaintiff, a US citizen, taught, under an agreement between the US Government and the American university at which she was a professor, an international relations course to US military personnel and their families at a US military base in England. 
+    - She brought defamation proceedings against the defendant, a US citizen, who was a civilian employed by the US Department of Defence as an education services officer at the base who had written a memorandum containing criticisms of the plaintiff's teaching. 
+      - The US claimed immunity on the defendant's behalf.
+    - Until  1975  England,  almost  alone  of the  major  trading  nations,  continued  to  adhere  to a pure,  absolute doctrine of  state immunity.
+    - This case was decided on the basis of the common law distinction between acts jure imperii and jure gestionis adopted in the / Congreso case, see para.6-059. 
+      - This emphasises the nature or context of the act, not its purpose. This common law distinction is also relevant to the interpretation of the 1978 Act, see para.6-072.
+  - UNITED  NATIONS  CONVENTION  ON  JURISDICTIONAL  IMMUNITIES  OF  STATES  AND THEIR  PROPERTY  2004 UN  Doc  A/RES/59/38;  (2005)  44 |.L.M.  801
