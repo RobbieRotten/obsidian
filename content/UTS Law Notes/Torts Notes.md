@@ -56,7 +56,7 @@
       - Salient features:
         - Vulnerability of P
         - Knowledge & control of D over risk
-        - EX: novel duty is if dr doesn’t save someone looking for help and dies right in front of him
+        - EX: novel duty is if dr doesn't save someone looking for help and dies right in front of him
       - Policy considerations
 - Breach
   - If a DoC is owned by defendant, have they breached that DoC by act/omission
@@ -67,7 +67,7 @@
       - (a) the risk was foreseeable 
         - a risk of which the person knew or ought to have known 
       - (b) the risk was not insignificant; and 
-      - (c) in the circumstances, a reasonable person in the person’s position would have taken those precautions. 
+      - (c) in the circumstances, a reasonable person in the person's position would have taken those precautions. 
   - When determining what precautions a reasonable person would have taken, Look @ s 5B(2) (Shirt calculus) (Mason CJ)
     - Consider (2)
       - (a) probability of harm occurring if care not taken;
@@ -137,7 +137,7 @@
           - (a) the standard of care required of the person who suffered harm is that of a reasonable person in the position of that person, and 
           - (b) the matter is to be determined on the basis of what that person knew or ought to have known at the time.
         - s 5S
-          - s 5S requires the courts to undertake the same comparison of parties’ culpability as required under the apportionment legislation
+          - s 5S requires the courts to undertake the same comparison of parties' culpability as required under the apportionment legislation
           - In determining the extent of a reduction in damages by reason of contributory negligence, a court may determine a reduction of 100% if the court thinks it just and equitable to do so, with the result that the claim for damages is defeated
       - intoxication 
         - s 50 
@@ -205,7 +205,7 @@
     - reasonable reliance by P
   - Knowledge of defendant that P will rely
 - s 5Q Liability based on non-delegable duty
-  - 1) The extent of liability in tort of a person (‘the defendant’) for breach of a non-delegable duty to ensure that reasonable care is taken by a person in the carrying out of any work or task delegated or otherwise entrusted to the person by the defendant is to be determined as if the liability were the vicarious liability of the defendant for the negligence of the person in connection with the performance of the work or task. 
+  - 1) The extent of liability in tort of a person ('the defendant') for breach of a non-delegable duty to ensure that reasonable care is taken by a person in the carrying out of any work or task delegated or otherwise entrusted to the person by the defendant is to be determined as if the liability were the vicarious liability of the defendant for the negligence of the person in connection with the performance of the work or task. 
   - (2) This section applies to an action in tort whether or not it is an action in negligence, despite anything to the contrary in section 5A.
 
 
@@ -292,7 +292,7 @@
     - is it fair for a party to retain the benefit of a bargain where the contract is hastily executed and the other party is a sick old man who received no independent advice and inadequate consideration? 
       - And the court's answer? No
 - Identify the reasoning which supported the decision and the ratio of the case.
-  - In this case it’s facts, so not much ratio (mostly appellate has ratio)
+  - In this case it's facts, so not much ratio (mostly appellate has ratio)
   - Defendant used precedent that was distinguished by judge due to material difference
     - Previous case gave seller time to move deliberately into transaction
   - Example ratio: where the sale of property is for a very inadequate consideration and the circumstances establish that the vendor requires the protection of the law, 
@@ -334,7 +334,7 @@
     - Measured in damage suffered
     - Miller v Miller (2011)
       - Central policy consideration
-      - principles applied in relation to the tort of negligence must be congruent with those applied in other areas of the civil law (most notably contract and trusts)’ 
+      - principles applied in relation to the tort of negligence must be congruent with those applied in other areas of the civil law (most notably contract and trusts)' 
   - Tort
     - Any form of civil action that is not a contract
       - Ex: personal injury, defamation, malicious prosecution, passing off, injurious falsehood, breach of contract
@@ -360,7 +360,7 @@
     - Should not act in harmful ways
     - Reasonable care to avoid acts or omissions reasonably seen to affect neighbor.
     - Vicarious liability
-      - fixes a person with responsibility for another’s act even where that first person has committed no wrong.
+      - fixes a person with responsibility for another's act even where that first person has committed no wrong.
       - deterrence may operate not upon the parties to the legal action but rather on others in the community who could potentially be held liable
   - Loss spreading
     - Allows victims to shift the costs that befall them to wrongdoers.
@@ -388,7 +388,7 @@
       -  compensation scheme for Australia, which included compensation not only for accident victims but also for those persons suffering serious debilitating illness not caused by accident
   - Currently NDIS and NIIS (injury) exist
   - National Injury Insurance Scheme (NIIS) 
-    - ongoing necessary care for all ‘new’ cases of catastrophic injury caused by motor accidents, regardless of fault. 
+    - ongoing necessary care for all 'new' cases of catastrophic injury caused by motor accidents, regardless of fault. 
       - Medical only, no income supplement
   - Non-pecuniary loss 
     - that is general damages)
@@ -399,10 +399,10 @@
     - If person is there due to employer engaged person to be or engaged to participate in
   - The main benefits payable under Australian workers compensation legislation are: 
     - periodic or weekly payments (to replace wages) for total or partial incapacity for work; 
-    - lump sums for permanent disability (calculated by reference to ‘whole person permanent impairment’); 
+    - lump sums for permanent disability (calculated by reference to 'whole person permanent impairment'); 
     - pain and suffering (subject to a serious impairment threshold);
     - death benefits payable to the dependants of a deceased worker; and 
-    - medical and care expenses and other ‘out of pocket’ expenses
+    - medical and care expenses and other 'out of pocket' expenses
   - NSW common law
     - Damages available severely restricted by Workers Compensation Act 1987 (NSW)
     - Past loss of income and loss of earning capacity
@@ -415,7 +415,7 @@
     - NSW payment up to 75k + funeral assistance fund + personal apology
 - Tutorial notes:
   - Cause of action
-    - Reason for suit “cause of action:battery for nose punch”
+    - Reason for suit "cause of action:battery for nose punch"
 # Week 2 - Ch 2: The Nature of Intentional Torts 
 
 - Scott v Shepherd (1773) 96 ER 525
@@ -427,21 +427,21 @@
   - trespass vi et armis argument
     - Consequential event that may not have happened had it not been for people passing it around
       - But not direct consequence bc squib could not have hurt plaintiff if person did not throw it again
-    - But argument that didn’t matter if on accident was null, throwing rock over wall is still manslaughter
+    - But argument that didn't matter if on accident was null, throwing rock over wall is still manslaughter
   - Men acted in self defense in passing squib around
 - The Nature of Intentional Torts 
-  - ‘intentional torts’ exist to protect an individual’s person or property rights from unwanted interference by others. 
+  - 'intentional torts' exist to protect an individual's person or property rights from unwanted interference by others. 
   - Trespass torts
-    - prevent a right being infringed – a right over one’s own person, goods or land.
+    - prevent a right being infringed – a right over one's own person, goods or land.
 - What is the Difference Between Trespass and Case? 
   - Historical foundation in writ system developed in 13th century England.
     - Writ
       - Forms of action giving individuals the right to pursue through court
       - If no writ, no remedy
     - Modern writ - torts based on
-      - Writ of ‘trespass’
+      - Writ of 'trespass'
       - Writ of trespass on the case
-        - Aka ‘case’
+        - Aka 'case'
         - Aka case of action in tort law
     - Commonly known as 
       - Trespass
@@ -450,14 +450,14 @@
         - Became tort of negligence
       - Difference between the two
         -  Proof of damage 
-          - Case: It is necessary for the plaintiff to prove physical injury or property damage – damage is the ‘gist of the action’. 
-          - Trespass: Is actionable ‘per se’ (by itself). 	 
+          - Case: It is necessary for the plaintiff to prove physical injury or property damage – damage is the 'gist of the action'. 
+          - Trespass: Is actionable 'per se' (by itself). 	 
             - It is not necessary for the plaintiff to prove any damage
         -  The nature of the interference
           - Case: Based on indirect or consequential interference. 
           - Trespass: Based on direct interference.
         -  Onus of proof 
-          - Case: The plaintiff bears the burden to prove all elements of the claim including the defendant’s fault (actions and intention). 
+          - Case: The plaintiff bears the burden to prove all elements of the claim including the defendant's fault (actions and intention). 
           - Trespass: The plaintiff bears the burden to prove the facts which constitute the trespass but not the fault of the defendant.
             - The onus is on the defendant to prove lack of fault.
       - Trespass protects a plaintiff from direct interference; case protects a plaintiff from indirect interference.
@@ -468,34 +468,34 @@
     - Trespass to Person (being Battery, Assault and False Imprisonment), 
     - Trespass to Land 
     - And Trespass to Goods. 
-  - Must all prove that the defendant's intentional (or reckless or negligent) act directly caused an interference with the plaintiff’s person, goods or land.
+  - Must all prove that the defendant's intentional (or reckless or negligent) act directly caused an interference with the plaintiff's person, goods or land.
   - Intentional, reckless or negligent act: fault 
     - fault is the basis of liability in trespass. 
     - Intentional conduct in trespass encompasses deliberate, reckless or negligent actions. 
       - It is not necessary that the intent of the defendant should be hostile and it need not include an intent to injure or harm the plaintiff.
-    - Recklessness is where the consequences of the defendant’s acts are not certain but the defendant is so indifferent to the consequences of his or her acts that the result must have been or should have been foreseen. 
+    - Recklessness is where the consequences of the defendant's acts are not certain but the defendant is so indifferent to the consequences of his or her acts that the result must have been or should have been foreseen. 
   - Negligent trespass and the tort of negligence 
-    - ‘intentional infliction of harm cannot be pleaded as negligence’ (602-603). 
+    - 'intentional infliction of harm cannot be pleaded as negligence' (602-603). 
     - Williams v Milotin (1957) 97 CLR 465 established that trespass to person by battery may be committed by a negligent act.
       - Negligent conduct would satisfy the elements of the tort of assault, another trespass to person tort.
       -  unable to bring an action in trespass due to the statutory limitation period but it was held that an action in negligence was also available on the facts. 
   -  Directness
     -  Hutchins v Maughan [1947] VLR 131, 13
-      - element of directness is satisfied where the contact ‘follows so immediately upon the act of the defendant that it may be termed part of that act’.
+      - element of directness is satisfied where the contact 'follows so immediately upon the act of the defendant that it may be termed part of that act'.
       -  trespass is based on direct interference whereas case (trespass on the case, aka negligence tort) is based on indirect or consequential interference.
   - Immediacy
     -  Reynolds v Clarke (1725) 1 Str 634: 
       - If a man throws a log into highway, if it hits me - trespass, but if it lies there and I injure myself, I must bring an action upon the case
-  - Continuation of the defendant’s act: ‘no new power’ 
+  - Continuation of the defendant's act: 'no new power' 
     - Scott v Shepherd (1773) 2 Wm Bl 892; 96 ER 525, the defendant threw a firework (a squib) in a crowded marketplace
     - Was thrown around to prevent interference
       -  The court (by majority) held that this contact was a direct interference with the plaintiff and that the defendant was liable in trespass.
-      - No new power of doing mischief was communicated to it by Willis or Ryal’ 
+      - No new power of doing mischief was communicated to it by Willis or Ryal' 
   - No intervening event 
     - Southport Corporation v Esso Petroleum Co Ltd [1954] 2 QB 182,
       - failed to establish directness between the act of the master of a ship owned by Esso in discharging oil into a river and the subsequent pollution of the foreshore by the oil which was carried there by the tide
         - Not the direct act of the person who spilled the oil
-      - the force of the wind or of moving water is employed [by the defendant] to cause a thing to go on to land’ and held that may amount to a trespass
+      - the force of the wind or of moving water is employed [by the defendant] to cause a thing to go on to land' and held that may amount to a trespass
   - Loss or damage 
     - Trespass is actionable per se; this means that loss or damage is not part of the cause of action.
     - Damages for trespass to the person
@@ -504,7 +504,7 @@
       - indignity, 
       - disgrace 
       - and mental suffering which may have occurred
-    - Aggravated damages are awarded as compensation for a plaintiff’s injured feelings
+    - Aggravated damages are awarded as compensation for a plaintiff's injured feelings
     -  Fontin v Katapodis (1962) 108 CLR 17
       - Defendant threw piece of glass at plaintiff after plaintiff hit defendant with measuring stick after being accused
       - where a plaintiff has provoked an act, exemplary damages may be reduced.
@@ -519,11 +519,11 @@
     - In negligent trespass cases, the prosecution proves the issue happened, defence must prove why it happened
       - ack of intention or negligence or that the act was not voluntary in order to disprove fault
   - Civil Liability Legislation and Intentional Torts 
-    - civil liability legislation excludes ‘an intentional act that is done with intent to cause injury or death or that is sexual assault or other sexual misconduct’
+    - civil liability legislation excludes 'an intentional act that is done with intent to cause injury or death or that is sexual assault or other sexual misconduct'
     - so if an act is intentional such as battery, trespass, or restriction of movement, we go to common law and not CLA
     - NSW s 3B(1)(a) of the Civil Liability Act 2002,
       - New South Wales v Ibbett (2005) 65 NSWLR 
-        - Claim against police for assault and trespass to land intentional act ... at least done with intent to injure, will take the matter outside the operation of the Civil Liability Act, by virtue of s 3B(1)(a)’
+        - Claim against police for assault and trespass to land intentional act ... at least done with intent to injure, will take the matter outside the operation of the Civil Liability Act, by virtue of s 3B(1)(a)'
         - does not exclude intentional torts. 
         - Intent to cause injury
   - Civil Liability Legislation Effects:
@@ -555,7 +555,7 @@
       - Protects mental wellbeing
     - Tort of false imprisonment 
       - Protects liberty
-  - a trespass to person claim will be subject to the civil liability legislation unless the defendant’s act was an intentional act done with intent to cause injury or death.2
+  - a trespass to person claim will be subject to the civil liability legislation unless the defendant's act was an intentional act done with intent to cause injury or death.2
 - Battery
   - battery 
     - is an intentional act by a person which directly causes contact with the body of another.
@@ -568,15 +568,15 @@
       - 3. causes contact with the body of the plaintiff
   - Battery intentional act directly causing contact with the plaintiff 
     - Fault is an essential element in trespass and refers to the intentional 
-    - or reckless or negligent nature of the defendant’s act.
+    - or reckless or negligent nature of the defendant's act.
     - Consequential contact wll not amt to trespass
   - Contact with the body 
     - Any physical contact
       - Even with object or instrument
       - Darby v Director of Public Prosecutions (2004)
-        - ‘bunting and nudging’ of a person’s genital area by a police search dog was a battery by the dog’s handler. 
+        - 'bunting and nudging' of a person's genital area by a police search dog was a battery by the dog's handler. 
       - may all amount to battery.
-        - spitting in someone’s face (R v Cotesworth (1704) 87 ER 928), 
+        - spitting in someone's face (R v Cotesworth (1704) 87 ER 928), 
         - an unwelcome kiss, 
         - a sexual assault (Moon v Whitehead [2015] ACTCA 17), 
         - or hitting a person with a missile or object such as a water bomb or a stick or a firework (Scott v Shepherd (1773) 2 Wm Bl 892; 96 ER 525) 
@@ -587,14 +587,14 @@
       - A battery must be a positive and affirmative act causing some form of contact that is outside the accepted usages and accidental contacts of daily life. 
       - Contact in malice
     - Must be a positive act (positively did something, not an omission to act)
-      - Innes v Wylie (1844) 174 ER 800, a policeman was held not to have committed a battery when he stood ‘entirely passive like a door or a wall put to prevent the plaintiff from entering the room’ (803, Lord Denman CJ).
+      - Innes v Wylie (1844) 174 ER 800, a policeman was held not to have committed a battery when he stood 'entirely passive like a door or a wall put to prevent the plaintiff from entering the room' (803, Lord Denman CJ).
       - But exemption exists 
         - Fagan v Metropolitan Commissioner of Police [1969] 1 QB 439
         - While parking as directed, motorist accidentally drove onto policeman foot
           - Motorist stopped the engine and briefly refused to move
           - Original act was not intentional nor negligent
             - Not battery
-          - But deliberately ignoring the policeman’s plea and delaying the removal of the car from the plaintiff’s foot was a battery
+          - But deliberately ignoring the policeman's plea and delaying the removal of the car from the plaintiff's foot was a battery
   - Elements of assault 
     - The elements of the tort of assault are: 
       - 1. an intentional positive voluntary act (or threat) by the defendant 
@@ -602,7 +602,7 @@
         - 3. a reasonable apprehension of 
         - 4. imminent physical contact.
     - Often intentional act
-    - An assault is the plaintiff’s apprehension of impending contact with his body.
+    - An assault is the plaintiff's apprehension of impending contact with his body.
       - An assault must cause a reasonable apprehension in the plaintiff that imminent contact is about to take place
       - Knowledge of threat such as advancing threateningly, but creeping behind is not
       - Does not require fear
@@ -628,8 +628,8 @@
       - Police diving under garage in pursuit, pointing gun, threating the mom
   - Do words alone constitute a threat? 
     - Fogden v Wade [1945] NZLR 72
-      - accused was standing in the driveway of the young woman plaintiff’s hostel
-      - Don’t go in yet, you’ve got time for a “quick one”’
+      - accused was standing in the driveway of the young woman plaintiff's hostel
+      - Don't go in yet, you've got time for a "quick one"'
         - If the oral statement is made with the requisite intention by the defendant and directly causes in the plaintiff, a reasonable apprehension of imminent bodily contact, it is an assault.
   - Apprehension
     - An intention on the part of the defendant to cause apprehension in the plaintiff that a battery is about to occur is required for assault
@@ -637,10 +637,10 @@
       - Brady v Schatzel; Ex parte Brady [1911] St R Qd 206
   - Apprehension must be of imminent contact 
     - Zanker v Vartzokas (1988)
-      - Guy offered girl lift, offered her money for sexual favors, accelerated upon refusal, said I am going to take you to my mate’s house. He will really fix you up’.
+      - Guy offered girl lift, offered her money for sexual favors, accelerated upon refusal, said I am going to take you to my mate's house. He will really fix you up'.
       - Held that this was of imminent contact - even though future
     -  Barton v Armstrong [1969] 2 NSWR 451, 
-      - Armstrong threatened over the telephone, to take Barton’s life if he did not sign a deed.
+      - Armstrong threatened over the telephone, to take Barton's life if he did not sign a deed.
         - Never said when, but seemingly imminent
       - Street J found Armstrong had indeed threatened to have Barton killed
   - Conditional threats 
@@ -652,9 +652,9 @@
             - Acceptable because he is a tutor here
       - Where the actions of the defendant are used to manipulate the plaintiff, there may be an assault
       - Police v Greaves [1964] NZLR 29
-        - Don’t you bloody move. You come a step closer and you will get this straight through your guts’. 
+        - Don't you bloody move. You come a step closer and you will get this straight through your guts'. 
         - The police withdrew. 
-          - Even though the threat was conditional on the policemen moving forward, the court held it was an assault as the ‘menacing attitude of the respondent caused the police officers to retire’
+          - Even though the threat was conditional on the policemen moving forward, the court held it was an assault as the 'menacing attitude of the respondent caused the police officers to retire'
   - Damages 
     - Damages awarded to a plaintiff for an assault may reflect the lack of actual damage,
     - Stephens v Myers (1830) 4 C & P 34
@@ -671,7 +671,7 @@
         - 2. directly causing 
         - 3. The total deprivation of the liberty of the plaintiff.
     - False imprisonment intention and Directness 
-      - defendant’s act must be intentional
+      - defendant's act must be intentional
       - Negligently
         - locking up of a library by a security worker, where a person remains inside, unknown to the security worker. 
         - Must sue under tort of negligence then prove damage
@@ -680,7 +680,7 @@
     - So, the courts will, in appropriate, though rare, cases, consider matters of public policy in deciding whether a cause of action in a trespass tort will be available
   - Total deprivation of liberty 
     - False imprisonment requires a total deprivation of liberty.
-    - Total restriction of a person’s freedom of movement
+    - Total restriction of a person's freedom of movement
       - Bird v Jones (1845) 1 QB 742
       - The escape route has to be plausible to hold it against plaintiff
   - Duration of false imprisonment 
@@ -696,7 +696,7 @@
   - What actions may constitute false imprisonment? 
     - There need not be any force or contact.
     - in the absence of any physical restriction on movement, a person wholly submits to the authority and control of another, that will amount to imprisonment. 
-      - for false imprisonment to be brought about by ‘psychological’ means, the plaintiff must be detained as a ‘coercive consequence’ of the defendant’s actions or words and the defendant’s conduct must be shown to have caused the plaintiff’s detention: to have ‘overborne the plaintiff’s will’.
+      - for false imprisonment to be brought about by 'psychological' means, the plaintiff must be detained as a 'coercive consequence' of the defendant's actions or words and the defendant's conduct must be shown to have caused the plaintiff's detention: to have 'overborne the plaintiff's will'.
     - Cowell v Corrective Services Commission of New South Wales (1988) 13
       - even where corrective service authorities have acted in good faith, they can nevertheless be held liable for false imprisonment;
     - In New South Wales v Abed [2014] NSWCA 419 it was confirmed that police must inform the arrested person of the true ground upon which the arrest is made. 
@@ -719,63 +719,63 @@
 # Week 3: Ch 5 - Intentional Torts II
 
 - Trespass to Land
-  - Trespass to land is a voluntary, positive and intentional (or negligent) act that directly interferes physically with the plaintiff’s exclusive possession of the land
+  - Trespass to land is a voluntary, positive and intentional (or negligent) act that directly interferes physically with the plaintiff's exclusive possession of the land
     - Entick v Carrington (1765) 2 Wils 275.
   - 5.2 Actionable Per Se 
     - interests of a person in actual possession of land remain free from unwanted physical interference. 
     - Without proof of damage
     - Dumont v Miller (1873) 4 AJR 152,
-      - entered upon the plaintiff’s land to hunt. The defendant was successfully sued for trespass despite there being no damage to the plaintiff’s property. 
+      - entered upon the plaintiff's land to hunt. The defendant was successfully sued for trespass despite there being no damage to the plaintiff's property. 
     - Entick v Carrington (1765) 2 Wils KB 275
-      - Our law holds the property of every man so sacred that no man can set foot upon his neighbor’s close without his leave. If he does, he is a trespasser, though he does no damage at all; if he will tread upon his neighbor’s ground he must justify it by law. (291)
+      - Our law holds the property of every man so sacred that no man can set foot upon his neighbor's close without his leave. If he does, he is a trespasser, though he does no damage at all; if he will tread upon his neighbor's ground he must justify it by law. (291)
     - Whether the plaintiff is the legal owner of the land is also irrelevant
       - Must simply be the person in possession of land
         - onus is on the defendant, who claims to have the consent, leave or licence of the plaintiff, to plead and prove that fact: 
           - Islamic Association of Wanneroo (Inc) v Al-Hidayah Mosque (Inc) (No 2) [2009] 
     - Trespass must be voluntary and intentional. 
       - Carina James v North Star Pastoral [2019] NTSC 72 
-        - it was held to be trespass where the defendant mistakenly built a fence 2 metres inside the boundary of the plaintiff’s land.
-      - Trespass requires direct interference by the defendant with the plaintiff’s property. 
+        - it was held to be trespass where the defendant mistakenly built a fence 2 metres inside the boundary of the plaintiff's land.
+      - Trespass requires direct interference by the defendant with the plaintiff's property. 
   - Title to sue
     - In order to maintain an action in trespass to land, a plaintiff must establish exclusive possession of the land that is the subject of the claim
     - A tenant in possession of leased land may also sue the owner in trespass: 
       - Rodrigues v Ufton (1894) 20 VLR 539; Moore v Devanjul Pty Ltd (No 5) [2013] QSC 323. 
     -  Newington v Windeyer (1985) 3 NSWLR 55
-      - even though there was no registered owner of ‘The Grove’, the plaintiffs were in exclusive possession of the land and the defendant’s acts constituted a trespass.
+      - even though there was no registered owner of 'The Grove', the plaintiffs were in exclusive possession of the land and the defendant's acts constituted a trespass.
     - Georgeski v Owners Corporation SP49833 (2004) 62 NSWLR 534
       -  holder of a licence is not able to claim exclusive rights to possession
-      - holder acknowledges that this licence does not confer exclusive possession of the premises upon the holder’
-        - plaintiff sought an injunction to restrain her neighbors’ use of the area, on the basis that they were trespassers.
+      - holder acknowledges that this licence does not confer exclusive possession of the premises upon the holder'
+        - plaintiff sought an injunction to restrain her neighbors' use of the area, on the basis that they were trespassers.
     - Cowell v Rosehill Racecourse Co Ltd (1937) 56 CLR 605
       - purchase of a ticket to the racecourse was a contractual arrangement and did not confer any possessory right on the plaintiff.
     - Kuru v New South Wales (2008) 236 CLR 1, [54]
       - police became trespassers when they failed to leave the premises within a reasonable time of having been asked to do so by the occupier. 
   - 5.6 The Nature of Land 
     - definition of land for the purposes of an action in trespass has presented some problems for the courts with advances in technology
-    - Historically cuius est solum, eius est usque ad coelum et ad inferos’: 
-      - translated as ‘whoever’s is the soil, it is theirs all the way to Heaven and all the way to Hell’.
+    - Historically cuius est solum, eius est usque ad coelum et ad inferos': 
+      - translated as 'whoever's is the soil, it is theirs all the way to Heaven and all the way to Hell'.
     - Modern def: 
       - Bernstein of Leigh v Skyviews & General Ltd [1978] QB 479, 
         - rights of the person in possession of land extend only as far up into the air as is reasonably necessary for the use and enjoyment of the land. 
     - It is a trespass to tunnel under land.
     - In Australia, mining rights are vested in the Crown and are regulated by statute, though at common law they would belong to the landholder
     - Di Napoli v New Beach Apartments Pty Ltd (2004) Aust Torts Reps ¶81-728, 
-      - the defendant construction company had employed ‘rock anchors’ which projected into the earth beneath the plaintiff’s land. 
+      - the defendant construction company had employed 'rock anchors' which projected into the earth beneath the plaintiff's land. 
       - In the New South Wales Supreme Court Young CJ in Equity held that there had been a trespass: 
     - Bernstein of Leigh v Skyviews & General Ltd [1978] QB 479, 
       - the defendants flew a plane over the stately home of the plaintiff to take an aerial photograph of it, which they later offered for sale to the plaintiff. 
-      - defendant’s action did not constitute a trespass because there was no authority to support the argument that the plaintiff’s rights in land extended to an unlimited height. 
+      - defendant's action did not constitute a trespass because there was no authority to support the argument that the plaintiff's rights in land extended to an unlimited height. 
     - Bathurst CC v Saban (1985) 2 NSWLR 70
       - Photos from area legally allowed to be on are not considered incursions, even if photo trespasses. 
     - Access to Neighbouring Land Act 2000.
       - Allows individuals to apply for an order from the Local Court to access adjacent land for the purposes of carrying out work on their own land. 
       - It also provides for others (such as builders) to apply for such orders with the consent of the person upon whose behalf the work is to be carried out
   -  5.7 Nature of the Physical Interference 
-    - a trespass may be committed without the defendant actually entering upon the plaintiff’s land at all, 
+    - a trespass may be committed without the defendant actually entering upon the plaintiff's land at all, 
       - so long as the defendant directly causes some object to come into contact with the property. 
-        - where a defendant causes a bulldozer to move soil or rocks onto the plaintiff’s property (Watson v Cowan [1959] Tas SR 194) 
-          - or allows cattle to go on the plaintiff’s land (Yakamia Dairy Pty Ltd v Wood [1976] WAR 57; Lade & Co Pty Ltd v Black [2005] QSC 325) 
-        - or fires a bullet into the air across the plaintiff’s property (Davies v Bennison (1927) 22 Tas LR 52), a trespass is committed
+        - where a defendant causes a bulldozer to move soil or rocks onto the plaintiff's property (Watson v Cowan [1959] Tas SR 194) 
+          - or allows cattle to go on the plaintiff's land (Yakamia Dairy Pty Ltd v Wood [1976] WAR 57; Lade & Co Pty Ltd v Black [2005] QSC 325) 
+        - or fires a bullet into the air across the plaintiff's property (Davies v Bennison (1927) 22 Tas LR 52), a trespass is committed
     - Trespass by a licensee 
       - an express license can be given when the occupier specifically gives permission for a person to enter the property 
         - – for example, when one buys a ticket for a movie or entry to a museum. 
@@ -787,7 +787,7 @@
       - Mr. Wilson asked police to leave, but police seized him, open screendoor.
         - Appeal held no trespass as he implied that he was not the owner of the property when calling for Mrs Wilson
         - Mr Wilson had denied ownership and any authority to revoke the licence.
-        - The court referred with approval to the ‘tentative view’ expressed in New South Wales v Koumdjiev [2005] NSWCA 247, [53] 
+        - The court referred with approval to the 'tentative view' expressed in New South Wales v Koumdjiev [2005] NSWCA 247, [53] 
         - that where there is an implied licence from co-owners, it cannot be revoked by one of them alone
     - Trespass also applies where person surpasses license had been given
       - Usually illegal acts
@@ -802,8 +802,8 @@
     - Plenty v Dillon (1991) 171 CLR 635,
       - Constable Dillon entered the farm to serve summons to 14 year old and was sued for trespass on the ground that Mr Plenty had withdrawn any express or implied consent for any police constable to enter his farm to serve a summons on his child
       - entry to serve a summons did not fall within any exception to the common law rules of trespass to land, 
-    - Roy v O’Neill [2020] HCA 4
-      - considers the breadth of the ‘lawful communication’ purpose for which a licence to enter property may be implied on the authority of Halliday v Nevill.
+    - Roy v O'Neill [2020] HCA 4
+      - considers the breadth of the 'lawful communication' purpose for which a licence to enter property may be implied on the authority of Halliday v Nevill.
       - The High Court held unanimously that there was no trespass by the police officer: 
         - that the implied licence to enter as far as the front door encompassed the purpose of checking on the welfare of an occupant
         - Came for a legal reason, developed a suspicion, asked for person to comply. 
@@ -851,7 +851,7 @@
     - no separate common law tort in Australia which protects privacy
     - Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd (2001) 208 CLR 19
       - Defendant did not trespass as they purchased from person who did trespass
-      - Limit to trespass laws, and there’s no privacy law to protect meat company
+      - Limit to trespass laws, and there's no privacy law to protect meat company
       - No injunction
       - Judges wanted to create privacy policy but lenah game meats did not bring up the tort of privacy
   - 5.8 Remedies 
@@ -879,7 +879,7 @@
 
 - 7.2 Self-Defence of the Person and of Property 
   - Self defence in tort of trespass
-    - plaintiff’s conduct threatens the defendant’s person or property, or the person or property of another, and the defendant is justified in acting to prevent that occurring.
+    - plaintiff's conduct threatens the defendant's person or property, or the person or property of another, and the defendant is justified in acting to prevent that occurring.
     -  Watkins v Victoria (2010) 27 VR 543:
       - Reasonable action test
         - defendant must have believed at the time when he committed the relevant act that what he was doing was necessary; 
@@ -888,19 +888,19 @@
 - New South Wales civil liability legislation and self-defence 
   - Part 7 of the Civil Liability Act 2002 (NSW) deals with self-defence and recovery of damages by criminals.
   - New South Wales v McMaster (2015) 91 NSWLR 66
-    - unlawful’ is ‘not confined to criminal conduct’ and includes tortious conduct
+    - unlawful' is 'not confined to criminal conduct' and includes tortious conduct
     - Section 52(3) of the New South Wales Act limits the statutory defense of self-defence.
     -  Croucher v Cachia [2016] NSWCA 132
-      - ‘unlawful’ conduct in ss 52 and 53 of the Civil Liability Act includes conduct that is merely tortious (in that case, an assault)
+      - 'unlawful' conduct in ss 52 and 53 of the Civil Liability Act includes conduct that is merely tortious (in that case, an assault)
       - Common law defense does not have to be for unlawful action
       - Statutory self defense can determine if exceptional circumstances, is a broader defence
     - Brighten v Traino [2019] NSWCA 168
       - Ms Brighten held the shirt of defendant when he was removing her friend from a bar
       - Mr Richardon smacked plaintiff hard enough to fracture her jaw
       - Court of Appeal found that her actions were similar to everyday action when he stepped into a brawl then backed into Ms Brighten
-    - Where a plaintiff’s conduct has been found to be unlawful, s 52 prescribes two further conditions to establish a defence of self-defence
+    - Where a plaintiff's conduct has been found to be unlawful, s 52 prescribes two further conditions to establish a defence of self-defence
       - requisite subjective belief that defensive conduct was necessary 
-      - defendant’s conduct was a reasonable response 
+      - defendant's conduct was a reasonable response 
     - Presidential Security Services of Australia Pty Ltd v Brilley
       - under s 52, the onus of proof is on the defendant to plead and prove, on the balance of probabilities, that the conduct was carried out in self-defence 
       - [I]ntent to cause injury does not negate the defence of self-defence.
@@ -916,7 +916,7 @@
       - (c) believes their life is in danger or that the attack or threatened attack will cause serious bodily harm
     - Degree of force
       - McClelland v Symons [1951] VLR 157
-        - ‘The law denies to a person assaulted the right to strike a further blow by way of revenge’ (162, Sholl J). 
+        - 'The law denies to a person assaulted the right to strike a further blow by way of revenge' (162, Sholl J). 
         - No longer self-defense
     - No other option available 
       - Fontin v Katapodis(1962) 108 CLR 17
@@ -931,7 +931,7 @@
         - In civil cases, however, the onus of proof rests with those relying on the defence: 
           - the defendant must prove that what he or she did was based on a reasonable belief that their life or safety was in serious danger and that the use of force was reasonably necessary (Pearce v Hallett [1969] SASR 423).
       - Carter v Walker [2010] VSCA 34
-        - Officers in domestic all were acting in “self defense” by placing male plaintiff in headlock and striking with batton after flashing 67 year old mother in eye with flashlight and touching on shoulder
+        - Officers in domestic all were acting in "self defense" by placing male plaintiff in headlock and striking with batton after flashing 67 year old mother in eye with flashlight and touching on shoulder
         - Held not self defense
           - must be an honest and reasonable belief that an attack is being made, or that it is imminent. 
   - Defence of another person at common law 
@@ -941,17 +941,17 @@
         - Was the response excessive
         - Was it justifiable
     - Goss v Nicholas [1960] Tas SR 133 Crawford J stated: 
-      - ‘I take the law to be that a person is entitled to use force to prevent a stranger from being assaulted if he has reasonable grounds for believing that an assault upon that stranger is about to take place’ (144).
+      - 'I take the law to be that a person is entitled to use force to prevent a stranger from being assaulted if he has reasonable grounds for believing that an assault upon that stranger is about to take place' (144).
       - Even if not in danger, as long as there was the belief that the other person was in danger
   - Defence of property at common law 
     - Hackshaw v Shaw (1984) 155 CLR 614, 
-      - defendant was held to have acted unreasonably and to be liable in negligence for the plaintiff’s injury while shooting to defend property 
-    - The defence of property includes the use of ‘self-help’: that is, a person who has exclusive possession to land may re-enter the land using reasonable force and eject a person who is not entitled to be there.
-      - Extends to entering upon another’s land for the purpose of retaking possession of goods after a request for their return. 
+      - defendant was held to have acted unreasonably and to be liable in negligence for the plaintiff's injury while shooting to defend property 
+    - The defence of property includes the use of 'self-help': that is, a person who has exclusive possession to land may re-enter the land using reasonable force and eject a person who is not entitled to be there.
+      - Extends to entering upon another's land for the purpose of retaking possession of goods after a request for their return. 
         - (see Anthony v Haney & Harding (1832) 8 Bing 186)
-  - Defence of another’s property at common law 
+  - Defence of another's property at common law 
     - Workman v Cowper [1961] 2 QB 14
-      - a hunting dog was shot dead by the respondent as he believed the dog posed a future threat to other people’s livestock, 
+      - a hunting dog was shot dead by the respondent as he believed the dog posed a future threat to other people's livestock, 
         - even though no damage had been caused at the time of the shooting. 
       - The court held that the shooting of the dog was not reasonable because the dog posed no real or imminent threat of danger to the livestock
         - s 52 of the Civil Liability Act 2002 provides that a person will not incur civil liability for conduct carried out in self-defence or in defence of another person or of liberty or property, if the conduct to which they are responding is unlawful
@@ -967,13 +967,13 @@
       - inter-relationship between s 54 and the common law concerning the duty of care in negligence 
       - 54 did not displace or alter the common law principles that proscribe imposition of a duty of care where parties are involved in a joint illegal enterprise ([24], 
 - Consent
-  - a civil action will not be successful if consent has been given to the act which caused interference with the plaintiff’s person or property
-    - Secretary, Department of Health and Community Services v JWB and SMB (‘Marion’s Case’) (1992) 175 CLR 21
-      - ‘[c]onsent ordinarily has the effect of transforming what would otherwise be unlawful into accepted, and therefore acceptable, contact’
-    - dictates which party bears the onus of proving the plaintiff’s consent or the absence thereof, as consent is an element of the tort of trepass
+  - a civil action will not be successful if consent has been given to the act which caused interference with the plaintiff's person or property
+    - Secretary, Department of Health and Community Services v JWB and SMB ('Marion's Case') (1992) 175 CLR 21
+      - '[c]onsent ordinarily has the effect of transforming what would otherwise be unlawful into accepted, and therefore acceptable, contact'
+    - dictates which party bears the onus of proving the plaintiff's consent or the absence thereof, as consent is an element of the tort of trepass
   - Onus of proof of consent 
     - consent is characterised as a defence to a trespass claim with the onus of proof therefore resting upon the defendant
-    - Held in Secretary, Department of Health and Community Services v JWB and SMB (‘Marion’s Case’) (1992) 175 CLR 21
+    - Held in Secretary, Department of Health and Community Services v JWB and SMB ('Marion's Case') (1992) 175 CLR 21
   - Consent may be express (written or oral) or implied (from conduct). 
     - In order to be valid consent must: 
       - (a) be voluntary; 
@@ -983,7 +983,7 @@
   - Voluntary consent 
     - If the consent is obtained through duress or fraud, it will not be valid. 
     - Freeman v Home Office (No 2) [1984] 2 WLR 13
-      - that ‘duress and relative strength of bargaining power are always questions of fact’ 
+      - that 'duress and relative strength of bargaining power are always questions of fact' 
     - Norberg v Wynrib [1992] SCR 22
       - duress was proven
       - unequal power relationship between the parties was decisive.
@@ -992,15 +992,15 @@
       - intercourse with her singing teacher 
         - persuaded her that sex would help clear her breathing passages for singing. 
         - consent to what she perceived to be a medical procedure rather than sexual intercourse, and that her consent was therefore not real
-  - The plaintiff’s knowledge 
-    -  plaintiff’s consent must be to a specific act about which he or she has sufficient information.
+  - The plaintiff's knowledge 
+    -  plaintiff's consent must be to a specific act about which he or she has sufficient information.
     - Dean v Phung [2012] NSWCA 223
       - consent had not been validly given by a patient to dental treatment
       - Dr Phung subsequently conducted more than 53 consultations at a cost of $73,640
         - unnecessarily performing root canal therapy, removing every nerve of every tooth and fitting crowns on all 
-        - applied s 3B of the Civil Liability Act 2002 (NSW) to exclude the claim from the provisions of the Act because the dentist’s conduct was done deliberately with intent to cause harm
+        - applied s 3B of the Civil Liability Act 2002 (NSW) to exclude the claim from the provisions of the Act because the dentist's conduct was done deliberately with intent to cause harm
     - White v Johnson (2015) 87 NSWLR 779
-      - patient’s consent would be invalid only in circumstances where the dentist’s purpose in performing the work was solely non-therapeutic
+      - patient's consent would be invalid only in circumstances where the dentist's purpose in performing the work was solely non-therapeutic
       - Some therapeutic outcome was intended by the defendant dentist and was in fact achieved.
         - Financial gain was irrelevant on consent issue
   - A competent person 
@@ -1009,7 +1009,7 @@
         - Understand what the consent is for
         - Individual plaintiff, not category
     -  Gillick v West Norfolk Health Authority [1986] AC 11
-      - Found a 15 year old capable of receiving contraceptive pill prescription w/o parent’s consent or knowledge
+      - Found a 15 year old capable of receiving contraceptive pill prescription w/o parent's consent or knowledge
         - if and when the child achieves a sufficient understanding and intelligence to enable him or her to understand fully what is proposed.
   - Consent to the act complained of 
     -  McNamara v Duncan (1971) 26 ALR 58
@@ -1021,7 +1021,7 @@
     - Consent in sport
       - how far the implied consent of a participant extends: 
         - Pallante v Stadiums Pty Ltd (No 1) [1976] VR
-          - ‘the consent to the infliction of blows causing bodily harm cannot be allowed to extend to the infliction of blows intended to do or calculated to do serious bodily harm’
+          - 'the consent to the infliction of blows causing bodily harm cannot be allowed to extend to the infliction of blows intended to do or calculated to do serious bodily harm'
         - nature and rules of each particular sport will need to be examined in order to properly determine the validity of consent to the behaviour or action complained of:
           - Canterbury Bankstown Rugby League Football Club Ltd v Rogers (1993) Aust Torts Reps ¶81-246
         - Giumelli v Johnston (1991) Aust Torts Reps ¶81-085
@@ -1030,9 +1030,9 @@
           - Filed for negligence, should have been battery
             - Found to be intentional, therefore less likely to be negligence
     - Consent to medical procedures 
-      - Marion’s Case that 
-        - ‘[a]t common law, ... every surgical procedure is an assault [battery] unless it is authorised, justified or excused by law’. ([4]) 
-        - Where a patient gives consent to treatment, but is not informed of the risks associated with the treatment the patient’s remedy is in the tort of negligence.
+      - Marion's Case that 
+        - '[a]t common law, ... every surgical procedure is an assault [battery] unless it is authorised, justified or excused by law'. ([4]) 
+        - Where a patient gives consent to treatment, but is not informed of the risks associated with the treatment the patient's remedy is in the tort of negligence.
       - Trespass to the person
         - In order to give valid consent, a patient must understand the nature and effect of the medical treatment or procedure. 
         - Rogers v Whitaker (1992) 175 CLR 479
@@ -1052,19 +1052,19 @@
         - Health care professionals liable to tort of negligence to warn of risks associated with treatment. 
           - failure to advise of such risks does not vitiate consent. 
   - 7.4 Necessity 
-    - Necessity is a defence where a trespass to person has occurred in ‘urgent situations of imminent peril’ threatening life or serious injury. 
-    - In Marion’s Case (1992) 175 CLR 218, McHugh J noted: 
+    - Necessity is a defence where a trespass to person has occurred in 'urgent situations of imminent peril' threatening life or serious injury. 
+    - In Marion's Case (1992) 175 CLR 218, McHugh J noted: 
       - Consent is not necessary ... where a surgical procedure or medical treatment must be performed in an emergency and the patient does not have the capacity to consent ... (310
     - Necessity is also available as a defence to other (non-medical) battery claims or to claims for trespass to goods or land: 
       - Proudman v Allen [1954] SASR 336; 
       - Cope v Sharpe (No 2) [1912]1 KB 496
     - Simon v Condran (2013) 85 NSWLR 768, 
-      - the plaintiff was unable to rely on necessity when she entered the defendant’s land to retrieve her dog who had entered the property owing to the plaintiff’s failure to adequately fence her own property.
+      - the plaintiff was unable to rely on necessity when she entered the defendant's land to retrieve her dog who had entered the property owing to the plaintiff's failure to adequately fence her own property.
   -  Necessity and trespass to property 
-    - Mouse’s Case (1609) 77 ER 1341
+    - Mouse's Case (1609) 77 ER 1341
       - An act which damages property will not be a trespass where the damage occurs because of an attempt to save a life. 
       - Proudman v Allen [1954] SASR 336, 
-        - the defendant, realising that the plaintiff’s run-away car was going to crash into a parked car, intentionally diverted the plaintiff’s empty car away and it ran over a cliff and into the sea.
+        - the defendant, realising that the plaintiff's run-away car was going to crash into a parked car, intentionally diverted the plaintiff's empty car away and it ran over a cliff and into the sea.
   - Necessity and trespass to the person 
     -  New South Wales v McMaster [2015] NSWCA 228
       - The police officer shot Justin within two minutes of arriving at the scene. 
@@ -1075,13 +1075,13 @@
       - police feared that a large rally would result in a serious breach of the peace and violence
   -  Necessity is not available in cases of negligence 
     - Rigby v Chief Constable of Northamptonshire [1985] 1 WLR 1242
-      -  necessity was not available where police fired a canister of CS gas into the plaintiff’s premises in order to flush out a psychopath who was armed and dangerous.
+      -  necessity was not available where police fired a canister of CS gas into the plaintiff's premises in order to flush out a psychopath who was armed and dangerous.
         - reasonably foreseeable risk that the premises would catch fire
 - Contributory Negligence 
   - New South Wales v Riley (2003) 57 NSWLR 496,
     - contributory negligence is not a defence available at common law to a claim for damages for an intentionally inflicted injury
   - Elite Protective Personnel Pty Ltd v Salmon [2007] NSWCA 32
-    - plaintiff’s elbow was broken by a security guard while the plaintiff was being ejected from a nightclub. 
+    - plaintiff's elbow was broken by a security guard while the plaintiff was being ejected from a nightclub. 
       - contributory negligence may apply to situations where an intentional tort is negligently, rather than deliberately inflicted 
 - Provocation 
   -  provocation is not available as a defence to an action in tort (Fontin v Katapodis (1962) 108 CLR 177) though it is a defence to a criminal charge
@@ -1095,7 +1095,7 @@
   - Moore v Lambeth County Court Registrar (No 2) [1970] 1 QB 560
     -  a defendant who entered land and took a chattel under the mistaken impression that he was entitled to possession, was found to have committed a trespass. 
   - Rendell v Associated Finance Pty Ltd [1957] VR 604, 
-    - the defendant ‘repossessed’ a truck containing the plaintiff’s engine under the mistaken belief that it was owned by the finance company
+    - the defendant 'repossessed' a truck containing the plaintiff's engine under the mistaken belief that it was owned by the finance company
 - Insanity 
   - Morriss v Marsden [1952] 1 All ER 925
     - knowledge of wrongdoing is ... immaterial ... and ... where there is the capacity to know the nature and quality of the act, that suffices
@@ -1119,22 +1119,22 @@
 - action on the case
   - developed as a means of redress where trespass was not an appropriate remedy.
     - 1. the act of the defendant may indirectly or consequentially cause the damage to the plaintiff; 
-    - 2. actual damage to the plaintiff (either psychological or physical) must be shown to have occurred as a result of the defendant’s act; and 
+    - 2. actual damage to the plaintiff (either psychological or physical) must be shown to have occurred as a result of the defendant's act; and 
     - 3. the plaintiff bears the onus of proof of all elements of the tort, including fault of the defendant, on the balance of probabilities
   - Deliberate indirect actions, such as locking medicine drawer for anxious person
     - Not negligence as traditionally not intentional
 - Mental Harm caused Indirectly by Intentional Statements Calculated to Inflict Harm
   - Wilkinson v Downton [1897] 2 QB 57
     - Jokingly told Mrs Wilkinson, that her husband had been involved in a serious accident and broken both his legs.
-      -  As a result of this statement, Mrs Wilkinson suffered ‘nervous shock’, not previously had
+      -  As a result of this statement, Mrs Wilkinson suffered 'nervous shock', not previously had
       - The defendant has ... wilfully done an act calculated to cause physical harm to the plaintiff – 
         - that is to say, to infringe her legal right to personal safety, and has in fact caused physical harm to her.
       -  3 identified elements
         - 1. a wilful act of the defendant: in this case a statement intended to shock the plaintiff, being an act; 
         - 2. calculated to cause harm; and 
         - 3. in fact causing harm to the plaintiff.
-      - ‘calculated’ 
-        - whether the behavior was ‘foreseeably likely’ to produce actual nervous shock
+      - 'calculated' 
+        - whether the behavior was 'foreseeably likely' to produce actual nervous shock
 # Week 4: Duty of Care
 
 
@@ -1142,7 +1142,7 @@
   - neighbour principle - Lord Atkins Donoghue v Stevenson
     - Duty of care originates from common law
       - Foreseeability
-        -  plaintiff’s relationship to the risk. 
+        -  plaintiff's relationship to the risk. 
       - Proximity
       - Public policy considerations
   - Duty of Care – General principles
@@ -1151,12 +1151,12 @@
     - Second step
       - plaintiff must then establish that that duty is breached. 
     - Third step
-      - must then establish that the defendant’s negligence was a cause of their injury and that the harm suffered by them is both inside the scope of the defendant’s liability and not too remote from the defendant’s negligence.
+      - must then establish that the defendant's negligence was a cause of their injury and that the harm suffered by them is both inside the scope of the defendant's liability and not too remote from the defendant's negligence.
     - Fourth step
       - Chapman v Hearse 106 CLR 112.
         - reasonably foreseeable that a careless act or omission on the part of the defendant might cause harm to a class of persons to which the plaintiff belongs?
   - Jaensch v Coffey (1984) 155 CLR 549,
-    - components’ of an action in negligence are as follows:
+    - components' of an action in negligence are as follows:
       - Duty of care
         - Foreseeability of risk.
         - Relationship between parties.
@@ -1171,8 +1171,8 @@
     - the tort of negligence three fundamental elements
       - 1. that the defendant owed the plaintiff a duty of care; - Duty of care
       - 2. that the defendant breached that duty of care by negligent conduct; and - Breach of duty
-      - 3. that the defendant’s breach caused the plaintiff actual damage which is not too remote from the breach. - Injury
-  - Donoghue v Stevenson and Lord Atkin’s ‘neighbour principle
+      - 3. that the defendant's breach caused the plaintiff actual damage which is not too remote from the breach. - Injury
+  - Donoghue v Stevenson and Lord Atkin's 'neighbour principle
     -  Donoghue v Stevenson [1932] AC 562
       - Dead snail in an opaque glass bottle
       - Suffered shock and gastroenteritis
@@ -1199,7 +1199,7 @@
         - Shaddock v Parramatta 
     - High Court Sullivan v Moody (2001) 207 CLR
       - 1. reasonable foreseeability of the plaintiff; and 
-      - 2. an additional requirement being – the identification of the ‘salient features’ (identifying) of the case that mitigate in favour of the imposition of a duty of care (replacing proximity); and 
+      - 2. an additional requirement being – the identification of the 'salient features' (identifying) of the case that mitigate in favour of the imposition of a duty of care (replacing proximity); and 
       - 3. the absence of any rule of law or policy that would preclude a duty of care.
 - The Duty of care: Reasonable Foreseeability
   - reasonable foreseeability
@@ -1208,12 +1208,12 @@
     - In that case, Mr Chapman drove his car so negligently that he had a serious collision on a dark wet night. 
       - Chapman was thrown out of his car onto the roadway
       - A medical doctor, Dr Cherry, who was driving past shortly after the accident, stopped to offer medical assistance to Chapman and was on the roadway when he was run down and killed by the appropriately named Mr Hearse. 
-    - Chapman argued that he owed no duty of care to Dr Cherry because the doctor’s presence on the roadway and the chain of events leading up to his death were unforeseeable.
+    - Chapman argued that he owed no duty of care to Dr Cherry because the doctor's presence on the roadway and the chain of events leading up to his death were unforeseeable.
     - Both chapman and Mr hearse are liable
-      - All that must be foreseeable is a ‘consequence of the same general character’ as that which eventuated and the plaintiff need only be foreseen as one of a class of persons who might be affected by the defendant’s negligence.
-    - something is reasonably foreseeable if it is ‘not unlikely’, 
+      - All that must be foreseeable is a 'consequence of the same general character' as that which eventuated and the plaintiff need only be foreseen as one of a class of persons who might be affected by the defendant's negligence.
+    - something is reasonably foreseeable if it is 'not unlikely', 
   - Modbury Triangle Shopping Centre Pty Ltd v Anzil Triangle Shopping Centre Pty Ltd v Anzil (2000) 205 CLR 254, 
-    - the High Court held that the scope of the occupier’s duty did not extend so far as to include the late-night lighting of a public shopping centre car park to prevent a random criminal attack.
+    - the High Court held that the scope of the occupier's duty did not extend so far as to include the late-night lighting of a public shopping centre car park to prevent a random criminal attack.
     - Occupier and lawful entrant duty of care category
     - Pure omission
       - the kind of offenses in which the accused does not commit an act of any kind
@@ -1233,13 +1233,13 @@
       - motorcyclist on the other side negligently caused a collision and was killed
         - did not see the collision or the body of the motorcyclist, though she heard the event and saw blood and debris on the roadway afterwards suffering nervous shock
       - The House of Lords held that although the motorcyclist owed a duty of care to road users whom he could reasonably foresee would be injured by his negligence, the plaintiff was not such a person.
-        - plaintiff could not rely on a ‘wrong to someone else’ (108, Wright LJ) and that ‘the duty is not to the world at large’ 
+        - plaintiff could not rely on a 'wrong to someone else' (108, Wright LJ) and that 'the duty is not to the world at large' 
     -  Bale v Seltsam Pty Ltd [1996] QCA 288
       - plaintiff was unforeseeable and was owed no duty of care.
-        - washed her husband’s asbestos- contaminated work clothes in the years from 1962 to 1965 when he was employed by the defendant.
+        - washed her husband's asbestos- contaminated work clothes in the years from 1962 to 1965 when he was employed by the defendant.
         - Risk was understood for workers, but did not have the scientific knowledge to know that she would be affected as well
     - Caltex Refineries (Qld) Pty Ltd v Stavar [2009] NSWCA 258
-      - very similar facts to Bale’s case
+      - very similar facts to Bale's case
       - decided in favour of the plaintiff
         - Held that bale v seltsam reasonable foreseeability holds true for all personal injury
         - Scientific knowledge does not require positive foresight of harm, but given the uncertain state of knowledge, there may have been harm caused by exposure to asbestos dust
@@ -1247,10 +1247,10 @@
   - Other factors which limit the duty of care: the search for a general principle in Australia 
     - Salient Features
       - Proximity
-        - Relations between defendant and plaintif so close that acts complained of directly affect a person’
+        - Relations between defendant and plaintif so close that acts complained of directly affect a person'
     - Home Office v Dorset Yacht Co Ltd [1970] AC 100
       - only those persons who owned property in close physical proximity to the escape point would be owed a duty of care by the prison authority
-      -  Even though it was foreseeable that more distant property might be damaged by prisoners ‘on the run’, 
+      -  Even though it was foreseeable that more distant property might be damaged by prisoners 'on the run', 
         - the distant property owners were not subject to the same risk as those near to the point of escape
     - Incrementalism 
       - Sutherland Shire Council v Heyman (1985) 157 CLR 424
@@ -1259,46 +1259,46 @@
           - Not a direct duty of care, but obtain one
           - Ex: get into an accident, someone will come help you
           - Sidewalk digging, leave a hole. Anyone who walks by falls under duty of care
-        - rather than by a massive extension of a prima facie duty of care restrained only by identifiable ‘considerations which ought to negative, or to reduce or limit the scope of duty or the class of person to whom it is owed’.19 (481) 
-        - The approach of Brennan J became known as the ‘incremental approach’ because it advocates development of the law in incremental steps with the use of precedent rather than by the application of broad general rules.
+        - rather than by a massive extension of a prima facie duty of care restrained only by identifiable 'considerations which ought to negative, or to reduce or limit the scope of duty or the class of person to whom it is owed'.19 (481) 
+        - The approach of Brennan J became known as the 'incremental approach' because it advocates development of the law in incremental steps with the use of precedent rather than by the application of broad general rules.
     - Hill v Van Erp (1997) 188 CLR 159,
       - Proximity in that sense expresses the result of a process of reasoning rather than the process itself, but it remains a useful term because it signifies that the process of reasoning must be undertaken.
-  - The ‘three-stage’ approach 
+  - The 'three-stage' approach 
     -  Pyrenees Shire Council v Day (1998) 192 CLR 33
       - Kirby j preferred the approach to the duty of care question taken by the House of Lords in Caparo Industries plc v Dickman [1990] 2 AC 605
         - (a) reasonable foreseeability of the plaintiff; 
         - (b) a relationship of proximity or neighbourhood between plaintiff and defendant; and 
-        - (c) that it be adjudged ‘fair, just and reasonable’ that a duty should be imposed in the particular case.
+        - (c) that it be adjudged 'fair, just and reasonable' that a duty should be imposed in the particular case.
       - Sullivan v Moody (2001) 207 CLR 562, in a unanimous joint judgment, the High Court (Kirby J not sitting in that case) held that the Caparo three-stage approach is not law in Australia.
         - Concerned about overreach on the third step
           -  need to consider policy implications
   - Proximity is not the answer 
     - Proximity is imprecise content
     - Long power struggle about what was next test
-  - High Court’s current approach to the duty question can best be described as an incremental approach based on identification of the salient features of the case before it
+  - High Court's current approach to the duty question can best be described as an incremental approach based on identification of the salient features of the case before it
   - Salient features method
     - Consistently used since Sullivan v Moody 
       - relationship between the plaintiff and the defendant identifying the salient features of the relationship and using those features to determine whether a duty of care should be imposed
       - Incremental system
     - Caltex Refineries (Qld) Pty Ltd v Stavar [2009] NSWCA 25
       - a list of salient features that can influence the imposition of a duty of care.
-        - a) the foreseeability of harm [Allsop P notes that this is not strictly a ‘salient feature’ but a separate consideration] 
+        - a) the foreseeability of harm [Allsop P notes that this is not strictly a 'salient feature' but a separate consideration] 
         - (b) the nature of the harm alleged; 
         - (c) the degree and nature of control able to be exercised by the defendant to avoid harm;
-        - (d) the degree of vulnerability of the plaintiff to harm from the defendant’s conduct, including the capacity and reasonable expectation of a plaintiff to take steps to protect itself; 
+        - (d) the degree of vulnerability of the plaintiff to harm from the defendant's conduct, including the capacity and reasonable expectation of a plaintiff to take steps to protect itself; 
         - (e) the degree of reliance by the plaintiff upon the defendant;
         - (f) any assumption of responsibility by the defendant; 
         - (g) the proximity or nearness in a physical, temporal or relational sense of the plaintiff to the defendant;
         - (h) the existence or otherwise of a category of relationship between the defendant and the plaintiff or a person closely connected with the plaintiff; 
         - (i) the nature of the activity undertaken by the defendant;
-        - (j) the nature or the degree of the hazard or danger liable to be caused by the defendant’s conduct or the activity or substance controlled by the defendant; 
+        - (j) the nature or the degree of the hazard or danger liable to be caused by the defendant's conduct or the activity or substance controlled by the defendant; 
         - (k) knowledge (either actual or constructive) by the defendant that the conduct will cause harm to the plaintiff;
         - (l) any potential indeterminacy of liability; 
         - (m) the nature and consequences of any action that can be taken to avoid the harm to the plaintiff; 
-        - (n) the extent of imposition on the autonomy or freedom of individuals, including the right to pursue one’s own interests 
+        - (n) the extent of imposition on the autonomy or freedom of individuals, including the right to pursue one's own interests 
         - (o) the existence of conflicting duties arising from other principles of law or statute;
   - CAL No 14 Pty Ltd v Motor Accidents Insurance Board (2009) 239 CLR 39
-    - Mr Kirkpatrick, publican (bar owner/manager) and mr scott - patron who was killed in a motorcycle accident after having consumed seven or eight cans of bourbon and cola at the defendant’s hotel.
+    - Mr Kirkpatrick, publican (bar owner/manager) and mr scott - patron who was killed in a motorcycle accident after having consumed seven or eight cans of bourbon and cola at the defendant's hotel.
     - Scott agreed to have motorcycle locked and keys held until wife picked up
       - Did not disclose wife phone number and demanded motorcycle and keys returned
       - Scott kept demanding and bar owner gave in, motorcycle crashed and killed, 0.253 BAC
@@ -1307,14 +1307,14 @@
         - Was Mr Scott vulnerable? 
           - The High Court noted Mr Scott was not vulnerable: he was an experienced drinker; 
             - he assured the publican three times that he was fit to drive; and he knew the short route home very well.
-        - Commercial conduct. The publican’s supplying of alcohol was appropriate:
+        - Commercial conduct. The publican's supplying of alcohol was appropriate:
           - he did not press drinks on Mr Scott; and may not have supplied Mr Scott with any more drinks after the arrangement was made. 
         - Nature of the arrangement. 
           - The bailment of the keys and the motorcycle was found to be both gratuitous and at will and could therefore be termi-nated at any time by Mr Scott.
         - Narrow formulation of duty. 
-          - The plaintiff’s formulation of the duty was too narrow as it argued there was a duty on the defendant to prevent the particular chain of circumstances leading towards Mr Scott’s death. 
-        - Mr Scott’s autonomy. 
-          - A duty on the publican to prevent Mr Scott from leaving with his motorcycle would conflict with Mr Scott’s autonomy. 
+          - The plaintiff's formulation of the duty was too narrow as it argued there was a duty on the defendant to prevent the particular chain of circumstances leading towards Mr Scott's death. 
+        - Mr Scott's autonomy. 
+          - A duty on the publican to prevent Mr Scott from leaving with his motorcycle would conflict with Mr Scott's autonomy. 
         - Lack of legal coherence. 
           - Imposition of a duty would result in lack of coherence with the law of bailment; with legislative regimes in relation to alcohol; and with other torts, for example, if the publican had to use physical force to prevent Mr Scott from obtaining the keys to the motorcycle it would clash with the duty not to commit the torts of assault and battery etc. 
   - Haley v London Electricity Board
@@ -1350,12 +1350,12 @@
         - Overlap ethical and economic
       - and public interest factors.
         - concerned with the effect on the public interest as opposed to the private interests of plaintiffs and defendants.
-  - Advocates’ Immunity
+  - Advocates' Immunity
     - Giannarelli v Wraith (1988) 165 CLR 54
       - confirmed the long-standing immunity of legal advocates from suit in negligence in respect of acts or omissions in the conduct of cases in court and in respect of any out-of-court work closely connected to the conduct of the case in court.
       - Re-examined in Saif Ali v Sydney Mitchell & Co [1980] AC 19
     - Abolished in UK in Arthur JS Hall v Simons [2000] 3 WLR 543
-    - D’Orta-Ekenaike who had been charged with rape, alleged that, as a result of breach of duty by Victoria Legal Aid and the defence barrister involved in his criminal defence, he continued to suffer loss and damage
+    - D'Orta-Ekenaike who had been charged with rape, alleged that, as a result of breach of duty by Victoria Legal Aid and the defence barrister involved in his criminal defence, he continued to suffer loss and damage
       - held that the advice about the guilty plea was intimately connected with the conduct of the criminal trial because the decision to plead guilty affected the conduct of the case before the court 
     - Attwells v Jackson Lalic Lawyers Pty Ltd (2016) 259 CLR
       - the giving of advice either to cease or to continue litigating does not itself affect the judicial determination of a case.
@@ -1375,7 +1375,7 @@
       - expressed considerable doubt that it would operate to protect the police from liability in battery ([275], Beazley P, McColl and Meagher JJ agreeing
   - Auditors 
     - Esanda Finance Corp Ltd v Peat Marwick Hungerfords (1997) 188 CLR 24
-      - A duty of care was claimed to be owed to a person (other than the auditor’s clients) who suffers purely economic loss by relying on the audited accounts of a company to make an investment or other financial decision. 
+      - A duty of care was claimed to be owed to a person (other than the auditor's clients) who suffers purely economic loss by relying on the audited accounts of a company to make an investment or other financial decision. 
       - Found that there was no duty of care
   - Child protection agencies 
     - Sullivan v Moody (2001) 207 CLR 562, 
@@ -1385,7 +1385,7 @@
         - To find a duty would so cut across other legal principles as to impair their proper application. 
           - In such a case, there is an intersection with the law of defamation (as the appellants were damaged by what was said about them). 
         - (b) Coherence in the law must be preserved. 
-          - A duty of the kind alleged would be incompatible with other duties owed by the respondents who were bound by the statutory regime concerning protection of children to uphold the children’s interests as paramount. 
+          - A duty of the kind alleged would be incompatible with other duties owed by the respondents who were bound by the statutory regime concerning protection of children to uphold the children's interests as paramount. 
         - (c) To avoid potential indeterminacy of liability. 
           - The spectrum of persons who might foreseeably be affected by a negligent investigation of child abuse might be extensive and not limited only to parents of the children concerned. 
     - DC v New South Wales [2016] NSWCA 198,
@@ -1403,8 +1403,8 @@
     - Subsequently
       - Miller v Miller (2011) 242 CLR 446 
         - that a duty existed between individuals engaged in a joint illegal enterprise where the injured party had withdrawn from the enterprise 
-          - the plaintiff (who was a participant in the theft of a car and subsequent ‘joy-ride’) recovered against the defendant driver of the stolen car because before being injured, she requested that the vehicle be stopped to allow her to get out.
-        - whether the imposition of a duty of care in tort would be inconsistent with the law which proscribes the plaintiff’s criminal 
+          - the plaintiff (who was a participant in the theft of a car and subsequent 'joy-ride') recovered against the defendant driver of the stolen car because before being injured, she requested that the vehicle be stopped to allow her to get out.
+        - whether the imposition of a duty of care in tort would be inconsistent with the law which proscribes the plaintiff's criminal 
         - 
   - Other cases 
     - Other types of case in which a duty has been denied on policy grounds are: 
@@ -1417,10 +1417,10 @@
     - the plaintiff received a free box of sample products from the defendant, which included bath salts. 
     - The plaintiff suffered an unusual and acute allergic reaction which resulted in her skin being hypersensitive after she remained in a bath containing the salts for 20 minutes. 
     - She developed a problematic and long-lasting itch.
-    - if an atypical person suffered injury as a result of negligence where a ‘normal’ person would have also suffered loss, then the atypical plaintiff may recover damages in respect of their special injury. 
-      - Levi’ s case illustrates the application of the test of reasonable foreseeability to exclude a particular plaintiff because her allergic reaction was so unusual.
+    - if an atypical person suffered injury as a result of negligence where a 'normal' person would have also suffered loss, then the atypical plaintiff may recover damages in respect of their special injury. 
+      - Levi' s case illustrates the application of the test of reasonable foreseeability to exclude a particular plaintiff because her allergic reaction was so unusual.
   - Haley v London Electricity Board [1964] 2 QB 121, 
-    - the defendant’s employees had excavated a trench, and erected signs and placed some makeshift barriers around it. 
+    - the defendant's employees had excavated a trench, and erected signs and placed some makeshift barriers around it. 
       - The barriers included a pick and shovel at one end and a punner (a broom-like tool with a heavy end) at the other. 
       - The plaintiff, who was blind and walked with a cane, tripped over the punner, hit his head and became deaf as a result of his injury. 
       - The defendant argued that it was under no obligation to give consideration to the blind or infirm as it only needed to foresee and safeguard against injury to ordinary able-bodied persons.
@@ -1469,7 +1469,7 @@
           - Salient features:
             - Vulnerability of P
             - Knowledge & control of D over risk
-            - EX: novel duty is if dr doesn’t save someone looking for help and dies right in front of him
+            - EX: novel duty is if dr doesn't save someone looking for help and dies right in front of him
           - Policy considerations
     - Breach
       - If a DoC is owned by defendant, have they breached that DoC by act/omission
@@ -1481,7 +1481,7 @@
         - factual/normative considerations
       - Action giving rise
         - s5D of CLA 
-          - Factual causation “but for”
+          - Factual causation "but for"
           - Legal causation - should liability extend
     - Damage
       - Actual harm crucial for action in negligence
@@ -1518,8 +1518,8 @@
       - that is the objective standard of care of the reasonable person.
     - There are no degrees of carelessness for liability
     - Test
-      -  whether the risk of injury to the plaintiff was, firstly, reasonably foreseeable by a person in the defendant’s position and, 
-      - secondly, whether the defendant’s response to the risk was reasonable
+      -  whether the risk of injury to the plaintiff was, firstly, reasonably foreseeable by a person in the defendant's position and, 
+      - secondly, whether the defendant's response to the risk was reasonable
 - P v D - tort - action/incident giving rise to the tort
   - Duty of care
   - Breach
@@ -1549,32 +1549,32 @@
           - (a) the risk was foreseeable 
             - a risk of which the person knew or ought to have known 
           - (b) the risk was not insignificant; and 
-          - (c) in the circumstances, a reasonable person in the person’s position would have taken those precautions. 
+          - (c) in the circumstances, a reasonable person in the person's position would have taken those precautions. 
         - (2) Reasonable person test: 
           - (a) the probability that the harm would occur if care were not taken; 
           - (b) the likely seriousness of the harm;
           - (c) the burden of taking precautions to avoid the risk of harm; and 
           - (d) the social utility of the activity that creates the risk of harm
     - Patrick Stevedores Operations (No 2) Pty Ltd v Hennessy [2015] NSWCA 253
-      - ‘the fact that s 5B(1)(c) is a necessary element of a plaintiff’s success in litigation to which it applies is plain on the face of the section, and was confirmed by the High Court in 
+      - 'the fact that s 5B(1)(c) is a necessary element of a plaintiff's success in litigation to which it applies is plain on the face of the section, and was confirmed by the High Court in 
         - Adeels Palace Pty Ltd v Moubarak [2009] HCA 48;
           - it is the legislative provisions that must be applied 
-          - if attention is not directed to the provisions of the Act ‘there is a serious risk that the enquiries about duty, breach and causation will miscarry’
+          - if attention is not directed to the provisions of the Act 'there is a serious risk that the enquiries about duty, breach and causation will miscarry'
     - Roads and Traffic Authority of New South Wales v Refrigerated Roadways Pty Ltd (2009) 77 NSWLR 360
       - s 5B does not itself impose an obligation on a person to exercise reasonable care,
-        -  but sets out in subsection (1) requirements that must be satisfied before a person can be found to be ‘negligent in failing to take precautions against a risk of harm’
+        -  but sets out in subsection (1) requirements that must be satisfied before a person can be found to be 'negligent in failing to take precautions against a risk of harm'
       - In that case a truck driver employed by Refrigerated Roadways was killed when a large piece of concrete was dropped from a road bridge over a freeway, crashing through the front windshield of his truck. 
       - The employer claimed that the Roads and Traffic Authority (RTA) had breached its duty of care to the driver by failing to screen the bridge to avoid the known risk of persons throwing objects from the bridge. 
         - Not been done yet, small budget
-  - 9.3 The Test of ‘Reasonable Foreseeability’ 
+  - 9.3 The Test of 'Reasonable Foreseeability' 
     - Roads and Traffic Authority of New South Wales v Dederer (2007) 234 CLR 33
       - stressed the importance of identification of risk to the assessment of breach of duty
-      - only through the correct identification of the risk that one can assess what a reasonable response to that risk would be’.
+      - only through the correct identification of the risk that one can assess what a reasonable response to that risk would be'.
       - duty of care only imposes an obligation to exercise reasonable care, not a duty to prevent potentially harmful conduct
 
       - Facts
         - 14-year-old boy was seriously injured as a result of engaging in the widespread practice of diving into the Wallamba River from the Forster-Tuncurry bridge 
-          - – contrary to ‘no diving pictograms’ on display on the bridge. 
+          - – contrary to 'no diving pictograms' on display on the bridge. 
       - Risk misidentified
         - not from the state of the bridge itself, 
           - but rather from the risk of impact upon jumping into the potentially shallow water and shifting sands of the estuary.
@@ -1583,24 +1583,24 @@
       - Knife severed 3 fingers
       - Created Risk to passerby that was reasonably foreseeable
     - Coles Supermarkets Australia Pty Ltd v Bridge [2018] NSWCA 
-      - plaintiff slipped on water on the floor of the defendant’s below ground carpark
-      - risk of injury as that of a customer slipping in ‘the portion of the car park which was of smooth polished finish when wet
+      - plaintiff slipped on water on the floor of the defendant's below ground carpark
+      - risk of injury as that of a customer slipping in 'the portion of the car park which was of smooth polished finish when wet
     - Prouten v Chapman [2021] NSWCA 20
-      - plaintiff, who was delivering mail by motor cycle, was injured when she drove around the defendant’s caravan that was parked on the nature strip. 
-        - Her cycle crashed when she swerved suddenly to avoid an ‘extender bed’ protruding from the caravan’s rear, which had not been extended on previous days when she had passed by the caravan.
+      - plaintiff, who was delivering mail by motor cycle, was injured when she drove around the defendant's caravan that was parked on the nature strip. 
+        - Her cycle crashed when she swerved suddenly to avoid an 'extender bed' protruding from the caravan's rear, which had not been extended on previous days when she had passed by the caravan.
       - characterisation of the risk should also take into account that a driver should be taking reasonable care for her own safety 
         - defendant has not acted unreasonably in ignoring the risk 
   - Reasonably foreseeable risk: the common law 
-    - Overseas Tankship (UK) Ltd v Miller Steamship Co Pty Ltd (‘The Wagon Mound (No 2)’) [1967] 1 AC 617
+    - Overseas Tankship (UK) Ltd v Miller Steamship Co Pty Ltd ('The Wagon Mound (No 2)') [1967] 1 AC 617
       - a seminal common law case which involved a fire following an oil spill in Sydney Harbour
-      - a reasonably foreseeable risk is a ‘real’ risk:
+      - a reasonably foreseeable risk is a 'real' risk:
         - A risk one would not brush aside as far-fetched
     -  Wyong Shire Council v Shirt (1980) 146 CLR 4
       - set out clearly the factors which should be taken into account by the courts when determining whether a defendant had acted reasonably. 
       - Shirt calculus
       - Facts:
         - defendant council had dredged a deep channel in a lake which was otherwise shallow. 
-        - council erected four signs in the bed of the lake adjacent to the channel, each sign saying ‘DEEP WATER’ to indicate the presence of the channel. 
+        - council erected four signs in the bed of the lake adjacent to the channel, each sign saying 'DEEP WATER' to indicate the presence of the channel. 
         - The plaintiff water skier misunderstood the signs and thought that the water was deep in all places. 
           - He fell off his skis in shallow water near the signs, striking his head on the bottom of the lake and becoming quadriplegic. 
       - HCA:
@@ -1611,8 +1611,8 @@
         - The risk of injury or loss must be reasonably foreseeable at the breach of duty enquiry. 
         - Lastly, the kind of damage suffered by the plaintiff must be reasonably foreseeable at the remoteness of damage enquiry
   - Schiller v Gregory (1985) Aust Torts Reps ¶80-751, 
-    - the plaintiff became quadriplegic after hitting his head on the bottom of the defendant’s pool after he slipped from a raised ledge which lined the pool
-    - SCSA held that the risk of injury resulting from the design of the pool was so small as to be ‘fanciful’ as no one had been injured in 21 years of use of the pool and no one thought that the raised edge being slippery would cause injury.
+    - the plaintiff became quadriplegic after hitting his head on the bottom of the defendant's pool after he slipped from a raised ledge which lined the pool
+    - SCSA held that the risk of injury resulting from the design of the pool was so small as to be 'fanciful' as no one had been injured in 21 years of use of the pool and no one thought that the raised edge being slippery would cause injury.
   -  Nagle v Rottnest Island Authority (1993) 177 CLR 423
     - plaintiff hit his head when he dived into a natural rock pool formation on Rottnest Island.
     - The plaintiff had not noticed the submerged rocks in the pool before his dive.
@@ -1623,25 +1623,25 @@
     - a garbage collector was run over while running across a road with a garbage bin on his shoulder
       - The workers had adopted a practice of driving the garbage truck along one side of the road with at least one worker who had to run back and forth across the road, picking up bins and emptying them into the truck, then returning them to the other side of the street.
     - Court said risk of injury was foreseable, not a safe system of work
-  - Civil liability legislation and ‘not insignificant’ 
-    - s 5B(1)(b) of the Civil Liability Act 2002 (NSW) requires that a risk must be ‘not insignificant’ as well as reasonably foreseeable before a defendant can be held to be negligent. 
+  - Civil liability legislation and 'not insignificant' 
+    - s 5B(1)(b) of the Civil Liability Act 2002 (NSW) requires that a risk must be 'not insignificant' as well as reasonably foreseeable before a defendant can be held to be negligent. 
     - To replace wyong test burden
     - Drinkwater v Howarth [2006] NSWCA 222
-      - considered s 5B and, in particular, the requirement that a risk be ‘not insignificant’ before negligence liability could arise
+      - considered s 5B and, in particular, the requirement that a risk be 'not insignificant' before negligence liability could arise
   -  Shaw v Thomas [2010] NSWCA 16
-    - held that the ‘not insignificant’ test was more demanding than the common law test of ‘not far-fetched or fanciful’ ‘but ... not by very much’ 
+    - held that the 'not insignificant' test was more demanding than the common law test of 'not far-fetched or fanciful' 'but ... not by very much' 
     - reiterated in Prouten v Chapman [2021] NSWCA 207
-      - requirement for a ‘not insignificant’ risk imposes ‘a slightly more demanding standard’ than ‘not far-fetched or fanciful’.
+      - requirement for a 'not insignificant' risk imposes 'a slightly more demanding standard' than 'not far-fetched or fanciful'.
   - Meandarra Aerial Spraying Pty Ltd v GEJ Geldard Pty Ltd [2013] 1 Qd R 319
     - observed of s 9(1)(b) of the Civil Liability Act 2003 
       -  The increase in the necessary degree of probability is not quantifiable and it might be so minor as to make no difference to the result in most cases.
-      - ‘not insignificant’ test must be applied
+      - 'not insignificant' test must be applied
   - South Sydney Rugby League Club Ltd v Gazis [2016] NSWCA 8
     - The significance of a risk will depend upon a variety of factors, including obviousness, likelihood of occurrence and seriousness of consequences. 
-    - A risk that arises from the claimant’s carelessness, where foreseeable but quite unlikely to eventuate, is unlikely to satisfy s 5B(1)(b).
+    - A risk that arises from the claimant's carelessness, where foreseeable but quite unlikely to eventuate, is unlikely to satisfy s 5B(1)(b).
   -  JFIT Holdings Pty Ltd v Powell [2021] NSWCA 137,
-    - The New South Wales Court of Appeal has held consistently that the standard applicable to determine when a risk of harm is not insignificant ‘is not particularly high’:
-  - What the plaintiff must demonstrate is that the defendant’s actions or failure to act created a reasonably foreseeable risk of injury, which was not insignificant
+    - The New South Wales Court of Appeal has held consistently that the standard applicable to determine when a risk of harm is not insignificant 'is not particularly high':
+  - What the plaintiff must demonstrate is that the defendant's actions or failure to act created a reasonably foreseeable risk of injury, which was not insignificant
   - Time for assessing the risk: available technological knowledge 
     - E v Australian Red Cross Society (1991) 31 FCR 299
       - [I]n determining whether or not to find negligence, the court is always concerned to ensure that it does not allow hindsight to cloud its judgment. (329
@@ -1655,28 +1655,28 @@
       - two plaintiffs suffered paraplegia as a result of anaesthetic injected into their spines. 
       - The phenol (sterilization solution) contaminated the nupercaine (spinal anaesthetic) through invisible cracks in the glass. 
         - The defendant was held not negligent as, in 1947 when the contamination occurred, no one knew this could occur. 
-  - The Calculus of Negligence’ 
-    - Once a court has determined that a risk of injury is reasonably foreseeable and ‘not insignificant’ pursuant to the relevant civil liability legislation, the question that must then be answered is whether the defendant has breached the standard of care
+  - The Calculus of Negligence' 
+    - Once a court has determined that a risk of injury is reasonably foreseeable and 'not insignificant' pursuant to the relevant civil liability legislation, the question that must then be answered is whether the defendant has breached the standard of care
     - In Ryan v Fisher (1976) 51 ALJR 125, 
       - the High Court held that relevant matters to be taken into account in determining breach of duty at common law included
         - [T]he risks inherent in [the] conduct, 
         - the seriousness of the consequences should any of those risks eventuate 
         - and the opportunities reasonably available to the defendant of reducing or wholly eliminating those risks. (126)
-    - Shirt calculus’
-      - ‘relevant factors’ to be considered in determining the standard of care in negligence cases:
+    - Shirt calculus'
+      - 'relevant factors' to be considered in determining the standard of care in negligence cases:
       - magnitude of the risk and
         - the probability of the risk eventuating against other relevant factors, 
         - including the likely seriousness of any harm and 
         - how easily the risk could have been avoided by the defendant.
         - The social utility of the activity that creates the risk of harm.
       -  New South Wales v Fahy (2007) 232 CLR 48
-        - Callinan and Heydon JJ criticised the ‘Shirt calculus’ as being ‘unrealistic and difficult in practice’
+        - Callinan and Heydon JJ criticised the 'Shirt calculus' as being 'unrealistic and difficult in practice'
         - Majority of the court, comprising Gleeson CJ (in dissent in the result), Gummow and Hayne JJ (in the majority in the result) and Kirby J 
-          - (dissenting in the result), declined to reconsider the common law ‘Shirt calculus’ or to consider an alternative approach to negligence liability.
+          - (dissenting in the result), declined to reconsider the common law 'Shirt calculus' or to consider an alternative approach to negligence liability.
   -  Coffs Harbour City Council v Polglase [2020] NSWCA 26
     - heritage considerations (concerning the design of railings on a restored 100-year-old jetty) were relevant to the evaluation required by s 5B of the Civil Liability Act 2002 (NSW),
   -  Adeels Palace Pty Ltd v Moubarak (2009) 239 CLR 420
-    - In that case, the two plaintiffs were paying guests at the defendant’s restaurant/reception venue at a New Year’s Eve celebration. 
+    - In that case, the two plaintiffs were paying guests at the defendant's restaurant/reception venue at a New Year's Eve celebration. 
       - They were shot and injured by another patron who had returned to the venue with a gun, having departed earlier after an altercation on the dance floor. 
     - defendant occupier of the premises owed the plaintiffs a duty of care.
   - Lim v Cho [2018] NSWCA 14
@@ -1686,15 +1686,15 @@
     - the plaintiff had been injured when he was thrown over the handlebars of his bicycle after running into a chain that had been placed across a pathway leading into a council reserve. 
     - Court of Appeal opines in Council of the City of Greater Taree v Wells that s 5B may have no application in the case of negligence by a positive act, rather than a failure to take reasonable care by way of a precaution.
   - Reed v Warburton
-    - draws a distinction between a case where a person must take ‘precautions’ against an identified risk and the case where a person must simply exercise reasonable care in going about his or her activities.
+    - draws a distinction between a case where a person must take 'precautions' against an identified risk and the case where a person must simply exercise reasonable care in going about his or her activities.
   - The probability that the harm would occur 
     - Vincent v Woolworths Ltd [2016] NSWCA 40
-      - risk of injury to the plaintiff (by stepping backwards off a stepladder into a shopper’s trolley) was so low that it did not meet the ‘not insignificant’ requirement in s 5B(1)(b
-        - even if those precautions could have been taken without inconvenience’, 
+      - risk of injury to the plaintiff (by stepping backwards off a stepladder into a shopper's trolley) was so low that it did not meet the 'not insignificant' requirement in s 5B(1)(b
+        - even if those precautions could have been taken without inconvenience', 
     - Rhodes v Lake Macquarie City Council [2010] NSWCA 235
       - plaintiff had been injured when she was struck by a branch which fell from a tree at her home. 
       - She had previously made a complaint to her landlord, the public housing authority, which asked the local council to remove the tree.
-        - council’s responsible officer decided that the tree should not be removed
+        - council's responsible officer decided that the tree should not be removed
         - Found there was a relatively small probability of significant injury to a person or substantial damage to property.
     - Stojan (No 9) Pty Ltd v Kenway [2009] NSWCA 364, 
       - the New South Wales Court of Appeal considered that the failure of the defendants, a local council and the occupier of a plaza, to adequately light a stairway was negligent applying s 5B of the Civil Liability Act 2002 (NSW)
@@ -1703,83 +1703,83 @@
         - Evidence was led to show that such a hit had previously occurred around six times in the past 30 years. 
       - The House of Lords held that the probability of a person being struck by a cricket ball outside the ground was so slight as to be almost negligible. 
     - Roads and Traffic Authority of New South Wales v Dederer (2007) 234 CLR 330
-      - the low probability of a serious incident occurring was a significant factor in the court’s reasoning that the defendant had acted reasonably in doing no more that placing ‘pictograph’ signs on the entrance to the bridge. 
+      - the low probability of a serious incident occurring was a significant factor in the court's reasoning that the defendant had acted reasonably in doing no more that placing 'pictograph' signs on the entrance to the bridge. 
   - The likely seriousness of the harm 
-    - GEO Group Australia Pty Limited v O’Connor [2019] NSWCA 32
+    - GEO Group Australia Pty Limited v O'Connor [2019] NSWCA 32
       - plaintiff claimed damages for severe head injuries he sustained when on remand awaiting sentence at Parklea Correctional Centre. 
       - He was assaulted by three other inmates. 
         - The nursing unit manager at the prison had been informed by another inmate about a plan to assault the plaintiff but the prison management took no action to protect the plaintiff. 
           - Credible information that was not acted upon
     - Basha v Vocational Capacity Centre Pty Ltd [2009] NSWCA 40
-      - a physiotherapist employed by the defendant had failed to take reasonable care when a weights exercise that he prescribed exacerbated the plaintiff’s known shoulder injury, for which he had recently undergone surgery
+      - a physiotherapist employed by the defendant had failed to take reasonable care when a weights exercise that he prescribed exacerbated the plaintiff's known shoulder injury, for which he had recently undergone surgery
     - Paris v Stepney Borough Council [1951] AC 36
       - a plaintiff employee who was blind in one eye, which was known to the defendant employer, was totally blinded in a work accident where a chip from a rusty bolt flew into his good 
         - Did not supply him with goggles
         - Worker was likely to sustain more serious injury than non-disabled coworkers
     -  Haileybury College v Emanuelli [1983] 1 VR 323
-      - the defendant was held liable for fire damage caused to the plaintiff’s buildings.
+      - the defendant was held liable for fire damage caused to the plaintiff's buildings.
         -  driving his car and towing a trailer on a very hot day and in strong winds. 
           - The back wheel of the trailer came off, throwing sparks onto the grass near the highway and igniting it. 
         - defendant should have foreseen that in such circumstances in rural Australia a fire
           -  the defendant knew and understood the causes and nature of bushfires. 
-          - could start and cause damage to the plaintiff’s property 12 kilometres away
+          - could start and cause damage to the plaintiff's property 12 kilometres away
   - The burden of taking precautions 
     - Bunnings Group Ltd v Giudice [2018] NSWCA 
-      - plaintiff failed to establish that the risk of injury was ‘not insignificant’ but the New South Wales Court of Appeal also held that the plaintiff (who had tripped on a slight step) had failed to prove any breach of duty by Bunnings: 
+      - plaintiff failed to establish that the risk of injury was 'not insignificant' but the New South Wales Court of Appeal also held that the plaintiff (who had tripped on a slight step) had failed to prove any breach of duty by Bunnings: 
     - New South Wales v Mikhael [2012] NSWCA 33
       - plaintiff suffered brain damage when he was attacked in an area adjacent to the classroom block at his high school by a fellow student, following an angry exchange between them in the classroom
-      - classroom teacher was not made aware of the attacker’s prior violence at school. 
+      - classroom teacher was not made aware of the attacker's prior violence at school. 
     - Endeavour Energy v Precision Helicopters Pty Ltd [2015] NSWCA 169
       - New South Wales Court of Appeal held that Telstra could have removed a redundant thin cable suspended across a gully and thereby averted the risk of a low-flying helicopter colliding with it:
       - Cheap to remove, and there was no demonstrated social utility in maintaining the wire across the valley
     - Kempsey Shire Council v Baguley [2010] NSWCA 284
       - New South Wales Court of Appeal considered whether a local council should have taken precaution by the erection of a barrier, against the risk of persons falling into a pit at a rubbish tip
     - Shepherd v SJ Banks & Son Pty Ltd (1987) 45 SASR 437, 
-      - the defendant manufacturer of a tining machine (used for aerating lawns) was held liable for injuries to a greenkeeper’s foot and leg as a result of the manufacturer’s failure to fit an inexpensive guard onto the machine.
+      - the defendant manufacturer of a tining machine (used for aerating lawns) was held liable for injuries to a greenkeeper's foot and leg as a result of the manufacturer's failure to fit an inexpensive guard onto the machine.
     - Caledonian Collieries Ltd v Speirs (1957) 97 CLR 202
-      - plaintiff’s husband was killed when his car was hit by the defendant’s coal train at a level crossing
-      - defendant was negligent for not installing ‘catch points’ on the railway line to prevent railway trucks escaping, even though the chance of this occurring was small.
+      - plaintiff's husband was killed when his car was hit by the defendant's coal train at a level crossing
+      - defendant was negligent for not installing 'catch points' on the railway line to prevent railway trucks escaping, even though the chance of this occurring was small.
         - installation costs of such safety devices and the inconvenience associated with their use was outweighed by the risk of serious accidents
     - Western Suburbs 
     - Hospital v Currie (1987) 9 NSWLR 51
       - Mchugh JA
         - it is generally a powerful indication of negligence that the cost of a precaution is small compared with the consequences of a breach even when the risk of the occurrence is small.
     - Romeo v Conservation Commission of the Northern Territory (1998) 192 CLR 43
-      - while it was reasonably foreseeable that an intoxicated plaintiff may be injured by falling over the edge of unfenced cliffs in a nature reserve, the defendant was not liable for the plaintiff’s injury. 
+      - while it was reasonably foreseeable that an intoxicated plaintiff may be injured by falling over the edge of unfenced cliffs in a nature reserve, the defendant was not liable for the plaintiff's injury. 
       - a costly and difficult undertaking to prevent an injury that the court found to have a very low risk of occurring
         - Implementation was not really practicable
     - Vozza v Tooth & Co Ltd (1964) 112 CLR 316 
-      - the plaintiff’s hand was injured by exploding glass despite wearing heavy leather protective gloves supplied by the defendant employer.
+      - the plaintiff's hand was injured by exploding glass despite wearing heavy leather protective gloves supplied by the defendant employer.
         - At the time:
           - no evidence that the employer could practically have provided better gloves, without impeding the work, or automated the relevant process to eliminate the risk. 
     - Roman Catholic Church Trustees for the Diocese of Canberra and Goulburn v Hadba (2005) 221 CLR 16
-      - High Court held that a school had not been negligent in failing to have more vigilant playground supervision when an eight-year-old student was injured while riding on a ‘flying fox’ during recess. 
+      - High Court held that a school had not been negligent in failing to have more vigilant playground supervision when an eight-year-old student was injured while riding on a 'flying fox' during recess. 
         - Teacher was checking fountain and toilet
       - probability of an accident occurring was low (none had occurred before) and because increased supervision of the playground would cause staffing difficulties at the school,
-        -  the defendant’s system was reasonable.
+        -  the defendant's system was reasonable.
       - The plaintiff must prove what precautions the defendant could have taken.
-        - High Court noted that the plaintiff had failed to explain how, ‘in a practical sense, constant supervision of the flying fox and adjacent equipment was to be carried out’ 
+        - High Court noted that the plaintiff had failed to explain how, 'in a practical sense, constant supervision of the flying fox and adjacent equipment was to be carried out' 
     -  Neill v New South Wales Fresh Food and Ice Pty Ltd (1963) 108 CLR 362
-      - It was the plaintiff’s job to clean the inside of [milk-residue in this] transport which was lined with stainless steel and suspended on a railway car. 
+      - It was the plaintiff's job to clean the inside of [milk-residue in this] transport which was lined with stainless steel and suspended on a railway car. 
         - Rejected 
           - plaintiff called no evidence to show how the employer could have minimised the risk.
           - The precautions of non-slip boots and a hand rail were raised on appeal by the plaintiff, but the High Court found that the plaintiff had still failed to prove that such precautions would probably have avoided the risk of injury.
-  - The social utility of the defendant’s activity 
+  - The social utility of the defendant's activity 
     - Watt v Hertfordshire County Council [1954] 2 All ER 368
       - plaintiff fireman, who was riding in a fire truck going to rescue a woman trapped under a heavy vehicle, 
         - was injured when the unsecured jack rolled forward in the truck.
         -  The court found that there was no negligence considering the emergency nature of the situation. 
     -  E v Australian Red Cross Society (1991) 31 FCR 
       - plaintiff developed AIDS as a result of being transfused with blood contaminated with HIV
-      - The ‘surrogate’ testing of all blood would have had a very limiting effect on the blood supply, reducing it substantially.
+      - The 'surrogate' testing of all blood would have had a very limiting effect on the blood supply, reducing it substantially.
         - Utilitarian view, too bad
     - Doherty v New South Wales [2010] NSWSC 450.
       - police forensic investigator against his employer in respect of severe post-traumatic stress disorder suffered as a result of repeated exposure to violent crime and accident scenes
   - Hindsight bias 
-    - courts must apply the standard of care to the defendant’s conduct having regard to the defendant’s knowledge and responsibilities immediately before the act of negligence. 
+    - courts must apply the standard of care to the defendant's conduct having regard to the defendant's knowledge and responsibilities immediately before the act of negligence. 
     - Vairy v Wyong Shire Council (2005) 223 CLR 422 
       - Although that judgment must be made after the event it must seek to identify what the response would have been by a person looking forward at the prospect of the risk of injury. 
-  - Defendant’s responsibility for similar risks of harm and subsequent conduct of defendant
+  - Defendant's responsibility for similar risks of harm and subsequent conduct of defendant
     - Nelson v John Lysaght (Australia) Pty Ltd (1975) 132 CLR 201
       - if a defendant has taken a precaution after an accident, this is not an admission of liability of negligence
       - this evidence will not necessarily be conclusive on liability. 
@@ -1794,16 +1794,16 @@
       - It was claimed that the RTA had been negligent in failing to fence the bridge which was one of many such road bridges in New South Wales.
     - Uniting Church Australia Property Trust (NSW) v Miller (2015) 91 NSWLR 752,
       - The court held that to apply s 5C, it is necessary to identify the relevant risk of harm and that s 5C is to be read with s 5B.
-      - Nobody’s fault
-  - Knowledge available to the plaintiff: obvious risks and ‘scope of duty’
+      - Nobody's fault
+  - Knowledge available to the plaintiff: obvious risks and 'scope of duty'
     - Romeo v Conservation Commission of the Northern Territory (1998) 192 CLR 431, 
       - the majority of the High Court considered the obviousness of the risk as one factor going to the breach of duty question.
     - Woods v Multi-Sport Holdings Pty Ltd (2002) 208 CLR 460, 
       - Established category Duty of care recreational service provider and participant
-      - the plaintiff claimed that he would not have been injured playing indoor cricket on the defendant organiser’s premises if helmets had been supplied. 
+      - the plaintiff claimed that he would not have been injured playing indoor cricket on the defendant organiser's premises if helmets had been supplied. 
       - held that the defendant had not breached its duty of care referring to the rules and practice of indoor cricket which did not require that any helmet be worn and to evidence that helmets were unsuitable for indoor use.
         - the risk of being struck in the face by a ball was a risk that was evident to all participants and did not require a warning from the defendant
-  -  The Standard of care: A ‘Reasonable Person’ Test 
+  -  The Standard of care: A 'Reasonable Person' Test 
     - Blyth v Birmingham Waterworks Co (1856) 11 Exch 781; 156 ER 1047:
       - Standard for proving, on the balance of probabilities that the defendant failed to act as a reasonable person would have done
     - Glasgow Corporation v Muir [1943] AC 448	
@@ -1814,24 +1814,24 @@
       - Must be judged by similar age and circumstances
     - McHale v Watson (1966) 115 CLR 199
       - 12-year-old boy was found to be not liable in negligence when he threw a piece of steel, about 15 cm long and sharpened at one end, at a wooden post forming a guard around a tree. 
-      - absent an “employment” relationship, parents are not vicariously liable for their children
+      - absent an "employment" relationship, parents are not vicariously liable for their children
       - Capacity - youth may not be able to foresee the harm
     - Zanner v Zanner (2010) 79 NSWLR 70 
-      - 11-year-old child ran into his mother, when he depressed the accelerator instead of the brake whilst driving his parents’ car into their driveway with his mother’s permission: 
+      - 11-year-old child ran into his mother, when he depressed the accelerator instead of the brake whilst driving his parents' car into their driveway with his mother's permission: 
         - he had some very limited experience and understood the purpose of the brake and the accelerator. 
-        - The importance of taking care not to remove his foot from the brake was not ‘beyond the understanding of an 11 year old’ 
+        - The importance of taking care not to remove his foot from the brake was not 'beyond the understanding of an 11 year old' 
           - he was held to have breached the standard of care. 
   - The elderly 
     - Daly v Liverpool Corporation [1939] 2 All ER 14
-      - an aged pedestrian was not contributorily negligent when hit by the defendant’s bus whilst crossing the street, because she was not expected to possess the same agility as a younger person. 
+      - an aged pedestrian was not contributorily negligent when hit by the defendant's bus whilst crossing the street, because she was not expected to possess the same agility as a younger person. 
   - The beginner 
     - In general, the law gives no special consideration to learners and beginners.
     - Collins v Hertfordshire County Council [1947] 1 All ER 63
       - a hospital was vicariously liable for the negligence of a final year medical student who was employed as a junior house surgeon although she was not so qualified
-  - Knowledge by the plaintiff of defendant’s inexperience or disability 
+  - Knowledge by the plaintiff of defendant's inexperience or disability 
     - The issue of the standard to be expected of a learner or an inexperienced defendant where the injured plaintiff was aware of the inexperience has proved to be controversial for the courts. 
     - Cook v Cook (1986) 162 CLR 376
-      -  took the defendant’s lack of experience into account when applying the standard of care.
+      -  took the defendant's lack of experience into account when applying the standard of care.
     - Imbree v McNeilly (2008) 236 CLR 510 
       - that Cook v Cook should no longer be followed. 
       - In the Imbree case the High Court held that the standard of care owed by a learner driver to a supervising passenger was the ordinary standard of a reasonably prudent driver
@@ -1854,8 +1854,8 @@
   - Professionals and industry practice
     - Mercer v Commissioner for Road Transport and Tramways (NSW) (1936) 56 CLR 580
       - The question of the relevance of industry practice to the determination of the standard of care 
-      - the plaintiff was injured when the defendant’s tram crashed because the driver had collapsed. 
-        - The plaintiff claimed that the defendant could have avoided the accident by using a safety device known as a ‘dead man’s handle’ which would have stopped the tram if the driver let it go.
+      - the plaintiff was injured when the defendant's tram crashed because the driver had collapsed. 
+        - The plaintiff claimed that the defendant could have avoided the accident by using a safety device known as a 'dead man's handle' which would have stopped the tram if the driver let it go.
       - The court refused to accept that the industry practice should set the standard of care:
     - Woods v Multi-Sport Holdings Pty Ltd (2002) 208 CLR 46
       - High Court held that while [industry practice] should not dictate the standard of care, evidence of industry practice and sporting rules was relevant and should be accorded appropriate weight
@@ -1876,8 +1876,8 @@
       - Section 5P of the New South Wales Act states: 
         - This Division does not apply to liability arising in connection with the giving of (or the failure to give) a warning, advice or other information in respect of the risk of death of or injury to a person associated with the provision by a professional of a professional service
           - Section 5O does not apply if the court considers the practice so unreasonable that no reasonable health professional could have acted in that way.
-        - exempts the ‘peer professional opinion’ standard of care from application to the giving of a warning about the risk of death or injury from a service to be provided by the defendant 
-        - Doctors cannot hide behind 5O, “most other doctors would not have given this warning”
+        - exempts the 'peer professional opinion' standard of care from application to the giving of a warning about the risk of death or injury from a service to be provided by the defendant 
+        - Doctors cannot hide behind 5O, "most other doctors would not have given this warning"
           - with s 5P, if that side effect relates to a risk of death or serious injury, the surgeon can't use the defense that "most of my peers wouldn't have warned either." 
             - They are still expected to provide that warning.
       - Makaroff v Nepean Blue Mountains Local Health District [2021] NSWCA 107 
@@ -1886,8 +1886,8 @@
         - Held though [hospital] had advised the plaintiff of the need for review, proper professional practice required the hospital to advise the appellant that it was essential that she have orthopaedic review urgently
           - However Dr Percy had acted in a manner that was widely accepted by peer professional opinion as competent professional practice for a general practitioner, applying s 5O of the Civil Liability Act 2002 
     - Sparks v Hobson (2018) 361 ALR 115
-      - characterisation of s 5O holding that it was not a ‘defence’ in the traditional sense. 
-      - The court specifically rejected a two-stage approach requiring proof of negligence by the plaintiff pursuant to s 5B and then proof by the defendant of a s 5O ‘defence’ because s 5O itself sets a standard of care, where the defendant acted in accordance with widely accepted practice.
+      - characterisation of s 5O holding that it was not a 'defence' in the traditional sense. 
+      - The court specifically rejected a two-stage approach requiring proof of negligence by the plaintiff pursuant to s 5B and then proof by the defendant of a s 5O 'defence' because s 5O itself sets a standard of care, where the defendant acted in accordance with widely accepted practice.
         - Basten JA believed that a specific practice was not necessary to prove, just that the acts must be justifiable to another professional 
       - Sections 5O and 5B cannot operate concurrently because each sets a standard of care. 
     - South Western Sydney Local Health District v Gould [2018] NSWCA 69,
@@ -1906,9 +1906,9 @@
       - Learner drivers are judged under standards of normal reasonable driver
   - Shaw v Thomas [2010] NSWCA 169 
     - Facts: 
-      - Cameron Thomas ‘
-      - Plaintiff (10 years old): suffered serious head injured including a fractured skull when he fell from the top level of a bunk bed at the home of Mr and Mrs Shaw (his friend’s parents) 
-        - The floor where Plaintiff’s head was injured was concrete and carpeted 
+      - Cameron Thomas '
+      - Plaintiff (10 years old): suffered serious head injured including a fractured skull when he fell from the top level of a bunk bed at the home of Mr and Mrs Shaw (his friend's parents) 
+        - The floor where Plaintiff's head was injured was concrete and carpeted 
       - P: commenced proceedings against the defendants in negligence 
         - Bunk bed guard rail and ladder were removed as they were of poor design and were not properly fitted to the bed. 
         - The plaintiff had in fact been on the top bunk of the bed on a few occasions prior to the incident occurring
@@ -1917,7 +1917,7 @@
       - Macfarlan JA appeal
         -  Perry v Harris 
           - that documents such as the Australian Standards were instructive only and could not be used to determine breach of duty of care as they were not facts of which the defendants knew or ought to have known.
-        - Court of Appeal disagreed with the primary judge’
+        - Court of Appeal disagreed with the primary judge'
           - Even if a risk of harm is foreseeable and not insignificant, unless an occupier fails to act in a manner in which a reasonable person in its position would have acted, there will be no breach of duty of care.
           - Francis v Lewis 
             - that compliance or non-compliance with a Standard, or even with common practice, is not determinative whether there has been a breach of duty of care.
@@ -1950,12 +1950,12 @@
   - private nuisance 
     - which is a tort, and 
   - public nuisance 
-    - which affects the ‘public at large’. 
-  - The tort of nuisance involves the unreasonable interference by the defendant with the plaintiff’s use or enjoyment of real property. 
+    - which affects the 'public at large'. 
+  - The tort of nuisance involves the unreasonable interference by the defendant with the plaintiff's use or enjoyment of real property. 
     - Halsey v Esso Petroleum Co Ltd [1961] 1 WLR 68
     - It is different from trespass to land in that 
       - (a) it involves an interference with rights or enjoyment rather than a contact with the land and 
-      - (b) it need not be a ‘direct’ or physical interference.
+      - (b) it need not be a 'direct' or physical interference.
   - Nuisance examples
     - Noise,
     - offensive smells and flies,
@@ -1977,36 +1977,36 @@
     - a plaintiff will have to prove possession of land pursuant to some legal or equitable interest in the land in order to have standing to sue.
     - Licensee typically cannot sue in nuisance, family members potentially can as they are licensees
     - Hunter v Canary Wharf Ltd [1997] AC 655, 
-      - in which it held that there could be no standing to sue in nuisance unless the plaintiff could establish a ‘right to exclusive possession of the land, such as a freeholder or tenant in possession, or even a licensee with exclusive possession’ (per Lord Goff of Chieveley)
+      - in which it held that there could be no standing to sue in nuisance unless the plaintiff could establish a 'right to exclusive possession of the land, such as a freeholder or tenant in possession, or even a licensee with exclusive possession' (per Lord Goff of Chieveley)
     - Unprotected rights
       - Victoria Park Racing and Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 47
-        - the plaintiff complained that the defendant had caused it economic loss by diminishing the number of persons who attended race meetings at the plaintiff’s race course. 
+        - the plaintiff complained that the defendant had caused it economic loss by diminishing the number of persons who attended race meetings at the plaintiff's race course. 
           - Set up a platform to watch and radio the game
           - law of nuisance will protect only certain rights associated with the use and enjoyment of property
     - Robson v Leischke (2008) 72 NSWLR 98
       - Three kinds of interference are recognised by the law as constituting a nuisance: 
-        - (a) causing encroachment on the neighbour’s land, short of trespass;
-        - (b) causing physical damage to the neighbour’s land or any building, works or vegetation on it; and 
+        - (a) causing encroachment on the neighbour's land, short of trespass;
+        - (b) causing physical damage to the neighbour's land or any building, works or vegetation on it; and 
         - (c) unduly interfering with a neighbour in the comfortable and convenient enjoyment of his or her land. ([54]) 
     - Cambridge Water Co v Eastern Counties Leather plc [1994] 2 AC 264
       - Nuisance depends on whether the use of land was reasonable in all the circumstances, 
         - not on whether the defendant took reasonable care to avoid creating the nuisance.
   - Hargrave v Goldman (1963) 110 CLR 40 - established duty to neighbor
     - the High Court held that, in the case of a nuisance not commenced by the defendant, the plaintiff will need to prove that the defendant failed to take reasonable care to avoid the nuisance. 
-    - lightning had struck a tree on the defendant’s farming property and caused it to catch fire. 
+    - lightning had struck a tree on the defendant's farming property and caused it to catch fire. 
       - The defendant took serious steps to extinguish the fire, but the smouldering tree re-ignited in windy conditions some days later and the fire spread to neighbouring properties
   - Ammon v Colonial Leisure Group Pty Ltd [2019] WASCA 15
     - Some of the relevant factors and the requirement for unreasonable interference,
   - Is the interference substantial? 
     - Halsey v Esso Petroleum Co Ltd
-      - plaintiff must establish that interference with use and enjoyment of property is substantial and not merely a trivial matter before the courts will hold that a defendant’s use of property amounts to a nuisance. 
+      - plaintiff must establish that interference with use and enjoyment of property is substantial and not merely a trivial matter before the courts will hold that a defendant's use of property amounts to a nuisance. 
     - Nuisance test
       - Walter v Selfe (1851) G & SM 315
         - More than fanciful
         - an inconvenience materially interfering with the ordinary comfort physically of human existence
   - Malicious defendant
     - Hollywood Silver Fox Farm v Emmett [1936] 2 KB 468, 
-      - the plaintiff silver fox farmer’s claim in nuisance was successful against a neighbour who, after a dispute, had threatened to damage the plaintiff’s fox breeding program by shooting off a gun as near as possible to the breeding stock to frighten them. 
+      - the plaintiff silver fox farmer's claim in nuisance was successful against a neighbour who, after a dispute, had threatened to damage the plaintiff's fox breeding program by shooting off a gun as near as possible to the breeding stock to frighten them. 
   - Intangible interference circumstances
     - Whether the inteference is substantial (eg, more than trivial)
     - Features of the local area (eg, what constitutes a nuisance will differ between a quiet residential area and an industrial area)
@@ -2018,11 +2018,11 @@
 - Causation
   - In order to succeed in a claim in negligence, a plaintiff must prove, on the balance of probabilities, that the damage suffered was caused by the negligent act of the defendant. 
   - Harriton v Stephens (2006) 226 CLR 52
-    - held in a ‘wrongful life’ case that being born profoundly disabled as opposed to not having been born at all, was not ‘damage’ recognised by tort law.
+    - held in a 'wrongful life' case that being born profoundly disabled as opposed to not having been born at all, was not 'damage' recognised by tort law.
 - Civil Liability Legislation: Necessary condition and Scope of Liability – A Two-Stage Approach
   - Causation issues
     - Factual causation: 
-      - that is, whether the defendant’s negligence was a cause of the plaintiff’s damage. 
+      - that is, whether the defendant's negligence was a cause of the plaintiff's damage. 
       - BUT FOR test
     - Legal responsibility
       - Should they be responsible
@@ -2033,31 +2033,31 @@
       - S 5D General principles 
         - (1) A determination that negligence caused particular harm comprises the following elements: 
           - (a) that the negligence was a necessary condition of the occurrence of the harm (factual causation); and 
-          - (b) that it is appropriate for the scope of the negligent person’s liability to extend to the harm so caused (scope of liability)
-          - This is the ‘but for’ equivalent 
+          - (b) that it is appropriate for the scope of the negligent person's liability to extend to the harm so caused (scope of liability)
+          - This is the 'but for' equivalent 
         - (2)(exceptional circumstances) In determining in an exceptional case, in accordance with established principles, whether negligence that cannot be established as a necessary condition of the occurrence of harm should be accepted as establishing factual causation,the court is to consider (amongst other relevant things) whether or not and why responsibility for the harm should be imposed on the negligent party.
     - Wallace v Kam (2013) 250 CLR 37
       - s 5D(1) requires that the two questions as to causation should be kept distinct:
-        - first, the ‘historical fact as to how particular harm occurred’ and 
-        - secondly, the ‘normative question as to whether legal responsibility ... should be attributed to a particular person’
+        - first, the 'historical fact as to how particular harm occurred' and 
+        - secondly, the 'normative question as to whether legal responsibility ... should be attributed to a particular person'
     - Pledge v Roads and Traffic Authority (2004) 205 ALR 
       - manner in which causation was determined at common law = two-stage approach was similar to that used in the civil liability legislation:
     - Ruddock v Taylor (2003) 58 NSWLR 26
       - considered s 5D(1) of the Civil Liability Act 2002 (NSW), which he held to be in accord with the common law ([89]).
   - Adeels Palace Pty Ltd v Moubarak (2009) 239 CLR 420 
     - turned on the issue of causation under the Civil Liability Act 2002 (NSW).
-    - any failure of the defendant to provide security personnel at its restaurant on New Year’s Eve was not a cause of the plaintiffs’ damage
-    -  s 5D(1)(a) is a statutory equivalent of the common law ‘but for’ test
+    - any failure of the defendant to provide security personnel at its restaurant on New Year's Eve was not a cause of the plaintiffs' damage
+    -  s 5D(1)(a) is a statutory equivalent of the common law 'but for' test
   - March v E & MH Stramare Pty Lt 1991 171 CLR 506
     - Common law causation approach
-    - but for’ test was not an exclusive test for causation and adopted an approach to the causation question which required consideration of other matters to determine whether the defendant’s liability should extend to the harm caused:
+    - but for' test was not an exclusive test for causation and adopted an approach to the causation question which required consideration of other matters to determine whether the defendant's liability should extend to the harm caused:
       - Look at scope of liability since both parties were liable
     - plaintiff was injured when a truck owned by the defendant was parked illegally and obstructed the vision of the plaintiff, who was driving a car. 
       -  The plaintiff was found to have been speeding and not paying full attention. The court decided that both parties were negligent, but the defendant's negligence was still a significant cause of the accident. 
     - common sense could be relied upon as part of the normative approach to inform decisions about the scope of liability issue.
       - rejected by the High Court in Travel Compensation Fund v Tambree (2005) 224 CLR 62
   - First stage in causation inquiry
-    - For an event to be held to be a cause of loss or damage at law, it must be characterised as a ‘necessary condition’ of the loss;
+    - For an event to be held to be a cause of loss or damage at law, it must be characterised as a 'necessary condition' of the loss;
       - causa sine qua non
     - Barnett v Chelsea & Kensington Hospital Management Committee [1969] 1 QB 428
       - But for test
@@ -2065,101 +2065,101 @@
       - Not caused by drs even though they were negligent
     - Strong v Woolworths (2012) 246 CLR 18
       - But for causation under the Civil Liability Act 2002 (NSW) was considered and applied
-      - plaintiff slipped was a ‘sidewalk sales’ area outside a Big W store close to the ‘food court’. 
-        - The ‘side-walk sales’ area was under the control of Big W (Woolworths). 
+      - plaintiff slipped was a 'sidewalk sales' area outside a Big W store close to the 'food court'. 
+        - The 'side-walk sales' area was under the control of Big W (Woolworths). 
       - Woolworths had no system in place for the periodic inspection and cleaning - should have been around 20 minutes look at sidewalk	
         - 4.5 hours without looking
     - Wallace v Kam (2013) 250 CLR 375
-      - how the courts are to determine whether it is ‘appropriate’ for the scope of a defendant’s liability to extend to harm caused beyond the requirement to state ‘whether or not and why’ a defendant should be liable. 
+      - how the courts are to determine whether it is 'appropriate' for the scope of a defendant's liability to extend to harm caused beyond the requirement to state 'whether or not and why' a defendant should be liable. 
       - in many cases the scope of liability question will be relatively straight-forward.
       - medical failure to warn case
         - The High Court concluded that it was not appropriate for a surgeon to be found liable for damages for failing to warn of a different risk which did not eventuate and the plaintiff should not be compensated for the occurrence of a physical injury when he was prepared to accept the risk of that injury. 
-        - Therefore any failure by the surgeon to warn of the risk of paralysis could not be the “legal cause” of the neurapraxia condition. 
+        - Therefore any failure by the surgeon to warn of the risk of paralysis could not be the "legal cause" of the neurapraxia condition. 
   - The Second Stage of the causation Inquiry: Scope of Liability
     - Scope of liability under civil liability legislation 
       - Wallace v Kam (2013) 250 CLR 375
-        -  s 5D ‘guides but does not displace common law methodology’ ([22]) and that ‘the common law method is that a policy choice once made is maintained unless confronted and overruled’ ([22]) thereby mandating the use of common law precedent on policy choices
+        -  s 5D 'guides but does not displace common law methodology' ([22]) and that 'the common law method is that a policy choice once made is maintained unless confronted and overruled' ([22]) thereby mandating the use of common law precedent on policy choices
       - Waller v James [2015] NSWCA 23
         - coordinated IVF treatment for the plaintiffs and who had failed to explain the importance of a reference for genetic counselling regarding the risk of inheritance of a genetic condition called ATD from the father. 
         - stroke was not caused by ATD
-          - Damage not caused by defendant’s breach of duty, even though the plaintiffs would not have undergone the IVF treatment and would not have had a child, until the genetic risk could be eliminated
-        - scope of the defendant’s liability was held not to extend to the damage caused by the materialisation of a risk that the plaintiffs were prepared to take,
+          - Damage not caused by defendant's breach of duty, even though the plaintiffs would not have undergone the IVF treatment and would not have had a child, until the genetic risk could be eliminated
+        - scope of the defendant's liability was held not to extend to the damage caused by the materialisation of a risk that the plaintiffs were prepared to take,
       - Paul v Cooke (2013) 85 NSWLR 16
-        - the defendant radiologist’s negligent failure to diagnose an aneurysm in 2003 was held not be a cause of its rupture and the patient’s consequent stroke during surgery 
+        - the defendant radiologist's negligent failure to diagnose an aneurysm in 2003 was held not be a cause of its rupture and the patient's consequent stroke during surgery 
         - Same as others
   - Scope of liability at common law
     - Bennett v Minister of Community Welfare (1992) 176 CLR 40
       - defendant had negligently failed to properly advise the plaintiff, when he was a 16-year-old ward of the state, of his right to independent legal advice about the recovery of damages for an injury suffered while in the care of the defendant.
-        - The plaintiff claimed that the defendant’s initial failure to secure him independent legal advice was the cause of his personal injury action being statute-barred
+        - The plaintiff claimed that the defendant's initial failure to secure him independent legal advice was the cause of his personal injury action being statute-barred
     - Chappel v Hart (1998) 195 CLR 232
       - plaintiff suffered damage to her laryngeal nerve resulting in voice damage during an operation to remove a pharyngeal pouch in her throat. 
       - The plaintiff claimed that, had the defendant warned her of the risk, she would have consulted a more experienced specialist and would have had the surgery at a later time, when the random complication would probably not have occurred, though the risk would still have been present.
         - Plaintiff won, she would have had the surgery at another time by another surgeon and would probably have escaped the random complication because it was so rare. 
-  -  Rejection of the ‘common sense’ approach: a ‘purpose’ approach at common law
+  -  Rejection of the 'common sense' approach: a 'purpose' approach at common law
     - Allianz Australia Insurance Ltd v GSF Australia Pty Ltd (2005) 221 CLR 568 
-      - Gummow, Hayne and Heydon JJ in a joint judgment declined to rely on the March v Stramare ‘common sense’ approach to causation and held that a finding of causation should be made having regard to the purpose for which the question is directed
+      - Gummow, Hayne and Heydon JJ in a joint judgment declined to rely on the March v Stramare 'common sense' approach to causation and held that a finding of causation should be made having regard to the purpose for which the question is directed
       - The difficulty of applying a public law principle to negligence was noted: Wednesbury test
     - Travel Compensation Fund v Tambree (2005) 224 CLR 627.
       - accountant and auditor who had negligently prepared false and misleading statements concerning the financial position of a firm of travel agents.
-      - Those statements resulted in the plaintiff’s fund incurring financial losses when the travel agent became insolvent. 
+      - Those statements resulted in the plaintiff's fund incurring financial losses when the travel agent became insolvent. 
         - But the travel agent had continued to trade for a time illegally, having lost its licence.
-      - whether the defendants’ misleading report was a cause of this later loss or whether it was caused solely by the illegal activity of the travel agent.
-      - Held that where the plaintiff’s reliance on the defendant involved the avoidance of a risk and where the ‘very risk’ against which protection was sought materialised, then the defendant’s conduct must be a cause of the loss suffered as a result of the materialisation of the risk 
+      - whether the defendants' misleading report was a cause of this later loss or whether it was caused solely by the illegal activity of the travel agent.
+      - Held that where the plaintiff's reliance on the defendant involved the avoidance of a risk and where the 'very risk' against which protection was sought materialised, then the defendant's conduct must be a cause of the loss suffered as a result of the materialisation of the risk 
     - Purpose approach
       - purpose of a statute or even the common law, under which it is sought to impose liability, must be a relevant consideration on the causation question: 
-        - for what purpose is it sought to make the defendant liable for the plaintiff’s loss
+        - for what purpose is it sought to make the defendant liable for the plaintiff's loss
     - Hunter Area Health Service v Presland (2005) 63 NSWLR 22
-      - The plaintiff’s case was against the Hunter Area Health Service, responsible for the operations of two hospitals to which he had been admitted as well as the psychiatrist (employed at one hospital) who discharged him. 
+      - The plaintiff's case was against the Hunter Area Health Service, responsible for the operations of two hospitals to which he had been admitted as well as the psychiatrist (employed at one hospital) who discharged him. 
         - negligent because they failed to detain him as an involuntary patient under the Mental Health Act 1990 (NSW)
-        - such action would have avoided his killing his brother’s fiancé (as a result of his mental illness), his subsequent incarceration and the distress and economic loss which he suffered
+        - such action would have avoided his killing his brother's fiancé (as a result of his mental illness), his subsequent incarceration and the distress and economic loss which he suffered
   - Novus Actus Interveniens: Intervening causation 
     - Monaghan Surveyors Pty Ltd v Stratford Glen-Avon Pty Ltd [2012] NSWCA 94 
       -  Basten JA held, referring to s 5D(1) of the Civil Liability Act 2002 (NSW):
         - [I]t appears to have been intended that the normative inquiry under paragraph (b) would extend beyond what have traditionally been seen as elements of causation, to cover questions raised by intervening and successive causes, foreseeability and remoteness. ([70])
-    - The ‘chain of causation’
+    - The 'chain of causation'
       - Novus actus interveniens def
-        - A situation in which the later act severed the causal link between the defendant’s negligence and the plaintiff’s damage, 
-        - If an event is found by the court to have severed the causal link between the defendant’s negligent act and the plaintiff’s loss, then the court may decide that the defendant should not be liable for the damage.
+        - A situation in which the later act severed the causal link between the defendant's negligence and the plaintiff's damage, 
+        - If an event is found by the court to have severed the causal link between the defendant's negligent act and the plaintiff's loss, then the court may decide that the defendant should not be liable for the damage.
     - Voluntary acts 
       -  Haber v Walker [1963] VR 339
-        - plaintiff’s husband had been severely injured in a car accident which led to a serious depressive illness and his eventual suicide.
+        - plaintiff's husband had been severely injured in a car accident which led to a serious depressive illness and his eventual suicide.
           - deceased had voluntarily taken his own life, 
-          - Defense argued that suicide severed the causal link between the defendant’s negligence and the death of the deceased. 
+          - Defense argued that suicide severed the causal link between the defendant's negligence and the death of the deceased. 
             - Supreme court of VIC said not enough to sever, not voluntary
       - State Rail Authority of New South Wales v Chu [2008] NSWCA 14
         - Taiwanese news reporter who was an English language student in Australia. 
-        - fell on slippery stairs at the defendant’s railway station.
+        - fell on slippery stairs at the defendant's railway station.
           - sexually assaulted in a private residence and suffered physical and psychiatric injuries 
           - Unable to escape the rape due to injury
         - Compare to chomentowski v red garter
-  - Subsequent acts of the plaintiff or third parties and the ‘very risk’ created by the defendant 
+  - Subsequent acts of the plaintiff or third parties and the 'very risk' created by the defendant 
     - Chomentowski v Red Garter Restaurant (1970) 92 WN(NSW) 107
-      - plaintiff’s employer was not the cause of the plaintiff’s injuries inflicted by thieves when the plaintiff, a waiter, was robbed while taking his employer’s cash to a bank’s night safe after close of business.
-        - the defendant argued, the actions of the robber were deliberate and voluntary acts of a third party and therefore a novus actus interveniens which severed the causal link between the defendant’s negligence and the plaintiff’s loss.
-      - The court held that the defendant could not escape liability on this basis when the event that occurred was the very risk which it was the defendant’s duty to avoid. 
+      - plaintiff's employer was not the cause of the plaintiff's injuries inflicted by thieves when the plaintiff, a waiter, was robbed while taking his employer's cash to a bank's night safe after close of business.
+        - the defendant argued, the actions of the robber were deliberate and voluntary acts of a third party and therefore a novus actus interveniens which severed the causal link between the defendant's negligence and the plaintiff's loss.
+      - The court held that the defendant could not escape liability on this basis when the event that occurred was the very risk which it was the defendant's duty to avoid. 
     - Mahony v J Kruschich (Demolitions) Pty Ltd (1985) 156 CLR 52
-      - Question if subsequent negligent medical treatment for an injury caused by the defendant would sever the causal link between the defendant’s earlier act of negligence and the exacerbation of the plaintiff’s injury caused by the poor medical treatment. 
-        - Provided the plaintiff acts reasonably in seeking or accepting the treatment, negligence in the administration of the treatment need not be regarded as a novus actus interveniens which relieves the first tortfeasor of liability for the plaintiff’s subsequent condition. 
-        - However ... the original injury does not carry the risk of medical treatment or advice that is ‘inexcusably bad’. 
+      - Question if subsequent negligent medical treatment for an injury caused by the defendant would sever the causal link between the defendant's earlier act of negligence and the exacerbation of the plaintiff's injury caused by the poor medical treatment. 
+        - Provided the plaintiff acts reasonably in seeking or accepting the treatment, negligence in the administration of the treatment need not be regarded as a novus actus interveniens which relieves the first tortfeasor of liability for the plaintiff's subsequent condition. 
+        - However ... the original injury does not carry the risk of medical treatment or advice that is 'inexcusably bad'. 
   - Coincidence 
     - A coincidence in the sense of a fortuitous event which is causally unrelated to the act of the defendant will be a novus actus interveniens
-      -  A tortfeasor will not be liable where injury is caused by a coincidence, even where the tortfeasor’s actions might have resulted in the plaintiff being in the place at the time when the coincidence occurs, so long as the risk to the plaintiff has not been increased by the actions of the tortfeasor.
+      -  A tortfeasor will not be liable where injury is caused by a coincidence, even where the tortfeasor's actions might have resulted in the plaintiff being in the place at the time when the coincidence occurs, so long as the risk to the plaintiff has not been increased by the actions of the tortfeasor.
     - Canterbury Bankstown Rugby League Football Club Ltd v Rogers (1993) Aust Torts Reps ¶81-246, 
-      - plaintiff had suffered an injury to his jaw as a result of a battery by the defendant’s player during a rugby league match. 
+      - plaintiff had suffered an injury to his jaw as a result of a battery by the defendant's player during a rugby league match. 
       - While playing rugby league in England, he suffered an injury to his leg.
         - would not have been in England had it not been for the tort of the defendant but that was not sufficient to establish a causal link 
   -  Multiple causes
-    - There may be more than one ‘necessary condition’ which, in a given case, combine to bring about the plaintiff’s loss.
-    - the courts have recognised these difficulties by attributing causation to a defendant where that defendant’s act has been a ‘material’ cause of the loss even though it is not the sole cause.
-      -  ‘a necessary condition’, meaning that the defendant’s act must have been at least one event without which the plaintiff would not have suffered loss.
+    - There may be more than one 'necessary condition' which, in a given case, combine to bring about the plaintiff's loss.
+    - the courts have recognised these difficulties by attributing causation to a defendant where that defendant's act has been a 'material' cause of the loss even though it is not the sole cause.
+      -  'a necessary condition', meaning that the defendant's act must have been at least one event without which the plaintiff would not have suffered loss.
     - Cumulative causation: material cause at common law 
       - Bonnington Castings Ltd v Wardlaw [1956] AC 
-        - plaintiff’s loss consists of an illness or disease which is of gradual onset and caused by several factors, where the degree of contribution of each individual factor is unascertainable
+        - plaintiff's loss consists of an illness or disease which is of gradual onset and caused by several factors, where the degree of contribution of each individual factor is unascertainable
         - plaintiff suffered from a lung disease which was caused by exposure to silica dust which had accumulated in his lungs.
           - Some of his exposure had been due to the negligence of his employer in failing to properly maintain a dust extraction unit 
       - Henville v Walker (2001) 206 CLR 459
         - explained the notion of material contribution
-        - If the defendant’s breach has ‘materially contributed’ to the loss or damage suffered, it will be regarded as a cause of the loss or damage
+        - If the defendant's breach has 'materially contributed' to the loss or damage suffered, it will be regarded as a cause of the loss or damage
     - Increase in risk at common law 
       - McGhee v National Coal Board [1972] 3 All ER 1008
         - Did not provide showers at end of day in dusty brick factory, increasing chance of dermatitis 
@@ -2167,11 +2167,11 @@
         - scrutinised and reinterpreted by the House of Lords in the later case of Wilsher v Essex AHA [1988] AC 1074
       -  Wilsher v Essex AHA [1988] AC 1074
         -  plaintiff had been born prematurely and was negligently given excessive oxygen by medical staff at birth.
-        - He argued that the defendant’s negligence increased the risk of blindness but the House of Lords refused to accept that an increase in risk amounted to proof of causation.
-        -  House of Lords admitted that in some circumstances, there will be evidence not amounting to evidence of material causation, that will allow a court to draw an inference of causation in the plaintiff’s favour. 
+        - He argued that the defendant's negligence increased the risk of blindness but the House of Lords refused to accept that an increase in risk amounted to proof of causation.
+        -  House of Lords admitted that in some circumstances, there will be evidence not amounting to evidence of material causation, that will allow a court to draw an inference of causation in the plaintiff's favour. 
       - Evans v Queanbeyan City Council [2011] NSWCA 230, [23]-[26
         - In Australia the increasing of risk of harm by a tortious act is, alone, insufficient for a conclusion of causation by material contribution to that harm or for a conclusion of responsibility in law for that harm.
-  - Bridging the ‘evidence gap’ 
+  - Bridging the 'evidence gap' 
     - Wallaby Grip (BAE) Pty Ltd (in liq) v Macleay Area Health Service (1998) 17 NSWCCR 355
       - New South Wales Court of Appeal reviewed the common law as to causation and several prior decisions in mesothelioma cases and held that:
         - One or more defendants may be liable if each has been shown to have negligently exposed a plaintiff to a risk of contracting the fatal disease. 
@@ -2179,15 +2179,15 @@
       -  material causation in mesothelioma cases
         - for policy reasons, the usual requirements for proof of causation should be relaxed in these types of cases.
       - Alcan Gove Pty Ltd v Zabic [2015] HCA 33 
-        - that ‘the Fairchild exception has not to date been recognised’ in Australia
+        - that 'the Fairchild exception has not to date been recognised' in Australia
     -  Carangelo v New South Wales [2016] NSWCA 12
-      -  a plaintiff could not rely on s 5D(2) to establish causation merely because there was insufficient evidence to support a conclusion that the defendant’s negligence caused the plaintiff’s injury. evidence ‘did not support the conclusion that it was more likely than not that there would have been a different outcome had those steps been taken’ 
+      -  a plaintiff could not rely on s 5D(2) to establish causation merely because there was insufficient evidence to support a conclusion that the defendant's negligence caused the plaintiff's injury. evidence 'did not support the conclusion that it was more likely than not that there would have been a different outcome had those steps been taken' 
   - Lost chances at common law 
     -  Tabet v Gett (2010) 240 CLR 53
       - claim in respect of a lost chance caused by negligence was generally not maintainable at common law in Australia.
-      - So the plaintiff cannot prove, on the balance of probabilities, that the defendant’s negligence caused the loss (in the sense that it was the most likely cause, that is, that it was more than 50% likely to have caused the loss).
+      - So the plaintiff cannot prove, on the balance of probabilities, that the defendant's negligence caused the loss (in the sense that it was the most likely cause, that is, that it was more than 50% likely to have caused the loss).
       - the doctor had been negligent in failing to order the scan two days earlier and that failure had deprived the plaintiff of a 40% chance of avoiding the decline which she suffered following the seizure which contributed 25% to her total disability. 
-      - New South Wales Court of Appeal74 upheld the appeal of the defendant, concluding that the defendant’s negligence was not a cause of the plaintiff’s loss. 
+      - New South Wales Court of Appeal74 upheld the appeal of the defendant, concluding that the defendant's negligence was not a cause of the plaintiff's loss. 
         - The High Court held that the plaintiff was not entitled to compensation because the defendant's breach of the duty of care caused the plaintiff to lose a possibility, but not a probability, of a better medical outcome.
     -  Sellars v Adelaide Petroleum NL (1994) 179 CLR 33
       - High Court, by a majority of 3 to 2, 
@@ -2196,7 +2196,7 @@
     -  Badenach v Calvert (2016) 257 CLR 44
       -  The plaintiff claimed that the solicitor had negligently failed to advise the testator about the possibility of such a claim and about strategies to protect the estate assets from a claim.
       - Could not proved that contract would have been entered into but for the impugned conduct. 
-  - Civil Liability Legislation and causation in ‘Failure to Warn’ cases
+  - Civil Liability Legislation and causation in 'Failure to Warn' cases
     - Complex questions of causation arise in cases of medical negligence where the negligence on the part of the health professional consists of a failure to warn a patient of some risk or complication associated with treatment to be provided by the health professional
     - The High Court held in all cases that this question must be determined on a subjective basis:
       - Rogers v Whitaker (1992) 175 CLR 479, 
@@ -2223,24 +2223,24 @@
     - McLean v Tedman (1984) 155 CLR 306
       - Evidentiary burden of proof on defendant
       -  employer-employee duty of care
-      - In that case, the plaintiff’s evidence established that the defendant employer had failed properly to institute and maintain a safe system of work. 
+      - In that case, the plaintiff's evidence established that the defendant employer had failed properly to institute and maintain a safe system of work. 
         - The defendant employer knew that the plaintiff and other workers, who were garbage collectors, routinely ran back and forth across busy roads emptying garbage bins from one side of the road into a truck being driven along the opposite side of the road
-      - Defendant claimed safe system would have made the employees’ shift longer and the defendant argued that, even if it had tried to implement such a system, the employees, including the plaintiff, would not have followed it.
-        - Failed bc no proof they wouldn’t follow 
+      - Defendant claimed safe system would have made the employees' shift longer and the defendant argued that, even if it had tried to implement such a system, the employees, including the plaintiff, would not have followed it.
+        - Failed bc no proof they wouldn't follow 
   - Fact and law: functions of judge and jury 
     -  The breach of duty issue (that is, whether the defendant was negligent) is a question of fact to be determined by the tribunal of fact according to the tests set down by law. 
       - The determination of this question involves asking if the risk that brought about the breach was reasonably foreseeable and, then, the calculus of negligence must be applied to determine the reasonable response to the risk. 
-  - The ‘no evidence’ rule 
+  - The 'no evidence' rule 
     -  If, however, there is any evidence at all, no matter how slight, which could reasonably support a finding against the defendant, the judge must allow the case to go to the jury.
-    - Where the judge has decided that there is a prima facie case of negligence, or indeed any other tortious liability against a defendant, it is then open to the defendant to submit that there is ‘no case to answer’ and to seek a verdict by direction.
+    - Where the judge has decided that there is a prima facie case of negligence, or indeed any other tortious liability against a defendant, it is then open to the defendant to submit that there is 'no case to answer' and to seek a verdict by direction.
   - 12.3 The Standard of Proof 
     - Civil standard of proof 
-      - So in a negligence claim, the plaintiff having established a duty of care will also have to show that it is more likely than not that the defendant was negligent and that the negligence caused the plaintiff’s loss
+      - So in a negligence claim, the plaintiff having established a duty of care will also have to show that it is more likely than not that the defendant was negligent and that the negligence caused the plaintiff's loss
     - Inferences 
       - Where a plaintiff relies on circumstantial evidence and seeks to have the court draw an inference that the defendant was negligent, the evidence must give rise to a positive inference rather than allowing mere conjecture or a guess as to the facts
       - Holloway v McFeeters (1956) 94 CLR 470
-        - widow of a pedestrian who was killed at night in a ‘hit and run’ accident.
-        - She sued the Nominal Defendant in respect of her husband’s death
+        - widow of a pedestrian who was killed at night in a 'hit and run' accident.
+        - She sued the Nominal Defendant in respect of her husband's death
           - no direct evidence of the accident. 
             - There were no witnesses, and the victim was deceased
           - deceased was guilty of 50% contributory negligence, having been on the roadway. 
@@ -2250,11 +2250,11 @@
           - Plaintiff and wife both suffered loss of memory in respect of the accident
           - plaintiff failed to prove that the collision had been caused by the negligence of the deceased driver of the other car because the evidence did not permit any inferences as to the conduct of either driver immediately before the collision
     - 12.5 Res Ipsa Loquitur 
-      - “res ipsa loquitur’, which means ‘the thing itself speaks’, is an aid to a plaintiff in proving a prima facie case in some situations. 
+      - "res ipsa loquitur', which means 'the thing itself speaks', is an aid to a plaintiff in proving a prima facie case in some situations. 
         - a method of inferential reasoning
         - Scott v London & St Katherines Docks Co (1865) 3 H&C 596 (Ex Ch
           - The idea that the happening of an event (the res) can itself be evidence of negligence without the need for further evidence of negligence
-          - The plaintiff was injured when some bags of sugar fell onto him while he was standing near the doorway of the defendant’s warehouse.
+          - The plaintiff was injured when some bags of sugar fell onto him while he was standing near the doorway of the defendant's warehouse.
         - Res ipsa loquitur elements
           - (a) the defendant must be in sole control of the situation; and 
           - (b) the accident must be of a kind that would not ordinarily happen unless someone is negligent; and 
@@ -2272,27 +2272,27 @@
           - the plaintiff had been injured in an accident when the steering system of a car failed.
           - Too complex to be standard knowledge
       - The cause of the accident is not known 
-        - Can only aid if no proof of the plaintiff’s case where the actual cause of the accident is known
+        - Can only aid if no proof of the plaintiff's case where the actual cause of the accident is known
         - Barkway v South Wales Transport Co Ltd [1950] 1 All ER 39
           - a bus crashed because a tyre had burst, it was held that res ipsa loquitur could not be relied upon because there was evidence of the circumstances of the accident.
       - The effect of reliance on res ipsa loquitu
         - effect of the operation of the maxim is simply to enable the plaintiff to make out a prima facie case of negligence
-          - operation of the maxim does not involve a shift in the onus of proof to the defendant, nor does it raise some kind of presumption in the plaintiff’s favour
-        - The maxim, when it applies, protects the plaintiff from a ‘no case to answer’ submission from the defendant.
+          - operation of the maxim does not involve a shift in the onus of proof to the defendant, nor does it raise some kind of presumption in the plaintiff's favour
+        - The maxim, when it applies, protects the plaintiff from a 'no case to answer' submission from the defendant.
 - Ch 14: Reform of the Law of Negligence in NSW
   - CLA 2002 Part 1A division 3: Causation 
     - s 5D(1)
       - (a) that the negligence was a necessary condition of the occurrence of the harm (factual causation); and 
-      - (b) that it is appropriate for the scope of the negligent person’s liability to extend to the harm so caused (scope of liability).
+      - (b) that it is appropriate for the scope of the negligent person's liability to extend to the harm so caused (scope of liability).
       -  Adeels Palace Pty Ltd v Moubarak (2009) 239 CLR 420
         - comprises a two-stage approach to causation, 
           - treating factual causation 
           - and scope of liability as separate issues. 
-    - Section 5D(2) allows the courts to accommodate some ‘exceptional’ cases where the ‘necessary condition’ requirement in s 5D(1) cannot be met
+    - Section 5D(2) allows the courts to accommodate some 'exceptional' cases where the 'necessary condition' requirement in s 5D(1) cannot be met
     - Subsection (3) of s 5D deals with the question of how to determine what a plaintiff would have done if the defendant had not been negligent, where that is an issue relevant to causation. 
       - Counters hindsight bias 
       - Elbourne v Gibbs [2006] NSWCA 127
-    - s 5E abolished the common law ‘proposition’ that permitted a shift in the onus of proof to the defendant in some very limited circumstances.
+    - s 5E abolished the common law 'proposition' that permitted a shift in the onus of proof to the defendant in some very limited circumstances.
       - restates the common law that the plaintiff always bears the onus of proving on the balance of probabilities any fact relevant to the issue of causation.
   - Buljat v Coles Supermarkets Australia Pty Ltd [2022] ACTCA 71 
     - Ruled against a customer who sustained injuries after slipping on grape in a Public Liability case. 
@@ -2305,7 +2305,7 @@
   - Performance Cars Ltd v Abraham [1962] 1 QB 33
     - a case concerning damage to property rather than personal injury.
     - The question for the English Court of Appeal was whether the defendant should be liable for the cost of respraying the car when it already required respraying at the time the defendant ran into it. 
-      - The court concluded that, as the defendant ‘takes the plaintiff as he finds him’, the defendant should not be liable for the respraying
+      - The court concluded that, as the defendant 'takes the plaintiff as he finds him', the defendant should not be liable for the respraying
     - had previously been run into by another negligent driver who had caused damage which necessitated the respraying of the whole of the lower panels of the car. 
 - Causation
 - P v D - tort - action, giving rise to the tort incident
@@ -2346,31 +2346,31 @@
 # Week 7: Scope of Liability: Remoteness of Damage 
 
 - The scope of liability
-  - whether it is appropriate to impose liability on the defendant for the plaintiff’s damage
+  - whether it is appropriate to impose liability on the defendant for the plaintiff's damage
 - Civil Liability Legislation
   - S 5D(1)(b)
     - that it is appropriate for the scope of the negligent person's liability to extend to the harm so caused ("scope of liability" ).
-  - Wallace v Kam (2013) 250 CLR 375, [22] the High Court held that ‘Section 5D guides but does not displace common law methodology’
+  - Wallace v Kam (2013) 250 CLR 375, [22] the High Court held that 'Section 5D guides but does not displace common law methodology'
     - the common law test for remoteness of damage remains appropriate.
   -  Meandarra Aerial Spraying Pty Ltd v GEJ Geldard Pty Ltd [2013] 1 Qd R 319, 
-    - a case concerning aerial crop spraying that damaged the plaintiff’s crops some 20 kilometres from the site being sprayed
+    - a case concerning aerial crop spraying that damaged the plaintiff's crops some 20 kilometres from the site being sprayed
   - Weber v Greater Hume Shire Council (2019) 100 NSWLR 
-    - a case concerning the escape of fire from the council’s rubbish tip and the destruction of the plaintiff’s house 11 kilometres away.
+    - a case concerning the escape of fire from the council's rubbish tip and the destruction of the plaintiff's house 11 kilometres away.
     - The court recognised that the question of remoteness was a relevant consideration in that case in application of the New South Wales civil liability provisions concerning both breach of duty and of scope of liability
-  - The ‘Direct consequences’ Test
-    - In the years before Donoghue v Stevenson [1932] AC 562, the courts had simply asked whether the damage claimed was a ‘direct consequence’ of the defendant’s act
+  - The 'Direct consequences' Test
+    - In the years before Donoghue v Stevenson [1932] AC 562, the courts had simply asked whether the damage claimed was a 'direct consequence' of the defendant's act
   - Re Polemis
-    - According to the ‘direct consequences’ test, a defendant would be liable for all damage flowing from the negligent act, no matter how improbable or far-fetched
+    - According to the 'direct consequences' test, a defendant would be liable for all damage flowing from the negligent act, no matter how improbable or far-fetched
     - The decision in Re Polemis was widely criticised as having the effect of making the potential liability of a defendant impossibly broad, particularly after the decision in Donoghue v Stevenson which extended the class of plaintiffs to whom a duty of care was owed.
   - 
   -  Reasonable Foreseeability of Damage 
     - The Wagon Mound (No 1) [1961] AC 388
-      - ruled against the ‘direct consequences’ test
-      - replaced it with a ‘reasonable foreseeability’ test for remoteness of damage. 
+      - ruled against the 'direct consequences' test
+      - replaced it with a 'reasonable foreseeability' test for remoteness of damage. 
       - Defendant successful - not foreseable 
-    - The meaning of ‘reasonably foreseeable’ 
+    - The meaning of 'reasonably foreseeable' 
       - The Wagon Mound (No 2) was whether the risk of damage to the ships by fire was reasonably foreseeable. 
-        - a risk of injury was reasonably foreseeable if it was a ‘real risk ... which would occur to the mind of a reasonable man ... and which he would not brush aside as far-fetched’ (643, Lord Reid)
+        - a risk of injury was reasonably foreseeable if it was a 'real risk ... which would occur to the mind of a reasonable man ... and which he would not brush aside as far-fetched' (643, Lord Reid)
         - Plaintiff successful 
       - Applied in chapman v hearse
       -  Cattanach v Melchior (2003) 215 CLR 
@@ -2384,31 +2384,31 @@
     - Mount Isa Mines Ltd v Pusey (1970) 125 CLR 383
       - plaintiff was employed by the defendant and went to the aid of two fellow employees who had been badly burned when an electrical switchboard exploded, due to the negligence of the employer.
       - Developed rare consequence of schizo. Held foreseeable consequence
-      - Windeyer J held that ‘only harm of a like kind’ need be foreseeable but pointed out that ‘[t]his comfortable latitudinarian doctrine has however the obvious difficulty that it leaves the criterion for classification of kinds or types of harm undefined and at large’ (
+      - Windeyer J held that 'only harm of a like kind' need be foreseeable but pointed out that '[t]his comfortable latitudinarian doctrine has however the obvious difficulty that it leaves the criterion for classification of kinds or types of harm undefined and at large' (
     - Rowe v McCartney [1976] 2 NSWLR 72
       - referred to the comments of Windeyer J regarding the lack of criteria by which to define the type of damage for the purposes of the remoteness test and pointed out that the level of abstraction used would produce different results. 
-      - She had allowed a friend to drive her (the plaintiff’s) car in which the plaintiff was a passenger. The friend had caused an accident in which he became quadriplegic. 
+      - She had allowed a friend to drive her (the plaintiff's) car in which the plaintiff was a passenger. The friend had caused an accident in which he became quadriplegic. 
       - The plaintiff developed a psychiatric condition which the medical evidence attributed to her feelings of guilt about the plight of her friend. 
-        - plaintiff’s illness ‘arose from (the plaintiff’s) own antecedent conduct which was not a cause of nor caused by the accident’ 
+        - plaintiff's illness 'arose from (the plaintiff's) own antecedent conduct which was not a cause of nor caused by the accident' 
     - Nader v Urban Transit Authority of New South Wales (1985) 2 NSWLR 501,
       - considered that Rowe v McCartney was not authority for the proposition that mental illness can be divided into discrete categories or kinds.
         - it was caused in a manner which was different from that which was foreseeable.
       - 10-year-old boy who received a minor head laceration and bruising when he fell as he was alighting from a school bus before it had come to a stop. 
         - Developed Ganser Syndrome 
-          - defendant’s negligence was a material cause of the condition, so the remaining issue was whether the Ganser Syndrome illness was damage which was too remote to be compensable by the defendant.
+          - defendant's negligence was a material cause of the condition, so the remaining issue was whether the Ganser Syndrome illness was damage which was too remote to be compensable by the defendant.
     -  Kavanagh v Akhtar (1998) 45 NSWLR 58
-      - Mrs Akhtar suffered a permanent and debilitating left shoulder and arm injury when a heavy box of goods was dropped onto her in the defendant’s shop, as a result of the negligence of two of the defendant’s employees. 
-      - Akhtar cut her hair bc she couldn’t manage, w/o husband permission, resultiung in separation
+      - Mrs Akhtar suffered a permanent and debilitating left shoulder and arm injury when a heavy box of goods was dropped onto her in the defendant's shop, as a result of the negligence of two of the defendant's employees. 
+      - Akhtar cut her hair bc she couldn't manage, w/o husband permission, resultiung in separation
         - Severe psychiatric illness
-        - The Court of Appeal held that it was foreseeable that the plaintiff’s injuries would place strain on her marriage and that such strain might lead to a breakdown in the marriage which, in turn, might lead to psychiatric illness.
-      - The fact that the plaintiff’s husband’s extreme reaction to her hair-cutting was unforeseeable was held to be ‘irrelevant in the light of cases such as Hughes and Nader, so long as psychiatric injury is itself regarded as a foreseeable consequence of the physical injury inflicted on the (plaintiff)’ 
+        - The Court of Appeal held that it was foreseeable that the plaintiff's injuries would place strain on her marriage and that such strain might lead to a breakdown in the marriage which, in turn, might lead to psychiatric illness.
+      - The fact that the plaintiff's husband's extreme reaction to her hair-cutting was unforeseeable was held to be 'irrelevant in the light of cases such as Hughes and Nader, so long as psychiatric injury is itself regarded as a foreseeable consequence of the physical injury inflicted on the (plaintiff)' 
     - Gittani Stone Pty Ltd v Pavlovic [2007] NSWCA 355
       - The plaintiff was shot by a fellow employee (Lee) who had a record of previous violent unprovoked attacks in the workplace, including some against the plaintiff, though it was not known that Lee owned a gun. 
         - The defendant employer had failed to take any action to dismiss the violent employee or otherwise deal with him. 
         - The defendant was held liable for breach of its duty of care toward its plaintiff employee and its appeal was dismissed. 
-  -  The ‘Egg-Shell Skull’ Rule
+  -  The 'Egg-Shell Skull' Rule
     -  Rule from Hughes v Lord Advocate [1963] AC 837 
-      - egg-shell skull’ rule
+      - egg-shell skull' rule
         - a defendant will be liable for all damage caused by an act provided that the kind of damage is reasonably foreseeable.
       - Dulieu v White & Sons [1901] 2 KB 669
         - Take the plaintiff as he finds him
@@ -2416,27 +2416,27 @@
         - plaintiff was the victim of a burn injury to his lip while at work.
           - The cells of the lip tissue were in a pre-malignant state at the time of the burn, which triggered the cancer from which the plaintiff died.
           - Not too remote, even though not foreseable bc the original injury was
-      - The ‘egg-shell skull’ rule applies to psychiatric damage as well as physical damage,
+      - The 'egg-shell skull' rule applies to psychiatric damage as well as physical damage,
         -  Shorey v PT Ltd (2003) 197 ALR 410
           - plaintiff was injured in a fall at a shopping centre. 
           - While her physical injuries largely resolved, she suffered a severe and grossly disabling condition which did not have an organic foundation.
-          - ‘conversion disorder
+          - 'conversion disorder
       - Glen v Sullivan [2015] NSWCA 19
         - the defendant has the burden of adducing evidence to show that the incapacity would have come about independently of the accident,
       - Clark v Tieman Industries Pty Ltd [2011] VSC 500
-        - The defendant must take the plaintiff as found, in his or her physical, mental, social and economic circumstances (‘eggshell-skull principle’). 
+        - The defendant must take the plaintiff as found, in his or her physical, mental, social and economic circumstances ('eggshell-skull principle'). 
           - This principle exists independently of the remoteness principle and the rule that the defendant does not need to foresee the extent of the type of injury to the plaintiff which is otherwise foreseeable. 
-        - The plaintiff at all times bears the legal onus of proving the nature, extent and duration of the injuries sustained due to the defendant’s negligence.
+        - The plaintiff at all times bears the legal onus of proving the nature, extent and duration of the injuries sustained due to the defendant's negligence.
       - Pyne v Wilkenfeld (1981) 26 SASR 441
-        - the defendant, who caused the plaintiff’s initial neck injury in a car accident, was held liable for further injury sustained by the plaintiff in a later fall which occurred because the neck injury necessitated the wearing of a neck brace which restricted the plaintiff’s vision
+        - the defendant, who caused the plaintiff's initial neck injury in a car accident, was held liable for further injury sustained by the plaintiff in a later fall which occurred because the neck injury necessitated the wearing of a neck brace which restricted the plaintiff's vision
       - McColl v Dionisatos [2002] NSWSC 27
-        - ‘egg-shell skull’ rule has been held to be applicable to property damage
-        - defendants liable for the destruction of the plaintiff’s wall caused by leaking water. 
-      - Lagden v O’Connor [2004] 1 AC 1067
-        - The plaintiff’s car was negligently damaged by the defendant and the plaintiff, owing to a lack of cash funds, was unable to hire a replacement vehicle at cheap ‘spot hire rates’. 
+        - 'egg-shell skull' rule has been held to be applicable to property damage
+        - defendants liable for the destruction of the plaintiff's wall caused by leaking water. 
+      - Lagden v O'Connor [2004] 1 AC 1067
+        - The plaintiff's car was negligently damaged by the defendant and the plaintiff, owing to a lack of cash funds, was unable to hire a replacement vehicle at cheap 'spot hire rates'. 
           - Instead, he hired a car on credit with associated extra expense. 
           - This rule applies to the economic state of the victim in the same way as it applies to his physical and mental vulnerability. (
-      - New South Wales Court of Appeal approved and adopted Lagden v O’Connor in Tyco Australia Pty Ltd v Optus Networks Pty Ltd [2004] NSWCA 333, where Handley JA held:
+      - New South Wales Court of Appeal approved and adopted Lagden v O'Connor in Tyco Australia Pty Ltd v Optus Networks Pty Ltd [2004] NSWCA 333, where Handley JA held:
         - [I]t is now clear that an injured party that can afford to take steps to mitigate its damage because it has business interruption insurance will recover less than an uninsured party in the same position who cannot afford to take such steps. 
         - Insurance has now become indirectly relevant where it facilitates mitigation. ([192]) 
 # Week 8: Trevorrow
@@ -2449,18 +2449,18 @@
   - What the original dispute was
     - Bruce (Plaintiff) successfully sued the State of South Australia for negligence, false imprisonment, misfeasance in public office, breach of fiduciary duties, and breach of procedural fairness. 
     - Original success attributed to colonial documentary evidence which was available to support his precise legal claims and the willingness of Justice Tom Gray to hear and give weight to Indigenous witnesses and expert socio-medical evidence
-      - The court was able to use the state’s own records to prove that it had breached its own legislative scheme
+      - The court was able to use the state's own records to prove that it had breached its own legislative scheme
     - The original Judge found that Mrs Angas and the APB acted without power when they placed Bruce Trevorrow in the care and custody of Mrs Davies, who was (after the event) approved as a foster parent.
       - The Judge found that Joseph Trevorrow and Thora Karpany did not consent to the placement, at the time or later.
       - Bruce Trevorrow died after judgment was entered for him. 
         - His widow, as executrix of his estate, is the respondent to the appeal.
   - Current reason for trial
-    - the Full Court overturning the judge at first instance’s finding that Mrs Angas, the APB’s agent, was prejudiced.
-      - she acted on behalf of the Aborigines Protection Board (“the APB”), a statutory body corporate, constituted by the Aborigines Act 1934 (SA) (“the 1934 Act”).
+    - the Full Court overturning the judge at first instance's finding that Mrs Angas, the APB's agent, was prejudiced.
+      - she acted on behalf of the Aborigines Protection Board ("the APB"), a statutory body corporate, constituted by the Aborigines Act 1934 (SA) ("the 1934 Act").
       - Lengthy trial with lots of evidence, and lots not available
 
-    - The State now appeals against the Judge’s decision and findings. 
-      - The State does not challenge the Judge’s findings on causation, nor does it challenge the assessment of damages.
+    - The State now appeals against the Judge's decision and findings. 
+      - The State does not challenge the Judge's findings on causation, nor does it challenge the assessment of damages.
       - The State challenges a number of findings of fact by the Judge.
         - The State challenges the finding that the respective causes of action were made out as against persons and entities for whose conduct the State is legally answerable. 
         - The State challenges the finding that Mrs Angas acted on inadequate material. 
@@ -2469,7 +2469,7 @@
         - The State challenges that Mrs Davies received no training
         - The State challenges that no proper enquiry into her circumstances before putting Bruce Trevorrow in her care
         - The State challenges the finding that Bruce Trevorrow recovered quite quickly. 
-        - The State challenges the reliance on Sergeant Liebing’s report to reject the findings in the ACH notes
+        - The State challenges the reliance on Sergeant Liebing's report to reject the findings in the ACH notes
     - State uses letters and hospital report suggesting that conditions in the Trevorrow home were unsatisfactory. 
     - Could not call key witnesses
       - Mrs Angas, 
@@ -2498,30 +2498,30 @@
       - His parents were given no explanation or opportunity to find out why
     - When they tried to find him they experienced veiled threats with respect to removal of their other children.
       - State officials, pretending to have powers which they did not have, placed Bruce with a white family who had responded to a newspaper advertisement offering Aboriginal children for adoption
-    - Mrs Angas was unsympathetic to Bruce’s mother, 33 made unfounded presumptions about Bruce’s parents’ care for him being inadequate, 34 and misrepresented to Bruce’s mother that Bruce was still recovering in hospital when he had been fostered to a white family, the Davies.
+    - Mrs Angas was unsympathetic to Bruce's mother, 33 made unfounded presumptions about Bruce's parents' care for him being inadequate, 34 and misrepresented to Bruce's mother that Bruce was still recovering in hospital when he had been fostered to a white family, the Davies.
       - Policy had changed, so what she did was no longer allowed
-    - Original Trial Judge (‘OTJ’) found Bruce Trevorrow was well cared for, even though he had had a difficult birth and had had to stay in hospital for a time
+    - Original Trial Judge ('OTJ') found Bruce Trevorrow was well cared for, even though he had had a difficult birth and had had to stay in hospital for a time
     - Mr Weightman, a senior welfare officer did not recommend relocating children due to home
-    - Racist hospital “history sheet” records:
+    - Racist hospital "history sheet" records:
       - Child unwell for ?1/52 … he is one of 3 ¼ cast children. 
       - The other two children are neglected. 
         - The mother has cleared out and father is boozing. 
       - Apparently father is nourishing the children with alcohol (could Almoner please investigate).
-    - OTJ found that Mrs Angas was aware of Sergeant Liebing’s report of 14 August 1957
+    - OTJ found that Mrs Angas was aware of Sergeant Liebing's report of 14 August 1957
       - no enquiry was made as to the Trevorrow family circumstances, before the decision was made to foster the child. 
       - no proper enquiry made into the background and suitability of Mrs Davies, before the fostering took place: [1078]. 
         - He found that she had no training for the role of foster mother, in particular, for the role of foster mother of an Aboriginal child
     - The manner of return took place in circumstances that fell below the standard of care required. 
       - There was a breach of duty
-      - The failure to provide more effective treatment to address the plaintiff’s problems permitted them to compound and become further entrenched, making the treatment in adult life all the more difficult.
+      - The failure to provide more effective treatment to address the plaintiff's problems permitted them to compound and become further entrenched, making the treatment in adult life all the more difficult.
       - Admitted for mental and behavioural problems
-    - Dr Moffatt’s evidence demonstrated that the plaintiff was, at the time, mentally ill.
-      -  poorly equipped to be placed into his mother’s home, effectively on minimal notice. 
+    - Dr Moffatt's evidence demonstrated that the plaintiff was, at the time, mentally ill.
+      -  poorly equipped to be placed into his mother's home, effectively on minimal notice. 
     - In 1963, the proclamation of the Aboriginal Affairs Act 1962 (SA) transferred guardianship of the plaintiff from the APB to Thora. Gray J found that no steps were taken to personally notify Thora of this change until 1966.
     - 
   - State the issue raised by the material facts 
     - Law(s)/Statue(s) in contention
-      - The tort of misfeasance in public office, which is a public tort brought against officials for their abuse of power, was upheld in Bruce’s case.
+      - The tort of misfeasance in public office, which is a public tort brought against officials for their abuse of power, was upheld in Bruce's case.
         - notoriously difficult to prove and therefore unlikely to offer accountability to other Stolen Generations victims
         - Held guilty
       - negligence, 
@@ -2546,7 +2546,7 @@
     - Arguments made by each side
       - Defense 
         - Brisbane South Regional Health Authority v Taylor (1996) 186 CLR 541 
-          - So, it must often happen that important, perhaps decisive, evidence has disappeared without anybody now “knowing” that it ever existed. Similarly, it must often happen that time will diminish the significance of a known fact or circumstance because its relationship to the cause of action is no longer as apparent as it was when the cause of action arose
+          - So, it must often happen that important, perhaps decisive, evidence has disappeared without anybody now "knowing" that it ever existed. Similarly, it must often happen that time will diminish the significance of a known fact or circumstance because its relationship to the cause of action is no longer as apparent as it was when the cause of action arose
           - Reason for limitation periods
             - Bruce Trevorrow instigated proceedings out of time and sought orders extending the time fixed for the bringing of causes of action pursuant to s 48 of the Limitation of Actions Act 1936 (SA) ('Limitation of Actions Act').
       - Plaintiff
@@ -2575,13 +2575,13 @@
             - the plaintiff's removal was a 'material cause' of his lifelong depression and its consequences. 
   - What each judge thought
     - Kirsten Gray
-      -  three interrelated claims with respect to the Supreme Court’s failure to uphold the trial judge’s finding of false imprisonment
+      -  three interrelated claims with respect to the Supreme Court's failure to uphold the trial judge's finding of false imprisonment
         -  The first is with respect to the role of the intentional torts in vindicating rights to be free from unlawful interference by the executive and more generally to protect against the arbitrary exercise of power
         - The second is with respect to the significance of upholding these rights to protect common law constitutional values including the rule of law. 
         - The third is with respect to institutional and personal responsibility to reject racist behaviour
-      - there was no false imprisonment case with facts directly applicable to Bruce’s situation
-      - While Bruce’s situation did not fit neatly with existing categories of false imprisonment, the vindication of rights fits clearly with the purpose of this tort. 
-        - “I disagree with the majority’s finding that Mr Trevorrow’s restraint arose only from his young age and the obligation of Mrs Davies to care for him”
+      - there was no false imprisonment case with facts directly applicable to Bruce's situation
+      - While Bruce's situation did not fit neatly with existing categories of false imprisonment, the vindication of rights fits clearly with the purpose of this tort. 
+        - "I disagree with the majority's finding that Mr Trevorrow's restraint arose only from his young age and the obligation of Mrs Davies to care for him"
     - Tom Gray
       - foregrounds these public aspects of false imprisonment with reference to frequently cited authorities:
         - Re Bolton; Ex parte Beane
@@ -2597,63 +2597,63 @@
 
   - Common law defences
     - The first of the common law defences is contributory negligence. 
-      - contributory negligence may also operate as a total defence because the legislation enables a court to reduce a plaintiff’s damages by 100%,
-      - the defendant must prove that the plaintiff’s own carelessness contributed to the damage suffered enabling the court to reduce the plaintiff’s damages based on the degree of her own fault. 
+      - contributory negligence may also operate as a total defence because the legislation enables a court to reduce a plaintiff's damages by 100%,
+      - the defendant must prove that the plaintiff's own carelessness contributed to the damage suffered enabling the court to reduce the plaintiff's damages based on the degree of her own fault. 
     - The second of the common law defences is volenti non fit injuria or voluntary assumption of risk. 
       - Complete defense, no damages, and verdict for the defendant requires the defendant to prove that the plaintiff voluntarily assumed the risk of the injury, thereby relieving the defendant of liability entirely.
-    - plaintiffs may also now be prevented from recovering where they were not warned of an ‘obvious risk’3 (see [13.5.1.1]) or where they were injured because of an ‘inherent risk’ 
+    - plaintiffs may also now be prevented from recovering where they were not warned of an 'obvious risk'3 (see [13.5.1.1]) or where they were injured because of an 'inherent risk' 
       - Recovery by plaintiffs may also be prevented where they have taken part in dangerous recreational activities (
   - The Defence of contributory negligence
     - In a negligence action, the court determines liability of a defendant based on the failure to act as a reasonable person would act. 
     - Only need prove the plaintiff failed to take reasonable care to avoid injury to him or herself
     - Apportionment legislation def
-      - the effect of the apportionment legislation is to make a claim of contributory negligence not a ‘defence’ but rather a plea for apportionment of damage, though the traditional terminology of ‘defence’ continues to be used in practice.
-    - Apportionment legislation: a partial ‘defence’ (liability percentage calculator)
-      - that a finding of contributory negligence does not defeat a plaintiff’s claim and enables courts to adjust damages between plaintiff and defendant according to degrees of fault
-      - The current New South Wales provision is comprised in Law Reform (Miscellaneous Provisions) Act 1965 (NSW) s 9, headed ‘Apportionment of liability in cases of contributory negligence’: 
-        - 9(1) If a person (the ‘claimant’) suffers damage as the result partly of the claimant’s failure to take reasonable care (‘contributory negligence’) and partly of the wrong of any other person: 
+      - the effect of the apportionment legislation is to make a claim of contributory negligence not a 'defence' but rather a plea for apportionment of damage, though the traditional terminology of 'defence' continues to be used in practice.
+    - Apportionment legislation: a partial 'defence' (liability percentage calculator)
+      - that a finding of contributory negligence does not defeat a plaintiff's claim and enables courts to adjust damages between plaintiff and defendant according to degrees of fault
+      - The current New South Wales provision is comprised in Law Reform (Miscellaneous Provisions) Act 1965 (NSW) s 9, headed 'Apportionment of liability in cases of contributory negligence': 
+        - 9(1) If a person (the 'claimant') suffers damage as the result partly of the claimant's failure to take reasonable care ('contributory negligence') and partly of the wrong of any other person: 
           - (a) a claim in respect of the damage is not defeated by reason of the contributory negligence of the claimant, and 
-          - (b) the damages recoverable in respect of the wrong are to be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage. 
+          - (b) the damages recoverable in respect of the wrong are to be reduced to such extent as the court thinks just and equitable having regard to the claimant's share in the responsibility for the damage. 
         - (2) Subsection (1) does not operate to defeat any defence arising under a contract. 
         - (3) If any contract or enactment providing for the limitation of liability is applicable to the claim, the amount of damages recoverable by the claimant by virtue of subsection (1) is not to exceed the maximum limit so applicable. 
-      - Section 8 of the Act states that a ‘wrong’ means an act or omission that: 
+      - Section 8 of the Act states that a 'wrong' means an act or omission that: 
         - (a) gives rise to a liability in tort in respect of which a defence of contributory negligence is available at common law, or 
         - (b) amounts to a breach of a contractual duty of care that is concurrent and coextensive with a duty of care in tort. 
       - A two-stage process to apportion damages. 
         - The courts will: 
-          - (a) compare the parties’ responsibility and actions from the point of departure of the standard of care of the reasonable person (not moral culpability); and 
-          - (b) have regard to the role of each party’s failure in causing the harm suffered by the plaintiff.
+          - (a) compare the parties' responsibility and actions from the point of departure of the standard of care of the reasonable person (not moral culpability); and 
+          - (b) have regard to the role of each party's failure in causing the harm suffered by the plaintiff.
       - In Cummings v Murphy [1967] VR 865 the plaintiff was found by a civil jury to be 95% responsible for his own damage so that only 5% of the assessed damages were awarded to him.
     - Civil liability legislation: contributory negligence can be a complete defence in extreme cases
-      - Courts in the Australian Capital Territory, New South Wales, Queensland and Victoria are now able to reduce a negligent plaintiff’s damages by 100%, thereby making contributory negligence a complete defence.
+      - Courts in the Australian Capital Territory, New South Wales, Queensland and Victoria are now able to reduce a negligent plaintiff's damages by 100%, thereby making contributory negligence a complete defence.
         - In opposition to Wynbergen v Hoyts Corp Pty Ltd (1997) 149 ALR 25
-    - In New South Wales, the Civil Liability Act 2002 s 5S allows a court to reduce damages by reason of contributory negligence by 100% if the court ‘thinks it just and equitable’ to do so, with the result that the claim for damages is defeated.
+    - In New South Wales, the Civil Liability Act 2002 s 5S allows a court to reduce damages by reason of contributory negligence by 100% if the court 'thinks it just and equitable' to do so, with the result that the claim for damages is defeated.
       - Carey v Lake Macquarie City Council [2007] NSWCA 4
-        - s 5S requires the courts to undertake the same comparison of parties’ culpability as required under the apportionment legislation
+        - s 5S requires the courts to undertake the same comparison of parties' culpability as required under the apportionment legislation
       - Mackenzie v Nominal Defendant [2005] NSWCA 180. 
-        - There, the drunken plaintiff had allowed his equally drunken companion, who was unlicensed and inexperienced, to drive the plaintiff’s unregistered motorcycle with the plaintiff as a passenger. 
-        - The court altered the trial judge’s reduction of 100% for contributory negligence to 80% because it took a different view of the extent of the plaintiff’s negligence.
-        - Ultimately, the Court of Appeal concluded that Mackenzie v Nominal Defendant was not such a case and that the plaintiff’s conduct was not so reprehensible as to make it fair to absolve the defendant of all responsibility
+        - There, the drunken plaintiff had allowed his equally drunken companion, who was unlicensed and inexperienced, to drive the plaintiff's unregistered motorcycle with the plaintiff as a passenger. 
+        - The court altered the trial judge's reduction of 100% for contributory negligence to 80% because it took a different view of the extent of the plaintiff's negligence.
+        - Ultimately, the Court of Appeal concluded that Mackenzie v Nominal Defendant was not such a case and that the plaintiff's conduct was not so reprehensible as to make it fair to absolve the defendant of all responsibility
       - Zanner v Zanner (2010) 79 NSWLR 70
         - Reduced by 80% damages
         - Very rare that 100% liability, even if their fault
       -  Serrao (by his tutor Serrao) v Cornelius (No 2) [2016] NSWCA 23
-        - the appellant was walking alongside a road at night and was struck from behind by the respondent’s car. 
+        - the appellant was walking alongside a road at night and was struck from behind by the respondent's car. 
           - Both the appellant and the respondent were intoxicated.
             - Did not affect plaintiff as found to be doing same thing as sober
-        -  ‘not walking in or near the centre of the road’ ([65]) and that he had to walk home at night in dark clothes as there were no taxis available 
+        -  'not walking in or near the centre of the road' ([65]) and that he had to walk home at night in dark clothes as there were no taxis available 
       - Davis v Swift [2014] NSWCA 458
-        -  New South Wales Court of Appeal reversed a finding of 100% contributory negligence by the District Court and found that the plaintiff was 80% contributorily negligent in stepping backwards from the middle of the road into the path of the defendant’s vehicle, because her conduct ‘was not an example of the worst possible case’ 
-    - When can the plaintiff’s negligent act limit the scope of the duty of care at common law?
-      - At common law, the High Court has indicated a willingness in rare cases, to characterise negligence on the part of a plaintiff as limiting the scope of a duty of care, so that a defendant may escape liability altogether as a result of the plaintiff’s own negligence. 
-        - Limiting the scope of the duty of care to a careless plaintiff would allow a court to find that the defendant’s duty of care does not extend to the situation in which the careless plaintiff was injured
+        -  New South Wales Court of Appeal reversed a finding of 100% contributory negligence by the District Court and found that the plaintiff was 80% contributorily negligent in stepping backwards from the middle of the road into the path of the defendant's vehicle, because her conduct 'was not an example of the worst possible case' 
+    - When can the plaintiff's negligent act limit the scope of the duty of care at common law?
+      - At common law, the High Court has indicated a willingness in rare cases, to characterise negligence on the part of a plaintiff as limiting the scope of a duty of care, so that a defendant may escape liability altogether as a result of the plaintiff's own negligence. 
+        - Limiting the scope of the duty of care to a careless plaintiff would allow a court to find that the defendant's duty of care does not extend to the situation in which the careless plaintiff was injured
     - Proving contributory negligence 
       - Contributory negligence is concerned with the failure of a person to take care for his or her own safety or interests. 
-        - A finding of contributory negligence is a determination that the plaintiff has failed to meet the objective standard of care and that failure, together with the defendant’s negligence, has caused or contributed to the plaintiff’s damage
+        - A finding of contributory negligence is a determination that the plaintiff has failed to meet the objective standard of care and that failure, together with the defendant's negligence, has caused or contributed to the plaintiff's damage
         - In order to prove that a plaintiff has been negligent and consequently, that the damages payable by the defendant should be reduced, the defendant must prove that: 
           - (a) the risk of injury was reasonably foreseeable to a reasonable person in the position of the plaintiff; 
-          - (b) the plaintiff failed to take the precautions that a reasonable person would have taken for their own protection in the circumstances (that is, the objective standard of care applicable to the plaintiff’s act); and 
-          - (c) the plaintiff’s damage was partly caused by the plaintiff’s negligent act.
+          - (b) the plaintiff failed to take the precautions that a reasonable person would have taken for their own protection in the circumstances (that is, the objective standard of care applicable to the plaintiff's act); and 
+          - (c) the plaintiff's damage was partly caused by the plaintiff's negligent act.
       - Standard of care applied to the plaintiff at common law
         - Joslyn v Berryman (2003) 214 CLR 552, 
           - McHugh J provided a succinct statement of the Australian common law concerning contributory negligence:
@@ -2667,8 +2667,8 @@
           - Unexpected - raised 2 days ago
       - Grills v Leighton Contractors Pty Limited [2015] NSWCA 72
         - Police collided with a boom gate negligently lowered by an employee of Leighton
-        - The trial judge held both Leighton and the State of New South Wales (the plaintiff’s employer) liable, and apportioned damages between the defendants on the basis of 47% (Leighton) and 53% (the State) and found the police officer to be 15% contributory negligent. 
-        - On appeal, finding the police officer not contributorily negligent, the court had regard to the standard of care required of him, being ‘the standard of care of a reasonable person, with the state of his actual knowledge’
+        - The trial judge held both Leighton and the State of New South Wales (the plaintiff's employer) liable, and apportioned damages between the defendants on the basis of 47% (Leighton) and 53% (the State) and found the police officer to be 15% contributory negligent. 
+        - On appeal, finding the police officer not contributorily negligent, the court had regard to the standard of care required of him, being 'the standard of care of a reasonable person, with the state of his actual knowledge'
       - Appellate level contributory negligence cases holding plaintiffs not negligent - objectively reasonable behavious to what plaintiff knew
         - In Hallmark Construction Pty Ltd v Harford [2020] NSWCA 41 the plaintiff truck driver delivering material to a building site before dawn, was not negligent in failing to see that a timber pallet was covering a deep pit, before he removed it and fell into the pit. 
           - His knowledge of building sites did not alert him to the possibility that such a danger might be concealed under a wooden pallet ([33], Basten JA, Meagher JA and Emmett AJA agreeing).
@@ -2683,13 +2683,13 @@
           - The plaintiffs evidence was that in 23 years working in the disability field, he had never encountered steps leading to a disabled toilet ([2] and [17], McCallum JA, Simpson AJA agreeing).
     - Mere inadvertence 
       - Sungravure Pty Ltd v Meani (1964) 110 CLR 
-        - temporary inadvertence or inattention can be ‘excusable in the circumstances because not incompatible with the conduct of a prudent and reasonable man’
+        - temporary inadvertence or inattention can be 'excusable in the circumstances because not incompatible with the conduct of a prudent and reasonable man'
           - Not contributory negligence 
       - Upheld in Mclean v Tedman (1984) 155 CLR 30 and Czatyrko v Edith Cowan University (2005) 214 ALR 349
         - where an employee had stepped backwards off the back of a truck assuming, wrongly, that a lifting platform was still in place behind him. 
-          - he had not been guilty of contributory negligence because ‘the system of work necessarily had ... to take into account that the task was a repetitive one to be performed in a diminishing space’ 
+          - he had not been guilty of contributory negligence because 'the system of work necessarily had ... to take into account that the task was a repetitive one to be performed in a diminishing space' 
         - Agresta v Agresta [2010] NSWCA 330
-          - Court of Appeal held that a plaintiff’s ‘momentary inattention’ did not amount to contributory negligence 
+          - Court of Appeal held that a plaintiff's 'momentary inattention' did not amount to contributory negligence 
           - Facts
             - plaintiff had been severely injured when her hand was drawn into an unguarded mincing machine which she was operating for the first time, at an annual family gathering to make tomato sauce. 
       - Thistle Company of Australia Pty Ltd v Bretz [2018] QCA 006
@@ -2700,10 +2700,10 @@
     - No attenuation of the standard of care for plaintiffs 
       - Commissioner of Railways v Ruprecht (1979) 142 CLR 563, 
         - the plaintiff railway employee lost his legs when he stepped onto a railway line in front of a moving wagon without looking.
-        - aintiff had not been negligent because of ‘inattention born of familiarity and repetition, and the man’s preoccupation with the matter in hand’ 
+        - aintiff had not been negligent because of 'inattention born of familiarity and repetition, and the man's preoccupation with the matter in hand' 
       - Conversely, Govic v Boral Australia Gypsum Ltd (2015) 47 VR 430,
-        - whilst an employer had the overarching responsibility for a safe system of work, the plaintiff employee’s own practices were ‘plainly risky’ and amounted to contributory negligence
-          - The plaintiff was employed as a repair plasterer and jumped on and off his own plasterer’s stool 50-70 times a day instead of using a step-up stool supplied by the employer.
+        - whilst an employer had the overarching responsibility for a safe system of work, the plaintiff employee's own practices were 'plainly risky' and amounted to contributory negligence
+          - The plaintiff was employed as a repair plasterer and jumped on and off his own plasterer's stool 50-70 times a day instead of using a step-up stool supplied by the employer.
       - Williams v Metcash Trading Ltd [2019] NSWCA 94
         - s 5R requires that for the purposes of contributory negligence, in determining the standard of care required, a plaintiff should not be treated differently from a defendant merely because the plaintiff is the person who suffered harm. 
       - Steen v Senton [2017] ACTCA 5
@@ -2711,16 +2711,16 @@
         - Drivers and pedestrians are equally conscious of the risks and adjust behaviour accordingly for contributory negligence purposes, as opposed to Pennington, where cars are more liable bc they can damage
     - A finding of fact
       - Pennington v Norris (1956) 96 CLR 10
-        - Appellate courts don’t like changing findings of contributory negligence or apportionment, original judge has better view
+        - Appellate courts don't like changing findings of contributory negligence or apportionment, original judge has better view
         - It is clear that the Act intends to give a very wide discretion to the judge or jury entrusted with the original task of making the apportionment.
     - Some principles applicable to the objective standard of care in contributory negligence
       - Children 
-        - A child’s conduct will be assessed against the standard of care of a reasonable child of like age and experience (McHale v Watson (1966) 115 CLR 199)
+        - A child's conduct will be assessed against the standard of care of a reasonable child of like age and experience (McHale v Watson (1966) 115 CLR 199)
         - Doubleday v Kelly [2005] NSWCA 151
           - Applies common law reasonable person standard to s 5R
           - Age of plaintiff was relevant in assessing whether the risk of injury was obvious to a reasonable person in the position of the plaintiff pursuant to s 5F of the Act.
         - Great Lakes Shire Council v Dederer (2006) Aust Torts Reps ¶81-860,
-          -  whether a risk was obvious to a ‘reasonable person in the position of’ the plaintiff’ for the purposes of a defence under s 5L (dangerous recreational activities) 
+          -  whether a risk was obvious to a 'reasonable person in the position of' the plaintiff' for the purposes of a defence under s 5L (dangerous recreational activities) 
       - The elderly 
         - Unsure if age should be taken into account
         - Smith v Zhang [2012] NSWCA 142
@@ -2738,7 +2738,7 @@
       - Imminent danger 
         - Courts are unlikely to hold a plaintiff negligent where the negligence of the defendant has placed the plaintiff in a position of imminent personal danger.
           - Names
-            - Agony of the moment, sudden emergency, rule in The Bywell Castle…(1879) 4 PD 219, doctrine of ‘alternative danger’ 
+            - Agony of the moment, sudden emergency, rule in The Bywell Castle…(1879) 4 PD 219, doctrine of 'alternative danger' 
         - Caterson v Commissioner for Railways (NSW) (1973) 128 CLR 99
           - the plaintiff was injured when at a country town railway station, he jumped from a train which had started to move without warning. 
             - The plaintiff did this in order to prevent being taken to the next station, which was 128 kilometres away, leaving his 14-year-old son and the son's friend alone on the platform of the station the train had just left.
@@ -2835,11 +2835,11 @@
           -  risk was obvious under s 5F of CLA and the plaintiff was aware of the risk under s 5G of the CLA
   - Statutory Defences
     - Obvious risks
-      - No duty to warn of ‘obvious risks’
+      - No duty to warn of 'obvious risks'
         - Generally, a defendant does not owe a duty of care to be proactive and to warn the plaintiff of an obvious risk
           - The provision does not apply if the plaintiff has requested advice or information from the defendant, or where the defendant is required by written law to warn the plaintiff of the risk, or where the defendant is providing professional services and the risk is one of death or personal injury to the plaintiff during the provision of those services
         - In Jaber v Rockdale City Council [2008] NSWCA 98, Tobias JA noted that the word 'obvious' is not defined in the CLA and referred to the definition of 'obvious' found in the USA Commentary to [343A] of the Restatement (Second) of Torts (1965), 
-          - ‘Obvious' means that both the condition and the risk are apparent to and would be recognised by a reasonable man, in the position of the [plaintiff], exercising ordinary perception, intelligence and judgment. 
+          - 'Obvious' means that both the condition and the risk are apparent to and would be recognised by a reasonable man, in the position of the [plaintiff], exercising ordinary perception, intelligence and judgment. 
         - In Kempsey Shire Council v Five Star Medical Centre Pty Ltd (2018) 99 NSWLR 98, the plaintiff company claimed that Kempsey Shire Council which owned and controlled an aerodrome, was negligent in failing to warn its pilot (by issuing an official 'notice to airmen' pursuant to civil aviation regulations) of the increased risk of colliding with a kangaroo on the runway, when kangaroo numbers had recently increased. 
           - The claim for damage to the plaintiffs aircraft failed because the risk was held to be obvious and accordingly, the council did not owe a duty to warn of it pursuant s 5H 
           - kangaroo hazard was well known to pilots and the plaintiffs pilot was aware of a warning published by Airservices Australia for Kempsey Aerodrome, reading 'Kangaroo hazard exists'.
@@ -2967,7 +2967,7 @@
           - The definition of 'dangerous recreational activity' in New South Wales is one involving a 'significant risk of physical harm' 
           - In New South Wales the s 5L defence was first considered in Falvo v Australian Oztag Sports Association [2006] NSWCA 17, 
             - Facts
-              - a case concerning a game of 'tag' rugby football’
+              - a case concerning a game of 'tag' rugby football'
               - held that the words 'significant risk of physical harm' in the s 5K definition of a dangerous recreational activity constitute 'one concept with the risk and the harm mutually informing each other
             - The touch football game in Falvo's case was held not to be a dangerous recreational activity so the s 5L defence did not succeed. 
               - The plaintiffs case failed on causation. 
@@ -2976,7 +2976,7 @@
               - the plaintiff was shot by the defendant when they were sitting together in a stationary car while part of a group engaged in kangaroo shooting at night. 
               - The plaintiff had remained in the car to hold the spotlight and the defendant, having re-entered the car, negligently discharged his gun when it was apparently jammed.
             - Ipp JA held that the word 'significant' must mean more than 'trivial' and that the test is more rigorous than the 'undemanding' Wyong Shire Council v Shirt (1980) 146 CLR 40 test for foreseeability of risk.
-              - Not high enough to mean ‘probable’
+              - Not high enough to mean 'probable'
             - The activity in which the plaintiff was engaged in Fallas v Mourlas was characterised quite narrowly as 'sitting in the vehicle, holding the spotlight for the other shoot-ers outside, on the basis that at various times one or more of the shooters might leave or enter the vehicle with firearms that might or might not be loaded' ([75], Ipp JA). 
               - His Honour held this to be an activity that involved a significant risk of physical harm and, therefore, dangerous.
               - The behaviour of the defendant in giving baseless reassurances to the plaintiff about the safety of the gun and in failing to take care to avoid the gun discharging in the car, constituted gross negligence which would not in the circumstances have been 'obvious' within the definition in s 5F
@@ -3016,7 +3016,7 @@
             - The defence would preclude all professional (as well as amateur) sports persons from recovery for injury caused by the materialisation of obvious risks of dangerous sports
 - Week 9 - Ch 15: Illegality
   - Good Samaritans 
-    - The term ‘Good Samaritan’ is used in much of the legislation to refer to the person who comes to the aid of someone apparently injured or at risk of being injured
+    - The term 'Good Samaritan' is used in much of the legislation to refer to the person who comes to the aid of someone apparently injured or at risk of being injured
     - Tortious liability of Good Samaritan ss 55-58
       - (a) Is there a positive duty to rescue? 
       - (b) Is the rescuer able to recover in the event that they themselves are injured during a rescue? 
@@ -3026,13 +3026,13 @@
     - The duty of care owed to rescuers includes professional rescuers, such as fire 
       - Ogwo v Taylor [1988] AC 431, 
         - the plaintiff fireman attended a fire negligently lit by the defendant and suffered serious burns from scalding steam as a result. 
-        - The defendant claimed that no duty was owed to professional firemen in respect of the ‘ordinary’ risks inherent in fire-fighting and that a duty would arise only where there were foreseeable, ‘exceptional’ risks involved
+        - The defendant claimed that no duty was owed to professional firemen in respect of the 'ordinary' risks inherent in fire-fighting and that a duty would arise only where there were foreseeable, 'exceptional' risks involved
     - The policy of the law is to encourage the rescue of those in danger and this includes the act of rescuing property (Steel v Glasgow Iron and Steel Co Ltd 1944 SC 237).
     - At common law, a rescuer has a duty to take reasonable care during the rescue. 
-      - If the rescuer’s own negligent acts during the rescue cause or increase the injury to the plaintiff, it is possible that the rescuer will be liable in the tort of negligence (see Kent v Griffiths [2001] QB 36; Horsley v McLaren [1972] SCR 441).
-  - In New South Wales, a Good Samaritan is a person who ‘in good faith and without expectation of payment or other reward, comes to the assistance of a person who is apparently injured or at risk of being injured’ in an emergency.
+      - If the rescuer's own negligent acts during the rescue cause or increase the injury to the plaintiff, it is possible that the rescuer will be liable in the tort of negligence (see Kent v Griffiths [2001] QB 36; Horsley v McLaren [1972] SCR 441).
+  - In New South Wales, a Good Samaritan is a person who 'in good faith and without expectation of payment or other reward, comes to the assistance of a person who is apparently injured or at risk of being injured' in an emergency.
     - The protection does not apply to: 
-      - (a) the Good Samaritan’s employer, where vicarious liability for their conduct operates (so, the conduct of an off duty ambulance officer who acts negligently may be the responsibility of his or her employer, if the officer is acting in the course of the employment);
+      - (a) the Good Samaritan's employer, where vicarious liability for their conduct operates (so, the conduct of an off duty ambulance officer who acts negligently may be the responsibility of his or her employer, if the officer is acting in the course of the employment);
       - (b) a Good Samaritan who causes the initial personal injury;
       - (c) a Good Samaritan who is under the influence of drugs and alcohol which they voluntarily consumed and which significantly impaired their ability to use reasonable care and skill and the Good Samaritan does fail to use reasonable care and skill; 
       - (d) a Good Samaritan who impersonates a health care or emergency services worker or police officer or falsely represents skills with respect to emergency assistance
@@ -3041,7 +3041,7 @@
     - Immunity from civil liability, for death or personal injury, for food donors has been included in civil liability legislation in all Australian jurisdictions
     - The food must have been safe to consume at the time it left the possession or control of the donor and the donor must have given adequate information about the handling requirements of the food as well as the time limit for safe consumption to the person or organisation to which it was donated.
   - The criminals and Illegal Activity 
-    - The illegality of a plaintiff’s actions may operate as a complete defence at common law
+    - The illegality of a plaintiff's actions may operate as a complete defence at common law
     - Miller v Miller (2011) 242 CLR 44 = s 54 of the Civil Liability Act 2002
       - The fact that a plaintiff suffered injury from negligence whilst the plaintiff was engaged in illegal activity does not necessarily afford a defence to an action in negligence but in cases of joint illegal activity (where the plaintiff and the defendant are engaged together in a criminal act), it may result in the denial of a duty of care to the plaintiff.
       - Facts
@@ -3049,11 +3049,11 @@
           - The plaintiff asked the defendant driver twice to let her out of the car when he was driving in a dangerous manner, speeding and failing to stop at red lights. 
           - The defendant refused to stop to let the plaintiff out of the car and he eventually lost control of the car which crashed. 
       - Issue
-        - whether the plaintiff’s part in the joint illegal activity of stealing and riding in the stolen car, defeated her claim in negligence.
+        - whether the plaintiff's part in the joint illegal activity of stealing and riding in the stolen car, defeated her claim in negligence.
       - Held
         - Withdrawn from the joint illegal enterprise
-          - emphasised not the relationship between the illegal activity and the plaintiff’s injury, but the issue of whether imposing a duty of care would result in incongruity in the law.
-        - The decision in Miller represents a significant shift in the approach of the common law to the defence of illegality with the emphasis on consistency of tort law with other areas of the law and on the careful identification of the particular statutory purpose of the legislation proscribing the plaintiff’s conduct.
+          - emphasised not the relationship between the illegal activity and the plaintiff's injury, but the issue of whether imposing a duty of care would result in incongruity in the law.
+        - The decision in Miller represents a significant shift in the approach of the common law to the defence of illegality with the emphasis on consistency of tort law with other areas of the law and on the careful identification of the particular statutory purpose of the legislation proscribing the plaintiff's conduct.
   - The common law before Miller v Miller
     - Before the High Court decision in Miller v Miller, the common law focus was on the question of whether the illegal activity enabled the court to fix a standard of care
       - Gala v Preston (1991) 172 CLR 24
@@ -3062,48 +3062,48 @@
           - its relationship to the negligence in question. 
         - Facts
           - the plaintiff was injured when the car in which he was a passenger hit a tree. 
-          - The car had been stolen by the plaintiff and the defendant, who had been drinking alcohol, and taken a ‘joy ride’ together. 
+          - The car had been stolen by the plaintiff and the defendant, who had been drinking alcohol, and taken a 'joy ride' together. 
             - The court found that illegality operated as a defence as the parties were engaged in a joint illegal enterprise. 
               - The court held that the defendant driver of the stolen car did not owe a duty of care to the plaintiff passenger given the exceptional circumstances of the joint illegal enterprise of stealing the car.
           - Now outweighed by Miller v Miller
     - The statutory defence of illegality 
-      - recovery is excluded where the court is satisfied that the plaintiff was injured while engaging in conduct which constitutes a ‘serious’ offence, being one punishable by imprisonment for more than six months 
-        - the illegal nature of the plaintiff’s actions is determined on the civil standard of proof: that is on the balance of probabilities
+      - recovery is excluded where the court is satisfied that the plaintiff was injured while engaging in conduct which constitutes a 'serious' offence, being one punishable by imprisonment for more than six months 
+        - the illegal nature of the plaintiff's actions is determined on the civil standard of proof: that is on the balance of probabilities
         - damages may be awarded in NSW where the conduct of the defendant which causes the injury, death or damage constitutes an offence
-      - s 54 of the Civil Liability Act 2002 (NSW) states that ss 52 and 53 (self-defence) ‘can apply to prevent or limit recovery of damages even though the defendant’s conduct constitutes an offence’. 
+      - s 54 of the Civil Liability Act 2002 (NSW) states that ss 52 and 53 (self-defence) 'can apply to prevent or limit recovery of damages even though the defendant's conduct constitutes an offence'. 
         - Applied in SW v Khaja [2020] NSWCA 128
           -  plaintiff, SW suffered a serious spinal injury when during a struggle between the plaintiff and the defendant taxi driver, the taxi moved forwards and SW fell out of the passenger side door. 
           - The defendant said that SW threatened him with a knife and attempted to rob him. 
             - The trial judge accepted the evidence of the defendant and held that SW was engaged in an illegal act, and that s 54 prevented her recovering any damages. 
       - Watt v New South Wales [2018] NSWSC 1926
-        - Garling J considered the requirement that the plaintiff’s injury must follow a serious criminal offence, for s 54 of the Civil Liability Act 2002 (NSW) to exclude liability
+        - Garling J considered the requirement that the plaintiff's injury must follow a serious criminal offence, for s 54 of the Civil Liability Act 2002 (NSW) to exclude liability
           - Facts
             - the plaintiff was injured in a deliberate attack by another inmate whilst being held on remand in a prison cell. 
             - He claimed that the prison employees had failed to take reasonable care to prevent the assault by the other prisoner whose violence was known to them
-            - The State relied on s 54 arguing that the plaintiff’s injury was suffered following conduct constituting a serious offence because the plaintiff and his assailant had an altercation in another area of the prison earlier the same day.
+            - The State relied on s 54 arguing that the plaintiff's injury was suffered following conduct constituting a serious offence because the plaintiff and his assailant had an altercation in another area of the prison earlier the same day.
     - The preservation of the common law principles concerning illegality
       - There is a general provision in the civil liability legislation to the effect that a provision of the legislation giving protection from civil liability does not limit the protection given by law
-        - The New South Wales provision in s 3A, ‘cannot be determinative’ and ‘cannot of itself preclude ... the statute being regarded as laying down a set of principles to cover the relevant field to the exclusion of the common law principles previously applicable’
+        - The New South Wales provision in s 3A, 'cannot be determinative' and 'cannot of itself preclude ... the statute being regarded as laying down a set of principles to cover the relevant field to the exclusion of the common law principles previously applicable'
       - Bevan v Coolahan [2019] NSWCA 217
         - Considered s 54 defence of illegality and whether it excluded the operation of the Miller v Miller common law principles
         - Facts
           -  Ms Bevan was injured when the car in which she was a passenger crashed into a telegraph pole because of the negligent driving of Mr Coolahan whilst they and two other occupants of car were participants in a joint criminal enterprise having obtained and used illicit drugs (crystal methamphetamine).
-          - It was held that ‘the trip to the dealer’s premises, the purchase of drugs, the consumption of part of the drugs, and the subsequent trip home, all constituted part of the joint enterprise’ 
+          - It was held that 'the trip to the dealer's premises, the purchase of drugs, the consumption of part of the drugs, and the subsequent trip home, all constituted part of the joint enterprise' 
         - A major issue in the appeal was whether s 54 governed the area of illegal activity by a plaintiff entirely. 
           - If so, the common law could have no application at all.
-        - Held that ‘s 54 is not exhaustive’ and that it does not exclude the operation of the common law. 
+        - Held that 's 54 is not exhaustive' and that it does not exclude the operation of the common law. 
         - Applying the principles in Miller v Miller, the court held that the plaintiff was not owed a duty of care by the defendant
     - Apologies 
       - At common law, admissions of regret or apologies will not generally constitute admissions of liability (Dovuro Pty Ltd v Wilkins (2003) 215 CLR 317) and will have little evidentiary value on the breach of duty issue. 
         - an apology is not admissible in civil proceedings as evidence of the fault or liability of the person by whom or on whose behalf it is made
       - Apology def NSW
-        - an ‘expression of sympathy or regret, or of a general sense of benevolence or compassion, in connection with any matter whether or not the apology admits or implies an admission of fault in connection with the matter’
-      - the protection applies to ‘civil liability of any kind’ except for defamation or liability excluded by s 3B, being for intentional acts done with intent to cause injury; dust disease and smoking claims; and motor accident and workplace injury claims
+        - an 'expression of sympathy or regret, or of a general sense of benevolence or compassion, in connection with any matter whether or not the apology admits or implies an admission of fault in connection with the matter'
+      - the protection applies to 'civil liability of any kind' except for defamation or liability excluded by s 3B, being for intentional acts done with intent to cause injury; dust disease and smoking claims; and motor accident and workplace injury claims
     - Rust v needham
       - Bike ride no helmet	
         - Did not affect contributory negligence because it made no difference 
     - Froom v butcher
-      - No seatbelt for accident didn’t cause, court of appeal said there was contributory negligence because not putting on seat bealt contributed to the harm.
+      - No seatbelt for accident didn't cause, court of appeal said there was contributory negligence because not putting on seat bealt contributed to the harm.
 # Week 10: CATEGORIES OF DUTY OF CARE - Special Categories
 
 Atypical Plaintiffs and Specific Duty Categories
@@ -3117,7 +3117,7 @@ Atypical Plaintiffs and Specific Duty Categories
       -  In law, the foetus has no legal identity.
         - The law recognises that the foetus will become a child upon birth while at the same time denying the foetus a legal identity until it is born.
       - In Attorney-General (Qld) (Ex rel Kerr) v T (1983) 46 ALR 275, a father attempted to prevent the mother of the unborn child having an abortion. 
-        - The court upheld the traditional ‘born alive’ rule that a child has no legal rights until it is born alive. 
+        - The court upheld the traditional 'born alive' rule that a child has no legal rights until it is born alive. 
           - The court refused to intervene to prevent the abortion
       -  The law does recognise that the unborn child is owed a duty of care.(Watt v Rama [1972] VR 353.) 
         - An action at law for damages suffered through negligent acts or omissions arising during pregnancy may only be brought following birth, when a child has a legal identity and can sue. 
@@ -3132,10 +3132,10 @@ Atypical Plaintiffs and Specific Duty Categories
       - In Kosky v Trustees of the Sisters of Charity [1982] VR 961, a woman was given an incompatible blood transfusion in hospital.
         - The transfusion introduced a disorder into her blood system and the child later conceived became affected.
     - Ex utero
-      - Waller v James [2002] NSWSC 462, the New South Wales Court of Appeal considered a ‘wrongful life’ action where the plaintiff claimed that he was owed a duty of care by his mother’s health professionals in respect of advice to his parents concerning IVF treatment that resulted in his conception. 
+      - Waller v James [2002] NSWSC 462, the New South Wales Court of Appeal considered a 'wrongful life' action where the plaintiff claimed that he was owed a duty of care by his mother's health professionals in respect of advice to his parents concerning IVF treatment that resulted in his conception. 
         - The plaintiff argued that the duty extended to providing his parents with all information regarding his potential health, thereby enabling them to make a decision to forgo the IVF treatment that would have resulted in the plaintiff not being born at all.
-      - The Court of Appeal (and subsequently the High Court) held that the plaintiff was not owed a duty of care, the effect of which was to prevent his birth: that there was no ‘wrongful life’ duty of care. 
-        - Waller v James was appealed to the High Court on the issue of the ‘wrongful life’ duty of care and the plaintiff was again unsuccessful: 
+      - The Court of Appeal (and subsequently the High Court) held that the plaintiff was not owed a duty of care, the effect of which was to prevent his birth: that there was no 'wrongful life' duty of care. 
+        - Waller v James was appealed to the High Court on the issue of the 'wrongful life' duty of care and the plaintiff was again unsuccessful: 
           - Waller v James (2006) 226 CLR 136
     - In utero
       -  Watt v Rama [1972] VR 353
@@ -3144,11 +3144,11 @@ Atypical Plaintiffs and Specific Duty Categories
           - The court held that pregnancy can reasonably be foreseen by members of the community; 
             - therefore, drivers owe a duty of care to unborn children, though the child cannot bring an action in negligence until he or she is born suffering damage when the cause of action is complete.
       - Lynch v Lynch (1991) 25 NSWLR 411,
-        - this duty was imposed on an unborn child’s mother where the child sued her own mother for negligent driving.
-        - In this case, a child was born with cerebral palsy, caused while in utero by a car accident attributable to her mother’s negligence. 
+        - this duty was imposed on an unborn child's mother where the child sued her own mother for negligent driving.
+        - In this case, a child was born with cerebral palsy, caused while in utero by a car accident attributable to her mother's negligence. 
           - The mother was held to owe a duty of care to her own unborn child and the child plaintiff was able to recover damages from her mother after her birth. 
         - The fact that this case did not establish a general duty of care by a mother to her foetus was affirmed in the Queensland case of Bowditch v McEwan [2003] 2 Qd R 615 
-          - which followed Lynch and confirmed that the principle that a child may recover damages from its mother for her negligent conduct extends only to the mother’s negligent driving rather than a more general duty encompassing all of a mother’s conduct during pregnancy. 
+          - which followed Lynch and confirmed that the principle that a child may recover damages from its mother for her negligent conduct extends only to the mother's negligent driving rather than a more general duty encompassing all of a mother's conduct during pregnancy. 
       - Bowditch v McEwan states that lifestyle issues, such as whether a pregnant mother smokes, drinks etc, will not lead to damages being recoverable by a child who asserts he or she has been injured through such behaviour. 
   - 16.3 Unborn children and Wrongful birth
     - Wrongful birth actions are taken against medical practitioners by the parents of a child, and rely upon the duty of care owed by medical personnel to the parents (who are the patients) and allege that, if the defendant had not been negligent, the child would not have been born at all. 
@@ -3156,31 +3156,31 @@ Atypical Plaintiffs and Specific Duty Categories
     - The authority in this area is Cattanach v Melchior (2003) 215 CLR 1 where the High Court considered the question: 
       - [i]f, in consequence of medical negligence, a couple become the parents of an unintended child, can a court, in an award of damages, require the doctor to bear the cost of raising and maintaining the child? ([1], Gleeson CJ)
       - The appeal to the High Court was from a decision of the Queensland Court of Appeal, which held that the parents could recover the costs of raising an unplanned and non-disabled child born as the result of a failed tubal ligation procedure
-        - This type of case has often been categorised as a ‘wrongful birth’ claim. 
+        - This type of case has often been categorised as a 'wrongful birth' claim. 
           - The use of the terminology has, however, been criticised by the High Court.
-          - wrongful birth’ tag deflected attention from this being a case about negligent advice ([193])
+          - wrongful birth' tag deflected attention from this being a case about negligent advice ([193])
       - Held:
-        - by a bare majority that the duty of care of a medical practitioner extended to responsibility for the cost of raising a child born as a result of the defendant’s negligence.
+        - by a bare majority that the duty of care of a medical practitioner extended to responsibility for the cost of raising a child born as a result of the defendant's negligence.
       - The principles in Cattanach v Melchior were relied upon by the plaintiffs in Waller v James [2015] NSWCA 232 which was decided on common law principles because the original proceedings pre-dated the Civil Liability Act 2002 
-    - The defendant in the parents’ claim in Waller v James was the doctor who had coordinated IVF treatment for them and who had failed to explain the importance of a reference for genetic counselling regarding the risk of inheritance of a genetic condition called ATD from the father. 
-      - The plaintiffs’ child was born with that condition.
+    - The defendant in the parents' claim in Waller v James was the doctor who had coordinated IVF treatment for them and who had failed to explain the importance of a reference for genetic counselling regarding the risk of inheritance of a genetic condition called ATD from the father. 
+      - The plaintiffs' child was born with that condition.
       - Held
-        - The plaintiff parents were unsuccessful in their claim because they were unable to prove that the severe disabilities suffered by the child were the result of the defendant doctor’s negligent failure to warn them of the possibility of the genetic condition. 
+        - The plaintiff parents were unsuccessful in their claim because they were unable to prove that the severe disabilities suffered by the child were the result of the defendant doctor's negligent failure to warn them of the possibility of the genetic condition. 
         - The medical evidence was that the stroke was not caused by the genetic defect. 
-          - Accordingly, the damage was not caused by the defendant’s breach of duty, even though the plaintiffs would not have undergone the IVF treatment until the genetic risk could be eliminated.
+          - Accordingly, the damage was not caused by the defendant's breach of duty, even though the plaintiffs would not have undergone the IVF treatment until the genetic risk could be eliminated.
     - Veivers v Connolly [1995] 2 Qd R 326, the plaintiff lost the opportunity to terminate her pregnancy lawfully because of the negligence of the defendant. 
       - As a result, a severely handicapped child was born. 
-      - De Jersey J held that damages recoverable included the costs associated with past and future care of the child extending for a 30-year period, this being the child’s life expectancy.
+      - De Jersey J held that damages recoverable included the costs associated with past and future care of the child extending for a 30-year period, this being the child's life expectancy.
     - In CES v Superclinics (Australia) Pty Ltd (1995) 38 NSWLR 47, 
-      - the appellant/plaintiff claimed damages for loss of the opportunity to terminate her pregnancy lawfully, after repeated and inexcusable failure to diagnose her pregnancy by the defendant clinic’s several doctors, on multiple occasions and over several months. 
+      - the appellant/plaintiff claimed damages for loss of the opportunity to terminate her pregnancy lawfully, after repeated and inexcusable failure to diagnose her pregnancy by the defendant clinic's several doctors, on multiple occasions and over several months. 
       - In addition, she was wrongly advised by the clinic over the phone about the results of a pregnancy test. 
         - The New South Wales Court of Appeal held by majority that the damages recoverable did not include the costs of raising the child. 
         - Kirby ACJ found that the termination procedure would not have been unlawful in relation to the plaintiff and therefore that the only issue that might prevent her recovery of damages could be public policy
     -  G and M v Armellin [2009] ACTCA 
-      - Ms G and her partner Ms M wanted to continue to raise both children but the issue before the court was that they had only wished to have one child and claimed that, in implanting two embryos instead of one into Ms G’s uterus during the IVF procedure, the treating doctor, Dr Armellin,was negligent.
+      - Ms G and her partner Ms M wanted to continue to raise both children but the issue before the court was that they had only wished to have one child and claimed that, in implanting two embryos instead of one into Ms G's uterus during the IVF procedure, the treating doctor, Dr Armellin,was negligent.
         - The plaintiffs argued that Ms G had informed Dr Armellin in theatre that she wanted only one embryo implanted and that the subsequent implantation of two embryos by the embryologist was therefore caused by the negligence of Dr Armellin.
       - In the Court of Appeal, the joint judgment of Higgins CJ, Refshauge and Marshall JJ reversed the finding of Bennett J and held Dr Armellin to be negligent. 
-        - The trial judge’s assessment of damages was upheld on appeal
+        - The trial judge's assessment of damages was upheld on appeal
     - Civil liability legislation reverses Cattanach v Melchior
       - CLA prevents a court from awarding damages for either the costs associated with rearing or maintaining a non-disabled child or any loss of future earnings while the plaintiff rears the child. 
         - s 70 states that it applies to any civil claims for damages for the birth of a child, in tort, contract, under statute or otherwise (s 70(1)), but not to claims for personal injuries sustained by a child prenatally or during birth (s 70(2)). 
@@ -3190,19 +3190,19 @@ Atypical Plaintiffs and Specific Duty Categories
             - (b) any loss of earnings by the claimant while the claimant rears or maintains the child. 
           - (2) Subsection (1)(a) does not preclude the recovery of any additional costs associated with rearing or maintaining a child who suffers from a disability that arise by reason of the disability. 
         - This means that in New South Wales damages for economic loss for the costs of raising a non-disabled child cannot be awarded. 
-          - It should be possible to claim other Cattanach v Melchior damages such as for the mother’s physical pain and suffering during pregnancy and labour and costs associated with the pregnancy. 
+          - It should be possible to claim other Cattanach v Melchior damages such as for the mother's physical pain and suffering during pregnancy and labour and costs associated with the pregnancy. 
           - Such costs may include medical costs and unpaid maternity leave. 
   - 16.4 Unborn children and Wrongful 
-    - ‘wrongful life’ claim is one made by a plaintiff (often while still a child) who was born as a result of the negligence of the defendant. 
-    - The claim is not that the defendant has injured the plaintiff in utero but rather that the defendant’s negligence has allowed the plaintiff to be born.
+    - 'wrongful life' claim is one made by a plaintiff (often while still a child) who was born as a result of the negligence of the defendant. 
+    - The claim is not that the defendant has injured the plaintiff in utero but rather that the defendant's negligence has allowed the plaintiff to be born.
       - The child plaintiffs in these cases are invariably disabled and claim damages to enable them to have the significant and costly extra care required by a disabled person.
-        - The loss suffered by the children is their ‘life with disability’ as opposed to non-existence
-      - There is no doubt that the medical advisers owe a duty of care to their patients (the mothers) but the issue in the ‘wrongful life’ claims brought by the children is whether the mothers’ medical advisers owe a duty of care to the children born as result of their failure to properly treat, diagnose or advise the mothers
+        - The loss suffered by the children is their 'life with disability' as opposed to non-existence
+      - There is no doubt that the medical advisers owe a duty of care to their patients (the mothers) but the issue in the 'wrongful life' claims brought by the children is whether the mothers' medical advisers owe a duty of care to the children born as result of their failure to properly treat, diagnose or advise the mothers
     - Harriton v Stephens (2006) 226 CLR 52 and Waller v James (2006) 226 CLR 136 
-      - Actions for ‘wrongful life’ are not available in Australian common law: 
-        - medical advisors owe no duty of care to a child born disabled because the doctor failed to advise the child’s mother during her pregnancy of circumstances which would have led the child’s mother to obtain a lawful termination of that pregnancy or to have avoided the pregnancy.
+      - Actions for 'wrongful life' are not available in Australian common law: 
+        - medical advisors owe no duty of care to a child born disabled because the doctor failed to advise the child's mother during her pregnancy of circumstances which would have led the child's mother to obtain a lawful termination of that pregnancy or to have avoided the pregnancy.
     - In Harriton v Stephens, the child plaintiff was born with very severe disabilities as a result of her mother having contracted rubella in the early stages of pregnancy.
-    - The overriding reason for the refusal to impose a duty of care in a ‘wrongful life’ case was the impossibility of defining and assessing the damage claimed
+    - The overriding reason for the refusal to impose a duty of care in a 'wrongful life' case was the impossibility of defining and assessing the damage claimed
     - Held
       - In Harriton v Stephens, the High Court on appeal held
         - That part of the reason the Plaintiff could not succeed was a comparison, for damages purposes, between being born with disabilities and not being born at all was impossible
@@ -3212,43 +3212,43 @@ Atypical Plaintiffs and Specific Duty Categories
 
   - 16.6 Psychiatric Illness: The Historical Transition from Nervous Shock to Pure Mental Harm
     - A defendant may have a legal duty to take care to avoid pure psychiatric or psychological harm to a plaintiff. 
-        - This refers to the situation where a plaintiff’s state of mind is injured through the defendant negligently causing external events.
-        - The word ‘pure’ is used to describe the mental harm as it refers to a psychiatric or psychological illness which is not caused by or related to any physical injury caused by the defendant.
+        - This refers to the situation where a plaintiff's state of mind is injured through the defendant negligently causing external events.
+        - The word 'pure' is used to describe the mental harm as it refers to a psychiatric or psychological illness which is not caused by or related to any physical injury caused by the defendant.
       - consequential mental harm
       - Jaensch v Coffey (1984) 155 CLR 549: Influential case 
         - the Australian High Court allowed recovery for pure mental harm and expanded the circumstances in which a duty of care would be imposed at common law
         - Facts
-          - Mrs Coffey’s husband was riding a motorcycle and suffered serious injury in a collision with a vehicle which was being driven negligently by the defendant, Mr Jaensch
-            - She was informed by telephone at 5.30 am the next morning that her husband was in intensive care and at 8.30 am to come to the hospital quickly because he had had ‘a change for the worse’
+          - Mrs Coffey's husband was riding a motorcycle and suffered serious injury in a collision with a vehicle which was being driven negligently by the defendant, Mr Jaensch
+            - She was informed by telephone at 5.30 am the next morning that her husband was in intensive care and at 8.30 am to come to the hospital quickly because he had had 'a change for the worse'
             - His condition gradually improved over the following weeks and he made a full recovery. 
             - A week after the accident, Mrs Coffey began to experience the first symptoms of an anxiety depressant state and psychiatric illness followed
         - Held
           - The High Court found that, although she had not received a sudden shock and she had not witnessed the accident, she had perceived the aftermath of the accident when at the hospital. 
             - The court held in a unanimous decision that the defendant owed her a duty of care not to cause psychiatric injury and she was able to recover damages for pure mental harm
-    - 16.6.1 Historical evolution: from ‘nervous shock’ to pure mental harm
+    - 16.6.1 Historical evolution: from 'nervous shock' to pure mental harm
       - The common law has, for much of its history, insisted upon treating pure mental harm as requiring legal tests which differ from those which allow recovery of damages for negligently inflicted physical injury. 
       - Due to Tame v New South Wales; Annetts v Australian Stations Pty Ltd (2002) 211 CLR 317, and the implementation of the Ipp Report through statute in most jurisdictions the parameters of the duty of care for mental harm have undergone considerable transition. 
-      - ‘pure mental harm’ -> ‘nervous shock’
+      - 'pure mental harm' -> 'nervous shock'
       - Timeline: 1885-2003
     - 16.6.2 Common law: the High Court and pure mental harm 
       - The historical approach of the common law was to allow recovery for pure mental harm only where the plaintiff could establish that he or she had suffered a sudden shock at the scene or in the aftermath of an accident
         - Changed in Tame v New South Wales; Annetts v Australian Stations Pty Ltd (2002) 211 CLR 317 
           - the court held that the duty of care must be determined by reference to the reasonable foreseeability of the plaintiff as a person who would suffer psychological injury if the defendant was negligent. 
-      - In Annetts v Australian Stations Pty Ltd, the son of the plaintiffs, James Annetts, was 16 years of age when he left his family home to work as a jackaroo on the defendant’s remote cattle station at Flora Valley, 40 kilometres away from Halls Creek in the Kimberley District of Western Australia. 
+      - In Annetts v Australian Stations Pty Ltd, the son of the plaintiffs, James Annetts, was 16 years of age when he left his family home to work as a jackaroo on the defendant's remote cattle station at Flora Valley, 40 kilometres away from Halls Creek in the Kimberley District of Western Australia. 
         - Facts
           - On 6 December 1986, his parents were telephoned by a police officer in New South Wales, who told them that James had gone missing on 3 December 1986 in Western Australia. 
           - In January 1987, Mr and Mrs Annetts began a series of trips to Halls Creek where they were shown belongings of their son that had been found, including a hat covered in blood.
           - The Annetts had confirmation by phone that James was dead five months after they first knew of his disappearance.
-        - Ipp J found that, while the employer might foresee that Mr and Mrs Annetts would suffer deep anxiety and grief on learning of their son’s disappearance and death, it could not reasonably foresee that they might suffer psychiatric injury.
+        - Ipp J found that, while the employer might foresee that Mr and Mrs Annetts would suffer deep anxiety and grief on learning of their son's disappearance and death, it could not reasonably foresee that they might suffer psychiatric injury.
           - Parents should have more fortitude
-          - Ipp J held that the claim failed because on 6 December 1986 there was no perception by the parents of a distressing phenomenon and that the confirmation of James’ death at the end of April 1987 was not a sudden sensory perception of a distressing event. 
-        - The High Court allowed the Annetts’ appeal, holding that it was reasonably foreseeable that the plaintiffs would suffer psychiatric injury in the circumstances. 
+          - Ipp J held that the claim failed because on 6 December 1986 there was no perception by the parents of a distressing phenomenon and that the confirmation of James' death at the end of April 1987 was not a sudden sensory perception of a distressing event. 
+        - The High Court allowed the Annetts' appeal, holding that it was reasonably foreseeable that the plaintiffs would suffer psychiatric injury in the circumstances. 
           - The prior relationship between the defendant and the plaintiffs was a significant factor in the duty of care consideration: 
           - the defendant had assured the plaintiffs that their son would be adequately supervised.
       - Tame v State of New South Wales (2002) 211 CLR 317, was heard with the Annetts case.
         - Facts
           - On 11 January 1991, Mrs Tame was involved in a collision with another vehicle driven by Mr Lavender who was clearly at fault, for he had a blood alcohol reading of 0.14 (three times the lawful limit) and was driving on the wrong side of the road.
-          - The other driver’s blood alcohol level was incorrectly entered against her name as a result of a clerical error by the defendant. Mrs Tame’s real reading was zero.
+          - The other driver's blood alcohol level was incorrectly entered against her name as a result of a clerical error by the defendant. Mrs Tame's real reading was zero.
           - Mrs Tame had, for many years, an abhorrence of drinking and driving. 
           - She had consumed very little alcohol in the previous 20 years and she was horrified at the suggestion.
           - Mrs Tame became obsessed with the mistake on the form as she began to worry about the detrimental effect she considered the error on the accident report would have on her reputation.
@@ -3257,22 +3257,22 @@ Atypical Plaintiffs and Specific Duty Categories
           - reasonable foreseeability remained a requirement to establish the duty
           - but injury to a person of normal fortitude was not a requirement
           - there were relevant considerations as to the existence of a duty such as how the incident was perceived and the person's relationship with the victim
-        - The court held that, in nervous shock cases, the law imposes only a duty to take reasonable care to avoid psychiatric injury to a person of ‘normal fortitude’
-          - This meant that in a case such as Mrs Tame’s, where there is absence of actual knowledge of a particular susceptibility, it is not reasonably foreseeable that a person of normal fortitude might sustain psychiatric injury from a clerical mistake of the type that occurred here
-        - HCA dismissd Mrs Tame’s appeal on the basis that the psychiatric injury Mrs Tame suffered was not reasonably foreseeable.
+        - The court held that, in nervous shock cases, the law imposes only a duty to take reasonable care to avoid psychiatric injury to a person of 'normal fortitude'
+          - This meant that in a case such as Mrs Tame's, where there is absence of actual knowledge of a particular susceptibility, it is not reasonably foreseeable that a person of normal fortitude might sustain psychiatric injury from a clerical mistake of the type that occurred here
+        - HCA dismissd Mrs Tame's appeal on the basis that the psychiatric injury Mrs Tame suffered was not reasonably foreseeable.
         - The decisions in Tame and Annetts outlined the following common law principles relevant to the duty of care in respect of negligently caused mental harm: 
           - (a) The plaintiff must demonstrate a recognisable psychiatric injury (Gaudron, Gummow, Kirby, Hayne and Callinan JJ). 
-          - (b) Reasonable foreseeability is a requirement for the duty of care to be established; however, ‘normal fortitude’ is not a prerequisite to establishing a duty in all cases (Gleeson CJ, Gaudron, Gummow and Kirby JJ). 
+          - (b) Reasonable foreseeability is a requirement for the duty of care to be established; however, 'normal fortitude' is not a prerequisite to establishing a duty in all cases (Gleeson CJ, Gaudron, Gummow and Kirby JJ). 
           - (c) Relevant considerations to determine a duty of care include the directness of the perception of the event by the claimant; their relationship with the person killed, injured or placed in peril; the nature of the shock; and whether there is any pre-existing relationship between the plaintiff and the defendant. 
         - The court stressed that none of these factors is a precondition for recovery. 
       - The principles in Annetts and Tame were applied in Koehler v Cerebos (Aust) Ltd (2005) 222 CLR 44 where the High Court of Australia found on common law principles that an employer did not breach a duty of care in negligence to an employee not to inflict a stress-related psychiatric injury on her.
-        - the plaintiff’s injury was not the result of shock but rather, it was the result of workplace stress. 
+        - the plaintiff's injury was not the result of shock but rather, it was the result of workplace stress. 
           - In Koehler, the employee was a full-time sales representative. She was retrenched by her employer and during the course of her part-time employment, she complained to the management on many occasions about her workload: 
-            - ‘she complained orally and in writing on many occasions that she had too big an area, too many stores and very little time’ but at no point did she suggest that these matters were affecting her mental health 
-          - Their Honours stated that the ‘content of the duty which an employer owes an employee to take reasonable care to avoid psychiatric injury cannot be considered without taking account of the obligations which the parties owe one another under the contract of employment’ 
+            - 'she complained orally and in writing on many occasions that she had too big an area, too many stores and very little time' but at no point did she suggest that these matters were affecting her mental health 
+          - Their Honours stated that the 'content of the duty which an employer owes an employee to take reasonable care to avoid psychiatric injury cannot be considered without taking account of the obligations which the parties owe one another under the contract of employment' 
             - Importantly, the High Court reaffirmed the importance of examining the scope of the duty of care owed by the defendant. 
               - The High Court held in Koehler that a reasonable employer would not have foreseen the risk of psychiatric illness to the employee as a result of the tasks the plaintiff had agreed to carry out under the contract of employment.
-          - psychiatric injury in the work-place will only be reasonably foreseeable when there are, ‘signs and symptoms of psychiatric illness of the particular employee which are reasonably apparent to the employer’
+          - psychiatric injury in the work-place will only be reasonably foreseeable when there are, 'signs and symptoms of psychiatric illness of the particular employee which are reasonably apparent to the employer'
     - 16.6.3 Civil liability legislation and pure mental harm 
       - Civil Liability Act 2002 (NSW) Pt 3 s 30 restricts recovery for pure mental harm to certain categories of person: 
         - (2) The plaintiff is not entitled to recover damages for pure mental harm unless: 
@@ -3283,53 +3283,53 @@ Atypical Plaintiffs and Specific Duty Categories
         - A passenger train derailed at high speed near Waterfall Station (south of Sydney) on the morning of 31 January 2003. 
           - Seven people died and many others were seriously injured. 
             - death; injury; the wreckage of the train; overhead electrical cables lying across the wreckage; injured people thrown out of the train and passengers trapped, seriously injured, and very distressed.
-        - State Rail admitted negligence but argued that the appellants were unable to show that they witnessed any of the victims ‘being killed, injured or put in peril’ (emphasis added). 
-          - State Rail argued that the word ‘being’ as used in s 30(2)(a) meant that the appellants had to witness the event in which people were killed, injured or imperilled and so could not recover as by the time the police officers arrived on the scene the accident had already happened.
+        - State Rail admitted negligence but argued that the appellants were unable to show that they witnessed any of the victims 'being killed, injured or put in peril' (emphasis added). 
+          - State Rail argued that the word 'being' as used in s 30(2)(a) meant that the appellants had to witness the event in which people were killed, injured or imperilled and so could not recover as by the time the police officers arrived on the scene the accident had already happened.
         - The High Court, noting that extrinsic materials offered no guidance on the interpretation of this provision, overturned the Court of Appeal decision
           - The High Court rejected the arguments of State Rail as to both the interpretation of s 30(2)(a) and a secondary argument that Pt 3 of the Civil Liability Act requires that a plaintiff must demonstrate that the psychiatric injury of which complaint is made was occasioned by observation of what was happening to a particular victim.
-        - The High Court found for the appellants, as ‘the survivors of the derailment remained in peril until they had been rescued by being taken to a place of safety.
-          - Mr Wicks and Mr Sheehan witnessed, at the scene, victims of the accident being put in peril as a result of the negligence of State Rail’ 
+        - The High Court found for the appellants, as 'the survivors of the derailment remained in peril until they had been rescued by being taken to a place of safety.
+          - Mr Wicks and Mr Sheehan witnessed, at the scene, victims of the accident being put in peril as a result of the negligence of State Rail' 
     - 16.6.4 Establishing a duty of care for pure mental harm following Annetts and civil liability legislation
       - The High Court in Wicks v State Rail Authority of New South Wales (2010) 241 CLR 60 provided guidance as to how to approach interpretation of Pt 3 of the Civil Liability Act 2002 (NSW). 
         - The duty of care question must be resolved before other statutory limitations on recovery for mental harm which exist in the civil liability legislation are determined. 
       - Requirements for a duty of care in pure mental harm cases from CLA:
         - The first requirement is that there must be a recognised psychiatric illness.
-        - the second is reasonable foreseeability that a person of ‘normal fortitude’ would suffer a recognised psychiatric illness if care were not taken,
+        - the second is reasonable foreseeability that a person of 'normal fortitude' would suffer a recognised psychiatric illness if care were not taken,
         - and the third is that the circumstances of the case must be considered in order to determine the reasonable foreseeability issue 
           - such as whether the plaintiff witnessed the accident and the relationship of the plaintiff to the person injured
-      - 16.6.4.1 A ‘recognised psychiatric illness
+      - 16.6.4.1 A 'recognised psychiatric illness
         - In all Australian jurisdictions, there is a distinction between mere grief or sorrow and a recognised psychiatric injury. 
-        - Under both common law and statute, ‘grief and sorrow’ will not give rise to damages. 
+        - Under both common law and statute, 'grief and sorrow' will not give rise to damages. 
           - a plaintiff must establish that they have an injury: a recognised psychiatric illness
           - One of the most cited passages which refers to the necessity for a recognisable psychiatric illness or injury to establish recovery in nervous shock at common law is that of Brennan J in Jaensch v Coffey (1984) 155 CLR 549
             - In Tame v New South Wales; Annetts v Australian Stations Pty Ltd (2002) 211 CLR 317, the High Court confirmed that damages are only recoverable in negligence for a recognisable psychiatric injury and not for emotional distress. 
-        - ‘save in exceptional circumstances, a person is not liable, in negligence, for being a cause of distress, fear, anxiety, annoyance, or despondency, without any resulting recognised psychiatric illness’.	
-          - Proof of a psychiatric disorder or illness is required, although the exact nature of the plaintiff’s illness does not need to be foreseeable
+        - 'save in exceptional circumstances, a person is not liable, in negligence, for being a cause of distress, fear, anxiety, annoyance, or despondency, without any resulting recognised psychiatric illness'.	
+          - Proof of a psychiatric disorder or illness is required, although the exact nature of the plaintiff's illness does not need to be foreseeable
             - Mount Isa Mines
       - Coates v Government Insurance Office of New South Wales (1995) 36 NSWLR 1
         - Facts
-          - Steven Coates was 14 years old and Suzanne Coates was 11 years old at the time of their father’s death. 
+          - Steven Coates was 14 years old and Suzanne Coates was 11 years old at the time of their father's death. 
           - They did not witness the accident in which their father was killed and nor were they involved in the aftermath. 
           - They were informed by police of the death. 
           - Their father was a long-distance truck driver who had a close relationship with his children. 
           - Steven accompanied his father on long-distance trips. 
-          - Following their father’s death, Suzanne was hospitalised with stomach pains and Steven suffered poor peer group relations and wore his father’s clothes, although too large for him
+          - Following their father's death, Suzanne was hospitalised with stomach pains and Steven suffered poor peer group relations and wore his father's clothes, although too large for him
         - Both Gleeson CJ and Clarke JA held there was no compensable injury (nervous shock) as neither child was shown to have suffered a recognisable psychiatric illness or injury, notwithstanding their severe grief. 
           - In dissent, Kirby P held that there was evidence of nervous shock; that it was irrelevant that the children were not involved in the direct aftermath of the accident; and it was also irrelevant that they did not have visual or aural perception of the accident. 
         - In this case, the distinction drawn by the majority justices was between mere grief and extreme grief amounting to psychiatric injury
-      - 16.6.4.2 Foreseeability that a person of ‘normal fortitude’ will suffer injury
-        - A duty of care arises only where ‘the defendant ought to have foreseen that a person of normal fortitude might, in the circumstances of the case, suffer a recognised psychiatric illness if reasonable care were not taken
-          - Tame: no separate and definitive test of ‘normal fortitude’ so long as psychiatric injury is reasonably foreseeable.
+      - 16.6.4.2 Foreseeability that a person of 'normal fortitude' will suffer injury
+        - A duty of care arises only where 'the defendant ought to have foreseen that a person of normal fortitude might, in the circumstances of the case, suffer a recognised psychiatric illness if reasonable care were not taken
+          - Tame: no separate and definitive test of 'normal fortitude' so long as psychiatric injury is reasonably foreseeable.
         - Tomisevic v Menzies Wagga Southern Pty Ltd [2005] NSWCA 178
           - held that it was not reasonably foreseeable that a person of normal fortitude would suffer a recognisable psychiatric illness as a result of being splashed in the face by water contaminated by faeces.
         - In Optus Administration Pty Limited v Wright by his tutor James Stuart Wright [2017] NSWCA 21, the New South Wales Court of Appeal held applying s 32, that the plaintiff was not owed a duty of care because the foreseeability requirement of the section was not met. 
           - Facts
-            - The court held that s 32 ‘applies to both pure mental harm and consequential mental harm and to harm caused directly to the plaintiff and harm caused to a third party victim which indirectly affects the plaintiff’ 
-            - The plaintiff suffered severe post-traumatic stress disorder, anxiety, social phobia and depression for years following an incident while attending a training course at Optus’ premises for call centre operators who were contracted by a labour hire firm. 
+            - The court held that s 32 'applies to both pure mental harm and consequential mental harm and to harm caused directly to the plaintiff and harm caused to a third party victim which indirectly affects the plaintiff' 
+            - The plaintiff suffered severe post-traumatic stress disorder, anxiety, social phobia and depression for years following an incident while attending a training course at Optus' premises for call centre operators who were contracted by a labour hire firm. 
             - Another attendee at the training course (Mr George) who was mentally unstable and who was unknown to the plaintiff tried to kill the plaintiff by attempting to throw him off the roof of the Optus building. 
               - The plaintiff did not know George but was asked to go to the roof by an Optus employee after a request from George. 
           - The court held that the assault inflicted on the plaintiff which put his life in peril was not something which Optus ought to have foreseen or which it should reasonably have foreseen might cause a person of normal fortitude to suffer a psychiatric illness, having regard to the circumstances of the case 
-            - It was held to be implicit in s 32 that ‘the circumstances which might lead a person of normal fortitude to suffer a psychiatric illness must themselves be reasonably foreseeable’
+            - It was held to be implicit in s 32 that 'the circumstances which might lead a person of normal fortitude to suffer a psychiatric illness must themselves be reasonably foreseeable'
       - 16.6.4.3 The circumstances of the case
         - For the purposes of establishing that the defendant ought to have foreseen that a person of normal fortitude would have suffered a psychiatric illness if care were not taken ([16.6.4.2]), the court must take into account the circumstances of the case.
         - The court must, in establishing reasonable foreseeability and therefore, a duty of care, have regard to the following circumstances of the case (established category pure mental harm): 
@@ -3337,33 +3337,33 @@ Atypical Plaintiffs and Specific Duty Categories
           - (b) whether the plaintiff witnessed, at the scene, a person being killed, injured or put in danger; 
           - (c) the nature of the relationship between the plaintiff and anyone killed, injured or put in danger; and 
           - (d) whether or not there was a pre-existing relationship between the plaintiff and the defendant. 
-        - High Court rejected the concept of geographical proximity and also of restricting the categories of claimant to those persons who are ‘family members’.
+        - High Court rejected the concept of geographical proximity and also of restricting the categories of claimant to those persons who are 'family members'.
           - Tame, Annets
           - s 32: In these jurisdictions, it is not possible to establish that the defendant has a duty of care to the plaintiff in relation to pure mental harm unless the plaintiff witnessed at the scene of an accident, the victim being killed, injured or put in peril or the plaintiff is a close member of the family of the victim
       - Sudden shock
-        - The phrase ‘nervous shock’ refers to the historical legal requirement at common law that the defendant should reasonably foresee that the plaintiff will receive a shock as a result of the negligently caused events
-          - Nervous shock def: ‘so distressing that the perception of the phenomenon affronts or insults the plaintiff’s mind and causes a recognisable psychiatric illness
-        - At common law, however, this notion of a shock being ‘sudden’ is now supplemented by a cumulative notion of shock
-      - In Gifford v Strang Patrick Stevedoring Pty Ltd (2003) 214 CLR 269, the High Court held that an employer owes a duty to take reasonable care to avoid psychiatric injury to an employee’s children. 
-        - Barry Gifford had three children, Darren, Kelly and Matthew, aged 19, 17 and 14 years old, and they learnt of their father’s death later that same day. 
-          - None of them saw the deceased’s body after the accident: they were apparently discouraged from doing so because of the horrific injuries that he had suffered. 
+        - The phrase 'nervous shock' refers to the historical legal requirement at common law that the defendant should reasonably foresee that the plaintiff will receive a shock as a result of the negligently caused events
+          - Nervous shock def: 'so distressing that the perception of the phenomenon affronts or insults the plaintiff's mind and causes a recognisable psychiatric illness
+        - At common law, however, this notion of a shock being 'sudden' is now supplemented by a cumulative notion of shock
+      - In Gifford v Strang Patrick Stevedoring Pty Ltd (2003) 214 CLR 269, the High Court held that an employer owes a duty to take reasonable care to avoid psychiatric injury to an employee's children. 
+        - Barry Gifford had three children, Darren, Kelly and Matthew, aged 19, 17 and 14 years old, and they learnt of their father's death later that same day. 
+          - None of them saw the deceased's body after the accident: they were apparently discouraged from doing so because of the horrific injuries that he had suffered. 
         - The High Court held that the defendant owed a duty of care to the children,
           - Precedent through Tame and Annetts
-          - that direct perception of an incident or its aftermath is not in all cases a necessary aspect of a claim for damages for negligently inflicted psychiatric injury’
-      - The High Court preferred the Oxford English Dictionary def of ‘shock’
-        - The High Court in Wicks held that this definition of shock applied to all mentions of the word ‘shock’ in Pt 3 of the Civil Liability Act 2002 (NSW) – even though the word is used differently in various sections (ss 28, 29 and 30)
+          - that direct perception of an incident or its aftermath is not in all cases a necessary aspect of a claim for damages for negligently inflicted psychiatric injury'
+      - The High Court preferred the Oxford English Dictionary def of 'shock'
+        - The High Court in Wicks held that this definition of shock applied to all mentions of the word 'shock' in Pt 3 of the Civil Liability Act 2002 (NSW) – even though the word is used differently in various sections (ss 28, 29 and 30)
       - Direct perception by the plaintiff 
         - The requirement was extended beyond a need for the plaintiff to witness the injury, death or peril of the victim at the scene of an accident to include a plaintiff who became caught up in the immediate aftermath of the accident. 
           - In Australia, it is generally assumed that there is no recovery for hearing bad news which occasions nervous shock; however, authority is not clear on this point
           - In Jaensch v Coffey, the High Court was divided concerning the prerequisite of damage being caused by direct perception: 
-            - that is by seeing or perceiving a shock-ing event through one’
-          - In Petrie v Dowling [1992] 1 Qd R 284, a mother recovered for nervous shock when she attended a hospital and was told of her daughter’s death.
+            - that is by seeing or perceiving a shock-ing event through one'
+          - In Petrie v Dowling [1992] 1 Qd R 284, a mother recovered for nervous shock when she attended a hospital and was told of her daughter's death.
           - In Quayle v New South Wales (1995) Aust Torts Reps ¶81-367, a young Aboriginal man, who was suffering alcohol withdrawal, was transferred from the hospital to the police. 
             - He later committed suicide at the police station. The plaintiff mother and brothers of the man recovered. 
-            - One brother had, after the death, been asked by police to identify the deceased’s body in the back of a police van but the other plaintiffs had not seen the deceased
+            - One brother had, after the death, been asked by police to identify the deceased's body in the back of a police van but the other plaintiffs had not seen the deceased
       - The nature of the relationship between the plaintiff and the person killed, injured or in peril
-        - The relationship between the person who suffers pure mental harm and the person who has been physically injured, killed or put in danger as a result of the defendant’s negligence has always been relevant in determining a duty of care at common law. 
-        - At common law, a plaintiff will not have to be a family member of the victim to recover; no clear relational parameters which define the nature of the victim’s relationship with the person injured that would influence the imposition of a duty of care at common 
+        - The relationship between the person who suffers pure mental harm and the person who has been physically injured, killed or put in danger as a result of the defendant's negligence has always been relevant in determining a duty of care at common law. 
+        - At common law, a plaintiff will not have to be a family member of the victim to recover; no clear relational parameters which define the nature of the victim's relationship with the person injured that would influence the imposition of a duty of care at common 
           - The workplace provides a relationship link between plaintiff and victim which may allow a plaintiff to recover for mental harm. 
           - So, in Mount Isa Mines Ltd v Pusey (1970) 125 CLR 383, the injured plaintiff was not a family member of the victims. 
             - Facts
@@ -3379,17 +3379,17 @@ Atypical Plaintiffs and Specific Duty Categories
         - In Page v Smith [1996] AC 155, Lord Lloyd of Berwick split the category of nervous shock victim into primary and secondary victims. 
           - His Lordship stated that a primary victim example
             - bystander who is narrowly missed by a negligent driver and who suffers a severe shock resulting from intense fear to his or her person and a consequential recognisable psychiatric 
-          - ‘secondary’ victim ...[is] not under personal threat to his or her person and may not even observe the negligent conduct. 
+          - 'secondary' victim ...[is] not under personal threat to his or her person and may not even observe the negligent conduct. 
         - secondary victims who are caught up in the aftermath of an accident should be able to recover subject to reasonable foreseeability. 
-          - Mrs Coffey has been described as the secondary victim of the defendant’s negligence which caused direct injury to her husband, the primary victim.
+          - Mrs Coffey has been described as the secondary victim of the defendant's negligence which caused direct injury to her husband, the primary victim.
       - A pre-existing relationship between the plaintiff and defendant 
         - In Tame v New South Wales; Annetts v Australian Stations Pty Ltd (2002) 211 CLR 317 the High Court rejected the notion that there are rigid categories of rules into which a factual situation must fit to establish a duty of care
           - In particular, the assurance the defendant employer gave Mr and Mrs Annetts about looking after their son, gave rise to a duty of care.
     - 16.6.5 Reduction in damages for pure mental harm for secondary victims 
-      - the primary victim’s contributory negligence reduces the secondary victim’s damages in the same proportion as that of the primary victim. 
+      - the primary victim's contributory negligence reduces the secondary victim's damages in the same proportion as that of the primary victim. 
       - Further, in New South Wales, no damages will be awarded to the plaintiff for pure mental harm if the recovery of damages from the defendant by or through the victim would be prevented by any provision of the Civil Liability Act 2002 (NSW) or any other written or unwritten law
   - 16.6.6 Consequential mental harm 
-    - Courts are generally directed that in considering whether a defendant owes a plaintiff who has suffered consequential mental harm a duty of care, ‘the circumstances of the case include the personal injury suffered by the plaintiff’.
+    - Courts are generally directed that in considering whether a defendant owes a plaintiff who has suffered consequential mental harm a duty of care, 'the circumstances of the case include the personal injury suffered by the plaintiff'.
       - the court may only award damages for economic loss (see Chapter 22) for consequential mental harm when the harm suffered by the plaintiff is a recognised psychiatric illness.
     - consequential mental harm def
       - Fits under remoteness, first evaluate physical harm
@@ -3434,13 +3434,13 @@ Atypical Plaintiffs and Specific Duty Categories
       - About nine months later, the patient fell pregnant. She brought an action against the doctor for alleged negligent application of the Filshie clips. 
     - The Trial Judge held that the doctor had applied the left clip in the wrong location, thus failing to achieve full closure and locking of the clip. 
       - As a result, the manner of applying the clip was not in accordance with a practice that was widely accepted by peer professional opinion as competent professional practice (section 5O Civil Liability Act 2002).
-    - The doctor’s inherent risk (section 5I Civil Liability Act 2002) defence failed.
+    - The doctor's inherent risk (section 5I Civil Liability Act 2002) defence failed.
   - The decision on appeal
     - The doctor appealed the decision on both liability and damages.
       - It was not disputed that pregnancy can occur after tubal ligation without negligence. 
         - However, with regard to liability, the Court of Appeal considered that there was error in the way the left Filshie clip was applied to the Fallopian tube, resulting in incomplete closure. 
       - As such, the Court of Appeal affirmed the District Court decision concerning liability.
-    - Regarding damages, there was no challenge on appeal of the Trial Judge’s findings that the patient developed psychiatric injury following the birth of the child, nor that the patient suffered loss of earning and loss of earning capacity due to that injury.
+    - Regarding damages, there was no challenge on appeal of the Trial Judge's findings that the patient developed psychiatric injury following the birth of the child, nor that the patient suffered loss of earning and loss of earning capacity due to that injury.
     - Section 71 of the Civil Liability Act 2002 provides that in any claim involving the birth of a child, the Court cannot award damages for economic loss associated with the cost of rearing or maintaining the child, including loss of earnings incurred by a plaintiff while rearing or maintaining the child.
       - Section 71 does not prevent recovering damages for additional costs of rearing or maintaining because of a disability suffered by the child, although this was not relevant in this case.
     - The Trial Judge took the view that section 71 does not preclude an award for damages for loss of earnings arising from psychiatric injury associated with the birth of a child. 
@@ -3452,12 +3452,12 @@ Atypical Plaintiffs and Specific Duty Categories
       - Section 71 of the Civil Liability Act 2002 does not preclude recovering economic loss for psychiatric injury (and arguably any other physical injury to the parent) caused by the birth of the child. 
 - "Is 'Nervous Shock' Still a Feminist Issue? The Duty of Care and Psychiatric Injury in Australia" can be updated as follows:
   - Background:
-    - The action for negligently caused ‘nervous shock’ or psychiatric harm has been available for over 100 years, but has been problematic due to extra hurdles imposed for proving a duty of care in such cases. 
+    - The action for negligently caused 'nervous shock' or psychiatric harm has been available for over 100 years, but has been problematic due to extra hurdles imposed for proving a duty of care in such cases. 
     - The feminist analysis has been crucial in illuminating this issue.
   - Legal Issue:
     - The article examines changes in the law, particularly following the High Court's decisions in Tame v NSW; Annetts v Australian Stations Pty Ltd [2002] HCA 35; (2002) 211 CLR 317, to determine whether the feminist critique on the treatment of psychiatric harm is still relevant.
   - Ratio:
-    - Despite the 'mainstreaming' of claims for nervous shock following the High Court’s decisions in 2002, the article argues that the distinctions that remain, or have been reinstated, stem from the history of nervous shock claims traditionally being associated with women.
+    - Despite the 'mainstreaming' of claims for nervous shock following the High Court's decisions in 2002, the article argues that the distinctions that remain, or have been reinstated, stem from the history of nervous shock claims traditionally being associated with women.
   - Decision:
     - The High Court in 2002 sought to equalize the treatment of nervous shock cases with other personal injury cases by emphasizing that psychiatric injuries are as real as physical injuries. 
     - However, subsequent legislative changes through various Civil Liability Acts have reverted or altered the legal standing of psychiatric harm, questioning the enduring relevance of feminist critiques.
@@ -3482,21 +3482,21 @@ Atypical Plaintiffs and Specific Duty Categories
     - Despite the reduced damages on appeal, the decision emphasizes the accountability of Australian universities concerning the safety and well-being of their students.
 # Week 11: CH 17 - Negligently Caused Pure Economic Loss
 
-- ‘Pure’ Economic Loss
-  - ‘Pure’ Economic Loss def
+- 'Pure' Economic Loss
+  - 'Pure' Economic Loss def
     - arises where the plaintiff has suffered economic loss which is not consequent upon any physical injury to person or property.
     - An example would be where a plaintiff loses an investment because of negligent financial advice
   - Economic loss due to physical harm examples 
     - Wage loss, both past and future, medical and other care expenses and the like are common types of economic loss for which damages are routinely awarded to plaintiffs in cases of negligently caused physical harm
-  - The ‘economic torts’
+  - The 'economic torts'
     - Intentional conduct causing economic loss 
     - and negligent conduct or words causing economic loss. 
       -  negligently caused pure economic loss
         - That reasonable foreseeability of the economic loss is not, on its own, a sufficient reason to impose a duty of care.
 - Policy considerations
   - Indeterminate liability 
-    - fear of ‘indeterminate liability def’ 
-      - if a duty of care to avoid pure economic loss is imposed, in many instances the effect would be to make a defendant’s liability incalculable.
+    - fear of 'indeterminate liability def' 
+      - if a duty of care to avoid pure economic loss is imposed, in many instances the effect would be to make a defendant's liability incalculable.
       - how many potential plaintiffs it might be liable or for what quantum of damages?
       - Ex: When a company is found to be worth less than indicated by the accounts or when it goes into liquidation, will the auditors be liable to all those persons who used the accounts to make investment or financial decisions and who have lost money as a result?
   - The relationship between tort and contract
@@ -3508,30 +3508,30 @@ Atypical Plaintiffs and Specific Duty Categories
     - The concern to ensure that tort law does not stifle legitimate commercial activity 
     - Perre v Apand Pty Ltd (1999) 198 CLR 18
       - evaluates the duty not to cause pure economic loss
-      - In that case, however, the court determined that the imposition of a duty would not offend this policy consideration because the defendant’s conduct was unlawful and against even its own commercial interests and therefore the imposition of a duty would not stifle competitive commercial activity
-  - The ‘no-recovery’ rule in England 
+      - In that case, however, the court determined that the imposition of a duty would not offend this policy consideration because the defendant's conduct was unlawful and against even its own commercial interests and therefore the imposition of a duty would not stifle competitive commercial activity
+  - The 'no-recovery' rule in England 
     - Historically, the courts dealt with the policy problems associated with the imposition of a duty to avoid purely economic loss by simply refusing to allow recovery at all. 
       - In Derry v Peek (1889) 14 App Cas 337, the House of Lords refused to allow recovery in the tort of deceit, for pure economic loss against the promoters of a company, in respect of a negligent statement in a prospectus.
-      - Weller v Foot & Mouth Disease Research Institute [1966] 1 QB 569, the court refused to allow recovery to the plaintiff firm of cattle auctioneers who suffered financial loss when the sale yards were closed following an outbreak of foot and mouth disease negligently allowed to escape from the defendant’s research facility.
-    - The English courts generally maintain this ‘no recovery’ rule in respect of negligent acts causing purely economic loss
-    - Since the decision in Caltex Oil (Australia) Pty Ltd v Dredge ‘Willemstad’ (1976) 136 CLR 529, the Australian High Court has taken a very different approach to that of the English courts in cases of negligent acts causing purely economic loss.
+      - Weller v Foot & Mouth Disease Research Institute [1966] 1 QB 569, the court refused to allow recovery to the plaintiff firm of cattle auctioneers who suffered financial loss when the sale yards were closed following an outbreak of foot and mouth disease negligently allowed to escape from the defendant's research facility.
+    - The English courts generally maintain this 'no recovery' rule in respect of negligent acts causing purely economic loss
+    - Since the decision in Caltex Oil (Australia) Pty Ltd v Dredge 'Willemstad' (1976) 136 CLR 529, the Australian High Court has taken a very different approach to that of the English courts in cases of negligent acts causing purely economic loss.
 -  The Difference Between Negligent Acts and Negligent Statements causing Economic Loss
   - Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465
     - the decision in Hedley Byrne allowed for a duty of care in limited cases of negligent misstatement
     - House of Lords recognised that the negligent making of a statement causing economic loss would, in limited circumstances, give rise to a duty of care
-  - In Australia, the distinction between ‘statements’ and ‘acts’ is relevant because some different salient features may influence the imposition of a duty of care, depending on whether the case is one concerning a negligent statement or a negligent act by the defendant, causing financial loss, though there is overlap
+  - In Australia, the distinction between 'statements' and 'acts' is relevant because some different salient features may influence the imposition of a duty of care, depending on whether the case is one concerning a negligent statement or a negligent act by the defendant, causing financial loss, though there is overlap
 - 17.5 Negligent Misstatements 
   - Hedley Byrne v Heller,
     - There was no comprehensive test laid down to establish a duty of care for negligent misstatement. 
       - Negligent misstatement def
         - relates to a representation of fact, which is carelessly made, and is relied on by another party to their disadvantage
-    - Instead, the court identified relevant factors such as the ‘skill and judgment’ of the person making the statement and the nature of reliance by the plaintiff upon it.
+    - Instead, the court identified relevant factors such as the 'skill and judgment' of the person making the statement and the nature of reliance by the plaintiff upon it.
     - It was only the disclaimer of liability which prevented the court from imposing a duty of care on the defendants in Hedley Byrne v Heller
   - Salient features and vulnerability
     - The main factors identified in Hedley Byrne, namely, 
       - (1) the knowledge of the defendant, actual or attributed, that the plaintiff is likely to rely on the information and 
       - (2) reasonable reliance by the plaintiff on the information, are common to all cases. 
-    - In Woolcock Street Investments Pty Ltd v CDG Pty Ltd (2004) 216 CLR 515, McHugh J held that vulnerability def means ‘that by reason of ignorance or social, political or economic constraints, the plaintiff was not able to protect him or herself from the risk of injury’ ([80]).
+    - In Woolcock Street Investments Pty Ltd v CDG Pty Ltd (2004) 216 CLR 515, McHugh J held that vulnerability def means 'that by reason of ignorance or social, political or economic constraints, the plaintiff was not able to protect him or herself from the risk of injury' ([80]).
     - In Middleton v Aon Risk Services Aust Ltd [2008] WASCA 239 (a case about a negligent misrepresentation), McLure JA (Buss JA and Murray AJA agreeing) explained the place of vulnerability as a feature of the duty of care in negligent misstatement cases
   - Special skill 
     - The Hedley Byrne v Heller approach to the duty of care in negligent misstatement cases was approved and applied by the High Court of Australia in 
@@ -3541,29 +3541,29 @@ Atypical Plaintiffs and Specific Duty Categories
         - He sought investment information and advice from the insurance company regarding investment in a company, HG Palmer Ltd.
         - HG Palmer Ltd soon went into liquidation and the plaintiff lost his investment. 
         - The plaintiff claimed that MLC owed him a duty of care, which had been breached.
-          - The defendant argued that the plaintiff’s pleading was bad because it did not disclose all the elements of a duty as set forth in the Hedley Byrne case
+          - The defendant argued that the plaintiff's pleading was bad because it did not disclose all the elements of a duty as set forth in the Hedley Byrne case
       - Additional Issue
-        - Was it reasonable for the plaintiff to rely on the advice from MLC when it was not an investment adviser and did not have any ‘special skill’ in this field.
+        - Was it reasonable for the plaintiff to rely on the advice from MLC when it was not an investment adviser and did not have any 'special skill' in this field.
       - Held
         - The High Court held that MLC did owe the plaintiff a duty of care. 
           - To establish the duty the plaintiff must establish that, in the circumstances, it was reasonable for the plaintiff to have relied on the information provided by the defendant.
-        - The High Court held that having a ‘special skill’ was not a prerequisite to the imposition of a duty of care. 
+        - The High Court held that having a 'special skill' was not a prerequisite to the imposition of a duty of care. 
           - The speaker must realise or the circumstances be such that he ought to have realised that the recipient intends to act on the information or advice
     - This adoption of the Barwick CJ approach was confirmed in L Shaddock & Associates Pty Ltd v Parramatta City Council (1981) 150 CLR 225 
       - where property developers had purchased property within the Parramatta area and their solicitor made first a telephone inquiry, and then a written inquiry asking the council whether the property was affected by any road-widening proposals. 
       - Background
         - It was the usual practice of the council to make such disclosures on the certificates it issued in response to requests by intending purchasers. 
-        - The property was, in fact, the subject of road-widening plans by the council and the plaintiffs claimed they suffered financial loss as a result of the council’s negligent failure to disclose the information.
+        - The property was, in fact, the subject of road-widening plans by the council and the plaintiffs claimed they suffered financial loss as a result of the council's negligent failure to disclose the information.
       - Held
         - The High Court upheld an appeal by the plaintiffs, unanimously finding that the council owed them a duty to take reasonable care in the giving of information
-          - the council’s adoption of the practice of giving out information when requested to do so, was no different from the situation where a person is carrying on the business of supplying information or giving advice
-          - whilst it was reasonable for the plaintiff to rely on the written certificate issued by the council which did not disclose any road-widening proposal, it would not have been reasonable to rely on advice which was given over the phone to the plaintiff’s solicitor by an unidentified council employee because of the informality of such oral advice. 
+          - the council's adoption of the practice of giving out information when requested to do so, was no different from the situation where a person is carrying on the business of supplying information or giving advice
+          - whilst it was reasonable for the plaintiff to rely on the written certificate issued by the council which did not disclose any road-widening proposal, it would not have been reasonable to rely on advice which was given over the phone to the plaintiff's solicitor by an unidentified council employee because of the informality of such oral advice. 
         - Mason and Aickin JJ, held that the Privy Council decision in MLC v Evatt should not be followed in Australia.
-    - So, in Australia, it is not a prerequisite to the duty of care that the defendant be ‘in the business’ of giving information or advice. 
+    - So, in Australia, it is not a prerequisite to the duty of care that the defendant be 'in the business' of giving information or advice. 
   - Reasonable reliance 
     - As MLC v Evatt demonstrates, two factors essential for the imposition of a duty of care in negligent misstatement cases are 
       - the reasonable reliance by the plaintiff on the information or advice provided by the defendant and 
-      - the defendant’s knowledge that the plaintiff will rely on it. 
+      - the defendant's knowledge that the plaintiff will rely on it. 
     - Tepko Pty Ltd v Water Board (2001) 206 CLR 
       - Background
         - plaintiff companies, which were owned and controlled by Mr Neal (in a case in which the facts were very convoluted), were the owners of semi-rural land on the fringe of Sydney. 
@@ -3572,20 +3572,20 @@ Atypical Plaintiffs and Specific Duty Categories
         - The plaintiffs sought an estimate of the cost of such connection from the Water Board.
       - bank decided that the development was untenable and required repayment of its loan. 
       - The land was sold for a much smaller sum than it would have been worth had it been subdivided. 
-        - It was later discovered that the Water Board’s estimate had been greatly overstated.
+        - It was later discovered that the Water Board's estimate had been greatly overstated.
       - Issue
         - The plaintiffs claimed that the Water Board owed them a duty to take care in the preparation of the estimate so as not to cause them financial loss. 
       - Held
         - The High Court, by a majority of 4 to 3, held that the defendant did not owe a duty of care to the plaintiff because it was unreasonable for the plaintiffs to have relied on the estimate, in all the circumstances. 
       - Ratio
-        - The court noted that the figure given was at best, a ‘ballpark’ figure, that it had been provided reluctantly by the Water Board only after much lobbying by the plaintiffs; that the plaintiffs had access to other expert advice; 
-        - and that the Water Board was unaware that the figure was required for the plaintiff’s bank. 
+        - The court noted that the figure given was at best, a 'ballpark' figure, that it had been provided reluctantly by the Water Board only after much lobbying by the plaintiffs; that the plaintiffs had access to other expert advice; 
+        - and that the Water Board was unaware that the figure was required for the plaintiff's bank. 
     - Roo Roofing Pty Ltd v Commonwealth [2019] VSC 33,
       - a class action brought by business owners and installers of home insulation
       - The plaintiffs claimed economic losses arising out of the Home Insulation Program (HIP) that was part of the fiscal stimulus program implemented by the Australian Government in 2009, in response to the Global Financial Crisis. 
-        - When the government ended the program early and without notice in 2010, the plaintiffs who had ‘geared up’ their businesses to take advantage of the (heavily government subsidised) demand for home insulation, claimed that the Commonwealth was responsible for their subsequent economic losses. 
+        - When the government ended the program early and without notice in 2010, the plaintiffs who had 'geared up' their businesses to take advantage of the (heavily government subsidised) demand for home insulation, claimed that the Commonwealth was responsible for their subsequent economic losses. 
       - the Commonwealth did not induce the plaintiffs to take part in the HIP – it encouraged participation but the plaintiffs made their own business decisions 
-  - Defendant’s knowledge/request for information
+  - Defendant's knowledge/request for information
     - The courts will not impose a duty of care in circumstances where the defendant does not know or could not have known that the plaintiff (or a class of vulnerable persons of which the plaintiff is one) would receive and rely on the information or advice given. 
     - In San Sebastian Pty Ltd v The Minister (1986) 162 CLR 340, the plaintiff, a property developer, relied on plans for the redevelopment of Woolloomooloo in Sydney. 
       - The plaintiff property developer purchased property in the area and lost money when the council and the planning authority decided not to proceed with the redevelopment. 
@@ -3594,7 +3594,7 @@ Atypical Plaintiffs and Specific Duty Categories
       - The court also considered to be relevant to the duty question the fact that the plaintiff had made no request to the defendant for the information. 
         - there is a requirement that the defendant makes the statement with the intention of inducing the plaintiff (or members of the class) to rely on it.
     - In Corkhill v Commonwealth (No 3) [2018] ACTSC 87, the plaintiff was unsuccessful in her claim in respect of incorrect advice given to her husband by Commonwealth employees (many years before his death), that he was ineligible to join the Commonwealth superannuation scheme. 
-      - The court held that the ‘actual representor’ (the maker of the statement) would have to have known that the deceased was married when the advice was given and that the advice would be communicated to his wife and that she would rely on it. 
+      - The court held that the 'actual representor' (the maker of the statement) would have to have known that the deceased was married when the advice was given and that the advice would be communicated to his wife and that she would rely on it. 
       - The court also held that the deceased was not vulnerable and nor was the plaintiff because they had the means to check the accuracy of the advice
     - In Central Highlands Regional Council v Geju Pty Ltd [2018] QCA 38, the council had issued a limited planning and development certificate to the owner of land who subsequently sold the land to the plaintiff (respondent to the appeal).
       - The certificate incorrectly stated the land was zoned industrial when in fact it was zoned rural. 
@@ -3608,32 +3608,32 @@ Atypical Plaintiffs and Specific Duty Categories
         - In Esanda, the plaintiff was a finance company who loaned funds to a company, Excel, relying on the accounts of Excel audited by the defendants. 
         - The plaintiff did not obtain the accounts from the auditors
         - Excel failed to repay the debt to the plaintiff. 
-        - The plaintiff alleged that the auditors had negligently prepared the accounts on which the plaintiff relied as to the financial viability of Excel, thus contributing to the plaintiff’s loss
+        - The plaintiff alleged that the auditors had negligently prepared the accounts on which the plaintiff relied as to the financial viability of Excel, thus contributing to the plaintiff's loss
       - Held
         - The judgments in the case do not supply a definitive answer to the question of which factors are essential to a duty but they do indicate that the court would be very reluctant to impose a duty of care upon auditors in this kind of case, where a third party relies on the accounts, unknown to the auditors
         - the information would have to be given to the plaintiff (individually or as a member of an ascertained class) for a purpose that would be likely to lead the plaintiff into a transaction and that it would be very likely that the plaintiff would rely on the information in entering into the 
   - Proportionate liability under civil liability legislation 
     - All Australian jurisdictions have introduced a proportionate liability regime with respect to liability for damage between concurrent tortfeasors in cases of purely economic loss or property damage 
       - Common Law v Statute
-        - So, a defendant who has a relatively small part in causing the plaintiff’s loss would be liable for damages only in proportion to the level of its culpability, rather than, as is the case at common law, for all of the plaintiff’s loss, subject to any contribution that might be recovered from other concurrent wrongdoers
+        - So, a defendant who has a relatively small part in causing the plaintiff's loss would be liable for damages only in proportion to the level of its culpability, rather than, as is the case at common law, for all of the plaintiff's loss, subject to any contribution that might be recovered from other concurrent wrongdoers
   - Disclaimers 
     - In Hedley Byrne, even though a duty of care was established, the defendants were not liable because of the inclusion of a disclaimer on the credit reference letter from the bank to the advertising agents. 
   - Australian statutory causes of action for negligent Misstatements
     - s 18 of the Australian Consumer Law, provides a statutory remedy for financial loss in many instances of negligent misstatement
     - The causes of action provided by these statutory provisions are much easier for a plaintiff to prove than a claim in negligence because there is no need to establish a duty of care on common law principles or breach of duty. 
-      - The plaintiff simply has to prove a breach of the section: that is, that the defendant’s conduct was misleading or deceptive and that it caused the plaintiff’s loss.
+      - The plaintiff simply has to prove a breach of the section: that is, that the defendant's conduct was misleading or deceptive and that it caused the plaintiff's loss.
     - In cases against government authorities or local councils for example, plaintiffs rely on the common law because the statutory authorities are not engaged in trade or commerce: 
       - for example, Tepko Pty Ltd v Water Board (2001) 206 CLR 1
   - Plaintiffs successfully relied on statutory causes of action as well as common law claims in some cases arising out of the 2008 Global Financial Crisis (GFC).
     - The Full Federal Court decision in ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1, illustrates the complexity of litigation in pure economic loss cases where several statutory and common law causes of action are relied upon. 
-      - The case involved claims by 13 local government councils against various defendants including the ratings agency Standard and Poor’s (S&P), in respect of a report published by S&P concerning an investment ‘product’ known as Rembrandt Notes which S&P had given a ‘AAA Credit Rating
+      - The case involved claims by 13 local government councils against various defendants including the ratings agency Standard and Poor's (S&P), in respect of a report published by S&P concerning an investment 'product' known as Rembrandt Notes which S&P had given a 'AAA Credit Rating
     - The court held S&P liable under both statutory and common law causes of action. 
       - With respect to the common law claim, the court held that S&P had made a negligent misstatement as to the credit rating of the investments.
         - Further the court held that the disclaimers made by S&P were not effective (being inexplicit and not sufficiently targeted at potential investors) and that causation was proven as the GFC did not cause the losses suffered by investors, rather they were caused by the negligent misstatements of S&P
   - Statutory limitation of liability in Australia 
     - In Australian States and Territories, it is now possible for members of some professions to limit their liability (other than for death or personal injury) to the extent of their professional indemnity insurance, or their net commercial assets,or by reference to fees charged for the work which attracts liability.
   - Statutes of limitation 
-    - In Commonwealth v Cornwell (2007) 229 CLR 519, the High Court was asked to determine the operation of s 11 of the Limitation Act 1985 (ACT) as to whether the action in negligence was commenced after the expiration of a period of six years running from the date on which that cause of action had ‘first accrue[d]’
+    - In Commonwealth v Cornwell (2007) 229 CLR 519, the High Court was asked to determine the operation of s 11 of the Limitation Act 1985 (ACT) as to whether the action in negligence was commenced after the expiration of a period of six years running from the date on which that cause of action had 'first accrue[d]'
       - In a joint judgment the High Court (Gleeson CJ, Gummow, Kirby, Hayne, Heydon and Crennan JJ) held that the statutory limitation period started to run upon his retirement when actual financial damage was suffered so that the cause of action was only then complete
         - The applicant alleged that he had been given negligent advice by his employment supervisor in 1965 about his inability to join a government superannuation fund, which advice he reasonably relied upon. 
         - He argued that he suffered economic loss because his retirement benefit was worth less than it otherwise would have been.
@@ -3644,7 +3644,7 @@ Atypical Plaintiffs and Specific Duty Categories
   - In Australia cases of economic loss caused by negligent acts are different from that in cases of negligent misstatement. 
     - the duty is controlled by the salient features developed by the courts. 
   - The Caltex case
-    - The landmark case in Australia in this area is Caltex Oil (Australia) Pty Ltd v Dredge ‘Willemstad’ (1976) 136 CLR 52
+    - The landmark case in Australia in this area is Caltex Oil (Australia) Pty Ltd v Dredge 'Willemstad' (1976) 136 CLR 52
       - Background:
         - The defendant damaged an oil pipeline that Caltex depended on for its operations.
       - Legal Issue:
@@ -3660,7 +3660,7 @@ Atypical Plaintiffs and Specific Duty Categories
     - Background
       - The defendant was the builder of a house that had been purchased by the plaintiff some seven years after its construction. 
       - The plaintiff was the third owner of the house. Some months after the plaintiff bought the house, it was discovered that the foundations were inadequate and the walls were cracking. 
-      - The plaintiff’s damage was characterised as pure economic loss because the builder had not damaged the house. 
+      - The plaintiff's damage was characterised as pure economic loss because the builder had not damaged the house. 
       - Rather, the builder had built a defective house causing a diminution in its value. 
     - the High Court imposed a duty of care on the builder to the plaintiff, a subsequent purchaser of the house with whom there had never been any contractual relationship.
       - to impose a duty would not create indeterminate liability; that the purchase of a home is often the most important financial transaction a person will make in a lifetime; and that the builder was in a better position to avoid the risk than the plaintiff.
@@ -3670,7 +3670,7 @@ Atypical Plaintiffs and Specific Duty Categories
       - The firm of solicitors failed to notify the plaintiff of the existence of the will following the death of their client, even though they could easily have traced the plaintiff through the Sydney telephone directory. 
       - The principal asset of the estate, a house, fell into disrepair during the six years that the estate was neglected. 
       - When the plaintiff was eventually informed of the existence and whereabouts of the will, there was a substantial death duty penalty and other economic losses to the estate and the plaintiff. 
-    - The High Court imposed a duty of care upon the solicitors to the executor/beneficiary of their client’s estate and Deane J held that, in economic loss cases, the relationship of proximity is characterised by ‘some additional element or elements which will commonly (but not necessarily) consist of known reliance (or dependence) or the assumption of responsibility or a combination of the two’.
+    - The High Court imposed a duty of care upon the solicitors to the executor/beneficiary of their client's estate and Deane J held that, in economic loss cases, the relationship of proximity is characterised by 'some additional element or elements which will commonly (but not necessarily) consist of known reliance (or dependence) or the assumption of responsibility or a combination of the two'.
 
   -  Hill v Van Erp (1997) 188 CLR 159
     - Background
@@ -3678,25 +3678,25 @@ Atypical Plaintiffs and Specific Duty Categories
       - Because the defendant allowed the will to be witnessed by the spouse of the plaintiff beneficiary, the gift of a house to that beneficiary failed (under the rules of succession law). 
       - The disappointed beneficiary sued the solicitor claiming that the solicitor owed a duty of care to avoid pure economic loss to her
     - Held
-      - The beneficiary was not the solicitor’s client.
+      - The beneficiary was not the solicitor's client.
       - The court held that while, generally, a solicitor does not owe a duty of care to a person other than the client, in this case a duty should be imposed because the solicitor, in accepting instructions to draw and supervise the execution of the will, had assumed responsibility to her client and to the intended beneficiary
   - The Perre case: a new approach
     -  Perre v Apand Pty Ltd (1999) 198 CLR 180
       - Recovery of pure economic loss caused by a negligent act
-      - The decision in Perre adopted what has become known as the ‘salient features’ approach to the duty of care question and the High Court identified several salient features relevant in cases of purely economic loss. 
+      - The decision in Perre adopted what has become known as the 'salient features' approach to the duty of care question and the High Court identified several salient features relevant in cases of purely economic loss. 
       - Background
         - The plaintiffs in Perre were several related parties who owned potato farms in South Australia, and grew, washed, packed and sold potatoes. 
         - The plaintiffs sold their potato crops into Western Australia, as did many of the other South Australian producers. 
-        - The defendant was a large manufacturer of potato crisps and supplied potato seed to one of its growers who had a farm in the vicinity of the plaintiff’s farm. 
-        - Some of the seed grown by the plaintiffs’ neighbours was diseased, because the defendant had negligently supplied uncertified experimental seed. 
+        - The defendant was a large manufacturer of potato crisps and supplied potato seed to one of its growers who had a farm in the vicinity of the plaintiff's farm. 
+        - Some of the seed grown by the plaintiffs' neighbours was diseased, because the defendant had negligently supplied uncertified experimental seed. 
         - Western Australian regulations prohibited the import into that State of potatoes grown or processed within a 20-kilometre radius of an outbreak of the disease.
         - Accordingly, the plaintiffs were unable to sell their crops for at least five years into Western Australia, which was a more lucrative market than others available. 
-        - The plaintiffs’ crop was not affected by the disease. 
-        - It was undamaged and quite healthy, but the plaintiffs suffered economic loss as a result of being unable to ‘export’ their crop to Western Australia. 
+        - The plaintiffs' crop was not affected by the disease. 
+        - It was undamaged and quite healthy, but the plaintiffs suffered economic loss as a result of being unable to 'export' their crop to Western Australia. 
         - The plaintiffs claimed that the defendant owed them a duty of care to avoid this economic loss.
       - The High Court imposed a duty of care on the defendants, though each of the seven justices delivered a separate judgment and emphasised different considerations on the duty of care question. 
         - The major policy considerations in this type of case are the need to avoid indeterminate liability and the need to avoid making otherwise legitimate ordinary commercial activity tortious. Neither of these issues was problematic in the present case.
-        - The plaintiffs in this case were particularly vulnerable as they could not have done anything to protect themselves from the defendant’s actions. 
+        - The plaintiffs in this case were particularly vulnerable as they could not have done anything to protect themselves from the defendant's actions. 
         - Indeed, they did not even know of the supply of the infected seed.
       - Indicia of DUTY to avoid Pure Economic Loss (PEL) from Perre
         - Reasonable foreseebility of loss
@@ -3728,7 +3728,7 @@ Atypical Plaintiffs and Specific Duty Categories
         - In the Woolcock Street Investments case, the defendants did not owe the original owners a duty of the kind claimed by the plaintiffs because the defendants had advised the original owners to carry out geotechnical investigations and the owners had refused to do so. 
       - HCA Held
         - The High Court took the view that the point of difference between the two cases was not simply the domestic/commercial premises issue which was not the decisive factor on the duty question. 
-        - the plaintiffs were not vulnerable to the economic consequences of any failure on the defendants’ part. 
+        - the plaintiffs were not vulnerable to the economic consequences of any failure on the defendants' part. 
           - The plaintiffs, as sophisticated commercial investors, could have protected themselves against loss arising from defects in the building by requiring contractual warranties from the vendor, or by carrying out their own investigations into the structural soundness of the building before purchase. 
         - Used the phrase indicia of a duty to prevent pure economic loss
   - In Barclay v Penberthy (2012) 246 CLR 258, the High Court applied the principle of vulnerability developed in Woolcock to a claim against the pilot of a commercial aircraft
@@ -3738,35 +3738,35 @@ Atypical Plaintiffs and Specific Duty Categories
   - The New South Wales Court of Appeal considered the nature of vulnerability in Western Districts Developments Pty Ltd and Turnpike Lane Pty Ltd v Baulkham Hills Shire Council [2009] NSWCA 283
     - The council had erroneously issued a subdivision certificate containing an incorrect endorsement that water and sewerage construction costs had been paid in respect of land subsequently purchased by the plaintiff. 
     - It later had to make the substantial payment to the water authority. 
-    - Preston CJ of the Land and Environment Court with whom Campbell and Giles JJA agreed, referred ([73]) to the ‘five principles’ identified by McHugh J in Perre and held that the plaintiffs were vulnerable (
+    - Preston CJ of the Land and Environment Court with whom Campbell and Giles JJA agreed, referred ([73]) to the 'five principles' identified by McHugh J in Perre and held that the plaintiffs were vulnerable (
   - The New South Wales Court of Appeal in Reynolds v Katoomba RSL All Services Club Ltd (2001) 53 NSWLR 43, 
     - refused to impose a duty of care on the club which allowed the plaintiff to gamble and continued to allow him to obtain cash at the club, when its employees knew of his difficulties
-- The ‘salient features’ approach 
-  - In Makawe Pty Ltd v Randwick City Council (2009) 171 LGERA 165, Simpson JA in the New South Wales Court of Appeal considered how the ‘salient features test’ might be applied
-    - Her Honour’s suggestion is that the fact that a plaintiff’s loss is purely economic loss should be but one feature which the court will consider on the duty question:
-    - that there is no ‘special’ test for duty in these cases but rather that they should be decided on ordinary duty principles having regard to applicable ‘salient features’.
-  - The application of the ‘salient features’ approach is demonstrated in Dale v Veda Advantage Information Services and Solutions Ltd (2009) 176 FCR 456
-    - the Federal Court considered nine claims in respect of pure economic loss as a result of erroneous information about the plaintiffs that was included in the defendant’s electronic credit reporting database. 
+- The 'salient features' approach 
+  - In Makawe Pty Ltd v Randwick City Council (2009) 171 LGERA 165, Simpson JA in the New South Wales Court of Appeal considered how the 'salient features test' might be applied
+    - Her Honour's suggestion is that the fact that a plaintiff's loss is purely economic loss should be but one feature which the court will consider on the duty question:
+    - that there is no 'special' test for duty in these cases but rather that they should be decided on ordinary duty principles having regard to applicable 'salient features'.
+  - The application of the 'salient features' approach is demonstrated in Dale v Veda Advantage Information Services and Solutions Ltd (2009) 176 FCR 456
+    - the Federal Court considered nine claims in respect of pure economic loss as a result of erroneous information about the plaintiffs that was included in the defendant's electronic credit reporting database. 
     - The plaintiffs sued in the torts of defamation and negligence. 
       - In a complex and lengthy judgment dealing with the significant statutory overlay of the Privacy Act 1988 (Cth), Lindgren J found against the plaintiffs on the defamation claims on the basis of the defence of qualified privilege
     -  The court further held that the defendant had not assumed any responsibility to the plaintiffs and that the plaintiffs were not vulnerable because of rights given to them under the Privacy Act 1988 (Cth):
   - Marsh v Baxter [2015] WASCA 169, 
-    - the Western Australian Supreme Court of Appeal considered a ‘novel’ pure economic loss claim which arose from the accidental windborne dispersal of genetically modified canola from the defendants’ property onto the appellants’ certified organic farm.
+    - the Western Australian Supreme Court of Appeal considered a 'novel' pure economic loss claim which arose from the accidental windborne dispersal of genetically modified canola from the defendants' property onto the appellants' certified organic farm.
     - Held
       - The majority distinguished Marsh v Baxter from Perre v Apand as in their view, the appellants could (unlike the plaintiffs in Perre) appreciate the risk to which they were exposed and may have protected themselves by erecting barriers to prevent the GM modified produce being blown on their farm
   - In RinRim Pty ltd v Deutsche Bank AG [2017] NSWCA 169, vulnerability was again a crucial consideration on the duty question ([133]). 
     - Background
       - There the plaintiff claimed that it suffered financial loss when bankers and underwriters failed to take reasonable steps to ascertain that it was entitled to participate in the institutional first stage of a share entitlement offer for a company in which it was a shareholder.
-    - The Court of Appeal held that any loss suffered by the plaintiff was not caused by the defendants’ actions
+    - The Court of Appeal held that any loss suffered by the plaintiff was not caused by the defendants' actions
       - Applying the salient features approach, the court addressed several matters, most significantly the lack of vulnerability of the plaintiff and held that there was no duty of care
 - The Action for Negligently caused Pure Economic Loss and Defective Structures
   - One particular action may be in respect of defective structures, where the plaintiff claims that a building has been negligently planned, engineered, designed or built.
   - Defective structures 
     - There are two distinctly separate types of claims that may arise from defective structures: 
       - (a) For personal injury: Australian courts have held that a person who suffers personal injury, as a result of defective design or building work, is owed a duty of care by the person responsible for the defect: Voli v Inglewood Shire Council (1963) 110 CLR 74. 
-    - And: (b) For purely economic loss: where the plaintiff’s loss is financial. 
+    - And: (b) For purely economic loss: where the plaintiff's loss is financial. 
       - In such cases, it is the defective nature of the building which is the damage suffered by the plaintiff: a diminution in its value. 
-      - The quantum of the plaintiff’s loss is the cost of rectification.
+      - The quantum of the plaintiff's loss is the cost of rectification.
     - Even as to purchasers of domestic homes, the requirement for vulnerability in the Woolcock sense, will result in the failure of many claims: see, for example, Ku-ring-gai Council v Chan [2017] NSWCA 22
   - Builders 
     - In Bryan v Maloney (1995) 182 CLR 609, the High Court held that a builder owed a duty to a subsequent purchaser to take reasonable care in the building of a house.
@@ -3776,8 +3776,8 @@ Atypical Plaintiffs and Specific Duty Categories
       -  the opportunity for recovery by plaintiffs on Bryan v Maloney principles is now severely limited by the increasing emphasis on the requirement for vulnerability in the Woolcock and Brookfield cases
   - Commercial developers and design and construction contractors 
     - In Brookfield Multiplex Ltd v Owners Corporation Strata Plan 61288 (2014) 254 CLR 185
-      - the High Court held that the contractor/builder under a ‘design and construct contract’ for a high-rise building did not owe a duty of care to avoid pure economic loss occasioned by latent defects, to the owners’ corporation or to individual apartment owners in the strata title scheme.
-        - French CJ described the relationship between Brookfield and the owners’ corporation as ‘analogous, although not identical, to the position of the purchaser of the complex in Woolcock
+      - the High Court held that the contractor/builder under a 'design and construct contract' for a high-rise building did not owe a duty of care to avoid pure economic loss occasioned by latent defects, to the owners' corporation or to individual apartment owners in the strata title scheme.
+        - French CJ described the relationship between Brookfield and the owners' corporation as 'analogous, although not identical, to the position of the purchaser of the complex in Woolcock
       - Brookfield did not owe a duty of care to avoid pure economic loss to Chelsea (the original developer and principal under the contract with Brookfield) or to the subsequent purchasers of lots in the strata plan or to the strata owners corporation.
       - Background
         - The case concerned a large commercial strata scheme. 
@@ -3802,12 +3802,12 @@ Atypical Plaintiffs and Specific Duty Categories
       - In this case, Mr Voli was injured when a stage on which he was standing while waiting to cast a vote at a meeting, collapsed injuring around 50 people. 
       - the joists were not sufficient to carry the weight of the people on the stage, a number considered reasonable given the entertainment purposes for which the stage was built.
     - Held
-      - The architect had submitted his plans to the council’s Public Works Department where no objection had been made as to the design and specifications of the plans. 
+      - The architect had submitted his plans to the council's Public Works Department where no objection had been made as to the design and specifications of the plans. 
         - Both the architect and council were sued following the collapse of the stage. The architect was held liable in negligence
       - The council was also held vicariously liable for the negligence of the architect it employed and directly negligent for its failure to review, through its Public Works Department, whether the plans submitted by the architect complied with the relevant by-laws
   - Engineers
     - The High Court decision in Woolcock Street Investments Pty Ltd v CDG Pty Ltd (2004) 216 CLR 515 concerned a commercial structure and the liability of engineers for pure economic loss to subsequent purchasers of the building.
-      - The High Court concluded that the building’s original project engineers did not owe a duty of care to the subsequent purchaser of the building to avoid pure economic loss arising from latent defects in the building.
+      - The High Court concluded that the building's original project engineers did not owe a duty of care to the subsequent purchaser of the building to avoid pure economic loss arising from latent defects in the building.
       - The court held that there was no duty of care owed by the engineers to Woolcock as the plaintiff was not vulnerable. 
       - The High Court noted that the defendants were consulting and civil engineers engaged under a commercial bargain and that the plaintiff was a sophisticated commercial investor who could have protected itself by investigating whether there were defects in the building before purchasing it.
   - Councils 
@@ -3817,14 +3817,14 @@ Atypical Plaintiffs and Specific Duty Categories
     - held that the council owed no relevant duty of care to the plaintiffs because they had not relied on any inquiry of the council concerning the foundations or inspection. 
   - The liability of a council in respect of a development application and a building approval was considered by the New South Wales Court of Appeal in Makawe Pty Ltd v Randwick City Council (2009) 171 LGERA 165
     - Background
-      - That was a case where the car park in the basement of the plaintiff’s building was prone to flood because of fluctuations in the level of the water table which was in close proximity to the concrete slab floor. 
+      - That was a case where the car park in the basement of the plaintiff's building was prone to flood because of fluctuations in the level of the water table which was in close proximity to the concrete slab floor. 
       - Randwick City Council which approved the development and construction of the building, before the purchase by the plaintiff, was in possession of a geo-technical report disclosing the flooding problem, at the time of the building approval. 
     - Held
       - the Court of Appeal held that the council owed no duty of care to Makawe Pty Ltd
       - lack of actual knowledge of the specific problem by the relevant council officer
         - considered the salient features of the duty of care in such cases, including the lack of vulnerability of the plaintiff, the absence of specific reliance by the plaintiff on the defendant, the degree of control by the council and any assumption of responsibility by the council. 
   - In Ku-ring-gai Council v Chan [2017] NSWCA 226, 
-    - a council was held not to owe a duty of care to a subsequent purchaser of a suburban home in respect of defects that could have been discovered by the council as certifying authority before it issued an ‘occupation certificate’ to the owner-builder following completion of renovations. 
+    - a council was held not to owe a duty of care to a subsequent purchaser of a suburban home in respect of defects that could have been discovered by the council as certifying authority before it issued an 'occupation certificate' to the owner-builder following completion of renovations. 
   - All the provisions concerning statutory authorities included in civil liability legislation in various Australian jurisdictions, must now be considered in these types of cases, where a claim is based on the failure of a council to exercise its statutory powers59 to regulate building and construction
 # Week 12: CH 20: Vicarious Liability, Non-Delegable Duties, Concurrent and Proportionate Liability
 
@@ -3834,7 +3834,7 @@ Atypical Plaintiffs and Specific Duty Categories
     - (b) non-delegable duty of care
   - Vicarious liability def 
     - Vicarious liability holds an individual liable for the wrongdoing of another. 
-    - A defendant employer will be liable for an employee’s negligent act done within the course of their employment.
+    - A defendant employer will be liable for an employee's negligent act done within the course of their employment.
   - A non-delegable duty def is one where a defendant is not able to delegate a duty to take care of someone else. 
     - A hospital has a non-delegable duty of care to its public patients and that duty cannot be delegated through the careful selection of an independent contractor. 
     - Hospital/patient – Ellis v Wallsend District Hospital (1989) 17 NSWLR 553; Albrighton v RPAH [1980] 2 NSWLR 542
@@ -3849,18 +3849,18 @@ Atypical Plaintiffs and Specific Duty Categories
     - (a) a relationship of employment or agency between the defendant and the wrongdoer; 
     - (b) a tort committed by the employee or agent; and 
     - (c) the tort must occur during the course of the employment or agency relationship.
-  -  Civil Liability Act 2002 (NSW) s 3C states that ‘any provision of this Act that excludes or limits the civil liability of a person for a tort also operates to exclude or limit the vicarious liability of another person for that tort’.7 
-    - This means that the Act does not ‘seek to differentiate in its operation between direct and vicarious liability’
+  -  Civil Liability Act 2002 (NSW) s 3C states that 'any provision of this Act that excludes or limits the civil liability of a person for a tort also operates to exclude or limit the vicarious liability of another person for that tort'.7 
+    - This means that the Act does not 'seek to differentiate in its operation between direct and vicarious liability'
   - Employee and employer 
     - Employers are vicariously liable for torts of their employees committed during the course of employment
       - In Hollis v Vabu Pty Ltd (2001) 207 CLR 21, the High Court noted that the origins of the rule lie in the responsibility of a master for his household, his family and his servants. 
     - Vicarious liability allows a plaintiff access to a defendant with the capacity to pay damages
     - Both the employer and the employee may be jointly and severally liable for torts of the employee committed within the course of employment
       - New South Wales v Ibbett (2006) 229 CLR 63
-        - Police actions when investigating entering garage, [o]pen the bloody door and let my mate in’.
+        - Police actions when investigating entering garage, [o]pen the bloody door and let my mate in'.
         - The two men were police officers and were arresting her son on suspicion of traffic offences
         - While New South Wales v Ibbett concerns police, the precedent applies to all employment relationships. 
-          - This case confirms that employers are liable for all damages flowing from their employees’ conduct for disregarding the plaintiffs’ rights.
+          - This case confirms that employers are liable for all damages flowing from their employees' conduct for disregarding the plaintiffs' rights.
     - Vicarious liability elements
       - (a) there must be an employment relationship; and 
       - (b) the negligent conduct must occur during the course of employment
@@ -3871,20 +3871,20 @@ Atypical Plaintiffs and Specific Duty Categories
       - The essence of a contract of service is the supply of the work and skill of a man. 
       - The High Court stated that the classic test for determining whether there is a contract of service as opposed to a contract for services is the degree of control which one person has over the other.
   -  There must be a relationship of employment 
-    - Whether they are in an employment relationship or not is up to the court and is not determined by the parties’ own description of their relationship.
-    - Originally the courts used the ‘control test’ to determine whether an employment relationship existed: did the employer have a sufficient degree of control over what tasks were performed by an employee and the manner in which they were performed?
-    - So the courts developed a more flexible approach using ‘scope for control’ by the employer as one of several indicators of an employment relationship. The relevant factors that have been identified by the High Court include:
+    - Whether they are in an employment relationship or not is up to the court and is not determined by the parties' own description of their relationship.
+    - Originally the courts used the 'control test' to determine whether an employment relationship existed: did the employer have a sufficient degree of control over what tasks were performed by an employee and the manner in which they were performed?
+    - So the courts developed a more flexible approach using 'scope for control' by the employer as one of several indicators of an employment relationship. The relevant factors that have been identified by the High Court include:
       - scope for control by the employer; 
       - the description of the position in any written or verbal contract; 
       - the right to suspend or dismiss; 
       - the right to dictate the place of work, hours of work and the like; 
-      - whether tools are supplied and maintained by the ‘employer’ (this would indicate an employee as opposed to an independent contractor who may bring and maintain their own tools);
+      - whether tools are supplied and maintained by the 'employer' (this would indicate an employee as opposed to an independent contractor who may bring and maintain their own tools);
       - the right to the exclusive services of the person engaged; 
         - whether work may be freely sub-contracted to someone else (if this may be done, it indicates an independent contractor); 
       - mode of remuneration: whether a traditional wage is paid (indicates employee) as opposed to a commission, retainer, or being paid on invoice (independent contractor); and
       - what forms of tax/superannuation are paid and by whom are they paid.
   - In Stevens v Brodribb Sawmilling Co Pty Ltd (1986) 160 CLR 16, 
-    - the High Court held that the totality of the relationship between the parties must be considered and decided that there is no single ‘checklist’ of indicia to distinguish the relationship between employer-employee or employer-independent contractor.
+    - the High Court held that the totality of the relationship between the parties must be considered and decided that there is no single 'checklist' of indicia to distinguish the relationship between employer-employee or employer-independent contractor.
     - the evidence of control, whilst significant, is not the sole criterion by which to gauge whether a relationship is one of employment. 
       - The approach of this court has been to regard it merely as one of a number of indicia which must be considered in the determination of that question...77 
       - Mason J. listed other relvant matters as: 
@@ -3902,28 +3902,28 @@ Atypical Plaintiffs and Specific Duty Categories
         - 
   - In Stevens v Brodribb Sawmilling, 
     - the High Court had to determine whether tree-fellers, sniggers and truckers working in the timber industry were independent contractors or employees. 
-    - The fellers cut down trees which the snigger pulled to a ramp by tractor from where the trucker carried the logs to the defendant’s sawmill. The plaintiff trucker was injured through the negligence of a snigger while a log was being loaded. 
-    - The High Court held the defendant sawmill was not vicariously liable for the acts of the snigger as the snigger was not an employee. The court rejected the ‘control’ test that had previously been influential as a single determinant
+    - The fellers cut down trees which the snigger pulled to a ramp by tractor from where the trucker carried the logs to the defendant's sawmill. The plaintiff trucker was injured through the negligence of a snigger while a log was being loaded. 
+    - The High Court held the defendant sawmill was not vicariously liable for the acts of the snigger as the snigger was not an employee. The court rejected the 'control' test that had previously been influential as a single determinant
   - Leading Australian authority on indicia
-    - Hollis v Vabu Pty Ltd (2001) 207 CLR 21 where the High Court applied the ‘various indicia’ approach
+    - Hollis v Vabu Pty Ltd (2001) 207 CLR 21 where the High Court applied the 'various indicia' approach
       - There the appellant/plaintiff had suffered injury to his knee through being knocked down on a footpath by a bicycle courier. 
-      - The courier, although unidentified, was wearing a uniform bearing the respondent’s trade name, ‘Crisis Couriers’. 
+      - The courier, although unidentified, was wearing a uniform bearing the respondent's trade name, 'Crisis Couriers'. 
       - The appellant sued Vabu (which traded as Crisis Couriers) on the basis that, as the bicycle courier was an employee of Vabu and he had been negligent, Vabu was vicariously liable for the tort of its employee. 
       - The High Court held that the bicycle couriers were employees and that Crisis Couriers was vicariously liable for the negligence of the courier. 
-      - The High Court majority, however, rejected a test based exclusively on an ‘enterprise test’
+      - The High Court majority, however, rejected a test based exclusively on an 'enterprise test'
   - The Hollis approach was applied by the High Court in Sweeney v Boylan Nominees Pty Ltd (2006) 226 CLR 161 with a very different outcome.
     - In Sweeney, the High Court held that Boylan Nominees were not vicariously liable for the sub-standard maintenance work performed by a refrigeration mechanic retained by Boylan because he was an independent contractor rather than an employee. 
     - The plaintiff, Mrs Sweeney, suffered physical injury when she opened the door of a refrigerator at a service station to buy milk and the door fell off. 
-    - Boylan was responsible for the maintenance of the refrigerator and the mechanic who performed the work for Boylan did so on a regular basis, at Boylan’s request and direction. 
-      - In a 5 to 1 decision, the High Court followed Vabu and found that the mechanic who had ‘fixed’ the door was an independent contractor and not the employee of Boylan as he conducted his own business and supplied his own tools and invoiced Boylan for each separate repair job. 
-  -  ‘Akin’ to employment relationships 
+    - Boylan was responsible for the maintenance of the refrigerator and the mechanic who performed the work for Boylan did so on a regular basis, at Boylan's request and direction. 
+      - In a 5 to 1 decision, the High Court followed Vabu and found that the mechanic who had 'fixed' the door was an independent contractor and not the employee of Boylan as he conducted his own business and supplied his own tools and invoiced Boylan for each separate repair job. 
+  -  'Akin' to employment relationships 
     - In Northern Sandblasting Pty Ltd v Harris, and in Hollis v Vabu Pty Ltd, McHugh J agreed with Professor Atiyah and favoured expansion of the law. 
       - The majority of the High Court, however, has never adopted that view.
     - There are cases where the traditional employment test has proved inadequate to deal with persons who are neither employees nor independent contractors. 
     - In religious organisations, for example, the position of a priest or religious official or lay member almost certainly falls outside the traditional employment relationship. 
   -  During the course of employment 
     - Liability will only follow when a tort is committed by an employee during the course of employment.
-    - The joint judgment in Prince Alfred College Incorporated v ADC recognised that there is no ‘general basis’ for the imposition of vicarious liability and refers to the methodology to be used
+    - The joint judgment in Prince Alfred College Incorporated v ADC recognised that there is no 'general basis' for the imposition of vicarious liability and refers to the methodology to be used
     - In Phoenix Society Inc v Cavanagh (1997) 25 MVR 143, a drunken bus driver collided with a car and injured the plaintiff who was driving the car. 
       - The bus driver had been specifically warned by her employer not to drink and drive.
       - The employer was nevertheless held to be liable for her negligent act.
@@ -3932,44 +3932,44 @@ Atypical Plaintiffs and Specific Duty Categories
   - In Pioneer Mortgage Services Pty Ltd v Columbus Capital Pty Ltd [2016] FCAFC 78, 
     - the Full Court of the Federal Court of Australia held that the fraudulent theft of funds by an employee was within the scope of employment. 
     - The fraud was committed by the employee via a secure and complex software system (called Origin CAP BUREAU) to which the ANZ Bank had provided access to her employer. 
-  - Criminal acts by employees and the ‘relevant approach’ to vicarious liability
+  - Criminal acts by employees and the 'relevant approach' to vicarious liability
     - In several common law jurisdictions, vicarious liability has been imposed in cases of criminal child sexual abuse. 
       - School authorities have been held to be vicariously liable for the acts of their employees who committed sexual assaults upon students. 
         - in the United Kingdom in Lister v Hesley Hall Ltd [2002] 1 AC 215 and more recently, in some Australian State Supreme and appellate courts.
-        - In Lister v Hesley Hall Ltd [2002] 1 AC 215, the House of Lords held that the test was ‘whether the [employee’s] torts were so closely connected with his employment that it would be fair and just to hold the employers vicariously liable’.
-          - Lord Steyn described the sexual abuse in that case as ‘inextricably interwoven’ with the employee’s performance of his duties (230) and accordingly within the course of employment
-      - In Australia, the ‘scope of employment’ principle has not been as broadly formulated as in Canada and the United Kingdom and it has presented considerable difficulty for plaintiffs in claims against schools and other institutions with respect to vicarious liability for sexual assault. 
+        - In Lister v Hesley Hall Ltd [2002] 1 AC 215, the House of Lords held that the test was 'whether the [employee's] torts were so closely connected with his employment that it would be fair and just to hold the employers vicariously liable'.
+          - Lord Steyn described the sexual abuse in that case as 'inextricably interwoven' with the employee's performance of his duties (230) and accordingly within the course of employment
+      - In Australia, the 'scope of employment' principle has not been as broadly formulated as in Canada and the United Kingdom and it has presented considerable difficulty for plaintiffs in claims against schools and other institutions with respect to vicarious liability for sexual assault. 
     - In New South Wales v Lepore (2003) 212 CLR 511, 
       - by a majority of 5 to 1 the High Court allowed an appeal by a school authority deciding that a school authority may be vicariously liable for sexual assault by a teacher on the basis of it being within the course of employment.
-      - The majority ordered a new trial on the question of the school’s vicarious liability for the criminal assaults by the teacher. Gleeson CJ held that the possibility of a school authority’s vicarious liability for sexual abuse could not be dismissed for the sole reason that it constitutes serious misconduct on the part of the teacher.
+      - The majority ordered a new trial on the question of the school's vicarious liability for the criminal assaults by the teacher. Gleeson CJ held that the possibility of a school authority's vicarious liability for sexual abuse could not be dismissed for the sole reason that it constitutes serious misconduct on the part of the teacher.
       - Gleeson CJ held that where the teacher-student relationship is invested with a high degree of power and intimacy, the use of that power and intimacy to commit sexual abuse may provide a sufficient connection between the sexual assault and the employment.
       - The non-delegable duty of care owed by a school to its pupils should not be extended to encompass liability for intentional (as opposed to negligent) conduct of an employee (who had acted outside the scope of employment)
   - The High Court had an opportunity to revisit the question of vicarious liability for criminal sexual assault by a teacher in Prince Alfred College Incorporated v ADC (2016) 258 CLR 
-    - So the Australian approach requires a court to consider any special role of the employee and whether it provides the occasion for wrongdoing because of the employee’s authority, power, trust, control and the ability to achieve intimacy with the victim.
+    - So the Australian approach requires a court to consider any special role of the employee and whether it provides the occasion for wrongdoing because of the employee's authority, power, trust, control and the ability to achieve intimacy with the victim.
   -  The indemnity principle 
     - While an employer will be vicariously liable for acts of its employees which occur during the course of their employment, they may be able to recoup their loss through the indemnity principle
       - At common law, a term is implied into contracts of employment that an employee will exercise all reasonable care and skill during the course of employment. 
         - A negligent employee will breach this term.
         - As a result, the employer who has been held vicariously liable for the tort of an employee may seek an indemnity from the employee to make good the loss
-      - In New South Wales, the Northern Territory and South Australia, the employer’s right of indemnity has been removed by legislation and, instead, it ensures that the employer will indemnify the employee against liability.
+      - In New South Wales, the Northern Territory and South Australia, the employer's right of indemnity has been removed by legislation and, instead, it ensures that the employer will indemnify the employee against liability.
     - In Lister v Romford Ice & Cold Storage Co Ltd [1957] AC 555, a father was injured when knocked down by his son, who was employed by Romford Ice, while backing his lorry in a yard
-      - The employers were vicariously liable for the son’s negligence and their insurers met the father’s claim. 
-      - The insurers then sued the son in the company’s name, exercising their right of subrogation under the contract of insurance. 
+      - The employers were vicariously liable for the son's negligence and their insurers met the father's claim. 
+      - The insurers then sued the son in the company's name, exercising their right of subrogation under the contract of insurance. 
         - The court held that the son was liable to indemnify the employer and consequently the insurers. 
-        - This right of insurers to enforce the employer’s right of indemnity has been abolished by the Insurance Contracts Act 1984 (Cth), although the right remains where the employee’s act was one of ‘serious or wilful misconduct’.
+        - This right of insurers to enforce the employer's right of indemnity has been abolished by the Insurance Contracts Act 1984 (Cth), although the right remains where the employee's act was one of 'serious or wilful misconduct'.
   - Principal and agent 
     - Vicarious liability extends beyond employer and employee relationships. 
       - A principal is vicariously liable for torts committed by his or her agent
     - An agency relationship def is a contractual agreement whereby the principal gives the agent authority to act or enter into agreements on behalf of the principal
     - In Sweeney v Boylan Nominees Pty Ltd (2006) 226 CLR 161, the High Court held that vicarious liability for the acts of an agent: 
-      - depends directly upon the identification of the independent contractor as the principal’s agent ... and the recognition that the conduct of which complaint is made was conduct undertaken in the course of, and for the purpose of, executing that agency
+      - depends directly upon the identification of the independent contractor as the principal's agent ... and the recognition that the conduct of which complaint is made was conduct undertaken in the course of, and for the purpose of, executing that agency
       - the High Court refused to extend vicarious liability based on agency were there was no legal agency in existence but rather a lesser arrangement whereby an independent contractor performed some services on behalf of another company
-    - When an agent acts within the course of an agency, he or she is legally acting with the authority of the principal, and so it follows that the principal should be vicariously liable for an agent’s acts
+    - When an agent acts within the course of an agency, he or she is legally acting with the authority of the principal, and so it follows that the principal should be vicariously liable for an agent's acts
     - Vicarious liability may be imposed based on agency in the following additional two circumstances: 
       - (a) when the owner of a motor vehicle allows another person to drive it; and 
       - (b) when the principal holds out the agent as having authority to perform the act. 
   -  Car owner and car driver 
-    - In Soblusky v Egan (1960) 103 CLR 215, the High Court established that at common law, the owner of a car will be vicariously liable for the negligent acts or omissions of the driver of the vehicle – where that person is driving with the owner’s permission. 
+    - In Soblusky v Egan (1960) 103 CLR 215, the High Court established that at common law, the owner of a car will be vicariously liable for the negligent acts or omissions of the driver of the vehicle – where that person is driving with the owner's permission. 
     - The court applied the principle that the owner of a car is liable for the negligent driving of that car by another by way of agency, if two elements are present: 
       - (1) a request by the owner that the driver use the vehicle;
       - and (2) an interest by the owner in the purpose for which the vehicle is being driven.
@@ -3980,7 +3980,7 @@ Atypical Plaintiffs and Specific Duty Categories
     - Background
       - One of the owners asked a licensed pilot to fly the plane while he remained on the ground without any means of directing the pilot during the flight. 
       - The plane crashed and the pilot was killed, and the guests injured. 
-      - The appellants (the plaintiffs, who were a boy who had been pulled from the wreckage and his parents who suffered nervous shock upon witnessing the accident) argued before the High Court that the principle in Soblusky v Egan applies to aircraft, that the pilot was the owners’ agent and that the owners were vicariously liable for the personal injuries caused by the pilot’s negligence.
+      - The appellants (the plaintiffs, who were a boy who had been pulled from the wreckage and his parents who suffered nervous shock upon witnessing the accident) argued before the High Court that the principle in Soblusky v Egan applies to aircraft, that the pilot was the owners' agent and that the owners were vicariously liable for the personal injuries caused by the pilot's negligence.
     - The majority of the High Court dismissed this argument.
       - the owner was not vicariously liable for the negligence of the pilot as the owner had not retained any direction over the plane nor any control of it.
       - principle of agency should not be extended beyond motor vehicles
@@ -3991,30 +3991,30 @@ Atypical Plaintiffs and Specific Duty Categories
       - This agent defamed another business while trying to sell insurance.
     - Held
       - The court held that the agent was not acting independently in obtaining proposals and receiving premiums but was the representative of the company with respect to those actions. 
-      - The defendant company, in leaving it up to the agent’s discretion as to how to bring in business, had effectively authorised or held the agent out as being their representative and as being able to make the defamatory statements.
+      - The defendant company, in leaving it up to the agent's discretion as to how to bring in business, had effectively authorised or held the agent out as being their representative and as being able to make the defamatory statements.
 - 20.3 Non-delegable Duty 
   - It was noted by Mason J, in Kondis v State Transport Authority (1984) 154 CLR 672, 687 that a non-delegable duty of care is not simply a duty to take reasonable care. 
     - If it were a duty to take reasonable care, it could be delegated to a carefully selected and suitably qualified contractor. 
     - Rather, a non-delegable duty of care is a duty to see that care is taken
   - A non-delegable duty renders an employer, or other person owing an identified non-delegable duty of care, liable in situations where negligence is caused by an independent contractor even though vicarious liability will not apply.
 - Common law non-delegable duties 
-  - Generally, concepts of ‘control’ and ‘vulnerability’ are relevant to determine when and if a new non-delegable duty should be recognised.
+  - Generally, concepts of 'control' and 'vulnerability' are relevant to determine when and if a new non-delegable duty should be recognised.
   - Hospital and patient 
     - A hospital owes a non-delegable duty of care to its public patients.
     - Since Ellis v Wallsend District Hospital (1989) 17 NSWLR 553, a hospital is liable to its public patients for all those who provide services in its name, regardless of whether they are hospital employees (such as nursing staff and registrar doctors) or independent contractors (such as visiting specialist doctors). 
-      - The court in Ellis drew a distinction between a ‘private’ patient who chooses and consults a specialist privately and a ‘public’ patient who approaches the hospital for treatment and who is referred to a visiting specialist by the hospital.
+      - The court in Ellis drew a distinction between a 'private' patient who chooses and consults a specialist privately and a 'public' patient who approaches the hospital for treatment and who is referred to a visiting specialist by the hospital.
   -  School authority and pupil 
     - Commonwealth v Introvigne (1982) 150 CLR 258 established that a school authority owes a non-delegable duty to its pupils
       - in New South Wales v Lepore (2003) 212 CLR 511, the High Court held that a school authority was not liable for the torts of teachers who sexually assaulted students at school. 
         - The deliberate and intentional nature of the tortious acts by the teachers did not involve a failure to take reasonable care and the High Court held that only a failure to take reasonable care will constitute a breach of non-delegable 
-      - The non-delegable duty of care owed by a school to its pupils can be breached where the school contracts with outside providers of swimming lessons, school camps and the like and those contractors fail to take reasonable care for the safety of the school’s pupils.
+      - The non-delegable duty of care owed by a school to its pupils can be breached where the school contracts with outside providers of swimming lessons, school camps and the like and those contractors fail to take reasonable care for the safety of the school's pupils.
   -  Occupier creating danger to neighbouring land users 
-    - In Burnie Port Authority v General Jones Pty Ltd (1994) 179 CLR 520, the High Court held that a dangerous use of land which damages a neighbour’s property will be subject to a non-delegable duty
+    - In Burnie Port Authority v General Jones Pty Ltd (1994) 179 CLR 520, the High Court held that a dangerous use of land which damages a neighbour's property will be subject to a non-delegable duty
     - Background
       - In this case, the Burnie Port Authority occupied a warehouse where it stored cardboard insulating material, but it also allowed welding to occur near that flammable material. 
       - Both the storing of the materials and the welding were done by independent contractors. 
-      - General Jones Ltd stored frozen vegetables in the warehouse, which was burnt in the fire caused by the independent contractor’s negligence
-      - The court recognised that the relationship was one where the defendant had control of the premises while the plaintiff, the neighbour of the defendant, was vulnerable to the defendant’s actions. 
+      - General Jones Ltd stored frozen vegetables in the warehouse, which was burnt in the fire caused by the independent contractor's negligence
+      - The court recognised that the relationship was one where the defendant had control of the premises while the plaintiff, the neighbour of the defendant, was vulnerable to the defendant's actions. 
     - It was the nature of this relationship that was decisive in the imposition of the non-delegable duty of care
   - Transfield Services (Australia) v Hall [2008] NSWCA 294 confirmed that the ratio in Burnie is limited in application. In Transfield Mr Hall sued three defendants: 
     - Background
@@ -4030,21 +4030,21 @@ Atypical Plaintiffs and Specific Duty Categories
       - the New South Wales Court of Appeal found that a non-delegable duty applied only in limited circumstances. 
       - The court held that there is no non-delegable duty to ensure that reasonable care is taken by an independent contractor engaging in an extra-hazardous or inherently dangerous activity. 
       - The court referred to Burnie Port Authority v General Jones Pty Ltd (1994) 179 CLR 520 and held that it did not detract from the principle decided in Stevens v Brodribb Sawmilling Co Pty Ltd (1986) 160 CLR 16 that there is no general doctrine in Australian law that there is a non-delegable duty in respect of extra-hazardous activities
-    - The recent case of Herridge Parties v Electricity Networks Corporation (t/as Western Power) [2021] WASCA 111 also ‘rejected the proposition that a principal is liable for the negligence of an independent contractor merely on the basis that the activities the contractor was engaged to perform were extra-hazardous’ 
+    - The recent case of Herridge Parties v Electricity Networks Corporation (t/as Western Power) [2021] WASCA 111 also 'rejected the proposition that a principal is liable for the negligence of an independent contractor merely on the basis that the activities the contractor was engaged to perform were extra-hazardous' 
   -  Employer and employee 
     - In Kondis v State Transport Authority (1984) 154 CLR 672, an employer was held to owe a non-delegable duty to its employee. 
       - The plaintiff employee was injured by the jib of a crane which fell. The crane was being operated by an independent contractor who had been hired by the defendant employer. 
-      - The High Court held that, while the employer was not vicariously liable for the negligence of the independent contractor, the employer was liable for the plaintiff’s injury because an employer owes an employee a personal non-delegable duty of care. 
+      - The High Court held that, while the employer was not vicariously liable for the negligence of the independent contractor, the employer was liable for the plaintiff's injury because an employer owes an employee a personal non-delegable duty of care. 
       - Therefore, the failure of the independent contractor to adopt a safe system of work breached the duty of the employer to ensure that reasonable care was taken for the safety of the plaintiff employee.
   -  No non-delegable duty between road authority and road users 
     - In Leichhardt Municipal Council v Montgomery (2007) 230 CLR 22, the High Court held that Leichhardt Council, a road authority, did not owe a non-delegable duty of care to road users. 
       - In this case, Mr Montgomery fell into a poorly covered telecommunications pit and suffered injury.
-        - Gleeson CJ’s judgment turned upon the relevant legislation: the Roads Act 1993 (NSW), holding that the legislation did not establish a non-delegable duty of 
+        - Gleeson CJ's judgment turned upon the relevant legislation: the Roads Act 1993 (NSW), holding that the legislation did not establish a non-delegable duty of 
         - The other High Court justices took a broader view of the issue, deciding that as a matter of principle a non-delegable duty should not be extended to road authorities
       - Generally the High Court rejected the view that the non-delegable duty is an independent tort. 
       - Certain members of the court made comment on the relationship between the non-delegable duty and vicarious liability. 
         - Kirby J held that the dependence that exists between the road user and the road authority does not rise to the level of particular vulnerability or special dependence evident in the established relationships of non-delegable duty. 
-        - Kirby J’s view that a special vulnerability is the basis for non-delegable duties was not endorsed by other judges. 
+        - Kirby J's view that a special vulnerability is the basis for non-delegable duties was not endorsed by other judges. 
         - Hayne J opined that the non-delegable duty was a simple exception to the rules of vicarious liability.
       - The result of Leichhardt Municipal Council v Montgomery is that the High Court would not extend the principle of non-delegable duty beyond the already established categories. 
       - The categories of non-delegable duty are, however, not closed
@@ -4052,7 +4052,7 @@ Atypical Plaintiffs and Specific Duty Categories
     - The tort reform legislation in New South Wales and Victoria provides that breach of a non-delegable duty of care is to be determined as if it were vicarious liability
     - s 5Q of the Civil Liability Act 2002 
       - 5Q Liability based on non-delegable duty
-        - 1) The extent of liability in tort of a person (‘the defendant’) for breach of a non-delegable duty to ensure that reasonable care is taken by a person in the carrying out of any work or task delegated or otherwise entrusted to the person by the defendant is to be determined as if the liability were the vicarious liability of the defendant for the negligence of the person in connection with the performance of the work or task. 
+        - 1) The extent of liability in tort of a person ('the defendant') for breach of a non-delegable duty to ensure that reasonable care is taken by a person in the carrying out of any work or task delegated or otherwise entrusted to the person by the defendant is to be determined as if the liability were the vicarious liability of the defendant for the negligence of the person in connection with the performance of the work or task. 
         - (2) This section applies to an action in tort whether or not it is an action in negligence, despite anything to the contrary in section 5A.
       - Non-delegable duty is a primary independent duty to ensure that care is taken: 
         - not a duty to take care and not a duty to avoid negligent conduct. 
@@ -4069,25 +4069,25 @@ Atypical Plaintiffs and Specific Duty Categories
 # Week 12: Contribution Among Tortfeasors
 
 - Contribution Among Tortfeasors
-  - Where there are multiple tortfeasors there are two types of liability which may be imposed in terms of the defendants’ contribution to the plaintiff’s damage: 
+  - Where there are multiple tortfeasors there are two types of liability which may be imposed in terms of the defendants' contribution to the plaintiff's damage: 
     - 1. solidary liability; and 
       - each tortfeasor or wrongdoer is jointly and severally liable to the plaintiff for the whole of the damage, although by virtue of statute in all jurisdictions, 
-        - a tortfeasor will be entitled to recover ‘contribution’ from the other tortfeasors towards any damages paid to the plaintiff
+        - a tortfeasor will be entitled to recover 'contribution' from the other tortfeasors towards any damages paid to the plaintiff
       - the risk of non-payment by one tortfeasor impacts upon the other tortfeasors rather than on the plaintiff.
     - 2. proportionate liability
       - Proportionate liability is unknown to the common law but has been introduced by statute in all Australian jurisdictions, applying generally to claims for pure economic loss or property damage caused by failure to take reasonable care
       - Proportionate liability def 
-        - describes the situation where each wrongdoer is liable to the plaintiff only for his or her proportionate share of the plaintiff’s loss.
+        - describes the situation where each wrongdoer is liable to the plaintiff only for his or her proportionate share of the plaintiff's loss.
       - This is procedurally more difficult and means that the plaintiff bears the risk of defendants who are insolvent or otherwise not able to be sued or to satisfy a judgment. 
-    - The types of case where multiple tortfeasors will be responsible for a plaintiff’s damage are: 
-      - (a) joint tortfeasors where two or more act together in concert to cause the totality of the plaintiff’s damage; 
-      - (b) several concurrent tortfeasors where two or more each commit separate torts but together cause the totality of the plaintiff’s damage; and 
+    - The types of case where multiple tortfeasors will be responsible for a plaintiff's damage are: 
+      - (a) joint tortfeasors where two or more act together in concert to cause the totality of the plaintiff's damage; 
+      - (b) several concurrent tortfeasors where two or more each commit separate torts but together cause the totality of the plaintiff's damage; and 
       - (c) several tortfeasors causing different damage, where each commits a separate tort and each causes separate damage to the plaintiff.
     - (a) and (b) above are examples of solidary liability where the defendant tortfeasors will be jointly and severally liable to the plaintiff for the totality of the damage caused
     - In (c) above, which is an example of several (but not joint) liability, the tortfeasors will be only severally liable for the specific different damage each caused
   - Solidary liability 
     - At common law, joint or concurrent tortfeasors are jointly and severally liable for the damage they cause. 
-    - Critics don’t like going after insured/rich defendants just because of ability to pay despite minimal liability
+    - Critics don't like going after insured/rich defendants just because of ability to pay despite minimal liability
       - Where the plaintiff recovers against one defendant, that defendant may seek to recover some or all of the damages from other tortfeasors by virtue of statutory contribution provisions,6 though it was not possible to do so at common law
   - Proportional liability 
     - civil liability legislation has substituted proportionate liability in the place of joint and several liability in claims for pure economic loss or damage to property caused by failure to take reasonable care.
@@ -4110,11 +4110,11 @@ Atypical Plaintiffs and Specific Duty Categories
     - In that case, the jury found that a strip search by three police of the plaintiff, Ms Gray, in the corridor of the police station adjacent to a cell containing a window through which she believed she could be seen was an unnecessary and unauthorised use of police power. 
 - Concurrent tortfeasors 
   - Concurrent tortfeasors def
-    - In some cases, even though persons are not acting in concert or together in any way, they may nevertheless inflict a single injury in that they are responsible for separate tortious acts which combine together to cause the plaintiff’s damage
+    - In some cases, even though persons are not acting in concert or together in any way, they may nevertheless inflict a single injury in that they are responsible for separate tortious acts which combine together to cause the plaintiff's damage
     - Chapman v Hearse
   - Several tortfeasors causing different damage: no solidary liability
     - In some circumstances, two or more separate tortfeasors each commit a separate tortious act and each act causes separate and different damage to the same plaintiff.
-      - So, for example, where the plaintiff’s car is damaged twice in two separate collisions, each caused by the negligence of a different driver on two separate occasions, the plaintiff will have two causes of action (one against each of the negligent drivers) and each action will be in respect of the separate damage caused by the particular defendant driver. I
+      - So, for example, where the plaintiff's car is damaged twice in two separate collisions, each caused by the negligence of a different driver on two separate occasions, the plaintiff will have two causes of action (one against each of the negligent drivers) and each action will be in respect of the separate damage caused by the particular defendant driver. I
     - Performance Cars LTD v Abraham
       - There, however, the second collision damaged the car on the same panel that had been damaged by the first collision. 
       - Because the panel was already damaged and needed to be resprayed at the time of the second collision, the court held that the cost of the respraying should be borne by the first tortfeasor.
@@ -4123,20 +4123,20 @@ Atypical Plaintiffs and Specific Duty Categories
   - Contribution between tortfeasors 
     - The common law rule in Merryweather v Nixan (1799) 8 Term Rep 186; 101 ER 1337 
       - was that there was no right to contribution between tortfeasors. 
-      - So, a tortfeasor against whom a judgment was obtained or with whom a settlement was reached and who was liable to pay the whole of the plaintiff’s damages had no right to require a contribution from any other tortfeasor.
+      - So, a tortfeasor against whom a judgment was obtained or with whom a settlement was reached and who was liable to pay the whole of the plaintiff's damages had no right to require a contribution from any other tortfeasor.
       - The effect of the rule in Merryweather v Nixan has been abrogated by statute in all Australian jurisdictions
-    - The legislation generally provides that a court is to assess the quantum of the contribution payable by respective wrongdoers as an amount which is ‘just and equitable’,27 having regard to the extent of the defendant’s responsibility for the damage. 
-      - Contribution may only be claimed from a wrongdoer who has contributed to causing the ‘same damage’ to the plaintiff as another wrongdoer. 
-      - Contribution may be claimed from a person who ‘is or would if sued, have been liable’ to pay damages. 
-      - So it is immaterial whether all wrongdoers have been joined as defendants to the plaintiff’s proceedings. 
+    - The legislation generally provides that a court is to assess the quantum of the contribution payable by respective wrongdoers as an amount which is 'just and equitable',27 having regard to the extent of the defendant's responsibility for the damage. 
+      - Contribution may only be claimed from a wrongdoer who has contributed to causing the 'same damage' to the plaintiff as another wrongdoer. 
+      - Contribution may be claimed from a person who 'is or would if sued, have been liable' to pay damages. 
+      - So it is immaterial whether all wrongdoers have been joined as defendants to the plaintiff's proceedings. 
       - It does not matter that the plaintiff has not commenced any proceedings at all against a wrongdoer from whom contribution is sought.
-    - The High Court held in Brambles Construction Pty Ltd v Helmers (1966) 114 CLR 213 that the words ‘at any time’ in the New South Wales legislation should be understood as following the words ‘if sued’ in the relevant section.
+    - The High Court held in Brambles Construction Pty Ltd v Helmers (1966) 114 CLR 213 that the words 'at any time' in the New South Wales legislation should be understood as following the words 'if sued' in the relevant section.
     - the plaintiff may recover the whole of the damage (subject to any reduction for contributory negligence) from any or all of them.
   - Lister v Romford Ice & Cold Storage Co Ltd [1957] AC 55
     - an employee was injured because of the negligence of another employee. 
-    - The employer was sued successfully for damages on the basis that it was vicariously liable for the tort of thefellow employee. The employer’s insurer, who was liable to pay the damages, relied on its rights of ‘subrogation’ to step into the employer’s place and to pursue its right to claim contribution from the tortfeasor, the fellow employee
+    - The employer was sued successfully for damages on the basis that it was vicariously liable for the tort of thefellow employee. The employer's insurer, who was liable to pay the damages, relied on its rights of 'subrogation' to step into the employer's place and to pursue its right to claim contribution from the tortfeasor, the fellow employee
   - In Australia, several States have enacted legislation to remove the effect of the Lister case. 
-    - The Employees Liability Act 1991 (NSW) ss 3-5, provides that, notwithstanding any legislation or law or the express or implied provisions of any contract, an employee is not liable to indemnify an employer in respect of the employer’s vicarious liability for the tort of the employee unless the employee’s negligence amounts to serious and wilful misconduct
+    - The Employees Liability Act 1991 (NSW) ss 3-5, provides that, notwithstanding any legislation or law or the express or implied provisions of any contract, an employee is not liable to indemnify an employer in respect of the employer's vicarious liability for the tort of the employee unless the employee's negligence amounts to serious and wilful misconduct
     - The protection of the legislation does not extend to serious and wilful misconduct by the employee
 - 24.3 Proportionate Liability 
   - Under proportionate liability
@@ -4144,53 +4144,53 @@ Atypical Plaintiffs and Specific Duty Categories
     - A plaintiff will bear the loss where a wrongdoer is untraceable or insolvent
     - Defendants will now pay only a proportion of the damages according to their level of responsibility as determined by the court.
   - Apportionable claims 
-    - For proportionate liability to apply a claim must be an ‘apportionable claim’. 
+    - For proportionate liability to apply a claim must be an 'apportionable claim'. 
     - Apportionable claims are defined in similar terms in all jurisdictions, 
     -  s 24AF(1) of the Wrongs Act 1958 (VIC) apoportionable claims def:
       - (a) a claim for economic loss or damage to property in an action for damages (whether in tort, in contract, under statute or otherwise) arising from a failure to take reasonable care; or 
       - (b) a claim for damages for a contravention of s 9 of the Fair Trading Act 1999
-    - The Victorian Court of Appeal considered the meaning of ‘action for damages’ in s 24AF(1)(a) above in Commonwealth Bank of Australia v Witherow [2006] VSCA 45.
+    - The Victorian Court of Appeal considered the meaning of 'action for damages' in s 24AF(1)(a) above in Commonwealth Bank of Australia v Witherow [2006] VSCA 45.
       - The court held that a claim for a sum certain (that is, a specific amount owed under a deed of guarantee) was not an action for damages. 
       - 
-    - The New South Wales Court of Appeal held unanimously in Cassegrain v Cassegrain [2016] NSWCA 71 that a claim for equitable compensation arising from a plaintiff’s knowing receipt of company property transferred by the direction of directors in breach of their fiduciary duties was not a claim ‘arising from a failure to take reasonable care’.
+    - The New South Wales Court of Appeal held unanimously in Cassegrain v Cassegrain [2016] NSWCA 71 that a claim for equitable compensation arising from a plaintiff's knowing receipt of company property transferred by the direction of directors in breach of their fiduciary duties was not a claim 'arising from a failure to take reasonable care'.
       - Accordingly, the proportionate liability provisions of Civil Liability Act 2002 (NSW) were not applicable. 
 
-  - A ‘just’ proportion of the damage 
+  - A 'just' proportion of the damage 
     - the court can take into account all concurrent wrongdoers whether or not they are parties to the proceedings before the court.
       - where an apportionable claim is involved, the defendant is obliged to inform the plaintiff in writing where the defendant reasonably believes that another person may be a concurrent wrongdoer.
-    - In each jurisdiction, the apportionment of responsibility amongst multiple wrongdoers is to be made by the court on the basis of what it considers to reflect each wrongdoer’s responsibility for the damage. 
-      - In all jurisdictions except Queensland, the apportionment is to be made on the basis of what is ‘just’.4
+    - In each jurisdiction, the apportionment of responsibility amongst multiple wrongdoers is to be made by the court on the basis of what it considers to reflect each wrongdoer's responsibility for the damage. 
+      - In all jurisdictions except Queensland, the apportionment is to be made on the basis of what is 'just'.4
     - In Yates v Mobile Marine Repairs Pty Ltd [2007] NSWSC 505, Palmer J in the Supreme Court of New South Wales applied s 35 of the Civil Liability Act 2002 (NSW) to apportion responsibility between a wrongdoer who committed a breach of contract and a wrongdoer who committed a tort
       - The first defendant (Mobile Marine) carried on the business of repairing marine engines and negligently conducted some repair work and also breached a contract. 
       - The first defendant was the Sydney agent of the second defendant (MAN Australia) (who breached an implied term in its contract with the plaintiff that the repair work would be carried out with reasonable care, skill and diligence). 
       - Held
-        - Having considered aspects such as ‘which of the wrongdoers was more actively engaged in the activity causing loss’ and ‘which of the wrongdoers was more able effectively to prevent the loss happening’, his Honour found the loss should be apportioned equally between the defendants as, although the tortfeasor (Mobile Marine) was more actively engaged in the loss, the second defendant MAN that was in breach of contract had expertise and responsibility under contract to prevent the negligence of Mobile Marine.
-  - Concurrent wrongdoers and the ‘same’ damage 
-    - In order to have the benefit of proportionate liability a defendant must be a ‘concurrent wrongdoer defined as ‘one of two or more persons whose acts or omissions ... caused, independently of each other or jointly, the damage or loss that is the subject of the claim’.
+        - Having considered aspects such as 'which of the wrongdoers was more actively engaged in the activity causing loss' and 'which of the wrongdoers was more able effectively to prevent the loss happening', his Honour found the loss should be apportioned equally between the defendants as, although the tortfeasor (Mobile Marine) was more actively engaged in the loss, the second defendant MAN that was in breach of contract had expertise and responsibility under contract to prevent the negligence of Mobile Marine.
+  - Concurrent wrongdoers and the 'same' damage 
+    - In order to have the benefit of proportionate liability a defendant must be a 'concurrent wrongdoer defined as 'one of two or more persons whose acts or omissions ... caused, independently of each other or jointly, the damage or loss that is the subject of the claim'.
     - Hunt & Hunt Lawyers v Mitchell Morgan Nominees Pty Ltd (2013) 247 CLR
-      - Broad view of what constituted the ‘same damage’
-      - the court also had to determine whether in addition to the lawyers, there was another person whose act or omission caused the plaintiff’s loss, in order for the proportionate liability provision to apply.
-      - the two successive wrongdoers were concurrent causes of the loss and the majority referred to the criticisms of the ‘but for’ test in March v E & MH Stramare Pty Ltd
-      - Hunt & Hunt’s appeal to the High Court was allowed and the trial judge’s order stood: 
-        - that Hunt & Hunt were ‘concurrent wrongdoers’ under s 34(2) of the Civil Liability Act 2002 (NSW) and that their liability should be limited to 12.5% of Mitchell Morgan’s loss.
+      - Broad view of what constituted the 'same damage'
+      - the court also had to determine whether in addition to the lawyers, there was another person whose act or omission caused the plaintiff's loss, in order for the proportionate liability provision to apply.
+      - the two successive wrongdoers were concurrent causes of the loss and the majority referred to the criticisms of the 'but for' test in March v E & MH Stramare Pty Ltd
+      - Hunt & Hunt's appeal to the High Court was allowed and the trial judge's order stood: 
+        - that Hunt & Hunt were 'concurrent wrongdoers' under s 34(2) of the Civil Liability Act 2002 (NSW) and that their liability should be limited to 12.5% of Mitchell Morgan's loss.
     -  St George Bank v Quinerts Pty Ltd [2009] VR 66
       - Facts
         - Quinerts Pty Ltd, who had been retained by St George Bank, negligently overvalued a property in Melbourne. 
         - St George lent money on the security of the property and when the borrower defaulted, the subsequent sale of the property resulted in a significant loss to St George. 
-        - Quinerts admitted that their valuation was negligent and attempted to reduce its share of liability for the bank’s losses by relying on the proportionate liability provisions in the Wrongs Act 1958 (Vic).
-          - Quinerts argued that the borrower and the guarantor were ‘concurrent wrongdoers’ (with Quinerts) within the meaning of Pt IVAA of the Wrongs Act 1958 (Vic) and, therefore, that its own liability was limited by s 24AI of that Act to an amount reflecting the proportion of the loss or damage claimed that the court considered just having regard to the extent of Quinerts’ responsibility for the loss and damage
+        - Quinerts admitted that their valuation was negligent and attempted to reduce its share of liability for the bank's losses by relying on the proportionate liability provisions in the Wrongs Act 1958 (Vic).
+          - Quinerts argued that the borrower and the guarantor were 'concurrent wrongdoers' (with Quinerts) within the meaning of Pt IVAA of the Wrongs Act 1958 (Vic) and, therefore, that its own liability was limited by s 24AI of that Act to an amount reflecting the proportion of the loss or damage claimed that the court considered just having regard to the extent of Quinerts' responsibility for the loss and damage
       - Nettle J (with whom Mandie JA and Beach AJA agreed) held that the borrower and the guarantors were not concurrent wrongdoers (with Quinerts) because they were not responsible for the same damage as Quinerts
         - In effect, the distinction his Honour made was that Quinerts caused the loss and damage of the bank through an overvaluation of the property, so that the bank had an inadequate security. 
         - On the other hand, the borrower or guarantor did not do anything to cause the bank to incur that loss and damage (the inadequate security). 
   - Woodhouse v Fitzgerald and McCoy [2021] NSWCA 5
-    - further considered Hunt & Hunt in addressing whether the proportionate liability provisions of the‘NSW CLA’ apply when one of the alleged concurrent wrongdoers have a statutory immunity from suit. 
+    - further considered Hunt & Hunt in addressing whether the proportionate liability provisions of the'NSW CLA' apply when one of the alleged concurrent wrongdoers have a statutory immunity from suit. 
       - – here the Rural Fire Service (RFS) – 
-    - determining that the issue in Hunt & Hunt was ‘not whether the reference in s 34(2) to two or more persons having “caused” damage or loss engaged legal liability’ ([87]) and therefore Hunt & Hunt was not concerned with the meaning of the word ‘caused’ within the proportionate liability scheme in the NSW CLA. 
+    - determining that the issue in Hunt & Hunt was 'not whether the reference in s 34(2) to two or more persons having "caused" damage or loss engaged legal liability' ([87]) and therefore Hunt & Hunt was not concerned with the meaning of the word 'caused' within the proportionate liability scheme in the NSW CLA. 
     - Facts
       - The facts of Woodhouse concerned absentee landowners who asked the RFS to conduct a hazard reduction burn which the landowners were required to perform under the Noxious Weeds Act 1993 (NSW)
-      - As a result of the hazard burn, on 28 August 2012, 550 acres of the defendants’ property was burnt by the RFS, including land close to the border of the plaintiff’s property.
-        - On 5 September a fire occurred at the neighbour’s property, causing $1.2 million worth of damage to the plaintiff’s property.
-      -  the construction of the NSW CLA ‘legislation requires that the concurrent wrongdoer has at some stage been legally liable, even if no longer subject to a possible suit’
+      - As a result of the hazard burn, on 28 August 2012, 550 acres of the defendants' property was burnt by the RFS, including land close to the border of the plaintiff's property.
+        - On 5 September a fire occurred at the neighbour's property, causing $1.2 million worth of damage to the plaintiff's property.
+      -  the construction of the NSW CLA 'legislation requires that the concurrent wrongdoer has at some stage been legally liable, even if no longer subject to a possible suit'
         - As the RFS was not liable to the plaintiffs due to the statutory immunity from suit in the Rural Fires Act 1997 (NSW), the RFS was never legally liable and so could not be proportionately liable as having caused damage or loss as a concurrent wrongdoer.
 -  CCIG Investments Pty Ltd v Schokman [2023] HCA 21
   - Background
@@ -4211,9 +4211,9 @@ Atypical Plaintiffs and Specific Duty Categories
     - The case indicates that the connection between the wrongful act and the employment must be more than just a situational opportunity provided by the employment.
 - Bugge v Brown (1919) 26 CLR 110
   - A prohibition as to manner, time, or place, or as to the very act itself will not necessarily limit the sphere of employment;
-  - To limit the sphere of employment the prohibition “must be such that its violation makes the servant’s conduct ...so distinctly remote and disconnected from his employment…”;
+  - To limit the sphere of employment the prohibition "must be such that its violation makes the servant's conduct ...so distinctly remote and disconnected from his employment…";
   - An agent is a person authorised by their principal to legally bind the principal and third parties;
-  - The principal’s liability will arise in relation to acts of the agent done in the course of carrying out the principal’s authority: Soblusky v Egan (1960) 103 CLR 215; Scott v Davis (2000) 204 CLR 333.
+  - The principal's liability will arise in relation to acts of the agent done in the course of carrying out the principal's authority: Soblusky v Egan (1960) 103 CLR 215; Scott v Davis (2000) 204 CLR 333.
 # Self Learning: Statutory Authorities, Omissions and other Duties
 
 ## CH 18 - Liability of Statutory Authorities in Negligence
@@ -4224,9 +4224,9 @@ Atypical Plaintiffs and Specific Duty Categories
   - Differential treatment
     - First, statutory authorities are created by and operate according to legislative instruments. 
       - As an authority exercises its functions according to the statute which creates it, a tortious action against a statutory authority may turn upon the interpretation of statutory provisions. 
-    - Secondly, as Parliament is the body which gives statutory authorities their powers, functions and duties, courts will take note of ‘special factors’ which attach to tortious liability of a public authority. 
+    - Secondly, as Parliament is the body which gives statutory authorities their powers, functions and duties, courts will take note of 'special factors' which attach to tortious liability of a public authority. 
   - Crimmins v Stevedoring Industry Finance Committee (1999) 200 CLR 1, 
-    - ‘there may be special factors applicable to a statutory authority which negative a duty of care that a private individual would owe in apparently similar circumstances’. 
+    - 'there may be special factors applicable to a statutory authority which negative a duty of care that a private individual would owe in apparently similar circumstances'. 
     - These special factors may include policy choices by the authority and resource constraints (
   - The following tortious actions which apply to statutory authorities: 
     - 1. The tort of negligence for: 
@@ -4248,7 +4248,7 @@ Atypical Plaintiffs and Specific Duty Categories
   - Formation of authority matters
     - Part of the exercise in statutory interpretation by the courts will therefore include a determination as to the nature and extent of the function granted to the authority.
   - At trial, Wilcox J in Ryan v Great Lakes Council (1999) 102 LGERA 123 held that the council owed a common law duty of care to oyster consumers to take those steps that were reasonably open to it to minimise human faecal contamination of the lake
-    - Wilcox J determined that the relevant provisions of the Local Government Act when taken together empowered the council to conduct a ‘sanitary survey’ which was necessary to discharge the duty of care. 
+    - Wilcox J determined that the relevant provisions of the Local Government Act when taken together empowered the council to conduct a 'sanitary survey' which was necessary to discharge the duty of care. 
     - The judgment of Wilcox J illustrates that a determination as to the nature of the statutory function granted will impact on whether there is a common law duty of care
     - courts remain reluctant to impose an affirmative or positive common law duty on a statutory authority to exercise a discretionary power or even a mandatory duty. 
   - Issues of policy 
@@ -4263,7 +4263,7 @@ Atypical Plaintiffs and Specific Duty Categories
   - Home Office v Dorset Yacht Co [1970] AC 1004, in which a prisoner escaped, damaging neighbouring property. 
     - The prison was an open, low-security prison.The neighbour whose property was damaged argued that the authority had been negligent for building and maintaining open prison facilities. 
     - an appeals case from the United Kingdom. 
-      - It is noteworthy that in that jurisdiction, attempts have been made to develop a general test for liability for statutory authorities through distinguishing the ‘policy’ as compared to the ‘operational’ decisions of a statutory authority,holding that liability flows from operational decisions of a statutory authority but not from policy decisions
+      - It is noteworthy that in that jurisdiction, attempts have been made to develop a general test for liability for statutory authorities through distinguishing the 'policy' as compared to the 'operational' decisions of a statutory authority,holding that liability flows from operational decisions of a statutory authority but not from policy decisions
     - Anns v Merton LBC [1978] AC 728, 
       - where the House of Lords held that a statutory authority could owe a common law duty of care for failing to exercise statutory powers if the decision not to exercise the power was primarily operational in character rather than policy driven
   - Mason J in Sutherland Shire Council v Heyman (1985) 157 CLR 424: 
@@ -4271,7 +4271,7 @@ Atypical Plaintiffs and Specific Duty Categories
     - Since the distinction between policy and operational issues was made by the High Court, High Court justices have used the concept to distinguish matters of policy when considering whether a duty of care has been breached. 
     - This case is significant as a majority of the High Court held that in some circumstances liability could arise for failure to exercise a statutory function. 
       - while a statutory authority is not under a general common law duty to exercise its statutory powers, a duty could arise if the plaintiff reasonably relied upon the exercise of such a power
-  - Civil liability legislation and the ‘policy defence’ 
+  - Civil liability legislation and the 'policy defence' 
     - The legislation in all jurisdictions lists principles to be taken into account in considering whether a public authority has a duty of care and has breached its duty of care. PART 5 of CLA
       - s 42 CLA NSW
       - The following principles apply in determining whether a public or other authority has a duty of care or has breached a duty of care in proceedings for civil liability to which this Part applies: 
@@ -4285,7 +4285,7 @@ Atypical Plaintiffs and Specific Duty Categories
         - The Roads and Traffic Authority of New South Wales (RTA) knew of the problem of people dropping material onto vehicles from overhead bridges and had developed a priority system to screen many bridges in New South Wales. 
         - Many bridges had already been screened but not yet the one at which the deceased was killed. 
       - The issue in this case was whether the RTA had been negligent in failing to screen the overhead bridge under which Mr Evans was killed. 
-        - adopted the essentially common law approach of identifying the ‘risk of harm’ against which the plaintiff alleged the RTA was negligent for failing to take precautions.
+        - adopted the essentially common law approach of identifying the 'risk of harm' against which the plaintiff alleged the RTA was negligent for failing to take precautions.
       - Held
         - The New South Wales Court of Appeal held that although the RTA owed a duty of care to road users to prevent reasonable harm, this duty had not been breached
     - So, s 42, and its equivalents in other jurisdictions, will be taken into account in an overall determination as to whether the response of the authority was a reasonable response to the risk.
@@ -4295,7 +4295,7 @@ Atypical Plaintiffs and Specific Duty Categories
       - In Five Star, the council had fenced an airfield with 4 kilometres of fence, approximately 1.8 metres high and was aware that this fencing did not adequately prevent kangaroos and stock from gaining access to the airport.
       - A plane operated by Five Star Medical Centre struck a kangaroo and was damaged. A claim was brought against the council for the cost of the repairs.
     - Held
-      - the court supported the council as not having available resources to improve the already quite extensive fencing, ‘without reducing funds allocated to other works and purposes’ ([64]).
+      - the court supported the council as not having available resources to improve the already quite extensive fencing, 'without reducing funds allocated to other works and purposes' ([64]).
   - Establishing a common law duty of care 
     - Pyrenees Shire Council v Day (1998) 192 CLR 330 is a rare example of a High Court decision which held an authority to be liable in negligence for failing to exercise a discretionary power
       - Facts
@@ -4303,7 +4303,7 @@ Atypical Plaintiffs and Specific Duty Categories
         - The fire had escaped from next door, from a fireplace in which the neighbour Mr Stamatopoulos had lit a log fire before he went to bed. The chimney of the fireplace was defective. The Country Fire Authority had notified the Pyrenees Shire Council that the fireplace was unsafe. 
         - The council inspected the fireplace and wrote to the tenants advising that it should not be used and requiring it to be repaired. The council had the power to remedy the defect itself. The Stamatopouloses were not informed of the letter when they bought the premises. 
       - The High Court held that the council had a duty to take steps to avoid the damage
-        - ‘the existence of a discretion to exercise a power is not necessarily inconsistent with a duty to exercise it’
+        - 'the existence of a discretion to exercise a power is not necessarily inconsistent with a duty to exercise it'
       - First, the council failed to notify the owners of the adjoining property of the risk of the fire hazard (they sent the notice only to the previous tenants).
       - Secondly, the council failed to exercise its quite extensive statutory powers to ensure that the notice, once issued to the tenants, was complied with.
       - Held
@@ -4313,7 +4313,7 @@ Atypical Plaintiffs and Specific Duty Categories
     - Crimmins v Stevedoring Industry Finance Committee (1999) 200 CLR 1
       - The appellant, Mrs Maureen Crimmins, brought the action as the widow and executrix of the estate of Brian John Crimmins, who died from the lung disease mesothelioma which is caused by the inhalation of asbestos fibres, and is inevitably fatal. 
       - Facts
-        - Mr Crimmins was a waterside worker, and it was contended that the authority was in breach of the duty of care that it owed to him to protect him from the harmful effects of asbestos dust and that that breach was one of the existing ‘liabilities and obligations of the Authority’.
+        - Mr Crimmins was a waterside worker, and it was contended that the authority was in breach of the duty of care that it owed to him to protect him from the harmful effects of asbestos dust and that that breach was one of the existing 'liabilities and obligations of the Authority'.
         - The authority had not employed Mr Crimmins but allocated work on the waterfront and had responsibility for safety on the waterfront in the years before his death.
       - In Crimmins the issue in the High Court was whether the statutory authority owed the deceased a common law duty of care. 
         - The court examined the circumstances in which a statutory authority will come under a duty to take affirmative action to protect a person who may suffer harm if the authority does not act
@@ -4322,7 +4322,7 @@ Atypical Plaintiffs and Specific Duty Categories
         - what distinguished the functions of the authority was that if the functions were not exercised, then the industry which was uniquely organised, would hardly have been able to function at all, or with any degree of 
         - The authority in Crimmins had unique control over the allocation of work to waterside workers, the conditions of work, and the conduct of both workers and employers – meaning that the relationship between the authority and the employees was special – the workers were vulnerable, they were casual workers with relatively weak bargaining power.
   - Herridge Parties v Electricity Networks Corporation (t/as Western Power) [2021] WASCA 11
-    - [A]ny common law duty must be coherent and consistent with the relevant statutory scheme and compatible with the powers conferred and the duties imposed on the statutory authority’ (
+    - [A]ny common law duty must be coherent and consistent with the relevant statutory scheme and compatible with the powers conferred and the duties imposed on the statutory authority' (
     - Further holding that the discharge of this duty which required Western Power to periodically inspect point of attachment poles and that this was not inconsistent with s 25 of the Electricity Act 1945 (WA
   - A list of relevant factors at common law 
     - McHugh J, in both Graham Barclay Oysters Pty Ltd v Ryan and in Crimmins v Stevedoring Industry Finance Committee, provides a list of matters which the court must take into account to determine whether a duty of care should be imposed on a public authority: Public authority list duty of care list
@@ -4330,7 +4330,7 @@ Atypical Plaintiffs and Specific Duty Categories
       - 2. Was the authority in a position to control the situation which brought about harm? 
       - 3. Was the injured person vulnerable? 
       - 4. Did the authority know or ought it to have known of an existing risk of harm to the plaintiff or the class of persons who included the plaintiff? 
-      - 5. Would the imposition of a duty of care impose liability with respect to the defendant’s core policy-making or quasi-legislative functions? 
+      - 5. Would the imposition of a duty of care impose liability with respect to the defendant's core policy-making or quasi-legislative functions? 
       - 6. Is there any policy reason which denies a duty of care?
     - McHugh J suggests that if the first four of these questions are answered in the affirmative and the fifth and sixth questions in the negative, the court would ordinarily hold that the authority owed a duty of care to the plaintiff. 
     - Amaca Pty Ltd v New South Wales (2004) 132 LGERA 309 provides a useful overview of the High Court authority and states (Summarizing Pyreness, Crimmins, Graham Barclay, and Sutherland Shire principle)
@@ -4344,7 +4344,7 @@ Atypical Plaintiffs and Specific Duty Categories
   - Civil liability legislation and a threshold question 
     - New South Wales Civil Liability Amendment (Personal Responsibility) Bill,
       - Effectively these provisions impose a threshold requirement to a claim in respect of a failure to exercise a function to prohibit or regulate an activity. 
-      - They would most likely have removed the ability of the plaintiff’s to bring an action in the historical cases of Pyrenees Shire Council v Day and Crimmins v Stevedoring Industry Finance Committee.
+      - They would most likely have removed the ability of the plaintiff's to bring an action in the historical cases of Pyrenees Shire Council v Day and Crimmins v Stevedoring Industry Finance Committee.
     -  s 44 of the Civil Liability Act 2002 (NSW
       - a statutory authority will not be liable for failing to exercise a function to prohibit or regulate any activity, unless the plaintiff could have required the authority to exercise its statutory powers through a court proceeding such as an administrative law proceeding. 
   - Meyers v Commissioner for Social Housing [2019] ACTCA 19. 
@@ -4364,20 +4364,20 @@ Atypical Plaintiffs and Specific Duty Categories
         - The term "required" in s 44 is meant to reflect public law principles, aiming to prevent the imposition of a common law duty to take positive action in situations where it would limit the decision-making freedom granted by the statute.
           - Section 44 precludes a right to compensation for a refusal to act that is an otherwise lawful and valid decision under the statute.
         - In cases where a claim is based on a failure to exercise a power to regulate or prohibit an activity, Section 112 would exclude liability, unless a court could have compelled the exercise of that power in accordance with public law principles. 
-      - Distinguishing Mr Meyer’s case from Pyrenees
+      - Distinguishing Mr Meyer's case from Pyrenees
         - Even if s 44 of the Wrongs Act doesn't apply, the exercise of powers under the Domestic Animals Act in this particular case couldn't have been compelled based on public law principles and the specific factual circumstances.
         - This inability to compel action is a key aspect of the relationship between the authorities and Mr. Meyers as the plaintiff. 
           - The existence of a discretionary power to manage a risk does not automatically create a common law duty to act.
         - To establish a duty to take positive action, one must look beyond the mere presence of discretionary power. 
           - In Mr. Meyers' case, the relationship with the authorities was not characterized by their involvement in risk-producing activities, an assumed responsibility, or the possession of special knowledge, which are factors that could otherwise imply a duty of care.
-      - Following Meyer’s case the courts require a plaintiff to prove that a public law remedy such as mandamus would have been available
+      - Following Meyer's case the courts require a plaintiff to prove that a public law remedy such as mandamus would have been available
     - Although in New South Wales in Warren Shire Council v Kuehne [2012] NSWCA 81 
       - Whealy JA took a less restrictive view and held that the plaintiff would not be required to demonstrate that he would have succeeded in an application for administrative relief 
-      - but rather that ‘s 44 is concerned with the issue of standing, rather than the issue as to whether a particular plaintiff would succeed on the merits in proceedings instituted alleging failure of an authority to exercise or to consider exercising a function to prohibit or regulate an activity’ ([150]).
+      - but rather that 's 44 is concerned with the issue of standing, rather than the issue as to whether a particular plaintiff would succeed on the merits in proceedings instituted alleging failure of an authority to exercise or to consider exercising a function to prohibit or regulate an activity' ([150]).
     - Rickard v Allianz Australia Insurance Ltd [2009] NSWSC 1115
       - A sigle judge of the Supreme Court, Hoeben J, found that the RTA could not rely on s 44 of the Civil Liability Act 2002 (NSW). 
-      - This was because the erection of a ‘Water Over Road’ sign by the RTA did not constitute an action to ‘prohibit or regulate’ an activity as envisaged by s 44
-      - His Honour observed ‘Words such [as] “prohibit” and “regulate” have meanings which do not encompass the concept of “warning”‘ (at [130]) and thus, as the ‘Water Over Road’ sign was a warning it was not covered by the section.
+      - This was because the erection of a 'Water Over Road' sign by the RTA did not constitute an action to 'prohibit or regulate' an activity as envisaged by s 44
+      - His Honour observed 'Words such [as] "prohibit" and "regulate" have meanings which do not encompass the concept of "warning"' (at [130]) and thus, as the 'Water Over Road' sign was a warning it was not covered by the section.
   - Negligent acts and statutory authorities 
     - In any action against a statutory authority – for the negligent exercise of a function or for negligently omitting to exercise a function – all elements of negligence must be made out
     - Examples of cases where statutory authorities have been held to owe an established duty of care include: 
@@ -4389,15 +4389,15 @@ Atypical Plaintiffs and Specific Duty Categories
       - the allocation of resources by an authority is not open to question; 
       - an authority has responsibility for a broad range of activities
   -  18.3 The Road Authority 
-    -  common law ‘highway rule’ 
-      - (No longer valid) Brodie v Singleton Shire Council held that the highway authority’s liability was to be determined by ordinary principles of negligence and that the ‘nonfeasance’ exemption from liability no longer applied.
+    -  common law 'highway rule' 
+      - (No longer valid) Brodie v Singleton Shire Council held that the highway authority's liability was to be determined by ordinary principles of negligence and that the 'nonfeasance' exemption from liability no longer applied.
       - following Brodie, at common law, if the condition of a highway poses a foreseeable risk of harm to road users, the public authority with power to remove the danger is obliged to take reasonable steps to do so. 
       - Following Brodie, courts engaged in a determination of breach of duty of care as to whether the public authority took reasonable steps to remove the risk on common law principles. 
         - This included having regard to whether the steps the authority took in allocating its resources to competing or conflicting responsibilities or commitments were reasonable ones.
     - The civil liability legislation highway rule 
       - The civil liability legislation partly endorses Brodie v Singleton Shire Council and partly returns to the pre-Brodie common law rule in respect of non-feasance
       - s 45 Special non-feasance protection for roads authorities 
-        - Provides a complete defence to a road authority for certain ‘non-feasance’ except where the road authority is actually aware of a particular risk.
+        - Provides a complete defence to a road authority for certain 'non-feasance' except where the road authority is actually aware of a particular risk.
     - In the absence of a High Court decision, the New South Wales Court of Appeal determined to hear two cases together on the issue of actual knowledge in s 45: 
       - Blacktown City Council v Hocking [2008] NSWCA 144 and 
       - Angel v Hawkesbury City Council [2008] NSWCA 130
@@ -4406,11 +4406,11 @@ Atypical Plaintiffs and Specific Duty Categories
     - In New South Wales, s 43A was inserted into the Civil Liability Act 2002 in reaction to a decision of the New South Wales Supreme Court in Presland v Hunter Area Health Service [2003] NSWSC 754
     - The decision was subsequently overturned by the Court of Appeal: Hunter Area Health Service v Presland (2005) 63 NSWLR 22. 
       - Subsequently, the New South Wales Parliament introduced s 43A into the Civil Liability Act 2002, which refers to special statutory powers (being those conferred under a statute and of a kind that persons generally are not authorised to exercise without specific statutory authority (s 43A(2)). 
-        - In the event that such a power is exercised a public authority will only be liable ‘if its decision was so unreasonable that no public authority having such a power could consider it to be reasonable’ 
+        - In the event that such a power is exercised a public authority will only be liable 'if its decision was so unreasonable that no public authority having such a power could consider it to be reasonable' 
     - There are two important aspects to s 43A, each of which is discussed below: 
-      - (a) the decision must pertain to a ‘special statutory power’; and 
-      - (b) civil liability will not arise unless the authority’s act or omission was so ‘unreasonable’ that no authority having the special statutory power in question could properly consider the act or omission to be a reasonable exercise
-    - What is a ‘special statutory power’? 
+      - (a) the decision must pertain to a 'special statutory power'; and 
+      - (b) civil liability will not arise unless the authority's act or omission was so 'unreasonable' that no authority having the special statutory power in question could properly consider the act or omission to be a reasonable exercise
+    - What is a 'special statutory power'? 
       - Special statutory powers def 
         - are those conferred under statute and of a kind not generally authorised by persons to exercise, for example, powers which deprive persons of liberty or special powers of entry addressed in Roads and Traffic Authority of New South Wales v Refrigerated Roadways Pty Ltd [2009] NSWCA 26
         - Differentiating ownership vs special statutory powers
@@ -4418,7 +4418,7 @@ Atypical Plaintiffs and Specific Duty Categories
       - Curtis v Harden Shire Council [2014] NSWCA 31
         - Facts
           - The Harden Shire Council was carrying out roadwork and the plaintiff argued that it was negligent in failing to erect adequate signage warning of the state of the road resulting in her running off the road causing the death of her partner. 
-        - The court held that such signs were ‘prescribed traffic control devices’ under the Road Transport (Safety and Traffic Management) Act 1999 (NSW) and because they must be installed by a public authority, exercise of a special statutory power was involved, thereby enlivening s 43A
+        - The court held that such signs were 'prescribed traffic control devices' under the Road Transport (Safety and Traffic Management) Act 1999 (NSW) and because they must be installed by a public authority, exercise of a special statutory power was involved, thereby enlivening s 43A
     - What is certain is that a special statutory power will arise where: 
       - 1. there is a conferral upon an authority of a legislative power granted to that authority alone; and 
       - 2. which may only be acted upon by that authority; and 
@@ -4430,57 +4430,57 @@ Atypical Plaintiffs and Specific Duty Categories
           - The decision-making process must not involve taking into account factors that should not have been considered, or failing to consider factors that should have been considered.
     - Interestingly, in public law the High Court has departed from the strict application of the Wednesbury test. 
       - In Minister for Immigration and Citizenship v Li, the majority of the High Court held that decisions could be unreasonable when they lacked an evident and intelligible justification
-  - What is a ‘reasonable’ exercise of a special statutory power? 
-    - In the Wednesbury case itself, Lord Greene MR held that proof that a decision was so unreasonable that no reasonable authority could have come to it ‘would require something overwhelming’
+  - What is a 'reasonable' exercise of a special statutory power? 
+    - In the Wednesbury case itself, Lord Greene MR held that proof that a decision was so unreasonable that no reasonable authority could have come to it 'would require something overwhelming'
     - Evaluated in Allianz Australia Insurance Ltd v Roads and Traffic Authority of New South Wales [2010] NSWCA 32
-      - Terms such as ‘irrational’ or ‘grossly negligent’, for example, are not helpful. 
+      - Terms such as 'irrational' or 'grossly negligent', for example, are not helpful. 
       - considered and applied s 43A of the Civil Liability Act.
       - Facts
-        - In that case, Mark Kelly was driving along the Riverina Highway at the 100 kph speed limit when he drove through water flowing across the road. His vehicle aquaplaned and collided with an oncoming vehicle outside a property known as ‘Lyntods’. 
-        - Mr Kelly and his front seat passenger (Mr Dennison) were killed. Mr Kelly’s rear seat passenger (Mr Wheeler) and the driver of the other vehicle (Mr Rickard) were seriously injured. The injured parties and Mr Dennison’s widow brought proceedings against Allianz and Woolworths, who were the CTP insurer and owner respectively of the vehicle driven by Mr Kelly. 
-        - Allianz filed a cross-claim against the RTA. Mr Kelly’s widow brought her own proceedings directly against the 
-      - The court considered whether the placement by the RTA of a ‘Water Over Road’ sign almost a kilometre away from the danger (924 metres east of ‘Lyntods’), instead of much closer (150-300 metres east of ‘Lyntods’), was so unreasonable that no authority having its special statutory power to erect warning signs could properly consider its act to be a reasonable exercise of that power. 
+        - In that case, Mark Kelly was driving along the Riverina Highway at the 100 kph speed limit when he drove through water flowing across the road. His vehicle aquaplaned and collided with an oncoming vehicle outside a property known as 'Lyntods'. 
+        - Mr Kelly and his front seat passenger (Mr Dennison) were killed. Mr Kelly's rear seat passenger (Mr Wheeler) and the driver of the other vehicle (Mr Rickard) were seriously injured. The injured parties and Mr Dennison's widow brought proceedings against Allianz and Woolworths, who were the CTP insurer and owner respectively of the vehicle driven by Mr Kelly. 
+        - Allianz filed a cross-claim against the RTA. Mr Kelly's widow brought her own proceedings directly against the 
+      - The court considered whether the placement by the RTA of a 'Water Over Road' sign almost a kilometre away from the danger (924 metres east of 'Lyntods'), instead of much closer (150-300 metres east of 'Lyntods'), was so unreasonable that no authority having its special statutory power to erect warning signs could properly consider its act to be a reasonable exercise of that power. 
       - Held
-        - The trial judge found that the ‘Water Over Road’ sign should have been placed 150-300 metres to the east of ‘Lyntods’, and that the RTA had breached its duty of care in placing it so far away from the hazard.
-        - Ultimately, his Honour found that the accident was not caused by the RTA’s breach of its duty of care so there was a verdict for the RTA. Allianz appealed.
-          - The subjective approach to the issue of the reasonableness of the authority’s conduct was rejected on appeal. 
-        - The New South Wales Court of Appeal held that while the placement of the sign ‘may not objectively have been the preferable or correct course, ... it [was] comprehensible’
-          - The court concluded that the authority’s failure was not ‘so unreasonable that no authority having the RTA’s special statutory power to erect warning signs could properly consider it to be a reasonable exercise of that power’ 
+        - The trial judge found that the 'Water Over Road' sign should have been placed 150-300 metres to the east of 'Lyntods', and that the RTA had breached its duty of care in placing it so far away from the hazard.
+        - Ultimately, his Honour found that the accident was not caused by the RTA's breach of its duty of care so there was a verdict for the RTA. Allianz appealed.
+          - The subjective approach to the issue of the reasonableness of the authority's conduct was rejected on appeal. 
+        - The New South Wales Court of Appeal held that while the placement of the sign 'may not objectively have been the preferable or correct course, ... it [was] comprehensible'
+          - The court concluded that the authority's failure was not 'so unreasonable that no authority having the RTA's special statutory power to erect warning signs could properly consider it to be a reasonable exercise of that power' 
     - Warren Shire Council v Kuehne [2012] NSWCA 81, 
-      - the defendant council’s appeal succeeded55 on the basis of s 43A of the Civil Liability Act 2002 (NSW).
+      - the defendant council's appeal succeeded55 on the basis of s 43A of the Civil Liability Act 2002 (NSW).
       - Facts
-        - The plaintiffs were the father and brother of a four-year-old child who was tragically attacked and killed by some ‘hunting dogs’ (owned by Wilson) in the backyard of a residential property to which the child had somehow gained access. 
+        - The plaintiffs were the father and brother of a four-year-old child who was tragically attacked and killed by some 'hunting dogs' (owned by Wilson) in the backyard of a residential property to which the child had somehow gained access. 
         - The plaintiffs, who suffered psychiatric injuries, sued the council in negligence, claiming that the council knew (through its officers, following complaints made by neighbours) that the dogs were dangerous and that it negligently failed to make a declaration to that effect and to seize the dogs under the Companion Animals Act 1998 (NSW) s 34
       - Held
         - The sporadic and infrequent nature of the complaints could have been reasonably dealt with, as they in fact were, by approaches being made to Mr Wilson and fines being issued to him on occasions when his dogs were roaming the streets. 
     - again considered and applied in Mansfield v Great Lakes Council [2016] NSWCA 204
       - Facts
         - and again it served to protect the public authority from liability. There the council was the authority responsible for the road culvert on which the plaintiff was injured and council employees had occasionally inspected it but only from a moving car. 
-        - On appeal it was held that the evidence did not satisfy the court that the failure of the council to replace the culvert was an omission ‘so unreasonable’ that no roads authority could properly consider the omission to be a reasonable failure to exercise its statutory powers 
-      - The Court of Appeal held that s 43A required the plaintiff to prove that the inspections and the council’s ignorance of the danger were so manifestly unreasonable that no council acting properly could have failed to identify the circumstances calling for action
+        - On appeal it was held that the evidence did not satisfy the court that the failure of the council to replace the culvert was an omission 'so unreasonable' that no roads authority could properly consider the omission to be a reasonable failure to exercise its statutory powers 
+      - The Court of Appeal held that s 43A required the plaintiff to prove that the inspections and the council's ignorance of the danger were so manifestly unreasonable that no council acting properly could have failed to identify the circumstances calling for action
     - Road Maritime Services v Grant [2015] NSWCA 138, s 43A was again successfully applied in favour of a statutory authority, but here with respect to an omission to act. 
-      - In that case Mr Grant was injured in a motorcycle accident in Lane Cove (Sydney, NSW) where his motorcycle collided with the nose of a concrete median strip. The plaintiff argued that if the road authority had installed a ‘Keep Left’ sign on the median strip, road users would have been alerted to the presence of the median strip and his accident could have been avoided. 
-      - The court agreed that the RMS decision not to erect a ‘Keep Left’ sign constituted an exercise of a special statutory power, however, denied the plaintiff’s claim due to the high threshold for breach in s 43A
+      - In that case Mr Grant was injured in a motorcycle accident in Lane Cove (Sydney, NSW) where his motorcycle collided with the nose of a concrete median strip. The plaintiff argued that if the road authority had installed a 'Keep Left' sign on the median strip, road users would have been alerted to the presence of the median strip and his accident could have been avoided. 
+      - The court agreed that the RMS decision not to erect a 'Keep Left' sign constituted an exercise of a special statutory power, however, denied the plaintiff's claim due to the high threshold for breach in s 43A
   - s 43 and the tort of breach of statutory duty
     - Section 43 applies only to actions for breach of statutory duty,57 a cause of action separate from the tort of negligence 
-    - s 43 imposes a ‘Wednesbury unreasonableness’ standard where a public authority is sued in an action for breach of statutory duty in connection with the exercise of or a failure to exercise a function.
+    - s 43 imposes a 'Wednesbury unreasonableness' standard where a public authority is sued in an action for breach of statutory duty in connection with the exercise of or a failure to exercise a function.
     - whether an authority can be liable for an act or omission relating to exercise of a special statutory power
 ## 14.3.14 Part 5: Liability of public and other authorities 
 
-- ‘Public or other authority’ def
+- 'Public or other authority' def
   - s 41: 
     - the Crown, government departments, public health organisations, local councils, authorities constituted by or under an Act, but also prescribed persons or bodies or classes thereof
-  - s 42 sets out ‘principles’ to be applied in ‘determining whether a public authority has a duty of care or has breached a duty of care’. Courts must consider: 
+  - s 42 sets out 'principles' to be applied in 'determining whether a public authority has a duty of care or has breached a duty of care'. Courts must consider: 
     - (a) that the functions required to be exercised by the authority are limited by the financial and other resources ... available to the authority ...; 
     - (b) the general allocation of resources ... is not open to challenge;
     - (c) the functions required to be exercised by the authority are to be determined by reference to the broad range of its activities ...; 
     - (d) the authority may rely on evidence of its compliance with the general procedures and applicable standards for the exercise of its functions as evidence of the proper exercise. 
   - In Romeo v Conservation Commission of the Northern Territory (1998) 192 CLR 431, 
-    - Kirby J referred to the fact that the courts had previously ‘accepted that budgetary, political and other constraints within which such authorities must operate are factors to be taken into account in determining the scope of the duty of care and whether in a particular case it has been breached’ 
-  - s 43A deals with negligence liability in respect of the exercise of ‘special statutory powers’ defined in the section as power conferred by statute, and that is of a kind that persons generally are not authorised to exercise without statutory authority.
+    - Kirby J referred to the fact that the courts had previously 'accepted that budgetary, political and other constraints within which such authorities must operate are factors to be taken into account in determining the scope of the duty of care and whether in a particular case it has been breached' 
+  - s 43A deals with negligence liability in respect of the exercise of 'special statutory powers' defined in the section as power conferred by statute, and that is of a kind that persons generally are not authorised to exercise without statutory authority.
   - s 44 is obviously aimed at significantly limiting the circumstances in which a duty of care may be imposed on a statutory authority requiring it to carry out a particular function. (Meyers)
   - s 45 is a reaction by the legislature to the abolition by the High Court, in Brodie v Singleton Shire Council (2001) 206 CLR 512 and Ghantous v Hawkesbury CC [1999] NSWCA 51, of the immunity for highway authorities in respect of non-feasance. 
-    - Subsection (2) of s 45 provides that the section does not operate to ‘create a duty of care in respect of a risk merely because a roads authority has actual knowledge of the risk’.
+    - Subsection (2) of s 45 provides that the section does not operate to 'create a duty of care in respect of a risk merely because a roads authority has actual knowledge of the risk'.
   - s 46 provides that the exercise of a function (or a decision to exercise a function) by an authority will not of itself indicate a duty of care. 
     - The effect of this provision will be to require a plaintiff to establish that the authority has done something more than simply exercise its power (or decide to do so). 
 ## 16.8 Omissions and Duties to control Third Parties 
@@ -4490,15 +4490,15 @@ Atypical Plaintiffs and Specific Duty Categories
     - Neighbor established category: 
       - The case established that occupiers have a positive duty to remove hazards to adjoining land.
     - Due to an electrical storm, a tall tree with a branchy-top was struck by lightning and caught fire
-  - Smith v Leurs (1945) 70 CLR 256, parents were held to owe a duty of care to a third party in respect of the harm caused by their 14-year-old son when his shanghai propelled a piece of gravel into the plaintiff’s eye
+  - Smith v Leurs (1945) 70 CLR 256, parents were held to owe a duty of care to a third party in respect of the harm caused by their 14-year-old son when his shanghai propelled a piece of gravel into the plaintiff's eye
     - It was held that in forbidding their son to use the shanghai outside their property (he had disobeyed), they had taken reasonable precaution and discharged their duty of care. 
-  - In New South Wales v Bujdoso (2005) 227 CLR 1, it was confirmed that prison authorities will have such a responsibility to take positive action to protect prisoners under the authorities’ control and care.
+  - In New South Wales v Bujdoso (2005) 227 CLR 1, it was confirmed that prison authorities will have such a responsibility to take positive action to protect prisoners under the authorities' control and care.
   - New South Wales v Godfrey & Godfrey [2004] NSWCA
-    - There is no duty owed to the ‘public at large beyond the immediate vicinity of the gaol from which an escape occurred’:
+    - There is no duty owed to the 'public at large beyond the immediate vicinity of the gaol from which an escape occurred':
   -  Lowns v Woods (1996) Aust Torts Reps ¶81-376 
     - where a positive duty to act was imposed on a doctor to assist in a medical emergency.
     - There the defendant doctor refused when asked in person to do so, to attend a boy at a nearby address who was suffering from an epileptic seizure
-    - The boy was not and had never been the doctor’s patient. The New South Wales Court of Appeal held that the doctor was under a positive duty to act and was liable for damages because of his failure to attend and bring the seizure to an end by adminisatration of Valium
+    - The boy was not and had never been the doctor's patient. The New South Wales Court of Appeal held that the doctor was under a positive duty to act and was liable for damages because of his failure to attend and bring the seizure to an end by adminisatration of Valium
     - Issues:
       - the physical nearness of the child; 
       - the direct request for assistance; 
@@ -4514,5 +4514,5 @@ Atypical Plaintiffs and Specific Duty Categories
   - (c) Is the rescuer liable where he or she exacerbates the condition of the person being rescued?
 - this includes the act of rescuing property (Steel v Glasgow Iron and Steel Co Ltd 1944 SC 237). 
   - The common law will not, however, protect or compensate a rescuer who themselves created the danger necessitating the rescue.
-  - In New South Wales, a Good Samaritan is a person who ‘in good faith and without expectation of payment or other reward, comes to the assistance of a person who is apparently injured or at risk of being injured’ in an emergency
+  - In New South Wales, a Good Samaritan is a person who 'in good faith and without expectation of payment or other reward, comes to the assistance of a person who is apparently injured or at risk of being injured' in an emergency
   - s 56 lists conditions where good samaritan does not apply

@@ -51,10 +51,14 @@
   - Question 4:
     - The source Host A is going to send 5KB (5120byte) of data to the destination Host B over an established TCP connection, which has a window size (rwnd) of 4KB (4096byte) and a maximum segment size (MSS) of 1KB (1024byte). Assuming Go-Back-N is used in TCP.
     - Suppose there are errors in the transmissions. For each of the following independent transmission error cases, please calculate the total number of segments sent out from the source (including retransmissions) in order to complete the transmissions of the 5KB data to the destination.
-      - Case A. The 2nd segment is corrupted. Other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?Answer:  .
-      - Case B. The 2nd segment is correctly received, but the ACK to the 2nd segment is lost. Other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?Answer:  .
-      - Case C. The 4th segment is lost. All other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?Answer:  .
-      - Case D. The 5th segment is lost. All other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?Answer:  .
+      - Case A. The 2nd segment is corrupted. Other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?
+Answer:  .
+      - Case B. The 2nd segment is correctly received, but the ACK to the 2nd segment is lost. Other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?
+Answer:  .
+      - Case C. The 4th segment is lost. All other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?
+Answer:  .
+      - Case D. The 5th segment is lost. All other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions)?
+Answer:  .
       - Case E. The 5th segment is correctly received, but the ACK to the 5th segment is lost. Other transmissions are fine. What is the total number of segments sent out from the source (including retransmissions):
   - Answer:
     - 4a:  total number of segments sent out would be the original 5 segments, plus retransmission of 2-5 segements so 5+4 = 9
@@ -133,13 +137,13 @@
   - 1972-1980: Internetworking, new and proprietary nets
     - 1970: ALOHAnet satellite network in Hawaii
     - 1974: Cerf and Kahn - architecture for interconnecting networks
-    - 1976: Ethernet at Xerox PARC late70’s: proprietary architectures:
+    - 1976: Ethernet at Xerox PARC late70's: proprietary architectures:
       - DECnet
       - SNA 
       - XNA
-    - late 70’s: switching fixed length packets (ATM precursor)
+    - late 70's: switching fixed length packets (ATM precursor)
     - 1979: ARPAnet has 200 nodes
-  - Cerf and Kahn’s internetworking principles:
+  - Cerf and Kahn's internetworking principles:
     - minimalism, autonomy - no internal changes required to interconnect networks
     - best-effort service model
     - stateless routing
@@ -160,7 +164,7 @@
     - early 1990s: ARPAnet decommissioned
     - 1991: NSF lifts restrictions on commercial use of NSFnet  (decommissioned, 1995)
     - early 1990s: Web
-      - hypertext [Bush 1945, Nelson 1960’s]
+      - hypertext [Bush 1945, Nelson 1960's]
       - HTML, HTTP: Berners-Lee
       - 1994: Mosaic, later Netscape
       - late 1990s: commercialization of the Web
@@ -171,7 +175,7 @@
     - network security to forefront
     - est. 50 million host, 100 million+ users
     - backbone links running at Gbps
-  - 2005-present: more new applications, Internet is “everywhere”
+  - 2005-present: more new applications, Internet is "everywhere"
     -  ~18B devices attached to Internet (2017)
       - rise of smartphones (iPhone: 2007)
     - aggressive deployment of broadband access
@@ -179,8 +183,8 @@
     - emergence of online social networks: 
       - Facebook: ~ 2.5 billion users
     - service providers (Google, FB, Microsoft) create their own networks
-      - bypass commercial Internet to connect “close” to end user, providing “instantaneous” access to search, video content, ...
-    - enterprises run their services in “cloud” (e.g., Amazon Web Services, Microsoft Azure)
+      - bypass commercial Internet to connect "close" to end user, providing "instantaneous" access to search, video content, ...
+    - enterprises run their services in "cloud" (e.g., Amazon Web Services, Microsoft Azure)
 - Application Layer
   - Creating a network App
     - write programs that:
@@ -278,7 +282,7 @@
       - when initial HTTP requests arrives at site, site creates: 
         - unique ID
         - entry in backend database for ID
-        - All actions ”recorded” associating with the ID
+        - All actions "recorded" associating with the ID
     - What cookies can be used for:
       - Authorization
       - shopping carts
@@ -369,7 +373,7 @@
         - .edu
           - Nyu.edu
           - Umass.edu
-        - Organization’s own DNS servers  providing authoritative hostname to IP mappings for organization’s named hosts 
+        - Organization's own DNS servers  providing authoritative hostname to IP mappings for organization's named hosts 
     - Local DNS name servers
       - does not strictly belong to hierarchy
       - Each ISP has one
@@ -381,14 +385,14 @@
     - door between application process and end-end-transport protocol 
   - Two socket types
     - UDP 
-      - no “connection” between client & server
+      - no "connection" between client & server
       - No handshaking before sending data
       - Explicitly attaches IP dest and port # to each packet
       - Lost data or retrieved out-of-order
     - TCP
       - Client must contact server
         - server process must first be running
-        - server must have created socket (door) that welcomes client’s contact
+        - server must have created socket (door) that welcomes client's contact
       - Client contacts server by:
         - Creating TCP socket, specifying IP address, port number of server process
         - when client creates socket: client TCP establishes connection to server TCP
@@ -418,7 +422,7 @@
       - connection setup
     - UDP
       - unreliable, unordered delivery
-      - no-frills extension of “best-effort” IP
+      - no-frills extension of "best-effort" IP
   - Multiplexing/demultiplexing
     - multiplexing at the sender:
       - handle data from multiple sockets, add transport header (later used for demultiplexing)
@@ -432,7 +436,7 @@
       - each segment has source, destination port number host uses IP addresses & port numbers to direct segment to appropriate socket
   - Connectionless (UDP) demultiplexing
     - when creating socket, must specify host-local port #:
-      - serverSock.bind((‘’, 12000))
+      - serverSock.bind(('', 12000))
     - when creating datagram to send into UDP socket, must specify
       - destination IP address
       - destination port #
@@ -482,7 +486,7 @@
     - Sender
       - treat contents of UDP segment (including UDP header 
       - fields and IP addresses) as sequence of 16-bit integers
-      - checksum: addition (one’s complement sum) of segment content checksum value put into UDP checksum field
+      - checksum: addition (one's complement sum) of segment content checksum value put into UDP checksum field
     - Receiver
       - compute checksum of received segment
       - check if computed checksum equals checksum field value:
@@ -501,14 +505,14 @@
         - acknowledgements (ACKs): receiver explicitly tells sender that pkt received OK
         - negative acknowledgements (NAKs): receiver explicitly tells sender that pkt had errors
           - sender retransmits pkt on receipt of NAK
-      - if ACK/NAK corrupted, sender doesn’t know what happened at receive, no retransmit 
+      - if ACK/NAK corrupted, sender doesn't know what happened at receive, no retransmit 
     - Rdt2.1:
       - Sender
         - seq # added to pkt
         - two seq. #s (0,1) will suffice.  
         - must check if received ACK/NAK corrupted 
         - twice as many states
-          - state must “remember” whether “expected” pkt should have seq # of 0 or 1 
+          - state must "remember" whether "expected" pkt should have seq # of 0 or 1 
       - Receiver:
         - must check if received packet is duplicate, Old or New
           - state indicates whether 0 or 1 is expected pkt seq #
@@ -528,11 +532,11 @@
   - 
   - rdt 3.0 protocol performance stinks!
   - rdt3.0: pipelined protocols operation
-    - pipelining: sender allows multiple, “in-flight”, yet-to-be-acknowledged packets
+    - pipelining: sender allows multiple, "in-flight", yet-to-be-acknowledged packets
       - range of sequence numbers must be increased
       - buffering at sender and/or receiver
   - Go-Back-N: sender
-    - sender: “window” of up to N, consecutive transmitted but unACKed pkts 
+    - sender: "window" of up to N, consecutive transmitted but unACKed pkts 
       - k-bit seq # in pkt header
     - cumulative ACK: ACK(n): ACKs all packets up to, including seq # n 
       - on receiving ACK(n): move window forward to begin at n+1
@@ -546,7 +550,7 @@
 - Chapter 3 Transport Layer
   - TCP: overview
     - reliable, in-order byte steam:
-      - no “message boundaries"
+      - no "message boundaries"
     - full duplex data:
       - bi-directional data flow in same connection
       - MSS: maximum segment size
@@ -584,14 +588,14 @@
     - Q: how to estimate RTT?
       - SampleRTT: measured time from segment transmission until ACK receipt
         - ignore retransmissions
-      - SampleRTT will vary, want estimated RTT “smoother”
+      - SampleRTT will vary, want estimated RTT "smoother"
         - average several recent measurements, not just current SampleRTT
 - TCP round trip time, timeout
   - EstimatedRTT = (1- a)*EstimatedRTT + a*SampleRTT
     - exponential weighted moving average (EWMA)
     - influence of past sample decreases exponentially fast
     - typical value:  = 0.125
-    -  timeout interval: EstimatedRTT plus “safety margin”
+    -  timeout interval: EstimatedRTT plus "safety margin"
       - large variation in EstimatedRTT: want a larger safety margin
     - DevRTT: EWMA of SampleRTT deviation from EstimatedRTT:
       - DevRTT = (1-b)*DevRTT + b*|SampleRTT-EstimatedRTT
@@ -611,9 +615,9 @@
 - TCP flow control
   - What happens if network layer delivers data faster than application layer removes data from socket buffers?
   - Flow control
-    - receiver controls sender, so sender won’t overflow receiver’s buffer by transmitting too much, too fast
+    - receiver controls sender, so sender won't overflow receiver's buffer by transmitting too much, too fast
   - Sequence numbers:
-    - byte stream “number” of first byte in segment’s data
+    - byte stream "number" of first byte in segment's data
   - Acknowledgements
     - seq # of next byte expected from other side
       - cumulative ACK
@@ -693,7 +697,7 @@
       - Switching via memory
         - first generation routers:
           - traditional computers with switching under direct control of CPU
-          - packet copied to system’s memory
+          - packet copied to system's memory
           - speed limited by memory bandwidth (2 bus crossings per datagram)
       - Switching via a bus
         - bus contention: 
@@ -773,7 +777,7 @@
     - initial motivation
       - 32-bit IPv4 address space would be completely allocated
   - IPv6 datagram format
-    - What’s missing (compared with IPv4):
+    - What's missing (compared with IPv4):
       - no checksum (to speed processing at routers)
       - no fragmentation/reassembly
       - no options (available as upper-layer, next-header protocol at router)
@@ -782,7 +786,7 @@
 - Network-layer functions
   - Forwarding 
     - data plane
-    - move packets from router’s input to appropriate router output
+    - move packets from router's input to appropriate router output
   - Routing
     - Control plane
     - determine route taken by packets from source to destination
@@ -806,7 +810,7 @@
     - Exchange info with neighbors
     - Distance vectors
       - RIP, IGRP
-- Dijkstra’s link-state routing algorithm	
+- Dijkstra's link-state routing algorithm	
 - 
   - Centralized
     - Global routing protocol
@@ -824,15 +828,15 @@
       - set of nodes whose least- cost-path definitively known
 - Network Layer: Control Plane
   - Internet approach to scalable routing
-    - “Autonomous systems”
+    - "Autonomous systems"
       - Aggregate routers into regions
         - Aka Domains
-      - intra-AS (aka “intra-domain”):
+      - intra-AS (aka "intra-domain"):
         - routing among within same network
           - all routers in AS must run same intra-domain protocol
           - routers in different AS can run different intra-domain routing protocols
-          - gateway router: at “edge” of its own AS, has link(s) to router(s) in other AS’es
-      - inter-AS (aka “inter-domain”):
+          - gateway router: at "edge" of its own AS, has link(s) to router(s) in other AS'es
+      - inter-AS (aka "inter-domain"):
         - gateways perform inter-domain routing (as well as intra-domain routing)
     - most common intra-AS routing protocols:
       - RIP: Routing Information Protocol [RFC 1723]
@@ -845,7 +849,7 @@
         - link-state routing
           - Each router floods link-state advert (direct over IP) to other routers 
           - Multiple link costs metrics
-          - Full topology, uses Dijkstra’s algo
+          - Full topology, uses Dijkstra's algo
         - IS-IS protocol (ISO standard, not RFC standard) essentially same as OSPF
         - Security
           - All OSPF messages authenticated
@@ -855,7 +859,7 @@
           - Advertisement only in area, or backbone
         - each node has detailed area topology; only knows direction to reach other destinations
           - area border routers:
-            - “summarize” distances to destinations in own area, advertise in backbone
+            - "summarize" distances to destinations in own area, advertise in backbone
           - local routers:
             - flood LS in area only 
             - compute routing within area
@@ -875,11 +879,11 @@
         - Each AS gets to 
           - eBGP: obtain subnet reachability information from neighboring ASes
           - iBGP: propagate reachability information to all AS-internal routers.
-          - determine “good” routes to other networks based on reachability information and policy
+          - determine "good" routes to other networks based on reachability information and policy
     - BGP basics
       - BGP session:
-        -  two BGP routers (“peers”) exchange BGP messages over semi-permanent TCP connection
-          - advertising paths to different destination network prefixes (BGP is a “path vector” protocol)
+        -  two BGP routers ("peers") exchange BGP messages over semi-permanent TCP connection
+          - advertising paths to different destination network prefixes (BGP is a "path vector" protocol)
       - Path attributes and BGP routes
         - prefix: destination being advertised
         - two important attributes:
@@ -905,7 +909,7 @@
       - Scale:
         - hierarchical routing saves table size, reduced update traffic
     - hot potato routing
-      - choose local gateway that has least intra-domain cost,don’t worry about inter-domain cost!
+      - choose local gateway that has least intra-domain cost,don't worry about inter-domain cost!
     - BGP route selection
       - router may learn about more than one route to destination
       - AS, selects route based on:
@@ -922,7 +926,7 @@
     - used by hosts and routers to communicate network-level information
     - ICMP message: type, code plus first 8 bytes of IP datagram causing error
   - What is network management?
-    - autonomous systems (aka “network”): 1000s of interacting hardware/software components
+    - autonomous systems (aka "network"): 1000s of interacting hardware/software components
       - Network Management
         - deployment, integration and coordination of the hardware, software, and human elements to monitor, test, poll, configure, analyze, evaluate, and control the network and element resources to meet the real-time, operational performance, and Quality of Service requirements at a reasonable cost."
       - Components of network management
@@ -931,7 +935,7 @@
         - Managed device:
           - equipment with manageable, configurable hardware, software components
         - Data: 
-          - device “state” configuration data, operational data, device statistics
+          - device "state" configuration data, operational data, device statistics
         - Network management protocol: 
           - used by managing server to query ,configure, manage device  used by devices to inform managing server of data, events.
       - SNMP protocol: message types
@@ -952,7 +956,7 @@
       - framing, link access:
       - encapsulate datagram into frame, adding header, trailer
         - channel access if shared medium
-        - “MAC” addresses in frame headers identify source, destination (different from IP address!)
+        - "MAC" addresses in frame headers identify source, destination (different from IP address!)
     - Flow control
       - Pacing between adjacent sending and receiving nodes
     - Error detection 
@@ -977,7 +981,7 @@
     - Goal: detect errors (i.e., flipped bits) in transmitted segment
     - Sender
       - treat contents of UDP segment (including UDP header fields and IP addresses) as sequence of 16-bit integers
-      - checksum: addition (one’s complement sum) of segment content
+      - checksum: addition (one's complement sum) of segment content
       - checksum value put into UDP checksum field
     - Receiver
       - compute checksum of received segment
@@ -1023,16 +1027,16 @@
       - 4. Simple
   - MAC protocols: taxonomy
     - channel partitioning
-      - divide channel into smaller “pieces” (time slots, frequency, code)
+      - divide channel into smaller "pieces" (time slots, frequency, code)
       - allocate piece to node for exclusive use
     - random access
       - channel not divided, allow collisions
-      - “recover” from collisions
-    - “taking turns”
+      - "recover" from collisions
+    - "taking turns"
       - nodes take turns, but nodes with more to send can take longer turns
   - Channel partitioning MAC protocols: TDMA
     - TDMA: time division multiple access
-      - access to channel in “rounds”
+      - access to channel in "rounds"
       - each station gets fixed length slot (length = packet transmission time) in each round
       - unused slots go idle
       - example: 6-station LAN, 1,3,4 have packets to send, slots 2,5,6 idle
@@ -1092,13 +1096,13 @@
       - Not interrupting while transmitting (speaking)
     - CSMA: collisions
       - collisions can still occur with carrier sensing:
-        - propagation delay means two nodes may not hear each other’s just-started transmission
+        - propagation delay means two nodes may not hear each other's just-started transmission
       - collision: entire packet transmission time wasted
         - distance & propagation delay play role in in determining collision probability spatial layout of nodes
-  - “Taking turns” MAC protocols
+  - "Taking turns" MAC protocols
     - Polling:
-      -  master node “invites” other nodes to transmit in turn
-      - typically used with “dumb” devices
+      -  master node "invites" other nodes to transmit in turn
+      - typically used with "dumb" devices
         - Bluetooth
       - concerns:
         - polling overhead
@@ -1128,7 +1132,7 @@
     - Bus: 
       - all nodes in same collision domain (can collide with each other)
     - Switched: modern 
-      - each “spoke” runs a (separate) Ethernet protocol (nodes do not collide with each other)
+      - each "spoke" runs a (separate) Ethernet protocol (nodes do not collide with each other)
   - Ethernet frame structure
     - Preamble:
       - used to synchronize receiver, sender clock rates
@@ -1172,7 +1176,7 @@
         - UDP demuxed to DHCP
       - DHCP server formulates DHCP ACK
       - containing
-        - client’s IP address,
+        - client's IP address,
         - IP address of first-hop router for client,
         - name & IP address of DNS server
       - encapsulation at DHCP server, frame forwarded (switch learning) through LAN, demultiplexing at client

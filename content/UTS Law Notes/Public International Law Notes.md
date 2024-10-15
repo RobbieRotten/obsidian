@@ -30,11 +30,11 @@
       - A territory with a sparse population, mostly consisting of nomadic tribes (Western Sahara Ad Op)
   - Criteria for Statehood - Territory
     - What is the minimum size of a territory in international law?
-    - Must all of a state’s territory be populated?
+    - Must all of a state's territory be populated?
     - Does a territory need to have defined borders?
   - Criteria for Statehood - Government
     - What form of government must a state have?
-      - –‘effective’ see eg Aaland Islands Case
+      - –'effective' see eg Aaland Islands Case
       - –Exceptions?
     - What is the effect of civil war?
   - Criteria for Statehood - Capacity to enter into relations with other states
@@ -44,16 +44,16 @@
     - Situations not affecting formal independence:
       - – Delegation of certain functions (ie military) not seen to affect independence
       - – Voluntary Surrender:
-        - – ‘the right of entering into international engagements is an attribute of sovereignty’ SS Wimbledon Case (PCIL 1923)
+        - – 'the right of entering into international engagements is an attribute of sovereignty' SS Wimbledon Case (PCIL 1923)
   - Key Questions:
     - Is there a relationship of subordination and superiority? (Austro-German Custom Union Case)
     - Any external sovereignty? Ie subordination to a different state?
       - – Norfolk Island
       - – Hong Kong
-    - This is a separate consideration to a state’s subordination to PIL
+    - This is a separate consideration to a state's subordination to PIL
   - Other Criteria for Statehood?
-    - Membership in International Orgs – Art 4 UN Charter requires ‘peace loving state’ that accepts and carries out obligations under the charter.
-    - States that act ‘lawfully’
+    - Membership in International Orgs – Art 4 UN Charter requires 'peace loving state' that accepts and carries out obligations under the charter.
+    - States that act 'lawfully'
     - Apartheid South Africa:
       - Were Bantustans a State under PIL?
     - Southern Rhodesia: [see H&S p 106-7]
@@ -82,10 +82,10 @@
     - States may claim jurisdiction over acts committed abroad that harm their nationals.
     -  US v Yunis (No.2)
 - Five heads of jurisdiction recognized by international law
-  - Territorial Jurisdiction: Authority over acts committed within a state’s own territory.
-  - Nationality (or Active Personality) Jurisdiction: Authority over a state’s nationals, regardless of where they are located.
+  - Territorial Jurisdiction: Authority over acts committed within a state's own territory.
+  - Nationality (or Active Personality) Jurisdiction: Authority over a state's nationals, regardless of where they are located.
   - Passive Personality Jurisdiction: Authority over acts committed abroad that harm the state's nationals.
-  - Protective Jurisdiction: Authority over acts outside a state’s territory that threaten its security or governmental functions.
+  - Protective Jurisdiction: Authority over acts outside a state's territory that threaten its security or governmental functions.
   - Universal Jurisdiction: Authority over certain serious crimes (e.g., genocide, war crimes) that are recognized as affecting the international community as a whole, regardless of where they occur.
 ## Week 1: Introduction to International Law
 
@@ -98,7 +98,7 @@
       - but the principles, materials and techniques of international law are applied much more widely. 
     - International law is not a unified, manufactured system, imposed upon the world of international or inter-communal relations
     - The rules of international law cover whatever topics happen to have been regarded as appropriate for legal solution on the international plane
-    - It is often asserted that international law in its modern form dates from the Treaty of Westphalia def in 1648, which is said to have ‘created’ the system of modern nation-State
+    - It is often asserted that international law in its modern form dates from the Treaty of Westphalia def in 1648, which is said to have 'created' the system of modern nation-State
       - The forms—treaties, embassies, claims to jurisdiction or immunity, to territory and nationality, and so on—go back far beyond the Treaty of Westphalia; and it is in the forms and formulas of governmental intercourse that the lifeblood of international law has always flowed.
   - 1.3 THE CHANGING SCOPE OF INTERNATIONAL LAW
     - Modern international human rights law def
@@ -106,10 +106,10 @@
         - American Declaration of the Rights of Man in 1948 
         - European Convention on Human Rights in 1950
         - followed by
-          -  1981 African Charter on Human and People’s Rights, 
+          -  1981 African Charter on Human and People's Rights, 
           - 1994 Arab Charter on Human Rights
   - 1.4 THE EMERGENCE OF INTERNATIONAL ORGANIZATIONS
-    - establishment in 1871 of the arbitration tribunal that settled the United States’ claims against Britain for compensation for the damage inflicted upon the Union by the confederate warship Alabama during the American Civil War
+    - establishment in 1871 of the arbitration tribunal that settled the United States' claims against Britain for compensation for the damage inflicted upon the Union by the confederate warship Alabama during the American Civil War
     - It led to the establishment of the Permanent Court of International Justice (PCIJ) under the League of Nations, and its successor, the International Court of Justice (ICJ), under the United Nations.
   - 1.5 THE EMERGENCE OF NEW INTERNATIONAL ACTORS
     - Companies have an easier time negotiating with foreign powers and the resources to do so, rather than letting their state negotiate for them with complicated interests to further
@@ -124,13 +124,13 @@
     - Treaties def are, therefore, commitments that States have already decided that it is in their interest to comply with.
     - Rules of customary international law def
       - Rules that are consistently followed such as the historic immunity to envoys/medics/messengers
-    - Countries will typically follow the laws and treaties they’ve signed because they were not forced to sign them to begin with, and as such see the benefit
+    - Countries will typically follow the laws and treaties they've signed because they were not forced to sign them to begin with, and as such see the benefit
     - Arguments you use may be used against you
   - 1.7 WHY SHOULD PEOPLE COMPLY WITH INTERNATIONAL LAW?
     - Rule of law, mandate of heaven, swear by religion when making treaties, etc
-    - Eventually shifted towards secular reasoning based on ‘consent of the governed’ 
+    - Eventually shifted towards secular reasoning based on 'consent of the governed' 
       - Positivist def 
-        - the authority of international law derived from the fact that States had—or were to be treated as if they had—consented to be bound by its rules, and not from any external source such as the ‘will of God’ or ‘the natural order’
+        - the authority of international law derived from the fact that States had—or were to be treated as if they had—consented to be bound by its rules, and not from any external source such as the 'will of God' or 'the natural order'
       - Jus cogens def:
         - Rules that are binding on all States regardless of whether or not the States have consented to be bound by them
         - A.K.A. Peremptory norms def
@@ -166,9 +166,9 @@
     - Law-Creating Processes:
       - For the World Court to apply a rule, it must stem from treaties, international customary law, or general principles recognized by civilized nations.
       - This enumeration excludes other potential sources like natural law or moral postulates.
-    - Court’s Obligation:
+    - Court's Obligation:
       - The Court must consider any rule from these three law-creating processes.
-      - The rule’s origin (humanity considerations, civilization standards) is irrelevant if it aligns with these processes.
+      - The rule's origin (humanity considerations, civilization standards) is irrelevant if it aligns with these processes.
     - Ex aequo et bono def Decisions:
       - The Court can decide cases ex aequo et bono (equity) only with parties' agreement, which must itself be treaty-based.
     - Formal vs. Material Sources:
@@ -184,7 +184,7 @@
         - Hid at embassy in lima, and columbia argued for safe passage out
         - Relied on Regional custom def / local custom def
           - Must be a constant and uniform usage, as accepted by law
-        - Peru consistently repudiated any such law or convention, so won’t be held to be a regional custom for Peru
+        - Peru consistently repudiated any such law or convention, so won't be held to be a regional custom for Peru
 - Sources of Public International Law 
   - United Nations System
     - 
@@ -201,7 +201,7 @@
       - An international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation. (See Art. 2 Vienna Convention on the Law of Treaties 1969 – VCLT)
 
     - But note it is also possible to have oral treaties but these are not covered by VCLT
-    - ‘treaty’, ‘convention’ and protocol etc
+    - 'treaty', 'convention' and protocol etc
     - Bi-lateral, multi-lateral etc
     - Exchange of notes?
     - Written form-minutes of a meeting? Qatar v Bahrain- ICJ Rep 1994, 112
@@ -212,12 +212,12 @@
       - Treaty represents crystallization of an emerging rule of custom customary international law (as Netherlands and Denmark argued in North Sea Shelf)
       - Subsequent practice makes treaty rule into custom
   - Case Concerning Military and Paramilitary Activities in and Against Nicaragua (Nicaragua v. United States) (Merits) ICJ Reports 1986, p.14
-    - “customary international law continues to exist alongside treaty law even if the customary norm and the treaty norm were to have exactly the same content, this would not be a reason for the Court to hold that the incorporation of the customary norm into treaty-law must deprive the customary norm of its applicability as distinct from that of the treaty norm…. there are no grounds for holding that when customary international law is comprised of rules identical to those of treaty law, the latter "supervenes" the former, so that the customary international law has no further existence of its own.” (paras 176- 177).
+    - "customary international law continues to exist alongside treaty law even if the customary norm and the treaty norm were to have exactly the same content, this would not be a reason for the Court to hold that the incorporation of the customary norm into treaty-law must deprive the customary norm of its applicability as distinct from that of the treaty norm…. there are no grounds for holding that when customary international law is comprised of rules identical to those of treaty law, the latter "supervenes" the former, so that the customary international law has no further existence of its own." (paras 176- 177).
   - Customary International Law
     - A useful explanation has been provided by (Greig 1976)
-      - “international custom results from similar and repeated acts by states-repeated with the conscious conviction of the parties that they are acting in conformity with the law. Thus there are two factors in the formation of custom:
+      - "international custom results from similar and repeated acts by states-repeated with the conscious conviction of the parties that they are acting in conformity with the law. Thus there are two factors in the formation of custom:
         - 1. a material fact-the repetition of similar acts by states, and
-        - 2. a psychological element usually called the opinion juris sive necessitates the feeling on the part of the States that in acting as they act, they are fulfilling a legal obligation” (Greig 1976)
+        - 2. a psychological element usually called the opinion juris sive necessitates the feeling on the part of the States that in acting as they act, they are fulfilling a legal obligation" (Greig 1976)
       - Two elements. Both must be established: 
         - 1. State practice- behaviour & practice of states (objective facts)
           - Duration, consistency, repetition and generality?
@@ -228,15 +228,15 @@
     - North Sea Continental Shelf cases (FR Germany v Denmark, FR Germany v The Netherlands) ICJ Reports 1969, p.3
       - Dispute in boundary delimitation negotiations between Germany, The Netherlands and Denmark. 
       - Did the equidistance/special circumstances rule in Art 6 of the 1958 Geneva Convention on the Continental shelf apply? Germany had not yet ratified the treaty. Could only apply if the rule was also Customary International Law. 
-      - Held: “…two conditions must be fulfilled. Not only must the acts concerned amount to a settled practice, but they must also be such, or be carried out in such a way, as to be evidence of a belief that this practice is rendered obligatory by the existence of a rule of Iaw requiring it. The need for such a belief, i.e., the existence of a subjective element, is implicit in the very notion of the opinio juris sive necessitatis. The States concerned must therefore feel that they are conforming to what amounts to a legal obligation. The frequency, or even habitual character of the acts is not in itself enough. There are many international acts, e.g., in the field of ceremonial and protocol, which are performed almost invariably, but which are motivated only by considerations of courtesy, convenience or tradition, and not by any sense of legal duty”. (para 77)
-      - “As regards the time element, the Court notes that it is over ten years since the Convention was signed, but that it is even now less than five since it came into force in June 1964, and that when the present proceedings were brought it was less than three years, while less than one had elapsed at the time when the respective negotiations between the Federal Republic and the other two Parties for a complete delimitation broke down on the question of the application of the equidistance principle. Although the passage of only a short period of time is not necessarily, or of itself, a bar to the formation of a new rule of customary international law on the basis of what was originally a purely conventional rule, an indispensable requirement would be that within the period in question, short though it might be, State practice, including that of States whose interests are specially affected, should have been both extensive and virtually uniform in the sense of the provision invoked;-and should moreover have occurred in such a way as to show a general recognition that a rule of law or legal obligation is involved.”
+      - Held: "…two conditions must be fulfilled. Not only must the acts concerned amount to a settled practice, but they must also be such, or be carried out in such a way, as to be evidence of a belief that this practice is rendered obligatory by the existence of a rule of Iaw requiring it. The need for such a belief, i.e., the existence of a subjective element, is implicit in the very notion of the opinio juris sive necessitatis. The States concerned must therefore feel that they are conforming to what amounts to a legal obligation. The frequency, or even habitual character of the acts is not in itself enough. There are many international acts, e.g., in the field of ceremonial and protocol, which are performed almost invariably, but which are motivated only by considerations of courtesy, convenience or tradition, and not by any sense of legal duty". (para 77)
+      - "As regards the time element, the Court notes that it is over ten years since the Convention was signed, but that it is even now less than five since it came into force in June 1964, and that when the present proceedings were brought it was less than three years, while less than one had elapsed at the time when the respective negotiations between the Federal Republic and the other two Parties for a complete delimitation broke down on the question of the application of the equidistance principle. Although the passage of only a short period of time is not necessarily, or of itself, a bar to the formation of a new rule of customary international law on the basis of what was originally a purely conventional rule, an indispensable requirement would be that within the period in question, short though it might be, State practice, including that of States whose interests are specially affected, should have been both extensive and virtually uniform in the sense of the provision invoked;-and should moreover have occurred in such a way as to show a general recognition that a rule of law or legal obligation is involved."
       - equidistance principle def, or principle of equidistance def, 
         - a legal concept in maritime boundary claims that a nation's maritime boundaries should conform to a median line that is equidistant from the shores of neighboring nations.
     - Lotus case (France v Turkey) (1927) PCIJ, Ser.A, no.10
       - A French vessel The Lotus collided on the high seas with a Turkish vessel the Boz-Kourt. 8 passengers and crew were killed. When the ship docked in Turkey, Turkish authorities arrested the French officer of the watch. Key issue was whether Turkey had jurisdiction to prosecute him for manslaughter? 
-      - France argued that because there had been so few examples of criminal prosecutions of other states ‘flagged vessels’ this demonstrated the existence of a principle of customary international law that only the ‘flag state’ had exclusive jurisdiction.
+      - France argued that because there had been so few examples of criminal prosecutions of other states 'flagged vessels' this demonstrated the existence of a principle of customary international law that only the 'flag state' had exclusive jurisdiction.
       - Court held that needed to show a subjective element stating
-      - [absence of other states exercising jurisdiction would] “merely show that States had often, in practice, abstained from instituting criminal proceedings, and not that they recognised themselves as being obliged to do so; for only is such abstention were based on their being conscious of having a duty to abstain would it be possible to speak of an international custom…”
+      - [absence of other states exercising jurisdiction would] "merely show that States had often, in practice, abstained from instituting criminal proceedings, and not that they recognised themselves as being obliged to do so; for only is such abstention were based on their being conscious of having a duty to abstain would it be possible to speak of an international custom…"
     - ILC Conclusions, Part 3: A General Practice
       - Conclusion 4
       - Requirement of practice
@@ -276,7 +276,7 @@
   - Criteria for Statehood:
     - Montevideo Convention on the Rights and Duties of States 1933, art 1:
       - 4 main criteria:
-        - ‘The state as a person of international law should possess the following qualifications:
+        - 'The state as a person of international law should possess the following qualifications:
           - (a) a permanent population;
           - (b) a defined territory;
           - (c) government; and
@@ -286,11 +286,11 @@
         - A territory with a sparse population, mostly consisting of nomadic tribes (Western Sahara Ad Op)
     - Criteria for Statehood - Territory
       - What is the minimum size of a territory in international law?
-      - Must all of a state’s territory be populated?
+      - Must all of a state's territory be populated?
       - Does a territory need to have defined borders?
     - Criteria for Statehood - Government
       - What form of government must a state have?
-        - –‘effective’ see eg Aaland Islands Case
+        - –'effective' see eg Aaland Islands Case
         - –Exceptions?
       - What is the effect of civil war?
     - Criteria for Statehood - Capacity to enter into relations with other states
@@ -300,16 +300,16 @@
       - Situations not affecting formal independence:
         - – Delegation of certain functions (ie military) not seen to affect independence
         - – Voluntary Surrender:
-          - – ‘the right of entering into international engagements is an attribute of sovereignty’ SS Wimbledon Case (PCIL 1923)
+          - – 'the right of entering into international engagements is an attribute of sovereignty' SS Wimbledon Case (PCIL 1923)
     - Key Questions:
       - Is there a relationship of subordination and superiority? (Austro-German Custom Union Case)
       - Any external sovereignty? Ie subordination to a different state?
         - – Norfolk Island
         - – Hong Kong
-      - This is a separate consideration to a state’s subordination to PIL
+      - This is a separate consideration to a state's subordination to PIL
     - Other Criteria for Statehood?
-      - Membership in International Orgs – Art 4 UN Charter requires ‘peace loving state’ that accepts and carries out obligations under the charter.
-      - States that act ‘lawfully’
+      - Membership in International Orgs – Art 4 UN Charter requires 'peace loving state' that accepts and carries out obligations under the charter.
+      - States that act 'lawfully'
       - Apartheid South Africa:
         - Were Bantustans a State under PIL?
       - Southern Rhodesia: [see H&S p 106-7]
@@ -328,8 +328,8 @@
         - – Upon succession, reconfiguration, partition: what happens to pre-existing obligations? Continuity of obligation
           - See USSR → Russia UNSC membership; liability for state debt; etc J Hohma
     - Rights and Duties of States
-      - Crawford: ‘statehood is not simply a factual situation.
-        - It is a legally circumscribed claim of right, specifically to the competence to govern a certain territory’ (2006: 61).
+      - Crawford: 'statehood is not simply a factual situation.
+        - It is a legally circumscribed claim of right, specifically to the competence to govern a certain territory' (2006: 61).
       - Rights and Duties of States include:
         - Sovereign equality (UN Charter, art 2(1))
         - Right to peaceful co-existence with other States (UN Charter)
@@ -345,30 +345,30 @@
         - To those colonies and territories which as a consequence of the late war have ceased to be under the sovereignty of the States which formerly governed them and which are inhabited by peoples not yet able to stand by themselves under the strenuous conditions of the modern world, there should be applied the principle that the well-being and development of such peoples form a sacred trust of civilisation ... embodied in this Covenan
     - Self-Determination – After UN Charter
       - Self-determination:
-        - ‘friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples’ (UN Charter, art 1(2), purposes)
-      - ‘The subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights (UNGA Declaration on the Granting of Independence to Colonial Territories and Peoples 1960) (GA Res 1514)
-      - ‘All people have the right to self-determination; by virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development’ (Common Art 1 ICCPR 1966 & ICESCR 1966)
+        - 'friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples' (UN Charter, art 1(2), purposes)
+      - 'The subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights (UNGA Declaration on the Granting of Independence to Colonial Territories and Peoples 1960) (GA Res 1514)
+      - 'All people have the right to self-determination; by virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development' (Common Art 1 ICCPR 1966 & ICESCR 1966)
       - Western Sahara (ICJ Advisory Opinion, 1975)
     - Western Sahara (Ad Op)
       - Questions for the Court:
         - 1. Was Western Sahara at time of colonisation by Spain terra nullius?
           - No
         - 2. If no, what were the legal ties between Western Sahara territory & Morocco & Mauritania at the time?
-          - No ties of territorial sovereignty, therefore ‘no legal ties of such a nature’ that would affect the application of GA Res 1514(XV) re the decolonisation of Western Sahara’
+          - No ties of territorial sovereignty, therefore 'no legal ties of such a nature' that would affect the application of GA Res 1514(XV) re the decolonisation of Western Sahara'
         - Self Determination is customary IL (para 56)
     - Other Failures to Decolonize:
       - Chagos Ad. Op. (2019)
         - The Court considers that peoples of non self-governing territories are entitled to exercise right to SD in relation to their territory as a whole, the detachment of part of the territory, unless based on the freely expressed and genuine will of the people of the territory, is contrary to the right to SD (para 160).
-        - ‘The Court concludes that, as a result of the Chagos Archipelago’s unlawful detachment and its incorporation into a new colony, known as the BIOT, the process of decolonization of Mauritius was not lawfully completed when Mauritius acceded to independence in 1968.’ (para 174)
+        - 'The Court concludes that, as a result of the Chagos Archipelago's unlawful detachment and its incorporation into a new colony, known as the BIOT, the process of decolonization of Mauritius was not lawfully completed when Mauritius acceded to independence in 1968.' (para 174)
       - Paras 144 – 162 discussing the principle of
         - self-determination in IL, and its customary status.
         - *also a useful refresher on the emergence and elements of custom
       - Law of Self-Determination further reaffirmed in
         - Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territories, Including East Jerusalem
     - Self-Determination for whom?
-      - Shaw: ‘The best approach is to accept the development of self-determination as an additional criteria of statehood, denial of which would obviate statehood’
+      - Shaw: 'The best approach is to accept the development of self-determination as an additional criteria of statehood, denial of which would obviate statehood'
       - Yet, self-determination for whom?
-        - ‘everything turns upon the elusive concept of a “people” (H&S 8th ed p 109)
+        - 'everything turns upon the elusive concept of a "people" (H&S 8th ed p 109)
           - Ethnic and linguistic minorities?
           - Indigenous peoples?
             - – See UNDRIP esp art 3, 4, 5
@@ -391,14 +391,14 @@
           - – Does it have international legal personality?
           - – Reparations for Injuries Ad Op (1949) – did the UN as an organization have the ability to bring an international claim?
     - Recognition in International Law
-      - Considered important act that can affect a state’s ability to exercise its rights and responsibilities as a state
+      - Considered important act that can affect a state's ability to exercise its rights and responsibilities as a state
       - nb there is a difference between recognition of states and recognition of governments.
     - Two Theories of Recognition (of States)
       - The Constitutive Theory
-        - Recognition has a ‘constitutive’ effect so that a state becomes an international legal person and a subject of IL only through recognition.’
+        - Recognition has a 'constitutive' effect so that a state becomes an international legal person and a subject of IL only through recognition.'
       - The Declaratory Theory
         - States exist independent of recognition:
-          - ‘the primary function of recognition is to acknowledge as a fact something which has hitherto been uncertain, namely the independence of the body claiming to be a state, and to declare the declaring state’s readiness to accept the normal consequences of that fact – namely the usual courtesies, rights and obligations of international relations between states.’ (Brierly, in H&S p 137).
+          - 'the primary function of recognition is to acknowledge as a fact something which has hitherto been uncertain, namely the independence of the body claiming to be a state, and to declare the declaring state's readiness to accept the normal consequences of that fact – namely the usual courtesies, rights and obligations of international relations between states.' (Brierly, in H&S p 137).
           - The weight of authorities favours the declaratory theory. 
     - Does State Practice reflect declaratory or constitutive theory?
       - Declaratory
@@ -412,8 +412,8 @@
         - Montevideo Convention Arts 3, 6, 7.
         - Tinoco arbitration
         - Badinter Commission Opinion No 1.
-          - – recognition is ‘purely declaratory’
-          - – Recognition is a ‘discretionary act’
+          - – recognition is 'purely declaratory'
+          - – Recognition is a 'discretionary act'
       - Writings of the most Qualified Publicists
         - See H&S p 138
     - Modes of Recognition
@@ -424,19 +424,19 @@
       - Arranging an international conference
       - However: role of intention.
     - The Political Nature of Recognition
-      - ‘States have discovered that the granting or withholding of recognition can be used to further a national policy.
+      - 'States have discovered that the granting or withholding of recognition can be used to further a national policy.
       - States have refused it as a mark of disapproval, as nearly all of them did to Manchukuo and they have granted it in order to establish the very independence of which recognition is supposed to be a mere acknowledgement.
-      - So, ... we can point to the situation in 1948 when the US recognised Israel within a few hours of its proclamation of independence.’ Brierly – Law of Nations (H&S p 137) 
+      - So, ... we can point to the situation in 1948 when the US recognised Israel within a few hours of its proclamation of independence.' Brierly – Law of Nations (H&S p 137) 
         - – (for context on US recognition of Israel see H&S p 137 fn 180.)
       - Shaw – recognition is a purely political act
     - The legal side of Recognition?
       - Badinter Commission Opinion No 10.
-        - recognition is a discretionary act that other states may perform when and in the manner they choose, ‘subject only to compliance with the imperatives of general international law, and particularly those prohibiting the use of force in dealings with other states or guaranteeing the rights of ethnic, religious or linguistic minorities.’
+        - recognition is a discretionary act that other states may perform when and in the manner they choose, 'subject only to compliance with the imperatives of general international law, and particularly those prohibiting the use of force in dealings with other states or guaranteeing the rights of ethnic, religious or linguistic minorities.'
       - Southern Rhodesia eg (unlawfulness of minority rule).
     - Does the practice of state recognition add additional criteria to statehood?
-      - See European Community (EC)’s Guidelines on the Recognition of New States in Eastern Europe and in the Soviet Union (Dec 1991),
+      - See European Community (EC)'s Guidelines on the Recognition of New States in Eastern Europe and in the Soviet Union (Dec 1991),
         - Respect for the provisions of UN Charter
-        - Guarantees of ethnic and national groups’ and minorities’ rights
+        - Guarantees of ethnic and national groups' and minorities' rights
         - Respect for inviolability of frontiers (only changed by peaceful means and common agreement)
         - Acceptance of all relevant commitments re disarmament, nuclear non-proliferation, security, regional stability
         - Commitment to settle by agreement (if necessary, arbitration) all questions concerning state succession and regional disputes
@@ -444,29 +444,29 @@
       - Note regional scope (Europe).
     - Recognition of Governments
       - Recognition of governments is distinct from recognition of states
-      - When does recognition of Gov’t become relevant?
-        - – Normally after ‘nonconventional’ change [revolution; coup eg]
+      - When does recognition of Gov't become relevant?
+        - – Normally after 'nonconventional' change [revolution; coup eg]
     - Tinoco Arbitration
-      - non-recognition by governments ‘cannot outweigh the evidence [of] ... the character of Tinoco’s gov’t according to the standard set by international law
+      - non-recognition by governments 'cannot outweigh the evidence [of] ... the character of Tinoco's gov't according to the standard set by international law
 ## Week 2: Personality and Recognition in International Law
 
 - STATES
   - Personality def
-    - “personality” as a term is only short-hand for the proposition that an entity is endowed by international law with legal capacity
+    - "personality" as a term is only short-hand for the proposition that an entity is endowed by international law with legal capacity
   - The Vatican City is the only state that is generally recognised by the international community that is not a member of the UN
   - Population and territory
     - state it is not necessary for an entity to have exactly defined or undisputed boundaries, either at thetime that it comes into being or subsequently. 
       - Israel = no borders settled
       - Deutsche Continental Gas-Gesel/schaft v Polish State
   - Government
-    - State practice suggests that the requirement of a “stable political organisation” in control of the territory does not apply during a civil war or where there is a collapse of law and order in a state that already exists
+    - State practice suggests that the requirement of a "stable political organisation" in control of the territory does not apply during a civil war or where there is a collapse of law and order in a state that already exists
       - Finland separation from USSR
       - Modern equivalent is somalia
     -  Failed states. 
       - Somalia in the 1990s 
       - Three elements
         - First - territory: 
-          - ‘failed States’ are essentially associated with internal and endogenous problems, even though these may incidentally have cross-border impacts. 
+          - 'failed States' are essentially associated with internal and endogenous problems, even though these may incidentally have cross-border impacts. 
         - Second - Governance: 
           - total or near breakdown of structures guaranteeing law and order rather than the kind of fragmentation of State authority seen in civil wars 
         - Third - functional aspect
@@ -492,24 +492,24 @@
       - The PCIJ, by a narrow margin of eight votes to seven, advised that the proposed customs union would be incompatible with the Protocol of 1922.
       - Additionally, a majority of the judges opined (though not as a formal ruling of the Court) that the customs union would also contravene Article 88 of the Treaty of Saint-Germain.
     - Ratio Decidendi:
-      - The Court emphasized that Austria’s independence, as protected by Article 88, meant that Austria had to remain a separate state with full control over its own economic, political, and financial affairs.
-      - The establishment of the customs union was seen as a potential step toward political union, which would undermine Austria’s sovereignty by subjecting its decisions to German influence.
+      - The Court emphasized that Austria's independence, as protected by Article 88, meant that Austria had to remain a separate state with full control over its own economic, political, and financial affairs.
+      - The establishment of the customs union was seen as a potential step toward political union, which would undermine Austria's sovereignty by subjecting its decisions to German influence.
     - Significance:
       - The Austro-German Customs Union Case is significant for its interpretation of state sovereignty and independence in international law.
       - The decision underscored the importance of maintaining a state's independence from external control, especially in situations where economic agreements could lead to political subordination.
-      - This case is frequently cited in discussions of state sovereignty and the limitations imposed by international treaties on a state’s ability to enter into agreements that may compromise its independence.
+      - This case is frequently cited in discussions of state sovereignty and the limitations imposed by international treaties on a state's ability to enter into agreements that may compromise its independence.
 -  FRENCH INDEMNITY OF 1831
   - FRENCH INDEMNITY OF 1831 US Claims Commission. Moore, 5
     - Procedural History:
       - After the Napoleonic Wars, France agreed to pay compensation to the United States for damages suffered by American nationals. 
-      - The US Claims Commission was established to distribute these funds and determine France’s liability, particularly regarding losses caused by other nations under French influence.
+      - The US Claims Commission was established to distribute these funds and determine France's liability, particularly regarding losses caused by other nations under French influence.
     - Facts:
-      - During the Napoleonic Wars, Holland was a nominally independent state but came under substantial French control, particularly after 1806 when Napoleon’s brother, Louis Bonaparte, was installed as the king of Holland. 
+      - During the Napoleonic Wars, Holland was a nominally independent state but came under substantial French control, particularly after 1806 when Napoleon's brother, Louis Bonaparte, was installed as the king of Holland. 
       - By 1810, Holland was formally annexed into the French Empire. 
       - American merchants suffered losses due to the sequestration of their goods in Dutch ports, which was ordered by France under the Franco-Dutch treaty.
       - Denmark, while maintaining formal independence, engaged in actions that harmed U.S. nationals, likely motivated by the desire to align with French interests or gain favor with Napoleon.
     - Legal Issue:
-      - The central question was whether France could be held liable for the actions of Holland and Denmark, given the extent of France’s control or influence over these nations during the Napoleonic Wars.
+      - The central question was whether France could be held liable for the actions of Holland and Denmark, given the extent of France's control or influence over these nations during the Napoleonic Wars.
     - Decision:
       - The US Claims Commission ruled that France was liable for the damages caused by Holland, as Holland was effectively under French control and lacked true sovereignty. 
       - However, France was not held liable for the damages caused by Denmark, as Denmark was considered an independent state acting on its own accord.
@@ -520,7 +520,7 @@
     - Significance:
       - This case is significant in international law for its contribution to the understanding of state sovereignty and responsibility. 
       - It highlights the conditions under which a state may be held liable for the actions of another state, particularly when issues of de facto control and influence are involved. 
-      - The case informs contemporary discussions on state responsibility, especially in contexts where one state exercises significant influence over another’s actions, and remains relevant in the context of modern international relations.
+      - The case informs contemporary discussions on state responsibility, especially in contexts where one state exercises significant influence over another's actions, and remains relevant in the context of modern international relations.
 -  C. Self-determination 
   - Under the UN Charter, it became the cornerstone of the General Assembly's decolonisation policy of the 1960s and 1970s.
     - the principle has generated a rule of international law by which the political future of a colonial or similar non-independent territory should be determined in accordance with the wishes of its inhabitants, within the limits of the principle of uti possidetis def
@@ -600,11 +600,11 @@
   - International Law in Municipal Law
     - Municipal Law / International Law
     - Monism / Dualism
-      - ‘This controversy turns on whether international law and internal law are two separate legal orders, existing independently of one another - and, if so, on what basis it can be said that either is superior to or supreme over the other; or whether they are both part of the same order, one or other of them being supreme over the other within that order. The first view is the dualist view, the second the monist’
-    - G Fitzmaurice, ‘General Principles of International Law’ (1957), extracted in Rothwell et al (eds), International Law (3rd ed, 2018) 176.
+      - 'This controversy turns on whether international law and internal law are two separate legal orders, existing independently of one another - and, if so, on what basis it can be said that either is superior to or supreme over the other; or whether they are both part of the same order, one or other of them being supreme over the other within that order. The first view is the dualist view, the second the monist'
+    - G Fitzmaurice, 'General Principles of International Law' (1957), extracted in Rothwell et al (eds), International Law (3rd ed, 2018) 176.
     - Incorporation / Transformation- see Trendex Trading Corporation v Central Bank of Nigeria [1977] 1 QB 529, at para 553 per Lord Denning MR for an explanation. (But note Trendex not good law in Australia)
   - Australia and International Law
-    - Emergence of Australia’s international legal personality
+    - Emergence of Australia's international legal personality
     - 
   - Treaties and Australian Law
     - The Treaty-Making + Domestic Transformation Process (JSCOT)
@@ -612,7 +612,7 @@
       - Treaties do not form part of Australian law unless incorporated through Commonwealth legislation (ie requires an act of the legislature = strong transformation approach)
         - See Dietrich v The Queen (1992) 177 CLR 292
       - Different ways to incorporate international treaty obligations?
-        - All or part of Treaty’s content may be included in an Act;
+        - All or part of Treaty's content may be included in an Act;
         - The text of the Treaty may be added as a Schedule to existing legislation; or 
         - Legislation can be enacted which states that a Treaty has force of law. (see extract from article by Bill Campbell KC in reading for more examples)
       - If only a portion of the Treaty is given legislative effect, the remainder is not enforceable under municipal law 
@@ -639,17 +639,17 @@
         - YET:
           - On facts, not genocide
           - Even if facts made out, relief would not have been granted due to parliamentary privileges and implied freedom of political communication
-      - Nulyarimma majority reasoning was followed in other ‘genocide’ cases:
+      - Nulyarimma majority reasoning was followed in other 'genocide' cases:
         - Thorpe v Kennett [1999] VSC 442 
         - Sumner v UK [2000] SASC 456
       - NB: Cth Parliament has since passed International Criminal Court Act 2002 (Cth) and International Criminal Court (Consequential Amendments) Act 2002 (Cth) that gives effect to Rome Statute obligations and criminalises genocide under Australian law
     - Influencing development of the common law
-      - Mabo (No 2): ‘The common law does not necessarily conform with international law, but international law is a legitimate and important influence on the development of the common law’ (per Brennan J)
-      - Note: ‘cautious approach’ of Mason CJ and Deane J in Minister for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 272.
+      - Mabo (No 2): 'The common law does not necessarily conform with international law, but international law is a legitimate and important influence on the development of the common law' (per Brennan J)
+      - Note: 'cautious approach' of Mason CJ and Deane J in Minister for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 272.
     - Informing Presumptions of Statutory Interpretation
-      - i.e. Parliament intends to give effect to Australia’s obligations under International law (including both treaty & Customary International Law)
-        - ‘If the language of the legislation is susceptible of a construction which is consistent with the terms of the international instrument and the obligations which it imposes on Australia, then that construction will prevail’ (Teoh, per Mason CJ and Deane J)
-      - Confirmed in subsequent cases incl Al-Kateb v Godwin (2004) 219 CLR 562, despite McHugh J’s critique
+      - i.e. Parliament intends to give effect to Australia's obligations under International law (including both treaty & Customary International Law)
+        - 'If the language of the legislation is susceptible of a construction which is consistent with the terms of the international instrument and the obligations which it imposes on Australia, then that construction will prevail' (Teoh, per Mason CJ and Deane J)
+      - Confirmed in subsequent cases incl Al-Kateb v Godwin (2004) 219 CLR 562, despite McHugh J's critique
   - Some examples of International law, treaties and interpreting legislation
     - Plaintiff M70/2011 v Minister of Immigration and Citizenship [2011] HCA 32
     - Project Blue Sky Inc v ABC [1988] HCA 28
@@ -706,7 +706,7 @@
         - International law is not as such part of the law of Australia (Chung Chi Cheung v The King (1939) AC 160, and see Polites v The Commonwealth (1945) 70 CLR 60) but a universally recognized principle of international law would be applied by our courts: West Rand Central Gold Mining Go v The King (1905) 2 KB 391
       - Dixon J
         - 'In each case in which the question arises the court must consider whether the particular rule of international law has been received into, and so become a source of English law' (Sir Williarn Holdsworth, Relation of English Law to International Law: Essays in Law and History, p 267
-        - AKA 'source view def’ of international law
+        - AKA 'source view def' of international law
     - Brennan J (Mabo)
       - The common law does not necessarily conform with international law, but international law is a legitimate and important influence on the development of the common law, especially when international law declares the existence of universal human rights
       - Current position 
@@ -749,7 +749,7 @@
       - Teoh, a Malaysian citizen, came to Australia where he married. Children were born in the course of the marriage. Following conviction for drug-related offences, Teoh was determined to be not eligible for a grant of resident status and became subject to possible deportation under the Migration Act 1958 (Cth)
       - The Court held by a 4 to 1 majority that the best interests of the children should have been taken into account by the decision-maker and that a legitimate expectation existed that the terms of the Convention should have been considered.
       - In 2003 the High Court in Re Minister for Immigration and Multicultural affairs; Exparte Lam had an opponunity to review some aspects of its decision in Teoh. 
-        - While not directly overruling Teoh, some members of the Court were critical of the doctrine of 'legitimate expectation’
+        - While not directly overruling Teoh, some members of the Court were critical of the doctrine of 'legitimate expectation'
         - Rejected the doctrine of 'legitimate expectation' 
     - PLAINTIFF M70/2011 V MINISTER FOR IMMIGRATION AND CITIZENSHIP; PLAINTIFF M106/2011 V MINISTER FOR IMMIGRATION AND CITIZENSHIP [2011] HCA 32;
       - Australia's power to remove non-citizens from its territory is confined by the practical necessity to find a state that will receive the person who is to be removed
@@ -770,15 +770,15 @@
 - State Jurisdiction
   - Jurisdiction
     - Prescriptive jurisdiction def - legislative-power to make laws
-    - Enforcement jurisdiction def -State’s power to enforce its laws against anyone who contravenes them. 
+    - Enforcement jurisdiction def -State's power to enforce its laws against anyone who contravenes them. 
       - Includes both executive and judicial powers of enforcement.
   - Civil jurisdiction
     - There are different views as to the law concerning civil jurisdiction. 
-      - On one view, exorbitant assertions of civil jurisdiction could lead to international responsibility....On another view, there is little by way of limitation on a state’s exercise of civil jurisdiction in what are effectively private law matters; different states assert jurisdiction on different grounds, but deference to foreign law through conflicts rules mitigates any exorbitant elements”
-    - For example, Alien Tort Claims Act (28 U.S.C. § 1350) vests original jurisdiction in US Federal District Courts in “all causes where an alien sues for a tort only in violation of the law of nations or of a treaty of the United States.”
+      - On one view, exorbitant assertions of civil jurisdiction could lead to international responsibility....On another view, there is little by way of limitation on a state's exercise of civil jurisdiction in what are effectively private law matters; different states assert jurisdiction on different grounds, but deference to foreign law through conflicts rules mitigates any exorbitant elements"
+    - For example, Alien Tort Claims Act (28 U.S.C. § 1350) vests original jurisdiction in US Federal District Courts in "all causes where an alien sues for a tort only in violation of the law of nations or of a treaty of the United States."
       - Effectively provides for an action in tort arising from a violation of international law, (eg human rights, environmental law) no matter where the harm occurred, or who inflicted the harm, as long as the plaintiff serves the summons/statement of claim in U.S. territory.
     - Arguably these matters best left to Private International Law to resolve.
-      - “Private international law is the body of principles, rules, and at time, policies and approaches that indicate how a foreign element in a legal problem or dispute should be dealt with” 
+      - "Private international law is the body of principles, rules, and at time, policies and approaches that indicate how a foreign element in a legal problem or dispute should be dealt with" 
     - Mortensen, Garnett and Keyes, Private International Law in Australia (2015), p 3
   - Criminal jurisdiction
     - A state can exercise jurisdiction on the basis of 5 possible principles:
@@ -789,27 +789,27 @@
       - Universality Principle
   - Territorial Principle
     - Island of Palmas Case (Netherlands v US) (1928) 2 R.I.A.A. 829
-      - “Sovereignty in the relations between States signifies independence. Independence in regard to a portion of the globe is the right to exercise therein, to the exclusion of any other State, the functions of a State.”
+      - "Sovereignty in the relations between States signifies independence. Independence in regard to a portion of the globe is the right to exercise therein, to the exclusion of any other State, the functions of a State."
     - Based on notion of undoubted right of a State to legislate with regard to its territory or matter within its territory.
     - Right is absolute – a reflection of sovereignty
     - Territory not only includes land mass, seas and airspace, but also shipping and aircraft registered in that State.
-    - Simple issue when action takes place completely within the State’s territory.
+    - Simple issue when action takes place completely within the State's territory.
     - The Lotus case (France v Turkey) (1927) P.C.I.J. Reports, Series A. No.10
-      - “The first and foremost restriction imposed by international law upon a state is that-failing the exercise of a permissive rule to the contrary-it may not exercise its power in any form in the territory of another State. In this sense jurisdiction is certainly territorial; it cannot be exercised by a State outside its territory except by virtue of a permissive rule derived from international custom or a convention”
+      - "The first and foremost restriction imposed by international law upon a state is that-failing the exercise of a permissive rule to the contrary-it may not exercise its power in any form in the territory of another State. In this sense jurisdiction is certainly territorial; it cannot be exercised by a State outside its territory except by virtue of a permissive rule derived from international custom or a convention"
   - Nationality Principle
-    - “No one disputes the right of a State to subject its citizens abroad to the operations of its own penal laws, if it sees fit to do so” per  Judge Moore
+    - "No one disputes the right of a State to subject its citizens abroad to the operations of its own penal laws, if it sees fit to do so" per  Judge Moore
     - The Lotus case (France v Turkey) (1927) P.C.I.J. Reports, Series A. No.10
-      - Based on State’s right to make and enforce laws with respect to conduct by, or affecting, its nationals.
-      - Concept adopted by many States is that if you enjoy the advantage and protection of citizenship, you should also be bound by that State’s laws.
+      - Based on State's right to make and enforce laws with respect to conduct by, or affecting, its nationals.
+      - Concept adopted by many States is that if you enjoy the advantage and protection of citizenship, you should also be bound by that State's laws.
       - For example Criminal Code Act 1995 (Cth), Schedule-Division 119 Foreign Incursions and Recruitment-s 119.1 Incursions into foreign countries with the intention of engaging in hostile activities
     - Nottebohm Case (Liechtenstein v Guatemala) ICJ Reports 1955, p4.
       - How do we determine nationality in international law?
-        - “real and effective nationality” 
-        - ”nationality is a legal bond having as its basis a social fact of attachment, a genuine connection of existence, interests and sentiments, together with the existence of reciprocal rights and duties. It may be said to constitute the juridical expression of the fact that the individual upon whom it is conferred, either directly by the law of as the result of an act of authorities, is in fact more closely connected with the population of the State conferring nationality than with that of any other State.”
+        - "real and effective nationality" 
+        - "nationality is a legal bond having as its basis a social fact of attachment, a genuine connection of existence, interests and sentiments, together with the existence of reciprocal rights and duties. It may be said to constitute the juridical expression of the fact that the individual upon whom it is conferred, either directly by the law of as the result of an act of authorities, is in fact more closely connected with the population of the State conferring nationality than with that of any other State."
   - Nationality Principle
-    - We do not apply the Nottebohm case test of “real and effective nationality” for corporate entities. 
+    - We do not apply the Nottebohm case test of "real and effective nationality" for corporate entities. 
       - The test for corporate entities is different.
-    - ”The traditional rule attributes the right of diplomatic protection of a corporate entity to the State under the laws of which it is incorporated and in whose territory it has its registered office.”
+    - "The traditional rule attributes the right of diplomatic protection of a corporate entity to the State under the laws of which it is incorporated and in whose territory it has its registered office."
     - Barcelona Traction, Light and Power case (Belgium v Spain) ICJ Reports 1970 p 3
   - Passive Personality Principle
     - US v Yunis (No 2) (1988) 82 I.L.R. 344
@@ -820,10 +820,10 @@
       - But different because the Passive Personality Principle only needs a National of the State claiming jurisdiction to be harmed-not the State itself
       - Controversial-but accepted by some states such as the USA
   - Protective Principle
-    - The ‘protection’ of ‘vital’ national interests which may have been injured by the action – security, national integrity and political independence.
-    - Looks at State’s exercise of its jurisdiction to ‘punish’ actions committed overseas which constitute a threat to the interests of that State.
+    - The 'protection' of 'vital' national interests which may have been injured by the action – security, national integrity and political independence.
+    - Looks at State's exercise of its jurisdiction to 'punish' actions committed overseas which constitute a threat to the interests of that State.
     - Used to justify prosecution of terrorists and those who plan / train terrorism / terrorists abroad.  
-    - Widely used in espionage /spying type cases – popularity of approach increases after the 1960’s.
+    - Widely used in espionage /spying type cases – popularity of approach increases after the 1960's.
     - Joyce v DPP [1946] AC 347
       - Joyce (aka Lord Haw Haw) was an American national who helped broadcast German propaganda into Britain, during WWII.
       - Joyce fraudulently obtained a British passport some years earlier.
@@ -833,8 +833,8 @@
       - Held that because he held a British passport he owed an allegiance to the Crown and that his actions where against the interests of Britain (applying the  Protective Principle).
       - Hanged 3 January 1946.
   - Universality Principle
-    - Accepts that there are certain actions that ‘transcend’ the jurisdiction of any single State.
-    - Looks at ‘international crimes’ that are recognised as affecting the entire world order.
+    - Accepts that there are certain actions that 'transcend' the jurisdiction of any single State.
+    - Looks at 'international crimes' that are recognised as affecting the entire world order.
     - There is no nexus between the State exercising jurisdiction and the action itself i.e.
       - Not committed in territory
       - Not committed against State
@@ -842,7 +842,7 @@
     - Nature of the action / crime is the important factor which triggers the jurisdiction.
     - Aimed at jus cogens type offences such as piracy, slavery, genocide, torture, war crimes and crimes against humanity
     - Attorney-General of the Government of Israel v Adolf Eichmann  (1961) 36 I.L.R.5. District Court of Jerusalem
-      - Nazi Officer responsible for Germany’s ‘Final Solution’- programme of Genocide.
+      - Nazi Officer responsible for Germany's 'Final Solution'- programme of Genocide.
       - Escaped to Argentina after WWII. 
       - In 1960 was discovered and kidnapped by Mossad and taken to Israel where he was placed on trial.  
       - Hanged in May 1962.
@@ -851,24 +851,24 @@
         - Actions not taken against Israeli nationals.
         - Actions did not take place in Israeli territory.
         - Legal basis for prosecution was retroactive.
-      - Main Israeli argument was that crimes fell within Universal Jurisdiction but court also accepted the protective principle founded jurisdiction on the basis of the “linking point doctrine”
+      - Main Israeli argument was that crimes fell within Universal Jurisdiction but court also accepted the protective principle founded jurisdiction on the basis of the "linking point doctrine"
     - R v Bow Street Metropolitan Magistrate Ex P Pincohet [2000] 1 A.C. 147
       - Spain demanded that former President of Chile (General Pinochet) be extradited for the torture of Spanish citizens in Chile.  Pinochet was in Britain at the time for medical treatment.
       - Spain argued, inter alia, that under the Universality Principle they had jurisdiction to try Pinochet.  
       - House of Lords held that the international arrest warrant issued by Spain was valid 
-      - But only in relation to offences that occurred after U.K. had enacted s134 Criminal Justice Act 1988 - creating an offence of torture  “wherever committed worldwide” under U.K. law).  
+      - But only in relation to offences that occurred after U.K. had enacted s134 Criminal Justice Act 1988 - creating an offence of torture  "wherever committed worldwide" under U.K. law).  
       - This was because of requirements of double criminality for extradition
       - House of Lords also ruled that Pinochet had no right to immunity from prosecution as a former Head of State, and could be put on trial (we will look at this aspect in more detail next week).
     - R v Bow Magistrates Ex P Pinochet [2000] 1 A.C. 147 per Lord Browne-Wilkinson
-      - “The jus cogens nature of the international crime of torture justifies States in taking universal jurisdiction over torture wherever committed. International law provides that offences of jus cogens may be punished by any state because the offenders are “common enemies of all mankind and all nations have an equal interest in their apprehension and prosecution”
-    - Democratic Republic of the Congo v Belgium (‘The Arrest Warrant Case’) ICJ Rep 2002, p3
-      - Belgium issued an international arrest warrant against Congo’s Foreign Minister Ndombasi for crimes considered to be grave breaches of International Humanitarian Law (Geneva Conventions & Protocols)
+      - "The jus cogens nature of the international crime of torture justifies States in taking universal jurisdiction over torture wherever committed. International law provides that offences of jus cogens may be punished by any state because the offenders are "common enemies of all mankind and all nations have an equal interest in their apprehension and prosecution"
+    - Democratic Republic of the Congo v Belgium ('The Arrest Warrant Case') ICJ Rep 2002, p3
+      - Belgium issued an international arrest warrant against Congo's Foreign Minister Ndombasi for crimes considered to be grave breaches of International Humanitarian Law (Geneva Conventions & Protocols)
       - Belgium claimed that it could exercise Universal Jurisdiction.  
       - Congo argued that it was a violation of the principle that a State cannot exercise authority on the territory of another State and that it was also a violation of the principle of sovereign equality between States.
     - Per Joint separate opinion of Judges Higgins, Hooijmans and Buergenthal
       - Court upheld immunity from jurisdiction and we will look at that aspect of the case next week
       -  But in the course of the judgments comments were made by judges on the issue of Universal Jurisdiction
-        - “That there is no established practice in which States exercise universal jurisdiction, properly so called, is undeniable. 
+        - "That there is no established practice in which States exercise universal jurisdiction, properly so called, is undeniable. 
         - As we have seen, virtually all national legislation envisages links of some sort to the forum State; and no case law exists in which pure universal jurisdiction has formed the basis of jurisdiction. 
         - This does not necessarily indicate, however, that such an exercise would be unlawful…. State practice is neutral as to the exercise of universal jurisdiction". 
   - Associated Concepts
@@ -901,10 +901,10 @@
       - States may claim jurisdiction over acts committed abroad that harm their nationals.
       -  US v Yunis (No.2)
   - Five heads of jurisdiction recognized by international law
-    - Territorial Jurisdiction: Authority over acts committed within a state’s own territory.
-    - Nationality (or Active Personality) Jurisdiction: Authority over a state’s nationals, regardless of where they are located.
+    - Territorial Jurisdiction: Authority over acts committed within a state's own territory.
+    - Nationality (or Active Personality) Jurisdiction: Authority over a state's nationals, regardless of where they are located.
     - Passive Personality Jurisdiction: Authority over acts committed abroad that harm the state's nationals.
-    - Protective Jurisdiction: Authority over acts outside a state’s territory that threaten its security or governmental functions.
+    - Protective Jurisdiction: Authority over acts outside a state's territory that threaten its security or governmental functions.
     - Universal Jurisdiction: Authority over certain serious crimes (e.g., genocide, war crimes) that are recognized as affecting the international community as a whole, regardless of where they occur.
 ## Week 5: Immunity from Jurisdiction
 
@@ -921,7 +921,7 @@
     - Claimed it was in fact an American schooner called The Exchange.
     - Issue: Did the court have jurisdiction to consider whether the vessel should be seized and returned to party who claimed they were rightful owner?
       - Court held lacked jurisdiction because French navy vessel enjoyed immunity
-    - “.. Perfect equality and absolute independence of sovereigns… have given rise to a class of cases in which every sovereign is understood to waive the exercise of a part of that complete exclusive territorial jurisdiction which has been stated to be the attribute of every nation…a public armed ship…constitutes a part of the military force of her nation; acts under the immediate and direct command of the sovereign; is employed by him [sic] in national objects…interference cannot take place without affecting his power and his dignity. The implied licence, therefore, under which such vessel enters the friendly port, may reasonably be construed….as containing an exemption from the jurisdiction of the sovereign within whose territory she claims the right of hospitality..” Per Marshall CJ
+    - ".. Perfect equality and absolute independence of sovereigns… have given rise to a class of cases in which every sovereign is understood to waive the exercise of a part of that complete exclusive territorial jurisdiction which has been stated to be the attribute of every nation…a public armed ship…constitutes a part of the military force of her nation; acts under the immediate and direct command of the sovereign; is employed by him [sic] in national objects…interference cannot take place without affecting his power and his dignity. The implied licence, therefore, under which such vessel enters the friendly port, may reasonably be construed….as containing an exemption from the jurisdiction of the sovereign within whose territory she claims the right of hospitality.." Per Marshall CJ
   - State Immunity- Restrictive immunity
     - I Congreso Del Partido [1983] 1 A.C. 244
       - Cubazucar (a cuban state owned enterprise) contracted to sell two ship loads of sugar to a Chilean company shipped on two vessels (Playa Larga and the Marble Islands) owned by another Cuban state enterprise Mambisa.
@@ -929,21 +929,21 @@
       - The Marble Islands was diverted to North Vietnam
       - Chilean purchasers of the cuban sugar then had a third Cuban vessel the I Congresso arrested in the UK claiming damages for breach of contract and in Tort
       - The Cuban government entered a defence of state immunity and argued that the I Congresso could not be seized.
-    - “… I have no doubt that the “restrictive” doctrine should be applied to the present case…[T]he limitation… under the so called “restrictive theory”, arises from the willingness of states to enter into commercial, or other private law, transaction with individuals. It appears to have two main foundations: 
+    - "… I have no doubt that the "restrictive" doctrine should be applied to the present case…[T]he limitation… under the so called "restrictive theory", arises from the willingness of states to enter into commercial, or other private law, transaction with individuals. It appears to have two main foundations: 
       - (a) It is necessary in the interest of justice to individuals having such transaction with states to allow them to bring such transactions before the courts. 
-      - (b) To require a state to answer a claim based upon such transactions does not involve a challenge to or inquiry into any of sovereignty or government act of that state….neither a threat to the dignity of the state, nor any interference with its sovereign functions……commercial transaction…a commercial or private law, character…” 
+      - (b) To require a state to answer a claim based upon such transactions does not involve a challenge to or inquiry into any of sovereignty or government act of that state….neither a threat to the dignity of the state, nor any interference with its sovereign functions……commercial transaction…a commercial or private law, character…" 
       - Per Lord Wilberforce
-    - “… Clearly a breach of a contract of that character was within the area of private law…simply (i) whether it could be said that the relevant contract was concluded for governmental purposes, and (ii) whether it was relevant that governmental motives were advanced for breaching the contract… 
-      - Under the “restrictive” theory the court has first to characterise the activity into which the defendant state has entered. 
+    - "… Clearly a breach of a contract of that character was within the area of private law…simply (i) whether it could be said that the relevant contract was concluded for governmental purposes, and (ii) whether it was relevant that governmental motives were advanced for breaching the contract… 
+      - Under the "restrictive" theory the court has first to characterise the activity into which the defendant state has entered. 
       - Having done this, and (assumedly) found it to be of a commercial or private law, character, it may take the view that contractual breaches, or torts, prima facie fall within the same sphere of activity. 
-      - It should then be for the defendant state to make a case…that the act complained of is outside that sphere, and within that of sovereign action” Per Lord Wilberforce
+      - It should then be for the defendant state to make a case…that the act complained of is outside that sphere, and within that of sovereign action" Per Lord Wilberforce
   - Trendex Trading Corp v Central Bank of Nigeria [1977] Q.B. 529
-    - “…The doctrine grants immunity to a foreign government or its department of state or any body which can be regarded as an “alter ego or organ” of the government…. I confess that I can think of no satisfactory test except that of looking to the functions and control of the organisation. I do not think that it should depend on the foreign law alone. I would look to all the evidence to see whether the organisation was under government control and exercised governmental functions” per Denning M.R.
+    - "…The doctrine grants immunity to a foreign government or its department of state or any body which can be regarded as an "alter ego or organ" of the government…. I confess that I can think of no satisfactory test except that of looking to the functions and control of the organisation. I do not think that it should depend on the foreign law alone. I would look to all the evidence to see whether the organisation was under government control and exercised governmental functions" per Denning M.R.
   - State Immunity 
     - Jurisdictional Immunities of the State (Germany v. Italy, with Greece intervening) ICJ Rep 2012, p.99
-      - “under customary international law as it presently stands, a State is not deprived of immunity by reason of the fact that it is accused of serious violations of international human rights law or the international law of armed conflict…
+      - "under customary international law as it presently stands, a State is not deprived of immunity by reason of the fact that it is accused of serious violations of international human rights law or the international law of armed conflict…
       - The rules of State immunity are procedural in character and are confined to determining whether or not the courts of one State may exercise jurisdiction in respect of another State. 
-        - They do not bear upon the question whether or not the conduct in respect of which the proceedings are brought was lawful or unlawful.” [at para 91 & 94].
+        - They do not bear upon the question whether or not the conduct in respect of which the proceedings are brought was lawful or unlawful." [at para 91 & 94].
   - State Immunity- Foreign State Immunities Act 1985 (Cth) 
     - The general rule now is that activities must fall within the doctrine of governmental action (acta jure imperii def) and not be of a commercial nature (acta jure gestionis def) to attract immunity
     - This approach to State Immunity is reflected in Australian Domestic Law by the Foreign State Immunities Act 1985 (Cth)
@@ -971,8 +971,8 @@
     - Section 20-Taxes
     - United Nations Convention on Jurisdictional Immunities of States and the property (2004) (not yet in force)
   - Heads of State, heads of government and foreign ministers
-    - Immunity ratione personae def = “a wide personal immunity extending to the totality of the person’s act, whether official or private”
-    - Immunity ratione materiae def = “applies not to the officials and representatives of a State but to the acts performed in their official or representative capacity ”
+    - Immunity ratione personae def = "a wide personal immunity extending to the totality of the person's act, whether official or private"
+    - Immunity ratione materiae def = "applies not to the officials and representatives of a State but to the acts performed in their official or representative capacity "
     - Immunity of Head of State/ former Head of State
       - R v Bow Street Metropolitan Magistrate Ex P Pinochet [2000] 1 A.C. 147
         - In summary court held a former head of state has limited functional immunity (ratione materiae)- torture is not a state function therefore no immunity
@@ -987,25 +987,25 @@
       - Criminal liability different to civil liability
       - States still enjoy immunity from civil liability arising from torture
       - But note there were strong dissenting opinions from other judges
-      - “WHAT A PITY” Judge Ferrari Bravo
+      - "WHAT A PITY" Judge Ferrari Bravo
     - In the Case of The Prosecutor v Omar Hassan Ahmad Al-Bashir (International Criminal Court-2019)
       - Jordan failed to act on arrest warrant
       - No Head of State Immunity under the Rome Statute creating the International Criminal Court
       - Jordan had a duty to arrest and deliver him to the court
   - Immunity of Foreign Minister
     - Democratic Republic of Congo v Belgium (The Arrest Warrant Case) I.C.J. Rep 2002, p3
-      - Belgium issued international arrest warrant against Congo’s Foreign Minister Ndombasi for crimes considered to be grave breaches of International Humanitarian Law (Geneva Conventions & Protocols)
+      - Belgium issued international arrest warrant against Congo's Foreign Minister Ndombasi for crimes considered to be grave breaches of International Humanitarian Law (Geneva Conventions & Protocols)
       - Belgium claimed that it could exercise Universal Jurisdiction. 
       - Congo argued that it was a violation of principle that a State cannot exercise authority on territory of another State and that it was also a violation of the principle of sovereign equality between States.
     - LAST WEEK WE LOOKED AT THIS CASE IN TERMS OF UNIVERSAL JURISDICTION BUT IT IS ALSO IMPORTANT ON QUESTION OF IMMUNITIES
   - Diplomatic and consular immunity
     - Diplomats are immune from all administrative, civil, criminal jurisdiction of the receiving State, to which they are accredited. 
     - Generally, a Diplomats family will also enjoy the same immunities (provided they are not a citizen of the host State)
-    - Diplomats are unable to do their jobs/role without fear or favour. Concept is based on so-called ‘functional necessity’ theory.
-    - The criteria for diplomatic status are set out in the Vienna Convention on Diplomatic Relations 1961 (‘Vienna Convention’). 
+    - Diplomats are unable to do their jobs/role without fear or favour. Concept is based on so-called 'functional necessity' theory.
+    - The criteria for diplomatic status are set out in the Vienna Convention on Diplomatic Relations 1961 ('Vienna Convention'). 
     - The Vienna Convention has been made part of Australian domestic law pursuant to the Diplomatic Privileges and Immunities Act 1967 (Cth)
   - Diplomatic & Consular Immunity
-    - “diplomatic agent” (Art 1)
+    - "diplomatic agent" (Art 1)
     - Under the Vienna Convention, diplomats are considered inviolable and not subject to arrest or detention (art 29). 
     - They are absolutely immune from criminal prosecution (art 31) and are immune from civil suite except in relation private activities outside their official functions (art 31).
     - Important to note that the Immunity belongs to the State not the diplomat → immunity can be waved by the sending State
@@ -1013,10 +1013,10 @@
     - Under the Vienna Convention, the Diplomatic Mission and its premises are considered to inviolable (art 22).
     - The agents of the receiving State may not enter them, except with the consent of the head of mission.
     - Mistaken belief is that this inviolability is because Diplomatic Mission premises is considered to be the sovereign territory of that particular State.
-    - Correct interpretation is based on ‘functional necessity’ theory = to be able to fulfil its function, a Diplomatic Mission must be free from all interference from other States. Honoured through notions of reciprocity and Sovereign State equality.
+    - Correct interpretation is based on 'functional necessity' theory = to be able to fulfil its function, a Diplomatic Mission must be free from all interference from other States. Honoured through notions of reciprocity and Sovereign State equality.
       - Under the Vienna Convention art 27, the host State will permit and protect all free communications on behalf of the Mission – provided that it is for an official purpose. 
     - Diplomatic bags are not to be opened or detained
-      - Host states can declare any member of the the diplomatic staff of the mission “persona non grata” (Art 9)
+      - Host states can declare any member of the the diplomatic staff of the mission "persona non grata" (Art 9)
   - U.S. Diplomatic and Consular Staff in Tehran Case (US v Iran) (1980) ICJ p 3
     - 
   - Armed Activities Case (Democratic Republic of Congo v Uganda) I.C.J. Rep 2005 p 168

@@ -147,7 +147,7 @@ INSERT INTO Chat_Member VALUES ('0492310845', 7);  -- Leah
 
 --=================================================================================================
 -- Select * from TableName Statements
--- Note: Please write the “select * from TableName” statements in one line.
+-- Note: Please write the "select * from TableName" statements in one line.
 
 -- 2.b.1: Question: Get all the information of all users stored in the database.
 -- 2.b.1: SELECT statement: 
@@ -412,8 +412,8 @@ ORDER BY m.MaterialName;
   - IS NULL: Check for NULL.
     - SELECT column1 FROM table_name WHERE column IS NULL;
   - LIKE: Pattern matching.(strings using wildcards.)
-    - SELECT column1 FROM table_name WHERE productdescription Like ‘%Table’; - substring def
-    - the % wildcard in ‘%Table’  indicates that all strings that have any number of characters preceding the word “Table” will be allowed
+    - SELECT column1 FROM table_name WHERE productdescription Like '%Table'; - substring def
+    - the % wildcard in '%Table'  indicates that all strings that have any number of characters preceding the word "Table" will be allowed
     - '%i' for ending in i
     - 'i%' for beginning in i
   - ORDER BY: Sort results.
@@ -499,8 +499,8 @@ ORDER BY m.MaterialName;
     - Overlap Rule: An instance of the supertype could be a member of more than one of the subtypes.
     - 
   - Delete types
-    - Restrict: don’t allow delete of  “parent” side if related rows exist in “dependent” side
-    - Cascade: automatically delete “dependent” side rows that correspond with the “parent” side row to be deleted.
+    - Restrict: don't allow delete of  "parent" side if related rows exist in "dependent" side
+    - Cascade: automatically delete "dependent" side rows that correspond with the "parent" side row to be deleted.
     - Set-to-Null: set the foreign key in the dependent side to null if deleting from the parent side.
       - Set-to-Null is not allowed for weak and associated entities (where FK are part of the key).
       - 🡪Set-to-Null is not allowed when is related to a mandatory cardinality.
