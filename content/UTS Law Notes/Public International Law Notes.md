@@ -1,6 +1,6 @@
 #tag-notes #tag-tutorial
 
-# Cheat Sheet
+## Cheat Sheet
 
 - Hierarchy of Sources and Jus Cogens
 ### 
@@ -87,6 +87,97 @@
   - Passive Personality Jurisdiction: Authority over acts committed abroad that harm the state's nationals.
   - Protective Jurisdiction: Authority over acts outside a state's territory that threaten its security or governmental functions.
   - Universal Jurisdiction: Authority over certain serious crimes (e.g., genocide, war crimes) that are recognized as affecting the international community as a whole, regardless of where they occur.
+- Vienna Convention on the Law of Treaties 1969 (VCLT)
+  - VCLT is considered the 'Treaty on Treaties' and as such, provides the principles of law relating to the drafting, application and interpretation of other treaties.
+  - It is largely recognised as the pre-eminent statement on the law of treaties, even by those States who are not parties to the Convention. 
+  - Codification of Customary International Law
+- basic elements of a treaty?
+- Elements of treaty making
+  - Proposal for a treaty
+  - Capacity to conclude treaties
+  - Adoption of the text
+  - Authentication of the text
+  - Consent to be bound
+- 
+- Head of State and Government Officials:
+  - Absolute Immunity: Heads of state, heads of government, and foreign ministers typically enjoy absolute immunity from the jurisdiction of foreign courts while they are in office. This immunity covers all acts, both official and private, and is not subject to exceptions, even for alleged violations of international law.
+  - International Customary Law: This immunity is recognized under customary international law and is grounded in the need to protect the sovereignty and effective governance of states.
+- Acts Performed in an Official Capacity:
+  - Functional Immunity (Immunity Ratione Materiae): After leaving office, former officials (including foreign ministers) retain immunity for acts performed in their official capacity. This type of immunity, known as "functional immunity," protects them from legal actions related to their official acts while in office, as these acts are considered acts of the state itself.
+  - Personal Immunity (Immunity Ratione Personae): While in office, these officials also enjoy "personal immunity," which is broader and covers all acts, official or personal. This immunity ceases when they leave office, except for the continued protection of official acts under functional immunity.
+- State Immunity
+  - Concept of Immunity is underpinned by the principles of State Sovereignty, reciprocity and State equality (par in parem non habet imperium – an equal does not have power over an equal).
+  - Concept of Immunity has developed with time and there has been a move from the traditional Absolute Immunity approach (where the State enjoyed complete immunity from domestic legal action) to a so called Restrictive Immunity approach (where the State only enjoys immunity under certain circumstances).
+- Week 7: Treaty-Making
+  - Treaty Interpretation Methods
+    - Treaty Interpretation – Three Schools of Thought
+      - Textual School – 'Ordinary approach' -  It looks into the 'ordinary' meaning of the text;
+      - Intentionalist School – 'Subjective approach' - attempted to ascertain the intention of the drafters;
+      - Teleological School – 'Teleological approach' - construe a treaty provision in light of the object and purpose of the treaty.
+    - Article 31(1) of the Vienna Convention incorporates elements of all three schools 
+      - Article 31 - General rule of interpretation
+        - 1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.
+        - Pacta Sunt Servanda - in good faith
+  - Third Party Treaties
+    - Art. 34-36 - treaties do not create obligations or rights for third states without their consent.
+    - Free zones of Upper Savoy and the District of Gex case (1932) (France v Switzerland) PCIJ reports, Series A/B, No. 46
+  - Material Breach
+    - VCLT - material breach 60(1) repudiation of the treaty of the violation of a provision that is essential to the object and purpose of the treaty.
+  - Termination, suspension and withdrawal from treaties 
+    - By treaty, consent or incompatible later treaty
+    - Material breach	
+      - Art 60
+    - Supervening impossibility of performance
+      - Art 61
+    - Fundamental change of circumstances
+      - Art 62
+    - New peremptory norm
+      - Art 64
+  - By treaty, consent or incompatible later treaty
+    - Article 54 (termination or withdrawal by consent)
+    - The termination of a treaty or the withdrawal of a party may take place: (a) in conformity with the provisions of the treaty; or (b) at any time by consent of all the parties after consultation with the other contracting States.
+    - Articles 57-58 (suspension by consent)
+    - Articles 59 (termination or suspension implied by later treaty)
+- Week 8: State Responsibility
+  - Elements of State Responsibility
+    - State Responsibility arises in the following circumstances:
+      - 1. Existence of an international legal obligation in force between two or more states, or a legal obligation to the 'international community' (obligations erga omnes) 
+      - Erga omnes norms def / erga omnes norm def
+        - all jus cogens norms are erga omnes, but not all erga omnes norms are jus cogens.
+        - Self determination is an erga omnes, but not jus cogens
+      - 2. Occurrence of an act or omission that:
+        - I. is attributed to that state
+        - Ii. breaches that obligation ('internationally  wrongful act')
+      - 3. The state cannot raise any circumstances or justifications for the internationally wrongful act that would preclude wrongfulness
+      - 4. Another state (the 'invoking' state) is entitled to make a claim (ie question of admissibility)
+  - Law of State Responsibility
+    - Obligation 
+    - Attribution to the state of an Act or Omission
+    - Breach + Injury
+    - Circumstances precluding wrongfulness
+    - Invocation of State Responsibility => Reparations
+- Week 9
+  - Circumstances Precluding Wrongfulness (Chapter V: Articles 20-26)
+    - Article 20: Consent
+    - Article 21: Self-defense under the UN Charter
+    - Article 22: Countermeasures
+    - Article 23: Force Majeure
+    - Article 24: Distress
+    - Article 25: Necessity
+    - Article 27: Consequences of Invoking Circumstances Precluding Wrongfulness
+  - Consequences of an Internationally Wrongful Act (Articles 28-31)
+    - Article 28: Legal Consequences of Internationally Wrongful Acts
+    - Article 29: Continued Duty of Performance (Gabčíkovo-Nagymaros case)
+    - Article 30: Cessation and Non-repetition (Rainbow Warrior case, Arrest Warrant case)
+    - Article 31: Obligation to Make Full Reparation
+    - Article 34: Forms of Reparation (Restitution, Compensation, Satisfaction)
+  - Peremptory Norms (Jus Cogens)
+    - Article 53 VCLT: Definition of Peremptory Norms
+  - Invocation of State Responsibility (Articles 42-48)
+    - Article 42: Invocation by Injured State
+    - Article 46: Plurality of Injured States
+    - Article 47: Plurality of Responsible States
+    - Article 48: Invocation by Non-injured State (Obligations erga omnes)
 ## Week 1: Introduction to International Law
 
 -  International Law
@@ -365,6 +456,7 @@
         - *also a useful refresher on the emergence and elements of custom
       - Law of Self-Determination further reaffirmed in
         - Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territories, Including East Jerusalem
+        - 
     - Self-Determination for whom?
       - Shaw: 'The best approach is to accept the development of self-determination as an additional criteria of statehood, denial of which would obviate statehood'
       - Yet, self-determination for whom?
@@ -1031,3 +1123,844 @@
     - This case was decided on the basis of the common law distinction between acts jure imperii and jure gestionis adopted in the / Congreso case, see para.6-059. 
       - This emphasises the nature or context of the act, not its purpose. This common law distinction is also relevant to the interpretation of the 1978 Act, see para.6-072.
   - UNITED  NATIONS  CONVENTION  ON  JURISDICTIONAL  IMMUNITIES  OF  STATES  AND THEIR  PROPERTY  2004 UN  Doc  A/RES/59/38;  (2005)  44 |.L.M.  801
+## Week 6: Law of Treaties - Part 1
+
+- Law of Treaties - Part 1
+  - The Vienna Convention on the Law of Treaties and Customary International Law
+    - 
+    - 
+  - Treaties on treaties
+    - Vienna Convention on the Law of Treaties 1969 (VCLT)
+      - VCLT is considered the 'Treaty on Treaties' and as such, provides the principles of law relating to the drafting, application and interpretation of other treaties.
+      - It is largely recognised as the pre-eminent statement on the law of treaties, even by those States who are not parties to the Convention. 
+      - Codification of Customary International Law
+      - The VCLT came into force in 1980 and took approx 20 years to draft.
+      - Customary International law governs treaties that fall outside of the VCLT and treaties involving non-state parties to the VCLT (See VCLT Preamble)
+- Definition of a Treaty
+  - What is a treaty?
+    - A Treaty is defined as:
+      - An international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation. 
+    - (See Art. 2 Vienna Convention on the Law of Treaties 1969 – VCLT).
+  - 'Concluded between states'
+    - Article 3 
+      - The fact that the present Convention does not apply to international agreements concluded between States and other subjects of international law or between such other subjects of international law … shall not affect:
+        - (a) the legal force of such agreements; 
+        - (b) the application to them of any of the rules set forth in the present Convention to which they would be subject under international law independently of the Convention; 
+        - (c) the application of the Convention to the relations of States as between themselves under international agreements to which other subjects of international law are also parties.
+  - 'in written form'
+    - Temple of Preah Vihear case (Cambodia v. Thailand) (Merits) ICJ Reports 1962, p.6 at p.31
+      - …[w]here … as is generally the case in international law, which places the principal emphasis on the intention of the parties, the law prescribes no particular form, parties are free to choose what they please provided their intention clearly results from it.
+    - Article 3 - The fact that the present Convention does not apply to … international agreements not in written form, shall not affect…
+      - 'treaty', 'convention' and protocol etc
+      - Exchange of notes?
+      - Written form-minutes of a meeting? Qatar v Bahrain - (1994) ICJ Rep 112
+  - 'governed by international law'
+    - Customary international law – intention of parties to create legal relations is essential requirement of valid treaty
+    - VCLT – ILC indicated that this is reflected in Article 2(1)(a)
+    - Terms of Art. 2 VCLT make it clear that unilateral statements and agreements intended to be governed under municipal law (e.g. contracts, leases etc) are beyond the scope of the VCLT.
+    - Obligation created should be governed by international law.  cf a Memorandum of Understanding (MOU) which does not necessarily contain an intention to create legal obligations under international law.
+- Treaty Making Process
+  - Elements of treaty making
+    - Proposal for a treaty
+    - Capacity to conclude treaties
+    - Adoption of the text
+    - Authentication of the text
+    - Consent to be bound
+  - 
+  - Proposal for a treaty
+    - A range of different origins
+    - From a specific State or a group of like-minded states
+    - Resolution of International organisation establishing a process for negotiations eg UN General Assembly Convening a PrepCom and Diplomatic Conference
+  - Capacity to conclude treaties
+    - Article 6
+      - Every State possesses capacity to conclude treaties.
+    - Who represents the State in negotiations?
+    - Article 7
+      - 1. A person is considered as representing a State for the purpose …for the purpose of expressing the consent of the State to be bound by a treaty if:
+        - (a) …produces appropriate full powers; or (b) it appears from the practice of the States concerned …that their intention ….
+      - 2. In virtue of their functions and without having to produce full powers, the following are considered as representing their State:
+        - (a) Heads of State, Heads of Government and Ministers for Foreign Affairs…; 
+        - (b) heads of diplomatic missions…; 
+        - (c) representatives accredited by States to an international conference or to an international organization
+  - Adoption of the text
+    - Article 9
+      - 1. The adoption of the text of a treaty takes place by the consent of all the States participating in its drawing up except as provided in paragraph 2.
+      - 2. The adoption of the text of a treaty at an international conference takes place by the vote of two-thirds of the States present and voting, unless by the same majority they shall decide to apply a different rule.
+  - Authentication of the text
+    - Article 10
+      - The text of a treaty is established as authentic and definitive:
+        - (a) by such procedure as may be provided for in the text or agreed upon by the States participating in its drawing up; or 
+        - (b) failing such procedure, by the signature, signature ad referendum or initialling by the representatives of those States of the text of the treaty or of the Final Act of a conference incorporating the text.
+  - Consent to be bound 
+    - A State may become a party to a treaty through more than one path.
+    - For example, they may sign the treaty during the period in which the treaty is open for signature and then ratify the treaty.
+    - Or they may also become a party by acceding to or by accepting the treaty at a later date.
+    - Article 11 - The consent of a State to be bound by a treaty may be expressed by signature, exchange of instruments constituting a treaty, ratification, acceptance, approval or accession, or by any other means if so agreed.
+    - Generally, a treaty will set out how States may express their consent to be bound by the terms of the treaty.  Methods may include:
+      - Signature - Art 12 VCLT
+      - Exchange of Instruments - Art 13 VCLT
+      - Ratification, acceptance or approval - Art 14 VCLT
+      - Accession - Art 15
+    - In Australia (and many other countries) the normal process is to sign the treaty to show the acceptance of text of the treaty. The treaty then needs to come back to government to decide whether to accept or reject the treaty.
+    - If accepted by the government, domestic legislation will be enacted and the treaty will be expressed in municipal law.  This domestic act of 'ratification' is required before the Australian government will take any binding action.
+    - When a State becomes a signatory to a treaty, it declares its intention to make the terms of the treaty legally binding on itself, but generally the act of 'signing' itself does not make that act binding – depends on state practices and also entry into force requirements.
+      - 
+    - 
+  - Ratifying, accepting, approving or acceding to a multilateral treaty
+    - 
+  - Entry into force 
+    - Obligation prior to entry into force
+    - Pacta sunt servanda
+    - Relation with internal law
+    - Non-retroactivity
+    - Territorial application
+    - Successive treaties on same subject (or inconsistent treaties)
+    - Article 24
+      - 1. A treaty enters into force in such manner and upon such date as it may provide or as the negotiating States may agree.
+      - 2. Failing any such provision or agreement, a treaty enters into force as soon as consent to be bound by the treaty has been established for all the negotiating States.
+      - 3. When the consent of a State to be bound by a treaty is established on a date after the treaty has come into force, the treaty enters into force for that State on that date, unless the treaty otherwise provides.
+      - 4. The provisions of a treaty regulating the authentication of its text, the establishment of the consent of States to be bound by the treaty, the manner or date of its entry into force, reservations, the functions of the depositary and other matters arising necessarily before the entry into force of the treaty apply from the time of the adoption of its text.
+  - Pacta sunt servanda 
+    - When a State ratifies a treaty, it makes the terms of the treaty legally binding, once the treaty's requirements for entry into force are met.
+    - There is a general principle that says once a State has signed a treaty, it is obliged to refrain from acts which would defeat the object and purpose of the treaty until it shall have made its intention clear not to become a party to the treaty.  (VCLT Art. 18)
+    - This follows the maxim pacta sunt servanda (the agreement must be observed / honoured)
+    - Article 26- Every treaty in force is binding upon the  parties to it and must be performed by them in good faith.
+  - Relation with internal law
+    - Article 27
+      - A party may not invoke the provisions of its internal law as justification for its failure to perform a treaty. This rule is without prejudice to article 46.
+    - Article 46
+      - 1. A State may not invoke the fact that its consent to be bound by a treaty has been expressed in violation of a provision of its internal law regarding competence to conclude treaties as invalidating its consent unless that violation was manifest and concerned a rule of its internal law of fundamental importance.
+      - 2. A violation is manifest if it would be objectively evident to any State conducting itself in the matter in accordance with normal practice and in good faith.
+  - Non-retroactivity
+    - Article 28
+      - Unless a different intention appears from the treaty or is otherwise established, its provisions do not bind a party in relation to any act or fact which took place or any situation which ceased to exist before the date of the entry into force of the treaty with respect to that party.
+  - Territorial application
+    - Article 29
+      - Unless a different intention appears from the treaty or is otherwise established, a treaty is binding upon each party in respect of its entire territory.
+  - Successive treaties on same subject
+    - Article 30
+      - 1. Subject to Article 103 of UN Charter…
+      - 2. When a treaty specifies that it is subject to, or that it is not to be considered as incompatible with, an earlier or later treaty, the provisions of that other treaty prevail.
+      - 3. When all the parties to the earlier treaty are parties also to the later treaty but the earlier treaty is not terminated or suspended in operation under article 59, the earlier treaty applies only to the extent that its provisions are compatible with those of the latter treaty.
+      - 4. When the parties to the later treaty do not include all the parties to the earlier one:
+        - (a) as between States parties to both treaties the same rule applies as in paragraph 3; (b) as between a State party to both treaties and a State party to only one of the treaties, the treaty to which both States are parties governs their mutual rights and obligations.
+      - 5. Paragraph 4 is without prejudice to article 41, or to any question of the termination or suspension of the operation of a treaty under article 60 ….
+  - Depository
+    - Article 82
+      - Ratification
+      - The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+  - Reservations 
+    - Definition and function
+    - Customary International Law and the VCLT
+    - Incompatibility with the object and purpose
+    - Withdrawal of reservations and objections
+    - Acceptance and objection
+    - Effects of reservations
+    - Withdrawal of reservations and objections
+  - Definition and function
+    - Article 2(1)(d) 
+      - 'Reservation' means a unilateral statement, however phrased or named, made by a State, when signing, ratifying, accepting, approving or acceding to a treaty, whereby it purports to exclude or to modify the legal effect of certain provisions of the treaty in their application to that State"
+  - Incompatibility with the object and purpose
+    - 
+  - Reservations
+    - Reservations to the Genocide Convention (Advisory Opinion), ICJ reports 1951, p.51 at pp.19-30
+      - A state which has made and maintained a reservation which has been objected to by one or more parties to the Convention, but not by others, can be regarded as being a party to the Convention if the reservation is compatible with the object and purpose of the Convention.
+    - And
+      - If a party to the Convention objects to a reservation which it considers incompatible with the object and purpose of the Convention, it can … consider that the reserving state is not a party to the Convention.
+    - DRC v Rwanda (Armed Activities (New Application 2002) I.C.J. Rep 206, p 6 
+      - Distinction between jus cogens norms and consent to jurisdiction-paras 64-66
+    - Reservation or interpretative declaration - Belilos v Switzerland 10 E.H.R.R 466 - Court looks to substance not what it is called
+  - Acceptance of and objection to reservation 
+    - Article 20 (4)
+      - …unless the treaty otherwise provides:
+        - (a) acceptance by another contracting State of a reservation constitutes the reserving State a party to the treaty in relation to that other State if or when the treaty is in force for those States; 
+        - (b) an objection by another contracting State to a reservation does not preclude the entry into force of the treaty as between the objecting and reserving States unless a contrary intention is definitely expressed by the objecting State; 
+        - (c) an act expressing a State's consent to be bound by the treaty and containing a reservation is effective as soon as at least one other contracting State has accepted the reservation.
+      - 5. For the purposes of paragraphs 2 and 4 and unless the treaty otherwise provides, a reservation is considered to have been accepted by a State if it shall have raised no objection to the reservation by the end of a period of twelve months after it was notified of the reservation or by the date on which it expressed its consent to be bound by the treaty, whichever is later.
+  - Effects of reservations
+    - Article 21
+      - 1. A reservation established with regard to another party in accordance with articles 19, 20 and 23:
+        - (a) modifies for the reserving State in its relations with that other party the provisions of the treaty to which the reservation relates to the extent of the reservation; 
+        - and (b) modifies those provisions to the same extent for that other party in its relations with the reserving State.
+      - 2. The reservation does not modify the provisions of the treaty for the other parties to the treaty inter se.
+      - 3. When a State objecting to a reservation has not opposed the entry into force of the treaty between itself and the reserving State, the provisions to which the reservation relates do not apply as between the two States to the extent of the reservation.
+  - Withdrawal of reservations and objections
+    - Article 22
+      - 1. Unless the treaty otherwise provides, a reservation may be withdrawn at any time and the consent of a State which has accepted the reservation is not required for its withdrawal.
+      - 2. Unless the treaty otherwise provides, an objection to a reservation may be withdrawn at any time.
+      - 3. Unless the treaty otherwise provides, or it is otherwise agreed:
+        - (a) the withdrawal of a reservation becomes operative in relation to another contracting State only when notice of it has been received by that State; (b) the withdrawal of an objection to a reservation becomes operative only when notice of it has been received by the State which formulated the reservation.
+-  Treaties
+  - Individuals  and  legal persons  under national  law have  not  been  recognised  as having  the capacity to  make  treaties,  whether  with  states,  or with  other  international  persons  with  treaty-making capacity. 
+    -   Anglo-lranian  Oil Company  case
+  -  capacity  of insurgents
+    - Government  of Sudan  v People's  Liberation Movement Army  (Abyei  Arbitration)
+      - the  Tribunal held  that  the  Comprehensive Peace  Agreement  and  the  Arbitration  Agreement  giving  the  Tribunal  jurisdiction  between  the  two parties  were  not  treaties;
+  -  Intention to create Legal relations.
+    - When determining the intention of the parties, the l. C.J. applies an objective test. In the Aegean Sea Continental Shelf case, the Court held that when deciding whether a document was a treaty it "must have regard above all to its actual terms and to the particular circumstances in which it was drawn up.
+    - Minutes of a meeting as a treaty
+      -  Qatar  v Bahrain  case  
+        - enumerated  "the  commitments  to  which  the parties  have consented"  concerning  the  reference  of a dispute  to the  International  Court  of Justice,  thereby creating  "international  rights and  obligations  in international  law for the  parties"  and  constituting "an  international  agreement'."
+        - In contrast,  the  minutes  of an  earlier meeting  of a Tripartite  Committee  established  by the  same  three  states  to  negotiate  the  reference  of the  dispute  to  the Court  were  just "diplomatic  documents  recording  the state  of progress  of the  negotiations": 
+          - they "possessed  no  legally  binding  force.
+    - a particular  provision  in it may  be "drafted  in terms  so  general  that  by itself it is not  capable  of generating  legal  rights  and  obligations."
+      - Oil Platforms (Preliminary Objections) 
+    - Revolutionary / Revolutionaries / Insurgents
+      -  Prosecutor  v Kallon  and  Kamara
+    - 'Interpretative declaration def' means a unilateral statement, however phrased or named, made by a State or an international organization, whereby that State or that organization purports to specify or clarify the meaning or scope of a treaty or of certain of its provisions."
+## Week 7: Law of Treaties - Part 2
+
+- Law of Treaties
+  - Acceptance of and objection to reservation 
+    - Article 20 (4)
+      - …unless the treaty otherwise provides:
+        - (a) acceptance by another contracting State of a reservation constitutes the reserving State a party to the treaty in relation to that other State if or when the treaty is in force for those States; 
+        - (b) an objection by another contracting State to a reservation does not preclude the entry into force of the treaty as between the objecting and reserving States unless a contrary intention is definitely expressed by the objecting State; 
+        - (c) an act expressing a State's consent to be bound by the treaty and containing a reservation is effective as soon as at least one other contracting State has accepted the reservation.
+      - 5. For the purposes of paragraphs 2 and 4 and unless the treaty otherwise provides, a reservation is considered to have been accepted by a State if it shall have raised no objection to the reservation by the end of a period of twelve months after it was notified of the reservation or by the date on which it expressed its consent to be bound by the treaty, whichever is later.
+  - Effects of reservations
+    - Article 21
+      - 1. A reservation established with regard to another party in accordance with articles 19, 20 and 23:
+        - (a) modifies for the reserving State in its relations with that other party the provisions of the treaty to which the reservation relates to the extent of the reservation; and (b) modifies those provisions to the same extent for that other party in its relations with the reserving State.
+      - 2. The reservation does not modify the provisions of the treaty for the other parties to the treaty inter se.
+      - 3. When a State objecting to a reservation has not opposed the entry into force of the treaty between itself and the reserving State, the provisions to which the reservation relates do not apply as between the two States to the extent of the reservation.
+    - 
+- Treaty interpretation
+  - Treaty Interpretation – Three Schools of Thought
+    - Textual School – 'Ordinary approach' -  It looks into the 'ordinary' meaning of the text;
+    - Intentionalist School – 'Subjective approach' - attempted to ascertain the intention of the drafters;
+    - Teleological School – 'Teleological approach' - construe a treaty provision in light of the object and purpose of the treaty.
+  - Article 31(1) of the Vienna Convention incorporates elements of all three schools 
+    - Article 31 - General rule of interpretation
+      - 1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.
+      - Pacta Sunt Servanda - in good faith
+  - Competence of the General Assembly for the Admission of a State to the United Nations (Advisory Opinion), ICJ Reports 1950, 4
+      - "In one of the written statements placed before the Court, an attempt was made to attribute to paragraph 2 of Article 4 a different meaning. The Court considers it necessary to Say that the first duty of a tribunal which is called upon to interpret and apply the provisions of a treaty, is to endeavour to give effect to them in their natural and ordinary meaning in the context in which they occur. If the relevant words in their natural and ordinary meaning make sense in their context, that is an end of the matter. If, on the other hand, the words in their natural and ordinary meaning are ambiguous or lead to an unreasonable result, then, and then only, must the Court, by resort to other methods of interpretation, seek to ascertain what the parties really did mean when they used these words".
+  - What is a Context in Treaty Interpretations? – VCLT Art 31(2) & Art 31(3)
+    - 2. The context for the purpose of the interpretation of a treaty shall cornprise, in addition to the text, including its preanlble and annexes:
+      - (a) any agreenuent relating to the treaty which was nuade between all the parties in connection with the conclusion of the treaty;
+      - (b) any instrurnent which was inade by one or nxore parties in connection with the conclusion Of the treaty and accepted by the other parties as an instrurnent related to the treaty.
+    - 3. There shall be taken into account, together with the context:
+      - (a) any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its provisions;
+      - (b) any subsequent practice in the application of the treaty which establishes the agreement of the parties regarding its interpretation;
+      - (c) any relevant rules of international law applicable in the relations between the parties.
+  - Supplementary means of interpretation
+    - Article 32
+      - Supplementary' means of interpretation
+        - Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and the circumstances of its conclusion, in order to confirm the meaning resulting from the application of article 31, or to determine the meaning when the interpretation according to article 31 :
+        - (a) leaves the meanmg ambiguous or obscure; or
+        - (b) leads to a result which is manifestly absurd or unreasonable.
+  - The Principle of Effectiveness
+    - Interpretation of Peace Treaties Case (Second Phase) (1950) ICJ Advisory Opinion, p 221.
+      - The principle of interpretation expressed in the maxim : Ut res magis valeat quam pereat, often referred to as the rule of effectiveness, cannot justify the Court in attributing to the provisions for the settlement of disputes in the Peace Treaties a meaning which, as stated above, would be contrary to their letter and spirit.
+  - Multiple languages 
+    - Article 33
+      - 1. When a treaty has been authenticated in two or more languages, the text is equally authoritative in each language, unless the treaty provides or the parties agree that, in case of divergence, a particular text shall prevail.
+      - 2. A version of the treaty in a language other than one of those in which the text was authenticated shall be considered an authentic text only if the treaty so provides or the parties so agree.
+      - 3. The terms of the treaty are presumed to have the same meaning in each authentic text.
+      - 4. Except where a particular text prevails in accordance with paragraph 1, when a comparison of the authentic texts discloses a difference of meaning which the application of articles 31 and 32 does not remove, the meaning which best reconciles the texts, having regard to the object and purpose of the treaty, shall be adopted.
+  - Hierarchy in different approaches of Interpretations
+    - VCLT does not presuppose a hierarchy between different approaches of interpretation
+    - In Territorial Dispute (Libya v Chad) [1994] ICJ Rep 6, [41] the ICJ stated that interpretation  'must be based above all upon the text of a treaty'
+- Third States
+  - Treaties and Third States
+    - Article 34-General rule regarding third States
+      - A treaty does not create either obligations or rights for a third State without its consent.
+    - Article 35-Treaties providing for obligations for third States
+      - An obligation arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to be the means of establishing the obligation and the third State expressly accepts that obligation in writing.
+    - Article 36-Treaties providing for rights for third States
+      - 1. A right arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to accord that right either to the third State, or to a group of States to which it belongs, or to all States, and the third State assents thereto. Its assent shall be presumed so long as the contrary is not indicated, unless the treaty otherwise provides.
+      - 2. A State exercising a right in accordance with paragraph 1 shall comply with the conditions for its exercise provided for in the treaty or established in conformity with the treaty.
+  - Treaties and Third States
+    - Free zones of Upper Savoy and the District of Gex case (1932) (France v Switzerland) PCIJ reports, Series A/B, No. 46
+      - It cannot be lightly presumed that stipulations favourable to a third State have been adopted with the object of creating an actual right in its favour. 
+      - There is however nothing to prevent the will of sovereign States from having this object and this effect. 
+      - The question of the existence of a right acquired under an instrument drawn between other States is therefore one to be decided in each particular case: 
+        - it must be ascertained whether the States which have stipulated in favour of a third State meant to create for that State an actual right which the latter has accepted as such.
+- Validity of treaty
+  - Validity of treaty
+    - Article 42(1)
+      - The validity of a treaty or of the consent of a State to be bound by a treaty may be impeached only through the application of the present Convention.
+        - VCLT envisages roughly two categories of situations when invalidity may be invoked
+        -  Relative grounds for invalidity (Articles 46–50); - Treaties are voidable
+        -  Absolute grounds for invalidity (Articles 51–3) – Treaties are void ab initio
+  - Validity of treaty
+    - Non compliance with municipal law 
+    - Error
+    - Fraud and corruption
+    - Coercion
+    - Peremptory norms of general international law
+  - Non-compliance with municipal law – (Relative ground)
+    - Constitutional ultra vires
+      - Article 46 
+        - 1. A State may not invoke the fact that its consent to be bound by a treaty has been expressed in violation of a provision of its internal law regarding competence to conclude treaties as invalidating its consent unless that violation was manifest and concerned a rule of its internal law of fundamental importance.
+        - 2. A violation is manifest if it would be objectively evident to any State conducting itself in the matter in accordance with normal practice and in good faith.
+    - Ultra vires of the representative
+      - Article 47
+        - If the authority of a representative to express the consent of a State to be bound by a particular treaty has been made subject to a specific restriction, his omission to observe that restriction may not be invoked as invalidating the consent expressed by him unless the restriction was notified to the other negotiating States prior to his expressing such consent.
+  - Error - (Relative ground)
+    - Article 48
+      - 1. A State may invoke an error in a treaty as invalidating its consent to be bound by the treaty if the error relates to a fact or situation which was assumed by that State to exist at the time when the treaty was concluded and formed an essential basis of its consent to be bound by the treaty.
+      - 2. Paragraph 1 shall not apply if the State in question contributed by its own conduct to the error or if the circumstances were such as to put that State on notice of a possible error.
+      - 3. An error relating only to the wording of the text of a treaty does not affect its validity; article 79 then applies.
+    - Temple of Preah Vihear case (Cambodia v. Thailand) (Merits) ICJ Reports 1962, p.6 
+  - Fraud and corruption - (Relative ground)
+    - Article 49
+      - If a State has been induced to conclude a treaty by the fraudulent conduct of another negotiating State, the State may invoke the fraud as invalidating its consent to be bound by the treaty.
+    - Article 50
+      - If the expression of a State's consent to be bound by a treaty has been procured through the corruption of its representative directly or indirectly by another negotiating State, the State may invoke such corruption as invalidating its consent to be bound by the treaty.
+    - "substantial influence" International Law Commission (1966)
+  - Coercion (Absolute Ground)
+    - Article 51
+      - The expression of a State's consent to be bound by a treaty which has been procured by the coercion of its representative through acts or threats directed against him shall be without any legal effect.
+      - e.g. German Protectorate over Bohemia and Moravia
+    - Article 52
+      - A treaty is void if its conclusion has been procured by the threat or use of force in violation of the principles of international law embodied in the Charter of the United Nations.
+  - Fisheries Jurisdiction (Jurisdiction) case 1973 (U.K. v Iceland)- The 'Cod wars'
+    - 
+  - Peremptory norm of general international law - (absolute ground)
+    - Article 53
+      - A treaty is void if, at the time of its conclusion, it conflicts with a peremptory norm of general international law. For the purposes of the present Convention, a peremptory norm of general international law is a norm accepted and recognized by the international community of States as a whole as a norm from which no derogation is permitted and which can be modified only by a subsequent norm of general international law having the same character.
+      - Armed Activities on the Territory of the Congo (New Application:2002) (Democratic Republic of the Congo v. Rwanda), ICJ Reports 2006 
+- Termination, suspension & withdrawal from treaties
+  - Termination, suspension and withdrawal from treaties 
+    - By treaty, consent or incompatible later treaty
+    - Material breach
+    - Supervening impossibility of performance
+    - Fundamental change of circumstances
+    - New peremptory norm
+  - By treaty, consent or incompatible later treaty
+    - Article 54 (termination or withdrawal by consent)
+    - The termination of a treaty or the withdrawal of a party may take place: (a) in conformity with the provisions of the treaty; or (b) at any time by consent of all the parties after consultation with the other contracting States.
+    - Articles 57-58 (suspension by consent)
+    - Articles 59 (termination or suspension implied by later treaty)
+  - Material breach
+    - Article 60
+      - 1. A material breach of a bilateral treaty by one of the parties entitles the other to invoke the breach as a ground for terminating the treaty or suspending its operation in whole or in part.
+      - 2. A material breach of a multilateral treaty by one of the parties entitles:
+        - (a) the other parties by unanimous agreement to suspend the operation of the treaty in whole or in part or to terminate it either: 
+          - (i) in the relations between themselves and the defaulting State, 
+          - or (ii) as between all the parties; 
+        - (b) a party specially affected by the breach to invoke it as a ground for suspending the operation of the treaty in whole or in part in the relations between itself and the defaulting State; 
+        - (c) any party other than the defaulting State to invoke the breach as a ground for suspending the operation of the treaty in whole or in part with respect to itself if the treaty is of such a character that a material breach of its provisions by one party radically changes the position of every party with respect to the further performance of its obligations under the treaty.
+      - 3. A material breach def of a treaty, for the purposes of this article, consists in:
+        - (a) a repudiation of the treaty not sanctioned by the present Convention; or 
+        - (b) the violation of a provision essential to the accomplishment of the object or purpose of the treaty.
+      - 4. The foregoing paragraphs are without prejudice to any provision in the treaty applicable in the event of a breach.
+      - 5. Paragraphs 1 to 3 do not apply to provisions relating to the protection of the human person contained in treaties of a humanitarian character….
+      - Legal Consequence for State of the Continued Presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970) ICJ Reports 1971, p.16
+      - Gabčíkovo-Nagymaros Project case (Hungary v. Slovakia) ICJ Reports 1997, p.65 
+  - Supervening impossibility of performance
+    - Article 61
+      - 1. A party may invoke the impossibility of performing a treaty as a ground for terminating or withdrawing from it if the impossibility results from the permanent disappearance or destruction of an object indispensable for the execution of the treaty. 
+        - If the impossibility is temporary, it may be invoked only as a ground for suspending the operation of the treaty.
+      - 2. Impossibility of performance may not be invoked by a party as a ground for terminating, withdrawing from or suspending the operation of a treaty if the impossibility is the result of a breach by that party either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty.
+  - Fundamental change in circumstances
+    - Doctrine of rebus sic stantibus ('things remaining as they are')
+    - Article 62
+      - 1. A fundamental change of circumstances which has occurred with regard to those existing at the time of the conclusion of a treaty, and which was not foreseen by the parties, may not be invoked as a ground for terminating or withdrawing from the treaty unless:
+        - (a) the existence of those circumstances constituted an essential basis of the consent of the parties to be bound by the treaty; 
+        - and (b) the effect of the change is radically to transform the extent of obligations still to be performed under the treaty.
+    - 2. A fundamental change of circumstances may not be invoked as a ground for terminating or withdrawing from a treaty:
+      - (a) if the treaty establishes a boundary; 
+      - or (b) if the fundamental change is the result of a breach by the party invoking it either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty.
+    - 3. If, under the foregoing paragraphs, a party may invoke a fundamental change of circumstances as a ground for terminating or withdrawing from a treaty it may also invoke the change as a ground for suspending the operation of the treaty.
+  - Fundamental change in circumstances
+    - Fisheries Jurisdiction case (United Kingdom v. Iceland) ICJ Reports 1973, p.3 
+    - Gabčíkovo-Nagymaros Project case (Hungary v. Slovakia) - Danue Dams case ICJ Reports 1997, p.65 
+  - Emergence of 
+new peremptory norm
+    - Article 64
+      - If a new peremptory norm of general international law emerges, any existing treaty which is in conflict with that norm becomes void and terminates.
+    - 
+  - General provision on invalidity, termination and suspension
+    - Consequences of invalidity, termination or suspension of treaty
+    - Separability of treaty provisions
+    - Loss of right to invoke 
+
+  - Consequences of invalidity, termination or suspension of treaty
+    - Article 70
+      - Consequences of the termination of a treaty
+    - Article 71
+      - Consequences of the invalidity of treaty in conflict with peremptory norm 
+    - Article 72
+      - Consequences of the suspension of the operation of treaty
+## Week 8: State Responsibility - Part 1
+
+- State Responsibility
+  - Introduction
+    - States are bound by rules of international law 
+      - -These are their 'primary' rules
+      - -These will differ from state to state
+    - Law of State Responsibility provides 'secondary' rules of liability
+      - -These concern the consequences of violations of international legal obligations (both under treaty & Customary International Law)
+      - -These apply to all states
+      - -These have principally been developed through customary international law
+      - -But have also been codified/summarised in the International Law Commission Draft Articles on the Responsibility of States for Internationally Wrongful Acts 2001 noted by the UN General Assembly in UNGA Res 56/83 (12 December 2001)
+  - Statute of the International Law Commission
+    - Article 1, paragraph 1, -"Commission shall have for its object the promotion of the progressive development of international law and its codification". 
+    - Article 15-progressive development means "the preparation of draft conventions on subjects which have not yet been regulated by international law or in regard to which the law has not yet been sufficiently developed in the practice of States" 
+    - Codification means "the more precise formulation and systematization of rules of international law in fields where there already has been extensive State practice, precedent and doctrine"
+  - 
+  - Intro
+    - -It is a well recognised principle of International Law that States are responsible for internationally wrongful acts that can be attributed to them and that as a result, they are obliged to make reparation in one form or another.
+    - -In the Chorzow Factory Case (1928) P.C.IJ. Series A No 17, the PCIJ held:
+      - "it is a principle of international law, and even a greater conception of law, that any breach of an engagement involves an obligation to make reparation."
+    - -Likewise the ILC's Draft Articles on the Responsibility of States provides:
+      - "Every internationally wrongful act of a State entails the international responsibility of that State" (art 1)
+      - Customary International Law Authority
+  - Elements of State Responsibility
+    - State Responsibility arises in the following circumstances:
+      - 1. Existence of an international legal obligation in force between two or more states, or a legal obligation to the 'international community' (obligations erga omnes) 
+      - 2. Occurrence of an act or omission that:
+        - I. is attributed to that state
+        - Ii. breaches that obligation ('internationally  wrongful act')
+      - 3. The state cannot raise any circumstances or justifications for the internationally wrongful act that would preclude wrongfulness
+      - 4. Another state (the 'invoking' state) is entitled to make a claim (ie question of admissibility)
+    - 
+    - Law of State Responsibility
+      - Obligation 
+      - Attribution to the state of an Act or Omission
+      - Breach + Injury
+      - Circumstances precluding wrongfulness
+      - Invocation of State Responsibility => Reparations
+  - Attribution to the State
+    - ILC Draft Arts 4 - ARSIWA 
+      - "the conduct of any State organ shall be considered an act of the State under international law"
+    - Basic Principle = A state acts through its organs & delegates
+    - Executive, legislative and the judicature.
+    - Corfu Channel Case (UK v Albania) (Merits) [1949] ICJ Rep 4
+      - Question: Could Albania be held responsible for injury to British warships due to mines in Albanian territorial waters?
+    - 
+  - Attribution to the State
+    - ICJ held:
+      - "knowledge of the mine laying could not be imputed to the Albanian government by reason merely of the fact that the minefield discovered in Albanian territorial waters caused the explosions of which the British warships were the victims'.
+      - 'The fact that this exclusive territorial control exercised by a state within its frontiers has a bearing on the method of proof available to establish the knowledge of that state as to such events … [In such circumstance, the invoking state] should be allowed a more liberal recourse to inferences of fact and circumstantial evidence'.
+      - Albania could be liable for failing to notify of presence of minefield because 'the laying of the minefield ... could not have been accomplished without the knowledge of the Albanian government."
+    - Armed forces
+      - Armed Activities on the Territory of the Congo (Democratic Republic of Congo v Uganda) I.C.J. Reports 2005, p. 168 
+        - "The Court turns now to the question as to whether acts and omissions of the UPDF and its officers and soldiers are attributable to Uganda. 
+        - The conduct of the UPDF as a whole is clearly attributable to Uganda, being the conduct of a State organ. 
+        - According to a well-established rule of international law, which is of customary character, "the conduct of any organ of a State must be regarded as an act of that State…The conduct of individual soldiers and officers of the UPDF is to be considered as the conduct of a State organ. 
+        - In the Court's view, by virtue of the military status and function of Ugandan soldiers in the DRC, their conduct is attributable to Uganda. The contention that the persons concerned did not act in the capacity of persons exercising governmental authority in the particular circumstances, is therefore without merit." para 213
+    - ILC Draft Article 5
+      - Conduct of persons or entities exercising elements of governmental authority 
+    - "The conduct of a person or entity which is not an organ of the State under article 4 but which is empowered by the law of that State to exercise elements of the governmental authority shall be considered an act of the State under international law, provided the person or entity is acting in that capacity in the particular instance." 
+  - Genocide (Bosnia and Herzegovina v Serbia and Montenegro) ICJ Reports 2007, p 43
+    - "This question has in fact two aspects, which the Court must consider separately. First, it should be ascertained whether the acts committed at Srebrenica were perpetrated by organs of the Respondent, i.e., by persons or entities whose conduct is necessarily attributable to it, because they are in fact the instruments of its action. Next, if the preceding question is answered in the negative, it should be ascertained whether the acts in question were committed by persons who, while not organs of the Respondent, did nevertheless act on the instruments of, or under the direction or control of, the Respondent".
+    - Court concluded Bosnian Serb Militia not organs of the state and insufficient evidence to show acted under Serbian direction or control.
+  - Attribution to the State
+    - -Federal units, provinces etc- the distribution of powers between Federal/National government and States/Provinces is irrelevant
+    - La Grand (Germany v United States (Provisional Measures) ICJ, 1999, p 9.
+      - "the international responsibility of a State, whatever they may be…the Governor of Arizona is under the obligation to act in conformity with the international undertakings of the United States" at p 16
+  - Ultra vires or unauthorised acts
+    - Article 7
+    - Excess of authority or contravention of instructions 
+      - "The conduct of an organ of a State or of a person or entity empowered to exercise elements of the governmental authority shall be considered an act of the State under international law if the organ, person or entity acts in that capacity, even if it exceeds its authority or contravenes instructions".
+    - Caire Claim (France v Mexico) (1929) 5 RIAA 516-"The State also bears international responsibility for all acts committed by its official or its organs which are delictual according to international law, regardless of whether the official or organ has acted within the limits of his competency or has exceeded those limits…However, in order to justify the admission of this objective responsibility of the State for acts committed by its officials or organs outside their competence, it is necessary that they should have acted, at least apparently, as authorised officials or organs, or that, in acting they should have used powers or measures appropriate to their official character" at p 147-148.
+  - Youmans v United Mexican States (1926) 4 RIAA 110 
+    - Question: Was Mexico liable for murder of USA national who were killed during rioting? 
+      - NB riots included participation of soldiers who acted contrary to higher orders.
+      - 'We do not consider that the participation of the soldiers in the murder … can be regarded as acts of soldiers committed in their private capacity when it is clear that at the time of the commission of these acts the men were on duty and under the immediate supervision and in the presence of a commanding officer.  Soldiers inflicting personal injuries or committing wanton destruction or looting always act in disobedience of some rules laid down by superior authority.  There could be no liability whatever for such misdeeds if the view were taken that any acts committed by soldiers in contravention of instructions must always be considered as personal acts."
+    - Generally, the acts of private individuals are not attributable to the State.   
+      - Two exceptions to this rule are:
+        - -Acts of 'instructed persons' – eg where an individual is 'recruited' by a government agency to act in a private capacity (volunteer) to make sure that the act is conducted outside the official structure.
+        - -Acts of a person 'directed or controlled' by the State – eg where third parties (usually a rebel group) act under the direction of another State 
+    - Military and Paramilitary Activities in and against Nicaragua (Nicaragua v United States), Merits ICJ Report 1986, p 14.
+      - -ICJ used a narrow 'effective control test' – looked for control that was 'specifically' linked to the alleged violations
+      - -See also how the ICJ applied the "effective control test" in the Genocide case considered in this weeks case study
+    - Article 8 ILC Draft Articles - ARSIWA 
+    - Conduct directed or controlled by a State 
+      - "The conduct of a person or group of persons shall be considered an act of a State under international law if the person or group of persons is in fact acting on the instructions of, or under the direction or control of, that State in carrying out the conduct." 
+    - Article 10 ILC Draft Article
+    - Conduct of an insurrectional or other movement 
+      - "1. The conduct of an insurrectional movement which becomes the new Government of a State shall be considered an act of that State under international law. 
+      - 2. The conduct of a movement, insurrectional or other, which succeeds in establishing a new State in part of the territory of a pre-existing State or in a territory under its administration shall be considered an act of the new State under international law." 
+    - Article 11 - ILC Draft Articles
+    - Conduct acknowledged and adopted by a State as its own 
+      - "Conduct which is not attributable to a State under the preceding articles shall nevertheless be considered an act of that State under international law if and to the extent that the State acknowledges and adopts the conduct in question as its own." 
+    - United States Diplomatic and Consular Staff in Iran (US v Iran) ('Tehran Hostages Case') ICJ Rep 1980 
+      - Question: Could Iran be held liable for acts of militants, who seized US embassy compound and took personnel hostage for over a year?
+      - US argued breach of Vienna Convention on Diplomatic Relations as:
+        - -Iranian diplomatic police had disappeared from scene
+        - -No subsequent attempt made by Iranian government to rescue the hostages
+      - Court held:
+        - Not acts of state at the time of the storming of the embassy. Yet Ayatollah Khomeini's policy of maintaining the embassy occupation for the purpose of exerting pressure on US "fundamentally transformed the legal nature of the situation"
+        - "The approval given to these facts by the Ayatollah … and the decision to perpetuate them, translated continuting occupation of the embassy and detention of the hostages into acts of the State.  The militants, authors and jailers of the hostages, had now become agents of the Iranian State for whose acts the State itself was internationally responsible..." at para 74.'
+    - Article 16-Aid or assistance in the commission of an internationally wrongful act 
+      - "A State which aids or assists another State in the commission of an internationally wrongful act by the latter is internationally responsible for doing so if: 
+        - (a) that State does so with knowledge of the circumstances of the internationally wrongful act; and 
+        - (b) the act would be internationally wrongful if committed by that State".
+      - Endorsed in Genocide (Bosnia and Herzegovina v Serbia and Montenegro) ICJ Reports 2007, p43, at p 217 as analogise to 'complicity'
+    - Article 47
+      - Plurality of responsible States 
+        - "1. Where several States are responsible for the same internationally wrongful act, the responsibility of each State may be invoked in relation to that act. 
+        - 2. Paragraph 1: 
+          - (a) does not permit any injured State to recover, by way of compensation, more than the damage it has suffered; 
+          - (b) is without prejudice to any right of recourse against the other responsible States." 
+  - Breach
+    - Article 12: Existence of a breach of an international obligation
+      - "There is a breach of an international obligation by a State when an act of that State is not in conformity with what is required of it by that obligation, regardless of its origin or character."
+    - Article 13: International obligations in force for a State
+      - "An act of a state does not constitute a breach of an international obligation unless the State is bound by the obligation in question at the time act occurs."
+      - i.e principle of inter-temporal law
+    - Continuing breach of an international obligation
+    - Article 14: Extension in time of the breach of an international obligation
+      - "1. The breach of an international obligation by an act of a State not having a continuing character occurs at the moment when the act is performed, even if its effect continue.
+      - 2. The breach of an international obligation by an act of a State having a continuing character extends over the entire period during which the act continues and remains not in conformity with the international obligation.
+      - 3. The breach of an international obligation requiring a state to prevent a given event occurs when the event occurs and extends over the entire period during which the event continues and remains not in conformity with that obligation."
+    - Article 15: Breach consisting of a composite act 
+      - "1. The breach of an international obligation by a State through a series of actions or omissions defined in aggregate as wrongful occurs when the action or omission occurs which, taken with the other actions or omissions, is sufficient to constitute the wrongful act. 
+      - 2. In such a case, the breach extends over the entire period starting with the first of the actions or omissions of the series and lasts for as long as these actions or omissions are repeated and remain not in conformity with the international obligation."
+  - In Summary (Articles 12 – 15):
+    - What is the international legal obligation being breached (Article 12)? 
+      - arising from either treaty, custom or general principles ('regardless of its origin or character')
+    - Was the obligation in force at the time of the breach? (Article 13)
+      - If treaty obligation, you may need to refer to VCLT to understand if:
+        - obligation is in force; and
+        - how to interpret it (ie reservations etc)
+    - What is the scope of obligation or the particular standard required under primary rule of Public International Law? 
+      - Is there a fault standard? Or due diligence?
+  - Circumstances Precluding Wrongfulness
+    - Chapter V: Articles 20 – 26
+      - Consent (Article 20)
+      - Self-defense pursuant to UN Charter (Article 21)
+      - Countermeasures (Article 22 and Articles 49-54)
+      - Force majeure (Article 23)
+      - Distress (Article 24)	
+      - Necessity (Article 25)
+    - NB: None of the above can apply to breaches of jus cogens norms (Article 26)
+    - Chapter V: Articles 20 – 26
+      - Countermeasures (Article 22 and Articles 49-54)
+        - Gabčíkovo-Nagymaros Project case (Hungary v. Slovakia), ICJ Reports 1997, p.7
+          - :"the effects of a countermeasure must be commensurate with the ijured suffered, taking into account of the rights in question", at 56
+    - Chapter V: Articles 20 – 26
+      - Force majeure (Article 23) = "the occurrence of an irresistible force or of an unforeseen event, beyond the control of the State, making it materially impossible in the circumstances to perform the obligation"
+        - See Art 23(2) exceptions
+        - Rainbow Warrior case (New Zealand v. France) (1990) RIAA Vol.XX, 217
+      - Distress (Article 24) = "if the author of the act in question has no other reasonable way, in a situation of distress, of saving the author's life or the lives of other persons entrusted to the author's care"
+        - See Art 24(2) exceptions
+        - Rainbow Warrior case (New Zealand v. France) (1990) RIAA Vol.XX, 217
+      - Necessity (Article 25) = "only way for the State to safeguard an essential interest against a grave and imminent peril; AND does not seriously impair an essential interest of the State or States towards which the obligation exists, or of the international community as a whole." 
+        - See Art 25(2) exceptions
+      - Gabčíkovo-Nagymaros Project case (Hungary v. Slovakia), ICJ Reports 1997, p.7
+    - Article 26 Compliance with peremptory norms 
+      - Nothing in this chapter precludes the wrongfulness of any act of a State which is not in conformity with an obligation arising under a peremptory norm of general international law. 
+    - Article 27 Consequences of invoking a circumstance precluding wrongfulness 
+      - The invocation of a circumstance precluding wrongfulness in accordance with this chapter is without prejudice to: 
+        - (a) compliance with the obligation in question, if and to the extent that the circumstance precluding wrongfulness no longer exists; 
+        - (b) the question of compensation for any material loss caused by the act in question.
+## Week 9: State Responsibility - Part 2
+
+- State Responsibility
+  - Re-cap Elements of State Responsibility
+    - State Responsibility arises in the following circumstances:
+      - Existence of an international legal obligation in force between two or more states, or a legal obligation to the 'international community' (obligations erga omnes) 
+      - Occurrence of an act or omission that:
+        - is attributed to that state
+        - breaches that obligation ('internationally  wrongful act')
+      - The state cannot raise any circumstances or justifications for the internationally wrongful act that would preclude wrongfulness
+      - Another state (the 'invoking' state) is entitled to make a claim (ie question of admissibility)
+  - Consequences of an Internationally Wrongful Act
+    - Article 28
+      - The legal responsibility of a State which is entailed by an internationally wrongful act in accordance with the provisions of part one involves legal consequences as set out in this part.
+    - Article 29: Continued duty of performance
+      - Gabčíkovo-Nagymaros Project case (Hungary v. Slovakia), ICJ Reports 1997, p.7
+        - The legal consequences of an internationally wrongful act under this part do not affect the continued duty of the responsible State to perform the obligation breached.
+    - Article 30: Cessation and non-repetition
+      - The State responsible for the internationally wrongful act is under an obligation:
+        - (a) to cease that act, if it is continuing
+        - (b) to offer appropriate assurances and guarantees of non-repetition, if circumstances so require.
+      - Rainbow Warrior case (New Zealand v France) (1990) RIAA Vol.XX, 217
+      - Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v Belgium) ICJ Reports 2002, p.3
+    - Article 31: Obligation to make full reparation
+      - 1. The responsible State is under an obligation to make full reparation for the injury caused by the internationally wrongful act.
+      - 2. Injury includes any damage, whether material or moral, caused by the  internationally wrongful act of a State.
+    - Obligation to make full reparation
+      - Factory at Chorzów (Indemnity)(Merits) case (1928) PCIJ (Series A), No.17, 47:
+        - "The essential principle contained in the actual notion of an illegal act ... is that reparation must, as far as possible, wipe out all the consequences of the illegal act and re-establish the situation which would, in all probability, have existed if that act had not been committed. 
+        - Restitution in kind, or if this is not possible, payment of a sum corresponding to the value which a restitution in kind would bear; the award, if need be, of damages for loss sustained which would not be covered by restitution in kind or payment in place of it – such are the principles which should serve to determine the amount of compensation due for an act contrary to international law."
+    - Article 34: Form of Reparations
+      - Full reparation for the injury caused by the internationally wrongful act shall take the form of restitution, compensation and satisfaction, either singly or in combination in accordance with the provisions of this chapter.
+    - Article 35: Restitution
+      - A State responsible for an internationally wrongful act is under an obligation to make restitution, that is, to re-establish the situation which existed before the wrongful act was committed, provided and to the extent that restitution:
+        - (a) is not materially impossible;
+        - (b) does not involve a burden out of all proportion to the benefit deriving from restitution instead of compensation.
+      - ILC Commentaries: "Restitution may take the form of material restoration or return of territory, persons or property, or the reversal of some juridical act, or some combination of them. Examples of material restitution include the release of detained individuals, the handing over to a State of an individual arrested in its territory, the restitution of ships or other types of property, including documents, works of art, share certificates, etc. …" 
+        - It may also involve juridical restitution such as "the revocation, annulment or amendment of a constitutional or legislative provision enacted in violation of a rule of international law, the rescinding or reconsideration of an administrative or judicial measure unlawfully adopted in respect of the person or property of a foreigner or a requirement that steps be taken (to the extent allowed by international law) for the termination of a treaty."
+    - Article 36: Compensation
+      - 1. The State responsible for an internationally wrongful act is under an obligation to compensate for the damage caused thereby, insofar as such damage is not made good by restitution.
+      - 2. The compensation shall cover any financially assessable damage including loss of profits insofar as it is established.
+    - Article 37: Satisfaction
+      - 1. The State responsible for an internationally wrongful act is under an obligation to give satisfaction for the injury caused by that act in so far as it cannot be made good by restitution or compensation.
+      - 2. Satisfaction may consist in an acknowledgment of the breach, an expression of regret, a formal apology or another appropriate modality.
+      - 3. Satisfaction shall not be out of proportion to the injury and may not take a form humiliating to the responsible State.
+      - Rainbow Warrior case (New Zealand v. France) (1990) RIAA Vol.XX, 217
+      - Corfu Channel case (United Kingdom v Albania), ICJ Reports 1949, p.14
+      - Genocide I case (Bosnia and Herzegovina v. Serbia and Montenegro) ICJ Reports 2007, p.43
+    - Peremptory norms of general international law
+      - Article 53 VCLT
+        - ...a  peremptory  norm  of  general  international  law  is  a  norm  accepted  and recognized by the international community of States as a whole as a norm from which  no  derogation  is  permitted  and  which  can  be  modified  only  by  a subsequent norm of general international law having the same character.
+        - Barcelona Traction, Light and Power Company Ltd case (Belgium v. Spain), Second Phase, ICJ Reports 1970, p.3 
+      - Article 33
+        - 1. The obligations of the responsible State set out in this part may be owed to another State, to several States, or to the international community as a whole, depending in particular on the character and content of the international obligation and on the circumstances of the breach.
+      - Chapter III. Serious breaches of obligations under peremptory norms of general international law
+        - Article 40: Application of this chapter
+          - 1. This chapter applies to the international responsibility which is entailed by a serious breach by a State of an obligation arising under a peremptory norm of general international law.
+          - 2. A breach of such an obligation is serious if it involves a gross or systematic failure by the responsible State to fulfil the obligation.
+        - Article 41: Particular Consequences of a Serious Breach of an Obligation under this Chapter
+          - States shall cooperate to bring to an end through lawful means any serious breach within the meaning of article 40. 
+          - No State shall recognize as lawful a situation created by a serious breach within the meaning of article 40, nor render aid or assistance in maintaining that situation. 
+          - This article is without prejudice to the other consequences referred to in this part and to such further consequences that a breach to which this chapter applies may entail under international law. 
+    - Invocation of Responsibility
+      - Article 42: Invocation by Injured State
+        - A state is entitled as an injured State to invoke the responsibility of another State if the obligation breached is owed to:
+          - (a) that state individually; or
+          - (b) a group of states including that State, or the international community as a whole, 
+          - and the breach of the obligation:
+          - (i) specially affects that state; or
+          - (ii) is of such a character as radically to change the position of all the other states to which the obligation is owed with respect to the further performance of the obligation.
+      - Article 46 Plurality of Injured States 
+        - Where several States are injured by the same internationally wrongful act, each injured State may separately invoke the responsibility of the State which has committed the internationally wrongful act. 
+      - Article 47 Plurality of Responsible States 
+        - Where several States are responsible for the same internationally wrongful act, the responsibility of each State may be invoked in relation to that act. 
+        - Paragraph 1: 
+          - (a) does not permit any injured State to recover, by way of compensation, more than the damage it has suffered; 
+          - (b) is without prejudice to any right of recourse against the other responsible States. 
+      - Article 45: Loss of the Right to Invoke Responsibility
+      - Article 48: Invocation by a State other than an injured State
+        - 1. Any state other than an injured state is entitled to invoke the responsibility of another state in accordance with paragraph 2 if:
+          - (a) the obligation breached is owed to a group of States including that State, and is established for the protection of a collective interest of the group; or
+          - (b) the obligation breached is owed to the international community as a whole.
+        - 2. Any state entitled to invoke responsibility under paragraph 1 may claim from the responsible state:
+          - (a) cessation of the internationally wrongful act, and assurances and guarantees of non-repetition in accordance with article 30; and
+          - (b) performance of the obligation of reparation in accordance with the preceding articles, in the interest of the injured state or of the beneficiaries of the obligation breached.
+      - Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v Myanmar) (Provisional Measures [2020] ICJ Reports 3
+    - Multilateral Public Order and Issues of Responsibility
+      - South West Africa case (Liberia v South Africa) (Preliminary Objections) ICJ Reports 1962, p.319
+      - Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965, Advisory Opinion, ICJ Rep 2019, p. 95
+      - Serious breaches of peremptory norms and ICJ's jurisdiction-rights of third states
+        - East Timor case (Portugal v. Australia) ICJ Reports 1995, p.90
+      - Serious breaches of peremptory norms and ICJ's jurisdiction
+        - Armed Activities (Democratic Republic of the Congo v Rwanda), Jurisdiction and Admissibility, ICJ Reports 2006, p.6 at p.52
+          - '[T]he Court deems it necessary to recall that the mere fact that rights and obligations erga omnes or peremptory norms of general international law (jus cogens) are at issue in a dispute cannot in itself constitute an exception to the principle that its jurisdiction always depends on the consent of the parties ...'
+- Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar)
+  - Court: 
+    - International Court of Justice (ICJ)
+  - Parties: 
+    - Republic of The Gambia (Applicant) v. Republic of the Union of Myanmar (Respondent)
+  - Procedural History: 
+    - The Gambia filed an application on 11 November 2019, alleging Myanmar violated the Genocide Convention. 
+    - The case included a request for provisional measures, granted in January 2020. 
+    - Myanmar raised objections to the jurisdiction and admissibility, which were dismissed in a judgment on 22 July 2022. 
+    - In 2023, the Maldives and several other states filed declarations of intervention.
+  - Facts: 
+    - The Gambia accused Myanmar of committing genocide against the Rohingya, violating the 1948 Genocide Convention. 
+    - Various states sought to intervene under Article 63 of the ICJ Statute, seeking to influence the interpretation of the Convention.
+  - Legal Issue: 
+    - Whether the intervention declarations filed by the Maldives and a group of other states met the requirements under Article 63 and whether their scope adhered to the limits of convention interpretation.
+  - Decision: 
+    - The Court admitted the interventions by the Maldives and the joint group of states, but only in relation to the interpretation of the Genocide Convention.
+  - Ratio Decidendi: 
+    - Article 63 grants states the right to intervene in cases involving the construction of a convention to which they are parties, without needing to show a specific legal interest beyond their membership. 
+    - The ICJ determined that the declarations conformed to this, focusing on the interpretation of the convention's relevant articles.
+  - Significance: 
+    - This case highlights the procedural role of third-party interventions under the ICJ Statute and reinforces the interpretation of states' rights under international conventions, especially concerning genocidal acts.
+- Part IX: The Law of Responsibility - Consequences of an Internationally Wrongful Act from James Crawford's Commentary in Brownlie's Principles of Public International Law
+  - Case Name: 
+    - The Law of Responsibility: Consequences of an Internationally Wrongful Act
+  - Procedural History:
+    - This part of the commentary deals with the legal consequences and obligations that arise from internationally wrongful acts committed by states, as structured under the International Law Commission's (ILC) Articles on Responsibility of States for Internationally Wrongful Acts (ARSIWA).
+  - Original Dispute:	
+    - The core issue here is how states are held accountable for breaches of international obligations and the types of reparations they are required to offer in response. 
+    - The analysis also includes the role of countermeasures in enforcing compliance with international law when cessation or reparation is not forthcoming.
+  - Reason for Trial:
+    - The purpose of the trial, or in this context the legal commentary, is to assess the types of legal consequences states face after committing wrongful acts. This includes the processes by which cessation, restitution, compensation, and satisfaction are invoked, as well as the rules for taking countermeasures against a state that refuses to rectify its wrongful actions.
+  - Material Facts:
+- Cessation def is an obligation that exists after a wrongful act to stop the breach and comply with international obligations moving forward.
+- Reparation is the broader obligation to repair the harm caused by the wrongful act, and it may take the form of:
+  - Restitution: restoring the situation to what it was before the wrongful act.
+  - Compensation: financial payment when restitution is not feasible.
+  - Satisfaction: addressing non-material damage, such as through apologies or trials.
+- Countermeasures are defined as acts taken by an injured state when the responsible state fails to meet its obligations to cease or make reparations for the wrongful act.
+  - Issue Raised:
+    - The main legal question is how state responsibility is invoked and enforced under international law, and how the various forms of reparation and countermeasures are properly implemented in practice. 
+    - Additionally, the commentary addresses the conditions for taking countermeasures, such as proportionality and legal limits, especially regarding serious breaches of peremptory norms (jus cogens).
+  - Law(s)/Statute(s) in Contention:
+    - ARSIWA (Articles on State Responsibility), focusing on:
+      - Article 30 (Obligations of cessation).
+      - Article 31 (Reparation in full for injuries caused by a wrongful act).
+      - Article 35 (Restitution).
+      - Article 36 (Compensation).
+      - Article 37 (Satisfaction).
+      - Article 22 and 49-54 (Countermeasures).
+  - Precedents:
+    - Factory at Chorzów (Germany v. Poland): 
+      - Established the principle of reparation, which requires a wrongful act to be fully remedied to restore the status quo ante.
+    - M/V Saiga (No 2): 
+      - Reaffirmed the principle that reparation must restore the injured state or party to the position it would have held had the breach not occurred.
+    - Gabčíkovo-Nagymaros Project (Hungary/Slovakia): 
+      - Discussed the proportionality of countermeasures and state responsibility for breach of international obligations.
+  - Tests:
+    - The proportionality test for countermeasures, ensuring that responses by injured states are proportional to the wrongful act.
+    - The causation test for compensation, requiring that damages claimed must be directly linked to the wrongful act.
+  - Words and Phrases Considered:
+    - Restitution: Return to the pre-breach state, where possible.
+    - Satisfaction: Non-material remedies such as apologies or other symbolic actions.
+    - Countermeasures: Unlawful actions taken in response to an unlawful act, justified as a way to induce compliance with international obligations.
+  - Arguments by Party:
+    - The responsible state must first be called upon to cease the wrongful conduct and make reparations before countermeasures can be taken.
+    - The injured state may invoke countermeasures only after these remedies have been sought and refused, and the measures must be proportionate.
+  - Judicial Opinions:
+    - The International Court of Justice (ICJ) has consistently upheld that reparation should aim to fully restore the injured party to the position it would have occupied if the wrongful act had not occurred (Factory at Chorzów).
+    - Restitution remains the preferred form of reparation, though it may not always be possible or proportionate, leading to compensation as the next best option.
+  - Legal Reasoning:
+    - Crawford's analysis emphasizes that cessation and reparation arise automatically upon the occurrence of a wrongful act, while countermeasures are a last resort, taken only after the responsible state fails to meet its secondary obligations. These principles reflect a balance between maintaining international peace and upholding legal order through the enforcement of responsibilities.
+  - Ratio Decidendi:
+    - The legal obligation to repair is essential in international law, aiming to restore the injured state to its prior status through cessation, restitution, or compensation. Countermeasures are allowed but heavily regulated to ensure that they do not exceed the harm caused or violate other peremptory norms of international law.
+  - Result:
+    - The state found responsible for a wrongful act must immediately cease the violation and take steps to make full reparation, either through restitution, compensation, or satisfaction. In cases of severe breaches, such as violations of erga omnes norms, all states may have an interest in ensuring that the wrongful act is remedied.
+  - Relevance to Modern Law:
+    - Crawford's commentary highlights the increasing importance of erga omnes obligations and jus cogens norms in the modern international legal system, stressing that states have an interest in upholding certain fundamental rights and obligations even when they are not directly injured. This has implications for global enforcement of human rights and state accountability for breaches of international law.
+    - This detailed analysis provides insight into the functioning of state responsibility and the enforcement mechanisms available under international law, making it a foundational element for understanding modern international legal practice.
+  - The Corfu Channel Case (United Kingdom v Albania) (Merits) [1949] ICJ Reports 4.
+    - Court: 
+      - International Court of Justice (ICJ)
+    - Parties: 
+      - United Kingdom v Albania
+    - Procedural History: 
+      - The case was brought before the ICJ after a series of incidents in the Corfu Channel, where British warships were damaged by mines.
+    - Facts: 
+      - In 1946, British naval ships suffered damage while passing through the Corfu Channel, located between Greece and Albania. 
+      - The United Kingdom accused Albania of laying mines in the channel without warning, thus causing damage to their ships.
+    - Legal Issue: 
+      - Whether Albania was responsible for the explosion of the mines and if it had violated international law by not informing other states about the mines' existence in its territorial waters.
+    - Decision: 
+      - The ICJ held that Albania was responsible for the damage to the British ships. 
+      - It found that Albania had knowledge of the minefield and failed to notify other states, constituting a breach of its international obligations.
+    - Ratio Decidendi: 
+      - The court established that states have a duty to notify others about known dangers in their waters, and failing to do so may constitute an internationally wrongful act.
+    - Significance: 
+      - This case reinforced the principles of state responsibility and the duty to notify other states of hazards in international navigation channels, laying groundwork for later international law developments on state responsibility.
+## Week 10: Use of Force
+
+- 
+- INTRODUCTION
+  - jus ad bellum-law on the use of force
+    - jus in bello:  law on the way war is conducted (international humanitarian law)- military occupation
+  - UNILATERAL USE OF FORCE:  PROHIBITION ON THE USE OF FORCE
+    - Art 12-Covenant of the League of Nations
+      - "The Members of the League agree that, if there should arise between them any dispute likely to lead to a rupture they will submit the matter either to arbitration or judicial settlement or to enquiry by the Council, and they agree in no case to resort to war until three months after the award by the arbitrators or the judicial decision, or the report by the Council. In any case under this Article the award of the arbitrators or the judicial decision shall be made within a reasonable time, and the report of the Council shall be made within six months after the submission of the dispute."
+    - 
+  - UNILATERAL USE OF FORCE:  PROHIBITION ON THE THREAT OR USE OF FORCE
+    - UN Charter 
+      - Art 2(3)-All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered.
+      - Art 2(4)- All Members shall refrain in their international relations from the threat or use  of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations.
+      - Prohibition on threat or use of force reflected in art 2(4) and in customary international law and content may not be identical under treaty and custom. Nicaragua v United States ICJ 1986 (Merits) para 175
+      - Jus cogens
+    - "THREAT" AND "USE"
+      - Threat
+        - US Military manoeuvres near the Nicaraguan border (Nicaragua Merits para 227)
+        - Iraqi tank deployment to Kuwait border, 'armed and ready' (H&S p 743)
+        - Guyana v Suriname (PCA 2007) . 
+      - Use
+        - 'Against territorial integrity or political independence' (2(4))
+          - What about economic pressure?
+        - Indirect uses (aiding rebels eg)
+          - Aiding 'a people' toward self-determination?
+        - Use of Force has a severity threshold (discussed below)
+      - If the use of force would be illegal, the threat of that force would be illegal (Legality of Nuclear Weapons Ad Op para 47-8)
+    - UNILATERAL USE OF FORCE: RIGHT OF SELF DEFENCE
+      - Art 51 United Nations Charter
+        - "Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security."
+      - Customary IL (Nicaragua Merits, para 175-178)
+      - Individual and collective nature (Nicaragua).
+    - Necessity:
+      - "necessity of self defence, instant, overwhelming, leaving no choice of means, and no moment for deliberation"(Caroline Case, 1837) 
+        - Anticipatory self defence?
+        - Preemptive self defence?
+    - Proportional 
+      - Force in self defence must be proportional to the armed attack
+    - Armed Attack
+      - Gravity/ Threshold for Armed Attack
+        - Oil Platforms Case (Merits) (Iran v United States) ICJ Reports (2003), p161
+        - Partial Award: Ius Ad Bellum: Ethiopia's Claim 1-8, Eriteria-Ethiopia Claims Commission (2005) 
+        - Can a non-state group whose acts are not attributable to a state commit an armed attack?
+    - Support of Rebels 
+      - Case Concerning Military and Paramilitary Activities in and Against Nicaragua (Nicaragua v. United States) (Merits) (1986) 
+      - Armed Activities Case (Democratic Republic of Congo v Uganda) ICJ Rep 2005, p 168.
+  - UNILATERAL USE OF FORCE: LEGALITY OF NUCLEAR WEAPONS
+    - Legality of the Threat or Use of Nuclear Weapons case,  Advisory Opinion  ICJ Rep, 1996, 226.
+      - "There is in neither customary nor conventional international law any specific authorization of the threat or use of nuclear weapons….
+      - There is in neither customary no conventional international law any comprehensive and universal prohibition of the threat or use of nuclear weapons as such"
+    - But note more recently the United Nations Treaty on the Prohibition of Nuclear Weapons (in force 22 January 2021)
+  - UNILATERAL USE OF FORCE: RESPONSIBILITY TO PROTECT AND HUMANITARIAN INTERVENTION
+    - Is there are right to use military force in a third state to protect the population from grave human rights abuses?
+      - Humanitarian intervention 
+      - Responsibility to Protect (R2P)
+    - NATO Bombing of Belgrade (Serbia) (1999) (image above).
+    - State aid to Syrian opposition groups (image left)
+  - USE OF FORCE: COLLECTIVE MEASURES THROUGH THE UNITED NATIONS
+    - UN Charter Ch VI & VII
+    - Security Council and use of force (next slide)
+    - Chapter VI – investigation of disputes, recommendations for settlement of disputes 
+      - UN Charter Arts 33 - 38
+    - Chapter VII – enforcement action Arts 39 - 50
+    - Jurisdiction
+      - Art 39 
+    - Powers of Enforcement 
+      - Art 41- measures short of use of armed force
+      - Art 42 – measures including force
+      - Art 43 – 50 mechanisms by which forceful measures shall be organised.
+  - GENERAL ASSEMBLY AND THE USE OF FORCE 
+    - Arts 11(2) and 12 UN Charter.
+    - Resolution Uniting in Peace 1950.
+    - Certain Expenses of the United Nations Case (ICJ Rep 1962 p 151)
+      - while under Art 11(2) the SC has primary responsibility in the sphere of peace and security, it does not have exclusive responsibility
+  - THE JUS AD BELLUM IN ISRAEL / PALESTINE AND RUSSIA/UKRAINE
+    - For an exceptionally clear post on jus ad bellum and refresher of statehood and self-determination see 
+      - 'Does Israel Have the Right to Defend Itself' (Marko Milanovic, Nov 14 2023 Ejil:Talk! https://www.ejiltalk.org/does-israel-have-the-right-to-defend-itself/ ).  
+      - Note the post also engages with jus ad bellum in the Russian invasion of Ukraine.
+    - Cases before the ICJ:
+      - Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v Israel) (currently at provisional measures). https://www.icj-cij.org/case/192 
+      - Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem (Ad Op) (19 July 2024)
+      - Application of the International Convention for the Suppression of the Financing of Terrorism and of the International Convention on the Elimination of All Forms of Racial Discrimination (Ukraine v. Russian Federation) (31 Jan 2024).
+      - Allegations of Genocide under the Convention on the Prevention and Punishment of the Crime of Genocide (Ukraine v Russian Federation) ('false genocide case') https://www.icj-cij.org/case/182 
+- Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion) [1996] ICJ Reports 226
+  - Procedural History: 
+    - The United Nations General Assembly requested the International Court of Justice (ICJ) to issue an advisory opinion on whether the threat or use of nuclear weapons is permitted under international law, pursuant to Resolution 49/75 K.
+  - Original Dispute: 
+    - The question was whether the threat or use of nuclear weapons under any circumstances is lawful under international law.
+  - Issue Raised: 	
+    - Is the threat or use of nuclear weapons lawful under international law?
+  - Law(s)/Statute(s) in Contention:
+    - UN Charter, Article 2(4) and Article 51
+    - Customary international law and the principles of international humanitarian law
+    - The Martens Clause and various treaties related to nuclear disarmament and weapons of mass destruction
+  - Precedents: 
+    - The Court referenced the principles of self-defense under the UN Charter and humanitarian law, particularly regarding the protection of civilians and the proportionality of force.
+  - Tests: 
+    - The Court applied tests of necessity and proportionality under Article 51 of the UN Charter and the rules of international humanitarian law, especially regarding indiscriminate weapons and unnecessary suffering.
+  - Words and Phrases Considered:
+    - "Threat" and "use" of force under the UN Charter
+    - "Necessity" and "proportionality" in self-defense
+    - "Indiscriminate weapons" under international humanitarian law
+  - Arguments by Party:
+    - Some states argued that nuclear deterrence is lawful under self-defense, while others emphasized that the destructive nature of nuclear weapons is incompatible with humanitarian law principles.
+  - Judicial Opinions:
+    - The Court found no specific authorization for the use of nuclear weapons in international law.
+    - However, it also found no comprehensive and universal prohibition on their use.
+    - The Court was divided (7-7) on whether the use of nuclear weapons in extreme circumstances of self-defense, where the survival of a state is at stake, could be considered lawful.
+  - Legal Reasoning: 
+    - The ICJ reasoned that although international law does not explicitly prohibit the use of nuclear weapons, their use must comply with the rules of armed conflict, particularly the protection of civilians and the prohibition of unnecessary suffering. 
+    - In extreme cases of self-defense, the Court could not definitively determine their legality.
+  - Ratio Decidendi: 
+    - While the threat or use of nuclear weapons is generally considered contrary to international law, especially humanitarian law, the Court could not conclude whether such use would be lawful in extreme self-defense scenarios.
+  - Result: 
+    - The Court could not definitively rule on the legality of nuclear weapons in all circumstances but emphasized the obligation to pursue nuclear disarmament in good faith.
+    - It laid emphasis on two cardinal principles : 
+      - (a) the first being aimed at the distinction between combatants and non-combatants ; States must never make civilians the object of attack and must consequently never use weapons that are incapable of distinguishing between civilian and military targets while 
+      - (b) according to the second of those principles, unnecessary suffering should not be caused to combatants. 
+  - Relevance to Modern Law: 
+    - This opinion remains pivotal in international legal discussions on nuclear disarmament, the legality of deterrence strategies, and the application of humanitarian law to weapons of mass destruction.
+  - 

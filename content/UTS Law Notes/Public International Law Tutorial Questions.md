@@ -1,6 +1,6 @@
 #tag-notes #tag-tutorial
 
-# Week 1: Sources of International Law
+## Week 1: Sources of International Law
 
 By the end of this week, you should be able to answer the following questions. There will be time during tutorials to discuss and clarify your understanding of the answers.
 - What are the recognised sources of international law? What is the authority for this? 
@@ -29,7 +29,7 @@ By the end of this week, you should be able to answer the following questions. T
     - A.K.A. Peremptory norms def
       - slavery, genocide, piracy, and acts of aggression or illegal use of force 
   - UN Charter
-# Week 2:Personality and Recognition in international Law
+## Week 2:Personality and Recognition in international Law
 
 - Why is legal personality important in international law?
   - Legal personality is crucial in international law as it determines which entities, such as states and international organizations, can possess rights, obligations, and participate in the international legal system. It allows these entities to enter into treaties, bring claims before international courts, and be held accountable for their actions. Without legal personality, an entity cannot be recognized as a participant in international law or engage in legal processes.
@@ -134,7 +134,7 @@ By the end of this week, you should be able to answer the following questions. T
     - Declaratory
       - States exist w/o recognition it just 'takes note' of the preexisting fact of statehood
     - The weight of authorities favours the declaratory theory. 
-# Week 3: Relationship between International and Municipal Law
+## Week 3: Relationship between International and Municipal Law
 
 - What is the relationship between treaty and custom?
   - Treaties and customary international law are interrelated, with treaties often codifying or reflecting customary norms, and customs filling gaps or guiding treaty interpretation. 
@@ -209,8 +209,8 @@ By the end of this week, you should be able to answer the following questions. T
       - Regional custom norm - asian countries accepting refuges
       - Signed and ratified treaty. Obligation if they are in Australia
       - UNSEC Res does not apply - not directed at A
+## Week 4 State Jurisdiction
 
-# Week 4 State Jurisdiction
 
 By the end of this week, you should be able to answer the following questions.  There will be time during tutorials to test and clarify your understanding of the answers.
 Questions
@@ -317,7 +317,7 @@ Held that because he held a British passport he owed an allegiance to the Crown 
 
 Lockerbie case - concurrent Jurisdiction in a similar plane cass
 
-### Week 5 Immunity from Jurisdiction
+## Week 5 Immunity from Jurisdiction
 
 By the end of this week, you should be able to answer the following questions.  There will be time during tutorials to test and clarify your understanding of the answers.
 Questions
@@ -414,4 +414,328 @@ Problem Question
     - Unless the sending state expressly waives in Art 32
     - Art 1(e) - a diplomatic agent is the head of mission or member of the staff
     - Art 37 - if you are a national of the receiving state you do not have immunity, but otherwise it lists all the people who will be immune
+## Week 6: Law of Treaties
+
+Questions 
+1. What is the relationship between the Vienna Convention on the Law of Treaties and customary international law?
+- Vienna Convention on the Law of Treaties 1969 (VCLT)
+  - VCLT is considered the 'Treaty on Treaties' and as such, provides the principles of law relating to the drafting, application and interpretation of other treaties.
+  - It is largely recognised as the pre-eminent statement on the law of treaties, even by those States who are not parties to the Convention. 
+  - Codification of Customary International Law
+2. What are the basic elements of a treaty?
+- Elements of treaty making
+  - Proposal for a treaty
+  - Capacity to conclude treaties
+  - Adoption of the text
+  - Authentication of the text
+  - Consent to be bound
+- 
+3. How is consent of a state to be bound by a treaty established?
+- Article 7
+  - 1. A person is considered as representing a State for the purpose …for the purpose of expressing the consent of the State to be bound by a treaty if:
+    - (a) …produces appropriate full powers; or (b) it appears from the practice of the States concerned …that their intention ….
+  - 2. In virtue of their functions and without having to produce full powers, the following are considered as representing their State:
+    - (a) Heads of State, Heads of Government and Ministers for Foreign Affairs…; 
+    - (b) heads of diplomatic missions…; 
+    - (c) representatives accredited by States to an international conference or to an international organization
+4. What is a reservation? What is a declaration? How do we determine whether a reservation is compatible with a treaty?
+- Article 2(1)(d) 
+  - 'Reservation' means a unilateral statement, however phrased or named, made by a State, when signing, ratifying, accepting, approving or acceding to a treaty, whereby it purports to exclude or to modify the legal effect of certain provisions of the treaty in their application to that State"
+- 'Interpretative declaration def' means a unilateral statement, however phrased or named, made by a State or an international organization, whereby that State or that organization purports to specify or clarify the meaning or scope of a treaty or of certain of its provisions."
+5. What is the obligation of a signatory state prior to the entry into force of the treaty?
+- Obligation created should be governed by international law.  cf a Memorandum of Understanding (MOU) which does not necessarily contain an intention to create legal obligations under international law.
+- . When the parties to the later treaty do not include all the parties to the earlier one:
+  - (a) as between States parties to both treaties the same rule applies as in paragraph 3; (b) as between a State party to both treaties and a State party to only one of the treaties, the treaty to which both States are parties governs their mutual rights and obligations.
+- 
+
+TOCAS - Tutorial
+- R of Botox
+- Sonor = sepia
+- Tonka = teal
+- Aris = apple green
+
+## Week 7: Law of Treaties (II)
+
+Questions:
+1. What are the rules in respect of treaty interpretation? When can supplementary materials be used to interpret a treaty?
+- Treaty Interpretation – Three Schools of Thought
+  - Textual School – 'Ordinary approach' -  It looks into the 'ordinary' meaning of the text;
+  - Intentionalist School – 'Subjective approach' - attempted to ascertain the intention of the drafters;
+  - Teleological School – 'Teleological approach' - construe a treaty provision in light of the object and purpose of the treaty.
+- Article 31(1) of the Vienna Convention incorporates elements of all three schools 
+- Supplementary' means of interpretation
+  - Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and the circumstances of its conclusion, in order to confirm the meaning resulting from the application of article 31, or to determine the meaning when the interpretation according to article 31 :
+  - (a) leaves the meanmg ambiguous or obscure; or
+  - (b) leads to a result which is manifestly absurd or unreasonable.
+2. When can a third state be bound by the provisions of a treaty?
+- Art. 34-36 - treaties do not create obligations or rights for third states without their consent.
+- Free zones of Upper Savoy and the District of Gex case (1932) (France v Switzerland) PCIJ reports, Series A/B, No. 46
+3. When can a treaty be rendered invalid? How can the consent of a party to a treaty be impeached?
+- Article 42(1)
+  - The validity of a treaty or of the consent of a State to be bound by a treaty may be impeached only through the application of the present Convention.
+    - VCLT envisages roughly two categories of situations when invalidity may be invoked
+    -  Relative grounds for invalidity (Articles 46–50); - Treaties are voidable
+    -  Absolute grounds for invalidity (Articles 51–3) – Treaties are void ab initio
+- Validity of treaty
+  - Non compliance with municipal law 
+  - Error
+  - Fraud and corruption
+  - Coercion
+  - Peremptory norms of general international law
+4. Is non-compliance with a state's domestic law a grounds for rendering the treaty invalid?
+- Non-compliance with municipal law – (Relative ground)
+  - Constitutional ultra vires
+    - Article 46 
+5. What is a material breach? Who can invoke material breach of a bilateral treaty? Who can invoke material breach of a multilateral treaty?
+- Material breach
+  - Article 60
+    - 1. A material breach of a bilateral treaty by one of the parties entitles the other to invoke the breach as a ground for terminating the treaty or suspending its operation in whole or in part.
+    - 2. A material breach of a multilateral treaty
+      - (a) the other parties by unanimous agreement to suspend the operation of the treaty in whole or in part or to terminate it either: 
+        - (i) in the relations between themselves and the defaulting State, or 
+        - (ii) as between all the parties; 
+      - (b) a party specially affected by the breach to invoke it as a ground for suspending the operation of the treaty in whole or in part in the relations between itself and the defaulting State; 
+      - (c) any party other than the defaulting State to invoke the breach as a ground for suspending the operation of the treaty in whole or in part with respect to itself if the treaty is of such a character that a material breach of its provisions by one party radically changes the position of every party with respect to the further performance of its obligations under the treaty.
+    - 3. A material breach of a treaty, for the purposes of this article, consists in:
+      - (a) a repudiation of the treaty not sanctioned by the present Convention; or 
+      - (b) the violation of a provision essential to the accomplishment of the object or purpose of the treaty.
+Problem scenario: the TOCAS Treaty (part II)
+Sunor, Tonka, Aris and the Republic of Botox entered into the TOCAS three years ago, to cooperate to control people trafficking and smuggling across the bay of Voron (also known as the bay of Bulcan) region. 
+Since then, smuggling of illicit drugs has decreased, and the joint patrols undertaken by the four states have resulted in the prosecution of a number of high level criminal operatives.  People from the region and beyond, however, have continued to seek out Aris as a major migration destination.  Accordingly, Aris last year began construction of a wall to control unauthorised access to its territory.  The wall stretches along the border between Aris and Sunor, and continues eastwards along the border between Aris and Tonka.  In order to stop people crossing into Aris at the 'Goldian Gap', (where Aris, Tonka and Sunor share a border) Aris has entered into a bilateral agreement with Sunor to extend the wall along the border between Tonka and Sunor.  During the building of the wall, Aris redirects its patrols so that they are solely patrolling its own borders, rather than the borders of all States Parties to the TOCAS.
+Tonka and the Republic of Botox meet to respond to Aris' actions.  The Republic of Botox proposes that it will withdraw from common and joint patrols of the region.  Both Tonka and the Republic of Botox also cease providing intelligence and data under the treaty.  Tonka then announces a six month freeze on cooperating with Sunor at the Tonka/Sunor border.  The result will be that Sunor's strict drug laws will not be respected at the border.
+With reference to:
+- The negotiated treaty text (of the week of Sept 9th)
+- The background to the treaty (Canvas, Treaties I)
+- The Vienna Convention on the Law of Treaties and cases / state practice interpreting it
+- Other applicable sources of law
+Consider the legal implications of the States' Parties to the TOCAS' actions, and any implications under the law of treaties for the States' Parties. 
+- Aris - Botox position
+  - Art 62
+    - (1)(a)-(1)(b)
+    - (2)(b)
+  - Art 60
+  - Art 31(1)
+  - Aris have violated the terms of the treaty
+    - Preamble 'cooperation'
+    - Art 8 'patrols' of the contracting parties (should take together)
+- Tonka / Botox
+  - By stopping patrols
+  - Art 60(3)(b) a material breach = abreach of a provision essential to the objejct and purpose
+  - In a multilateral treaty 60(2)(a) in whole or part terminate or suspend between T and Aris or between T and everyone
+  - Danube Dams case
+  - T's actions not to share intelligence and freeze cooperation at the T/S border, these are not material breaches bc we've taken the option to suspend which means we aren't obliged to do those things
+  - Customary International Law - was never a basis in custom (no opinio juris - Rights of Passage) - treaty displaced the custom 
+  - Can treaty displace custom/treaty
+- Sunor
+  - Aris actions are a material breach - not through the bilateral agreement but their decision to stop the patrols (object and purpose)
+  - Tonka's suspension of border cooperation cannot be suspended under the treaty because of its existence in custom
+    - The Nicaragua case says custom and treaty can coexist on the same point at the same time.
+- Aris 
+  - Aris' actions are not a breach of the treaty - we are just cooperating, redirecting our patrols still fits within the definition of patrol activities, according to the preamble are and art 10, and 8, this is proportionate patrols / contributions in action
+  - This is a temporary suspension (Art 60)
+  - Art 62(1) - not a fundamental, reasonably foreseeable change
+  - Because we have not engaged in a material breach, then the actions by other states are material breaches
+  - The bilateral agreement with Sunor is legitimate and does not impact the treaty. But T and RoB this goes against the object and purpose (regional security)
+- Rejoinder
+  - T - This is not an economic proportionality
+  - Meaning of contributions proportionate to their economy
+  - Act 31: ordinary meaning in the context and in light of the object and purpose
+  - Art 32:'supplementary info'
+  - But - 60(2)(b) - specially affected state
+  - 60(2)(c) - if the treaty is of such a character that if breach by one party radically affects the obligations of every party.
+
+## Week 8: State Responsibility
+
+- What is the difference between primary and secondary rules in international law?
+  - Primary rules: States are bound by rules of international law 
+  - Secondary rules:
+    - -These concern the consequences of violations of international legal obligations (both under treaty & Customary International Law)
+    - -These apply to all states
+    - -These have principally been developed through customary international law
+- What is the status of the Articles on State Responsibility prepared by the International Law Commission?
+    - The Articles on Responsibility of States for Internationally Wrongful Acts, prepared by the International Law Commission, are widely regarded as reflecting customary international law but remain non-binding since they have not been formalized into a treaty.
+    - Statute of the International Law Commission
+      - Article 1, paragraph 1, -"Commission shall have for its object the promotion of the progressive development of international law and its codification". 
+      - Article 15-progressive development means "the preparation of draft conventions on subjects which have not yet been regulated by international law or in regard to which the law has not yet been sufficiently developed in the practice of States" 
+      - Codification means "the more precise formulation and systematization of rules of international law in fields where there already has been extensive State practice, precedent and doctrine"
+- What are the elements of establishing international responsibility of a state? Why is establishing attribution significant?
+    - State Responsibility arises in the following circumstances:
+      - 1. Existence of an international legal obligation in force between two or more states, or a legal obligation to the 'international community' (obligations erga omnes) 
+      - 2. Occurrence of an act or omission that:
+        - I. is attributed to that state
+        - Ii. breaches that obligation ('internationally  wrongful act')
+      - 3. The state cannot raise any circumstances or justifications for the internationally wrongful act that would preclude wrongfulness
+      - 4. Another state (the 'invoking' state) is entitled to make a claim (ie question of admissibility)
+    - 
+      - Obligation 
+      - Attribution to the state of an Act or Omission
+      - Breach + Injury
+      - Circumstances precluding wrongfulness
+      - Invocation of State Responsibility => Reparations
+- When is a state responsible for the act of another state?
+    - "A State which aids or assists another State in the commission of an internationally wrongful act by the latter is internationally responsible for doing so if: 
+      - (a) that State does so with knowledge of the circumstances of the internationally wrongful act; and 
+      - (b) the act would be internationally wrongful if committed by that State".
+    - Endorsed in Genocide (Bosnia and Herzegovina v Serbia and Montenegro) ICJ Reports 2007, p43, at p 217 as analogise to 'complicity'
+    - -Acts of a person 'directed or controlled' by the State – eg where third parties (usually a rebel group) act under the direction of another State 
+    - Plurality of responsible States 
+      - "1. Where several States are responsible for the same internationally wrongful act, the responsibility of each State may be invoked in relation to that act. 
+      - 2. Paragraph 1: 
+        - (a) does not permit any injured State to recover, by way of compensation, more than the damage it has suffered; 
+        - (b) is without prejudice to any right of recourse against the other responsible States." 
+- Which circumstances can preclude wrongfulness in respect of international responsibility? What are the consequences of invoking these circumstances? 
+    - Circumstances Precluding Wrongfulness
+      - Chapter V: Articles 20 – 26
+        - Consent (Article 20)
+        - Self-defense pursuant to UN Charter (Article 21)
+        - Countermeasures (Article 22 and Articles 49-54)
+        - Force majeure (Article 23)
+        - Distress (Article 24)	
+        - Necessity (Article 25)
+      - NB: None of the above can apply to breaches of jus cogens norms (Article 26)
+# Tutorial Question
+
+Monkravia is an authoritarian state whose political system is based on the teachings of the radical political theorist Iva Lotacrazy. One of the states that Monkravia has diplomatic relations with is the state of Bontland.
+Both Bontland and Monkravia are parties to a treaty known as the Lunga Accord which entered into force for both States on 1 January 2018. The Lunga Accord provides for an exchange of military personnel. Under the Lunga Accord members of the Monkravian military can be sent for training in principles of democratic governance at the Bontland Military Academy
+The Lunga Accord set out several provisions relating to how these military exchanges would occur. Article 7(1) of the Lunga Accord provides:
+"The authorities of Monkravia shall have exclusive jurisdiction over members of the Monkravia military on exchange under this accord and any accompanying civilian dependants accompanying them with respect to all offences committed within Bontland and otherwise punishable by the law of Bontland excepting for an offence relating to the security of Bontland. Bontland retains exclusive jurisdiction in relation to all offences relating to the security of Bontland that may be committed by Monkravia military personnel on exchange under this Accord."
+Article 7(2) of the Lunga Accord then goes on to provide:
+"an offence relating to the security of a State shall include:
+(i) treason against the State;
+(ii) sabotage, espionage or violation of any law relating to official secrets of that State, or secrets relating to the national defence of that State.
+Article 7(3) of the Lunga Accord further clarifies
+"The foregoing provisions of this Article shall not confer on the military authorities of  Monkravia any right to exercise jurisdiction over persons who are nationals of or ordinarily resident in Bontland unless they are members of the Monkravia military forces.
+Article 8 of the Lunga Accord also provides:
+- The military authorities of Monkravia and the authorities of Bontland shall assist each other in accordance with arrangements to be agreed to by them in the arrest of members of the Monkravia military or their dependants in Bontland and in handing them over to the authority which is to exercise jurisdiction in accordance with the above provisions.
+- The authorities of Bontland shall notify promptly the military authorities of Monkravia of the arrest of any member of the Monkravia military or their dependants.
+In 2021 Bontland enacted the Status of Forces Implementation Act (hereinafter the SFIA). The effect of the SFIA was to transpose the provisions of the Lunga Accord into Bontlands domestic law. A copy of the Lunga Accord was annexed to the SFIA and section 17(b) of the SFIA provided "The Lunga Accord shall have force of Law in Bontland."
+For a number of years the Lunga Accord was implemented by both states without incident. However, in March 2024 Colonel Mongus Drinkongo was sent on exchange to Bontland and began attending the Bontland Military Academy. Colonel Drinkongo is the second eldest son of the President of Monkravia and is widely expected to succeed his father as President of Monkravia one day. Three weeks after arriving in Bontland Colonel Drinkongo murdered another soldier who made derogatory comments about his father. The dead soldier was the son of a well-respected political journalist from Bontland.
+Colonel Drinkongo has been arrested by Bontland Police. Upon his arrest, Colonel Drinkongo appeared in a closed session of the Central Bontland Magistrates court and inter alia invoked his immunity from jurisdiction for the alleged crime pursuant to the Lunga Accord. Before the magistrate presiding and on a subsequent appeal to the Bontland Supreme Court his claim to immunity was rejected and his trial on the charge of murder has been set down for 4 December 2024. The Bontland police did not notify Monkravia of Colonel Drinkongos arrest. Monkravia only became aware of his arrest due to media reporting of the appeal to the Bontland Supreme Court.
+Outraged by his sons detention President Drinkongo has demanded his son be immediately released. As part of a multi-pronged diplomatic initiative to resolve this crisis Monkravia has commenced proceedings before the International Court of Justice (ICJ) alleging that Bontland is in contravention of its obligations under international law.
+You work as an intern at the ICJ. One of the ICJ judges has asked you to assist her to prepare for the upcoming hearing of the case. Please prepare a memorandum of advice to the judge focussing on issues of State responsibility. In particular, the judge has asked you to highlight in your advice:
+- What are the primary obligations of Bontland?
+  - All offences except for offences relating to security of Bontland are to under exclusive jurisdiction of Monkravia
+  - The authorities of Bontland are required to notify military authorities of any arrest
+  - Bontland and Monkravia will issue joint operation for arrest
+- Has Bontland committed any internationally wrongful act(s)? If so explain how.
+  - Yes, violated treaty obligations as apply to Colonel Drinkongo, as murder is not a crime of state security per the treaty (Art 8 of Lunga, Art 4 of VLT)
+  - Bontland did not jointly arrest Colonel, did not notify Monkravia, held multiple trials without jurisdiction
+- Can any internationally wrongful act be attributed to Bontland? If so explain how?
+Assume that all States are members of the United Nations and all States have been parties to the 1969 Vienna Convention on the Law of Treaties (VCLT) since its entry into force in 1980. Both Monkravia and Bontland have filed declarations accepting the compulsory jurisdiction of the ICJ in relation to all disputes arising under international law including under the Lunga Accord pursuant to article 36(2) of the ICJ Statute.
+Obligations (under Primary Law)
+- Lunga Acccord - VCLT
+  - Art 7(1) 
+    - M has exclusive jurisdiction over M's military EXCEPT offences of the security of B
+  - Art 7(2)
+    - Defines offenses against the security of B
+  - Art 8 - 
+    - M and B are to assist each other in arrest of members of the M military and hading over to the authority that exercises jurisdiction. 
+    - B has to notify the M authorities of military or dependants 
+- Breach
+  - Bontland 
+    - did not jointly arrest Colone (Art 8), 
+    - did not notify Monkravia (Art 8)
+    - held multiple trials without jurisdiction
+      - murder is not a crime of state security per the treaty (Art 7 of Lunga) 
+    - VCLT - material breach 60(1) repudiation of the treaty of the violation of a provision that is essential to the object and purpose of the treaty.
+- Attribution
+  - Courts (Judicature) and Bontland Police (Executive) are a clear organ of Bontland
+    - ARSIWA Art 4 - 'Organs of the state' (Armed Activities Case - DRC Uganda). 
+    - If students arrest him -
+      - Article 11 - ILC Draft Articles (ARSIWA) - conduct acknowledged and accepted by the state
+        - United States Diplomatic and Consular Staff in Iran (US v Iran) ('Tehran Hostages Case') ICJ Rep 1980 
+## Week 9: State Responsibility II
+
+Questions
+- Which circumstances can preclude wrongfulness in respect of international responsibility? What are the consequences of invoking these circumstances? 
+  - ARSIWA (Articles on State Responsibility)
+  - Circumstances Precluding Wrongfulness
+    - Chapter V: Articles 20 – 26
+      - Consent (Article 20)
+        - See ARSIWA 
+      - Self-defense pursuant to UN Charter (Article 21)
+        - Self defence Nuclear Weapons Ad Op - it won't be wrongful if it is lawful use of self defence. 
+      - Countermeasures (Article 22 and Articles 49-54)
+        - Defined in Ch II of Part 3 must be proportionate (Air services agreement); instrumental in character to induce compliance
+      - Force majeure (Article 23)
+        - irresistible force, unforeseen event. 
+        - The wrongful act has to be involuntary ie there's no other option but to act 
+        - Rainbow Warrior - absolute and material impossibility
+      - Distress (Article 24)	
+        - no other reasonable way, in a situation of distress, of saving the author's life or the lives of other persons entrusted to the author's care"
+          - See Art 24(2) exceptions
+          - Rainbow Warrior case - no peril to the individual therefore no distress
+      - Necessity (Article 25)
+        - Where it's the only way for a state to safeguard an essential interest against a grave and immanent peril. 
+        - Most controversial and also most invoked. 
+        - Can't seriously impair the itnerests of another state or international community as a whole (Danue Dams)
+  - Article 27 Consequences of invoking a circumstance precluding wrongfulness 
+    - The invocation of a circumstance precluding wrongfulness in accordance with this chapter is without prejudice to: 
+      - (a) compliance with the obligation in question, if and to the extent that the circumstance precluding wrongfulness no longer exists; 
+      - (b) the question of compensation for any material loss caused by the act in question.
+- What are the legal consequences of an internationally wrongful act?
+  - ARSIWA (Articles on State Responsibility)
+  - Consequences of an Internationally Wrongful Act
+    - Article 28
+      - The legal responsibility of a State which is entailed by an internationally wrongful act in accordance with the provisions of part one involves legal consequences as set out in this part.
+    - Article 29: Continued duty of performance
+      - Gabčíkovo-Nagymaros Project case (Hungary v. Slovakia), ICJ Reports 1997, p.7
+        - The legal consequences of an internationally wrongful act under this part do not affect the continued duty of the responsible State to perform the obligation breached.
+    - Article 30: Cessation and non-repetition
+      - The State responsible for the internationally wrongful act is under an obligation:
+        - (a) to cease that act, if it is continuing
+        - (b) to offer appropriate assurances and guarantees of non-repetition, if circumstances so require.
+      - Rainbow Warrior case (New Zealand v France) (1990) RIAA Vol.XX, 217
+      - Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v Belgium) ICJ Reports 2002, p.3
+    - Article 31: Obligation to make full reparation
+      - 1. The responsible State is under an obligation to make full reparation for the injury caused by the internationally wrongful act.
+      - 2. Injury includes any damage, whether material or moral, caused by the  internationally wrongful act of a State.
+- What is the obligation of cessation? What is the obligation to offer assurances and guarantees of non-repetition?
+  - ARSIWA (Articles on State Responsibility)Article 30: Cessation and non-repetition
+    - The State responsible for the internationally wrongful act is under an obligation:
+      - (a) to cease that act, if it is continuing
+      - (b) to offer appropriate assurances and guarantees of non-repetition, if circumstances so require
+- What is the obligation to make full reparation? What are the different forms of reparation? Is there a hierarchy?
+    - Article 31: Obligation to make full reparation
+      - 1. The responsible State is under an obligation to make full reparation for the injury caused by the internationally wrongful act.
+      - 2. Injury includes any damage, whether material or moral, caused by the  internationally wrongful act of a State.
+    - Article 34: Form of Reparations
+      - Full reparation for the injury caused by the internationally wrongful act shall take the form of restitution, compensation and satisfaction, either singly or in combination in accordance with the provisions of this chapter.
+- What is a peremptory norm? How is a serious breach of a peremptory norm defined?
+    - Peremptory norms of general international law
+      - Article 53 VCLT
+        - ...a  peremptory  norm  of  general  international  law  is  a  norm  accepted  and recognized by the international community of States as a whole as a norm from which  no  derogation  is  permitted and  which  can  be  modified  only  by  a subsequent norm of general international law having the same character.
+        - Barcelona Traction, Light and Power Company Ltd case (Belgium v. Spain), Second Phase, ICJ Reports 1970, p.3 
+    - Jus cogens
+- Who can invoke the international responsibility of a state?
+  - Article 42: Invocation by Injured State
+    - A state is entitled as an injured State to invoke the responsibility of another State if the obligation breached is owed to:
+      - (a) that state individually; or
+      - (b) a group of states including that State, or the international community as a whole, 
+      - and the breach of the obligation:
+      - (i) specially affects that state; or
+      - (ii) is of such a character as radically to change the position of all the other states to which the obligation is owed with respect to the further performance of the obligation.
+  - Article 46 Plurality of Injured States 
+    - Where several States are injured by the same internationally wrongful act, each injured State may separately invoke the responsibility of the State which has committed the internationally wrongful act. 
+  - Article 47 Plurality of Responsible States 
+    - Where several States are responsible for the same internationally wrongful act, the responsibility of each State may be invoked in relation to that act. 
+    - Paragraph 1: 
+      - (a) does not permit any injured State to recover, by way of compensation, more than the damage it has suffered; 
+      - (b) is without prejudice to any right of recourse against the other responsible States. 
+  - Article 45: Loss of the Right to Invoke Responsibility
+  - Article 48: Invocation by a State other than an injured State
+    - 1. Any state other than an injured state is entitled to invoke the responsibility of another state in accordance with paragraph 2 if:
+      - (a) the obligation breached is owed to a group of States including that State, and is established for the protection of a collective interest of the group; or
+      - (b) the obligation breached is owed to the international community as a whole.
+    - 2. Any state entitled to invoke responsibility under paragraph 1 may claim from the responsible state:
+      - (a) cessation of the internationally wrongful act, and assurances and guarantees of non-repetition in accordance with article 30; and
+      - (b) performance of the obligation of reparation in accordance with the preceding articles, in the interest of the injured state or of the beneficiaries of the obligation breached.
+  - Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v Myanmar) (Provisional Measures [2020] ICJ Reports 3
+### 4.2.3 Tutorial: Problem Question (Part 2)
+
+Review the answer to the question on State Responsibility which we developed in our last class. Building on that answer consider the remaining issues relating to State Responsibility to give a complete answer to this question. In particular, your answer this week should consider issues such as:
+- Are there any circumstances precluding wrongfulness that Bontland could invoke in this case?
+- What are the legal consequences of Bontland's internationally wrongful act (s)?
+- Who can invoke the international responsibility of Bontland?
+## 
 

@@ -2,7 +2,7 @@
 
 ## Cheat Sheet
 
-- Evidence Evifilta
+- Week 1: Evifilta
   - 
   - Admissibility – A 3 Stage Process
     - In assessing the admissibility of evidence the Court undertakes a three stage process where each threshold must be met before moving to the next step:
@@ -13,26 +13,269 @@
   - s 26 Court's control over questioning of witnesses
   - s 29 Manner and form of questioning witnesses and their responses
   - Browne v Dunn Rule
+    - When W is giving evidence and you intend to call evidence that contradicts them, you must put the substance of that contradictory evidence to the witness during cross-examination and give them the opportunity to comment on it.
+    - Duty for parties to 'put' to W any matter that may be used to suggest their evidence is untruthful, unreliable or which contradicts their testimony
   - s 38 Unfavourable Witnesses
   - s 39 Limits on re-examination
   - s 42 Leading Questions 
   - s 41 - Improper Questions
   - s 43 Prior Inconsistent Statements of Witnesses
 - Week 3: Who can testify
-  - Sections 89, 89A and 20: Inferences from silence  and comments 
+  - Sections 89, 89A and 20: Inferences from silence and comments 
   - Dyers v The Queen (2002) 210 CLR 285 [paras 1-23] 
   - Weissensteiner v R [1993] HCA 65
 - Week 4: Relevance
-  - Main EA provisions that deal with Relevance are s 55 & s 56.  See also s 57 (Provisional Relevance) & s 58 (Inference as to Relevance – relates to relevance of documents etc). 
+  - Main EA provisions that deal with Relevance are s 55 & s 56. See also s 57 (Provisional Relevance) & s 58 (Inference as to Relevance – relates to relevance of documents etc). 
   - Smith v The Queen (2001) 
   - Papakosmas v The Queen (1999) 196 CLR 297
   - Evans v The Queen [2007] HCA 59
 - Week 5: Hearsay
+  - Evidence Act 1995 (NSW), Section 59: The hearsay rule 
+  - Evidence Act 1995 (NSW), Section 62 
+  - Subramaniam v Public Prosecutor [1956] 1 WLR 965
+  - Process so far 
+    - Step 1 is to identify the 'previous representation' 
+    - Step 2 is to work out who made the representation. (this becomes important when working out what exceptions to the Hearsay Rule may / may not apply).
+    - Step 3 is to derive the intention of the Maker in making the representation. If made unintentionally, it will not be captured by s 59.
+    - Step 4 is to identify the purpose of the evidence. Is it being adduced to prove the existence of an asserted fact? (Yes = hearsay - s 59 applies; No = not hearsay - s 59 does not apply).
+- Week 6: Hearsay
+  - 
+  - Hearsay Exceptions
+    - 'First-Hand Hearsay Exceptions' or 
+      - 
+    - 'More Remote Hearsay Exceptions'.
+    - Maker available (s 66), criminal 
+      - Papakosmas v The Queen (1999) 196 CLR 297, (re-read this case focusing upon the hearsay issue) 
+    - Fresh in the memory (s 66(2A)) 
+      - Graham v R (1998) 195 CLR 606, accessible at: 
+      - ALRC Report 102, section on 'Representations 'fresh in the memory'', accessible at: 
+    - Intention (s 59(2A)) 
+      - R v Hannes [2000] NSWCCA 503 (1 December 2000)
+    - Maker unavailable (s 65), criminal 
+      - Puchalski v Regina [2007] NSWCCA 220 (23 July 2007)
+  - Steps for hearsay
+    - Establish relevance - s 55
+    - Establish Hearsay - s 59
+    - Establishing firsthand hearsay exception - s 62 
+      - Maker has personal knowledge of event upon which PR based
+      - Witness perceived PR by maker
+    - Yes/no, under s (63-66) for hearsay purposes (to prove the asserted fact)
+- Week 7: Credability
+  - Admissible for its …[hearsay/credability] purpose
+  - 
+  - Evidence Act 1995 (NSW)
+    - ss 101A – 108C 
+    - ss 109-112A: Character Evidence,
+  - Papakosmas v The Queen (1999) 196 CLR 297,
+    - now focusing on the issue of 'credibility'
+  - Adam v R (2001) 207 CLR 96, in particular paras 17 – 39
+- Week 8: Evidence for Non-Hearsay Purpose / Admissions
+  - The s 60 Pathway
+    - Situation
+      - Your Witness has made a Statement to the Police, but in your Examination-in-Chief, he fails to come up to proof (ie he fails to adopt what was said in his Police Statement). How can you use what was said in the Prior Inconsistent Statement (PIS) as evidence of the truth of what was asserted in it ??? 
+        - Make an application to have your Witness declared an Unfavourable Witness ( s 38).
+        - Seek leave ( s 192) to ask leading questions of your Witness ( s 42).
+        - Cross examine the Witness on Prior Inconsistent Statement ( s 43).
+        - Assess under  s 101A: 
+          - Evidence has 2 purposes – Credibility and Hearsay but not admissible for its Hearsay purpose (at this point in time) after evaluating hearsay incompatibility through s 66(3). 
+          - Credibility Rule ( s 102) must be applied.
+        - Although  s 102 applies, can use either  s 103 and  s 106 (Credibility Rule exceptions) to get evidence in for its Credibility purpose.
+        - Once the evidence is in for its Credibility purpose,  s 60 may be applied to have the evidence within the PIS used for its Hearsay purpose (subject to any of the Discretionary Rules being applied).
+      - Declare the witness unfavourable (s 38).
+      - Seek leave to ask leading questions (s 42, s 192).
+      - Cross-examine on the prior inconsistent statement (s 43), using the Credibility Rule (s 102).
+        - Make aware of circumstances when making the statement
+        - Point out inconsistencies 
+      - Once the evidence is admitted for credibility purposes assessing under s 101A after evaluating hearsay incompatibility through s 66(3), the prosecution may seek to apply section 60 to use the prior inconsistent statement for its hearsay purpose (to prove the truth of its contents), subject to discretionary limitations (s 135, s 136). 
+      - Using s 103 exclusion to exclude the operation of s 102
+        - Could substantially affect credit of the witness
+      - Use s 106 to rebut denials
+        - Put allegation to W
+        - Deny/Not agree
+        - No leave necessary - 106(2)(c)
+  - Evidence Act 1995 (NSW), 
+    - s 60: Evidence relevant for a non hearsay purpose 
+    - ss 81 – 90: Admissions 
+  - ALRC Uniform Evidence Law Final Report 102 (2005), Chapter 7 'The Hearsay Rule and Section 60'
+    - http://www.austlii.edu.au/au/other/alrc/publications/reports/102/12.ht
+  - Lee v The Queen (1998) 195 CLR 594 accessible at:  
+    - http://www.austlii.edu.au/au/cases/cth/HCA/1998/60.html 
+  - Sections 84, 85, and 86 of the Evidence Act 1995 (Cth) deal specifically with the circumstances surrounding the admission (oppression, reliability, and proper recording) and provide avenues for the defence to challenge its admissibility.
+  - s 90 gives the court discretion to exclude the admission if it would be unfair to Max.
+  - s 138 and s 139 address improper procedures and the failure to caution Max properly, which could lead to exclusion of the admission.
 ## Table of Contents
 
 
+Cheat Sheet
+● Evidence Evifilta
+○
+○ Admissibility – A 3 Stage Process
+● Week 2: Questioning Witnesses – Evidence Act 1995
+○ s 26 Court's control over questioning of witnesses
+○ s 29 Manner and form of questioning witnesses and their responses
+○ Browne v Dunn Rule
+○ s 38 Unfavourable Witnesses
+○ s 39 Limits on re-examination
+○ s 42 Leading Questions
+○ s 41 - Improper Questions
+○ s 43 Prior Inconsistent Statements of Witnesses
+● Week 3: Who can testify
+○ Sections 89, 89A and 20: Inferences from silence and comments
+○ Dyers v The Queen (2002) 210 CLR 285 [paras 1-23]
+○ Weissensteiner v R [1993] HCA 65
+● Week 4: Relevance
+○ Main EA provisions that deal with Relevance are s 55 & s 56. See also s 57 (Provisional Relevance) & s 58 (Inference as to Relevance – relates to relevance of documents etc).
+○ Smith v The Queen (2001)
+○ Papakosmas v The Queen (1999) 196 CLR 297
+○ Evans v The Queen [2007] HCA 59
+● Week 5: Hearsay
+○ Evidence Act 1995 (NSW), Section 59: The hearsay rule
+○ Evidence Act 1995 (NSW), Section 62
+○ Subramaniam v Public Prosecutor [1956] 1 WLR 965
+○ Process so far
+● Week 6: Hearsay
+○ A close up of a mapDescription automatically generated
+○ Hearsay Exceptions
+○ Steps for hearsay
+● Week 7: Credability
+○
+● Week 8
+○ The s 60 Pathway
 Table of Contents
 Week 1: Evidence Overview
+● Evidence: Evifilta
+○
+● Evidence
+○ What is evidence?
+○ Why do we need rules / laws that govern the use of evidence?
+○ Three main reasons:
+○ Uniform Evidence Legislation
+○ Evidence Act Structure
+○ Admissibility – A 3-Stage Process
+● Documentary Evidence Real Evidence
+○ Documents Generally
+○ Definition of "Document"
+○ Clause 8 Part 2 of the Dictionary:
+○ Real Evidence
+○ Three types of evidence
+○ R v L Cassar; R v E Sleiman (Judgment No 28) [1999] NSWSC 651
+○ Case Summary: Evans v The Queen [2007] HCA 59
+Week 2: Witness Competence, Compellability, and Examniation
+● Week 2: Witnesses
+○ R v Khan NSWSC 1995
+● 2A: Witness Competence & Compellability
+○ Witness Competence & Compellability
+○ Who can give evidence ?
+○ Who must give evidence?
+○ Evidence – Sworn / Affirmed / Unsworn
+○ Child Witness
+● 2B: Witness Examination
+○ Trial Procedure (Criminal)
+○ How is evidence adduced ?
+○ Questioning Witnesses
+○ The Rule in Browne v Dunn
+○ Reviving Memory
+○ s 48 Unfavourable Witnesses
+○ s 41 - Improper Questions
+○ s 43 Prior Inconsistent Statements of Witnesses
+○ R v Glasby [2000] NSWCCA 83 (22 June 2000)
+Week 3: Calling Witnesses / Right to Silence
+● Calling Witnesses
+○ Witnesses
+○ Failure to Give or Call Evidence
+○ Calling Witnesses
+○ Can the Judge Call a Witness?
+○ Failure to Call a Witness
+○ Failure to Call Evidence
+● Right to Silence
+○ The Menu
+○ The Right to Silence
+○ Pre-Trial Silence
+○ Silence at Trial
+Week 4: Relevance
+● Relevance
+○ Admissibility – A 3 Stage Process
+○ Common Terms
+● The Concept of Relevance
+○ Relevance
+○ EVIDENCE ACT 1995 - SECT 55
+○ Relevance
+○ Relevance & Use
+○ Papakosmas v The Queen (1999) 196 CLR 297
+○ Smith v The Queen (2001) 2016 CLR 650
+○ Smith v The Queen (2001)
+○ Evans v The Queen [2007] HCA 59
+○ Relevance Summary
+Week 5: Hearsay Exclusionary Rule
+● Hearsay Exclusionary Rule
+○ An introductory thought !!
+○ Debunking the myths about Hearsay
+○ The Hearsay Rule
+○ First-Hand and More Remote Hearsay
+○ Examples
+Week 6: Hearsay Evidence
+● Hearsay Evidence
+○ Hearsay Revision
+○ First Hand and More Remote Hearsay
+● Exceptions to Hearsay Rule
+○ Exceptions to Hearsay Rule
+○ Overview of First Hand Hearsay Exceptions
+○ Maker Availability
+○ s 63 Exception to Hearsay Rule
+○ s 64 Exception to Hearsay Rule
+○ s 65 Exception to Hearsay Rule
+○ s 66 Exception to Hearsay Rule
+○ Graham v The Queen (1998) 195 CLR 606
+○ 66A Exception: contemporaneous statements about a person's health etc
+○ Some Other Hearsay Exceptions
+○ Overview of Hearsay Evidence
+Week 7: Witness Credibility / Character Evidence
+● Witness Credibility
+○ What is Credibility ?
+○ What is Credibility ?
+○ What is Credibility ?
+○ Reasons why you would wish to use credibility evidence.
+○ Credibility under the Evidence Act
+○ Credibility under the Evidence Act
+○ Using s101A
+○ Adam v The Queen (2001) 183 ALR 625
+○ Using s101A
+○ Section 101A Pathways
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+○ Exceptions to Credibility Rule
+● 7B: Character Evidence
+○ Overview of Character Evidence
+○ Relevance of Character Evidence
+○ Issues with Character Evidence
+○ s 110 Evidence About Character of Defendant
+○ s 110 Evidence About Character of Defendant
+○ s 112 Leave to Cross Examine about Character
+○ Advance Rulings on Grant of Leave
+○ Judicial Comments and Discretions
+Week 8: Evidence for Non-Hearsay Purpose / Admissions
+● Evidence for Non-Hearsay Purpose
+○ Hearsay & Multi-Purpose Evidence
+○ Section 60 Exception to the Hearsay Rule
+○ Lee v The Queen (1998) 195 CLR 594
+○ s 60 – Hearsay Exception
+○ s 60 – Hearsay Exception
+○ Using  s 60 (for good rather than evil)
+○ AN EXAMPLE OF WHEN  s 60 CAN BE APPLIED
+○ The s 60 Pathway
+● 8B: Admissions
+○ Part 1 Definitions: "Admission"
+○ Overview of Admissions
+○ s 81 Hearsay and Opinion Rules: exception for Admissions and related representations
+○ Types of Admissions
+○ Exclusionary Rules Relating to Admissions
+○ Exclusionary Rules Relating to Admissions
+○ s 90 Discretion to Exclude Admissions
 
 ## Week 1: Evidence Overview 
 
@@ -231,61 +474,61 @@ Week 1: Evidence Overview
       - Evans v The Queen is an important case in evidence law, setting a precedent for the admissibility of in-court demonstrations.
       - It highlights the need for careful judicial balancing between the probative value of evidence and the risk of unfair prejudice to ensure a fair trial.
       - This case is often referenced in legal discussions concerning the limits and conditions for admitting similar in-court evidence.
-## Week 2: Witnesses 
+## Week 2: Witness Competence, Compellability, and Examniation 
 
-- R v Khan NSWSC 1995
-  - Court: Supreme Court of New South Wales
-  - Parties:
-    - Prosecution: Regina (The Crown)
-    - Defendant: Gulam Mohammad Khan
-  - Procedural History:
-    - Gulam Mohammad Khan was on trial for the murder of Mohammad Abbas. 
-    - The Crown sought to compel Mr. Khan's wife, Jatun Bibi Khan, to testify against her husband. 
-  - Original Dispute:
-    - The dispute originated from the events of 4 December 1993, when Gulam Mohammad Khan allegedly murdered Mohammad Abbas, who had been living with the Khan family. 
-    - The prosecution aimed to call Mrs. Khan as a witness to testify about her relationship with Abbas and the circumstances surrounding the murder.
-  - Reason for Trial:
-    - The trial was convened to determine Mr. Khan's guilt in the murder of Mohammad Abbas, with the Crown seeking to establish that the killing was not the result of a sudden loss of self-control (provocation) but rather a premeditated act of revenge.
-  - Material Facts:
-    - Mohammad Abbas, a friend of the Khan family, had been living with them for some time. During Mr. Khan's absence in Fiji, Mrs. Khan's relationship with Abbas grew closer, and they became sexually involved shortly before the murder. 
-    - On the night of the murder, Mr. Khan allegedly caught them together and, in a fit of rage, stabbed Abbas multiple times. Mrs. Khan's initial statement to the police implicated her husband, but she later indicated that she would retract some of that statement if called to testify, claiming that her involvement with Abbas was coerced.
-  - Issue Raised:
-    - The central issue was whether the court should compel Mrs. Khan to testify against her husband despite her objection, balancing the harm that might be caused to the marital relationship against the need for her testimony in the interests of justice.
-  - Law(s)/Statute(s) in Contention:
-    - Section 18 of the Evidence Act 1995 (NSW): 	
-      - This section allows a court to compel a witness, including a spouse, to testify even if they object, provided that the court determines the necessity of the evidence outweighs any potential harm to the witness or their relationship with the defendant.
-    - Section 137 of the Evidence Act 1995 (NSW): 
-      - This section provides the court with discretion to exclude evidence if its probative value is outweighed by the risk of unfair prejudice to the defendant.
-  - Precedences:
-    - Richardson v The Queen (1974) 131 CLR 116: The Crown referenced this case in arguing that Mrs. Khan's prior statement to the police could be used as evidence, even if she recanted it during her testimony.
-    - R v Blewitt (1988) 62 ALR 503: This case was cited regarding the admissibility of prior statements when a witness deviates from their earlier testimony.
-  - Tests:
-    - The court applied the balancing test outlined in section 18(6) of the Evidence Act 1995 (NSW), considering the potential harm to Mrs. Khan and her marital relationship against the importance of her testimony to the Crown's case.
-  - Words and Phrases Considered:
-    - "Provocation": The defense centered on whether Mr. Khan acted under sudden provocation upon discovering his wife with Abbas, which could reduce his culpability from murder to manslaughter.
-    - "Harm to relationship": The court considered the nature of the harm that compelling Mrs. Khan to testify might cause to her marital relationship.
-  - Arguments by Party:
-    - Prosecution: Argued that Mrs. Khan's testimony was crucial to establishing the sequence of events leading to Abbas's death, particularly to counter the defense's claim of provocation. 
-      - The Crown also contended that Mrs. Khan's initial police statement could be treated as evidence under the new Evidence Act, even if she retracted it on the stand.
-    - Defense: Argued that compelling Mrs. Khan to testify would cause significant harm to her marital relationship, which still endured despite the charges. 
-      - The defense also suggested that her testimony would lack credibility and that its key points could be corroborated by other evidence, making it unnecessary to compel her testimony.
-  - Judicial Opinions:
-    - The court, presided over by Justice Abadee, weighed the arguments presented by both parties. 
-    - Justice Abadee acknowledged the potential importance of Mrs. Khan's testimony but ultimately decided that the harm to her relationship with her husband outweighed the benefits of compelling her testimony.
-  - Legal Reasoning:
-    - The court reasoned that although Mrs. Khan's testimony could be relevant to the issue of provocation, the potential harm to the marital relationship was significant. 
-    - The court also noted that much of the evidence Mrs. Khan could provide was available from other sources, including the defendant's own statements to the police and other witnesses. 
-    - Therefore, the court chose not to compel Mrs. Khan to testify, as the damage to the marriage outweighed the evidentiary value her testimony might provide.
-  - Ratio Decidendi:
-    - The court's decision was based on the principle that the harm likely to be caused to Mrs. Khan's marital relationship by compelling her to testify outweighed the desirability of having her evidence presented in court. 
-    - The ruling emphasized the court's discretion under section 18 of the Evidence Act 1995 (NSW), prioritizing the protection of personal relationships where the evidentiary value does not justify the potential harm.
-  - Result:
-    - The court ruled that Mrs. Khan would not be compelled to testify against her husband, and her prior statement to the police was not admitted as evidence.
-  - Relevance to Modern Law:
-    - This case remains relevant in discussions about the limits of compelling testimony from unwilling witnesses, especially within family contexts. 
-    - It highlights the judiciary's role in safeguarding personal relationships from undue harm during legal proceedings and serves as a precedent for similar cases involving the compellability of spousal testimony.
-## Lecture 2A: Witness Competence and Compellability
-
+- Week 2: Witnesses
+  - R v Khan NSWSC 1995
+    - Court: Supreme Court of New South Wales
+    - Parties:
+      - Prosecution: Regina (The Crown)
+      - Defendant: Gulam Mohammad Khan
+    - Procedural History:
+      - Gulam Mohammad Khan was on trial for the murder of Mohammad Abbas. 
+      - The Crown sought to compel Mr. Khan's wife, Jatun Bibi Khan, to testify against her husband. 
+    - Original Dispute:
+      - The dispute originated from the events of 4 December 1993, when Gulam Mohammad Khan allegedly murdered Mohammad Abbas, who had been living with the Khan family. 
+      - The prosecution aimed to call Mrs. Khan as a witness to testify about her relationship with Abbas and the circumstances surrounding the murder.
+    - Reason for Trial:
+      - The trial was convened to determine Mr. Khan's guilt in the murder of Mohammad Abbas, with the Crown seeking to establish that the killing was not the result of a sudden loss of self-control (provocation) but rather a premeditated act of revenge.
+    - Material Facts:
+      - Mohammad Abbas, a friend of the Khan family, had been living with them for some time. During Mr. Khan's absence in Fiji, Mrs. Khan's relationship with Abbas grew closer, and they became sexually involved shortly before the murder. 
+      - On the night of the murder, Mr. Khan allegedly caught them together and, in a fit of rage, stabbed Abbas multiple times. Mrs. Khan's initial statement to the police implicated her husband, but she later indicated that she would retract some of that statement if called to testify, claiming that her involvement with Abbas was coerced.
+    - Issue Raised:
+      - The central issue was whether the court should compel Mrs. Khan to testify against her husband despite her objection, balancing the harm that might be caused to the marital relationship against the need for her testimony in the interests of justice.
+    - Law(s)/Statute(s) in Contention:
+      - Section 18 of the Evidence Act 1995 (NSW): 	
+        - This section allows a court to compel a witness, including a spouse, to testify even if they object, provided that the court determines the necessity of the evidence outweighs any potential harm to the witness or their relationship with the defendant.
+      - Section 137 of the Evidence Act 1995 (NSW): 
+        - This section provides the court with discretion to exclude evidence if its probative value is outweighed by the risk of unfair prejudice to the defendant.
+    - Precedences:
+      - Richardson v The Queen (1974) 131 CLR 116: The Crown referenced this case in arguing that Mrs. Khan's prior statement to the police could be used as evidence, even if she recanted it during her testimony.
+      - R v Blewitt (1988) 62 ALR 503: This case was cited regarding the admissibility of prior statements when a witness deviates from their earlier testimony.
+    - Tests:
+      - The court applied the balancing test outlined in section 18(6) of the Evidence Act 1995 (NSW), considering the potential harm to Mrs. Khan and her marital relationship against the importance of her testimony to the Crown's case.
+    - Words and Phrases Considered:
+      - "Provocation": The defense centered on whether Mr. Khan acted under sudden provocation upon discovering his wife with Abbas, which could reduce his culpability from murder to manslaughter.
+      - "Harm to relationship": The court considered the nature of the harm that compelling Mrs. Khan to testify might cause to her marital relationship.
+    - Arguments by Party:
+      - Prosecution: Argued that Mrs. Khan's testimony was crucial to establishing the sequence of events leading to Abbas's death, particularly to counter the defense's claim of provocation. 
+        - The Crown also contended that Mrs. Khan's initial police statement could be treated as evidence under the new Evidence Act, even if she retracted it on the stand.
+      - Defense: Argued that compelling Mrs. Khan to testify would cause significant harm to her marital relationship, which still endured despite the charges. 
+        - The defense also suggested that her testimony would lack credibility and that its key points could be corroborated by other evidence, making it unnecessary to compel her testimony.
+    - Judicial Opinions:
+      - The court, presided over by Justice Abadee, weighed the arguments presented by both parties. 
+      - Justice Abadee acknowledged the potential importance of Mrs. Khan's testimony but ultimately decided that the harm to her relationship with her husband outweighed the benefits of compelling her testimony.
+    - Legal Reasoning:
+      - The court reasoned that although Mrs. Khan's testimony could be relevant to the issue of provocation, the potential harm to the marital relationship was significant. 
+      - The court also noted that much of the evidence Mrs. Khan could provide was available from other sources, including the defendant's own statements to the police and other witnesses. 
+      - Therefore, the court chose not to compel Mrs. Khan to testify, as the damage to the marriage outweighed the evidentiary value her testimony might provide.
+    - Ratio Decidendi:
+      - The court's decision was based on the principle that the harm likely to be caused to Mrs. Khan's marital relationship by compelling her to testify outweighed the desirability of having her evidence presented in court. 
+      - The ruling emphasized the court's discretion under section 18 of the Evidence Act 1995 (NSW), prioritizing the protection of personal relationships where the evidentiary value does not justify the potential harm.
+    - Result:
+      - The court ruled that Mrs. Khan would not be compelled to testify against her husband, and her prior statement to the police was not admitted as evidence.
+    - Relevance to Modern Law:
+      - This case remains relevant in discussions about the limits of compelling testimony from unwilling witnesses, especially within family contexts. 
+      - It highlights the judiciary's role in safeguarding personal relationships from undue harm during legal proceedings and serves as a precedent for similar cases involving the compellability of spousal testimony.
+- 2A: Witness Competence & Compellability
   - Witness Competence & Compellability
     - Who can give evidence ?
     - Who must give evidence ?
@@ -368,8 +611,7 @@ Week 1: Evidence Overview
     - The EA now contains the following provisions in relation to judicial warnings and child witnesses:
       - –s 165(6) provides that warnings in relation to the reliability of a child's evidence can only be given in accordance withs 165A.
       - –s 165A prohibits trial judges from warning or suggesting to juries that children (as a class) are unreliable witnesses or that it is generally dangerous to convict on the uncorroborated evidence of any child witness.
-## Lecture 2B: Witness Examination
-
+- 2B: Witness Examination
   - Trial Procedure (Criminal)
     - 1. Accused has Indictment (charge) read to him / her and then asked to enter his / her plea – this is called the 'Arraignment' process.
     - 2. Jury empanelled and sworn in.
@@ -528,8 +770,9 @@ Week 1: Evidence Overview
     - Relevance to Modern Law:
       - This case highlights the application of the Evidence Act 1995 in compelling spousal testimony and underscores the impact of Lee v The Queen on the treatment of hearsay evidence in criminal trials. It reinforces the principle that errors in jury directions may not warrant overturning a conviction if the evidence against the accused is overwhelming. 
       - It also illustrates the court's discretion in balancing issues of parity in sentencing between co-offenders.
-## Week 3A: Calling Witnesses
+## Week 3: Calling Witnesses / Right to Silence
 
+- Calling Witnesses
   - Witnesses
     - One of the main ways that we still adduce evidence in Court is through the calling and questioning of Witness.
     - Need to have an understanding of relevant provisions and case law relating to:
@@ -597,8 +840,7 @@ Week 1: Evidence Overview
     - How does the law address the fact that the Crown fails to call evidence that the Crown would reasonably be expected to have called ?
       - Mahmood v WA (2008) 232 CLR 397, is authority for the proposition that "… where a witness, who might have been expected to be called and to give evidence on a matter, is not called by the prosecution, the question is not whether the jury may properly reach conclusions about issues of fact but whether, in the circumstances, they should entertain a reasonable doubt about the guilt of the accused."
       - In R v Louizos [2009] NSWCCA 71 it was held that "… it may have been appropriate for the Trial Judge to raise with the jury whether the failure of the Crown to call the witness gave rise to a reasonable doubt about the truthfulness and reliability of the evidence… but he was never asked to do so." [57]
-## Lecture 3B: Right to Silence
-
+- Right to Silence 
   - The Menu
     - The Right to Silence
     - Silence of the Accused Pre-Trial
@@ -847,7 +1089,7 @@ Week 1: Evidence Overview
 
 - Hearsay Evidence
   - Hearsay Revision
-    - The Hearsay Rule is set out in s59 EA and similar to the other Exclusionary rules in the Act, it provides a prohibition on the use of the material.
+    - The Hearsay Rule is set out in s 59 EA and similar to the other Exclusionary rules in the Act, it provides a prohibition on the use of the material.
     - Several exceptions to the Hearsay Rule are provided for in Part 3.2 of the Act which details the various circumstances where the Court considers it 'safe' to use Hearsay evidence to prove the fact asserted.
     - To be able to properly utilise the Hearsay Rule and the Exceptions need to understand various terms such as: 
       - Previous Representation
@@ -855,26 +1097,26 @@ Week 1: Evidence Overview
       - Fact intended to be asserted
       - First-hand Hearsay v More Remote Hearsay
   - First Hand and More Remote Hearsay
-    - Essentially, First Hand Hearsay is where the previous representation (containing an asserted fact) was made by the Maker in the presence of the person who gives evidence about it (Witness).  See s62
+    - Essentially, First Hand Hearsay is where the previous representation def (containing an asserted fact) was made by the Maker in the presence of the person who gives evidence about it (Witness).  See s 62
       - There is only one degree of separation between the Maker of the representation and the Witness relating that asserted fact.
     - If there is a greater degree of separation between the Maker of the previous representation and the person giving the evidence (Witness), that is referred to as 'More Remote Hearsay'.
     - The degree of remoteness becomes important when applying the exceptions under Part 3.2
-    - Under s62, there is a requirement that it must be reasonably supposed that the Maker of the previous representation has personal knowledge of the asserted fact because of what he / she has seen, heard or otherwise perceived and makes a representation about that fact to the Witness.
+    - Under s 62, there is a requirement that it must be reasonably supposed that the Maker of the previous representation has personal knowledge of the asserted fact because of what he / she has seen, heard or otherwise perceived and makes a representation about that fact to the Witness.
 - Exceptions to Hearsay Rule 
   - Exceptions to Hearsay Rule
     - Specific exceptions to the Hearsay Rule include: 
       - First-hand hearsay: 
-        - Civil proceedings, if maker of representation is not available (s63)
-        - Civil proceedings, if maker of representation is available (s64) 
-        - Criminal proceedings, if maker of representation is not available (s65) 
-        - Criminal proceedings, if maker of representation is available (s66)
-    - Contemporaneous statements about a person's health etc (s66A)
-    - Business records (s69)
-    - ATSI  traditional laws and customs (s72)
-    - Use of evidence in Interlocutory proceedings (s75) 
-*** Evidence relevant for a non-hearsay purpose (s60)
-*** Admissions (s81)
-*** Character Evidence (s110)
+        - Civil proceedings, if maker of representation is not available (s 63)
+        - Civil proceedings, if maker of representation is available (s 64) 
+        - Criminal proceedings, if maker of representation is not available (s 65) 
+        - Criminal proceedings, if maker of representation is available (s 66)
+    - Contemporaneous statements about a person's health etc (s 66A)
+    - Business records (s 69)
+    - ATSI  traditional laws and customs (s 72)
+    - Use of evidence in Interlocutory proceedings (s 75) 
+*** Evidence relevant for a non-hearsay purpose (s 60)
+*** Admissions (s 81)
+*** Character Evidence (s 110)
   - Overview of First Hand Hearsay Exceptions
     - 
   - Maker Availability
@@ -887,38 +1129,38 @@ Week 1: Evidence Overview
         - (e) all reasonable steps have been taken, by the party seeking to prove the person is not available, to find the person or to secure his or her attendance, but without success, or 
         - (f) all reasonable steps have been taken, by the party seeking to prove the person is not available, to compel the person to give the evidence, but without success. 
       - (2) In all other cases the person is taken to be available to give evidence about the fact. 
-  - s63 Exception to Hearsay Rule
-    - s63 Civil proceedings, if maker of representation is not available
+  - s 63 Exception to Hearsay Rule
+    - s 63 Civil proceedings, if maker of representation is not available
       - (1) This section applies in a civil proceeding if a person who made a previous representation is not available to give evidence about an asserted fact.
     - (2) The hearsay rule does not apply to:
       - (a) evidence of the representation that is given by a person who saw, heard or otherwise perceived the representation being made, or
       - (b) a document so far as it contains the representation, or another representation to which it is reasonably necessary to refer in order to understand the representation.
     - Note:  Section 67 imposes notice requirements relating to this subsection. 
-    - s63 provides the lowest threshold for the admissibility of Hearsay Evidence.
+    - s 63 provides the lowest threshold for the admissibility of Hearsay Evidence.
     - Merely requires that the Witness saw, heard or perceived the representation being made by the Maker.
-    - If a party intends to call such evidence to be used for its Hearsay purpose (ie. to prove the asserted fact in the previous representation), that party must conform and provide a Notice to the other party pursuant to s67 EA.
+    - If a party intends to call such evidence to be used for its Hearsay purpose (ie. to prove the asserted fact in the previous representation), that party must conform and provide a Notice to the other party pursuant to s 67 EA.
     - 
   - s 64 Exception to Hearsay Rule
-    - s64 Civil proceedings, if maker of representation is available
+    - s 64 Civil proceedings, if maker of representation is available
       - (2) The hearsay rule does not apply to:
         - (a) evidence of the representation that is given by a person who saw, heard or otherwise perceived the representation being made, or
         - (b) a document so far as it contains the representation, or another representation to which it is reasonably necessary to refer in order to understand the representation, 
         - if it would cause undue expense or undue delay, or would not be reasonably practicable, to call the person who made the representation to give evidence.
       - Note. Section 67 imposes notice requirements relating to this subsection. Section 68 is about objections to notices that relate to this subsection.
       - (3) If the person who made the representation has been or is to be called to give evidence, the hearsay rule does not apply to evidence of the representation that is given by:
-        - (a) that person, or
+        - (a) that person (Maker), or
         - (b) a person who saw, heard or otherwise perceived the representation being made.
       - [section continues…]
-    - The effect of s64 is that it provides the party calling the Hearsay evidence a wide degree of flexibility.
-    - s64(2) enables a party to adduce the Hearsay evidence through a Witness if it would cause undue delay or expense, or would be not be reasonably practicable to call the Maker of the previous representation.
+    - The effect of s 64 is that it provides the party calling the Hearsay evidence a wide degree of flexibility.
+    - s 64(2) enables a party to adduce the Hearsay evidence through a Witness if it would cause undue delay or expense, or would be not be reasonably practicable to call the Maker of the previous representation.
       - This is very broadly defined and applied and takes into account cost of securing Maker, length of trial, health and location of maker.
-      - *Requires reasonable written notice of intention to call such evidence (s67).
-    - s64(3) provides that if the Maker is called to give evidence, either:
+      - *Requires reasonable written notice of intention to call such evidence (s 67).
+    - s 64(3) provides that if the Maker is called to give evidence, either:
       - The Maker of the previous representation; or
       - A person who saw, heard or otherwise perceived the previous representation 
     - can give evidence of the asserted fact.
-  - s65 Exception to Hearsay Rule
-    - s65 Criminal proceedings, if maker of representation is not available
+  - s 65 Exception to Hearsay Rule
+    - s 65 Criminal proceedings, if maker of representation is not available
       - (2) The Hearsay Rule does not apply to evidence of a previous representation that is given by a person who saw, heard or otherwise perceived the representation being made, if the representation:
         - (a) was made under a duty to make that representation or to make representations of that kind, or
         - (b) was made when or shortly after the asserted fact occurred and in circumstances that make it unlikely that the representation is a fabrication, or
@@ -926,8 +1168,8 @@ Week 1: Evidence Overview
         - (d) was:
           - (i) against the interests of the person who made it at the time it was made; and
           - (ii) made in circumstances that make it likely that the representation is reliable.
-        - Note. s67 imposes notice requirements relating to this subsection.
-    - s65(2) imposes more demanding requirements on the Prosecution.
+        - Note. s 67 imposes notice requirements relating to this subsection.
+    - s 65(2) imposes more demanding requirements on the Prosecution.
       - This is because the evidence will be used against a Defendant who is presumed to be innocent, so there should be greater safeguards in relation to potentially unreliable evidence (not just warning or a discretionary exclusion).  
     - For the Prosecution, it is not enough that the unavailable maker of the representation had personal knowledge of the asserted fact, and that evidence of the representation will be given by a person who saw, heard or perceived the representation being made – the representation must have been made either:
       - A. Under a duty
@@ -940,24 +1182,24 @@ Week 1: Evidence Overview
     - (4) [.... Relates to Co-Accused]
     - (5) For the purposes of ss(3) and (4), a Defendant is taken to have had a reasonable opportunity to cross-examine a person if the Defendant was not present at a time when the cross-examination of a person might have been conducted but:	(a) could reasonably have been present at that time, and (b) if present could have cross-examined the person.
     - (6) Evidence of the making of a representation to which ss(3) applies may be adduced by producing a transcript, or a recording, of the representation that is authenticated by: (a) the person to whom, or the court or other body to which, the representation was made, or (b) if applicable, the registrar or other proper officer of the court or other body to which the representation was made, or (c) the person or body responsible for producing the transcript or recording. 
-    - Under ss65(3) – 65(6)  Statements made in previous court proceedings may be adduced for their Hearsay purpose as long as the Defendant had opportunity to cross-examine in those earlier proceedings.  eg. evidence in committal proceedings being used again at trial. 
+    - Under ss 65(3) – 65(6)  Statements made in previous court proceedings may be adduced for their Hearsay purpose as long as the Defendant had opportunity to cross-examine in those earlier proceedings.  eg. evidence in committal proceedings being used again at trial. 
     - Puchalski v R held that what is required is that Defendant cross-examined the person in the earlier proceeding or had a reasonable opportunity to do so – the exception does not rely on nature and extent of cross-examination.
     - (8) The Hearsay Rule does not apply to:
       - (a) evidence of a previous representation adduced by a Defendant if the evidence is given by a person who saw, heard or otherwise perceived the representation being made, or
       - (b) a document tendered as evidence by a Defendant so far as it contains a previous representation, or another representation to which it is reasonably necessary to refer in order to understand the representation.
-    - Note. s67 imposes notice requirements relating to this subsection.
+    - Note. s 67 imposes notice requirements relating to this subsection.
     - (9) If evidence of a previous representation about a matter has been adduced by a Defendant and has been admitted, the hearsay rule does not apply to evidence of another representation about the matter that:
       - (a) is adduced by another party, and 
       - (b) is given by a person who saw, heard or otherwise perceived the other representation being made. 
-    - s65(8) imposes are far less demanding threshold for the admission of the asserted fact for its Hearsay purpose, if adduced by the Defendant.  
-      - Essentially, this is the same level required under s63 (Civil – Maker not available:  person who heard / saw/ perceived previous representation can give evidence of the asserted fact.)
+    - s 65(8) imposes are far less demanding threshold for the admission of the asserted fact for its Hearsay purpose, if adduced by the Defendant.  
+      - Essentially, this is the same level required under s 63 (Civil – Maker not available:  person who heard / saw/ perceived previous representation can give evidence of the asserted fact.)
       - This is because of the notions of fairness to the Defendant. 
-    - s65(8) is designed to promote the admission of exonerating statements of the alleged victim, confessions of 3rd parties and statements of deceased persons.
-    - s65(9) provides the Prosecution the ability to 'reply' to any material adduced by the Defendant under s65(8), by adducing its own Hearsay evidence that qualifies or explains the Defendant's s65(8) evidence.
+    - s 65(8) is designed to promote the admission of exonerating statements of the alleged victim, confessions of 3rd parties and statements of deceased persons.
+    - s 65(9) provides the Prosecution the ability to 'reply' to any material adduced by the Defendant under s 65(8), by adducing its own Hearsay evidence that qualifies or explains the Defendant's s 65(8) evidence.
   - s 66 Exception to Hearsay Rule
-    - s66 Criminal proceedings, if maker of representation is available
+    - s 66 Criminal proceedings, if maker of representation is available
       - (2) If that person (Maker) has been or is to be called to give evidence, the Hearsay Rule does not apply to evidence of the representation that is given by:
-        - (a) that person, or
+        - (a) that person (Maker), or
         - (b) a person who saw, heard or otherwise perceived the representation being made,
       - if, when the representation was made, the occurrence of the asserted fact was fresh in the memory of the person who made the representation.
       - (2A) In determining whether the occurrence of the asserted fact was fresh in the memory of a person, the Court may take into account all matters that it considers are relevant to the question, including:
@@ -966,38 +1208,639 @@ Week 1: Evidence Overview
         - (c) the period of time between the occurrence of the asserted fact and the making of the representation.
       - Note. Subsection (2A) was inserted as a response to the decision of the High Court of Australia in Graham v The Queen (1998) 195 CLR 606.
       - [section continues…]
-    - s66 provides that in criminal proceedings where the Maker of the previous representation is available and the previous representation is to be used to prove the asserted fact (ie. for its Hearsay purpose) the Maker of the representation must be called to give evidence.  
-    - As well as limiting the ambit of the exception , s66 imposes an additional limitation:
+    - s 66 provides that in criminal proceedings where the Maker of the previous representation is available and the previous representation is to be used to prove the asserted fact (ie. for its Hearsay purpose) the Maker of the representation must be called to give evidence.  
+    - As well as limiting the ambit of the exception , s 66 imposes an additional limitation:
       - the requirement that the occurrence of the asserted fact be "fresh in the memory" of the Maker of the previous representation - "freshness" is only required in criminal matters.
-    - The "fresh in the memory" requirement in s66(2) has long been the subject of judicial consideration.
+    - The "fresh in the memory" requirement in s 66(2) has long been the subject of judicial consideration.
     - In the HCA judgment in Graham v The Queen (1998) 195 CLR 606, the majority held that the term "fresh" meant "recent" or "immediate"  - thereby requiring the statement to be made very soon after the event in question.
       - "the temporal relationship" required will very likely be measured in hours or days, not, as was the case here (Graham's case), in years.
-    - This strict temporal requirement held in Graham's case was considered too limiting and was amended by the insertion of s66(2A).
-    - s66(2A) provides guidance to the Court when determining whether something is  "fresh in the memory".  Court may now take into account such things as 
+    - This strict temporal requirement held in Graham's case was considered too limiting and was amended by the insertion of s 66(2A).
+    - s 66(2A) provides guidance to the Court when determining whether something is  "fresh in the memory".  Court may now take into account such things as 
       - The nature of the event concerned; and 
       - The age and health of the person; and
       - The period of time between the occurrence of the asserted fact and the representation.
     - As held in Regina v XY [2010] NSWCCA 181 the temporal relationship between the asserted fact and the making of the representation remains relevant but is in no way determinative of the question. Importantly the court must now take into account the nature of the event concerned.
-    - s66(3) provides that the s66(2) Hearsay exception does not apply to evidence of the previous representation that is adduced by the Prosecution, which:
-      - a.   was made for the purpose of indicating what evidence 	that person would be able to give (called a proof of 	evidence); and 
-      - b.  deals with matters other than the identity of a person, 	place or thing.
+    - s 66(3) provides that the s 66(2) Hearsay exception does not apply to evidence of the previous representation that is adduced by the Prosecution, which:
+      - a.   was made for the purpose of indicating what evidence 	that person would be able to give (called a proof of evidence); and 
+      - b.  deals with matters other than the identity of a person, place or thing.
   - Graham v The Queen (1998) 195 CLR 606
     - Graham was a case where the complainant was raped by her father. 
       - It was 6 years before she told somebody about it, and it was this 6 year delay which the HCA said made her complaint lose its "freshness". 
     - You might think that being raped by your father would be very memorable, and would remain memorable for more than a few hours or days, and that 6 years later you could probably still have a clear memory of it. 
-    - Nevertheless, the HCA did not think so, and this is why there has been an amendment to s66, directly as a result of the decision in Graham.
+    - Nevertheless, the HCA did not think so, and this is why there has been an amendment to s 66, directly as a result of the decision in Graham.
   - 66A Exception: contemporaneous statements about a person's health etc
-    - s66A provides that the Hearsay rule does not apply to evidence of a previous representation made by a person if the representation was a contemporaneous representation about the person's health, feelings, sensations, intention, knowledge or state of mind.
+    - s 66A provides that the Hearsay rule does not apply to evidence of a previous representation made by a person if the representation was a contemporaneous representation about the person's health, feelings, sensations, intention, knowledge or state of mind.
     - This means that a person's physical, mental state or intentions, etc can be inferred by what they say.
       - eg.  The fact that the Sue says to William "I have really bad a headache at the moment" can be adduced by William to prove that fact that Sue did have a headache at that time.
   - Some Other Hearsay Exceptions
-    - Essentially, under s69 the Hearsay Rule does not apply to business documents, so that the documents can be used to prove the facts about the business and what is contained in the business document. 
-      - s69 operates together with the rules about proving the contents of documents from ss48-50. 
+    - Essentially, under s 69 the Hearsay Rule does not apply to business documents, so that the documents can be used to prove the facts about the business and what is contained in the business document. 
+      - s 69 operates together with the rules about proving the contents of documents from ss 48-50. 
     - Both 'business' and 'document' are very broadly defined, and the rationale here is to save time. It is presumed that business records accurately record the business. If they do not, a party would need to call evidence to prove that.
-    - s70 is a similar exception to s69, and it applies to tags and labels. eg.  it can be presumed that a letter was in fact posted in Wagga on the 8th of June if that is what the postmark says.
-    - s71 says that with electronic communications, information about who it came from, who it was sent to, the time and date, will not be caught by the hearsay rule.
-    - s72 provides that the hearsay rule does not apply to evidence of a representation about the existence or non-existence, or the content, of the traditional laws and customs of an Aboriginal or Torres Strait Islander group.
-    - s75 says that the hearsay rule does not apply in Interlocutory Proceedings if the source of the evidence is adduced. 
+    - s 70 is a similar exception to s 69, and it applies to tags and labels. eg.  it can be presumed that a letter was in fact posted in Wagga on the 8th of June if that is what the postmark says.
+    - s 71 says that with electronic communications, information about who it came from, who it was sent to, the time and date, will not be caught by the hearsay rule.
+    - s 72 provides that the hearsay rule does not apply to evidence of a representation about the existence or non-existence, or the content, of the traditional laws and customs of an Aboriginal or Torres Strait Islander group.
+    - s 75 says that the hearsay rule does not apply in Interlocutory Proceedings if the source of the evidence is adduced. 
   - Overview of Hearsay Evidence
     - 
+## Week 7: Witness Credibility / Character Evidence
 
+- Witness Credibility
+  - What is Credibility ?
+    - Credibility evidence is evidence that deals with honesty / reliability  of the witness and how that can impact on the acceptance of his / her evidence.  
+    - Credibility evidence can be used to strengthen or attack the truthfulness and reliability of the witness or their evidence. 
+    - General premise is that courts are interested in hearing evidence that is reliable, honest and therefore credible. The rules pertaining to credibility are about the quality of the evidence. 
+    - Courts are not interested in hearing about blemishes upon the reputation, history or morality of a witness unless those blemishes could affect the quality of the evidence the witness can give. 
+    - This type of evidence extends beyond the veracity of the evidence given by the Witness - extends to whether the Witness has the capability to be reliable.
+  - What is Credibility ?
+    - Credibility evidence could include:
+      - Evidence relating to W's general honesty, expertise or standing in the community.
+      - Evidence showing that W has a motive to lie.
+      - Evidence that shows that W is giving evidence that is either consistent or inconsistent with other statements that W has made.
+      - Evidence that relates to W's capacity for accurate observation / recollection.
+  - What is Credibility ?
+    - When looking at credibility evidence two questions need to be asked:
+      - Can we use this evidence to either bolster or attack the credibility of a witness ?
+      - If so, under what circumstances is it fair to do so ?
+    - Credibility evidence is evidence that helps the Trier of Fact assess the credibility of a witness and therefore may impact on the veracity of the evidence that he / she can give.
+    - Credibility evidence is commonly referred to as 'ancillary evidence' or 'collateral evidence' because it has a derived relevance to the facts in issue – relevant because probability of W telling truth may impact on existence of a fact in issue.
+  - Reasons why you would wish to use credibility evidence.
+    - As lawyers there are three main ways of using the evidence: 
+      - 1. You may want to attack the credibility of an opponent's witness.
+      - 2. You may want to bolster the credibility of your own witness.
+      - 3. You may want to attack the credibility of your own witness, for instance, if they are an unfavourable witness.
+  - Credibility under the Evidence Act
+    - As defined in EA Dictionary -  credibility of a witness means the credibility of any part, or all, of the evidence of the witness, and includes the witness's ability to observe or remember facts and events about which the witness has given, is giving, or will give in evidence.
+    - Obviously, credibility evidence is relevant evidence because it affects the probability that the W is telling the truth – this in turn affects the probability of the existence of the facts about which he / she is testifying - collateral evidence.
+    - Unfortunately, credibility evidence can impact on issues that have no direct bearing on a fact in issue – therefore strict restrictions are placed on its use as evidence (fairness and efficiency).
+  - Credibility under the Evidence Act
+    - Under the EA, credibility is dealt with as part of the Exclusionary Rules within Part 3.7 of the Act. 
+    - Similar to the other Rules of Exclusion within the Part 3.7, the Credibility Rule (s102 EA) provides a prohibition on evidence used for a particular purpose (in this case a credibility purpose), but then sets out various exceptions to that rule. 
+    - Under the current amendments to the EA, s102 provides that:
+      - Credibility evidence about a witness is not admissible.
+  - Using s101A
+    - The strange and unintended outcomes from HCA decision in Adam v The Queen (2001) 183 ALR 625 resulted in the amendment of s102 and the insertion of s101A in order to make the purpose and application of the Credibility Rule clearer.
+    - Purpose of s101A is to provide guidance when evidence that is relevant for a credibility purpose will be subject to the Credibility Rule (s102)
+  - Adam v The Queen (2001) 183 ALR 625
+    - Sako was originally investigated and charged for murdering a police officer but the charge was later withdrawn. He made a statement to the police naming Adam and Sako's brother as murders. 
+    - Sako called by P to give evidence, evidence contrary to police statements and was declared "unfavourable" (s38). P given leave to cross-examine him on his prior inconsistent statement (attack his credibility). Because of Sako's change of story, his statement to police became inadmissible for its hearsay purpose (no longer first hand). But s60 allows hearsay evidence to be admitted if it is admissible for another purpose. 
+    - Prior to amendments, if evidence was "relevant only" to credibility it would be excluded. In this case, because this evidence was also relevant for a hearsay purpose (by virtue of s60) the HCA said that the Credibility Rule did not apply. This was in effect a loophole in the law. 
+    - HCAs very narrow reading of the old s102 resulted in Sako's evidence not being subjected to either the hearsay rule or credibility rule – veracity of that evidence was not assessed. Hence s101A amendment.
+  - Using s101A
+    - Credibility evidence, in relation to a witness or other person, is evidence relevant to the credibility of the witness or person that:
+      - (a) is relevant only because it affects the assessment of the credibility of the witness or person, or
+      - (b) is relevant:
+        - (i) because it affects the assessment of the credibility of the witness or person, and
+        - (ii) for some other purpose for which it is not admissible, or cannot be used, because of a provision of Parts 3.2 to 3.6.
+    - Notes.
+      - 1 Sections 60 and 77 will not affect the application of paragraph (b), because they cannot apply to evidence that is yet to be admitted.
+      - 2 Section 101A was inserted as a response to the decision of the High Court of Australia in Adam v The Queen (2001) 207 CLR 96.
+  - Section 101A Pathways
+    - 
+  - Exceptions to Credibility Rule 
+    - Many different exceptions to the Credibility Rule.
+    - Specific exceptions to the Credibility Rule when: 
+      - Evidence is adduced in cross-examination (ss103 & 104)
+      - Evidence is used for rebut denials (s106)
+      - Evidence is used to re-establish credibility (s108)
+      - Evidence of persons with specialised knowledge (s108C)
+      - Evidence relates character of the accused (s110)
+  - Exceptions to Credibility Rule
+    - Cross Examination as to Credibility
+      - s103(1) provides that the Credibility Rule does not apply if evidence adduced in cross examination could substantially affect the credibility of witness.
+        - 'Could' means 'capable of' substantially affecting the assessment of the credibility of the witness, as opposed to whether it is likely to do so (R v Shamouil (2006) 66 NSWLR 228).
+        - R v Lodhi [2006] NSWSC 670 provides guidance on the interpretation of the s103 exception. Whealey J found that the use of the word 'substantially' should be given its full import. The test will be satisfied if the credit of the witness cannot be determined adequately without regard to the evidence.
+  - Exceptions to Credibility Rule
+    - Cross Examination as to Credibility
+      - High threshold of admissibility is designed to ensure that W is not open to cross examination on aspects of his / her creditability – unless the cross examination is capable of having a bearing on the assessment of W's reliability.
+      - When assessing the 'substantially affect' threshold, s103(2) provides that the Court is to have regard to: 
+        - whether the evidence tends to prove that the witness knowingly or recklessly made a false statement ; AND
+        - the period of time that has elapsed since act / event to which evidence relates, took place.
+  - Exceptions to Credibility Rule
+    - Cross Examination as to Credibility
+      - Cross examination is permitted for such things as:
+        - Testing the capacity / opportunity for accurate observation / recollection by Witness.
+        - Testing bias / motive for Witness to be untruthful. 
+        - Exploring previous convictions for dishonesty.
+      - Under s103 EA, also permitted to cross examine about:
+        - Prior Inconsistent Statements
+        - Occasions where W has failed to tell truth when under an obligation to do so.
+    - Examination of Unfavourable Witness may include cross examination on credibility.
+  - Exceptions to Credibility Rule
+    - Cross Examination as to Credibility of Defendant
+      - In criminal cases, s104 EA provides further protections in addition to s103 when the Defendant is to be cross examined about his / her credibility.
+      - Pursuant to s104(2) the Defendant cannot be cross examined about his / her credibility without the leave of the Court.
+      - Important to note that under s104(3), the Prosecutor does not  require leave if the Defendant is cross examined about:
+        - Bias / motive to be untruthful.
+        - Inability for Defendant to recall matter to which his / her evidence relates. 
+        - The making of a Prior Inconsistent Statement.
+  - Exceptions to Credibility Rule
+    - Cross Examination as to Credibility of Defendant
+      - Under s104(4) leave must not be given to Prosecution for cross-examination of Defendant unless the evidence adduced by the Defendant:
+        - (a) tends to prove that a Prosecution Witness has a tendency to be untruthful, and
+        - (b) that the evidence is relevant solely or mainly to the Prosecution Witness's credibility. 
+      - Important to remember that s104 must be read in conjunction with s103 when cross examining the Defendant about his / her credibility.
+  - Exceptions to Credibility Rule
+    - Rebutting Denials
+      - General rule is that allegations denied under cross examination may not be rebutted if the evidence is only relevant to the credibility of the Witness.  In such circumstances:
+        - The answer given by Witness is final.
+        - You are unable to call evidence from another Witness in order to rebut the denial.
+    - Can only rebut these denials if you conform to the requirements set out in s106. 
+  - Exceptions to Credibility Rule
+    - Rebutting Denials
+      - s106 (1) states that the Credibility Rule does not apply to evidence that is relevant to a witness's credibility and that is adduced otherwise than from the witness if:
+        - (a) in cross-examination of the witness:
+          - (i) the substance of the evidence was put to the witness, and 
+          - (ii) the witness denied, or did not admit or agree to, the substance of the evidence, and
+        - (b) the court gives leave to adduce the evidence. 
+    - Rebutting Denials
+      - s106 (2) provides that leave under ss(1)(b) is not required if the evidence tends to prove that the witness:
+        - (a) is biased or has a motive for being untruthful,
+        - (b) has been convicted of an offence, including an offence against the law of a foreign country,
+        - (c) has made a prior inconsistent statement,
+        - (d) is, or was, unable to be aware of matters to which his or her evidence relates,
+        - (e) has knowingly or recklessly made a false representation while under an obligation, imposed by or under an Australian law or a law of a foreign country, to tell the truth. 
+    - Re-establishing Credibility - s108
+      - If W's credibility has been impeached during cross examination s108 (1) allows credibility evidence to be led in re-examination about matters that arose during cross examination of W.
+      - Under s108(3) the credibility rule does not apply to evidence of a Prior Consistent Statement of Witness if:
+        - (a) evidence of a Prior Inconsistent Statement of the Witness has been admitted - (ie. used to counter the PIS)				
+          - Or
+        - (b) it is / will be suggested that the evidence given by the Witness has been fabricated, re-constructed, or is the result of suggestion (ie. used to rebut an allegation of recent invention)
+      - *** Leave is required if trying to adduce evidence of Prior Consistent Statment under s108(3)
+- 7B: Character Evidence
+  - Overview of Character Evidence
+    - Character evidence relates to a Defendant's personal qualities, reputation, or social standing.
+    - General principle is that the Defendant should not be judged on his character (fairness principle).
+    - However, long been considered that a person's good character may be able to show that he / she would not commit such an offence.  Therefore rules have developed to allow the Defendant to raise the issue of good character.
+    - Under the EA, rules about character evidence apply only in criminal proceedings, and only to the character of the Defendant. (s 109 EA)
+    - EA provides a way for the Defendant to adduce evidence of his / her good character (or at least an aspect of it) to help support their case.  Leading good character comes with risks !!!
+  - Relevance of Character Evidence
+    - Character evidence is legally relevant because as Gaudron J puts it in TKWJ v R (2002) 212 CLR 124, 135:
+      - "Evidence of good character is not merely evidence as to credit. It is, in terms used in s 55 of the Evidence Act, evidence that ``could rationally affect (directly or indirectly) the assessment of the probability'' that the Defendant committed the offence or offences charged (33)."
+    - For example character evidence could be relevant to show:
+      - that it is unlikely for a person of good character would commit the offence; or 
+      - that where the Defendant has given evidence, that they should be assessed as being a creditable witness.  (see Eastman v The Queen (1997) 76 FCR 9)
+  - Issues with Character Evidence
+    - Rationale for such a rule is that it helps address the imbalance that may be suffered by the Defendant – only real way for Defendant to put themselves in a positive light.  (Acts as a way of enhancing his / her credibility.)
+    - Problem is that studies show that a person's good character is a not a reliable way of predicting whether a person has committed a crime. 
+      - These studies show that perhaps tendency evidence ought to be preferred over character evidence.  Unfortunately, EA has not followed this approach.
+    - Danger of Trier of Fact wrongly estimating probative value of character evidence.
+    - Trier of Fact may also think that the good character of the Defendant should be used to balance against the offence committed. 
+  - s 110 Evidence About Character of Defendant
+    - s 110(1) EA provides that where the Defendant adduces evidence which proves (directly or indirectly) that he / she is a person of good character, the Hearsay Rule, Opinion Rule, Tendency Rule and Credibility Rule do not apply.  (ie – the evidence will not be excluded by operation of these rules).
+    - Essentially, s 110 allows the Defendant to call evidence that would be otherwise considered to be inadmissible eg.
+      - Defendant may call a witness who says that she was told that the Defendant does charity work (Hearsay) - without the evidence being excluded under s 59 or having to conform to any of the Hearsay exceptions.
+      - Defendant may call a witness who says that he thinks the Defendant is a wonderful person and that he is sure the Defendant would not have committed such an offence (Opinion) –
+        -  without the evidence being excluded under s 76 or having to conform to the requirements of any exceptions to the Opinion Rule (s 78 or s 79).
+    - s 110(1) also provides that the evidence of good character can be general or relate to a specific aspect of the Defendant reputation.   
+      - For example;
+        - "I am a peaceful person who hates all forms of violence."
+        - "I have never physically attacked someone, without provocation."
+        - "I have never assaulted somebody with anything but my hands – nobody has ever had to go to the hospital."
+      - *** Leading specific aspects of reputation is known as 'splitting character' 
+    - s 110(2) provides that where the Defendant has lead evidence of general good character, the Prosecution and / or a Co-Defendant may call evidence that the Defendant is not of good character (generally)
+    - s 110(3) provides that where the Defendant has lead evidence of good character that relates to a specifical aspect, the Prosecution and / or a Co-Defendant may only call evidence that the Defendant is not of good character in relation to that specific aspect.
+  - s 110 Evidence About Character of Defendant 
+    - (1) The hearsay rule, the opinion rule, the tendency rule and the credibility rule do not apply to evidence adduced by a defendant to prove (directly or by implication) that the defendant is, either generally or in a particular respect, a person of good character. 
+    - (2) If evidence adduced to prove (directly or by implication) that a defendant is generally a person of good character has been admitted, the hearsay rule, the opinion rule, the tendency rule and the credibility rule do not apply to evidence adduced to prove (directly or by implication) that the defendant is not generally a person of good character. 
+    - (3) If evidence adduced to prove (directly or by implication) that a defendant is a person of good character in a particular respect has been admitted, the hearsay rule, the opinion rule, the tendency rule and the credibility rule do not apply to evidence adduced to prove (directly or by implication) that the defendant is not a person of good character in that respect. 
+    - R v Zurita [2002] NSWCCA 22
+      - The case of Zurita demonstrates how s 110 is supposed to operate. The TJ had said that character evidence is an "all or nothing matter … either you are a good person or you are not" and that character could not be divided into components. As a result of that ruling the Defendant opted not to raise any good character evidence. 
+      - Zurita appealed the TJ's ruling. The NSWCCA upheld the appeal saying that by preventing Zurita from splitting character, it prevented him from putting before the jury evidence that Zurita had no prior convictions for sex crimes against children. 
+      - If Zurita was permitted to do so, the Crown would have been limited to attacking Zurita only on the issue of sex crimes against children and not his character generally.
+  - s 112 Leave to Cross Examine about Character 
+    - s 112 requires that the Defendant must not be cross-examined about character unless Court grants leave to do so (Leave – s 192).
+    - s 192(1) provides that the Court may give any leave, permission or direction on such terms as it thinks fit.
+    - s 192(2) stipulates the minimum factors that must be taken into account by the Court when considering an application for leave.  
+    - These factors include:
+      - extent of possible effects to length of hearing;
+      - extent to which granting / denying leave maybe unfair to party or witness;
+      - Importance of evidence;
+      - Nature of proceedings;
+      - Possibility of adjourning or making alternative orders
+    - Stanoevski v The Queen (2001) 202 CLR 115 . 
+      - HCA required to consider whether leave should have been granted for P to cross-examine Stanoevski 'about matter arising out of evidence of' good character.
+      - HCA decision in Stanoevski sets out that leave to cross-examine on character should not be granted if there is a chance:
+        - of a miscarriage of justice;
+        - it would be unfair; or 
+        - it would distract the jury from the real facts in issue.
+      - HCA decision in Stanoevski also says that cross-examination on character needs to have sufficient probative value in relation to the facts in issue, in order for leave to be granted under s 192.
+  - Advance Rulings on Grant of Leave
+    - Question of leading evidence of good character (generally or specifically) can have a large impact on conduct of D's case – if D elects to lead such evidence may open him/herself to forensic disadvantage (usually cross examination of previous criminal history etc).
+    - Under s 192A, D may seek an advance ruling to see whether, or not, Court will grant leave to the Crown to cross-examine on character - forensic advantage if D knows the likelihood before he / she elects to lead character evidence.  Court "may" consider giving an advanced ruling – is not bound to give a ruling.
+    - In HCA decision in TKWJ v The Queen, it was held that there is no requirement for the TJ to give an advance ruling as to whether, or not, leave to cross-examination on character would be granted. 
+  - Judicial Comments and Discretions
+    - Use / exclusion of character evidence is subject to Discretionary Rules in Part 3.11 EA.
+    - Judge may comment that although someone may be of previous good character, there is always a first time for committing an offence – evidence of previous good character should not prevail against evidence of guilt.
+## Week 8: Evidence for Non-Hearsay Purpose / Admissions
+
+- Evidence for Non-Hearsay Purpose
+  - Hearsay & Multi-Purpose Evidence
+    - A Hearsay purpose arises when a previous representation is made and is used to prove a fact that was intended to be asserted in the previous representation. 
+      - Such a use is prohibited under  s 59.
+    - Important to remember that a single piece of evidence may have more than one use / purpose. For example, one piece evidence may have a hearsay use and credibility use – (as was the case in Papakosmas).
+    - Other types of exception to the Hearsay Rule exist when dealing with hearsay material that also has a Non-Hearsay purpose.
+      -  s 60 exception
+      -  s 81 exception relating to Admissions 
+  - Section 60 Exception to the Hearsay Rule
+    - Basically, s 60 provides a way of allowing evidence that has already been admitted for its Non-Hearsay purpose (e.g. Credibility purpose) to then be used for its Hearsay purpose.
+    -  s 60 introduced in order to avoid artificial situation of Jury having to 'compartmentalise' the evidence before them ie. "You can use the statement to assess the credibility of the Witness, but you can't use it to assess the truth of what was said." 
+      - As seen in Lee v The Queen and Adam v The Queen  s 60 has been problematic.
+  - Lee v The Queen (1998) 195 CLR 594
+    - Lee convicted of robbing a video shop in Paddington. Crown case was that 2 men entered the video shop, produced a gun and demanded money. 
+      - The shop employee successfully fought them off: 
+        - she hit Lee on the head with a tape dispenser, then jabbed him with the stool she was sitting on. 
+    - A short time later, police saw Lee in the street with a man called Calin. They were both arrested.
+    - Calin questioned by police and made statement about how he had met Lee in the street and talked to Lee about paying back money owed to Calin. 
+      - In police statement Calin also said that Lee looked sweaty and that Lee had told him to go away as he (Lee) had just fired 2 shots and had done a job.
+    - Calin called by P and in XIC he failed to adopt his statement regarding what Lee had said about robbery – therefore no longer admissible under First Hand Hearsay exceptions. 
+      - Leave granted to XX under  s 38 (Unfavourable Witness) – xx on Prior Inconsistent Statement. 
+    - Having had PIS admitted for its Credibility purpose, P then relied on  s 60 so it could be used for its Hearsay Purpose as well.
+    - Trial Judge and NSWCCA both held that s 60 could be applied.
+    - HCA unanimously held that  s 60 could not be applied because  s 60 does not make the assertion in the PR true if the witness did not intend to assert that fact.
+      - Calin could not know whether Lee had committed the robbery so the only 'intention' that can flow from the Calin representation was that Lee had said these words – not that he had committed the robbery.
+    - HCA also raised the question as to whether  s 60 could only be used in relation to First Hand Hearsay. 
+    - Resulted in several amendments to  s 60 to rectify confusion that flowed from the HCA approach.
+  -  s 60 – Hearsay Exception
+    -  s 60 Exception: evidence relevant for a non-hearsay purpose
+      - (1) 	The Hearsay Rule does not apply to evidence of a previous representation that is admitted because it is relevant for a purpose other than proof of an asserted fact.
+      - (2)	This section applies whether or not the person who made the representation had personal knowledge of the asserted fact (within the meaning of section 62 (2)). 
+        - Note : Subsection (2) was inserted as a response to the decision of the High Court of Australia in Lee v The Queen (1998) 195 CLR 594 
+      - (3)	However, this section does not apply in a criminal proceeding to evidence of an admission. The admission might still be admissible under section 81 as an exception to the hearsay rule if it is "first-hand" hearsay: see section 82.
+    -  s 60(1) provides the exclusion to the Hearsay Rule.
+    -  s 60(2) amendment provides clear indication that s 60 is not to be limited to First-hand Hearsay only.
+      -  s 60(2) was inserted in ordered to negate the view expressed by HCA in Lee v The Queen which held that  s 60 could not be applied to Second-hand or More Remote Hearsay. 
+    -  s 60(3) was also inserted after Lee v The Queen in order to make clear that in a Criminal matter,  s 60 will not apply to evidence of an Admission. 
+      - However,  s 81 EA may provide an exception to the Hearsay Rule if the evidence of the Admission is 'first-hand' evidence.
+  -  s 60 – Hearsay Exception
+    - As a result of the amendments made to the s 60 after the HCA decision in Lee v The Queen (1998) and the problems associated with the HCA decision in Adam v The Queen it is clear that the 'evidence' must already have been admitted for its Non-Hearsay purpose before  s 60 can become operative. (remember  s 101A requirement regarding Credibility use)
+  - Using s 60 (for good rather than evil)
+    - Main use for  s 60 comes about where evidence of previous representations contained in either a Prior Inconsistent Statement (PIS) or a Prior Consistent Statement (PCS) have been admitted for their Credibility purpose and you want to use those previous representations for their Hearsay purpose.
+      - For PIS – generally rely on either  s 103 or  s 106
+      - For PCS – generally rely on  s 108
+    - Once the material has been admitted for its non-hearsay purpose,  s 60 can be applied to allow the evidence relevant for a non-hearsay purpose to be admitted to prove the fact asserted in the previous representation(s).
+  - AN EXAMPLE OF WHEN  s 60 CAN BE APPLIED
+    - 
+  - The s 60 Pathway
+    - Situation
+      - Your Witness has made a Statement to the Police, but in your Examination-in- Chief, he fails to come up to proof (ie he fails to adopt what was said in his Police Statement). How can you use what was said in the Prior Inconsistent Statement (PIS) as evidence of the truth of what was asserted in it ??? 
+        - Make an application to have your Witness declared an Unfavourable Witness ( s 38).
+        - Seek leave ( s 192) to ask leading questions of your Witness ( s 42).
+        - Cross examine the Witness on Prior Inconsistent Statement ( s 43).
+        - Assess under  s 101A: 
+          - Evidence has 2 purposes – Credibility and Hearsay but not admissible for its Hearsay purpose (at this point in time). 
+          - Credibility Rule ( s 102) must be applied.
+        - Although  s 102 applies, can use either  s 103 and  s 106 (Credibility Rule exceptions) to get evidence in for its Credibility purpose.
+        - Once the evidence is in for its Credibility purpose,  s 60 may be applied to have the evidence within the PIS used for its Hearsay purpose (subject to any of the Discretionary Rules being applied).
+- 8B: Admissions
+  - Part 1 Definitions: "Admission"
+    - admission means a previous representation that is:
+      - (a) made by a person who is or becomes a party to a proceeding (including a defendant in a criminal proceeding), and
+      - (b) adverse to the person's interest in the outcome of the proceeding.
+  - Overview of Admissions
+    - Admissions in both Civil and Criminal matters are an important part of the Law of Evidence because Admissions relate to evidence that is favourable to a party who is not actually giving that evidence.
+    - Admissions may be in the form of Hearsay evidence or Opinion evidence – therefore liable to exclusion under Hearsay Rule ( s 59) and / or Opinion Rule ( s 76). 
+      - Special rules developed to ensure they are dealt with fairly.
+      - Rules of admissibility can relate to both Admissions and related representations.
+    - Admissions generally considered to be more reliable than other examples of Hearsay (hence broader acceptance).
+      - Rationale for this is that people are far less likely to lie about something that is going to adversely affect their position.
+    - General exception to Hearsay Rule and Opinion Rule regarding Admissions is found in  s 81. (Think of  s 81 as another type of exception to the Hearsay Rule). 
+  -  s 81 Hearsay and Opinion Rules: exception for Admissions and related representations
+    - (1) The Hearsay Rule and the Opinion Rule do not apply to evidence of an Admission.
+    - (2) The Hearsay Rule and the Opinion Rule do not apply to evidence of a previous representation:
+      - (a) that was made in relation to an Admission at the time the Admission was made, or shortly before or after that time, and
+      - (b) to which it is reasonably necessary to refer in order to understand the Admission.
+  - Types of Admissions
+    - There are two broad categories of Admissions: 
+      - 'inculpatory' admissions and 
+      - 'exculpatory' Admissions.
+    - Inculpatory Admissions are ones that express or imply something that establishes guilt. Eg.
+      - "I was pissed off with the guy, so I shot him." (express)
+      - "He was just asking for it." (implied)
+      - "I didn't complete the job because the account is in arrears." (express)
+    - Inculpatory Admissions would include:
+      - Confessions
+      - Acknowledge a relevant fact that tends to establish guilt / liability
+      - Acknowledgement of something that goes towards establishing a material fact in issue which Prosecution relies upon.
+      - An Admission in a party's pleadings
+      - Adopting someone else's representation as your own
+    - Exculpatory Admissions more difficult to establish. Exculpatory conduct is conduct that denies something. 
+      - When you deny guilt, or deny knowledge about something, or deny a fact in issue, that is an exculpatory representation. 
+      - In itself, this is not "adverse" and therefore not, on its face, an admission. Something more is required to turn it into an admission. This might include:
+        - Lying about something, which the Prosecution relies on as proof of consciousness of guilt – ie. 
+          - the Prosecution shows that you are lying, and they argue that the reason you lied is because you know you were guilty. 
+        - eg. saying "I wasn't at home that night" might be shown, through other evidence to be untrue. 
+          - The Prosecution will then argue that you lied because you were at home engaged in some criminal activity. 
+    - Care needed when trying to equate lying with consciousness of guilt.
+      - May be other reasons to lie (panic, mistake, to protect others).
+      - Prosecution needs to establish that the lie discloses consciousness of guilt, or deliberate lying, before this kind of exculpatory representation can be used as an admission.
+    - In Edwards v R (1993) 178 CLR 193 Deane, Dawson and Gaudron JJ held that when dealing with an issue of consciousness of guilt a jury should be instructed that there may be reasons for the telling of a lie apart from the realisation of guilt and, where that is the explanation for the lie, they cannot regard it as an Admission.
+    - Because a "representation" can be express or implied, oral or written, and can be inferred from a person's conduct, the following examples may be construed as Admission by conduct:
+      - Running away when you see the police.
+      - Fleeing from the jurisdiction.
+      - Changing your story between arrest and trial.
+      - Nodding in reply to a question can be an Admission by conduct.
+  - Exclusionary Rules Relating to Admissions
+    - There are certain circumstances which will result in the exclusion of an Admission:
+      - Evidence of Admissions that is not first-hand ( s 82)
+      - Use of Admissions against third parties ( s 83)
+      - Admissions influenced by violence and other conduct ( s 84)
+      - Unreliable Admissions of accused persons ( s 85)
+      - Records of oral questioning of accused persons ( s 86)
+      - Fairness Discretion ( s 90)
+  - Exclusionary Rules Relating to Admissions
+    - Evidence of Admissions that is not first-hand ( s 82)
+      - Under  s 82, for  s 81 to operate as an exception to the Hearsay Rule, evidence of the Admission must be first-hand ie.
+        - (a) Evidence must be given by the person who saw, heard or otherwise perceived the Admission being made; or
+        - (b) It is a document in which the Admission is made. 
+    - Use of Admissions against third parties ( s 83)
+      -  s 83 provides that evidence of an Admission made by one party cannot be used against another party (without the consent of the other party).
+        - eg. Admission by D1 cannot be used against D2, unless D2 consents (Note: D2 is not able to rely on only parts of D1's Admission – all or nothing)
+    - Admissions influenced by violence and certain other conduct ( s 84)
+      - Under  s 84(1), for the Admission to be admissible, the Court must be satisfied that the Admission, or the making of the Admission was not influenced by:
+        - (a) Violent, oppressive, inhuman or degrading behaviour towards the person making the Admission or towards another person; or
+        - (b) A threat of conduct of that kind.
+      -  s 84(2) requires that the Defendant raise the issue of such behaviour if he / she is going to have the Admission excluded under  s 84(1). 
+      - The Court must be satisfied that the Admission was not influenced by such conduct, on the balance of probabilities ( s 142). 
+      - Whilst there is no consistent interpretation of what kind of conduct is anticipated here, many judges only tend to admit Admissions if they are clearly 'voluntary'. 
+        - See Tofilau v The Queen [2007] HCA 39 (HCA speaks of the requirement for 'voluntariness'.)
+    - Unreliable admissions of accused persons ( s 85)
+      -  s 85 deals with possibly unreliable Admissions made to Investigating Officials or persons capable of influencing the Prosecution, by the Defendant. 
+      -  s 85(2) provides that the Court needs to be satisfied that the admission was made in circumstances that were not likely to affect the truth of the Admission. (on Balance of Probability)
+      - There are particular procedures for dealing with Admissions to police, and s s 85 and 86, together with parts of the Criminal Procedure Act, govern this. A court will need to consider: 
+        - the nature and manner of questioning
+        - whether any inducements or threats were made
+        - any relevant condition or characteristic of the person making the admission (age, education, disability, personality, etc).
+      - The Court will look to all the circumstances in which an admission is made before admitting / excluding it.
+    - Records of oral questioning of accused persons ( s 86)
+      -  s 86 only applies to oral Admissions made by Defendant in Criminal proceedings where the Admission was made in response to a question / representation made by an Investigating Official. 
+      -  s 86 requires that an alleged documentary record of the Official's question and Defendant's response to those questions must be acknowledged by the Defendant as being a true record of the question and response ( s 86(2) refers). 
+        - Acknowledgment must be made by signing, initialling / marking the document ( s 86(3) refers).
+      - Additional procedures for dealing with admissions to Police, are set out in Criminal Procedure Act – general rule is that unless Admission to Police is tape recorded, it will not be admissible (see  s 281 Criminal Procedure Act)
+        - Electronically Recoded Interview of a Suspected Person (ERISP) 
+  -  s 90 Discretion to Exclude Admissions
+    -  s 90 provides that in a Criminal proceeding, the Court may refuse to admit evidence of an Admission, or refuse to admit the evidence to prove a particular fact, if:
+      - (a) 	the evidence is adduced by the Prosecution, and
+      - (b) 	having regard to the circumstances in which the admission was 	made, it would be unfair to a Defendant to use the evidence.
+    - Applied where Court considers that the Police conduct may have brought about an unreliable Admission – reasons may include: unfairness, impropriety, failure to caution, not voluntary, forensic disadvantage (R v Swaffield: Pavic v The Queen (1998) 192 CLR 159 provides a useful guide although they were Common Law cases).
+    - s 90 Discretion operates as an additional safeguard to the operation of  s 85 (Unreliable Admissions by Accused) and the Discretionary Rules found in Part 3.11 EA – particularly  s 138). 
+    - Probative value and seriousness of offence not relevant to exercise of  s 90 Discretion (R v Em [2003] NSWCCA 374). In Em v The Queen (2007) 232 CLR 67  s 90 seen as different to  s 138 EA –  s 90 seen as an 'extra' safety net.
+## Week 9: Opinion Evidence
+
+- Opinion Evidence
+  - Opinion is the medium between knowledge and ignorance.
+    - Plato
+  - What is Opinion Evidence ?
+    - From a legal perspective, an opinion is an inference that can be drawn from observed and communicable facts or data. (Lithgow City Council v Jackson [2011] HCA 36)
+    - An opinion is a conclusion that has been drawn, (usually judgmental or debatable), which has been 'reasoned' from some type of factual basis.  Opinion should be distinguished from conjecture which has little or no factual basis at all.
+    - Opinion evidence is evidence of a witness' opinion that is tendered to prove a fact that was expressed in the opinion, is actually true.
+    - Generally, the greater the inference that has to be drawn, the more likely it is for that evidence to be an opinion rather than a fact (Continuum approach – grey areas in-between)
+  - Problems with Opinion Evidence
+    - Opinion evidence can be problematic for reasons of both fairness and efficiency.
+    - Opinions are generally considered to be unhelpful to the trier of fact and tend to be more prejudicial than useful, comprising of merely uninformed speculation.
+    - Opinion evidence allows the Witness to draw inferences and conclusions – this is the function of the trier of fact.  
+    - People can be mistaken in their reasoning process about something that they observed – this can lead them to jump to conclusions based on limited or wrong facts.
+      - Poor / inaccurate reasoning impacts on the reliability and accuracy of the evidence.
+  - s 76 Opinion Rule
+    - Opinion Rule works in a similar fashion to the other Exclusionary Rules with EA – provides an overarching exclusion with various associated exceptions.
+    - Rationale of Opinion Rule is to prevent the use of opinion evidence, where it is tendered to prove the existence of a fact about which the opinion is expressed. 
+    - Pursuant to s76, and subject to the various exceptions to the Opinion Rule, evidence of an opinion is not admissible.
+    - s76 designed to ensure that witnesses give a plain account of what they actually perceived – must not give interpretations, conclusions, beliefs, or opinions about what they perceived.
+    - Within the EA, opinion evidence is broadly categorised by the type of witness giving the evidence – this categorisation dictates which of the exceptions to the Opinion Rule may apply.
+      - Lay Witness
+      - Expert Witness
+  - Hearsay Evidence of Opinion
+    - Sometimes a confusing relationship can exist between Hearsay and Opinion evidence.
+    - The way the Act is formulated it is possible for an opinion to be expressed and that opinion be related as Hearsay. 
+      - eg. "The Specialist told me that the surgery that I require doesn't have a very good success rate."
+    - Important to note that Hearsay evidence of an opinion which falls within an exception to the Hearsay rule is still governed by s76.
+      - s76 is not confined to evidence of an opinion given by a witness in court; it also applies to any evidence of an opinion, including out-of-court hearsay representations of an opinion.
+  - s78 Lay Opinion Exception
+    - Under s78 lay opinion evidence is admissible as long as the following two conditions are met:
+      - (a)	That the opinion is based on what the person saw, heard or otherwise perceived about the matter or event; and
+      - (b)   That evidence of the opinion is necessary to obtain an adequate account or understanding of the person's perception.
+    - Generally, Lay Witnesses can give evidence about: someone's age, health, emotional state.  May also give opinion as to estimates of speed and distance, as well as condition of things eg. old, new, damaged, worn etc.  Identification evidence can also fall within the realms of lay opinion.
+    - s78 requires a rational basis for the opinion before it is admissible. i.e. in R v Panetta (1997) 26 MVR 332 held that there was no rational basis for the opinion evidence given in relation to the exact speed of the car. 
+  - Lithgow City Council v Jackson [2011] HCA 36 
+    - Jackson moderately intoxicated and after an argument with his GF he left his house to take his dogs for a walk at about 3.30am. Went to local park, walked too close to a retaining wall and fell into drain below. Found about 7am and ambulance called. Case relates to question of Council liability and causation – Jackson argued that retaining wall should have been fenced.
+    - Opinion / Hearsay question arises from records made at scene by ambulance officer. In section headed "Patient History" appeared the words: 
+      - "Found by bystanders — parkland? Fall from 1.5 metres onto concrete
+      - No other Hx". ("Hx" means "history") 
+    - At trial, the statement was excluded as Hearsay and no causation found.  NSWCA overturned decision and held that s78 exception applied therefore causation could be found.  Appealed to HCA.  
+    - HCA majority overturned the decision of the NSWCA. The majority excluded the statement on several grounds including Hearsay and Opinion. Exclusion of this evidence meant that causation could not be established.
+      - Held that the impugned statement is Hearsay because it is a previous representation being tendered to prove the fact that J had fallen from the wall, thereby resulting in his injury.
+    - Held that s69 Business Record Hearsay exception would not apply because neither the bystander or the ambulance officer had 'personal knowledge' of the fall.
+    - Next question was whether the asserted fact (fall from 1.5m) could be classed as an opinion – held that for it to be viewed as an opinion, there needed to be some personal knowledge held by the Ambo in order to be able to draw an inference (needed to be a factual basis for the opinion).  Therefore the s78 exclusion not applicable.
+      - Result - Ambulance record not able to be admitted under either the Hearsay exceptions or the Opinion exceptions.
+  - s79 Specialised Knowledge Exception
+    - s 79 provides an exception to the Opinion Rule for witnesses who possess some form of specialised knowledge that can assist the trier of fact to understand and contextualise the evidence more appropriately.  This is generally referred to as Expert Evidence.
+      - As stated by Finkelstein J in Quick v Stoland Pty Ltd (1998) 87 FCR 371: 
+        - "The function of an expert is to provide the trier of fact, judge or jury, with an inference which the judge or jury due to the technical nature of the facts is unable to formulate."
+    - 79 Exception: opinions based on specialised knowledge 
+      - If a person has specialised knowledge based on the person's training, study or experience, the opinion rule does not apply to evidence of an opinion of that person that is wholly or substantially based on that knowledge.
+  - s79 Specialised Knowledge Exception
+    - Key elements of s79(1) are:
+      - Must be some form of specialised knowledge held by the Expert Witness.
+      - The specialised knowledge must be based on the Expert's training, study or experience.
+      - The opinion must be wholly or substantially based on that specialised knowledge.
+    - Proving these elements is mandatory for admissibility of the opinion.
+      - Raises question over what is meant by the term 'specialised knowledge' – no definition of term in EA.
+  - Meaning of Specialised Knowledge
+    - Approaches used to define the term have ranged from:
+      - Knowledge which has gained a general acceptance within the relevant professional community (Frye test).
+      - Knowledge which is sufficiently organised / recognised to be accepted as reliable (Bonython test).
+      - Knowledge which is reliable by virtue of it being testable, subjected to peer review and generally accepted in scientific community (Daubert indicia).
+    - The test usually applied in NSW is the Frye test.  However the trend in EA jurisdictions is towards a reliability focused approach through the use of the Daubert indicia reasoning.
+  - R v Hien Puoc Tang [2006] NSWCCA 167
+    - Tang was convicted of one count of robbery when armed with an offensive weapon. The robbery occurred in a convenience store and was videotaped by a surveillance device. The tape showed 3 offenders but was not of sufficient quality to enable clear identification of the offenders.  Two of the offenders were arrested 40 minutes after the offence.
+    - The third offender, Tang, came to the attention of the police 8 months after the robbery and was linked to the offence through fingerprints found on some of the stolen goods.
+    - Crown's case turned on facial mapping and body mapping evidence from Dr Sutisno who identified points of resemblance between the surveillance images of the third offender and photographs of Tang. 
+    - At trial, evidence was adduced on the understanding that the Dr Sutisno was an 'expert', even though the field of knowledge ('facial mapping') had not been subjected to any of the scientific tests for reliability and validity.
+    - NSWCCA allowed the Appeal on the basis that facial mapping / body mapping, was not shown on the evidence in the trial, to constitute 'specialised knowledge' of a character which can support an opinion of identity – therefore the evidence did not satisfy the elements set out in s79 EA.
+  - Gaining of Specialised Knowledge
+    - Important to understand that specialised knowledge is not limited to purely academic knowledge.
+    - A person can also become an expert on a particular thing on the basis of their practical experience. Eg:
+      - Allstate Life Insurance v ANZ (1996): knowledge of investor behaviour and financial markets can be acquired through employment. 
+        - In this case a fund manager was allowed to give expert evidence about investment behaviour but a securities lawyer was not.
+      - R v Yildiz (1983) 11 A Crim R 115: knowledge of the attitudes of the Turkish community to homosexuality was considered to be specialised knowledge. The evidence was given by a heterosexual Turkish interpreter who said that the Turkish community regards homosexual people with extreme disfavour. 
+        - The court held that it was not necessary for the interpreter to have actual experience of homosexual people in the Turkish community; it was enough that he knew about Turkish attitudes, through his Turkish birth, nationality, and living his life amongst Turkish people.
+    - Ad hoc experience may also satisfy s79 requirements.  A person may become an expert in a one-off instance for some special reason. 
+      - In R v Leung and Wong (1999) 47 NSWLR 405 an interpreter listened to surveillance tapes many, many times. He listened to them so often, and so closely, that he was able to identify features that to an ordinary listener, would be imperceptible.  It was not only that he could understand the languages being spoken on the tapes, he could recognise that some of the voices were of the same people - based on his comparison of their voice modulation, accent, speed of speaking, etc. He was XXed on his methods, and it was held that he could properly testify as an expert in the case. 
+  - Opinion based "wholly or substantially" on Specialised Knowledge
+    - Third limb of s79(1) requires that the opinion expressed is based 'wholly or substantially' on the Expert's specialised knowledge.
+    - Requirement confines Expert to their area of specialisation / expertise. Very common for an Expert to stray outside their own area specialty – needs to be monitored by Counsel and Court.
+    - The majority in Dasreef Pty Ltd v Hawchar [2011] HCA 21 said that there needs to be sufficient connection between the opinion and relevant specialised knowledge before s79(1) can be satisfied.
+    - Also requires Expert to be able to prove the facts and assumptions upon which opinion is based.  (see Makita (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705 and also Schedule 7 of UCPR). 
+  - Problems with Expert Evidence
+    - Expert evidence can be very powerful evidence because of the so-called 'white-coat effect' that Experts can have on juries. 
+    - Expert evidence can be improperly used as a way of legitimising or bolstering poor police work and / or poor advocacy.  This can lead to miscarriages of justice – particular in cases which are largely based on circumstantial evidence. eg.  Chamberlain's case.
+    - Lack of objective standard against which to measure the opinion: R v Gilfoyle [2001] 2 Cr App R 57; Makita (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705
+    - Danger of jury deferring to the expert: Makita (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705
+    - Inability of jury to comprehend the expert evidence: R v Lisoff [1999] NSWCCA 364
+  - s 77 Admissibility of Opinions for a Non-Opinion Purpose
+    -  s77 is about the collateral use of Opinion evidence.
+    - Unclear whether s77 operates in the same way as s60.
+      - i.e. where Opinion evidence that would not otherwise fall within the Opinion Rule exceptions, is firstly admitted for its Non-Opinion purpose, it can then be used for its Opinion purpose.
+    - The use of s77 is unclear because there is hardly any useful judicial statement on this section. 
+    - ***Because of the confusion and lack of legal explanation around this section it will not be included in the exam. 
+  - R v Wood [2012] NSWCCA 21
+    - Gordon Wood (Chauffeur of Rene Rivkin) was convicted of throwing his girlfriend (Caroline Byrne) of the Gap on 8 Jun 95.
+    - Original trial declared a mistrial because a juror had contacted 2GB with claims of a secret visit to the Gap by the jury.
+      - 15 jurors empanelled for 2nd Trial
+    - Expert from Sydney Uni (Prof Rod Cross) produced a number of reports for the Prosecution / Police.  He was a Plasma Physicist who said he had experience working with biomechanists – he had been published on the subject. 
+  - R v Wood
+    - Some confusion as to exactly where the body had been located (Hole A or Hole B).
+    - Evidence from Cross indicated that it was impossible for a woman of the victim's weight (61kg) etc, to get necessary take off speed of 4.5m/s if she had jumped.  His testing showed a max of 3.5m/s could be achieved.  His testing further showed that a strong man could throw a 61kg woman at 4.8m/s – thrown like a spear.
+    - Wood was ultimately convicted on the evidence and sentenced to 17 years.
+    - Cross wrote a book about how he helped solve the crime and what a great assistance he had been to the Police. 
+    - Appealed on several grounds – main ground being that the scientific evidence used to convict Wood was flawed.
+    - NSWCCA very scathing about the evidence given at Trial by Prof. Cross.  Questions over:
+      - Qualifications
+      - Testing regime
+      - Role in proceedings
+    -  Also raised issues relating to the difficulties for jurors in understanding and distinguishing between conflicting evidence as well as the validity and reliability of Expert Evidence.
+    - Wood was acquitted in Feb 2012. 
+  - R v Morgan [2011] NSWCCA 257
+    - June 2008 a a sledgehammer-wielding robber broke into the Willoughby Hotel.  A balaclava-clad image was captured on CCTV.
+    - 30 Mins later the same robber breaks into PJ Gallagher's Pub at Drummoyne.
+    - Considerable circumstantial evidence existed that linked Morgan to the robberies (DNA, key to red Audi).  Eye witness evidence as to height was conflicting.
+    - Prosecution led Expert Evidence regarding Body Mapping.  Dr Henneberg (Adelaide Uni) professed expertise in anatomical comparison of images.
+    - Although the Offender in the images was wearing a balaclava, Dr Henneberg said there was a high level of anatomical similarity between the Offender and the Suspect / Accused.
+    - No anthropometric measurement or statistical analysis was undertaken by Dr H.  Other Experts gave evidence that Dr H's evidence was 'lacking in precise methodology or scientific protocol.'  
+    - NSWCCA held that the evidence given by Dr H should not have been admitted.  The Court expressed concern that 'there was no scientific evaluation of its validity, reliability and error rates'.  Essentially, Dr H expressed an opinion but there was no factual explanation / basis to support the opinion.
+    - It should be noted that this is the same chap who 'identified' the nude photographs as being Pauline Hanson !!
+  - Honeysett v The Queen [2014] HCA 29 
+    - Convicted of armed robbery.  CCTV showed 3 disguised robbers carrying weapons. P called expert anatomist (Prof Henneberg) who gave evidence of similarities of anatomical characteristics between  appellant and a robber in the TV footage. Evidence based on viewing the footage and viewing the appellant in custody.
+    - Previous cases had criticised "body mapping" as an area of expertise.  (R v Tang, Morgan v The Queen – which had involved Drs Sutisno and Henneburg) Criticism had been made as to the lack of research into the method of assessing this. 
+    - Mindful of this, the Crown did not rely on part of the expert opinion  which said there was 'a high degree of anatomical similarity'. Confined  Prof H's evidence to:
+      - Characteristics of defendant.
+      - Characteristics of taped person.
+      - Lack of any dissimilarities between the two.
+    - NSWCCA dismissed Honeysett's appeal on the basis that the expert evidence given by Prof. H was properly admitted, based on his study, training and experience as an anatomist. In the alternative, it said that he was an 'ad hoc'  expert due to repeated viewings of the footage. (R v Tang [2006] NSWCCA 167)
+  - Honeysett v The Queen [2014] HCA 29 
+    - On appeal, the Crown did not argue that body mapping was an area of  expertise, and stuck to 'anatomy' as Prof. H's area of expertise.  It said that he was only giving 'an account of the characteristics of the body  of the person depicted in each set of images.' – Circumstantial evidence.
+    - The HCA held that his opinion was not based on his knowledge of anatomy, but just on his observations of the tape, dressed up in scientific language.
+      - His knowledge as an anatomist, that some people have round  heads and some have long heads, was not the basis of the conclusion  that the person in each video had a round head. That was based on his subjective impression of looking at the images.
+      - The jury could have ascertained these facts themselves (remember Smith v The Queen)
+- More Expert Evidence Cases
+  - Velevski v The Queen [2002] HCA 4
+    - Velevski's wife, 6yr old daughter and twin 3 yr old daughters all found in their Wollongong home with their throats cut. 
+    - Question raised Defence whether murder / suicide by wife or all murdered by Velevski. 
+    - Expert evidence called to determine whether suicide scenario was possible. 
+    - Convicted largely on circumstantial evidence which was supported by expert evidence from pathologists.
+    - Appeal to NSWCCA rejected.
+    - Appealed to HCA on grounds of miscarriage of justice.
+    - HCA looked at the issue of what constitutes 'specialised knowledge' and whether expert witnesses can also give evidence of everyday issues.  Held that:
+      - "Training, study and experience, necessarily include, as they must in all areas of expertise, observations and knowledge about everyday affairs and events, and departures from them.  It will frequently be impossible to divorce entirely these observations …it is the added ingredient of specialised to general that equips the expert."
+    - HCA also looked at question of juries dealing with conflicting expert evidence.
+  - R v Keir [2002] NSWCCA 30 
+    - Seven small bones found in Accused's backyard.  Crown argued that bones were those of Accused's missing wife.
+    - Crown called expert evidence from Forensic Biologist, Robert Goetz (US Dept of Defence), in relation to matching of DNA profile from bones against samples taken from wife's parents.
+    - The expert witness gave evidence that it was 660,000 times more likely to obtain the DNA profile found in the bones if it came from a child of the missing woman's parents, rather than from a child of a random mating in the Australian population.
+    - Significance of statistical evidence was improperly stated by the trial judge.
+    - In his directions, the trial judge (restating the prosecution's submissions) referred to the DNA evidence as providing a '660,000 to one' chance that the bones were those of the missing woman, and therefore a '660,000 to one' chance that alleged visual identifications of the woman after her disappearance were not correct.
+    - Conviction quashed.  New trial ordered.
+  - Universal Music Australia Pty Ltd v Sharman Licence Holdings Limited 
+    - In a recent Federal Court decision of Universal Music Australia Pty Ltd v Sharman Licence Holdings Limited, expert witnesses have been urged to maintain their independence and avoid altering their expert reports to suit the needs of the litigants.
+    - The trial judge discredited the bulk of the expert evidence given by a computer scientist on the basis that the expert was seriously prepared to compromise his independence and intellectual integrity
+    - In cross examination, the expert admitted that his expert report was based on an initial 'skeleton' report provided to him by the defendant's instructing solicitors, and that he agreed to their changes to the technical aspects of his report.
+    - Court said that Expert witnesses need to be aware that:
+      - their overriding duty is to assist the Court and to be impartial on matters relevant to the experts' area of expertise;
+      - they are not advocates for their instructing solicitors or their clients;
+      - they should follow the relevant Court guidelines for expert witnesses;
+      - they should not allow their instructing solicitors to influence the content of their report; and
+      - care should be taken in communications between themselves as an expert witness, a litigant and its lawyers. Generally, such communication is protected from disclosure until the expert report is served on the other party.
+  - Makita (Australia) Pty Ltd v Sprowles [2001] NSWCA 305
+    - Ms Sprowles was employed by Makita at its Gladesville office.  She slipped on the stairwell and sued her employer for negligence.
+    - Expert evidence (Prof Morton) to show that the stairs were too slippery.  Various tests done on coefficient of friction between step and Sprowles' shoe.
+    - Other evidence tendered by Makita showing that there had never been any other accident on the stairs.
+    - In Makita (Australia) Pty Ltd v Sprowles, the importance of explaining the various methodologies used by expert witnesses and the reasons why they were used were discussed.
+    - The Court of Appeal criticised the failure by plaintiff's expert to explain how he had reached his conclusions, particularly the facts and assumptions underlying the conclusions.
+    - Resulted in the Court of Appeal rejecting the expert's opinion and overturning a judgment in favour of the plaintiff for more than $1 million.
+    - "The only conclusion, in my opinion, is that Professor Morton's opinion about the slipperiness of the steps in the stairway was so clearly wrong that even his impressive qualifications could not rescue it". Priestley JA
+  - Kyluk Pty Ltd v Chief Executive, Office of Environment & Heritage [2013] NSWCCA 114
+    - An Appeal by Kyluk to NSWCCA in relation to an earlier decision of the NSWLEC.
+    - In the NSWLEC Kyluk was convicted of a breach of s118A(2) National Parks & Wildlife Act (1974).  Kyluk had pleaded guilty to having picked plants that were part of an Endangered Ecological Community (EEC) – Shale / Sandstone Transition Forest (SSTF).  They had cleared the land to run cattle.
+    - Expert Evidence from Mr Tulau (Soil Scientist) was considered on voir dire and admitted by the Court. 
+      - Chief Executive, Office of Environment & Heritage v Kyluk Pty Ltd [2012] NSWLEC 22 (No1) 
+    - On Appeal OE&H argued that the Expert Evidence of Mr Tulau should not have been admitted because he had failed to follow Sched 7 – by not properly disclosing all the details (lab results) on which he had based his opinion.
+    - NSWCCA held that although failure to observe Sched 7 is not fatal, it is relevant when considering whether to apply the Exclusionary Rules under either s135 EA or s137 EA.
+    - Because Kyluk were unable to properly explore issues regarding testing procedures and chain of possession NSWCCA held that the probative value of evidence was outweighed by danger of it being unfairly prejudicial to Kyluk.  Matter sent back to LEC for further Hearing.
+  - R v Parenzee [2006] SASC 127
+    - Andre Parenzee (HIV +ve) was tried and convicted on 3 counts of endangering human life by exposing others to the risk of infection through unprotected,despite being aware of the transmissibility of HIV.
+    - Appealed conviction, claiming that the existence and virulence of HIV have not been proven. He was supported by testimony from Valendar Turner and Eleni Papadopulos-Eleopulos.
+    - A number of prominent researchers, testified to the scientific consensus that HIV exists and is a causal link to AIDS.
+    - Ultimately, the judge rejected the qualifications and testimony of the AIDS dissident witnesses, finding that there is "no longer any genuine scientific dispute" that HIV exists and causes AIDS.  Parenzee's appeal was denied.
+    - His lawyers appealed the case to the Supreme Court of SA, claiming a miscarriage of justice, on the basis that there was no proof that HIV existed, could be sexually transmitted, caused AIDS, or could be tested for.
+    - At the hearing, the Parenzee's lawyers tried to present, Papadopulos-Eleopulos and Turner, as expert witnesses in support of Parenzee's claims.
+    - Justice Sulan found that Papadopulos-Eleopulos lacked training and expertise in the field of biology, and had misrepresented the positions of others in her testimony. 
+    - His finding was that:
+      - Ms Papadopulos-Eleopulos has no formal qualifications in medicine, biology, virology, immunology, epidemiology or any other medical disciplines. She has never treated or been directly involved in clinical trials of any kind relating to any disease. Her duties at the Royal Perth Hospital are to test people for sensitivity to ultraviolet radiation.
+    -  At the hearing, the Parenzee's lawyers tried to present, Papadopulos-Eleopulos and Turner, as expert witnesses in support of Parenzee's claims.
+    - Justice Sulan also found that:
+      - Ms Papadopulos-Eleopulos' qualifications do not provide her with the academic study required to give opinions on medical and scientific matters unrelated to nuclear physics." He further noted that she had no practical experience or formal qualifications in virology, epidemiology, electron microscopy, biology or immunology. 
+  - R v Wood [2012] NSWCCA 21
+    - Gordon Wood (Chauffeur of Rene Rivkin) was convicted of throwing his girlfriend (Caroline Byrne) of the Gap on 8 Jun 95.
+    - Original trial declared a mistrial because a juror had contacted 2GB with claims of a secret visit to the Gap by the jury.
+      - 15 jurors empanelled for 2nd Trial
+    - Expert from Sydney Uni (Prof Rod Cross) produced a number of reports for the Prosecution / Police.  He was a Plasma Physicist who said he had experience working with biomechanists – he had been published on the subject. 
+    - Some confusion as to exactly where the body had been located (Hole A or Hole B).
+    - Evidence from Cross indicated that it was impossible for a woman of the victim's weight (61kg) etc, to get necessary take off speed of 4.5m/s.  His testing showed a max of 3.5m/s could be achieved.  His testing further showed that a strong man could throw a 61kg woman at 4.8m/s – thrown like a spear.
+    - Wood was ultimately convicted on the evidence and sentenced to 17 years.
+    - Cross wrote a book about how he helped solve the crime and what a great assistance he had been to the Police. 
+    - Appealed on several grounds – main ground being that the scientific evidence used to convict Wood was flawed.
+    - NSWCCA very scathing about the involvement of Prof Cross in the investigation and the evidence given at Trial.  Questions over:
+      - Qualifications
+      - Testing regime
+      - Role in proceedings
+    -  Also raised issues relating the difficulties for jurors in understanding and distinguishing between conflicting as well as the validity and reliability of Expert Evidence.
+    - Wood was Acquitted in Feb 12. 
+  - R v Morgan [2011] NSWCCA 257
+    - June 2008 a a sledgehammer-wielding robber broke into the Willoughby Hotel.  A balaclava-clad image was captured on CCTV.
+    - 30 Mins later the same robber breaks into PJ Gallagher's Pub at Drummoyne.
+    - Considerable circumstantial evidence existed that linked Morgan to the robberies (DNA, key to red Audi).  Eye witness evidence as to height was conflicting.
+    - Prosecution led Expert Evidence regarding Body Mapping.  Dr Henneberg (Adelaide Uni) professed expertise in anatomical comparison of images.
+    - Although the Offender in the images was wearing a balaclava, Dr Henneberg said there was a high level of anatomical similarity between the Offender and the Suspect / Accused.
+    - No anthropometric measurement or statistical analysis was undertaken by Dr H.  Other Experts gave evidence that Dr H's evidence was 'lacking in precise methodology or scientific protocol.'  
+    - NSWCCA held that the evidence given by Dr H should not have been admitted.  The Court expressed concern that 'there was no scientific evaluation of its validity, reliability and error rates.  Essentially, Dr H expressed an opinion but there was no factual explanation to support the opinion.
+    - It should be noted that this is the same chap who 'identified' the nude photographs as being Pauline Hanson !!
+  - Frye v United States 293F1013 (1923)
+    - Frye was convicted of murder because the results of his systolic blood pressure deception test (polygraph) was held to be inadmissible evidence.
+    - The polygraph test was held to be inadmissible because expert testimony on such an issue was not yet "generally accepted in that particular field"
+    - Psychological and physiological authorities had not by that stage accepted the new technique.
+    - Who determines when expert testimony should be admissible?
+      - "not the Court but on the opinion of other experts"
+    - PROBLEMS WITH Frye-
+      - Undermines the role of the judiciary
+      - Gives the judiciary an excuse to allow expert evidence
+    - In the US, the Frye test has been used to determine the admissibility of expert evidence derived from many different types of scientific techniques
+      - Voiceprints
+      - Neutron activation analysis
+      - Gunshot residue test
+      - Bite mark comparisons
+    - Points FOR
+      - Acts to control the jury being exposed to 'junk science' because the test requires the expert themselves, rather than the Court, to determine the reliability of the evidence.
+      - The test requires general acceptance from the particular scientific community, this implies that such a community exists and experts will be available to examine the evidence.
+    - Points AGAINST
+      - The burden of general acceptance imposes a barrier to novel scientific ideas being offered as evidence.
+      - The test poses a danger in that the courts will be unable to keep abreast of advances in science whilst they wait for new scientific techniques to gain general acceptance.
+  - Daubert et al, Petitioners v Merrell Dow Pharmaceuticals 509 US 579 (1993)
+    - Jason Daubert & Eric Schuller both born with serious birth defects due to their mothers' having taken a drug called Bendectin.  Number of children and parents took action against Merrell Dow.
+    - Merrell Dow argued no published scientific studies existed to show link between Bendectin and birth defects. (trying to apply Frye Test)
+    - Daubert's evidence was based on methodologies that had not yet gained acceptance within the general scientific community.
+    - On Appeal matter was reviewed by Supreme Court.
+    - Sup Court developed a set of Guideline (Indicia) for assessing whether evidence is truly scientific.
+      - Judge is the gatekeeper:  the question of whether evidence stems from scientific knowledge rests with the Judge (cf Frye).
+      - Relevance & Reliability:  Judge is to ensure that Expert's evidnece is 'relevant to the task at hand' and is based 'on a reliable foundation'. 
+      - Scientific Knowledge:  Does the Expert's evidence flow from the application of scientific method?  If so, it qualifies as 'scientific knowledge'.
+      - Other relevant factors:
+        - Is theory / technique falsifiable (testable)? 
+        - Subjected to peer review.
+        - Known or potential error rates.
+        - Recognised standards/controls over operation
+        - The degree to which theory has gained general acceptance with relevant scientific community.
+      - The finding in Daubert meant:
+        - The judge must make a preliminary assessment of whether the testimony's underlying reasoning or methodology is scientifically valid and can properly be applied to the facts at issue.
+        - A change in the test to decide whether there is a recognised area of expertise.  A change from a 'general acceptance' test to 'scientific validity' test.
+        - Better way to address 'novel scientific evidence'.
+      - In Australia we rely on section 79 Evidence Act 1975
+        - Whilst they have no direct application in Australia the concepts of Frye and Daubert have been persuasive.
