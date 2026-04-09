@@ -14,3 +14,4 @@ replit.nix
 
 # Ignore Smart Connections folder
 .smart-connectionspublic/
+public/
