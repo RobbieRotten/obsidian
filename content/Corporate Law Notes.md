@@ -1,0 +1,4294 @@
+#tag-notes #tag-tutorial
+
+## Cheat Sheet:
+
+- Week 1: Corporate Law
+  - 1. Business Structures
+    - Sole Trader
+      - Single individual owns and runs the business.
+      - Unlimited personal liability.
+    - Partnership
+      - Definition: PA 1892 (NSW) s 1(1) — “relation between persons carrying on a business in common with a view of profit”. 
+      - Existence: s 2(1) — factors: ownership of property, sharing gross returns, sharing profits (not determinative alone). 
+        - Employees sharing profits → not partners (s 2(3)(b)). 
+        - Lenders taking share of profits as interest → not partners (s 2(3)(d)).
+      - Partnership v Joint Venture: Courts look to substance, not labels (Canny Gabriel; UDC v Brian).
+      - Cases:
+        - Canny Gabriel — JV found to be a partnership due to mutual obligations. 
+        - UDC v Brian — JV also a partnership; fiduciary duties applied. 
+        - Re Megevand — “loan” with partnership rights = partnership. 
+        - Badeley — genuine loan, no partnership. 
+        - Goudberg — preparatory acts, no “carrying on a business”.
+    - Liability of Partners
+      - Agency: s 5 — partner is agent of firm. 
+      - Binding the firm: s 6. 
+      - Debts: s 9 — joint liability for debts during partnership. 
+      - Wrongs: s 10 — firm liable for partner’s wrongs in ordinary course of business (s 12 — joint & several liability).
+        - Polkinghorne — negligent advice = within ordinary course. 
+        - Dubai Aluminium — fraudulent drafting of contracts = within course of legal practice.
+    - Obligations of Partners
+      - Fiduciary Duties: s 20, s 28–30. 
+        - Birtchnell — secret commission breached fiduciary duty.
+        - Dean v McDowell — no breach if outside scope. 
+        - Chan v Zacharia — post-dissolution fiduciary duties may still apply.
+    - Termination
+      - s 32 — expiration or notice. 
+      - s 33 — bankruptcy, death, change. 
+      - s 34 — illegality. 
+      - s 35 — court order.
+  - 2. Other Structures
+    - Associations: incorporated / unincorporated. 
+    - Cooperatives: member-controlled, mutual benefit. 
+    - Trusts: trustee holds property for beneficiaries. 
+  - 3. Why Companies?
+    - Limitations: partnerships = unlimited liability, limited capital raising. 
+    - Advantages: separate legal personality, limited liability, perpetual succession, ability to raise funds. 
+    - Capacity: Corporations Act s 124 — company has legal capacity of an individual. 
+  - 4. Stakeholders
+    - Shareholders (retail / institutional), directors, creditors, employees, contractors, interest groups, community. 
+    - Rise of CSR and corporate culture obligations. 
+  - 5. Types of Companies
+    - Public (Ltd) — may list on ASX, higher compliance. 
+    - Proprietary (Pty Ltd) — smaller, may be classified as small/large. 
+    - Corporate Groups — parent/subsidiary; s 46 defines subsidiary. 
+  - 6. Corporate Lifecycle
+    - Incorporation → Registration → Operation → Growth/restructure → Winding up → Deregistration.
+  - 7. Internal Management
+    - Directors: executive / non-executive. 
+    - Board Roles: chair, CEO/MD, secretary. 
+    - Constitution: governs share issues, director powers, meetings, changes in structure. 
+  - 8. Development of Corporate Regulation in Australia
+    - History: colonial legislation → State-based Uniform Acts → National Co-operative Scheme → Corporations Law Scheme → Corporations Act 2001 (Cth). 
+    - Regulator: ASIC — registers companies, enforces law, policy guidance, investigations, public education. 
+  - 9. Themes in Corporate Law
+    - Member/investor rights. 
+    - Directors’ duties. 
+    - Creditor protection. 
+    - Market integrity. 
+    - Enforcement by regulators and private actions.
+  - 10. Exam flowchart
+    - 1. Identify the Structure
+      - Q1: What is the nature of the arrangement?
+        - Single individual → Sole Trader → unlimited personal liability. 
+        - Two or more people → go to Partnership/JV test. 
+        - Registered company → go to Company analysis. 
+        - Trust or association → apply relevant trust/association law.
+    - 2. Partnership or Joint Venture?
+      - Apply Partnership Act 1892 (NSW) s 1(1): 
+        - Carrying on a business? 
+        - In common? 
+        - With a view of profit?
+      - Check PA s 2(1) factors: 
+        - Ownership of property. 
+        - Sharing of gross returns. 
+        - Sharing of profits.
+        - Note: Profit sharing alone is not determinative (s 2(3)).
+      - Distinguish from JV: 
+        - Substance over form (Canny Gabriel; UDC v Brian). 
+        - JV may still be partnership if mutual obligations + profit sharing present.
+      - Special situations: 
+        - “Loan” arrangements with partnership rights → partnership (Re Megevand). 
+        - No right to terminate business, no loss sharing → loan (Badeley). 
+        - Preparatory acts only → not “carrying on a business” (Goudberg).
+    - 3. If Partnership → Rights, Duties & Liabilities 
+      - Agency (s 5) → each partner is agent of firm & binds firm unless no authority + third party knows. 
+      - Debts (s 9) → joint liability while partner. 
+      - Wrongs (s 10, s 12) → joint & several liability if in ordinary course (Polkinghorne; Dubai Aluminium). 
+      - Fiduciary duties (s 20, 28–30) → no secret profits (Birtchnell), may extend post-dissolution (Chan v Zacharia).
+    - 4. If Company → Key Characteristics 
+      - Separate legal entity → limited liability of members (Corporations Act s 516). 
+      - Capacity (s 124) → legal capacity of an individual. 
+      - Stakeholders: shareholders, directors, creditors, employees, community.
+    - 5. Why Company v Partnership? 
+      - Company: limited liability, easier capital raising, perpetual succession. 
+      - Partnership: simpler, cheaper, but unlimited liability.
+    - 6. Company Type 
+      - Public (Ltd) — may list, higher compliance. 
+      - Proprietary (Pty Ltd) — smaller, private capital. 
+      - Corporate group — parent/subsidiary (s 46).
+    - 7. Termination
+      - Partnership: 
+        - Fixed term expired / notice (s 32). 
+        - Bankruptcy/death (s 33). 
+        - Illegality (s 34). 
+        - Court dissolution (s 35).
+      - Company: 
+        - Voluntary winding up, insolvency, deregistration.
+- Week 2: REGISTRATION OF COMPANIES
+  - Company Name (check ASIC website for availability)
+    - name restrictions; s147(1); Corps Regs 2001 Schedule 6
+    - Reserve Name:s152
+    - Preparation of internal management rules: (constitution or replaceable rules – see later in subject); obtain consent of members and directors
+    - Incorporated by ASIC on application
+    - Section 117 requires matters including:
+    - The type of company (we will examine this in a moment);
+    - The proposed name;
+    - The names and addresses of proposed members;
+    - Details of proposed directors and secretary;
+    - Details of company’s proposed registered office and share capital structure
+  - Under s 118 ASIC may:
+    - Register the company;
+    - Issue a certificate of incorporation (that provides conclusive evidence of incorporation)
+  - Co Comes into existence at beginning of the day of registration (s 119)
+  - Within the parameters of the  Corporations Act, companies can be categorised according to three criteria: 
+    - (1)  Is the company proprietary or public? 
+    - (2)  How is the liability of the members structured? 
+    - (3)  What is the relationship of the company to other corporations? 
+    - These criteria can overlap; for example, we can categorise a company both by whether it is proprietary or public, and by its relationship to other companies
+  - 1. What Is a Company?
+    - Definition: A company is a corporation registered under the Corporations Act 2001 (Cth).
+    - Why form a company?
+      - Limited liability (s 516)
+      - Perpetual succession (s 119)
+      - Investment flexibility (e.g. share capital)
+      - Separate legal personality (Salomon principle)
+  - 2. Company Registration Process
+    - 2.1 Steps to Register a Company – Corporations Act ss 117–119
+      - Choose company name (must be available on ASIC; name rules: s 147(1), Corps Regs Sch 6)
+      - May reserve name: s 152 
+      - Prepare internal rules (replaceable rules or constitution)
+      - Obtain consents from directors and members
+      - Lodge application with ASIC: s 117 must include:
+        - Type of company
+        - Name of company
+        - Members and directors’ details
+        - Registered office location
+        - Share structure
+    - ASIC response:
+      - Register the company: s 118
+      - Issue Certificate of Registration (conclusive evidence): s 118
+      - Company comes into existence at start of registration day: s 119
+  - 3. Company Types – s 112
+    - 3.1 Proprietary Companies (Pty Ltd)
+      - Two subtypes:
+        - Limited by shares
+        - Unlimited with share capital
+    - 3.2 Public Companies (Ltd)
+      - Types:
+        - Limited by shares
+        - Limited by guarantee	
+        - Unlimited with share capital
+        - No liability companies (mining only – s 112(2))
+        - Corporate Collective Investment Vehicles
+    - 3.3 Key Differences
+Feature
+Proprietary (s 113)
+Public
+Shareholders
+≤ 50 non-employee
+No limit
+Prospectus?
+Cannot publicly offer shares
+Can raise capital publicly
+AGM required?
+No (except if required by constitution)
+Yes
+Related party rules?
+Limited application of Ch 2E
+Full application
+  - 4. Small vs Large Proprietary Companies – s 45A; Reg 1.0.02B supercedes
+    - New Test: A proprietary company is large if it meets 2 of 3 criteria:
+      - Revenue ≥ $50M
+      - Assets ≥ $25M
+      - ≥ 100 employees
+    - Large Pty Ltd: more reporting obligations
+  - 5. Corporate Lifecycle
+    - Changing type: s 162–166
+    - Public documents must display ACN/name: ss 123, 153
+    - ASIC must be notified of changes: Ch 2N
+    - Annual review and fees apply
+    - Winding up:
+      - Voluntary: Part 5.5
+      - Insolvent: later in course
+      - Court-ordered: s 461
+    - Deregistration & Reinstatement:
+      - Voluntary, ASIC-initiated, or court order
+      - Reinstatement: s 601AH; see Perrin v ASIC [2024] WASC 38
+  - 6. Corporate Personality & Separate Entity
+    - 6.1 Key Principle: Salomon v A Salomon & Co Ltd [1897] AC 22
+      - Company is a separate legal person
+      - Members' liability is limited to share capital
+      - Even one-man companies are distinct legal entities
+      - No fraud = no lifting the veil
+      - Creditors left unprotected if they rely solely on company assets
+    - 6.2 Workers and Personality: Lee v Lee’s Air Farming [1961] AC 12
+      - Company and director/employee can have separate legal relationships
+      - Director can also be a worker under compensation law
+  - 7. Limited Liability
+    - Principle: Shareholders not personally liable beyond unpaid capital
+    - Justifications:
+      - Encourages risk-taking and capital investment
+    - Criticisms:
+      - Can externalise risk onto creditors
+      - Used to evade obligations in bad faith
+  - 8. Lifting (or Piercing) the Corporate Veil
+    - 8.1 Statutory Lifting
+      - Director duties and insolvent trading:
+        - s 588G: Duty to prevent insolvent trading
+        - s 588V: Group liability for holding companies
+        - s 197: Personal liability for debts by directors of trustee companies
+    - 8.2 General Law Lifting – Limited, unpredictable
+      - Categories:
+        - Sham/fraud: Gilford Motor Co v Horne [1933] 1 Ch 935
+        - Agency: Smith, Stone & Knight Ltd v Birmingham (1939) 161 LT 371
+        - Groups: Adams v Cape Industries [1990]; Walker v Wimborne (1976) 137 CLR 1
+        - Justice grounds (rare): Prest v Petrodel Resources [2013] 2 AC 34
+  -  Cases – Summary Table
+Case
+Principle
+Salomon
+Company is a separate legal person
+Lee v Lee’s
+Director and employee roles can coexist
+Gilford v Horne
+Sham company used to evade legal duties – veil pierced
+Prest v Petrodel
+Veil lifted only to prevent evasion of existing obligations
+Smith Stone & Knight
+Six criteria test for agency
+Adams v Cape
+Upholds corporate separateness even in group
+Briggs v J-H
+Courts reluctant to lift veil even in asbestos/delayed liability case
+  - 🧪 Exam Answer Formula (for problem questions)
+    - 1. Is the company validly incorporated?
+      - s 117 application
+      - s 118 certificate (conclusive)
+      - s 119 commencement
+    - 2. What type of company is it?
+      - s 112 classification
+      - s 113 (if proprietary: ≤50 non-employee shareholders)
+    - 3. Does limited liability apply?
+      - Explain s 516
+      - Separate entity rule from Salomon
+    - 4. Are there circumstances to lift the veil?
+      - Statutory (s 588G, s 197, etc.)
+      - General law (sham, agency, justice grounds)
+    - 5. Apply facts to cases like Gilford, Prest, Smith Stone
+      - Are the obligations fulfilled under ASIC lifecycle provisions?
+      - Name/ACN: ss 123, 153
+      - Notice of change: Ch 2N
+      - Winding up or deregistration: s 601AA–601AH
+- Week 3: Managing Companies II
+  - 1. Framework for Company Liability
+    - To determine if a company is liable, ask:
+      - Contract – Who entered the contract?
+        - Company (s 127 Corporations Act) → bound.
+        - Agent with actual/apparent authority → company bound, agent not liable.
+        - No authority → company not bound unless ratified; agent may be liable. 
+        - Statutory assumptions (ss 128–129) may assist third parties.
+      - Tort – Was tortfeasor an employee/agent acting within authority? 
+        - Yes → vicarious liability (company + tortfeasor liable). 
+        - No → company not liable; agent liable. 
+      - Crime – Who engaged in the conduct? 
+        - Unrelated person → company not liable.
+        - Employee/agent → may require “directing mind and will” or special attribution rules (Mousell, Meridian). 
+        - Federal offences: Criminal Code (Cth) Pt 2.5, Div 12.
+    - Bases of  Corporate Criminal Liability
+      - Direct liability (Tesco)
+      - Vicarious Criminal Liability (Mousell Bros)
+      - Special Rule of Attribution (Meridian)
+      - Strict Liability (ABC Learning Center)
+      - Criminal Code Act 1995 (Cth)
+  - 2. Corporate Personality & Limited Liability
+    - Salomon v Salomon – company is a separate legal entity; members have limited liability (now s 516 Corporations Act)
+    - Implications – company can contract, sue/be sued, own property, employ staff (Lee v Lee’s Air Farming). 
+    - Andar v Brambles – sole ownership/control doesn’t merge company with individual.
+  - 3. Exceptions to Separate Legal Personality
+  - Evasion of obligations – corporate veil lifted (Gilford Motor, Jones v Lipman). 
+  - Agency – subsidiary may be agent of parent (Smith, Stone & Knight – six criteria 
+  - Statutory – duties on directors (e.g., insolvent trading s 588G).
+  - 4. Corporate Groups
+    - Each company generally separate (Walker v Wimborne).
+    - Parent liability if directly negligent towards subsidiary’s employees (CSR v Wren). 
+    - Tort victims may seek veil piercing in exceptional cases (Briggs v James Hardie).
+  - 5. Corporate Criminal Liability
+    - Attribution – “directing mind and will” (Lennard’s, Tesco) or “special rule” (Meridian). 
+    - Mousell – statutory vicarious liability possible even without mens rea. 
+    - Criminal Code (Cth) Div 12 – liability where:
+      - Board/high managerial agent authorised conduct. 
+    - Corporate culture tolerated non-compliance.
+    - Negligence shown by aggregated conduct/failure to supervise.
+  - 6. Corporate Liability in Tort
+    - Direct liability – company’s own acts (e.g., negligent systems). 
+    - Vicarious liability – acts of employees within scope of employment. 
+    - Veil piercing in tort more readily considered than in contract, due to involuntary nature of victims (Briggs v James Hardie).
+  - 7. Key Cases
+    - Salomon v Salomon – separate legal personality. 
+    - Lee v Lee’s Air Farming – dual capacity possible. 
+    - Gilford Motor, Jones v Lipman – sham companies. 
+    - Smith, Stone & Knight – agency test.
+    - Walker v Wimborne – duties owed to each company. 
+    - CSR v Wren – parent company direct duty of care. 
+    - Lennard’s, Tesco, Mousell, Meridian – attribution rules. 
+    - Briggs v James Hardie – veil piercing in tort.
+  - Managing Companies Exam Flowchart
+    - 1. Identify the area of liability
+      - Contract – Who entered into the contract? (Corporations Act ss 127, 128, 129).
+      - Tort – Was tortfeasor an employee/agent acting within authority? (Vicarious liability principles; Walker v Wimborne).
+      - Criminal – Who engaged in the conduct? (Lennard’s, Tesco, Meridian, Criminal Code (Cth) Pt 2.5).
+    - 2. Contract Liability Flow
+      - Step 1 – Was it the company?
+        - Executed under s 127 (common seal or 2 directors/secretary) or per constitution → Company bound.
+      - Step 2 – Was it an agent? 
+        - Express / Implied / Apparent authority – Freeman & Lockyer v Buckhurst Park; smith, stone, and knight
+        - Statutory assumptions protect outsiders (ss 128–129). 
+      - Step 3 – If no authority 
+        - Company not bound unless ratification. Agent may be personally liable.
+    - 3. Tort Liability Flow
+      - Step 1 – Was tortfeasor acting within scope of authority/employment? (Hollis v Vabu).
+        - No → Company not vicariously liable; individual liable. 
+        - Yes → Company vicariously liable; both liable as concurrent tortfeasors.
+      - Step 2 – If attribution of state of mind needed: 
+        - Use Directing Mind and Will test (Tesco, Lennard’s). 
+        - Or special rule of attribution if statute-specific (Meridian).
+      - Step 3 – Parent company liability? 
+        - General rule: separate legal entities (Salomon; s 124). 
+        - Exception: direct duty to subsidiary’s employees (CSR v Wren), or veil piercing (Briggs v James Hardie).
+    - 4. Criminal Liability Flow
+      - Step 1 – Is it State or Cth offence? 
+        - Cth offences → Apply Criminal Code Pt 2.5 (ss 12.1–12.4): 
+          - Board/high managerial agent conduct (s 12.3(2)(a)–(b)). 
+          - Corporate culture that encouraged non-compliance (s 12.3(2)(c)). 
+          - Failure to maintain compliance culture (s 12.3(2)(d)).
+        - State offences → Apply common law attribution: 
+          - Directing mind and will (Tesco, Lennard’s). 
+          - Vicarious liability (Mousell Brothers).
+      - Step 2 – Does statute impose strict liability? 
+        - If yes → No fault element required; check defence provisions.
+      - Step 3 – Is a “special rule of attribution” needed? 
+        - If yes → Interpret statute’s purpose and policy (Meridian, ABC Learning).
+    - 5. Veil Piercing Checks 
+      - Sham/Facade – Gilford Motor v Horne, Jones v Lipman. 
+      - Agency – Smith Stone & Knight criteria. 
+      - Statutory – Insolvent trading (s 588G), holding company liability (s 588V). 
+      - Tort victims – Possible broader veil piercing rationale (Briggs v James Hardie – involuntary creditors).
+    - 6. Policy/Exam Notes 
+      - Separate legal personality → Default shield (Salomon, s 124). 
+      - Policy reasons for exceptions differ for tort vs contract — in tort, victims are involuntary and can’t choose contracting party. 
+      - In problem questions, always start with statutory provisions before moving to common law rules.
+- Week 4: Managing Companies III
+  - 1. Corporate Constitution & Division of Power Statute
+    - s 124 – Company has legal capacity of an individual. 
+    - s 134 – Internal rules via constitution or replaceable rules. 
+    - s 136(1) – Written constitution or replaceable rules (s 141) or combination. 
+    - s 136(2) – Amend constitution by special resolution (75%). 
+    - s 198A (RR) – Board may exercise all company powers except those reserved to members. 
+    - s 198C–198D – Delegation of directors’ powers. 
+    - s 201G – Members elect directors. 
+    - s 203C–203D – Members may remove directors. 
+    - s 208 – Member approval for related party transactions. 
+    - s 257B, s 260B – Member approval for capital changes. 
+    - s 491 – Voluntary winding up. 
+    - s 140 – Constitution binds company, members, directors.
+    - Cases
+      - Automatic Self-Cleansing Filter Syndicate Co v Cuninghame – Majority shareholder cannot override directors’ management powers. 
+      - Re Winlyn Developments [2011] NSWSC 1218 – Functions assigned to one organ not exercisable by the other. 
+      - Capricornia Credit Union [2007] FCAFC 79 – Cannot fetter directors’ discretion by constitution amendment.
+      - Gramophone & Typewriter v Stanley – Directors not servants of shareholders; control only by changing constitution or board composition. 
+      - Australasian Centre for Corporate Responsibility v CBA [2015] FCA 785; (2016) 248 FCR 280 – Shareholders cannot pass non-binding advisory resolutions on management if constitution vests power in directors. 
+      - John Shaw & Sons v Shaw [1935] 2 KB 113 – Only way to alter management powers is by altering articles.
+  - 2. Changing the Constitution
+    - Statute
+      - s 136(2) – Special resolution required (75%). 
+      - s 136(3) – Constitution may set higher threshold or special conditions. 
+      - s 140(2) – Written member consent required for certain changes. 
+      - s 232 – Change must not be oppressive or unfairly prejudicial. 
+      - s 246B–246H – Class rights alterations. 
+      - Gambotto v WCP Ltd – Constitutional amendments must be for proper purpose and fair in circumstances.
+  - 3. Binding the Company in Contract
+    - Statute
+      - s 126 – Company’s power to contract may be exercised by individual acting with express/implied authority. 
+      - s 127(1) – Execute document without seal if signed by 2 directors; or director + secretary; or sole director/secretary. 
+      - s 128(1) – Person entitled to assume matters in s 129. 
+      - s 129(1) – Assume constitution and replaceable rules complied with. 
+      - s 129(2)–(3) – Assume directors/officers are duly appointed and have customary powers. 
+      - s 129(4)–(6) – Assume officers perform duties properly; documents executed under s 127 valid. 
+      - s 128(4) – Assumptions not available if actual knowledge or suspicion of irregularity.
+    - Cases
+      - Hely-Hutchinson v Brayhead – 
+        - Facts: Chair acted as de facto MD, regularly committing company to contracts without express board authority.
+        - Principle: Actual authority can be implied from conduct and role.
+        - Apply when: Assessing implied authority from position and past practice.
+      - Northside Developments v Registrar-General – 
+        - Principle: Old “put on inquiry” test; now s 128(4) requires actual knowledge of defect to defeat statutory assumptions.
+        - Indoor management rule
+      - Eden Energy v Drivetrain USA – s 128(4) requires actual knowledge, not “put on inquiry”. 
+      - Brick & Pipe v Occidental Life –
+        - Principle: Outsiders entitled to rely on statutory assumptions without investigating.
+      - Freeman & Lockyer v Buckhurst Park Properties  (s 129)
+        - Facts: Managing agent contracted without authority; company’s conduct created appearance of authority.
+        - Principle: Apparent authority arises when a representation of authority is made by someone with actual authority, relied upon by outsider.
+        - Apply when: Outsider relies on company representations, not private limitations.
+        - 129(3) - held out by the company (has authority - see s 127 or s 126)
+      - Ross v GVC Homes – Importance of updating ASIC records. 
+      - Bank of New Zealand v Fiberi – Who may “hold out” an officer.
+      - ANZ v Frenmast –
+        - Principle: Outsider can rely on statutory assumptions unless they actually know of irregularity.
+  - Exam Flowchart - Board Member/Shareholder
+    - Step 1 – Identify Source of Power / Authority
+      - Check statutory + constitution source 
+        - s 124 – Company has legal capacity of an individual. 
+        - s 198A (RR) – Board may exercise all powers except those reserved to members. 
+        - s 201G – Members elect directors. 
+        - s 140 – Constitution binds company, members, directors.
+        - Cases:
+          - Automatic Self-Cleansing Filter v Cuninghame – Majority shareholders cannot override board’s powers. 
+          - Re Winlyn Developments – Functions allocated to one organ not exercisable by the other.
+      - Constitution (ss 134–136)
+      - Replaceable Rules (s 141)
+      - Corporations Act provisions
+      - Delegation from board (ss 198C–198D)
+    - Step 2 – Division of Power
+      - Question: Does this decision belong to the board or the members?
+        - If board → Shareholders cannot override (Automatic Self-Cleansing, Shaw).
+          - Board exclusive powers: s 198A; can delegate (s 198C–198D).
+        - If shareholders → Only by Act/constitution/ASX rules.
+          - Members’ reserved powers: e.g., capital changes (s 257B, s 260B), related party approval (s 208), voluntary winding up (s 491), remove directors (s 203C–203D).
+      - Case:
+        - ACCR v CBA (2015; 2016 appeal) – Members cannot pass non-binding advisory resolutions on management where constitution vests power in board.
+    - Step 3 – Can Members Override / Direct the Board?
+      - General rule: No – must amend constitution (s 136(2)).
+      - s 232 – Amendment must not be oppressive/unfairly prejudicial.
+      - Cases:
+        - Capricornia Credit Union [2007] FCAFC 79 – Cannot fetter directors’ discretion by amendment requiring them to follow member directions.
+        - Gramophone v Stanley – Directors are not “servants” of shareholders.
+        - John Shaw & Sons v Shaw – Only way to change management powers is by altering constitution.
+    - Step 4 – Changing the Constitution
+      - s 136(2) – Special resolution (75%).
+      - s 136(3) – Constitution can require higher % or extra conditions.
+      - s 140(2) – Written consent required from existing members for certain changes.
+      - s 232 – Cannot be oppressive/unfairly prejudicial.
+      - Class rights changes – s 246B–246H; must follow statutory process.
+      - Case:
+        - Gambotto v WCP – Amendments must be for proper purpose and fair.
+    - Step 5 – Apply to Shareholder Activism
+      - Was it executed under s 127? → Bound.
+      - Was agent acting with actual or implied authority (Hely-Hutchinson)? → Bound.
+      - Was there apparent authority (Freeman & Lockyer/ s 129)? → Bound unless s 128(4) applies.
+      - Question: Can shareholders propose this change?
+        - If proposal = directive to board → No (ACCR v CBA). 
+        - If proposal = constitutional amendment → Yes (s 136(2)) but hard to pass (needs 75%). 
+        - Must not fetter directors’ discretion unless shifting power to members legitimately.
+    - Step 7 – Final Application to Facts
+      - Identify if action is:
+        - (a) Board management decision → members cannot override.
+        - (b) Members’ reserved power → may act directly.
+        - (c) Constitutional change → follow s 136(2) + limitations.
+      - For contracts: identify who executed; check authority; apply statutory assumptions unless s 128(4) applies.
+  - Exam Flowchart -  Whether A Company is Bound By A Contract
+    - Step 1 - Was the contract properly executed under s 127?
+      - Corporations Act 2001 (Cth) s 127(1):
+        - A company may execute a document without a seal if it is signed by:
+          - Two directors; or
+          - A director and a company secretary; or
+          - A sole director/secretary (if applicable)
+        - If s 127(1) satisfied:
+          - ✅ Company is bound
+          - ✅ Outsider may assume due execution under s 129(5)
+        - Case: Brick & Pipe Industries Ltd v Occidental Life Nominees Pty Ltd (1992) – execution by proper officers binds company.
+    - Step 2 – If not executed under s 127, was the contract made under s 126?
+      - s 126(1): A company can enter a contract through an individual acting with actual or implied authority.
+      - A. Actual Authority
+        - Express actual authority: granted directly (e.g. board resolution, constitution).
+        - Implied actual authority: inferred from role, conduct, or past dealings.
+        - Hely-Hutchinson v Brayhead Ltd [1968] 1 QB 549 Implied authority arises from position and conduct (e.g. acting as MD over time).
+      - B. Apparent (Ostensible) Authority – Freeman & Lockyer Test
+        - Used where agent had no actual authority, but third party relied on appearance of authority.
+        - To establish apparent authority, all four limbs must be met:
+          - 1. Representation: That the agent had authority
+          - 2. Made by someone with actual authority (e.g. board or MD)
+          - 3. Reliance: Third party relied on the representation
+          - 4. Capacity: The company had legal capacity to make that type of contract
+        - Freeman & Lockyer v Buckhurst Park Properties (Mangal) [1964] 2 QB 480
+          - Crabtree-Vickers Pty Ltd v Australian Direct Mail Advertising (1975) 133 CLR 72 – Representation must relate to a role capable of authority.
+        - If all 4 limbs are satisfied, company is bound under common law agency principles.
+        - ❌ If not, proceed to statutory assumptions.
+    - Step 3 – Can the outsider rely on statutory assumptions under ss 128–129?
+      - The Corporations Act protects outsiders dealing with companies in good faith.
+      - Frenmast Pty Ltd v Barnet [2011] NSWCA 204 – s 129 assumptions applied where contractor relied on position/title.
+      - Ross v GVC Homes Pty Ltd [2020] NSWSC 1108 – ASIC records can support asumptions under s 129(2).
+- 
+  - Key Assumptions:
+Section
+Assumption
+s 129(1)
+Constitution and replaceable rules have been complied with
+s 129(2)
+Company officers have been properly appointed
+s 129(3)
+Officers/agents have customary authority based on their position
+s 129(4)
+Internal company procedures (e.g. board approvals) have been complied with
+    - Important: s 129(3) ≠ Freeman Test
+      - s 129(3) allows outsiders to assume that officers (e.g. CEO, CFO, director) have usual authority for that position
+      - ✅ Does not require representation from someone with actual authority
+      - ✅ More generous than Freeman, but only applies to people holding a recognised position
+    - Step 4 – Are assumptions defeated under s 128(4)?
+      - s 128(4): Assumptions under s 129 do not apply if the third party:
+        - Knows the assumption is incorrect; or
+        - Suspects it is incorrect
+        - Eden Energy Ltd v Drivetrain Systems International Pty Ltd [2012] FCA 235
+          - “Suspect” = subjective awareness; no duty to inquire, but actual doubt defeats assumptions.
+        - Northside Developments Pty Ltd v Registrar-General (1990) 170 CLR 146 – Common law “put on inquiry” test is narrowed by s 128(4).
+    - Step 5 – Final Determination: Is the company bound?
+
+Condition
+Company Bound?
+Properly executed under s 127
+✅ Yes
+Agent had actual authority (s 126)
+✅ Yes
+Agent had apparent authority (Freeman test)
+✅ Yes, if all 4 limbs met
+Outsider relied on s 129 assumptions
+✅ Yes, unless s 128(4) applies
+Outsider had knowledge or suspicion
+❌ No – s 128(4) displaces protection
+Quick Case Reference Summary
+Legal Principle
+Key Case
+Implied actual authority
+Hely-Hutchinson v Brayhead
+Apparent authority test
+Freeman & Lockyer v Buckhurst Park
+Limits on position authority
+Crabtree-Vickers v Australian Direct Mail
+Knowledge defeats assumptions
+Eden Energy v Drivetrain
+Constitution assumed complied
+Ross v GVC Homes
+Narrowing of "put on inquiry"
+Northside Developments
+Usual authority + reliance
+Frenmast Pty Ltd v Barnet
+- Week 5: Managing Companies IV: Company Meetings
+  - 1. Appointment & Removal of Directors
+    - Eligibility: ≥18 yrs, not disqualified (s 201B).
+    - Disqualification grounds:
+      - Convictions, bankruptcy (s 206B).
+      - Contravention of civil penalty provisions (s 206C).
+      - ASIC power of disqualification (s 206F).
+    - Appointment:
+    - By members (s 201G RR).
+    - Interim directors (s 201H RR).
+    - Alternate directors (s 201K RR).
+    - Removal:
+    - Pty co: by members (s 203C RR).
+    - Public co: by members (s 203D mandatory – 2 months’ notice).
+    - Directors of public co cannot remove each other (s 203E).
+  - 2. Company Meetings
+    - Two types:
+      - 1. Directors’ meetings (board)
+      - 2. Members’ meetings (shareholders)
+    - Also: circulating resolutions (ss 248A, 249A) & unanimous assent (Duomatic principle).
+      - Functions: decision-making + accountability + voicing concerns.
+    - Checklist for validity (ss 248A–250Y):
+      - Convening authority & notice.
+      - Proper timing/place.
+      - Proper purpose.
+      - Quorum.
+      - Chair conduct.
+      - Proxies.
+      - Resolutions (ordinary/special).
+      - Challenge mechanisms (s 1324 injunction, s 1322 irregularity, s 232 oppression, fraud on a power).
+  - 3. Directors’ Meetings (s 248C)
+    - Power: vested in collective board (s 198A; Northside Developments).
+    - Convening: notice reasonable (s 248C). Cases:
+      - Mcmaster v Eznut (short notice OK if director not attending).
+      - Sliteris v Ljubic (2 days enough – insolvency).
+      - Re Keneally (3 hrs insufficient).
+    - Conduct:
+      - Tech permitted (s 248D).
+      - Chair (s 248E).
+      - Majority vote; chair casting vote (s 248G RR).
+      - Conflicts → ss 194–195 (see Topic 10).
+      - Must keep minutes (s 251A; James Hardie).
+  - 4. Members’ Meetings
+    - Types: AGM, general (EGM), class.
+    - Who can call:
+      - Director (s 249C RR).
+      - Court (s 249G).
+      - Members with 5% votes (s 249D, s 249F).
+    - Notice:
+      - 21 days (s 249H), 28 days listed (s 249HA).
+      - Must be clear/not misleading (s 249L). Cases:
+        - Fraser v NRMA Holdings – intelligibility.
+        - ENT v Sunraysia – fiduciary duty of advice.
+      - Misleading info = s 1041H breach.
+    - Purpose: proper purpose required (s 249Q; NRMA v Parker, ACCR v CBA).
+    - Quorum: 2 (s 249T RR).
+    - Voting:
+      - Ordinary = simple majority.
+      - Special = 75% (s 249L(1)(c)).
+      - Rights = proprietary ( Pender v Lushington ), but fraud on a power limits majority.
+    - Proxies:
+      - Mandatory for public, RR for proprietary (s 249X).
+      - Lodgement: 48h prior (s 250B).
+      - Proxy as agent of member (Whitlam v ASIC).
+  - AGMs (public cos)
+    - Mandatory (s 250N).
+    - Business: s 250R.
+    - Remuneration report vote + “2 strikes” (s 250R(2), s 250V).
+    - Members can question auditors (ss 250PA, 250RA).
+  - 5. Challenging Meeting Decisions
+    - s 1324: statutory injunction.
+    - s 1322: procedural irregularities – must show “substantial injustice”.
+    - s 232: oppression remedy.
+    - General law injunction: breach of constitution/replaceable rules.
+    - ASIC enforcement: civil penalty proceedings (s 1317E–H).
+  - 6. CATSI Act (Indigenous Corporations)
+    - Different thresholds: e.g. meeting requisition requires greater of 5 members or 10% (s 201.5, 201.40).
+    - Member disputes → “special administrator” (s 487.5).
+  - 7. Financial Reporting & Audit
+    - Financial reports:
+      - Public companies must prepare annually (s 292).
+      - Small pty co exemption unless directed by members (s 293) or ASIC (s 294).
+      - Listed co: half-year reports (s 302) + continuous disclosure (ss 674–678).
+      - Deadlines: send to members & lodge with ASIC within 4 months (ss 315, 319).
+    - Auditors:
+      - Mandatory for public cos (s 327A).
+      - Independence (s 324CA–DD).
+      - Access to books (s 310). 
+      - Report = “true & fair” (ss 308, 309). 
+      - Must report misconduct to ASIC (s 311). 
+      - Officers must assist (s 312).
+    - Audit committees: required for listed cos under ASX Principles (Principle 4)
+  - Exam Problem flowchart
+    - 1. Appointment & Removal of Directors
+      - Is the director eligible?
+        - Age ≥18? Not disqualified? (s 201B). 
+        - Grounds: conviction/bankruptcy (s 206B), civil penalty (s 206C), ASIC order (s 206F).
+      - How were they appointed?
+        - Members’ resolution? (s 201G RR). 
+        - Interim appointment? (s 201H RR). 
+        - Alternate director? (s 201K RR).
+      - Can they be removed?
+        - Pty co: members (s 203C RR).
+        - Public co: members (s 203D mandatory, 2 months’ notice).
+        - Directors cannot remove each other in public co (s 203E).
+      - → Check constitution / replaceable rules overlay.
+    - 2. Type of Meeting? 
+      - Directors’ meeting (board decision under s 198A). 
+      - Members’ meeting (AGM, EGM, class meeting). 
+      - Other decision method? 
+        - Circulating resolution (ss 248A, 249A). 
+        - Duomatic principle (unanimous assent).
+    - 3. Convening a Meeting 
+      - Who has authority? 
+        - Directors (s 249C RR, s 249CA listed). 
+        - Members with ≥5% (s 249D, s 249F).
+        - Court (s 249G). 
+      - Was proper notice given? 
+        - Directors’ meeting → reasonable notice (Mcmaster v Eznut, Sliteris v Ljubic, Re Keneally). 
+        - Members’ meeting → 21 days (s 249H), 28 days listed (s 249HA). 
+      - Contents of notice? 
+        - Clear, not misleading (s 249L). 
+        - Misleading = breach (s 1041H; ENT v Sunraysia). 
+      - Purpose valid? 
+        - s 249Q proper purpose; invalid resolutions may be ignored (NRMA v Parker, ACCR v CBA).
+    - 4. Conduct of Meeting 
+      - Quorum present? 
+        - Directors = 2 (s 248F RR). 
+        - Members = 2 (s 249T RR). 
+      - Chair? 	
+        - Directors: elected (s 248E). 
+        - Members: see constitution. 
+      - Use of technology valid? (s 248D, s 249S)
+      - Voting? 	
+        - Ordinary resolution = simple majority  
+        - Special resolution = 75% (s 249L(1)(c)). 
+        - Show of hands or poll (s 250J). 
+      - Proxies? 
+        - Allowed for public co (s 249X), 48hr lodgement (s 250B). 
+        - Proxy acts as agent (Whitlam v ASIC).
+    - 5. Outcome / Challenges 
+      - Validly passed? If yes → binding resolution. 
+      - Challenged? 
+        - Procedural irregularity? (s 1322 – substantial injustice test). 
+        - Fraud on a power (equity). 
+        - Oppression (s 232). 
+        - Injunction (s 1324). 
+        - ASIC enforcement (s 1317E–H).
+    - 6. Special Contexts 
+      - AGM (public co)? 
+        - Required (s 250N)  
+        - Business in s 250R (incl. remuneration vote). 
+        - “2 strikes” rule (s 250V). 
+      - CATSI Act? 
+        - Member thresholds higher (ss 201.5, 201.40 
+        - Disputes → special administrator (s 487.5).
+    - 7. Financial Reporting & Audit 
+      - Who must report? 
+        - Public co (s 292).  
+        - Pty co exempt unless directed (s 293, s 294). 
+      - Timing: 
+        - Send to members + lodge with ASIC within 4 months (ss 315, 319). 
+        - Listed co also: half-yearly (s 302) + continuous disclosure (s 674). 
+      - Audit: 
+        - Public co: mandatory (s 327A). 
+        - Auditor independence (s 324CA-DD). 
+        - Access to books (s 310). 
+        - Duties: report true & fair (ss 308–309), notify ASIC of breaches (s 311). 
+        - Officers must assist (s 312).
+  - Problem-Solving Exam Flow
+    - Q1. Appointment/removal issue?
+    - Q2. Was the meeting validly convened? 
+    - Q3. Were notice, purpose, quorum, voting, proxies proper? 
+    - Q4. Resolution outcome – binding or voidable? 
+    - Q5. Can it be challenged – statutory (s 1322, 1324, 232) or equitable (fraud on power)? 
+    - Q6. Special context – AGM / CATSI / listed company disclosure? 
+    - Q7. Financial reporting or auditor duties breached?
+  - Problem solving Corporate Meeting Questions
+    - What king of meeting is it?
+    - Eligibility to call meeting/purpose resolutions
+    - Notice Requirements Fulfilled?
+    - Conduct During Meeting?
+    - Remedies for Breach
+      - s 1324 Injunction
+      - Will irregularities be cured under s 1322
+- Week 6: ASICs role in regulating companies, financial services and markets
+  - 1. Australian Financial Services (AFS) Licensing Regime
+    - Origins: Wallis Inquiry (1997–98) → Financial Services Reform Act 2001 → Corporations Act 2001 (Cth) Ch 7. 
+    - Purpose: Single, overarching licensing + consumer protection regime. 
+    - Financial Products (s 763A): securities, insurance, superannuation, MIS interests, derivatives, banking products.
+      - Not: private health, workers comp, CTP.
+    - Financial Services (s 766A): dealing/advising in financial products.
+    - Licence requirement: Must hold an AFS licence if conducting FS business in Australia (s 911A).
+    - Application: s 913A.
+    - Example: managing financial risk (s 763C).
+  - 2. Obligations of AFS Licensees (s 912A)
+    - Provide services efficiently, honestly, fairly. 
+    - Manage conflicts of interest (see RG 181). 
+    - Comply with law. 
+    - Maintain competence (RG 146 training). 
+    - Retail clients: dispute resolution & compensation schemes.
+  - 3. ASIC’s Compliance & Enforcement Pyramid
+    - Top (punitive): Criminal prosecutions (s 1311; penalties in Sch 3; serious → CDPP).
+    - Civil penalties:
+      - s 1317E – Declaration of contravention. 
+      - s 1317G – Pecuniary penalty. 
+      - s 1317H – Compensation. 
+      - s 206C – Disqualification.
+    - Middle: Administrative actions.
+      - s 206F – 5-year disqualification (failed companies).
+      - s 920A – FS banning orders.
+      - s 915C – Licence cancellation.
+      - Stop orders (s 739), infringement notices, EUs.
+    - Base: Warnings, negotiation, compliance programs.
+    - Theory: Responsive regulation (Ayres & Braithwaite) – persuasion at base, escalation credible.
+  - 4. Market Misconduct
+    - (a) Continuous Disclosure 
+      - s 674; ASX Listing Rule 3.1: immediate disclosure of material info. 
+      - Material = influence investor decisions (s 677). 
+      - Exceptions: incomplete proposal, trade secrets, internal mgmt, still confidential (LR 3.1A). 
+      - Cases:
+        - Fortescue Metals (2011 FCAFC) – misleading → s 1041H. 
+        - Forrest v ASIC (2012 HCA) – not misleading → no contravention. 
+        - Newcrest Mining (2014 FCA) – analyst briefings → $1.2m penalty.
+    - (b) Misleading/Deceptive Conduct 
+      - s 1041H CA + ASIC Act.
+    - (c) Insider Trading 
+      - s 1043A: prohibited conduct with inside info (s 1042A: not public + price sensitive). 
+      - Includes: trading, procuring, or tipping. 
+      - Cases: R v Rivkin (2003), R v Khoo (2013).
+  - 5. ASIC Investigative & Enforcement Powers 
+    - ASIC Act 2001: 	
+      - s 13: Investigations. 
+      - s 19: Compulsory examination. 
+      - ss 30–33: Notices to produce. 
+      - ss 39D–39I: Search warrants. 
+    - “Books” = broad (s 5). 
+    - Enforcement tools: injunctions (s 1324), EUs (s 93AA ASIC Act), banning/disqualification
+  - 6. ASIC’s Enforcement Approach 
+    - Info Sheet 151: Factors = seriousness, harm, deterrence, evidence, public confidence. 
+    - Types of action: 	
+      - Punitive (penalties, imprisonment).
+      - Protective (bans, disqualification). 
+      - Preservative (injunctions). 
+      - Corrective (advertising, disclosure). 
+      - Compensation (orders, remediation). 
+      - Negotiated (EUs, compliance reviews)
+  - 7. Enforceable Undertakings (EUs) 
+    - s 93AA ASIC Act  
+    - Alternative to litigation. Can include: 
+      - Compliance programs/independent reviews. 
+      - Correcting market misstatements. 
+      - Compensation. 
+    - ASIC’s aims: deterrence, culture reform, market integrity.
+  - 8. Examples / Statistics 
+    - 2017–18 ASIC Report: 
+      - 22 convictions; 13 custodial sentences. 
+      - $42.2m in civil penalties. 
+      - 133 removals/bans; 50 director disqualifications. 
+      - $351.6m compensation/remediation. 
+      - 27 enforceable undertakings.
+  - Exam Flowchart — ASIC, AFS Licensing & Enforcement
+    - 1. Does the conduct involve financial products or services?
+      - Statute: 
+        - s 763A CA — defines financial products. 
+        - s 766A CA — defines financial services (dealing, advising). 
+      - Cases / commentary: Kevin Lewis, When is a financial product not a financial product? (2004) 22 C&SLJ 103.
+      - If YES → AFS Licence required (s 911A CA). 
+      - If NO → Outside ASIC FS jurisdiction.
+    - 2. Is the entity licensed & meeting obligations?
+      - Obligations (s 912A CA):
+        - Efficiently, honestly, fairly. 
+        - Manage conflicts (RG 181). 
+        - Maintain competence (RG 146). 
+        - Comply with law.
+      - If breach suspected → ASIC may investigate under ASIC Act 2001.
+    - 3. What type of misconduct?
+      - (a) Continuous Disclosure (s 674 CA; ASX LR 3.1)
+        - Must disclose material info (s 677).
+        - Cases: 
+          - Fortescue Metals (2011 FCAFC) — misleading announcements = breach. 
+          - Forrest v ASIC (2012 HCA) — no contravention (target audience not misled). 
+          - Newcrest Mining (2014 FCA) — selective analyst briefings → penalty.
+      - (b) Misleading or Deceptive Conduct 
+        - s 1041H CA, ASIC Act s 12DA.
+      - (c) Insider Trading
+        - s 1043A CA: 
+          - Inside info = not public + price sensitive (s 1042A). 
+        - Cases: R v Rivkin (2003); R v Khoo (2013).
+    - 4. What enforcement pathway applies? 
+      - (Apply enforcement pyramid / responsive regulation)
+      - Step 1: Administrative action (base)
+        - Infringement notices (CA Part 9.4AA). 
+        - Enforceable undertakings (ASIC Act s 93AA). 
+          - E.g., Leighton Holdings EU (2012, disclosure failures). 
+        - Banning orders (s 920A). 
+        - Licence cancellation (s 915C).
+      - Step 2: Civil penalties (middle) 	 
+        - Declaration of contravention (s 1317E). 
+        - Pecuniary penalties (s 1317G). 
+        - Disqualification (s 206C). 
+        - Compensation (s 1317H). 
+        - Cases:
+          - ASIC v Cassimatis (No 9) (2018 FCA) — director duty breach → penalties + disqualification. 
+          - ASIC v NAB (2020 FCA 1494) — $15m penalty for introducer program, agreed resolution. 
+          - ASIC v GetSwift (2023 FCA) — $15m corporate penalty + director bans.
+      - Step 3: Criminal prosecution (apex) 
+        - s 1311 CA: contraventions may be offences. 
+        - CDPP handles serious prosecutions. 
+        - Cases: Insider trading prosecutions (Rivkin, Khoo).
+    - 5. Tests to Apply (Exam Key Phrases) 
+      - “Efficiently, honestly, fairly” (s 912A; ASIC v Camelot [2012] FCA). 
+      - Materiality test for disclosure: would it influence investor decision? (s 677; Forrest v ASIC). 
+      - Deterrence v retribution: ABCC v Pattinson (2022 HCA) — penalties aim at deterrence, not punishment. 
+      - Directors’ duties: s 180(1) (care & diligence) → Cassimatis. 
+      - Responsive regulation: Ayres & Braithwaite (1992); ASIC post-RC “Why not litigate?” (Legg 2019).
+    - 6. Overlay: ASIC’s Investigation Powers 
+      - ASIC Act 2001: 
+        - s 13 — commence investigation. 
+        - s 19 — compulsory examination. 
+        - ss 30–33 — require documents. 
+        - s 5 — broad “books” definition.
+    - 7. Exam Wrap-Up Formula (Conclusion in problem question)
+- Identify misconduct (FS licence breach, disclosure failure, insider trading, misleading).
+- Apply statute definitions/tests.
+- Cite key case law to characterise.
+- Place on enforcement pyramid (admin → civil → criminal).
+- Tie to responsive regulation: Was ASIC proportionate? Was escalation justified?
+- Week 7: Corporate Fund-raising
+  - 1. Core Principles
+    - Purpose of Ch 6D (Corporations Act 2001 (Cth)): To protect investors by requiring disclosure of information needed to make an informed decision when companies raise capital via securities.
+    - Why equity fundraising vs debt: No repayment obligation, spreads risk among shareholders, aligns with growth.
+    - Disclosure = central mechanism: ensures transparency, confidence, and market integrity.
+  - 2. Key Statutory Provisions
+    - s 92: Definition of securities (shares, debentures, derivatives).
+    - s 706–707: General rule — disclosure required for all securities offers unless exempted.
+    - s 708: Key exemptions:
+      - Small scale (20/12/2 rule) – s 708(1).
+      - Sophisticated investors – s 708(8).
+      - Offers via AFS licensee – s 708(10).
+      - Professional investors – s 708(11).
+      - Senior managers & families – s 708(12).
+    - Disclosure documents:
+      - Prospectus (s 709).
+      - Short form prospectus (s 712).
+      - Offer Information Statement (≤ $10m, s 715).
+      - Profile Statement (s 721, ASIC approval).
+    - Disclosure test: s 710 – all info investors & advisers would reasonably require.
+    - Liability provisions:
+      - s 726 – no offers in non-existent body.
+      - s 727 – must not offer without disclosure doc.
+      - s 728 – liability for misleading/omissions.
+      - s 729 – compensation rights for investors.
+      - s 730 – obligation to correct defective docs.
+      - s 734 – advertising offences.
+    - Defences:
+      - s 731 – due diligence defence.
+      - s 732 – lack of knowledge (OIS/Profile).
+      - s 733 – reliance on others/withdrawal of consent/unawareness of new matter.
+    - ASIC powers:
+      - Stop orders (s 739).
+      - Injunctions (s 1324)
+  - 3. Standards / Tests
+    - Disclosure (s 710): Would a reasonable investor/adviser need the info to assess rights and financial position/prospects?
+    - Due diligence defence (s 731): All reasonable inquiries made → belief on reasonable grounds that statements were not misleading.
+    - s 708(10) Exemption: AFS licensee must reasonably satisfy themselves investor has experience to assess the offer (investigation required).
+  - 4. Key Cases
+    - ASIC v Maxwell [2006] NSWSC 1052
+      - Facts: Property investment schemes (ProCorp/Central Dev). Misleading ads promising 30% “guaranteed” returns. Improper reliance on s 708(10).
+      - Held: Loan agreements = debentures = securities → disclosure required. Exemptions failed (licensee did not reasonably investigate).
+      - Contraventions: ss 727, 728, 734, 911A/B, 1041H (misleading conduct), directors’ duties (ss 180–181).
+      - Outcome: Disqualifications, compensation, pecuniary penalties, imprisonment (Maxwell).
+      - Principle: Strict approach to exemptions; disclosure central to investor protection.
+    - ASIC v Adler [2002] NSWSC 483 (referred in Maxwell) – 15 factors for director disqualification periods.
+    - Thompson v ASIC [2002] FCA 512 – s 739 stop orders continue until offers no longer possible.
+  - 5. ASIC’s Role
+    - Reviews lodged disclosure docs (7-day exposure).
+    - Can extend exposure, issue interim/final stop orders.
+    - Issues guidance (RG 254 — disclosure; RG 170 — forecasts).
+    - Enforces via civil penalties, disqualification, compensation orders.
+  - 6. Policy Developments
+    - Crowd-sourced Funding (CSF): Corporations Amendment (Crowd-sourced Funding) Act 2017.
+    - New Part 6D.3A (ss 738–738ZK).
+    - Unlisted public companies < $25m turnover/assets can raise ≤ $5m in 12 months.
+    - Must use licensed CSF intermediaries (AFS licence).
+    - Goal: balance investor protection with capital access for start-ups.
+  - 7. Exam Formula — Corporate Fund-raising (Ch 6D)
+    - Step 1: Is statutory disclosure required?
+      - Is there an “offer of securities”?
+        -  “Securities” (shares, debentures, options/derivatives): s 92.
+        - Offering securities requires disclosure unless exempt: ss 706–707.
+      - If exempt → which exemption? s 708 (headline ones):	
+        - Small-scale (“20/12/2”): ≤20 issues (not offers), ≤$2m, rolling 12 months: s 708(1). 
+        - Sophisticated investor: ≥$500k consideration, or accountant’s certificate: net assets >$2.5m / gross income >$250k for each of last 2 years: s 708(8). 
+        - Through AFS licensee (experience test): s 708(10) (licensee must be satisfied on reasonable grounds of the investor’s experience; written acknowledgement).
+        - Professional investors (e.g., trustees >$10m, AFSLs): s 708(11).
+        - Senior managers & relatives: s 708(12).
+      - 708AA - Rights Issue (Reissuing to existing shareholders) - s 9A Corporations act for translation in english	
+        -  (1)  A rights issue is an offer of a body's securities for issue in respect of which the following conditions are met:
+          - (a)  the securities being offered for issue are in a particular class;
+            - (i)  the offer is made to every person who holds securities in that class to issue them, or their assignee, with the percentage of the securities to be issued that is the same as the percentage of the securities in that class that they hold before the offer; or
+      - ➡ If no exemption applies → must use a disclosure document (prospectus, short form, OIS, profile): s 709.
+    - Step 2: Which disclosure document and content?
+      - Type: 
+        - Prospectus (default): s 709.
+        - Short-form prospectus (cross-reference lodged info): s 712.
+        - Offer Information Statement (≤$10m; fresh financials <6 months): s 709(4), s 715.
+        - Profile statement (ASIC approval): s 721.
+      - General disclosure test (core standard): s 710
+        - “All information that investors and their professional advisers would reasonably require to make an informed assessment of:
+          - the rights/obligations of the securities; and
+          - the issuer’s assets, liabilities, financial position/performance, profits/losses and prospects.”
+      - Specific inclusions (fees/benefits/consents): s 711.
+    - Step 3: Lodgement, exposure and ASIC oversight
+      - Lodge with ASIC → 7-day exposure (extendable): Ch 6D. 
+      - ASIC stop orders (interim/final) to protect investors: s 739 (runs from lodgement until offers no longer possible: Thompson v ASIC). 
+      - Forecasts: must have reasonable grounds (s 728(2)); see ASIC RG 170.
+    - Step 4: Due diligence (what it is / why it matters)
+      - Meaning: A structured, documented investigation and verification process (legal/financial/technical) to ensure the disclosure meets s 710 and to support the due diligence defence. 
+      - Typical workstreams: legal (XYZ Lawyers), financial (Purple Accountants), corporate adviser (investment bank), management verification, consents. 
+      - Defence (prospectus): s 731 — person made all reasonable inquiries and on reasonable grounds believed statements were not misleading and no material omissions. 
+      - Other defences: s 732 (OIS/profile: lack of knowledge), s 733 (reliance on others; withdrawal of consent; unawareness of new matter).
+    - Step 5: Defective disclosure — liability & parties
+      - Contraventions 
+        - Offer without current disclosure doc: s 727. 
+        - Misleading statements / omissions / new circumstances: s 728.
+          - Offence if materially adverse: s 728(3). 
+          - Forward-looking statements require reasonable grounds: s 728(2) 
+      - Civil liability to investors (loss or damage) — s 729:
+        - Issuer/offeror, directors, underwriter, persons named with consent as having made statements, and persons “involved in” (s 79).
+      - Ongoing correction duties 
+        - Each liable person must notify the offeror of material misstatement/omission/new matter: s 730. 
+        - Issuer must lodge supplementary or replacement disclosure document if new matter arises that would have been required by s 710 and is materially adverse: s 719.
+      - Advertising offences: s 734.
+      - ASIC remedies
+        - Stop orders s 739; injunctions s 1324.
+      - Case anchor: ASIC v Maxwell [2006] NSWSC 1052 
+        - – Loan “notes” were debentures ⇒ securities; disclosure required.
+        -  – s 708(10) failed: AFSL did not make adequate inquiries to be “satisfied on reasonable grounds” about investor experience.
+        -  – Multiple Ch 6D breaches; plus misleading conduct (s 1041H), AFSL offences (ss 911A/B), and directors’ duties contraventions (picked up in later tutorial).
+        -  – Orders: disqualifications, compensation, pecuniary penalties; imprisonment in related proceeding.
+    - Step 6: Apply the standards to “new adverse info” pre-close
+      - Question: Has a new circumstance arisen after lodgement that would have been required by s 710 and is materially adverse? If yes → s 719 supplementary/replacement document needed. 
+      - If not issued: risk s 728 (defective disclosure), s 739 (stop order), investor s 729 claims, reputational damage.
+- Week 8: Directors duties I - Corporate governance and introduction to directors duties
+  - 1. Corporate Governance – Evolution & Context
+    - Pre-1990s: Directors’ duties rarely litigated; culture of passive boards.
+    - 1980s–2000s collapses: Bond Corp, Enron (2001), HIH (2001).
+      - HIH Royal Commission: “Corporate governance is the framework of rules, relationships, systems and processes … by which authority is exercised and controlled” (Justice Owen).
+    - Response: ASX Corporate Governance Principles & Recommendations (4th ed, 2019).
+  - 2. ASX Corporate Governance Principles (8 Principles)
+    - 1. Lay solid foundations for management & oversight.
+    - 2. Structure the board to be effective.
+    - 3. Act lawfully, ethically, responsibly.
+    - 4. Safeguard integrity of corporate reports.
+    - 5. Timely and balanced disclosure.
+    - 6. Respect rights of security holders.
+    - 7. Recognise and manage risk.
+    - 8. Remunerate fairly and responsibly.
+    - “If not, why not?” approach (ASX Listing Rule 4.10).
+    - Updated periodically (eg: gender diversity, ESG, financial risk).
+    - Influence beyond ASX-listed entities (eg: ACSI Guidelines, UK/European codes).
+  - 3. Directors’ & Officers’ Duties – Overview
+    - (a) Common law / equity – fiduciary duties
+      - Act in good faith in best interests of company.
+      - Proper purpose doctrine.
+      - Avoid conflicts of interest.
+    - (b) Corporations Act 2001 (Cth)
+      - s 180(1): Duty of care and diligence.
+        - Business Judgment Rule defence: s 180(2).
+      - s 181: Good faith in best interests & proper purpose.
+      - s 182: Misuse of position.
+      - s 183: Misuse of information.
+      - s 191, 195, 205B–C, 205F: Disclosure of interests.
+      - Chapter 2E: Related party transactions.
+      - s 588G: Duty to prevent insolvent trading.
+      - s 184: Criminal liability for dishonesty/recklessness.
+      - s 185: Statutory duties supplement common law
+  - 4. Remedies for Breach
+    - ASIC enforcement:
+      - Civil penalties (Part 9.4B).
+      - Criminal prosecutions (s 184).
+      - Disqualification orders.
+    - Private enforcement:
+      - Damages, account of profits, constructive trust.
+      - Injunctions (s 1324).
+    - Creditors: claims in insolvency.
+    - Limits: ss 199A–199B restrict indemnity/insurance for dishonesty or wilful breaches.
+  - 5. Key Doctrinal Notes
+    - Proper purpose: Power must be exercised for company purposes, not self-interest.
+    - Conflict rule: Directors must avoid actual/potential conflicts unless disclosed and permitted.
+    - Business judgment rule (s 180(2)): Defence if decision was:
+      - Made in good faith;
+      - Without material personal interest;
+      - Rationally informed belief in best interests of company.
+    - Care & diligence: Objective “reasonable director” test.
+  - Exam Flowchart – Directors’ Duties (Week 8)
+    - Step 1: Identify the Duty Alleged
+      - s 180(1): Care & diligence
+        - Test: Would a reasonable person in the director’s position have acted differently? (Daniels v Anderson (1995) 37 NSWLR 438).
+        - Defence: Business Judgment Rule (s 180(2)) → decision must be in good faith, informed, no personal interest, rational belief in company’s best interests.
+      - s 181: Good faith & proper purpose
+        - Test: Was the power exercised for the purposes conferred by the constitution/Act? If for collateral/self-interest → breach (Howard Smith Ltd v Ampol Petroleum Ltd [1974] AC 821).
+      - s 182: Misuse of position
+        - Test: Did the director use position to gain advantage for self/others or cause detriment to company?
+      - s 183: Misuse of information
+        - Test: Did the director use information obtained as an officer for advantage/detriment?
+      - Disclosure & conflicts
+        - Must disclose material personal interests (s 191).
+        - Related party transactions regulated (Ch 2E).
+      - s 588G: Prevent insolvent trading
+        - Test: Did the director allow company to incur debt while insolvent (or becoming insolvent)?
+        - Defence: Reasonable grounds to expect solvency (s 588H).
+    - Step 2: Apply Facts to Duty
+      - Identify director’s decision/omission.
+      - Ask: which duty is potentially breached?
+      - Link directly to statutory test/case principle
+    - Step 3: Consider Defences
+      - s 180(2): Business Judgment Rule.
+      - Reliance on advice: If reasonable (ASIC v Rich (2009) 75 ACSR 1).
+      - s 588H: Defences to insolvent trading (eg reasonable expectation of solvency, reliance on competent advice).
+    - Step 4: Determine Remedies
+      - ASIC actions:
+        - Civil penalty (Part 9.4B).
+        - Criminal prosecution (s 184 – dishonesty/recklessness).
+        - Disqualification from managing corps (s 206C).
+      - Private remedies:
+        - Damages, account of profits, constructive trust.
+        - Injunctions (s 1324).
+    - Step 5: Enforcement Limits
+      - s 185: Duties supplement common law fiduciary duties.
+      - ss 199A–199B: No indemnity/insurance for wilful or dishonest breaches.
+    - Step 6: Corporate Governance Overlay
+      - Refer to ASX Corporate Governance Principles as soft law context:
+        - eg Principle 3 (lawful, ethical, responsible culture), Principle 7 (risk management).
+      - While not legally binding, non-compliance may show failure of governance standards → relevant in assessing reasonableness (esp. s 180).
+- Week 9: Duty of care, skill and diligence and preventing insolvent trading
+  - 1. Key Definitions & Concepts
+    - Director/Officer: As defined in Corporations Act 2001 (Cth) s 9 (includes de facto/shadow directors where applicable).
+    - Duty of care and diligence: Statutory civil obligation owed by directors/officers to the company (s 180(1)).
+    - Business judgment: “Any decision to take or not take action in respect of a matter relevant to the business operations of the corporation” (s 180(3)).
+    - Solvency/Insolvency: s 95A — solvent if able to pay all debts as and when due; otherwise insolvent (cash-flow test).
+    - Civil penalty provision: s 180(1) and s 588G(2) are civil penalty provisions (s 1317E). Court may grant relief in part under s 1317S.
+  - 2. Development of the Corporate Duty of Care (Common Law → Statute)
+    - 2.1 Early Common Law Baseline
+      - Re City Equitable Fire Insurance Co Ltd [1925] Ch 407
+        - Director:
+          - Need not show more skill than reasonably expected from a person of their knowledge/experience (no liability for mere errors of judgment).
+          - Duties are intermittent (not continuous); attend meetings when reasonably able.
+          - May rely on officers absent grounds for suspicion.
+        - (Historic, more lenient — largely overtaken by modern objective standard.)
+    - 2.2 Modern Objective Standard (Australia)
+      - AWA Ltd v Daniels (1992) 7 ACSR 759 (NSWSC)
+          - Directors must ensure effective internal controls; standard varies with size/complexity; NEDs may rely more on management, but not blindly.
+      - Daniels v Anderson (1995) 37 NSWLR 438 (NSWCA)
+        - Duties are objective: directors must become familiar with the business, ensure means to audit management, meet as often as necessary, and monitor the company.
+        - The standard varies with company size/business and with director’s held-out skills (at 505).
+  - 3. Statutory Duty — s 180(1): Content & Standard
+    - Text: A director/officer must exercise powers/duties with the degree of care and diligence that a reasonable person would exercise if they:
+      - (a) were a director/officer of a corporation in the corporation’s circumstances; and
+      - (b) occupied the office held by, and had the same responsibilities as, the director/officer (s 180(1)).
+    - Objective, contextual test (circumstances + role):
+      - ASIC v Rich (2009) 75 ACSR 1 (Austin J) — “circumstances” includes: listed status, size/nature of business, constitution, board composition, allocation of work between board/executives, group control.
+    - Key role-specific applications:
+      - Chair/NED — ASIC v Rich (2004) 50 ACSR 500: NEDs owe s 180 duties; Chair may have elevated responsibilities; must keep informed of financial position. NED = non-executive director.
+      - CFO — Vines v ASIC (2007) 73 NSWLR 451: Reasonable CFO should verify critical liabilities; cannot simply rely on subordinates where risks are material.
+      - Board signing accounts — ASIC v Healey (2011) 196 FCR 291 (Centro): Directors must detect obvious errors (e.g., $bn current liabilities); cannot delegate final responsibility to auditors/audit committee.
+      - Company secretary/GC — Shafron v ASIC (2012) 247 CLR 465: Co Sec/GC breached s 180 by failing to warn of funding model flaws; not enough to leave “financial matters” to CFO if the officer has relevant information.
+    - Financial services compliance:
+      - Cassimatis v ASIC [2020] FCAFC 52: Breach of s 180(1) where directors failed to take alleviating precautions to prevent inappropriate advice to vulnerable retail clients; duty focuses on the director’s conduct, not merely the company’s contraventions (majority; penalties under s 1317G, disqualification s 206C).
+  - 4. Business Judgment Rule (BJR) — s 180(2)–(3)
+    - Safe harbour deeming compliance with s 180(1) (and common law/equity equivalents) if the director/officer:
+      - (a) makes the judgment in good faith for a proper purpose;
+      - (b) has no material personal interest;
+      - (c) informs themselves to the extent they reasonably believe appropriate; and
+      - (d) rationally believes the judgment is in the best interests of the corporation (s 180(2)).
+      - “Rational” unless no reasonable person could so believe.
+    - Scope: applies to a “business judgment” (decision to take/not take action in respect of a matter relevant to business operations) (s 180(3)).
+    - Guidance: ASIC v Rich (2009) 75 ACSR 1 [7248]–[7276] — factors for (c): importance of the decision, time/costs to obtain information, confidence in investigators, state of business/competing demands, availability of material information.
+    - Limits: Does not shield failures to attend to non-discretionary compliance/financial reporting obligations (e.g., Centro).
+  - 5. Reliance & Delegation
+    - Reliance: s 189 — reliance on information/advice from employees, professional advisers/experts, other directors/committee is reasonable if:
+      - the provider is reliable/competent, reliance in good faith, and the director made an independent assessment of the information.
+      - See ASIC v Adler [2002] NSWSC 171 [372] (Santow J) — principles on reliance and oversight.
+    - Delegation: s 190 — directors remain responsible for delegate’s acts; defence (s 190(2)) if director:
+      - believed on reasonable grounds the delegate would exercise the power properly (good faith; proper inquiry where indicated; delegate reliable/competent).
+      - Application: ASIC v Macdonald (No 11) (2009) 256 ALR 199 (James Hardie): significance of ASX announcements and board accountability.
+  - 6. Insolvency: Concepts & Indicators
+    - Insolvency test (cash-flow): s 95A — inability to pay debts as and when due (not balance-sheet insolvency).
+    - Creditors’ interests near insolvency: Directors must consider creditors’ interests as company approaches insolvency (Kinsela v Russell Kinsela Pty Ltd (in liq) (1986) 4 NSWLR 722).
+    - Indicators of insolvency (non-exhaustive):
+      - Lewis v Doran [2004] NSWSC 608 [75] (Palmer J); ASIC v Plymin (No 1) [2003] VSC 123 [386] (Mandie J): continuing losses; liquidity ratios < 1; overdue taxes; inability to raise finance; bank pressure to reduce overdraft; changes to COD/special payments; failing to pay within terms; post-dated/rounded cheques; dishonours; special arrangements; creditor enforcement; inability to produce timely/accurate financial info.
+      - See also ASIC RG 217 (indicators).
+    - Cash-flow sources: Operating, Financing, Investing (directors must realistically assess availability/timing).	
+      - Sandell v Porter (1966) 115 CLR 666 — cash-flow test considers debts as they fall due and the resources available in a timeframe that is commercially realistic; mere ability to realise assets eventually is insufficient if they cannot be realised in time to meet due debts.
+  - 7. Duty to Prevent Insolvent Trading — s 588G
+    - Elements (civil) (s 588G(1)–(2)):
+      - Person is a director when the company incurs a debt.
+      - Company is insolvent at that time or becomes insolvent by incurring that debt (s 95A).
+      - There are reasonable grounds for suspecting insolvency.
+      - Director fails to prevent the company from incurring the debt.
+      - A reasonable person in the director’s position would be aware of grounds for suspecting insolvency.
+    - Consequences:
+      - Civil penalty (s 588G(2); s 1317E); potential compensation orders (ss 588J–588X).
+      - Criminal offence if dishonesty (s 588G(3)).
+    - Defences — s 588H:
+      - s 588H(2): Reasonable grounds to expect solvency, and did expect solvency (mere hope that future profits will fix it is insufficient: Fryer v Powell (2001) 37 ACSR 589).
+      - s 588H(3): Reasonable reliance on a competent person for solvency info.
+      - s 588H(4): Absence from management due to illness/other good reason (cf DCT v Clark (2003) 45 ACSR 332 — defence available where genuinely not participating).
+      - s 588H(5): Took all reasonable steps to prevent the debt being incurred.
+    - Defences - s 588GA:
+      - (Safe harbour): No liability under s 588G(2) for debts incurred while the director is developing and taking a course of action reasonably likely to lead to a better outcome for the company than immediate liquidation/administration. Preconditions include:
+        - Proper books and records kept (s 588GA(1)(b));
+        - Employee entitlements paid when due (s 588GA(4)(a));
+        - Tax reporting obligations met (s 588GA(4)(b));
+        - Taking appropriate advice and properly informing oneself (non-exhaustive factors in s 588GA(2)).
+        - Safe harbour ends if course of action ceases to be reasonably likely to lead to a better outcome (s 588GA(3)).
+    - Key cases:
+      - ASIC v Plymin (No 1) (2003) 46 ACSR 126: indicators; NED still required to take reasonable steps; bans/fines upheld on appeal (Elliott v ASIC; Plymin v ASIC (2004) 48 ACSR 621).
+      - Metropolitan Fire Systems Pty Ltd v Miller (1997) 23 ACSR 699: insolvent where liabilities far outstripped assets and receipts were uncertain — director had no reasonable grounds to expect solvency.
+      - CBA v Friedrich (1991) 5 ACSR 115: directors cannot abdicate oversight to a dominant CEO; must actively monitor financial position.
+    - DCT v Clark (2003) 45 ACSR 332: genuine absence from management may found defence.
+  - 8. “Common Things to Know” (Exam Hot Buttons)
+    - s 180(1) is objective; contextualised by company circumstances and the office actually held.
+    - You cannot delegate ultimate responsibility for financial statements/ASX releases; Centro and James Hardie remain core authority.
+    - BJR is powerful but narrow: it protects judgments, not compliance failures or ignorance of obvious red flags.
+    - NEDs have real obligations: must keep informed, read board papers, ask questions, and challenge where appropriate.
+    - Approaching insolvency: the creditors’ interests loom large; board must pivot from shareholder primacy.
+    - Insolvent trading is about incurring debts while insolvent; focus on cash-flow reality and contemporaneous grounds to suspect.
+    - Defences under s 588H are narrow; “hope” or “rosy forecasts” without substantiation won’t do.
+    - Penalties/disqualification are real risks (see Cassimatis; Shafron).
+  - 9. Case Snapshots (One-liners)
+    - Re City Equitable — lenient historic standard; reliance absent suspicion.
+    - AWA; Daniels v Anderson — objective modern standard; monitor & audit management; NED reliance is not blind.
+    - ASIC v Rich (2004; 2009) — Chair/NED duties; s 180 “circumstances” matrix; BJR guidance.
+    - Vines v ASIC — CFO must verify material exposures.
+    - ASIC v Healey (Centro) — board responsible for obvious (current) liabilities; cannot outsource.
+    - Shafron v ASIC — Co Sec/GC duty to warn; cannot compartmentalise.
+    - Cassimatis — s 180 breach via failure to avert inappropriate advice to vulnerable clients; penalties/disqualification.
+    - Kinsela — creditors’ interests near insolvency.
+    - Plymin; Lewis v Doran — insolvency indicators.
+    - Miller; Friedrich — active monitoring required; no blind reliance.
+    - Clark — genuine absence from management defence.
+  - 10. Exam Answer Formula (Problem Questions)
+    - Step 0
+      - 0.1. Definition (s 95A):
+        - Solvent = able to pay debts as and when due.
+        - Insolvent = not solvent.
+        - Debt does not include unliquidated damages (Box Valley Pty Ltd v Kidd [2006] NSWCA 26).
+      - 0.2. Deeming provisions:
+        - Winding up (s 459C).
+        - Insolvent trading (s 588E).
+        - Otherwise apply s 95A.
+      - 0.3. Indicators of insolvency (Lewis v Doran [2004]; ASIC v Plymin [2003]):
+        - Continuing losses; liquidity ratios < 1; overdue taxes; dishonoured cheques; COD/special supply terms; inability to raise finance; enforcement action; inaccurate financial records.
+      - 0.4. Forms of insolvency appointments:
+        - Liquidation (Pt 5.4, 5.5, 5.6) – winding up, distribution, liquidator powers (s 477), voidable transactions (Pt 5.7B), PPSA vesting (s 267).
+        - Voluntary administration (Pt 5.3A) – stay on claims (ss 440B–440D), administrator powers (s 437A), outcome usually DOCA or CVL.
+        - Schemes of arrangement (s 411) – compromise/arrangement with creditors; requires court approval and 75% in value + majority in number.
+        - Receivership – appointed by secured creditor; duties under s 420A; proceeds subject to employee entitlements (s 433).
+        - Overlaps possible (e.g. receiver + VA, or VA + liquidation).
+    - 1. Identify Duty/Claim
+      - 1.1. Is the claim under:
+        - s 180(1) (care and diligence)
+        - or s 588G (insolvent trading)
+      - 1.2. Identify role & company circumstances:
+        - Role: CEO, Chair, CFO, Company Secretary, NED (s 9AC, s 9AD).
+        - Circumstances of company: ASIC v Rich (2009) 75 ACSR 1 — includes:
+          - listed status;
+          - size and nature of business;
+          - company constitution;
+          - board composition;
+          - allocation of work between board and executives;
+          - group/holding company structure.
+    - 2. State the Legal Standard
+      - 2.1. s 180(1) test:
+        - Objective and contextual: what would a reasonable person do if they:
+          - (a) were a director/officer of a corporation in the corporation’s circumstances; and
+          - (b) occupied the office held and had the same responsibilities?
+      - 2.2. Business Judgment Rule (BJR): s 180(2)–(3)
+        - Applies only if a “business judgment” = decision to take/not take action in respect of matters relevant to the business operations (s 180(3)).
+        - Elements (all required):
+          - (a) Good faith and proper purpose;
+          - (b) No material personal interest;
+          - (c) Informed about the subject matter to the extent reasonably appropriate;
+          - (d) Rational belief judgment is in best interests of the company.
+        - If satisfied → no breach of s 180(1).
+    - 3. Apply to Facts (Care & Diligence)
+      - 3.1. Core duties under s 180(1):
+        - Must inform themselves of material matters (Daniels v Anderson (1995) 37 NSWLR 438).
+        - Must monitor finances and risks (ASIC v Vines (2005) 23 ACLC 123).
+        - Must not passively rely on management or overlook anomalies (Centro – ASIC v Healey (2011) 196 FCR 291).
+        - Must ensure accuracy and completeness of disclosure (ASIC v Shafron (2012) 247 CLR 465).
+      - 3.2. Reliance & Delegation
+        - s 189: reliance on information/advice reasonable if —
+          - information/advice from reliable and competent person;
+          - reliance in good faith;
+          - independent assessment made (not blind reliance) (ASIC v Adler [2002] NSWSC 171; AWA case).
+        - s 190: delegation permitted but director remains responsible unless:
+          - belief on reasonable grounds in good faith;
+          - proper reliance (Macdonald (No 11) [2009] NSWSC 287).
+      - 3.3. Business Judgment Rule check
+        - Only applies if decision is truly a “business judgment” (not compliance/financial reporting: Shafron, Centro).
+        - If engaged, apply 2.2(a)–(d).
+    - 4. Insolvent Trading (if relevant – s 588G)
+      - 4.1. Elements:
+        - Director (s 9AC).
+        - Company incurs a debt.
+        - Company insolvent at time (s 95A).
+        - Reasonable grounds to suspect insolvency.
+        - Failure to prevent debt incurrence (s 588G(2)).
+      - 4.2. Indicators of insolvency: continuous losses, poor cash flow, unpaid creditors, dishonoured cheques (Plymin; Lewis v Doran; ASIC RG 217).
+        - Presumptions: s 588E (e.g., failure to keep proper books and records under s 286 can give rise to a presumption the company was insolvent during the period (s 588E(4))).
+        - “Deeming provisions: s 459C (winding up), s 588E (insolvent trading).”
+      - 4.3. Defences (s 588H):
+        - (2) Reasonable expectation of solvency.
+        - (3) Reasonable reliance on competent person.
+        - (4) Absence from management.
+        - (5) Took all reasonable steps to prevent.
+      - 4.4. Consequences:
+        - Civil penalty (s 1317E).
+        - Compensation to company/creditors (ss 588J–588X).
+        - Offence if dishonest (s 588G(3)).
+    - 5. Conclusion & Remedies
+      - 5.1. Is there a breach? Anchor to cases:
+        - Daniels (duty to inform).
+        - Centro (duty to check).
+        - Shafron (responsibility for disclosures).
+        - Vines (failure to monitor).
+        - Rich (objective test, circumstances).
+        - Cassimatis (liability even if action increases shareholder value but risks harm to company).
+      - 5.2. Orders if breach:
+        - Civil penalty up to 5,000 penalty units (s 1317G).
+        - Disqualification (s 206C).
+        - Compensation orders (s 1317H).
+      - 5.3. Possible relief:
+        - Court may relieve under s 1317S if acted honestly, reasonably, and ought fairly to be excused.
+  - 11. Quick Reference — Authorities by Issue
+    - Standard (objective): s 180(1); Daniels v Anderson; ASIC v Rich (2009).
+    - Financial reports/ASX: ASIC v Healey (Centro); ASIC v Macdonald (No 11); Shafron v ASIC.
+    - Role-specific: Chair (Rich 2004), CFO (Vines), Co Sec/GC (Shafron).
+    - BJR: s 180(2)–(3); ASIC v Rich (2009).
+    - Reliance/Delegation: ss 189, 190; Adler.
+    - Creditors’ interests: Kinsela.
+    - Insolvency: s 95A; indicators (Plymin; Lewis v Doran; RG 217).
+    - Insolvent trading: s 588G (elements), s 588H (defences); Miller; Friedrich; Clark; Fryer v Powell.
+    - Penalties/relief: ss 1317E, 1317G, 1317S; s 206C.
+    - Continuous disclosure: Corporations Act s 674 and ASX Listing Rules inform the standard of care for market announcements; careless disclosure may evidence s 180(1) breach (see Macdonald (No 11) (James Hardie) (2009) 256 ALR 199; Shafron (2012) 247 CLR 465).
+- Week 10: Good Faith and Proper Purpose and Overview of corporate control transactions
+  - Duty to avoid conflicts of interest - Checklist
+    - S 182 - Misuse of position
+    - S 183 - misuse of information
+    - S 184 - good faith, use of position and use of information - criminal offences
+    - Managing conflicts of interest
+      - S 191, 193, 195, 194
+        - Disclosure
+        - Abstaining from voting
+        - resigning 
+    - Related party transactions - ch 2E (Public companies)
+    - Remedies (see prior weeks classes)
+  - 1. Core Vocabulary & Orientation
+    - 1.1 Good faith & proper purpose (directors’ duty)
+      - s 181(1): exercise powers in good faith in the best interests of the corporation and for a proper purpose (Corporations Act 2001 (Cth) s 181(1)).
+      - Involvement liability: persons “involved” in a breach may contravene s 181(2) (Corporations Act s 79; ASIC v Somerville (2009) 74 ACSR 492 (NSWSC)).
+      - Process duty: s 180(1) reasonable care and diligence (often defective decision-making process); business judgment rule s 180(2) exceptions.
+      - Misuse of position/info: ss 182–183 (civil/penalty); dishonest/reckless criminal analogues s 184(1)–(3).
+      - Conflicts of interest
+        - material personal interests - see s 191 and disclosure
+        - Directors and officers as fiduciaries – obligations to promote and protect company’s interests, asserts, information and opportunities 
+        - Depending on company’s constitution etc – might also be able to carry on private activities / investments – provided they first present opportunity to company – and then gain informed consent of company 
+        - Common remedies company (or members) may pursue for misuse of corporate information / assets – Account of profits; Constructive trust; Injunctions 
+    - 1.2 Shares & control
+      - Shares are personal property conferring economic/voting rights; issuing/cancelling shares can shift control (general principle).
+      - Takeovers: Ch 6 governs control transactions; s 602 sets purposes; s 606 20% threshold; Takeovers Panel resolves most disputes.
+  - 2. To Whom Are Duties Owed?
+    - 2.1 Company as a whole
+      - Not to individual shareholders (save exceptional facts), potential investors, or employees ( Percival v Wright [1902] 2 Ch 421; ASIC v Maxwell [2006] NSWSC 1052; Parke v Daily News [1962] Ch 927).
+      - Approaching insolvency: must consider creditors’ interests (Kinsela v Russell Kinsela (1986) 4 NSWLR 722; reaffirmed Spies v R [2000] HCA 43 (duty still to company)).
+      - Groups: directors owe duties to their specific company, not the group (Walker v Wimborne [1976] HCA 7). s 187 safe harbour for wholly-owned subsidiaries if preconditions met (Corporations Act s 187).
+  - 3. Proper Purpose — Framework & Tests
+    - 3.1 Purpose inquiry (two-step)
+      - Identify the nature of the power; identify the substantial purpose for use; assess whether proper or improper (Howard Smith Ltd v Ampol Petroleum [1974] AC 821).
+      - But-for test when multiple purposes: would directors have acted but for the improper purpose? (Mills v Mills (1938) 60 CLR 150 (HCA)).
+    - 3.2 Illustrations (share issues & control)
+      - Proper issuance linked to company benefit (e.g., capital raising/JV facilitation): Harlowe’s Nominees v Woodside (1968) 121 CLR 483 at 493; Teck Corp v Millar (1972) 33 DLR (3d) 288 (BCSC).
+      - Improper issuance to manipulate voting/frustrate bid: Howard Smith [1974] AC 821 (issue to preferred bidder improper).
+      - Improper to manipulate register for control within family company: Whitehouse v Carlton Hotel (1987) 162 CLR 285.
+      - Improper issue to entrench control/defeat testamentary scheme: Ngurli Ltd v McCann (1953) 90 CLR 425.
+      - Gambotto — constitutional amendments / expropriation
+        - “Alterations expropriating minority shares are valid only if for a proper purpose (not merely to eliminate a minority) and fair in all the circumstances (procedural and substantive fairness, incl price): Gambotto v WCP Ltd (1995) 182 CLR 432.”
+        - s 136(2): constitutional amendment by special resolution (75%); still subject to Gambotto (proper purpose + fairness).
+    - 3.3 Takeover context
+      - Not every frustration of a bid is improper; focus on good faith/company benefit and process (Teck v Millar (1972) 33 DLR (3d) 288).
+      - Today: overlay of Ch 6 (s 602 market principles; s 606 20% rule; Panel policy on frustrating action).
+  - 4. Good Faith (s 181) vs Care and Diligence (s 180)
+    - 4.1 s 181(1): honesty and loyalty to company’s interests; ulterior motives breach (e.g., prefer third-party/related interests; frustrate bid for private ends; prejudice creditors near insolvency) (Corporations Act s 181(1); ASIC v Somerville (2009) 74 ACSR 492).
+    - 4.2 s 180(1): process failures (inadequate inquiry, ignoring red flags); business judgment rule s 180(2) unavailable if conflicted or uninformed.
+      - Hypothetical: CEO conceals conflicts and pushes overpriced acquisition → s 181 (bad faith/improper purpose). Board rubber-stamps without inquiry → s 180(1) (no BJR) (general application).
+  - 5. Conflicts, Misuse, and Criminalisation
+    - 5.1 General law fiduciary rules
+      - Conflict rule: no position of possible conflict; profit rule: no unauthorised profit ( Aberdeen Railway v Blaikie (1854) 1 Macq 461).
+      - Corporate opportunities / misuse:
+        - Account of profits imposed even where company could not itself secure benefit: Regal (Hastings) v Gulliver [1967] 2 AC 134; Boardman v Phipps [1967] 2 AC 46.
+        - Usurping tenders/know-how: Green v Bestobell [1982] WAR 1.
+        - Diverting contracts and using votes to ratify breach invalid: Cook v Deeks [1916] 1 AC 554.
+        - Post-resignation obligations persist for misuse of information/opportunity: IDC v Cooley [1972] 2 All ER 162.
+        - No breach where opportunity offered in private capacity and fully disclosed/consented: Peso Silver Mines v Cropper (1968) 58 DLR (2d) 1; cf Streeter v WAE [2011] WASCA 17.
+        - Corporate opportunities — completions
+          - “Warman v Dwyer (1995) 182 CLR 544 — account of profits rather than constructive trust where gains substantially reflect fiduciary’s own efforts/capital post-breach.
+        - Queensland Mines v Hudson (1978) 18 ALR 1 — no breach where the company declined/was unable to pursue the opportunity after full disclosure.”
+        - s 203D (public companies): member removal of directors (ordinary resolution + notice) 
+    - 5.2 Statutory duties
+      - s 182: improper use of position to gain advantage or cause detriment (civil/penalty).
+      - s 183: improper use of information (duty continues post-office).
+      - s 184(1)–(3): criminal where intentional dishonesty or recklessness in breach of s 181 or use of position/information (Corporations Act ss 182–184).
+      - Purpose, not actual benefit/detriment, is key ( R v Byrnes & Hopwood (1995) 17 ACSR 551).
+      - Recent applications: ASIC v Vizard (2005) 54 ACSR 394 (insider misuse); ASIC v Somerville (2009) 74 ACSR 89; Chameleon Mining v Murchison (2010) 28 ACLC 10-073; Hydrocool v Hepburn (No 4) (2011) 83 ACSR 652.
+    - 5.3 Practical scenario mapping (182 vs 183) 
+      - Employee leaks budget figure to relative bidder → s 183 (use of confidential information).
+      - CEO steers contract to related party using position → s 182 (use of position) and likely s 181.
+  - 6. Disclosure and Voting — Managing Conflicts (ss 191–195, 194)
+    - 6.1 Disclosure
+      - s 191: directors must disclose material personal interests (standing notice s 192).
+      - Material = more than remote or insubstantial; must relate to affairs of company (Grand Enterprises v Aurium (2009) 72 ACSR 75).
+    - 6.2 Public companies — abstention
+      - s 195(1): director with material personal interest must not be present or vote (exceptions: s 195(2)–(4) approvals). Non-compliance can invalidate steps (Drillsearch v McKerlie [2009] NSWSC 517).
+    - 6.3 Proprietary companies
+      - s 194 (replaceable rule): disclosed director may vote/retain profits (policy: closely-held context) (Corporations Act s 194).
+  - 7. Related Party Transactions (Public Companies) — Ch 2E
+    - 7.1 Framework
+      - s 208: member approval required for giving a financial benefit to a related party; definitions s 228, “financial benefit” s 229; exceptions ss 210–216 (arms length); procedure ss 217–227; consequence s 209 (civil penalty; transaction not voided; s 1324 injunction available).
+- General duties still apply (s 230).
+- Leading case: ASIC v Adler [2002] NSWSC 171 (improper $10m related party benefit; not arm’s length; multiple duties breached).
+  - 8. Corporate Control Transactions — Overview (Ch 6 & schemes)
+    - 8.1 Takeovers (Ch 6) 
+      - s 602 purposes: efficient, competitive, informed market; identity of bidder; reasonable time; adequate information; equal opportunity. 
+      - s 606: prohibited acquisitions >20% without a permitted route (e.g., takeover bid/scheme). 
+      - Disclosure: substantial holdings; bidder/target statements; beneficial ownership (Corporations Act Ch 6; ASIC RGs; substantial holding regime).
+      - s 671B: substantial holding notice required for 5% or more (and each 1% change); enforces transparency in control acquisitions. 
+      - Takeovers Panel: primary dispute forum (www.takeovers.gov.au). 
+      - Frustrating actions: Panel guidance interacts with proper purpose jurisprudence.
+    - 8.2 Schemes of arrangement (s 411) 
+      - Two hearings; ASIC no-objection; majorities (headcount and 75% by value); court approval; used for complex acquisitions/restructures (Corporations Act s 411; ASIC RG 60).
+  - 9. Remedies & Enforcement
+    - 9.1 Public enforcement (ASIC)
+      - Criminal: s 184.
+      - Civil penalties: ss 1317E–1317G; disqualification; pecuniary penalties.
+      - Injunctions: s 1324.
+      - s 185: statutory duties are in addition to general law.
+    - 9.2 Private remedies (company/members via appropriate vehicles)
+      - Damages, equitable compensation, account of profits, constructive trust, injunctions, rectification of register (e.g., invalid share issue cases). 
+      - Member remedies: oppression (ss 232–233) and derivative actions (ss 236–237) available where directors fail to act or minority protection is needed.
+      - Oppression and derivative actions (outside this week’s core) may also be relevant.
+  - 10. Case Anchors (One-liners) 
+    - Mills v Mills (1938) 60 CLR 150 — but-for test for mixed purposes; fairness between classes. 
+    - Harlowe’s Nominees v Woodside (1968) 121 CLR 483 — proper to issue shares for company purposes beyond capital raising where genuinely for company benefit. 
+    - Teck v Millar (1972) 33 DLR (3d) 288 — not all takeover frustration improper; assess bona fides. 
+    - Howard Smith v Ampol [1974] AC 821 — share issue to favour bidder improper. 
+    - Whitehouse v Carlton Hotel (1987) 162 CLR 285 — improper manipulation of voting power. 
+    - Ngurli v McCann (1953) 90 CLR 425 — improper issue to entrench control; rectification. 
+    - Regal (Hastings) v Gulliver [1967] 2 AC 134 — account of profits for corporate opportunity. 
+    - Cook v Deeks [1916] 1 AC 554 — majority cannot ratify their own diversion of corporate benefit. 
+    - IDC v Cooley [1972] 2 All ER 162 — post-resignation obligations; disclose opportunities. 
+    - R v Byrnes & Hopwood (1995) 17 ACSR 551 — purpose suffices under misuse provisions. 
+    - ASIC v Adler [2002] NSWSC 171 — Ch 2E breach; civil penalty; disqualification. 
+    - Kinsela (1986) 4 NSWLR 722 — creditors’ interests near insolvency. 
+    - Walker v Wimborne [1976] HCA 7 — duty to company, not group.
+  - 11. Problem-Solving Template (Good Faith/Proper Purpose & Control)
+- Identify the impugned act/power (e.g., share issue, asset sale, defensive action; nature of power per Howard Smith).
+- Purpose analysis:
+  - 2.1 What was the substantial purpose?
+  - 2.2 Apply but-for test if mixed motives (Mills).
+  - 2.3 Was the purpose to benefit the company as a whole or to manipulate control/frustrate bid/serve private interests? (Harlowe’s; Howard Smith; Whitehouse).
+- Good faith (s 181): any ulterior motive, concealment of conflicts, creditor prejudice near insolvency?
+- Process duty (s 180): adequate information, inquiry, independence; BJR availability.
+- Conflicts/related parties:
+  - 5.1 Disclosure (s 191), abstention (s 195), proprietary rule (s 194).
+  - 5.2 Ch 2E: related party, financial benefit, approval/exception? (Adler).
+- Misuse provisions (ss 182–183) and potential s 184 where dishonest/reckless.
+- Takeovers overlay: s 606, s 602, Panel policy on frustrating actions; consider if scheme (s 411) is more appropriate.
+- Remedies: injunction (s 1324), rectification of register, account of profits/constructive trust, civil penalties/disqualification, criminal referral.
+- Standing/procedure: company claim; derivative action or oppression if needed (beyond this week).
+  - 12. Exam Answer Formula (Issue–Rule–Application–Relief)
+    - 1. Issue
+      - Has a director/officer breached s 181(1) by failing to act:
+        - (a) in good faith in the best interests of the company, or
+        - (b) for a proper purpose?
+          - → Consider overlap with s 180(1) (care and diligence) and ss 182–183 (misuse of position/information).
+    - 2. Rule
+      - 2.1 Proper Purpose Test
+        - Two-step test (Howard Smith v Ampol [1974] AC 821):
+          - Identify nature of the power (e.g. share issue, constitutional amendment).
+          - Identify substantial/dominant purpose; classify as proper or improper.
+        - Mixed motives: apply the “but-for” test – would directors have acted but for the improper purpose? (Mills v Mills (1938) 60 CLR 150).
+        - Proper → bona fide commercial purpose to benefit company as a whole (Harlowe’s Nominees v Woodside (1968) 121 CLR 483; Teck v Millar (1972) 33 DLR (3d) 288).
+        - Improper → manipulate control, disenfranchise shareholders, entrench board (Howard Smith; Whitehouse v Carlton Hotel (1987) 162 CLR 285; Ngurli v McCann (1953) 90 CLR 425).
+      - 2.2 Good Faith Test
+        - Must act honestly in company’s best interests (s 181(1)(a)).
+        - Ulterior or collateral motive → breach (ASIC v Somerville (2009); Cassimatis v ASIC (2020)).
+        - Near insolvency → consider creditors’ interests (Kinsela v Russell Kinsela (1986); Bell Group (2012)).
+      - 2.3 Related Duties
+        - s 180(1): process—adequate information, inquiry, independent advice (ASIC v Vines (2005)).
+        - ss 182–183: improper use of position/information; continues post-office (R v Byrnes & Hopwood (1995)).
+        - s 184: dishonest or reckless → criminal.
+    - 3. Application (Decision Steps)
+      - 1️⃣ Characterise the act/power: what was done and under what authority?
+      - 2️⃣ Identify substantial purpose: use timing, documents, effect on control/voting.
+      - 3️⃣ Apply “but-for” test: would directors have acted absent the collateral purpose?
+      - 4️⃣ Classify:
+        - - Proper → legitimate business purpose (funding, JV).
+        - - Improper → entrenchment, control manipulation, exclusion of rival.
+      - 5️⃣ Test good faith: any concealment, self-interest, or bad motive?
+      - 6️⃣ Check process: adequate information; advice; BJR available?
+      - 7️⃣ Consider misuse: any improper use of position/information for advantage or detriment?
+    - 4. Relief
+Remedy
+Source
+Example
+Equitable/company relief
+s 1324; general law
+Injunction, rectification, account of profits, constructive trust (Regal (Hastings)).
+Public enforcement
+ss 1317E–G, 206C
+Civil penalty, disqualification, criminal (s 184).
+Practical outcome
+
+Resolution/issue declared void; director liable to disgorge gains.
+
+    - 5. Exam Tip Summary
+      - Identify: which duty? (s 181 or s 180/182).
+      - Test: two-step + but-for.
+      - Apply: purpose, good faith, process.
+      - Remedy: injunction / account of profits / penalty.
+  - 13. Quick Reference — Statutes & Guidance 
+    - Corporations Act 2001 (Cth) ss 180–185, s 79, s 1324, Ch 2E, Ch 6, s 411.
+    - ASIC Regulatory Guides: RG 5 (substantial holdings), RG 60 (schemes); Takeovers Panel guidance (frustrating action).
+- Week 11: Members’ Remedies 
+  - 1. Statutory Oppression Remedy (ss 232–235 Corporations Act 2001 (Cth))
+    - 1.1 Elements (s 232)
+      - 1. Conduct of the company’s “affairs” (defined s 53), or act/omission/proposed act, that is:
+        - (a) Contrary to the interests of members as a whole, or
+        - (b) Oppressive, unfairly prejudicial, or unfairly discriminatory against a member or members.
+      - 2. Wrongdoer can be company, directors, majority shareholders, or a class of members.
+      - 3. Plaintiff (s 234): one or more members; can sue even if harm affects another member or arises in another capacity (e.g., employee–shareholder).
+    - 1.2 Available Remedies (s 233)
+      - Very broad remedial discretion:
+        - Share buyout orders;
+        - Regulation of future conduct;
+        - Winding up (as a last resort);
+        - Injunctions or appointment of receiver.
+    - 1.3 Key Cases
+      - Wayde v NSW Rugby League Ltd (1985) 180 CLR 459
+        - Facts: 13 rugby clubs (shareholders); directors reduced teams 13→12; Wests excluded.
+        - Held: Discrimination ≠ “unfair discrimination.”
+        - Test: “No reasonable director” standard.
+        - Oppression = unfairness, not mere disadvantage.
+      - Scottish Co-op Wholesale Society Ltd v Meyer [1959] AC 324
+        - Parent “squeezed out” subsidiary minority → oppressive; majority must act fairly to minority.
+      - John J Starr (Real Estate) v Robert R Andrew (Australasia) Pty Ltd (1991) 6 ACSR 63
+        - Oppressive conduct: exclusion from board meetings, failure to provide info, unfair franchise termination. 
+        - Young J: Mere loss of confidence/outvoting ≠ oppression; must show unfairness.
+      - Jenkins v Enterprise Gold Mines NL (1992) 6 ACSR 539 
+        - Majority directors benefited related party at minority’s expense → oppression established.
+      - Shamsallah Holdings Pty Ltd v CBD Refrigeration & Airconditioning Services Pty Ltd (2001) 19 ACSR 517 
+        - Change in dividend policy + increased director pay = unfair exclusion from profit-sharing. 
+        - Must consider company history and reasonable expectations.
+      - Gambotto v WCP Ltd (1995) 192 CLR 432
+        - Compulsory acquisition of shares by altering constitution
+        - Now s 232 
+    - 1.4 When Oppression Not Found
+      - Re G Jeffrey (Mens Store) Pty Ltd (1984) 9 ACLR 193: mere loss of confidence ≠ oppression.
+      - Re H.W. Thomas Ltd (1984) 2 ACLC 610: conservative management, fair pay to family members not oppressive.
+      - Morgan v 45 Flers Avenue Pty Ltd (1986) 10 ACLR 692: refusal to raise dividends ≠ commercially unfair.
+    - 1.5 Exam Formula – Oppression (s 232–235)
+      - 1. Identify conduct → act/omission in company’s “affairs” (s 53).
+      - 2. Assess effect → is it oppressive/unfairly prejudicial/unfairly discriminatory or contrary to members’ interests as a whole?
+      - 3. Apply fairness test → would no reasonable director have acted this way (Wayde).
+      - 4. Consider reasonable expectations of members (Shamsallah).
+      - 5. Determine remedy under s 233 → least drastic order to cure injustice.
+  - 2. Winding Up on “Just and Equitable” Grounds (s 461(1)(k))
+    - 2.1 Nature and Purpose
+      - Extreme remedy — court prefers less drastic solutions (s 467(4)).
+      - Available when continuing the company would be unjust.
+    - 2.2 Who May Apply (s 462)
+      - Company, shareholder, creditor, liquidator, or ASIC (in public interest).
+    - 2.3 “Just and Equitable” Grounds
+      - Deadlock in management/shareholders: Re Yenidje Tobacco Co Ltd [1916] 2 Ch 426.
+      - Exclusion from management in small “quasi-partnership” company:
+        - Ebrahimi v Westbourne Galleries Ltd [1973] AC 360
+          - (i) Small company with personal relationships of trust/confidence;
+          - (ii) Shareholders have reasonable expectation of participation in management;
+          - (iii) Share transfer restrictions prevent exit.
+        - Exclusion from management = “just and equitable” ground for winding up.
+    - 2.4 Exam Formula – Winding Up (s 461–467)
+      - 1. Identify applicant (s 462).
+      - 2. Assess “just and equitable” grounds (deadlock, exclusion, breakdown in confidence).
+      - 3. Consider less drastic alternatives (e.g., oppression remedy).
+      - 4. Recommend winding up only if no workable alternative (s 467(4)).
+  - 3. Statutory Derivative Action (ss 236–242)
+    - 3.1 Purpose
+      - Enables shareholder/officer to bring action on behalf of the company where company fails to act.
+    - 3.2 Who Can Apply (s 236)
+      - Member, former member, officer, or former officer.
+    - 3.3 Leave Requirement (s 237(2))
+      - Court must grant leave if satisfied that:
+        - (a) Company will not itself bring proceedings;
+        - (b) Applicant acts in good faith;
+        - (c) Action is in company’s best interests;
+        - (d) Serious question to be tried;
+        - (e) 14 days’ notice to company has been given.
+      - Rebuttable presumption (s 237(3)): if company decides not to litigate after proper consideration → presumed not in best interests.
+    - 3.4 Key Case – Swansson v Pratt (2002) 42 ACSR 313 (NSWSC)
+      - Divorce dispute; ex-director misappropriated funds; Ms Swansson sought leave.
+      - Held: failed on (b) good faith and (c) best interests — personal motive, not corporate interest.
+    - 3.5 Other Guidance
+      - Ragless v IPA Holdings Pty Ltd: “serious question” requires identifying legal/equitable rights to be determined at trial.
+    - 3.6 Disadvantages
+      - Two-stage process (leave + action).
+      - Costly, uncertain, slow; damages benefit the company, not applicant.
+    - 3.7 Exam Formula – Derivative Action (ss 236–242)
+      - 1. Identify applicant type (s 236(1)).
+      - 2. Apply leave test (s 237(2)(a)–(e)).
+      - 3. Assess good faith and best interests (key elements).
+      - 4. State relief sought on behalf of company (e.g., recover funds from director).
+  - 4. Statutory Injunction (s 1324)
+    - 4.1 Purpose
+      - Court may grant injunction to restrain contraventions or require compliance with Corporations Act.
+      - May also award damages (s 1324(10)).
+    - 4.2 Who Can Apply
+      - ASIC, or any person whose interests are or would be affected by the conduct (Broken Hill Pty Co Ltd v Bell Resources Ltd (1984) 8 ACLR 609).
+    - 4.3 Key Cases
+      - Airpeak Pty Ltd v Jetstream Aircraft Ltd (1997) 23 ACSR 715
+        - Creditor had standing — “interests affected” included economic interest in repayment.
+        - s 1324 available to creditors and shareholders to enforce director duties.
+      - McCracken v Phoenix Constructions (Qld) Pty Ltd [2012] QCA 129
+        - Limits on damages claims under s 1324(10) for breach of directors’ duties.
+    - 4.4 Exam Formula – Injunction (s 1324)
+      - 1. Identify contravention/refusal to act under the Act.
+      - 2. Determine standing (ASIC or “interests affected”).
+      - 3. Show “substantial injustice,” not merely procedural irregularity (s 1322).
+      - 4. Seek injunction and/or damages (s 1324(10)).
+  - 5. Remedies under the CATSI Act
+Remedy
+CATSI Act Reference
+Notes
+Oppression
+ss 166.1–15
+Same principles as Corps Act s 232–235
+Derivative Action
+ss 169.1–30
+Follows ss 236–242 CA model
+Injunction
+s 576.25
+“Substantial injustice” test (s 576.15)
+Winding Up
+ss 526.1–5
+Same “just and equitable” standard
+Special Administrator
+s 487.5
+5 members or 10% may apply; ORIC Registrar may appoint
+  - 6. Other Member Options
+    - Sell shares (if market exists).
+    - Class actions (esp. for misleading disclosure: ss 729, 1041E–H–I).
+    - Seek litigation funding (e.g., Omni Bridgeway).
+  - 7. Exam flowchart - Members’ Remedies 
+    - 1. Identify Correct Remedy and Standing
+      - 1.1 Ask: What harm is being alleged?
+        - Harm to member(s) personally → go to Oppression (ss 232–235).
+        - Harm to company itself (director misconduct, misappropriation, breach of duty) → go to Derivative Action (ss 236–242).
+        - Ongoing or threatened statutory contravention → go to Statutory Injunction (s 1324).
+        - Breakdown, exclusion, or deadlock in a small company → go to Winding Up on “just and equitable” grounds (s 461(1)(k)).
+      - 1.2 Confirm who may apply:
+        - Member, former member, officer, creditor, or ASIC depending on remedy (ss 234, 236, 462).
+    - 2. Oppression Remedy – ss 232–235
+      - Step 1 – Identify Conduct
+        - Is the conduct part of the company’s “affairs” (s 53)?
+        - Is it an act, omission, or proposed act? (s 232)
+      - Step 2 – Determine Whether Conduct Is Oppressive/Unfair
+        - Conduct must be unfair, not merely discriminatory (Wayde v NSW Rugby League Ltd (1985) 180 CLR 459).
+        - Test: Would a reasonable director or shareholder regard the conduct as commercially unfair?
+        - Look to reasonable expectations of members (Shamsallah Holdings Pty Ltd v CBD Refrigeration (2001) 19 ACSR 517).
+        - Examples: 
+          - exclusion from management
+          - withholding information
+          - diversion of profits 
+          - (John J Starr v Robert R Andrew (Australasia) Pty Ltd (1991) 6 ACSR 63); 
+          - related-party benefit to detriment of minority (Jenkins v Enterprise Gold Mines NL (1992) 6 ACSR 539).
+        - Mere dissatisfaction or loss of confidence is insufficient (Re G Jeffrey (Mens Store) Pty Ltd (1984) 9 ACLR 193).
+    - Step 3 – Standing (s 234)	
+      - Confirm applicant is a member, former member, or person entitled through a share transmission.
+    - Step 4 – Relief (s 233)
+      - Court may make any order it thinks fit, including:
+        - share buy-out;
+        - Injunction;
+        - appointment of receiver; 
+        - winding up (as last resort).
+    - Step 5 – Apply Fairness and Remedy Tests
+      - 1. Identify act/omission in “affairs.”
+      - 2. Apply no reasonable director / commercial unfairness test (Wayde).
+      - 3. Consider members’ expectations (Shamsallah).
+      - 4. Choose proportionate order under s 233.
+    - 3. Winding Up on “Just and Equitable” Grounds – ss 461(1)(k), 462, 467(4)
+      - Step 1 – Confirm Standing (s 462)
+        - Company, member, creditor, liquidator, or ASIC (public interest).
+      - Step 2 – Identify Ground
+        - Deadlock in management/shareholders (Re Yenidje Tobacco Co Ltd [1916] 2 Ch 426).
+        - Exclusion from management in quasi-partnership:
+          - (i) personal relationships of trust;
+          - (ii) reasonable expectation of participation;
+          - (iii) share transfer restrictions (Ebrahimi v Westbourne Galleries Ltd [1973] AC 360).
+      - Step 3 – Apply Proportionality Rule
+        - Court prefers less drastic options; only wind up if oppression or breakdown cannot be remedied otherwise (s 467(4)).
+      - Step 4 – Conclude
+        - If personal relationship destroyed and participation rights denied, order winding up (Ebrahimi).
+    - 4. Statutory Derivative Action – ss 236–242
+      - Step 1 – Identify Applicant and Harm
+        - Member, former member, officer, or former officer (s 236).
+        - Wrong must affect the company (not merely member).
+      - Step 2 – Leave Requirement (s 237(2))
+        - Court must grant leave if satisfied that:
+          - (a) Company will not itself bring the action;
+          - (b) Applicant acts in good faith;
+          - (c) Granting leave is in company’s best interests;
+          - (d) There is a serious question to be tried (Ragless v IPA Holdings Pty Ltd (2008) 66 ACSR 582); and
+          - (e) Applicant has given 14 days’ notice to company.
+      - Step 3 – Apply to Facts
+        - Check for any presumption against best interests (s 237(3)).
+        - Assess motives and evidence of good faith – personal vendetta defeats claim 
+          - (Swansson v Pratt (2002) 42 ACSR 313 (NSWSC)).
+      - Step 4 – Outcome
+        - If all elements satisfied → court grants leave → applicant proceeds on behalf of company; any recovery goes to company (s 242).
+    - 5. Statutory Injunction – s 1324
+      - Step 1 – Identify Contravention
+        - Actual or threatened breach/refusal under the Corporations Act (s 1324(1)–(2)).
+      - Step 2 – Confirm Standing
+        - ASIC or “any person whose interests are or would be affected” 
+          - (Broken Hill Pty Co Ltd v Bell Resources Ltd (1984) 8 ACLR 609).
+        - Creditors have standing where their repayment interests are affected 
+          - (Airpeak Pty Ltd v Jetstream Aircraft Ltd (1997) 23 ACSR 715).
+      - Step 3 – Relief Options
+        - Restrain contravention; 
+        - compel compliance; 
+        - seek damages (s 1324(10)).
+        - Note: s 1324(10) damages for directors’ duty breaches restricted 
+          - McCracken v Phoenix Constructions (Qld) Pty Ltd [2012] QCA 129).
+      - Step 4 – Procedural Fairness
+        - Must show substantial injustice, not mere procedural irregularity (s 1322).
+      - Step 5 – Conclude
+        - State injunction type sought (interlocutory/permanent) and identify statutory basis (s 1324).
+    - 6. Integrated Exam Algorithm
+      - 1. Identify wrong + applicant’s role.
+        - Minority prejudice → Oppression.
+        - Company loss → Derivative action.
+        - Contravention → Injunction.
+        - Deadlock/exclusion → Winding Up.
+      - 2. Apply statutory test for that remedy
+        - s 232 – commercial unfairness (Wayde).
+        - s 237 – good faith + best interests (Swansson).
+        - s 1324 – contravention + standing (Airpeak).
+        - s 461(1)(k) – just & equitable (Ebrahimi).
+      - 3. Assess fairness + expectations.
+        - Reasonable expectations of participation/profit (Shamsallah).
+        - Mere disapproval or outvoting insufficient (Re G Jeffrey).
+      - 4. Consider alternative/less drastic remedies
+        - Prefer s 233 order before liquidation (s 467(4)).
+      - 5. State proportionate relief.
+        - Buy-out, management order, injunction, or wind-up depending on severity.
+    - 7. Quick Authority Map
+Issue
+Case
+Principle
+Oppression – fairness
+Wayde v NSWRL (1985) 180 CLR 459
+must be “unfair,” not merely discriminatory
+Reasonable expectations
+Shamsallah Holdings (2001) 19 ACSR 517
+assess historical profit/dividend policy
+Exclusion from management
+Ebrahimi v Westbourne Galleries [1973] AC 360
+quasi-partnership exclusion = just & equitable winding up
+Deadlock
+Re Yenidje Tobacco [1916] 2 Ch 426
+mutual breakdown = ground for winding up
+Derivative leave test
+Swansson v Pratt (2002) 42 ACSR 313
+good faith + best interests essential
+Serious question
+Ragless v IPA Holdings (2008) 66 ACSR 582
+must identify legal/equitable rights
+Injunction standing
+Airpeak v Jetstream (1997) 23 ACSR 715
+creditor’s interests affected → standing
+Damages limit
+McCracken v Phoenix Constructions [2012] QCA 129
+restricts s 1324(10) damages
+Oppression remedy vs Derivative action
+Remedy type
+Who suffers the harm?
+Whose right is enforced?
+Who gets the benefit?
+Oppression remedy (s 232)
+Member personally (unfair prejudice/discrimination in their capacity as shareholder)
+Member’s own rights
+The member directly (e.g., buy-out, compensation, regulation of affairs)
+Derivative action (ss 236–237)
+The company itself (wrong done to the company by directors or others)
+Company’s rights (brought by member on its behalf with leave)
+The company, not the member personally
+
+Exam-Style Answer Map (For Any Tutorial Scenario)
+- Identify plaintiff’s position: member, shareholder, creditor.
+- Determine nature of harm: personal → oppression; company → derivative; contravention → injunction; breakdown → winding up.3. Apply statutory test:
+  - s 232: conduct of affairs + unfair prejudice (Wayde).
+  - s 237: leave requirements (Swansson).
+  - s 1324: contravention + standing (Airpeak).
+  - s 461(1)(k): just & equitable (Ebrahimi).
+- Link facts to reasonable expectations and fairness.
+- Select appropriate remedy (least drastic): s 233 order, derivative action, injunction, or winding up.
+- Cite relevant case for each principle directly in-text.
+- Week 12: Corporate litigation
+  - 1. ASIC’s Enforcement Framework
+    - 1.1 ASIC’s identification and assessment (INFO 151)
+      - Identify misconduct: from complaints, whistleblowers, surveillance, or referrals.
+      - Assess seriousness:
+        - 1. Extent of harm or loss (how many consumers/investors affected).
+        - 2. Benefits of investigating.
+        - 3. Seriousness and available evidence.
+      - Assess appropriate remedies:
+        - 1. Punitive: criminal prosecution, imprisonment, fines.
+        - 2. Protective: disqualification, banning orders.
+        - 3. Preservative: injunctions, freezing or proceeds orders.
+        - 4. Corrective: corrective advertising.
+        - 5. Compensation: compensation to victims.
+        - 6.  Negotiated: enforceable undertakings (EU).
+  - 2. The Enforcement Pyramid
+Level
+Action
+Key Law
+Top
+Criminal prosecution
+Corporations Act 2001 (Cth) s 1311 – all contraventions may be offences; key examples: ss 184, 728, 734, 1043A.
+Middle
+Civil penalties & civil litigation
+ss 1317E–1317J regime.
+Lower
+Administrative action
+Banning orders, infringement notices, stop orders.
+Base
+Negotiated resolution
+Enforceable undertakings under ASIC Act s 93AA.
+  - Penalties:
+    - Schedule 3 lists offences; otherwise 5 penalty units default.
+    - s 1312 – higher penalties for corporations.
+    - Criminal Code Act 1995 (Cth) Ch 2 provides general criminal responsibility principles.
+    - ASIC prosecutes minor breaches; serious offences → Commonwealth DPP under ASIC–CDPP MOU (2006).
+    - DPP applies the Prosecution Policy of the Commonwealth (2021).
+  - 3. Civil Penalty Regime (ss 1317E–1317J)
+    - 3.1 Purpose
+      - Introduced to bridge gap between criminal deterrence and regulatory efficiency.
+      - Civil standard of proof (balance of probabilities).
+    - 3.2 Framework
+      - 1. Is provision listed in s 1317E?
+        - If yes: Court may declare contravention.
+        - If no: other remedies (contract/equity, s 1041H, s 232 oppression, s 1324 injunction).
+      - 2. Declaration of contravention (s 1317E).
+      - 3. Available orders (s 1317J):
+        - - s 1317G Pecuniary penalty (deterrence).
+        - - s 1317H Compensation order (remedial).
+        - - s 206C Disqualification order (protective).
+        - - s 1317HA Compensation in financial services matters.
+      - 4. Types:
+        - - Corporation/scheme provisions (disqualification available).
+        - - Financial services provisions (compensation available).
+  - 4. Continuous Disclosure & Reforms
+    - 4.1 Core rule
+      - Listed entities must disclose price-sensitive information: s 674; ASX Listing Rule 3.1.
+    - 4.2 Legislative evolution
+      - COVID Determinations (2020) temporarily relaxed civil standard.
+      - Treasury Laws Amendment (2021 Measures No. 1) Act 2021:
+        - – Inserted s 674A, amended s 1041H and ASIC Act s 12DA.
+        - – Introduced fault element for civil liability: knowledge, recklessness, or negligence.
+        - – ASIC retained power to issue infringement notices (RG 73).
+  - 5. Civil Penalty Case Studies
+    - 5.1 ASIC v GetSwift Ltd [2023] FCA 100
+      - 22 * s 674 and 40 * s 1041H breaches.
+      - Record penalties:
+        - $15m on company;
+        - CEO – 15-yr disqualification + $2m;
+        - MD – 12-yr + $1m;
+        - GC – 2-yr + $75k.
+      - Principles:
+        - – Proportionality, deterrence, seriousness ([36]–[48]).
+        - – Aggravating/mitigating factors for disqualification ([60]–[61]).
+    - 5.2 ASIC v Hawkins [2025] FCA 121
+      - s 180 duty of care breaches (Star Entertainment).
+      - Officers consented to s 1317E declarations.
+      - Court applied ASIC v Adler (2002) 42 ACSR 80 for disqualification length.
+      - Pecuniary penalties guided by cross-statutory principles (see Annexure A [136]–[145]).
+  - 6. Representative (Class) Proceedings
+    - 6.1 Legislative basis
+      - Federal Court of Australia Act 1976 (Cth) Pt IVA (ss 33A–33ZJ).
+      - Requirements (s 33C):  1. ≥7 claimants;  2. Same respondent;  3. Same/similar/related circumstances;  4. Substantial common issue of law or fact.
+      - Equivalent regimes: NSW (CPA 2005 Pt 10), Vic, Qld, WA, Tas Acts.
+    - 6.2 Procedure
+      - Case management per FCA Practice Note GPN-CA (2019).
+      - Disclosure of cost & funding agreements; management of competing actions. 
+      - Class member opt-out (s 33J). 
+      - Settlement requires court approval (s 33V). 
+      - Court supervision of funding deductions & confidentiality orders.
+  - 7. Representative Proceeding Case Studies
+    - Bonham v Iluka Resources Ltd [2022] FCA 71 
+      - First successful defence in shareholder class action. 
+      - No breach of ss 674 or 1041E — company had reasonable grounds for forward guidance.
+    - Crowley v Worley Ltd [2022] FCAFC 33
+      - Appeal allowed for applicant.
+      - CFO’s knowledge attributed to company; forecast held misleading. 
+      - Reinforces corporate attribution principles and director accountability.
+  - 8. Key Exam Points Summary
+    - Enforcement Architecture
+      - ASIC’s approach: responsive regulation (INFO 151 + enforcement pyramid). 
+      - Civil penalties = mid-tier deterrence; criminal = top-tier; EU = cooperative base.
+    - Civil Penalties Framework
+      - s 1317E: declaration.
+      - s 1317J: orders – pecuniary (G), compensation (H/HA), disqualification (206C).
+      - Standard: civil proof.
+      - Purpose: deterrence + protection, not punishment.
+    - Continuous Disclosure
+      - s 674 & s 674A: strict → fault-based regime post-2021.
+      - Ongoing ASIC power for infringement notices.
+    - Class Actions
+      - Statutory framework (Pt IVA FCA Act).
+      - Trends: shareholder disclosure litigation; rise of litigation funding scrutiny.
+  - Exam Tip:
+    - When asked to analyse ASIC enforcement, structure as:
+      - Identify contravention & regulatory response. 
+      - Apply enforcement pyramid. 
+      - Distinguish criminal, civil, admin, and negotiated actions. 
+      - Refer to GetSwift or Hawkins for penalty principles. 
+      - Discuss disclosure liability & class action trends (Iluka / Worley).
+## Week 1: Development of corporate law in Australia; Contextual issues and business structures
+
+- The range of business structures
+  - Sole trader
+  - Partnership:
+    - – Defining partnership
+    - – Identifying a partnership
+      - Distinguishing partnerships from Joint Ventures
+    - – Rights and obligations of partners
+    - – Liabilities of partners
+    - – Termination of partnerships
+  - Associations – Incorporated and unincorporated
+  - Cooperatives – Autonomous self-help organisations controlled by members for their mutual benefit
+  - Trusts - Equitable relationships where a trustee holds (and may manage) property for the benefit of beneficiaries)
+- Identifying partnerships
+  - Partnership Act 1892 (NSW) s 1(1): “Partnership is the relation which exists
+  - between persons carrying on a business in common with a view of profit...”
+  - Equivalent Partnership Acts in other Aust jurisdictions
+  - PA s 2(1) - Rules for determining existence of p/ship:
+    - “Regard shall be had to …
+      - – Ownership of property
+      - – Sharing of gross returns
+      - – Sharing of profits”
+  - However – these factors must be considered in light of the surrounding facts  Courts look to the substance of relationships
+  - But – Profit sharing alone not determinative of a partnership
+  - Employees – sharing profits with an employee does not make the employee a partner – PA s 2(3)(b)
+  - Loans – A creditor taking a share of profits - interest due on a loan - does not become a partner – PA s 2(3)(d)
+- Joint ventures
+  - Two or more parties cooperating with each other to undertake a particular project (eg mining project, infrastructure, new products etc)
+  - Each party contributes special expertise
+  - Parties often try to classify commercial relationships as JVs rather than partnerships -> to avoid the imposition of fiduciary obligations and the extensive restrictions and liabilities under the Partnership Acts
+  - However -> Courts look to the substance of the relationship - as the following cases show
+- Canny Gabriel Castle Jackson Advertising Pty Ltd v Volume Sales (Finance) Pty Ltd [1974] HCA 22
+  - 1. 4th Media and Volume Sales – JV agreement to promote a concert
+  - 2. JV agreement stated: 
+    - (i) they would share the profits equally; 
+    - (ii) the JV would be based only on their mutual agreement and 
+    - (iii) any disagreements would be settled by arbitration
+  - 3. Also – gave undertakings re their respective financial stability
+    - 4th Media – later granted Canny Gabriel rights on ticket sales - security for other debts
+  - Question
+    - Were 4th Media and Volume Sales in a partnership – even though their agreement stated they were in a JV?
+    - If so, Canny Gabriel’s rights to ticket sales would take second place after Volume Sales’ rights as a partner to equal share in $$
+    - Held: 4th Media and Volume Sales were partners. The nature of the obligations – showed the business was being conducted with mutual concern for one another
+  - United Dominions Corp Ltd v Brian Pty Ltd [1985] HCA 49
+    - 1. UDC and Brian – members of a property development JV with SPL
+    - 2. Prior to forming this JV – UDC and SPL entered into a contract involving the proceeds of the future JV if SPL failed to repay $$ lent to it by UDC. Brian – was unaware of the contract between UDC and SPL
+    - 3. During the course of this JV UDC took all of the profits and relied on the previous contract – as SPL had indeed failed to repay the $$
+    - Questions
+      - Brian – alleged this was a breached the fiduciary relationship between the joint venturers The JV agreement stated they were Joint Venturers – not partners
+      - Did a fiduciary relationship exist between UDC and Brian even though they were in a JV?
+      - Held: Fiduciary relationship between UDC and Brian Despite wording of the JV agreement – there was a partnership (profit sharing) between the joint venturers
+      - Ordered UDC to pay Brian its share of the JV profits
+  - Re Megevand; Ex parte Delhasse (1878) 7 Ch D 511
+    - 1. Merely calling a transaction a “loan” will not prevent the relationship being characterised as a partnership
+    - 2. Megevand and his business partner – borrowed $$ from a Delhasse
+    - 3. Contract stated – transaction was a loan and Delhasse did not become a partner But gave Delhasse the rights to:
+      - Share in the profits and losses;
+      - Receive regular financial statements about the business;
+      - Examine the books of the business at any time;
+      - Provide further $$ to the business if necessary; and
+      - Terminate the business at any time
+    - Held: Delhasse was a partner – by virtue of the extensive rights the contract gave him – which were >> consistent with those of a partnership than a loan
+    - Purpose of the loan – to avoid liability of being a partner – But still giving Delhasse all rights and powers that partners usually have
+  - Badeley v Consolidated Bank (1888) 38 Ch D238
+    - 1. Agreement to provide funds for building a railway - Held to be a loan not a partnership
+      - Badeley – provided a loan to Smith (railway constructor)
+    - 2. Smith - assigned his plant machinery etc as security
+    - 3. Under the loan agreement - Badeley obtained the right to be paid 10% interest and profits
+    - Question
+      - Similar facts to Megevand – BUT – Badeley didn’t have the right to terminate the business
+        - Only to take it over if Smith became bankrupt
+      - S imilar to bank appointing a receiver
+      - Also - Badeley didn’t share in the losses of Smith’s business
+      - HELD: Genuine loan NOT a Partnership
+  - Goudberg v Herniman Associates Pty Ltd [2007] VSCA 12
+    - Work undertaken by persons who were in the planning stages of setting up an Australian franchise for a large American restaurant chain
+    - This work was found to be merely preparatory to carrying on a business
+    - The correspondence between the parties indicated that they were working to ‘get the project off the ground’ and, whilst several trips to the United States were undertaken – and whilst they were acting in common – and with a view to generating profit
+    - Held: They were not “carrying on a business”
+  - Liability of partners
+    - PA s 5 – Power of partner to bind firm - s 5(1):
+      - “Every partner ... is an agent of the firm and of the other partners for the purpose of the business of the partnership ... the acts of every partner who does any act for carrying on in the usual way business of the kind carried on by the firm of which the partner is a member, binds the firm and the other partners, unless the partner so acting has in fact no authority to act for the firm in the particular matter, and the person with whom the partner is dealing either knows that the partner has no authority, or does not know or believe the partner to be a partner”
+    - PA s 6 – Partners bound by acts on behalf of firm
+    - PA s 9 – Liability of partner Partners jointly liable for debts and obligations incurred whilst they are partners
+    - PA s 10 – Liability of firm for wrongs “... acting in the ordinary course of the business of the firm, or with the authority of the partner’s co-partners”
+    - PA s 12 – Liability for wrongs joint and several
+  - Polkinghorne v Holland [1934] HCA 28
+    - Ordinary course of business”
+    - 1. Mr Holland - a partner of a 3 member law firm - gave poor investment advice to Ms Polkinghorne - a client of the firm
+    - 2. He advised her to sell government securities – and to invest in a company in which he was involved – which had no assets
+    - 3. Holland – then disappeared with Ms Polkinghorne’s $$
+      - After the investment failed – Ms Polkinghorne sued the whole firm of solicitors for compensation for the poor advice she had received
+    - Issues – Was firm responsible for advice provided by Holland? Was the investment advice provided by Holland “in the ordinary course of business”?
+    - Held: Yes the law firm was responsible – because Holland had an obligation to advise all clients to seek appropriate financial advice – this obligation occurred in the ordinary course of the law firm’s business Holland failed to fulfil this obligation
+  - Dubai Aluminium Co Ltd v Salaam [2002] UKHL 48
+    - 1. A law firm partner had drafted sham contracts to enable a client to improperly obtain substantial commissions from Dubai Aluminium Co Ltd
+    - 2. Dubai Aluminium – was induced by fraudulent means to pay US$ 50m in a series of fake consulting agreements drafted the partner
+    - 3. The partner – was not authorised by his firm to engage in such conduct
+      - Dubai Aluminium – sought to make the law firm vicariously liable for the dishonest partner’s actions under the Partnership Act 1890 (UK)
+    - Issues: 
+      - (1) Did the errant partner’s wrongful conduct in drafting the sham contracts occur “in the ordinary course of” the firm’s business? 
+      - And if so (2) Was the firm vicariously liable for the partner’s fraudulent actions?
+    - Held: The drafting of the agreements was an act done within the ordinary course of the firm’s business (which involved providing legal services) – even though they were done for a fraudulent purpose  
+    - Hence the partner was acting in the ordinary course of the firm’s business not “on a frolic of his own”
+    - Followed in Hraiki v Hraiki [2011] NSWSC 656 at [83] – [84]
+  - Obligations of partners
+    - PA s 20: Partnership property must be held and applied for the benefit of the firm
+    - PA s 28: Duty of partners to render accounts
+    - PA s 29: Accountability of partners for private profits
+    - PA s 30: Duty of partner not to compete with firm
+  - Birtchnell v Equity Trustees Executors& Agency Co Ltd [1929] HCA 24
+    - The Birtchnells – sued Equity Trustees – Executors of the estate of a Mr Porter – who (before his death) was a partner in their real estate business
+    - Birtchnell - alleged Porter had received a secret commission from one of their firm’s clients in a land sub-division handled by the firm  Sought their share of the secret commission as partners of Mr Porter
+    - Was Mr Porter’s conduct in receiving the secret commission in breach of his fiduciary obligations as a partner of the firm before his death?
+    - Held: Mr Porter’s conduct (obtaining a secret commission from a land sub-division) was within the scope of the real estate firm’s activities  the real estate firm had occasionally engaged in land development activities
+    - Also – the scope of a fiduciary’s obligations will be determined by the nature of the relationship between the fiduciary and the principal  which may include (i) any contract; and (ii) the range of activities undertaken by the firm  Need to look to the broader context
+  - Dean v McDowell (1878) 8 Ch D 345
+    - MacDowell and Dean - Partners in a firm of salt merchants and brokers
+    - Partnership agreement – provided the business would last seven years
+    - Clause 8 - Required the partners to “diligently and faithfully employ themselves in and about the business of the partnership, and carry on and conduct the same to the greatest advantage of the partnership”
+    - Clause 11 - Prohibited the partners from engaging “directly or indirectly in any trade or business except upon the account and for the benefit of the partnership”
+    - Agreement – Allowed Dean to engage in “any other trade or business if he shall think fit”
+    - After the partnership had expired - the partners discovered MacDowell had been a partner in a firm of salt manufacturers – which had become very profitable  -> Sought an account of profits from MacDowell
+    - Held: Distinct businesses – No detriment suffered by the Salt merchants
+  - Kak Loui Chan v Zacharia [1984] HCA 36
+    - Dr Chan and Dr Zacharia – Had been partners in a medical practice
+    - The lease on the premises of their surgery was due to expire
+    - Option to renew the lease had to be undertaken by both partners
+    - After dissolution – but before the winding up of the partnership – Chan sought to exclude Zacharia from practicing there by taking up a new lease in his own name alone  And hence continuing the medical practice on his own
+    - Held – Dr Chan had breached his fiduciary duty - abusing his fiduciary position as a trustee and former partner to seek an advantage for himself - failed to act with fairness and good faith  Hence accountable to Dr Zacharia for the private profit he gained (Account of profits)
+    - Fiduciary obligations between partners - may continue even after the firm’s business has ceased trading
+  - Termination of partnerships
+    - Partnerships may be terminated by:
+    - PA s 32: Dissolution by expiration or otherwise
+      - – If entered into for a fixed term, by the expiration of that term
+      - – If entered into for a single adventure or undertaking, by the termination of that adventure or undertaking
+      - – If entered into for an undefined time, by any partner giving notice to the other or others of the partner’s intention to dissolve the partnership
+    - s 33: Dissolution by bankruptcy, death, or change
+    - s 34: Dissolution by illegality of partnership
+    - s 35: Dissolution by the Court
+  - Rationale for forming companies
+    - Limitations of the business structures discussed above
+      - Liability; fundraising; succession
+    - Why do people form companies?
+      - Separate legal personality – limited liability of members
+      - Enables investment and business growth  Economic growth
+      - Enables perpetual succession
+    - Companies (corporations) – have separate legal personality:
+      - May enter into contracts
+      - May employ people
+      - May raise $$ (“capital”)
+      - May borrow, lend and invest $$
+      - May sue and be sued (contract, tort and statutory liability)
+  - Stakeholders of companies (1)
+    - Shareholders (“members”) – invest $$ (Capital) into companies -> Receive shares (securities) in company  -> they therefore have equity in company (right to share in net worth of company) May sell their shares; may receive dividends
+    - Directors – Govern companies
+      - In small “closely-held” companies – Directors often involved in management 
+      - In larger companies – Directors delegate management to managers and employees
+    - Creditors – Lend $$ to companies – creditors include financial institutions, companies and individuals
+  - Stakeholders of companies (2)
+    - Shareholders – may be categorised as:
+      - – Retail – individual investors
+      - – Institutional – Banks, insurance companies, superannuation funds, governments, fund managers
+    - Contractors and business partners
+    - Employees
+    - Interest groups
+    - Community groups
+    - Increasing prevalence of Corporate Social
+    - Responsibility and focus on corporate culture
+    - Corporate law theories – Seek to explain how corporate law should balance these interests
+  - Types of Companies and the Corporate life-cycle
+    - Over 2 million companies in Australia - Two main types
+    - Public (XYZ Ltd)
+      - – Larger-scale companies; Greater ability to raise funds
+      - – May apply to be listed (or “floated”) on financial markets (eg ASX) – the company’s shares may then be traded
+      - – Listed companies have more disclosure, reporting and compliance obligations
+      - – Other examples of public companies – Not-for-Profits; Registered clubs
+    - Proprietary (XYZ Pty Ltd)
+      - – Smaller scale companies; May be classified as Small or Large
+      - Corporate Groups
+        - – Parent (holding) company and subsidiary companies
+      - Corporate life cycle
+        - – Incorporation – Registration – Operation – Growth / change of structure – Winding up (either due to insolvency, or resolution of members) – Deregistration
+  - Internal management of companies
+    - Directors may be classified as:
+      - – Executive – Employment contract with company
+      - – Non-executive – No employment contract with company – only association through role as director
+    - Board of Directors – Chair of board
+    - Chief Executive Officer / Managing Director
+    - Company Secretary
+    - Larger companies and organisations: In-house / corporate counsel
+    - Constitution – Sets out rules for the governance of company – eg:
+      - – Issue and transfer of shares
+      - – Powers of directors
+      - – Authority of agents and corporate contracting
+      - – Meetings of directors and members (Covered in Podcast 4 and Seminar 4)
+      - – Changes to company structure and activities
+    - Has the effect of an enforceable contract between company and its members
+- Corporate regulation in Australia (1)
+  - Earlier examples of corporations (eg British East India
+  - Company) – incorporation by royal charter or specific legislation
+  - UK companies legislation from 1844 onwards; Australian colonial companies legislation
+  - Commonwealth Constitution s 51(xx) – “foreign corporations, and trading or financial corporations” - interpreted narrowly to apply to already-formed companies
+  - Responsibility for corporate legislation rested with States and territories – eg Uniform Companies Acts 1961
+  - Inadequacies and inconsistencies in regulation of companies and financial markets by State-based Corporate Affairs Commissions
+  - Examples of corporate and market collapses
+    - 1980s National Co-operative Scheme – Companies Codes; National Companies and Securities Commission
+    - 1990s Corporations Law Scheme; Australian Securities Commission
+  - Corporate regulation in Australia (2)
+    - Further constitutional challenges over cross-vesting legislation
+    - So – States and territories voluntarily agreed to transfer their corporate regulatory powers to Commonwealth – renewed every 5 years  Hence we now have the Corporations Act 2001 (Cth)
+    - Australian Securities and Investments Commission (www.asic.gov.au) – www.moneysmart.gov.au
+    - The regulator of Australian companies, financial markets, financial services – and more recently consumer credit and business names
+    - Regulation – Registration and licensing; Policy guidance; Investigation and Enforcement functions
+    - Maintains public registers of Australian companies and financial services providers
+    - ASIC also responsible for consumer education on financial matters: www.moneysmart.gov.au
+- Themes in corporate law
+  - Corporate law – Involves both legislation (Corporations Act 2001 (Cth)) and common law
+  - Some themes examined in this subject:
+    - Protecting the rights of members and investors – disclosure of information; participation in meetings; approval of major decisions
+    - Ensuring directors act in company’s best interests  Conflicts of interest, good faith, proper purpose, duty of care and diligence
+    - Safeguarding rights of creditors
+    - Integrity of financial markets – timely and accurate disclosure; prohibition on insider trading
+    - Enforcement by ASIC and other regulators; members and creditors 
+    - Remedies for breaches
+  - Tips for Studying Corporate law
+    - Involves not only understanding the statutory provisions and case law – but also the power relationships between the “key players”  ie
+    - What are their motives? Does the law allow / not allow such conduct?  Look at the issue from their perspective  The ethical reflection and seminar activities give you practice at this
+    - Keep on top of class materials – Actively participate in seminars by being prepared  Use these as an opportunity to practice and develop your knowledge and problem-solving skills
+    - Primacy of the legislation  Corporations Act 2001 (Cth)
+    - Consider the rationale for the rules – rather than just memorising them
+    - Consider a company you are familiar with  Thenimagine it on a larger scale involving various stakeholders – What rules will it need?
+    - Also keep a look out of the news media
+    - If you are unsure - Always ask and seek clarification
+## Week 2: MANAGING COMPANIES 1: COMPANY REGISTRATION AND TYPES; THE CORPORATE LIFE CYCLE AND SEPARATE ENTITY
+
+- WHAT ARE COMPANIES AND WHY ARE THEY FORMED?
+  - A company is a corporation registered under the Corporations Act 2001 (Cth)
+  - Why are companies formed?
+    - Member liability is limited
+    - Encourages investment
+    - Provides perpetual succession
+- REGISTRATION OF COMPANIES
+  - Company Name (check ASIC website for availability)
+    - name restrictions; s147(1); Corps Regs 2001 Schedule 6
+  - Reserve Name:s152
+  - Preparation of internal management rules: (constitution or replaceable rules – see later in subject); obtain consent of members and directors
+  - Incorporated by ASIC on application
+  - Section 117 requires matters including:
+  - The type of company (we will examine this in a moment);
+  - The proposed name;
+  - The names and addresses of proposed members;
+  - Details of proposed directors and secretary;
+  - Details of company’s proposed registered office and share capital structure
+  - Under s 118 ASIC may:
+    - Register the company;
+    - Issue a certificate of incorporation (that provides conclusive evidence of incorporation)
+  - Co Comes into existence at beginning of the day of registration (s 119)
+- TYPES OF COMPANIES – S112
+  - Proprietary companies
+    - Limited by shares
+    - Unlimited with share capital
+  - Public companies
+    - Limited by shares
+    - Limited by guarantee
+    - Unlimited with share capital
+    - No liability company
+  - Corporate collective investment vehicles limited by shares
+- PUBLIC VS PROPRIETARY COS
+  - Public company is the default, generally lighter regulation of proprietary companies
+  - To be proprietary, s 113 requires:
+    - No more than 50 non-employee shareholders
+    - Must not engage in conduct requiring prospectus (eg public share issue), but can offer shares to existing members and employees
+  - Pty Ltd vs Ltd
+- LARGE AND SMALL PROPRIETARY COS
+  - From financial years commencing on or after 1 July 2019, a proprietary company is defined as 'large' for a financial year if it satisfies at least two of the below criteria:
+    - the consolidated revenue for the financial year of the company and any entities it controls is $50 million or more
+    - the value of the consolidated gross assets at the end of the financial year of the company and any entities it controls is $25 million or more, and
+    - the company and any entities it controls have 100 or more employees at the end of the financial year. (s45A; Regs 1.0.02B)
+- DIFFERENT COMPANIES, DIFFERENT REGULATION
+  - Pty Ltd doesn’t have to have an AGM, public co does
+  - Pty Ltd outside Chapter 2E (related party benefits)
+  - Different treatment under the replaceable rules 
+  - Small Pty Ltd generally doesn’t have to disclose accounts (unless percentage of shareholders request it to do so); see s293
+  - Single shareholder/single director company, even lighter regulation
+- COMPANY LIMITED BY GUARANTEE; UNLIMITED, NO LIABILITY COS
+  - 1. Company limited by Guarantee
+    - Has members who are not shareholders
+    - Contributions on winding-up limited to guarantee obligations
+    - No share capital, no reduction of capital problems
+    - Mainly not for profit
+  - 2. Unlimited companies
+  - 3. No liability companies: mining only, to facilitate exploration
+- CORPORATE LIFE CYCLE
+  - Facility in CA for companies to change type: s162, s163, s164, s166
+  - Must set out name and A.C.N. on all public documents: ss 123, 153
+  - ASIC register – Important information resource for stakeholders
+  - Hence - companies must notify ASIC of changes (including name, company type, registered office location, details of officeholders) within prescribed timeframes: See Chapter 2N
+  - Companies must pay annual review fees to ASIC and check annual statement sent yearly by ASIC on anniversary of registration
+  - Winding up:
+    - Voluntarily (ie resolution of members): Part 5.5
+    - Insolvency (overviewed later in the subject)
+    - Order of court (eg s 461) – Later in the subject
+    - Deregistration: Voluntary application; ASIC-initiated; Order of court
+    - Reinstatement: s 601AH; Perrin v ASIC [2024] WASC 38; see also s 601AG (insurance claims)
+- LIMITED LIABILITY
+  - Contrast limited liability and separate entity principles
+  - Need this as a backdrop to consideration of separate legal entity (relaxation of sep entity reduces limited liability)
+  - Some justifications for limited liability:
+  - Encouraging investment without monitoring
+  - Encourage risk-taking
+  - Some problems:
+  - Potential unfairness to creditors
+  - Encourages bad risks and externalisation of costs
+- CORPORATE PERSONALITY: SALOMON V A SALOMON & CO LTD [1897] AC 22
+  - Boot manufacturer: sole trader!
+    - Incorporated- required 7 members
+    - Salomon, wife and 5 kids held one share each
+    - Sold business to company for 39,000
+    - Business in trouble financially.
+    - Salomon personally borrowed 5,000 from Broderip
+    - Salomon advanced this to company
+    - Broderip took security
+    - Salomon to hold residual secured interest
+    - Broderip enforced security and was paid
+    - Residual secured debt of 1,055 in Salomon’s hands
+    - Company liquidated
+  - Consideration:
+    - 20,000 fully paid shares
+    - Charge securing debt of 10,000
+    - 9,000 unsecured debt
+  - Can Salomon rely upon this security to stand ahead of unsecured creditors?
+  - At first instance and in Court of Appeal:
+    - Held that the company was a mere agent or trustee for Salomon
+    - Therefore, Salomon obliged to indemnify liquidator for debts
+  - Lord Halsbury
+    - Statute is satisfied- no requirement to examine proportion of membership
+    - No fraud in incorporation (ie no fraud on business sale)
+    - No agency created
+  - Lord MacNaghten
+    - Act doesn’t require 7 unconnected shareholders
+    - Company is separately formed and no basis for inferring agency
+    - No fraud
+    - Creditors “entitled to sympathy, but they only have themselves to blame”! At 52
+- CORPORATE PERSONALITY: LEE V LEE’S AIR FARMING [1961] AC 12
+  - Two member requirement
+  - One share held by solicitor
+  - Governing director of company
+  - Employed as crop-duster
+  - Is he a “worker” for purposes of compensation?
+- “LIFTING THE VEIL”
+  - 1. STATUTE:
+    - Some particular statutory provisions (eg
+    - 588G/588V, 197)
+    - No general statutory provision
+  - 2. General law- very rare and unpredictable instances
+    - Categories?
+    - Sham?
+    - Agency
+    - Corporate groups?
+    - General interests of justice?
+  - Some categories a bit misleading
+  - Cases arise in particular statutory or contractual circumstances?
+  - Do “veil lifting” cases ignore separate legal personality?
+    - “The “veil piercing” cases show that the principle is, in its application, a limited one, which has been developed pragmatically for the purpose of providing a practical solution in particular factual circumstances. The reported authorities certainly proceed on the basis that (in the usual case) the puppet company and the controlling puppeteer are to be closely identified, an identification that will or may be regarded as justifying the grant of a judicial remedy against the puppet as well as the puppeteer, if only on the basis that it will be just and convenient to do so. They do not, however, go to the length of treating the puppet company as other than a legal person that is formally distinct and separate from the puppeteer; and, were they to do otherwise, they would wrongly be ignoring the principles of Salomon.”
+  - VTB Capital PLC v Nutriek International Corp [2012] EWCA Civ 808 (English Court of Appeal at para 94)
+  - SHAM?
+    - Gilford Motor Co v Horne [1933] 1 Ch 935
+      - Horne worked for Gilford Motors.
+      - Restrictive covenant: promise not to entice away customers of Gilford during or after his employment
+      - Employment was terminated and he opened a business on his own account, attracting Gilford customers
+      - He then set up a company that took over his business (with relatives and associates as directors)
+      - Gilford sought an injunction against both Horne personally and the company he set up
+      - Horne claimed that the company should not be subject to the injunction
+      - “I do hold that the company was “a mere cloak or sham””
+      - One of the reasons for setting up the company was in order to avoid the restriction.
+      - Injunction was ordered against the company
+  - PREST V PETRODEL RESOURCES LTD [2013] 2 AC 34
+    - “references to a ‘façade’ or a ‘sham’ beg too many questions to provide a satisfactory answer” para [28]
+      - “there is a limited principle of English law which applies when a person is under an existing legal obligation or liability or subject to an existing legal restriction which he deliberately evades . . . by interposing a company . . . the court may then pierce the corporate veil” para [35]
+  - ICT PTY LTD V SEA CONTAINERS LTD (1995) 39 NSWLR 640
+    - “There is no special equitable principle applicable to sham transactions
+      - In our opinion, despite the references in Gilford and Jonesv Lipman to the companies being shams, it is not possible to support those decisions on that basis since Snook v London and West Riding Investments. In neither case was the company treated as non-existent because it was a party to the proceedings and orders were made against it. 656.
+      - “In our opinion, properly understood, Gilford and Jones v Lipman are not authority for any novel principle either of law or equity. . . .. .In our view the decision [Gilford] can best be understood and supported on the ground that the company was acting as agent for the first defendant: see at 955-956,961.”
+- LIFTING THE VEIL: AGENCY
+  - Smith Stone & Knight Ltd v Lord Mayor, Aldermen and Citizens of the City of Birmingham (1939) 161 LT 371 kings bench division
+    - SSK owned factory
+    - Out of 502 shares in Birmingham Waste Co, SSK owned 497 and 5 directors held 1 share each.
+    - SSK leased factory to subsidiary, Birmingham Waste Co (on a yearly tenancy)
+    - Compulsory acquisition order pursuant to statute
+    - SSK could only claim for disturbance to business if it carried on the business
+    - Birmingham Waste Co couldn’t claim for disturbance to business because it didn’t have sufficient interest in the land subject to acquisition
+    - Court found 6 criteria:
+      - 1. Were profits treated as profits of the parent?
+      - 2. Were persons conducting business appointed by parent?
+      - 3. Was parent the “head and brain” of the business?
+      - 4. Did parent govern the business, decide what should be done and what capital should be used?
+      - 5. Did parent make profits by its own skill and direction?
+      - 6. Was parent in effectual and constant control?
+  - CORPORATE GROUPS
+    - What is a corporate group?
+    - Prevalence and importance
+    - Do arguments for limited liability apply intra-group?
+    - Generally rigidly adhered to Salomon reasoning
+  - BRIGGS V J-H (1989) 7 ACLC 841(NSW C OF A)
+    - Employee at asbestos factory later developed asbestosis
+    - Wanted to sue but outside limitation period, applied for extension
+    - Employer was half-owned by James Hardie (and later wholly owned by James Hardie)
+    - Rogers AJA: “with all due humility, I am bound to say that there seems to be something wrong with the state of the law when, in order to recover compensation for his apparent asbestosis, a person in the position of this plaintiff has to mount a challenge to fundamental principles of company law” at 848
+    - “no common, unifying principle which underlies the occasional decision of courts to pierce the corporate veil” at 854
+    - Potential to exercise control over subsidiary is not sufficient
+    - The argument that veil can be pierced where “one company exercises complete dominion and control over another is entirely too simplistic” at 862
+  - ON SEPARATE ENTITY OF CO WITHIN CORPORATE GROUP SEE ALSO:
+    - Adams v Cape Industries [1990] 2 WLR 657
+    - Walker v Wimborne (1976) 137 CLR 1(High court)
+    - Qintex Aust Finance v Schroders (1990) 3 ACSR 267
+
+## Week 3: Managing companies, II: Corporate liability
+
+- Questions to ask
+  - The answer to the question will determine if the company is liable.
+    - Criminal liability
+      - Who engaged in the activity?
+    - Contract liability
+      - Who entered into the contract
+    - Tort liability
+      - Was the tortfeasor an employee or agent acting within authority?
+    - Contract liability
+      - Who entered into the contract (Note the potential application of statutory assumptions (ss 128, 129))
+        - Was it the co? See s 127 and the terms of the constitution
+          - Yes — co is liable
+        - Was it an agent with express, implied or apparent authority to act on behalf of the co?
+          - No — co is not bound unless it ratifies. Agent may be liable
+          - Yes — company is bound. Agent is not liable
+    - Tort Liability
+      - Directing mind and will only used if knowledge or intention of co needs to be proved -> Was the tortfeasor an employee or agent acting within authority?
+        - No — co not liable under vicarious liability. Agent liable as tortfeasor
+        - Yes - co liable under vicarious liability. Agent liable as concurrent tortfeasor
+    - Criminal liability
+      - Who engaged in the conduct?
+        - Someone unrelated to co — co not liable
+        - Agent or employee — co not automatically liable (Mouselt Bros)
+        - Co (apply directing mind and will to establish elements)
+      - Check the wording of the statute: Does it specify who is liable?
+        - If the statute is federal law — check the Commonwealth Criminal Code Act s 12
+  - Corporate liability
+    - Law of attribution
+      - According to the Australian Law Reform Commission,
+        - The legal mechanism of attribution was developed to enable the criminal law to be applied to corporations. It is through attribution that the law determines the conduct and state of mind to be ascribed to the corporation itself”.
+        - “Corporations have an ‘identifiable persona’, arising from their culture and capacity to make moral judgments, and express opinions and positions as a corporate entity”.
+        - ALRC Report, Corporate Criminal Responsibility, ALRC Report 136.
+  - HL Bolton [1957] Lord Denning
+    - A company may in many ways be likened to a human body. It has a brain and nerve centre which controls what it does. It also has hands which hold the tools an act in accordance with directions from the centre. Some of the people in the company are mere servants and agents who are nothing more than hands to do the work and cannot be said to represent the mind or will. 
+    - Others are directors and managers who represent the directing mind and will of the company and control what it does. The state of mind of these managers is the state of mind of the company and is treated by law as such. So you will find that in cases where the law requires personal fault as a condition of liability in tort, the fault of the manager will be the personal fault of the company
+    - ...So also in the criminal law, in cases where the law requires a guilty mind as a condition of a criminal offence, the guilty mind of the directors and managers will render the company itself guilty.”
+  - Separate Legal Personality: Salomon v Salomon & Co Ltd [1897] AC 22
+    - Mr S had operated a successful boot-making business for 30 years
+    - Later sold the business to Salomon & Co Ltd incorporated under Companies Act 1862 (UK)
+    - Mr S was MD of S & Co Ltd - family members the other shareholders
+    - Mr S received cash, £10,000 in debentures and shares in S & Co Ltd  hence became a secured creditor, as well as controlling shareholder and MD
+    - Mr S – transferred half of these debentures to a financier Mr Broderip as security for a £5,000 loan to support business
+    - Mr S granted Mr B an interest via a mortgage in his debentures – so Mr B became legal owner and Mr S the beneficial owner 
+    - Due to strikes in industry, business of S & Co Ltd declined – it defaulted on loan repayments – later went into Liquidation Assets of S & Co Ltd insufficient to pay creditors Liquidator argued Mr S should indemnify S & Co Ltd for its debts
+    - At trial and on appeal – found for liquidator - S & Co Ltd an agent (‘mere alias’) for Mr S House of Lords – Held that S & Co Ltd had been validly incorporated under the Companies Act 1862 (UK) - so it was a legally separate person from Mr S – per McNaughton LJ at 51:
+    - “the company is at law a different person altogether from subscribers to the memorandum; and though it may be that after incorporation the business is precisely the same as it was before, the same persons as managers, and the same hands receive the profits, the company is not in law the agent of the subscribers or trustee for them”
+    - Significance:
+      - Individuals could legitimately minimise their personal risk by using the corporate form 
+      - Confirmed the principle of limited liability of members of companies -> see now Corporations Act 2001 s 516
+  - Implications of legal personality
+    - See now Corporations Act 2001 s 124 (Capacity / powers of company) A company has the legal capacity and powers of an individual both in and outside this jurisdiction. A company also has all the powers of a body corporate
+    - Individuals may be directors, members, creditors and/or employees of companies – eg:
+      - Lee v Lee’s Air Farming [1961] AC 12
+        - Mr Lee - major shareholder and director of crop-dusting company – which had taken out workers compensation policy
+        - Privy Council – allowed his widow’s claim, held Mr Lee was a worker
+        - Companies can incur their own obligations – contract, tort, statutory
+      - Andar Transport Pty Ltd v Brambles [2004] HCA 28
+        - Mr Wail – founder, major shareholder and MD of Andar – contracted with Brambles to undertake laundry delivery work – injured back
+        - Sued Brambles for negligence – failure to provide safe system of work
+        - HCA held: Andar owed Mr Wail a duty to provide a safe system of work  the fact that a company is owned / controlled by one person will not affect its status as a separate legal entity (nor its safe work obligations)
+  - Exceptions - Evasion of legal obligations
+    - Gilford Motor Co Ltd v Horne [1933] 1 Ch 935
+      - Mr Horne – MD of Gilford Motors - restrictive covenant in employment contract (during, or five years after, his employment)
+      - Within five-year period after resignation – set up a company (relatives as directors) to operate a similar business nearby 
+      - Gilford – awarded injunction against Mr Horne and his new company
+      - Per Lord Harnworth MR:
+        - “I am quite satisfied this company was formed as a device, a stratagem, to mask the effective carrying on of a business of [Mr Horne]. The purpose of it was to enable him, under what is a cloak or a sham, to engage in a business which he had a fear [Gilford] might intervene and object”
+    - Jones v Lipman [1962] 1 All ER 442
+      - Lipman had agreed to sell land to Jones, but changed his mind and requested J to cancel purchase contract (but Jones refused)
+      - Lipman then formed Alamed Ltd (in which he and another person were the only directors and members) and sold the land to it at a lower price
+      - Jones – then sued Lipman and Alamed for breach of contract and claimed specific performance
+      - Held: The “corporate veil” could be disregarded – per Russell J:
+        - “[Alamed Ltd] is the creature of [Lipman], a device and a sham, a mask which he holds before his face in an attempt to avoid recognition by the eye of equity.”
+  - Exceptions - Agency
+    - Smith Stone & Knight Ltd v Birmingham Corp [1939] 4 All ER 116
+      - SSK – operated a manufacturing business – purchased a waste business, set up subsidiary (Birmingham Waste Co Ltd) to run it 
+      - SK held majority of shares in Birmingham Waste – leased its land to Birmingham Waste
+      - Land then subject to compulsory acquisition by Birmingham Corporation (the local government body)
+        - SSK entitled to compensation as land owner; Birmingham Waste did not have a formal lease for over one year (as required by the legislation) so unable to compensation as tenant
+      - SSK – argued it should be entitled to compensation for disruption to Birmingham Waste’s business -> submitted that Birmingham Waste was operating as the agent of SSK
+      - SSK and Birmingham Waste shared staff, books and income
+    - Atkinson J’s six criteria
+      - 1. Were profits treated as profits of the parent?
+      - 2. Were persons conducting business appointed by parent?
+      - 3. Was parent the “head and brain” of the business?
+      - 4. Did parent govern the business, decide what should be done and what capital should be used?
+      - 5. Did parent make profits by its own skill and direction?
+      - 6. Was parent in effectual and constant control?
+    - Held: Birmingham Waste was in reality the agent of SSK – hence entitled to compensation under the applicable legislation
+  - Exceptions – Statutory
+    - Corporations Act 2001 s 588G – Directors duty to prevent insolvent trading by company
+    - Possible recovery and other actions against former directors of insolvent companies by liquidator on behalf of creditors
+    - Eg “XYZ Pty (in liq) v Bloggs”
+    - Covered in Seminar 8 (Directors duties II – Duty of care, skill and diligence; Overview of corporate insolvency)
+    - Other examples of legislation imposing personal liability on directors of companies – Workplace Health and Safety; environmental; employment; consumer protection; competition statutes
+  - Veil piercing and corporate Groups 
+    - Corporate groups – examples?
+    - Parent / holding company and subsidiary companies
+    - Corporations Act 2001 s 46(a): A body corporate (first body) will be a subsidiary of another body corporate if the other body:
+      - Controls the composition of the first body’s board
+      - Controls the votes that may be cast at a general meeting of the first body
+      - Holds more than half of the issued shares in the first body
+    - Courts have generally held that each company in a corporate group is a separate legal entity – with its own rights and liabilities
+    - Questions of veil piercing can arise in the cases of insolvency, and tort liability
+    - Walker v Wimborne [1976] HCA 7
+      - Three members of Wimborne family – directors of Asiatic Electric Co Pty Ltd - which was part of a group of construction companies
+      - Directors moved funds between companies in the group to pay debts as they arose – including from Asiatic (which became insolvent)
+      - Asiatic’s liquidator claimed that by making these payments the directors had breached their duties (ie sacrificing Asiatic’s assets for the group)
+      - HCA – Confirmed that directors owe duties to each individual company
+      - Challenges of separate legal entity doctrine in corporate groups – eg Qintex Aust Finance v Schroders Aust Ltd (1990) 3 ACSR 267 per Rogers CJ “creditors of failed companies encounter difficulties when they have to select from among the moving targets [of a group] the company which they consider they have concluded a contract” -> Calls for reform
+      - Since 1993: s 588V – Holding company may be liable when there were reasonable grounds to suspect that when sub co incurred a debt, it was insolvent – and directors of holding company were aware of this
+  - Attributing statutory liability to companies
+    - Companies may be liable for a wide range of offences
+    - Lennards Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705
+      - Mr L directed company which owned a ship, which was carrying oil owned by AP Co Ltd – Due to unseaworthiness was destroyed by fire
+      - L Co Ltd sought to resist claim by AP Co Ltd – s 502 of Merchant Shipping Act 1894 (UK) – owners of ships not liable for ‘... any loss or damage happening without his actual fault or privity’ – ie argued the ship’s destruction resulted from Mr L’s default - not default of L Co Ltd
+      - UKHL dismissed this argument – per Viscount Haldane VC:
+        - “A corporation is an abstraction. It has no mind of its own any more than it has a body of its own; its active and directing will must consequently be sought in the person of somebody who for some purposes may be called an agent, but who is really the directing mind and will of the corporation, the very ego and centre of the personality of the corporation ... For if Mr Lennard was the directing mind of the company, then his action must, unless a corporation is not to be liable at all, have been an action which was the action of the company itself within the meaning of s 502”
+    - Mousell Brothers Ltd v London and North-Western Railway Co [1917] 2 KB 826
+      - Railway Clauses Consolidation Act 1845 (UK) – required the payment of tolls for goods transported on railways based on factors such as type and quantity of goods
+      - One of MB Ltd’s warehouse workers failed to accurately complete a consignment note -> MB Ltd fined for making false declarations under the Act – which imposed liabilit on ‘any owner or such other person’ 
+      - MB Ltd’s directors challenged the fine – lack of knowledge of the act
+      - Per Atkin J at 846: 
+        - ‘Where a penalty is imposed for the breach of the duty, it is reasonable to infer that the penalty is imposed for a default of the person by whom the duty would ordinarily be performed. If the servant is to prepare the account, then it is the fault of the servant in not preparing the account that makes the owner liable to the penalty ... No mens rea being necessary to make the principal liable, a corporation is in exactly the same position as a principal who is not a corporation’.
+    - Tecso Supermarkets Ltd v Nattrass [1972] AC 153
+      - Tesco charged under Trade Descriptions Act 1968
+      - (UK) for falsely advertising the price of washing powder 
+      - UKHL – Accepted Tesco’s defence that it had taken all reasonable precautions and due diligence measures, and the actions of the store manager (who was not Tesco’s “directing mind”) could not be attributed to the company – per Reid LJ:
+      - ‘Normally the board of directors, the [MD] and perhaps other superior officers of a company carry out the functions of management and speak and act as the company. Their subordinates do not. They carry out orders from above and it can make no difference that they are given some measure of discretion. But [the board] may delegate some part of their functions of management giving to their delegate full discretion to act independently of instructions from them’.
+    - Meridian Global Funds Asia Ltd v Securities Commission [1995] 2 AC 500
+      - Chief Investment Officer and other managers acquired 49% of shares an NZ- listed company – caused Meridian to breach Securities Amendment Act 1988 (NZ) requiring lodgment of substantial shareholder notices
+      - Could knowledge of the CIO (Mr Koo) be attributed to Meridian to establish that the it was aware of the trades, and hence its disclosure obligations?
+      - UKPC held Yes -> Look to the intent of the legislation – market transparency
+      - ‘In such a case, the court must fashion a special rule of attribution for the particular substantive rule .... Given that it was intended to apply to a company, how was it intended to apply? Whose act (or knowledge, or state of mind) was for this purpose intended to count as the act etc. of the company? One finds the answer to this question by applying the usual canons of interpretation, taking into account the language of the rule (if it is a statute) and its content and policy’. 
+      - ‘Therefore not necessary ... to inquire into whether Koo could have been described in some more general sense as the "directing mind and will" of the company’
+      - Followed in ABC Developmental Learning Centres Pty Ltd v Wallace [2006] VSC 171
+      - See also Criminal Code Act 1995 (Cth) Div 12 – Corporate criminal responsibility
+  - Directing mind and will	
+    - When considering the liability of a company the Courts have used the analogy of who was the directing mind and will of the company for the purposes of the action.
+    - Leonard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705
+      - A corporation is an abstraction. It has no mind of its won any more than it has a body of its own; its active and directing will must consequently be sought in the person of somebody who for some purposes may be called an agent, but who is really the directing mind and will of the corporation, the very ego and centre of the personality of the corporation.
+    - Question arises how far beyond the board does the directing mind and will principal apply?
+      - Tesco Supermarkets Ltd v Nattrass [1972] AC 153
+        - The legal issue was whether the store manager was the directing mind and will of the corporation so that his conduce in relation to the sale price could be attributed to the company.
+        - The House of Lords said he was not and therefore Tesco was not liable for his actions. The board had not delegated any of its functions to store managers and had retained control. The store manager was required to follow the directions of the board,
+  - Corporate Criminal liability
+    - A company can be criminally liable for acts undertaken by its employees which is referred to as vicarious liability.
+    - A company may also be strictly liable for contraventions of an offence involving a non-delegable duty, referred to as strict liability.
+    - A company may also be criminally liable if the acts of individuals such as directors and officers and employees are treated as acts of the company. 
+      - This is referred to as deemed liability.
+    - The leading case in relation to criminal liability is Mousell Brothers Ltd v London and North-Western Railway Co [1917] 2 KB 826
+    - The court reasoned that
+      - ‘Where a penalty is imposed for the breach of the duty, it is reasonable to infer that the penalty is imposed for a default of the person by whom the duty would ordinarily be performed’.
+    - Another important case is Meridian Global Funds Asia Ltd v Securitie Commission [1995] 2 AC 500.
+      - Lord Hoffmann state that”
+        - There is no one answer to the question whether the criminal actions of employees (or directors or contractors) of a company can be counted as the actions of the company. In some cases, it is necessary to fashion a special rule of attribution. Depending on the scope of the rule, the actions of the employees may or may not be attributed to the company. The scope of the rule will depend upon the court’s interpretation of the terms of the offence and the policy of the enabling statute
+  - Checklist For Corporate Criminal liability
+    - Does the statute make it clear that actions of the employee will make the corporation liable (ie, strict liability offence)?
+      - Statutory vicarious liability: Mousell
+    - If not, is it a State offence (eg NSW) or a Commonwealth offence?
+      - For State offences, apply ‘directing mind’ analysis (Tesco) and ‘special rule of attribution’ (Meridian)
+      - For Commonwealth offences, apply Criminal Code Act s.12 instead
+    - Do any individuals have accessorial liability?
+      - Hamilton v Whitehead see Harris and Peters at [4.9]. 
+      - Individual can be acting in multiple capacities.
+  - The main point from Mousell Brothers and Meridian Global Funds is that the determination of the elements of the statutory provision must be made by interpreting the scope and purpose of the statute. An example of this is the ABC Learning case where the court considered the policy underlying the statute
+    - Exercise [3.3]
+      - ABC Developmental Learning Centres Pty Ltd v Wallace [2006] VSC 171, Bell J,
+        - “where legislation lays down a standard of action or behaviour in the public interest, a company, being an abstract legal entity, can observe the standard only through human agents. ... the company must have employees or similar persons to make full and frank disclosure, to record taxable transactions, to protect the safety of workers at work and, I might add, to properly take care of children. If the persons appointed by the company to observe the standard do not do so, it would frustrate the objectives of the legislation if the company could not be held criminally liable. The imposition of criminal liability is one important way by which persons, including companies, are held accountable for breaching regulatory standards which, on pain of such liability, they are obliged to observe. Therefore, where appropriate, the courts will fashion a rule of attribution that counts, as a company’s, the actions of employees, of whatever level, whose work involves the performance of a regulatory obligation on the company’s behalf”.
+    - This brings us to the Criminal Code Act 1995 (Cth) which applies to corporations.
+      - It only applies to Commonwealth offences. For state and territory offences the general law will apply.
+      - Note that some Commonwealth statutes exclude the operation of the Criminal Code.
+      - There are also a number of specific criminal offences contained in the CA.
+      - In particular, Pt 2.5 deals specifically with corporate criminal liability. This part is located in the Schedule to the Code. Sections 12.3 Fault elements other than negligence, and 12.4 Negligence, provide rules for determining fault
+    - Criminal Code Pt 2.5, Div 12,
+      - s 12.1(2) A body corporate may be found guilty of any offence, including one punishable by imprisonment.
+  - Corporate criminal liability
+    - s 12.3
+      - Non-negligent behaviour
+    - s 12.4
+      - Negligent behaviour
+    - Section 12.3(2) of the Criminal Code Act 1995 (Cth) is the means by which the company will be held liable:
+      - 12.3(2)(a)
+        - the body corporate’s board of directors intentionally, knowingly or recklessly carried out the relevant conduct, or expressly, tacitly or impliedly authorised or permitted the commission of the offence
+      - 12.3(2)(b)
+        - a high managerial agent of the body corporate intentionally, knowingly or recklessly engaged in the relevant conduct, or expressly, tacitly or impliedly authorised or permitted the commission of the offence
+      - 12.3(2)(c)
+        - a corporate culture existed within the body corporate that directed, encouraged, tolerated or led to non- compliance with the relevant provision
+      - 12.3(2)(d)
+        - the body corporate failed to create and maintain a corporate culture that required compliance with the relevant provision
+    - Criminal Code Pt 2.5, Div 12, s 12.3(4) relevant factors
+      - A
+        - Whether authority to commit an offence of the same or similar character had been given by a high managerial agent of the body corporate
+      - B
+        - Whether the employee, agent or officer of the body corporate who committed the offence believed on reasonable grounds, or entertained a reasonable expectation, that a high managerial agent of the body corporate would have authorised or permitted the commission of the offence.
+    - S 12.4 elements
+      - 12.4(1) the test for negligence is set out in:
+        - S 5.5 Negligence
+      - A person is negligent with respect to a physical element of an offence if his or her conduct involves:
+        - (a) such a great falling short of the standard of care that a reasonable person would exercise in the circumstances; and
+        - (b) such a high risk that the physical element exists or will exist; that the conduct merits criminal punishment for the offence.
+      - s 12.4(2) If:
+        - a) negligence is a fault element in relation to a physical element of an offence; and
+        - b) no individual employee, agent or officer of the body corporate has that fault element;
+        - that fault element may exist on the part of the body corporate if the body corporate’s conduct is negligent when viewed as a whole (that is, by aggregating the conduct of any number of its employees, agents or officers).
+      - s 12.4(3) Negligence may be evidenced by the fact that the prohibited conduct was substantially attributable to:
+        - a) inadequate corporate management, control or supervision of the conduct of one or more of its employees, agents or officers; or
+        - b) failure to provide adequate systems for conveying relevant information to relevant persons in the body corporate.
+  - Corporate liability in tort
+    - A company can be liable in tort in two ways:
+      - The company engages in the tortious conduct.
+        - In this case the company will be directly liable
+        - The board of directors sign a contract that contains misstatements.
+      - A person working for the company or on behalf of it may have committed the tortious conduct.
+        - In this case the company will be vicariously liable.
+        - An act of an employee towards another employee
+    - Vicarious liability is used for a single company
+      - Behaviour of servant/employee is key
+      - Acting within scope of employment
+    - General rule: each company in the group is a separate legal entity: Walker v Wimborne.
+    - But under tort law (negligence), all “people” have duty not to harm their ‘neighbours’: anyone who could foreseeably be harmed by careless conduct
+    - In some circumstances, parent company may be directly negligent towards employees of a subsidiary company: e.g. CSR Ltd v Wren
+    - CSR Ltd v Wren (1997) 44 NSWLR 463
+      - Subsidiary of CSR Ltd produced asbestos; employees of subsidiary got sick; who could they sue?
+      - Held: CSR failed in its duty to provide a safe system and place of work.
+      - Principal: where a parent company directed or controlled its subsidiary’s operations and provided the subsidiary’s management, the parent company owed a duty of care to the subsidiary’s employees.
+    - One issue in relation to making a company liable in tort is what happens if the company is insolvent or closes. The separate legal entity doctrine would prevent another company in the group being liable.
+    - This can result in the tortious victim who is an involuntary creditor from obtaining recompense.
+    - In response the Courts have been prepared to pierce the corporate veil and make another company liable in the case of a tortious action.
+    - Such was the case in Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 54; 7 ACLC 841
+    - Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 54; 7 ACLC 841
+      - Briggs worked in an asbestos mine owned by Asbetos Mines Pty Ltd.
+      - In 1985 Briggs initiated a civil action seeking damages against James Hardie & Co Pty Ltd and James Hardie Industries Pty Ltd and two other mining companies as Asbestos had become insolvent.
+      - The claim was made out of time and leave was sought to extend the Statute of Limitations. The Trial Judge extended leave against the two mining companies but not against the James Hardy companies. Briggs appealed.
+      - Briggs claimed, inter alia, that Asbestos was merely the agent for Hardies.
+      - Held per Rogers AJA
+        - There is no common or unifying principle for when the corporate veil will be pierced.
+        - The potential only to exercise control over the subsidiary is insufficient to pierce the corporate veil.
+        - Affirmed Goff LJ’s statement in DHN Food Distributors that different considerations should apply in relation to piercing the corporate veil in an action in tort than an action in contract, tax or compensation cases.
+      - Case remitted.
+      - Rogers AJA suggested that different considerations should apply in deciding whether to piece the corporate veil in tort actions compared to other actions such as contract
+      - “Generally speaking, a person suffering injury paid-up the tortious act of a corporation has no choice in the selection of the tortfeasor.
+        - The victim of the negligent act has no choice as to the corporation which will do him harm. In contrast, a contracting party may readily choose not to paid-up a contract with a subsidiary of a wealthy parent. The contracting entity may enquire as to the amount of paid up capital and, generally speaking, as to the capacity of the other party to pay the proposed contract debt and may guard against the possibility that the subsidiary may be unable to pay.”
+## Week 4: Managing companies III
+
+- Pt.1: Corporate Constitution and Division of Power
+  - Can the activist shareholders in Colwools Ltd do this?
+    - You are a member of an anti-gambling advocacy group, and you want to stop Colwools Ltd, a large publicly- listed food and drinks retailer, from operating thousands of gambling machines (“pokies”) in its hotel chain. Members of your group have purchased shares in Colwools, and they plan to propose a change in Colwools’ constitution to prevent the company from owning or operating poker machines with more than a $1 maximum bet.
+  - What is decision-making power?
+    - Companies are artificial legal entities
+      - they have similar powers to real persons (see s 124)
+    - Real people confirm their decisions by positive actions
+      - Signature
+      - Handshake
+      - conduct
+    - How can we confirm that companies have made a decision?
+      - companies are often made up of numerous stakeholders
+        - directors, executive officers, employees and agents working for the company
+      - distinguish between decisions made on behalf of the company (agency) with decisions made by the company itself
+    - Decision-making power is the power to make decisions recognised by law (may involve contracts, or conduct that has legal consequences)
+  - Distribution of decision-making power
+    - Decision-making power is given to ‘decision-making organs’
+      - Majority of members in a general meeting
+      - Majority of the board of directors
+        - But see replaceable rules/resolutions below
+    - These decisions are not on behalf of the company, they are decisions by the company itself
+    - Decision-making power can be allocated by:
+      - Corporate constitution
+      - Corporations Act
+      - ASX Listing Rules (for Ltd co listed on ASX)
+      - By delegation of authority (see eg ss 198C, 198D)
+  - Board of Directors: decision-making powers
+    - The board of directors obtains powers under s 198A (RR)
+    - The board acts as a collective
+    - That power may be delegated (s198C, 198D), usually to a managing director, or other officer/employee
+      - individual directors have no authority to bind the company as agents (unless implied by executive position or some other kind of “authority”- eg MD)
+        - Northside Developments Pty Ltd v R-G (NSW) (1990) 170 CLR 146
+        - See Podcast 4, part 2 for “authority” of agents
+  - Powers given to members in general meeting
+    - Powers given to the members by the Corporations Act (and ASX Listing Rules for listed companies), such as:
+      - Electing the board of directors (s201G)
+      - Approval of related party transactions (s208) (covered in Seminar 10)
+      - Approval of certain capital changes (ss257B, 260B)
+      - Voluntary winding up (s491)
+      - Certain share issues require member approval
+        - ASX LR 7.1: 15% in 12 mths
+    - Powers/rights may also be given by the corporate constitution (if any)
+      - E.g. Different share classes (preference shares, governor’s share etc)
+      - See discussion below
+    - Note also the role of shareholder agreements
+      - Common in joint ventures, private equity and other closely-held
+  - Division of power between directors and members (shareholders)
+    - Are the directors the mere agents of the members?-NO
+      - Automatic Self-Cleansing case (majority shareholder could not force company directors to sell assets to them)
+    - Contrast ‘management’ powers with ‘control’ powers ‘functions assigned to the company in general meeting are not exercisable by the board of directors and likewise those given to the board of directors are not exercisable by the company in general meeting.’
+    - Re Winlyn Developments Pty Ltd [2011] NSWSC 1218
+  - Effect of division of power
+    - Once the board of directors is given the power of management under the constitution, it can only be taken away by amending the constitution
+    - Members cannot pass a resolution to issue directions to the board about how to exercise the power of management
+    - Can’t change the constitution to require directors to always follow directions from members (fetter discretion):
+      - Capricornia Credit Union [2007] FCAFC 79 (see eg at [78])
+    - However, members can vote to remove directors (s.203C, 203D)
+    - Gramophone and Typewriter Ltd v Stanley [1908] 2 KB 89 at 105
+      - ‘The directors are not servants to obey directions given by the shareholders as individuals; they are not agents appointed by and bound to serve the shareholders as their principals. They are persons who may by the regulations be entrusted with the control of the business, and if so entrusted they can be dispossessed from that control only by the statutory majority which can alter the articles [ie the constitution].’
+    - Australasian Centre for Corporate Responsibility v CBA [2015] FCA 785 at [16], FCAFC appeal dismissed (2016) 248 FCR 280
+      - ‘if the company’s constitution gives to the board the power to manage the company’s business, the directors are exclusively responsible for the management of the company and shareholders cannot control the directors in the exercise of that power or direct the board by resolution to exercise that power in a particular way (save for any matters that are within the power of the company in general meeting).’
+    - John Shaw & Sons (Salford) Ltd v Shaw [1935] 2 KB 113 at 134
+      - ‘A company is an entity distinct alike from its shareholders and its directors. Some of its powers may, according to its articles, be exercised by directors, certain other powers may be reserved for the shareholders in general meeting. 
+    - If powers of management are vested in the directors, they and they alone can exercise these powers. The only way in which the general body of the shareholders can control the exercise of the powers vested by the articles in the directors is by altering their articles, or, if opportunity arises under the articles, by refusing to re-elect the directors of whose actions they disapprove. They cannot themselves usurp the powers which by the articles are vested in the directors any more than the directors can usurp the powers vested by the articles in the general body of shareholders’
+  - Residual powers of members?
+    - Do shareholders have a ‘right’ to make non-binding resolutions to the meeting that express the shareholders’ opinions? No
+      - Australasian Centre for Corporate Responsibility v CBA [2015] FCA 785 at [34]
+        - ‘The only powers that shareholders have are those which the Act “requires” be exercised by the company in general meeting and none of those powers include a power to pass non-binding advisory resolutions. The terms of the constitution, which make clear that management of the company is vested exclusively in the directors, preclude the implication of any power in the general meeting to pass resolutions proffering opinions on the way in which the board exercises its powers.’
+  - The Corporate Constitution
+    - What is the corporate constitution?
+      - A company must have internal rules (s 134), made up of:
+        - 1. Written constitution (s136(1)); or
+        - 2. Replaceable rules (see s141); or
+        - 3. Combination of both (1) and (2)
+      - The internal rules are referred to as the company’s constitution
+      - Replaceable rules are default rules that apply-unless replaced
+      - Some RR are only replaceable for Pty Ltd companies, and are mandatory for public companies (Ltd cos)
+        - the Corps Act will make this clear, eg s249X
+    - Content of the Constitution
+      - See the list of replaceable rules in s141
+        - – Pros and cons of RR?
+      - Common matters included:
+        - – Procedure for meetings
+        - – Capital structure (including types of shares and rights of shareholders)
+        - – Role and powers of directors (including removal of directors)
+        - – Dealing with disputes between members
+        - – Identifying potential conflicts of interest
+      - Constitution of large public co may be different to that of a small/closely held co
+    - Legal effect of the Constitution/Replaceable Rules
+      - Binds each of these parties as a deemed contract (s140), but see s125 & 129(1), re third parties:
+        - – The company and each member
+        - – The members between themselves
+        - – The company and each director and co secretary
+      - Even though replaceable rules are found in Corps Act, it is not a breach of the Act to contravene them, as they are also a contract: s135(2),(3)
+      - Ordinary principles of contractual interpretation apply
+        - – Lion Nathan Aust P/L v Coopers Brewery Ltd [2006] FCAFC 144
+      - Enforcing breaches:
+        - – Common law: breach of contract
+        - – statutory s232 minority oppression (see Remedies, topics 11 + 12)
+      - Most common relief is injunction, but damages may possibly be awarded
+        - – Dungowan Manly Pty Ltd v McLaughlin [2012] NSWCA 180
+    - How is the constitution changed?
+      - Special resolution of members (75%) is needed for change-s136(2)
+      - % can be made even higher, or other special conditions for changes, if stated in constitution – s136(3)
+    - Limitations on exercising powers and changing the constitution?
+      - Individual written consent by existing members required for certain changes (s140(2))
+      - Changes must not be oppressive or unfairly prejudicial/discriminatory to member or members, s.232 (see Remedies, Topic 11)
+      - Changes that affect property rights/class rights must comply with:
+        - – Share repurchase/capital reduction rules & class rights alterations (CA chap 2J & s246B-H)
+        - – Gambotto case??
+        - – But note compulsory acquisition rules for listed co takeovers: CA chap 6A
+      - Collateral/special contract linked to constitution?
+        - See eg, Bailey v NSWMDU (1995) 184 CLR 399
+      - Must be for a “proper purpose”: e.g. s249Q
+    - Australasian Centre for Corporate Responsibility v CBA (2016) 248 FCR 280
+      - Three resolutions proposed by activist shareholders (environmental advocates):
+        - 1. Directors must provide report to shareholders on CBA’s responsibility for greenhouse gas emissions (GHGs), and mitigating measures, or
+        - 2. Shareholders express concern that CBA’s annual director’s report has no explanation of CBA’s responsibility for GHGs, and mitigating measures,Or
+        - 3. Special resolution to amend CBA’s constitution to 
+        - add a requirement that directors annually report to shareholders on the quantum of GHG emissions that CBA is responsible for financing
+      - Federal Court of Australia found:
+        - Resolutions 1 and 2 were beyond power of shareholders, as management powers had been exclusively given to directors under CBA’s constitution (cites cases above on division of powers)
+        - Even the non-binding resolution (2) expressing shareholders’ opinion on management was beyond shareholders’ constitutional power
+        - CBA did not contest that Resolution 3 was within shareholders’ powers to propose at the meeting: amending constitution, but requires
+        - 75% majority to approve amendment
+    - Returning to this question: Can the activist shareholders in Colwools Ltd do this?
+      - You are a member of an anti-gambling advocacy group, and you want to stop Colwools Ltd, a large publicly- listed food and drinks retailer, from operating thousands of gambling machines (“pokies”) in its hotel chain. Members of your group have purchased shares in Colwools, and they plan to propose a change in Colwools’ constitution to prevent the company from owning or operating poker machines with more than a $1 maximum bet.
+    - Can the activist shareholders do this?
+      - Yes, if they do it by proposing a change in Colwools’ constitution, not fettering directors’ general powers but giving a new power to shareholders
+      - See ACCR decision above, resolution 3
+      - But, very difficult to get activist special resolution (or any resolution) actually approved by shareholders!
+      - See https://www.abc.net.au/news/2012-11-22/woolies-faces-pokies-protest-at-egm/4385814
+      - Reputational costs? E.g. from 2019 onwards, Woolworths gradually exits pokies business completed 2024.
+    - For shareholder (member) and director meeting procedures, see podcast 5
+### Pt. 2: Binding a company in contract
+
+- Managing cos III - authority to bind a company in contract including Podcast and slides
+  - Binding company in contract
+    - Company an abstraction- must act through other people. When does a contract/ deal by a person bind the corporation?
+    - A tension between internal and external interests:
+      - Outsiders want to be able to bind company with certainty
+      - Companies can’t have every person authorised to contract on every matter.
+      - 
+      - Company (principle) -> agent (negotiates and executes deal) -> outsider ->(binding contract) -> company (principle)
+    - Need to know statutory and general law rules specific to corporate law
+    - ss 126-130 are central
+    - Minor amendments to these statutory provisions by the Corporations Amendment (meetings and documents) Act 2022.
+  - Execution of Documents by company itself
+    - 127(1) A company may execute a document without using a common seal if the document is signed by:
+      - (a) 2 directors of the company; or
+      - (b) a director and a company secretary of the company; or
+      - (c) for a proprietary company that has a sole director—that director, if:
+        - (i) the director is also the sole company secretary; or
+        - (ii) the company does not have a company secretary.
+      - Note 1: If a company executes a document in this way, people will be able to rely on the assumptions in subsection 129(5) for dealings in relation to the company.
+      - Note 2: The requirement to sign may be satisfied electronically: see Division 1 of Part 1.2AA (about technology neutral signing).
+    - s127(2) with seal; s127(3) execution of deed
+  - s126 Agent exercising a company’s power to make contracts
+    - 126(1) A company’s power to make, vary, ratify or discharge a contract, or execute a document (including a deed), may be exercised by an individual acting with the company’s express or implied authority and on behalf of the company.
+      - Note 1: If a company executes a document in this way, people will be able to rely on the assumptions in subsection 129(3) for dealings in relation to the company.
+      - Note 2: For provisions about technology neutral signing, see Division 1 of Part 1.2AA.
+    - (2) The power may be exercised without using a common seal. 
+  - Actual authority
+    - Principal may consent to agent binding principal in contract
+    - May be express or implied
+    - Hely-Hutchinson v Brayhead [1968] 1 QB 549:
+      - Authority may be implied from a course of conduct
+      - Authority may be implied from appointment as managing director.
+      - Chair of company purported to execute guarantee and indemnity.
+      - Appointment as chair would not normally imply such power
+      - However, was de facto managing director and regularly committed company to contracts and reported the matter to the board afterwards
+      - Pattern of acquiescence created implied actual authority
+    - Crabtree-Vickers...(1975) 133 CLR 72– managing director did not have actual authority; see also Smith v Butler [2012] EWCA Civ 314
+    - “In ordinary business dealings the contractor can ...Hardly ever rely on the actual authority of the agent. His (sic) information as to the authority must be derived from the principal or agent or both, for they alone know what the agent’s actual authority is. All the contractor can know is what they tell him (sic) . . .” Freeman and Lockyer . . . [1964] 2 QB 480 , Diplock LJ
+    - Hence the importance of ostensible authority
+  - s 128 Entitlement to make assumptions
+    - “(1) A person is entitled to make the assumptions in section 129 in relation to dealings with a company. The company is not entitled to assert in proceedings in relation to the dealings that any of the assumptions are incorrect. . . .”
+    - (2) [Assumptions may be made where dealing with another person who] “has directly or indirectly acquired title to property from the company”
+    - (3) “The assumptions may be made even if an officer or agent of the company acts fraudulently, or forges a document, ...”
+  - s 129(1)
+    - 129(1) A person may assume that the company’s constitution (if any), and any provisions of this Act that apply to the company as replaceable rules, have been complied with.
+  - Indoor Management Rule
+    - Originally a doctrine formulated by the courts to protect outsiders dealing with the company
+    - Also known as the rule in Royal British Bank v Turquand (1856) 119 ER 886 (Turquand’s case)
+    - See discussion of rule by High Court in Northside Developments... (1990) 170 CLR 146
+  - s 129(2)
+    - 129(2) A person may assume that anyone who appears, from information provided by the company that is available to the public from ASIC, to be a director or a company secretary of the company:
+      - (a) has been duly appointed; and
+      - (b) has authority to exercise the powers and perform the duties customarily exercised or performed by a director or company secretary of a similar company.
+  - Ross v GVC Homes Pty Ltd (admin apt) (2015) 110 ACSR 60 – 
+    - demonstrates how s129 means it is important for companies to update ASIC records
+  - s 129(3)
+    - 129(3) A person may assume that anyone who is held out by the company to be an officer or agent of the company:
+      - (a) has been duly appointed; and
+      - (b) has authority to exercise the powers and perform the duties customarily exercised or performed by that kind of officer or agent of a similar company.
+    - See Bank of New Zealand v Fiberi (1994) 12 ACLC 48; Brick and Pipe Industries v Occidental Life Nominees (1991) 6 ACSR on who can hold out as the company
+  - General law test for apparent authority
+    - 1) That a representation that the agent had authority to enter on behalf of the company into a contract of the kind sought to be enforced was made to the contractor
+    - 2) That such representation was made by a person or persons who had ‘actual’ authority to manage the business of the company either generally or in respect of those matters to which the contract relates
+    - 3) That the contractor was induced by such representation to enter into the contract, that is, the contractor in fact relied upon it. (Freeman and Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2QB 480  see at 506)
+    - Crabtree Vickers Pty Ltd v Australian Direct Mail Advertising and Addressing Co Pty Ltd (1975) 133 CLR 72
+  - s 129 (cont’)
+    - Assumption that officers and agents properly perform their duties to the company: s129(4); for application see ANZ v Frenmast [2013] NSWCA
+    - 129 (5) A person may assume that a document has been duly executed by the company if the document appears to have been signed in accordance with subsection 127(1). For the purposes of making the assumption, a person may also assume that, if any person who signs the document states next to their signature that:
+      - (a) they are a director of the company—that is the case; or
+      - (b) they are the company secretary of the company—that is the case; or
+      - (c) they are the sole director of the company and that the company does not have a company secretary—that is the case; or
+      - (d) they are the sole director and sole company secretary of the company— that is the case.” for application see Caratti [2016] WASCA 84
+    -  S 129(6) has similar assumption to s129(5) but for situation where company seal used.
+  - s 128(4)
+    - “(4) A person is not entitled to make an assumption in section 129 if at the time of the dealings they knew or suspected that the assumption was incorrect.” (compare with superseded ‘put on inquiry’ test from Northside)
+  - Northside Developments
+    - “there is no reason why a third party should be entitled to rely on the formal validity of the instrument and to assume the seal has been regularly affixed if the very nature of the transaction is such as to put him on inquiry.” (Mason CJ at 160-161) (see different test in s 128(4))
+    - Northside (owner of land) - R Sturgess/G Sturgess
+      - -> mortgage as security for loans to sturgess companies -> 	
+        - Barelays (bank) -> 
+          - Loans -> 
+            - Sturgess companies
+      - 
+  - Eden Energy v Drivetrain USA (2012) 90 ACSR 191 Supreme Court of Western Australia
+    - “a person dealing with a corporation is not required to make an enquiry in order to be able to rely on the assumption provided by s129 . . . section 128(4) does not incorporate the concept of being ‘put on enquiry’ . . .actual knowledge is required” at para 83
+    - s 128(4) . . . is concerned with the actual state of mind of a party to a contract made with a corporation . . .” para 111
+  - Brick and Pipe v Occidental (1991) 6 ACSR 464:
+    - no actual knowledge;no actual knowledge; Outsider could rely on statutory assumptions
+    - Eden Energy v Drivetrain USA:
+      - issue to be tried on whether the outsider knew or suspected there was a lack of authority
+    - Correa v Whittingham [2013] NSWCA 263 at [127]
+      - Knowledge after the relevant dealings will not displace the assumption
+  - City Garden Australia (in admin) v Dai [2023] NSWSC 1498.
+    - Facts
+      - Outsider (lender) could rely on s129 statutory assumptions
+      - No evidence of actual knowledge under s128(4)
+      - Also breach of statutory directors duties by main company director; and lawyer involved had conflict of interest
+
+## Week 5: Managing Companies IV: Company Meetings; Financial Reporting & Audit
+
+- Managing Companies IV: Company Meetings; Financial Reporting & Audit
+  - Appointment and removal of directors
+    - Must be at least 18, and not disqualified: s 201B
+    - Grounds for disqualification from managing corporations: Part 2D.6 ss 206A – 206GAA
+      - s 206B – Convictions, bankruptcy
+      - s 206C – Contravention of civil penalty provisions
+      - s 206F – ASIC’s power of disqualification
+    - Directors are generally elected by members: See eg s 201G  (replaceable): ordinary shareholders’ resolution
+    - Directors may appoint:
+      - Interim directors: s 201H (replaceable rule)
+      - Alternate directors: s 201K (replaceable rule)
+    - Directors of pty cos – May be removed by members: s 203C (repl.)
+    - Directors of public cos – May be removed by members: s 203D (mandatory; 2 months notice requirement)
+      - Public cos: directors may not remove other directors: s 203E
+  - What are company meetings?
+    - Two types:
+      - 1. directors’ meetings, ie, board meetings
+      - 2. general meetings, ie, shareholder/member meetings
+    - Co meetings are the mechanism through which the company makes decisions (i.e. through the two decision-making organs)
+    - Compare ‘company meetings’ with ordinary business meetings, including those that involve key executives
+    - Company meetings are not the only way to make decisions:
+      - Circulating resolutions (s248A-director; s249A-members)
+      - Unanimous assent (the Duomatic principle)
+    - Company meetings are not just for decision making:
+      - Information, Accountability, Voicing concerns
+  - Checklist: What you should focus on for valid company meetings, ss 248A-250Y
+    - Convening meetings
+      - Timing of notice 
+      - Who receives notice
+      - Contents of notice
+      - Who is entitled to convene the meeting?
+    - Conduct of meetings
+      - Appropriate time/venue
+      - Proper purposes?
+      - Quorum present?
+      - Conduct of Chair
+      - Treatment of proxies
+      - Passage of resolutions (ordinary/special)
+    - Challenging meeting decisions
+      - s 1324 injunction
+      - s 1322 correcting procedural irregularity
+      - s232 (minority oppression)
+      - Equitable limitations on majority voting (fraud on a power)
+  - Directors’ meetings: Intro
+    - Management power of directors is given to collective board decisions (s 198A), not to individuals unless there is a formal delegation (Northside Developments)
+      - Note role of subcommittees in listed cos (eg audit committee; nominating committee): ASX Corporate Governance Principles
+    - Other persons may be present who are not board members
+      - Company secretary
+      - Executives and others making presentations to the board
+      - Observers (perhaps)
+  - Directors’ meetings: Convening – notice, venue & quorum
+    - Notice: All directors expected to attend board meetings
+      - Therefore, notices of meeting need not be detailed (contrast members’ meetings below)
+    - Quorum is 2 directors (Replaceable - see s248F)
+    - Note: potential for conflicts and need to leave the meeting (ss 194, 195, covered in Topic 10, Directors’ Duties: Conflicts)
+    - Meeting may be held at informal venue (eg café) but must be clear that it is a directors’ meeting (eg 2 directors chatting informally at work is not a ‘directors’ meeting’)
+    - Poliwka v Heven Holdings Pty Ltd (1992) 7 ACSR 85
+    - Meeting may be called on reasonable notice to all directors: s248C
+      - Standing notice may be given (eg first Monday of the month)
+    - Notice may be informal (eg verbal notice)
+    - Reasonable notice assessed in all of the circumstances, see e.g.:
+      - Mcmaster v Eznut Pty Ltd (Administrators Appointed) [2006] WASC 109 (short notice just prior to meeting ok where director indicated she would not attend such a meeting anyway)
+      - Sliteris v Ljubic [2014] NSWSC 1632 (2 days notice was ok where co was insolvent-urgency)
+      - Re Keneally (as administrator of Australian Blue Mountain International Cultural & Tourist Group Pty Ltd (admin apptd)) [2015] NSWSC 937 (less than 3 hrs notice was not enough, no reason for urgency)
+  - Directors’ meetings: Conduct
+    - Meetings may be held using technology (eg video conferencing)-s248D
+      - Need to ensure adequate information to all directors and participation by all- e.g. James Hardie cases (Topic 9)
+      - Do all of the directors have the board papers with sufficient time? ASIC v Healey [2011] FCA 717 (Topic 9)
+    - Chair elected by board members (s248E)
+    - Directors’ resolution passed by majority - chair has casting vote (Repl. s248G)
+    - Minutes must be kept of meetings and signed by Chair (s251A)
+      - eg James Hardie case (ASIC v Macdonald [No 11])
+    - See after Members’ meetings below: Challenging Decisions of Company Meetings
+  - Members’ meetings
+    - How to distinguish members’ meetings from directors’ meetings in the Corporations Act?
+      - Contrast e.g. s 201G (members) and s 201H (directors)
+    - Different types of members’ meetings:
+      - Annual General Meeting (AGM)
+      - Members’ general meetings (EGM) (e.g. for approval of special matters that cannot wait for an AGM)
+      - Class meetings (eg s246B varying class rights)
+  - Members’ meetings: convening – who can call a meeting?
+    - May be called by:
+      - Director (s249C-this is a RR), (s249CA-mandatory for listed co)
+      - Court (s249G)
+      - members with 5% of votes may requisition the co to call a meeting (s249D-company’s expense)
+      - Members with 5% of votes may also convene meeting themselves (s249F-at their expense)
+  - Members’ meetings: convening – notice reqs and shareholder proposals
+    - Notice of meeting must be given to voting members and directors (s249J)
+    - Notice must be clear and not misleading (s249L): see next slide for cases
+    - Notice is 21days (s249H)-except for listed co where 28days (s249HA)
+      - Short notice for non-listed co is permitted (s249H(2)-note (3) and (4))
+    - Members may request resolutions be presented (ss249N, 249O)
+    - Members may request information to be distributed (s249P)
+      - But see restrictions, and “proper purpose” below
+  - Members’ meetings: convening – Notice requirements continued
+    - The information given to members must be intelligible to the audience- not every piece of information that could be given is needed
+      - Fraser v NRMA Holdings Ltd (1995) 127 ALR 543
+    - Directors have fiduciary obligation to clearly advise members when they recommend members to vote in a particular way
+      - ENT P/L v Sunraysia TV Ltd (2007) 61 ACSR 626
+    - Misleading information to members may constitute misleading or deceptive conduct:
+      - s 1041H-in relation to financial products or financial services (not a civil penalty provision-civil liability under s1041I)
+  - Members’ meetings: convening – purpose, place and quorum
+    - Meeting must be called for a proper purpose (s249Q)
+      - Directors may ignore invalid resolutions (NRMA v Parker (1986) 6 NSWLR 517)
+        - Applied in Australasian Centre for Corporate Responsibility v CBA [2015] FCA 785 at [34], upheld [2016] FCAFC 80 at [27]: no “power” vested in shareholders in general meeting to pass an ineffective resolution.
+    - For multiple purposes see NRMA Ltd v Scandrett [2002] NSWSC 1123
+    - Must be held at a reasonable time and place (s249R)
+      - Smith v Sadler (1997) 25 ACSR 672 (directors knew member may be refused entry to venue)
+    - Technology may be used as long as members able to participate (s249S)
+    - Quorum for members’ meetings is 2 (s249T-Replaceable)
+  - Members’ meetings: Conduct -- voting
+    - All members may be entitled to attend, but not necessarily to vote (eg voting and non-voting shares)
+      - See constitution for voting rights of shares; common for 1 vote per share (s250E-RR)
+    - Resolutions:
+      - Ordinary (simple majority): constitution?
+      - Special (75% of the votes)-special resolutions must be set out in the notice of meeting (s249L(1)(c))
+    - Check constitution for rules on voting
+    - Voting may be undertaken in person (company may appoint a corporate representative), or by proxy (see below)
+    - Voting on a show of hands, or on a poll by request (s250J-RR)-see also s250K (poll)
+  - Members’ meetings: conduct – power of majority
+    - Member’s right to vote is a proprietary right and need not be exercised to benefit the company:
+    - “There is, if I may say so, no obligation on a shareholder of a company to give his vote merely with a view to what other persons may consider the interests of the company at large. He has a right, if he thinks fit, to give his vote from motives or promptings of what he considers his own individual interest.”
+      - Pender v Lushington (1877) 6 Ch D 70
+    - However, the majority members act as a decision-making organ and must act for a proper purpose (‘fraud on a power’), avoid unfairly harming minority: see Remedies, Topic 11.
+  - Members’ meetings: conduct -- proxies
+    - Member may appoint a proxy (s249X)
+      - Mandatory for public companies; Replaceable for proprietary companies (i.e. may prohibit proxy voting),
+      - Proxy form must be received by the company 48hrs before meeting (s250B), but may be shorter (250B(5))
+        - Note s 250BA: mandatory electronic form (public listed co)
+    - Chair confirms validity of the proxy forms (content required in s 250A)
+    - Proxyholder entitled to vote and participate in meeting (s249Y)
+    - Directed v undirected proxies (s250BB)-note s250BD (management proxies)
+    - Proxyholder acts as agent of the member, even if also holding position of Chair or otherwise a director (Whitlam v ASIC [2003] NSWCA 183)
+  - The AGM (Annual General Meeting)
+    - Public co must hold AGM (s250N)
+    - Business of AGM includes matters in s250R
+    - Listed co AGM includes advisory vote on remuneration report (s250R(2),(3))
+      - 2 strikes rule applies-spill resolution put to members (s250V)
+    - Members may question auditor (ss250PA, 250RA, 250T)
+    - Chair must allow members reasonable time to question management at AGM (s250S)- and on remuneration report (s250SA)
+  - Challenging Decisions of Company Meetings
+    - S 1324 injunction: anyone “affected” by a breach of the Corporations Act can seek a statutory injunction (see Remedies, topic 11);
+      - Must demonstrate “substantial injustice” s 1322(2)
+      - Company/defendant may seek relief under s 1322(4) (correcting procedural irregularity)
+    - General law injunction: action for breach of constitution or replaceable rules: if directly impacted;
+    - S 232 oppression remedy for unfair decisions of directors or majority shareholders (see Remedies, topic 11)
+    - ASIC civil penalty proceedings for breaching statutory duties, especially against directors and officers (s 1317E-H: see Directors’ Duties, Topic 8 onwards)
+  - Aboriginal/Torres Strait Islander (CATSI Act) Company Meetings: check for differences
+    - See mainly chapter 5 of CATSI Act
+      - Members’ meetings: part 5.2
+      - Directors’ meetings: part 5.3
+    - Always check the CATSI Act and company constitution (if any) for different meeting procedures
+    - E.g. CATSI members requesting a meeting or proposing a resolution: requires the greater of 5 members or 10% of members: see CATSI Act s 201.5, 201.40
+      - Contrast Corporations Act s 249D & 249N
+    - Member disputes: can request “special administrator”: CATSI Act s 487.5 (i)
+- Financial Reporting and Audit: Very Brief Summary
+  - Overview of financial reporting
+    - Public companies must prepare a financial report each financial year: s 292
+    - Reduced financial reporting requirements for most small proprietary companies: s 292(2) – except if directed by members with at least 5% of votes: s 293; or ASIC: s 294
+    - Listed companies – must also prepare half-year financial reports: s 302, and see also ASX Listing Rules
+      - Company in crisis: 
+      - https://www.abc.net.au/news/2025-03-03/star-entertainment-update-finances-casino- future/105001896
+    - Financial reports must be sent to members by earlier of 21 days before the next AGM after the financial year (FY) end; or 4 months after the financial year end: s 315
+    - Must also be lodged with ASIC within 4 months of FY end: s 319
+    - Public-listed companies must also do “continuous disclosure”: see s 674-678 and Topic 6 podcast on ASIC’s Role
+      - Typical listed co reporting on website:
+        - Typical listed co reporting on website: https://www.westpac.com.au/about-westpac/investor-centre/financial-information/
+  - Role/duties of company auditors
+    - Independent review of company’s financial records and reports: detailed independence rules: s 324CA-DD
+    - Mandatory for public companies: s 327A
+      - Mostly optional for small pty cos s 301, but see s 325
+    - Auditor must have access at all reasonable times to company books: s 310
+    - Auditor’s report to members: ss 308, 309: “true & fair view”
+    - Officers of company must assist auditors: s 312
+    - Duty to report misconduct / suspected breaches to ASIC: s 311
+    - Functions of audit committees, listed cos:
+      - see ASX Corporate Governance Principles, 4.1
+## Week 6: ASICs role in regulating companies, financial services and markets
+
+- The Australian financial services licensing regime 
+  - Outline
+    - The Australian financial services licensing regime 
+      - Background and approach to defining foundational terms 
+      - Obligations of Australian financial services licensees
+      - ASIC’s compliance-monitoring approach
+    - The corporate law enforcement pyramid 
+    - Financial market misconduct
+      - Continuous disclosure 
+      - Misleading or deceptive conduct 
+      - Insider trading 
+    - ASIC’s investigative and enforcement powers
+    - ASIC’s approach to enforcement 
+    - Reminder – www.moneysmart.gov.au www.moneysmart.gov.au/glossary 
+  - The Australian financial services licensing regime 
+    - 1997 – 1998 Wallis Financial System Inquiry 
+    - Financial Services Reform Act (2001) 🡪 Corporations Act (2001) Chapter 7 (Financial markets and services)
+    - A broad, over-arching licensing and consumer protection regime
+    - Financial products: s 763A
+    - 
+  - The Australian financial services licensing regime 
+    - Examples of what are ‘financial products’ – securities, most types of insurance contracts, superannuation policies, interests in managed investment schemes, derivatives, banking products  
+    - Examples of what are not ‘financial products’ – private health insurance, workers compensation and CTP insurance 
+      - In practice these definitions can be complex – see eg Kevin Lewis ‘When is a financial product not a ‘financial product’?’ (2004) 22 C&SLJ 103
+      - See next slide for an example 
+    - Financial services – the business of dealing in, or advising about financial products: s 766A
+    - If conducting a financial services business ‘in this jurisdiction' 🡪 need to apply to ASIC for an Australian Financial Services (AFS) Licence: s 911A; See also ASIC Regulatory Guide 36 (Licensing)
+    - AFS Licence application process: s 913A
+  - Example - When a person manages a financial risk: s 763C
+    - ‘A person manages financial risk if they: 
+      - (a) manage the financial consequences to them of particular circumstances happening; or 
+      - (b) avoid or limit the financial consequences of fluctuations in, or in the value of, receipts or costs (including prices and interest rates). 
+      - Note 1: Examples of actions that constitute managing a financial risk are: 
+        - (a) taking out insurance; or 
+        - (b) hedging a liability by acquiring a futures contract or entering into a currency swap. 
+      - Note 2: An example of an action that does not constitute managing a financial risk is employing a security firm (while that is a way of managing the risk that thefts will happen, it is not a way of managing the financial consequences if thefts do occur)’. 
+  - Obligations of AFS Licensees 
+    - s 912A - General obligations …
+      - Ensure financial services are provided efficiently, honestly and fairly
+      - Arrangements to manage conflicts of interest 🡪 See RG 181
+      - Comply with applicable laws 
+      - Maintain competence to provide financial services 
+      - Ensure all representatives are trained and competent 🡪 See RG 146
+      - If financial services provided to retail clients – dispute resolution and compensation arrangements 
+    - ASIC – Monitors compliance (eg pro-active surveillances, assessment of complaints) – and may investigative and take enforcement action in response to non-compliance 
+  - The corporate law enforcement pyramid  
+    - Criminal, Civil penalties, Civil litigation
+      - Administrative action (Banning orders; Infringement notices; Stop orders)
+        - Enforceable undertakings Warnings 
+  - Criminal prosecutions
+    - s 1311:  All contraventions of the Corporations Act 2001 may be an offence
+    - Schedule 3 – Lists specific penalties - otherwise 5 penalty units applies 
+    - s 1312: Higher penalties for companies compared to individuals
+    - Criminal Code Act 1995 (Cth) Ch 2 (General principles of criminal responsibility) assists in determining criminal liability: s 1308A
+    - ASIC may prosecute minor regulatory breaches ; More serious offences are referred to the Commonwealth DPP
+  - Civil penalty provisions
+    - Rationale for the introduction of civil penalty provisions
+    - Civil standard of proof
+    - When likely to be used
+    - s 1317E – Declaration of contravention of a designated civil penalty provision 
+    - s 1317J - Possible orders for the court:
+      - s 1317G: Pecuniary penalty order 
+      - s 1317H: Compensation order 
+      - s 206C: Disqualification order  
+    - Some other examples of civil penalty provisions – Competition and Consumer Act 2010; Fair Work Act 2009; Superannuation Industry (Supervision) Act 1993; Privacy Act 1988; Migration Act 1958
+  - Civil penalties flowchart
+    - 
+    - Is the provision a ‘corporation/ scheme civil provision' or a 'financial services civil penalV provision' (See $1317DA)7
+      - s206C disqualification only available for corporation/scheme provision;
+      - s1317HA compensation available for financial services provisions
+    - Is the CA provision listed in s 1317E 
+      - Yes: Court may make declaration of contravention (s 1317E). On application by ASIC (s 1317J)
+        - ASIC may apply for (s 1317)(1):
+          - Pecuniary penalty order (s1317G)
+          - Disqualification order (s 206C)
+          - Compensation order (s 1317H)
+        - Courts may apply for (s 1317)(2):
+          - Compensation order (s 1317H)
+      - No: The civil penalties regime does not apply
+        - 1.  Contractual or equitable remedies may be available to the company
+        - 2. Other Corporations Act provisions may be available. Eg: 
+          - a. Disclosure contravention (51041K)
+          - b. Fundraising contravention (Ch 6D)
+          - c. Statutory injunction (s 1324)
+          - d. Minority oppression for members (s232)
+  - Administrative actions 
+    - Disqualification orders – management of companies
+      - s 206F: For up to 5 years where liquidator reports suspected non-compliance by a person involved in two or more failed companies within a 7 year period
+    - Banning orders from providing financial services: s 920A
+    - Cancellation of Australian Financial Services Licence: s 915C
+    - ASIC Regulatory Guide 98 Licensing: Administrative action against financial services providers
+    - s 1317B: Subject to merits review by AAT – unless excluded (s1317C)
+    - Stop orders for prospectuses (s 739) 🡪 Tutorial 7
+    - Infringement notices: 
+      - ASIC Act 2001 Part 2: Unconscionable conduct and consumer protection in relation to financial services
+      - Corporations Act 2001 Part 9.4AA: Continuous disclosure 
+  - Enforceable Undertakings
+    - ASIC Act 2001 s 93AA
+    - An administrative settlement ASIC may accept as an alternative to civil court or administrative actions – eg:
+      - Improving compliance arrangements and/or independent expert review
+      - Correcting misleading statements to the market and/or consumers 
+      - Compensating investors and/or consumers
+    - ASIC Regulatory Guide 100 – see paras 100.24 – 100.25
+      - promotes the integrity of, and public confidence in, financial markets and corporate governance;  
+      - specifically deters the person from future instances of the conduct which gave rise to the undertaking; 
+      - promotes general deterrence in making the business community aware of the conduct and the consequences of engaging in that conduct; and/or 
+      - provides an ongoing benefit by way of improved compliance programs
+    - ASIC Enforceable Undertakings Register
+  - Continuous disclosure
+    - Listed entities – Must comply with the disclosure rules of the relevant financial market: s 674
+    - For ASX-listed entities 🡪 Listing Rules Chapter 3
+    - Compliance with the continuous disclosure regime is enforced by ASIC in cooperation with ASX 
+    - ASX Listing Rule 3.1 - General Rule – Immediate disclosure of material information:
+      - “Once an entity is or becomes aware of any information concerning it that a reasonable person would expect to have a material effect on the price or value of an entity’s securities, the entity must immediately tell ASX that information” 
+      - Material effect - If the information would influence the decision to acquire / dispose of the securities – s 677 🡪 Examples?
+    - ASX LR 3.1A    Exceptions to disclosure requirement   
+      - Breach of law 
+      - Incomplete proposal 
+      - Supposition or insufficiently definite 
+      - Internal management purpose 
+      - Trade secret; and
+      - the information is confidential and ASX has not formed the view that the information has ceased to be confidential (3.1A.2); and 
+      - and a reasonable person would not expect the information to be disclosed (3.1A.3). 
+    - ASX LR 3.1B – False market 
+    - Trading halts – up to 48 hours 🡪 After that: Suspensions 
+    - ASX Price Query and Aware Letters
+      - ASX Guidance Note 8 - Continuous Disclosure - Listing Rules 3.1 - 3.1B 
+  - Continuous disclosure: Consequences of non-compliance 
+    - Criminal offence – see s 678
+    - Civil penalties (‘knowledge, recklessness or negligence’) – s 674A 
+    - Previous examples of ASIC civil penalty proceedings:
+    - ASIC v Fortescue Metals Group Ltd [2011] FCAFC 19
+      - Disclosure of agreements with Chinese companies to construct mining infrastructure – were these binding?
+      - Not binding – hence announcements were misleading under s 1041H 🡪 So Fortescue obliged to correct these statements iaw s 674
+    - Forrest v ASIC [2012] HCA 39 
+      - Held the target audience was not misled; hence s 674 not engaged
+    - ASIC v Newcrest Mining Ltd [2014] FCA 698 - 
+      - Briefing of market analysts on Newcrest's expected capital expenditure for FY 2013–14 several days before disclosure 
+      - Newcrest consented to declarations; $1.2m pecuniary penalty imposed 
+    - Civil proceedings – eg shareholder class actions 🡪 Tutorial 12
+    - ASIC Infringement Notices: Part 9.4AA
+      - Hearing before ASIC delegate 
+      - Payment of Infringement Notice not an admission of guilt or liability; nor a contravention of s 674
+      - See ASIC Regulatory Guide 73: CD Infringement Notices 
+    - Eg: ASIC Media Release 12-53MR ‘Leighton Holdings complies with three ASIC infringement notices for alleged continuous disclosure breaches and ASIC accepts compliance enforceable undertaking’ (18 March 2012) 🡪 Disclosure of write downs $907m to its profit forecasts due to losses from three projects: 
+      - Brisbane Airport Link project; Victorian Desalination project; and investment in the Al Habtoor Leighton Group (Dubai)
+      - Enforceable undertaking – Engagement of independent consultant to review continuous disclosure procedures 
+  - Insider trading 
+    - s 1043A – Applies to trading (buying / selling) of ‘Division 3 financial products’ – eg securities, derivatives etc
+    - Inside information – information that
+      - Is not generally available 
+      - A reasonable person would expect to have a material effect on the price or value of an entity’s securities: s 1042A 
+    - If in possession of inside information – must not:
+      - Buy / sell the relevant Div 3 fin products; nor procure another to do so
+      - Communicate the information to another person with capacity to buy / sell  
+    - Defences – see s 1043M 
+    - Consequences – May include criminal prosecution or civil penalties 
+    - R v Rivkin [2003] NSWSC 447 – conviction of stockbroker for buying 50,000 Qantas shares – pending merger of airline
+    - R v Khoo [2013] NSWCCA 323 – communication about a proposed merger
+    - R V Rivkin
+      - McGowan was a CEO of an airlines company that was being bought out by Qantas. 
+      - McGowan wanted to buy a house from Rivkin on the basis that his company was bought by Qantas. 
+      - McGowan told Rivkin not to trade Qantas shares as he was an insider, Rivkin disregarded this and bought shares in Qantas and sold the shares after the  acquisition at a profit. 
+      - Rivkin was found to have breached s1043 (A).
+      - It was held that Rivkin was an insider because he possessed information that was not generally available. Moreover, had this information been generally available  then it might have had a material impact on the share price.  Information not generally available:
+    - R V Firns 
+      - Firn’s father was a director of a publicly listed company that was in business to  explore for gold in PNG. 
+      - The company won a legal case granting them a license to mine for gold in PNG, in  which the defendant was at the court hearing. 
+      - Immediately following this result, Firns bought a large parcel of shares in the  business. 
+      - The ASX was notified of the court decision 3 days later and thus the information was  made available on that day. 
+      - It was held that the judgement was readily available, understandable and accessible  to a significant number of the public. Information may be readily observable even if  no-one observed it. 
+    - Possession of information:
+      - Hannes V DPP
+        - Hannes was found to be an insider under S1042A of the insider trading provision. 
+        - Hannes was a director of an investment bank, and used a false identity to purchase options in a company prior to the announcement of an acquisition his bank had been  charged with to perform due diligence of the acquisition. 
+        - The court held that Hannes possessed “information” for the purposes of the insider  trading laws. Whilst he was not directly able to gain information. He drew  inferences, based on the conduct of his company that there was an impending takeover
+  - ASIC’s investigative powers
+    - ASIC Act 2001 – Sets out ASIC’s powers
+    - Part 3 investigations and information gathering
+      - s 13: May commence an investigation
+      - s 19: May conduct an examination; and require persons to provide all reasonable assistance with investigation
+      - ss 30 – 33: May serve notice to produce books 
+      - ss 39D – 39I: Application of Crimes Act search warrant provisions 
+    - s 5: “Books” includes registers; financial reports or records; documents and any other record of information 
+    - ASIC Information Sheet 145: ASIC’s compulsory information gathering powers
+  - ASIC’s approach to enforcement 
+    - ASIC Information Sheet 151
+    - How ASIC might identify misconduct  
+    - Assessment of the misconduct 
+      - Extent of harm or loss – how many consumers / investors affected
+      - Benefits of investigating the misconduct 
+      - Seriousness, and evidence, of the misconduct 
+    - Assessment of appropriate remedies
+      - Punitive action – eg imprisonment; financial penalties
+      - Protective action – eg disqualification and banning orders 
+      - Preservative action – eg injunctions; Proceeds of Crime Act 2002
+      - Corrective action – eg corrective advertising
+      - Compensation action
+      - Negotiated resolution – eg Enforceable Undertakings
+  - Examples of ASIC enforcement statistics
+  - 
+    - Over 1,200 SURVEILLANCES UNDERTAKEN IN 2017-18
+      - CRIMINAL ACTIONS
+        - 22 criminal convictions 
+        - 13 custodial sentences
+      - CIVIL ACTIONS 
+      - $42.2m in civil penalties
+    - BANNINGS, DISQUALIFICATIONS AND LICENCE CONDmONS
+      - 133 people/companies removed, restricted or banned from providing financial services or credit
+      - 50 people disqualified or removed from directing companies
+      - 62 actions taken against auditors and liquidators
+    - 124 INVESTIGATIONS COMPLETED IN 2017-18
+      - COURT ENFORCEABLE UNDERTAKINGS 
+        - 27 enforceable undertakings accepted
+      - COMPENSATION AND REMEDIATION
+        - $351 .6m in compensation or remediation for investors and financial consumers
+      - INFRINGEMENT NOTICES 
+        - 55 infringement notices issued total value of infringement notices
+      - INDUSTRY REPORTS 
+        - 45 industry reports published which promote changes in industry behaviour and inform government policy and law reform
+    - Source: ASIC 2017-2018 Annual Report, pp 37 – 39 “Key results - investor, consumer and markets performance objectives”
+    - See also: ASIC annual reports 
+## Week 7: Corporate Fund-raising
+
+- Corporate fund-raising
+  - Rationale and concepts
+    - Ch 6D: Provides a framework of enforceable rules for public companies to raise funds through issuing securities – by requiring the disclosure of information to enable investors to make decisions re whether to invest 
+    - Why companies raise funds through equity cf debt?
+    - Securities - s 92 – includes shares, derivatives (eg options and futures contracts
+    - See also Podcast 5 for definition of financial products
+    - Sets standards for disclosure documents
+    - Requires disclosure documents to be lodged with ASIC (7 day exposure period, extendable; ASIC Stop Orders)
+    - Liability and defences for defective disclosure 
+  - Offers requiring disclosure 
+    - ss 706 & 707: All securities offerings require statutory disclosure - unless exempted under s 708 or 708AA
+    - s 708: Offers not requiring disclosure - 21 sub-sections – but most commonly used are:
+      - Small scale offerings (“20/12/2” rule”): s 708(1) – (7) 
+        - 20 issues (not offers) of securities; $2m ceiling; 12 month period
+      - Sophisticated investors: s 708(8) 
+        - Min $500K investment; Or net assets > $2.5m, gross income for last 2 years > $250K                 
+      - Offers through licensed advisers (ie AFS licensee): s 708(10)
+        - Adviser must be satisfied investors have experience to make informed decision (eg risks); Need written acknowledgement from investors  
+      - Professional investors: ss 708(11)
+        - Trustees of super funds with > $10m; AFS licensees etc
+      - “Senior Managers” and their families: s 708(12)
+  - Types of disclosure documents
+    - Prospectus – Most commonly used 🡪 Liability considerations
+    - Short form prospectus - Allows company to rely on information already disclosed to ASIC – rather than including it in the prospectus – s 712
+    - Offer information statement – can be used for raisings of up to $10m; must use financial statements that are less than 6 months old: s 709(4); Must describe body’s business, use of funds, nature of risks; must state “not a prospectus”: s 715
+    - Profile statement - Shorter than a prospectus – may only be sent to investors with ASIC’s prior approval – s 721
+    - Also – Information memoranda – widely used for securities offers which are not regulated offers (eg offers to sophisticated / professional investors etc) 
+  - What information needs to be disclosed?
+    - General disclosure test – All information that investors and their professional advisors would reasonably require to make an informed assessment of - the rights of the security – and assets, liabilities, financial performance, profit, losses and prospects: s 710 
+    - Preparation of disclosure documents – Due diligence process – parties commonly involved 
+    - Specific disclosures - Interests / fees / benefits for directors and other specified parties involved / named in the prospectus: s 711
+  - Defective disclosure – Liability 
+    - s 726: Must not offer securities in a body that does not exist   
+    - s 727: Must not offer securities without current disclosure document   
+    - s 728: Misstatement in, or omission from, disclosure document 🡪 subs 728(2): Forecasts / forward-looking statements – “reasonable grounds”; subs 728(3): Offence if statement / omission / new matter “materially adverse”  
+    - s 729: Investors who suffer loss / damage resulting from breach of s 728 may recover $$ from: the Offeror; Directors; Persons named in disclosure document; Underwriters of the issue; Persons involved (see s 79) in the breach    
+    - s 730 - People liable on disclosure document must inform offeror re material mis-statements /  omissions / new circumstances 🡪 May need to prepare and lodge supplementary / replacement disclosure document with ASIC
+    - s 734 – Offences for advertising securities without disclosure document 
+  - Defective disclosure – Defences 
+    - s 731 - Due diligence defence for prospectuses 🡪 “made all inquiries that were reasonable in the circumstances” – and after doing so, believed on reasonable grounds statements were not misleading / deceptive; or that there were no omissions about the matter    
+    - s 732 - Lack of knowledge defence for offer information statements and profile statements   
+    - s 733 - General defences for all disclosure documents 
+      - Reasonable reliance on others: s 733(1)
+      - Withdrawal of consent by person named on disclosure document: s 733(3)
+      - Unawareness of new matter: s 733(4)
+  - Disclosure documents - ASIC’s role 
+    - Disclosure documents must be lodged with ASIC 
+    - Exposure period – 7 days (may be extended)
+    - ASIC – targeted review of disclosure documents 
+    - ASIC’s Stop Order powers – Interim and final: s 739 
+      - Intended for the protection of potential investors 
+      - ASIC’s s 739 power - commences once a disclosure document is lodged; and continues until it is no longer possible for any offers etc of the relevant securities to be made: Thompson v ASIC [2002] FCA 512
+    - ASIC Regulatory Guide 254 “Offering securities under a disclosure document”
+    - ASIC Regulatory Guide 170 “Prospective financial information” 
+  - ASIC v Maxwell and Others [2006] NSWSC 1052
+    - Significant investor losses from a series of illegal property investment schemes in NSW
+    - Between 2001 – 2003: Various companies within the ProCorp and Central Development Groups sought seed capital from investors for property development projects around NSW
+    - Newspaper advertisements - promised returns of around 30% per annum which were ‘secured and guaranteed’
+    - However most of these investments were unsecured loans
+    - ProCorp - collapsed in 2004 with $10.8m owing to 120 investors
+    - Central Developments - also failed with 32 investors losing $3.3m
+    - ASIC criminal, civil penalty and administrative actions against those involved 
+  - The people involved
+    - Mr Donald Maxwell - Promoted the schemes; key role in preparing advertising materials
+    - Mr Fortune Snr – Dir of one ProCorp company; but dominant role in the group
+    - Mr Fortune Jr (son) - Dir of most of the ProCorp companies 
+    - Mr Bennett – Non-exec Dir of several of the ProCorp companies 
+    - Mr Nahed - Dir of several ProCorp companies which breached Ch 6D fundraising provisions and engaged in misleading / deceptive conduct
+    - Mr Coakley – Financial planner - had held a Securities Dealers Licence under former Corporations Law, but did not hold AFS Licence 
+    - Key role in preparation and issue of ProCorp offer documents; signed declarations for other investors who he never met, certifying that they were experienced and could properly evaluate risks of the investments
+    - Mr Kolios; Mr Skaf; Mr Jammal - Officers of Central Development companies
+  -  The newspaper advertisements 
+    - Watch your MONEY GROW.
+    - 30 % per annum and NO FEES.
+    - It’s secured & it’s guaranteed.
+    - Belle Developments Group Pty Ltd an established 	Building Developer require additional funds for 	New 	Projects at HOMEBUSH, GOSFORD & LIVERPOOL.
+    - $50,000 minimum participation.
+    - Ideal for investors, superannuates and self funded 	retirees.
+    - Make a move. It’s first in first served.
+    - For free details phone DON on 02 9760 198 or 0418 	641 148 NOW.
+  - Statements in promotional brochures
+    - ‘Each project gives you a Guaranteed Return Percentage of 30% per annum and will be paid within 6 to 12 months before the projected completion date of the project or on completion of project, whichever comes first.
+    - Capital security is by a Second Mortgage/Caveat which is placed on the Developing Property along with all the Lenders names on it and is guaranteed by the Developing Company and Oceanwalk Projects Pty Ltd.
+    - An independent financial controller is appointed who reports to each 	group on a monthly basis (this is an accountant) so that investors are fully aware of all money movements in the project.
+    - The Independent Financial Controller and a representative of the investors are the signatories on the Development Companies cheque account’.
+  - The initial structure of the investments
+    - ‘Initially … investments took form of a loan and guarantee agreement - by which investor agreed to lend money to the particular Project Company carrying on the particular ProCorp Project, and the borrower company agreed to pay a “fixed fee” for the loan, generally between 30–40% per annum, and covenanted to repay so much of the principal sum and the fixed fee as remained outstanding at the termination date (which was defined as the earlier of the date of settlement of the sale of the subject property, or the expiry of 12 months from the date of the agreement). 
+    - At that stage of the evolution of the scheme, it was apparently envisaged [by the scheme promoters] that disclosure pursuant to Pt 6D.2 of the Corporations Act would not be required by reason of the exemption afforded by s 708(1) for personal offers, none of which would result in a breach of the 20 investors/$2m ceiling.’: [2006] NSWSC 1052 at [10]
+  - Changes from September 2002
+    - ‘In about September 2002, the structure of the investments was changed. … ProCorp Investments Pty Ltd (ProCorp) …  was established for the purpose of raising finance for the ProCorp Projects. 
+    - Investments thereafter were in the form of a loan agreement execution deed, which incorporated the terms contained in an information memorandum, by which the investor agreed to lend money to ProCorp on the basis that the moneys lent would be invested by ProCorp in a particular nominated ProCorp Project; ProCorp covenanted to repay the principal amount of the loan, or so much of it as remained unpaid, within 2 years of the date of the agreement, 3 months of completion of the specific project, or a nominated date, whichever was the earlier; ProCorp agreed to pay interest; and Oceanwalk guaranteed the obligations of ProCorp as borrower. 
+    - As well as applying to new loans, at least some of the existing loans to the separate Project Companies were re-documented into this form, and backdated’: 
+    - Purpose of these changes – to expand the scale of fundraising to take advantage of the s 708(10) exception – ie offer to experienced investors made through an AFS Licensee: [2006] NSWSC 1052 at [11] – [12]
+  - Did the scheme fall within the ambit of Part 6D.2? 
+    - ‘The terms of the loan agreements into which the investors entered with ProCorp (and previously with the Project Companies) included a covenant by the borrower company to repay the principal amount of the loan. That is an undertaking to repay as a debt money deposited with or lent to the borrower. 
+    - Accordingly, each loan agreement was a “debenture” within s 9, and a “security” for the purposes of Ch 7 of the Corporations Act and an offer to enter into such loan agreements was an offer of securities for the purposes of Pt 6D.2.
+    - It follows that, unless they fell within one of the exemptions afforded by s 708, offers to enter into the loan agreements required disclosure under Pt 6D.2’: [2006] NSWSC 1052 at [47]
+  - Was the s 708(10) exception available? 
+    - ‘Coakleys apparently issued some documents, called “statement of reasons”, in purported compliance with s 708(10)(c)’ … [also noting that whilst Coakleys had held a Securities Dealers Licence under former Corporations Law, but did not hold AFS Licence], noted that:  
+    - ‘Coakleys had not met most of the investors, nor investigated their financial circumstances. and they had no reasonable basis for being satisfied that those investors had previous experience sufficient to allow them to assess the merits of the offer, the value of the securities, the risks involved in accepting the offer, their own information needs, and the adequacy of the information given by the person making the offer’. 
+    - ‘The [AFS] licensee’s satisfaction on reasonable grounds of the matter referred to in s 708(10)(b) is a condition of the availability of the exemption, and requires that the licensee sufficiently investigate the experience of the investor to form the relevant opinion’: [2006] NSWSC 1052 at [49] – [50]
+  - The contraventions of s 727 
+    - ‘No disclosure of the type stipulated under Pt 6D.2 was made in connection with the ProCorp Scheme, and no disclosure document was lodged with ASIC. 
+    - It follows that each offer of a loan agreement by ProCorp was an offer of securities that needed disclosure to investors under Pt 6D.2 and needed a disclosure document; 
+    - No disclosure document for any such offer had been lodged with ASIC; it was a contravention of s 727(1) for a person to make such an offer it was a contravention of s 734(2) for a person to advertise any such offer or intended offer, or to publish a statement that directly or indirectly referred to the offer or intended offer, or was reasonably likely to induce people to apply for the loan agreements; and insofar as any offer on behalf of the separate Project Companies was exempted from disclosure under s 708(1), it was a contravention of s 734(1) for a person to advertise any such offer or intended offer. 
+    - Accordingly, by making each of the offers that resulted in a ProCorp Loan, ProCorp contravened s 727(1). 
+    - As there were at least 94 such loans, it would seem that there were at least 94 such contraventions’: [2006] NSWSC 1052 at [53] – [54]
+  - The various contraventions 
+    - Declarations of contraventions (see CPP provisions in s 1317E)
+    - Conducting a financial services business without AFS Licence: s 911A 
+    - Providing financial services without AFS Licence: s 911B 
+    - Offering securities without current disclosure document: s 727
+    - Advertising / publishing statements that directly or indirectly refer to an offer / intended offer of securities: s 734 
+    - Misleading / deceptive conduct in relation to financial products / services: s 1041H and s 12DA of ASIC Act 2001 
+    - Duty of care and diligence: s 180
+    - Duty of good faith and proper purpose: s 181
+  - Penalties imposed
+    - Mr Donald Maxwell: Permanently disqualified from managing corporations and providing financial services 
+    - Ordered to pay $936K compensation to liquidators of several companies within the ProCorp and Central Development groups 
+    - Pecuniary penalty order $110K 
+    - Also (separate proceeding) convicted of carrying on financial services business without AFSL – 12 months imprisonment
+    - Mr Coakley: Disqualified from managing corporations for 5 years 
+    - ASIC s 920A banning order (providing financial services) 4 years Affirmed in Coakley and ASIC [2008] AATA 247
+    - Other individuals: Disqualified from managing corporations for periods ranging from 3 to 7 years 🡪 See [2006] NSWSC 1052 at [150] (referring to ASIC v Adler [2002] NSWSC 483 at [56] – Santow J’s 15 factors – determining disqualification periods)
+    - Also – s 1324 injunctions – range of permanent restraining orders
+  - Crowd-sourced Funding 
+    - A financial service where start-ups and small businesses raise funds - from a large number of investors that invest small amounts of money
+    - Corporations Amendment (Crowd-sourced Funding) Act 2017 – took effect from 28 September 2017
+    - See Part 6D.3A (ss 738 – 738ZK)
+    - Unlisted public companies with less than $25m in assets and annual turnover - eligible to raise funds under the CSF regime Eligible companies will be able to make offers of ordinary shares to raise up to $5m in any 12-month period.
+    - Requirements for CSF intermediaries to hold an AFS Licence with authorisation to provide a crowd-funding service 
+    - https://asic.gov.au/regulatory-resources/financial-services/crowd-sourced-funding/ 
+## Week 8: Directors duties I - Corporate governance and introduction to directors duties
+
+- The evolution of Corporate Governance
+  - The evolution of Corporate Governance
+    - Until 1990s – litigation in relation to directors’ duties relatively uncommon
+    - Early attitudes?: "You go to a meeting once a month in a car supplied by the company. You look both grave and sage and on two occasions say 'I agree', say 'I don't think so' once, and if all goes well, you get £500 a year.
+    - If you have five of them [board seats], it is total heaven, like having a permanent hot bath” (British politician Lord Boothby in 1962
+    - Outcomes from significant business collapses
+    - Business collapses in late 1980s – eg Bond Corporation
+    - Collapse of Enron in 2001 – see eg The Smartest Guys in the Room
+    - Collapse of HIH Insurance in 2001
+      - – Corporate governance failures identified by HIH Royal Commission
+      - – “Corporate governance is the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled within corporations”: Justice Owen
+      - – Key outcome - ASX Corporate Governance Principles and Recommendations  a set of best practice guidelines
+  - The role of CG codes in regulating corporate conduct
+    - The structure of corporate governance
+  - ASX CG Principles and Recommendations
+    - ASX Corporate Governance Council Corporate Governance
+    - Principles and Recommendations (4th Edition, February 2019)
+    - Sets out 8 principles for ASX-listed entities to adopt
+      - – Lay solid foundations for management and oversight
+      - – Structure the board to be effective and add value
+      - – Instil a culture of acting lawfully, ethically and responsibly
+      - – Safeguard the integrity of corporate reports
+      - – Make timely and balanced disclosure
+      - – Respect the rights of security holders
+      - – Recognise and manage risk
+      - – Remunerate fairly and responsibly
+    - ASX-listed entities must either 
+      - (a) adopt these recommendations; or 
+      - (b) explain why they do not  “if not, why not?” approach (ASX Listing Rule 4.10
+  - ASX CG Principles and Recommendations
+    - Structure of the ASX CG Principles and Recommendations
+    - Each of the principles has several recommendations on measures for listed entities to adopt in order to adhere to these principles
+    - More detailed commentary on suggested measures is included under each recommendation
+    - Subject to review and updates every few years to respond to evolving market practices and societal expectations
+    - For example – Gender diversity on boards and in senior management; Financial risk management (post GFC); environmental and social governance (ESG) considerations
+    - Broader appeal of these guidelines beyond listed entities
+  - Other Corporate Governance codes and guidelines
+    - ACSI Governance Guidelines
+    - UK Corporate Governance Code
+    - European Corporate Governance Institute:
+      - https://www.ecgi.global/
+    - Corporate Governance codes by country:
+      - https://www.ecgi.global/publications/codes
+    - See also:
+      - Alice Klettner Corporate Governance Regulation: The changing roles and responsibilities of boards of directors (Routledge, 2017);
+      - Jean Jacques du Plessis, Anil Hargovan and Jason Harris Principles of Contemporary Corporate Governance 4th Edition (Cambridge University Press, 2018)
+  - Overview of directors and officers duties
+    - Directors' and officers' duties 
+      - Common law
+        - Fiduciary duty
+          - Duty to act in good faith
+            - Statute law 
+              - Duty to act in good faith and for a Proper Purpose (s 181)
+          - Duty to not misuse position or information
+            - Statute law
+              - Duty not to misuse position or Information (ss 182-183)
+          - Duty to avoid conflicts of interest
+            - Statute law
+              - Requirement to disclose certain interests (ss 191, 195, 205B-C, 205F)
+              - Related Party Transactions (Chapter 2E)
+        - Duty of care and diligence
+          - Statute law
+            - Duty to prevent insolvent trading (s 588G)
+            - Duty to act with reasonable care and diligence (s 180(1))
+              - Business Judgment Rule (s 180(2))
+  - Remedies for breaches of directors and officers duties
+    - By ASIC – regulatory considerations:
+      - Criminal prosecutions – see s 184
+      - Civil penalties – see Podcast 5 – Civil penalties flowchart
+      - Civil litigation
+      - See Podcast 5 – Corporate law enforcement pyramid
+    - Members – private considerations; common law and equitable remedies:
+      - Damages
+      - Account of profits
+      - Constructive trusts
+      - Injunctions (see s 1324)
+    - Also – enforcement by creditors in event of corporate insolvency
+    - See also s 185: ss 180 to 184 have effect in addition to, and not in derogation of, any rule of law in relation to the duty or liability of a person because of their office or employment in relation to corporation
+    - See also ss 199A and 199B – Restrictions on capacity of companies to indemnify or arrange insurance in relation to dishonest / wilful conduct
+## Week 9: Duty of care, skill and diligence and preventing insolvent trading
+
+- Development of the corporate duty of care
+  - Re Equitable Fire Insurance Co Ltd [1925] Ch 407
+    - Equitable Fire Ins Co – placed in liquidation due to losses arising from poor management (including stealing by MD) liquidator sued former directors for negligence – appeal dismissed – Romer J held a Director:
+      - “Need not exhibit in the performance of his duties a greater degree of skill than may reasonably be expected from a person of his knowledge and experience – (ie not liable for mere errors of judgment);
+    - Is not bound to give continuous attention to the affairs of his company; … duties are of an intermittent nature to be performed at periodical board meetings, and at meetings of any committee ... and though not bound to attend all such meetings he ought to attend them when reasonably able to do so; and
+    - In respect of all duties which, having regard to the exigencies of business and the [constitution] may properly be left to some other official, he is, in the absence of grounds for suspicion, justified in trusting that official to perform such duties honestly”
+  - AWA v Daniels (1992) 7 ACSR 759
+    - AWA’s foreign trader concealed losses on forex transactions ($50M)
+    - AWA – sued its lead auditor Daniels for failing to report the company’s deficient internal controls
+    - NSWSC – found auditors and exec dirs liable in negligence (but not NEDs)
+      - → failure to implement effective internal controls to monitor risks
+    - Nature of the directors’ obligations would change according to the size and complexity of the company involved
+      - → to be assessed objectively
+    - Imposed a lesser standard on AWA’s NEDs entitled to rely on advice of exec dirs and internal auditors
+  - Daniels v Anderson (1995) 37 NSWLR 438
+    - NSWCA – Upheld NSWSC decision; also made several key statements regarding directors’ duties - At 500 - 1:
+      - “A directors’ duty involves becoming familiar with the business of the company and how it is run - and ensuring that the board has available means to audit the management of the company so that it can satisfy itself that the company is being properly run”
+      - “the responsibilities of directors require that they take reasonable steps to place themselves in a position to guide and monitor the management of the company ... the board should meet as often as it deems necessary to carry out its functions properly”
+    - “The board should meet as often as it deems necessary to carry out its functions properly. The question is what in the particular case are the duties and responsibilities of the directors - and then what time is required of them as a board to carry out these duties and responsibilities It is not a matter of tailoring the extent of the duty or function to pre-fixed intervals between board meetings”
+    - “A person who accepts the office of director of a particular company undertakes the responsibility of ensuring that he or she understands the nature of the duty a director is called upon to perform. That duty will vary according to the size and business of the particular company and the experience or skills that the director held himself or herself out to have in support of appointment to the office” (at 505)
+  - Section 180(1) – Care and diligence civil obligation
+    - “(1) A dir. or other officer of a corporation must exercise their powers and discharge their duties with the degree of care and diligence that a reasonable person would exercise if they:
+      - (a) were a dir. or officer of a corporation in the corporation's circumstances; and
+      - (b) occupied the office held by, and had the same responsibilities within the corporation as, the dir. / officer”
+      - Must carefully - balance risks vs rewards - actively monitor company - Make reasonable inquiries
+    - s 180 – a civil penalty provision – see s 1317E
+  - Chair of the board: ASIC v Rich (2004) 50 ACSR 500
+    - ASIC sued several former dirs, incl Rich (exec dir), and Greaves (Chair) – very experienced NED and audit committee chair
+    - Greaves argued as an NED, his duties were lower than exec dirs 
+    - NSWSC held – Greaves’ NED status did not prevent him owing a duty of care to One.Tel Need to assess responsibilities objectively
+    - Greaves’ failure to keep himself informed of One.Tel’s financial position amounted to a breach of his duties ie he had a duty to keep informed of company’s financial situation
+    - Austin J – also recognised that Chairs may owe additional responsibilities above those of other directors due to their leadership role
+  - ASIC v Rich (2009) 75 ACSR 1
+    - Lengthy judgment - held ASIC failed to prove its case of insolvent trading and s 180 breach against One.Tel MD Rich
+    - However – Austin J explained the company’s “circumstances” in s 180(1)(a) requires an assessment of:
+      - Type of company – including if listed on financial market
+      - Size and nature of its business
+      - Terms of its constitution
+      - Composition of the board
+      - Distribution of work and responsibility between board and executives
+      - Whether or not company controlled by a parent company
+  - CFO: Vines v ASIC (2007) 73 NSWLR 451
+    - Vines – CFO of GIO – defending hostile takeover – responsible for financial contents of GIO’s target statement
+    - A GIO subsidiary was exposed to major reinsurance liabilities from a US hurricane varying estimates of its liabilities 
+    - GIO’s target statement – included profit forecasts
+    - ASIC – alleged Vines breached s 180(1) through failing to ensure updated, accurate information in target statement 
+    - NSWCA (2:1) – Upheld NSWSC decision – Held that a reasonable CFO in this position would have verified the hurricane liabilities – not simply relied on subordinates to provide him with regular updates as claims increased
+    - Illustrates the objective standard of care – which will depend on the position held by the director or officer
+  - ASIC v Healey (2011) 196 FCR 291
+    - Directors of Centro – mis-classified approx. $3 bn of debt as non-current – whereas it ought to have been classified as current debt (due for repayment within 12 months)
+    - Centro’s management had assumed debts would be able to be re-financed – however 2007 GFC made this very challenging
+    - Held – Directors breached s 180(1) and s 344 – failing to ensure the accuracy of Centro’s financial accounts before signing-off
+    - Whilst directors not expected to check all figures – the large amount of debt, and the accounting classifications, were known to the (experienced) directors → See in particular at [569]-[573] – Middleton J’s consideration of directors’ submission that ASIC had sought to extend their responsibility beyond reasonable financial literacy
+    - Not excusable that the information was too complex or voluminous Also directors unable to delegate their responsibilities to auditors / audit committee
+  - Co Sec: Shafron v ASIC (2012) 247 CLR 465
+    - In 2001 - James Hardie board approved an ASX release stating its asbestos compensation fund was “fully funded”
+    - ASIC – civil penalty proceedings against CEO (Macdonald), CFO (Morley), Shafron (Co Sec and Gen Counsel), and against NEDs alleged breach of s 180(1) – approving misleading ASX release NSWSC – imposed pecuniary penalties and disqualifications
+    - NSWCA – reduced some penalties
+    - HCA – held Shafron breached s 180(1) through failing to warn CEO and board of the flaws in JH’s liabilities funding model – which he had been involved in
+    - Also – Not sufficient for Shafron to leave financial matters wholly to CFO  as he was also aware of relevant information
+  - Balancing of economic and non-economic needs
+    - Cassimatis v Australian Securities and Investments Commission [2020] FCAFC 52
+      - The former directors of the collapsed financial services company Storm Financial Pty Ltd (Mr and Mrs Cassimatis) were found to have contravened s 180(1) and 912A(1) through their failure to ensure that financial advice provided to retail clients was not ‘appropriate’ within the meaning of s 945A of the Corporations Act as it then applied.
+      - 945A Requirement to have a reasonable basis for the advice
+      - (1) The providing entity must only provide the advice to the client if:
+        - (a) …
+        - (b) having regard to information obtained from the client in relation to those personal circumstances, the providing entity has given such consideration to, and conducted such investigation of, the subject matter of the advice as is reasonable in all of the circumstances; and
+        - (c) the advice is appropriate to the client, having regard to that consideration and investigation.
+      - Note: Failure to comply with this subsection is an offence (see subsection 1311(1)).
+      - Financially unsophisticated retail clients of Storm Financial were advised to take out risky margin loans (whereby they borrowed to invest in financial markets, often using their homes as security), which resulted in significant losses to several clients.
+      - As a result of these contraventions, Mr and Mrs Cassimatis were ordered to pay pecuniary penalty orders of $70,000 under s 1317G; and were also disqualified from managing corporations for seven years under s 206C.
+      - The appeal was dismissed by a majority of 2 to 1 with Rares J in dissent.
+      - A breach of the duty of care is based on the director’s or officer’s conduct in managing the company and does not depend on, nor is it a direct consequence of, the company breaching the law. The two issues are separate, and the court looks to the actions of the director and whether they have breached their duty.
+      - Greenwood J
+        - [45] Ultimately, the primary judge found that a reasonable director with the appellants’ responsibilities, and in Storm’s circumstances, would have realised that the application of Storm’s investment model to the 11 vulnerable investors, exhibiting the five characteristics earlier described, was “likely to involve inappropriate advice” such that a reasonable director with those responsibilities and in Storm’s circumstances, would have taken alleviating precautions to prevent the giving of that advice to those vulnerable investors in order to satisfy the degree of care and diligence required by s 180(1).
+      - See the discussion at [58]ff on the degree of control over Storm exercised by Mr and Mrs Cassimatis. 
+        - “... the evidence established that the appellants “had knowledge of and an extraordinary degree of control over every aspect of the Storm model and Storm’s operations including the day-to-day business of Storm even after the company had acquired more than 2,000 clients”: PJ at [113]. The primary judge also found that the control asserted over Storm by the appellants “was extensive to the point that it substantially stifled much possibility of dissent or contradiction, as they would have been aware” ([60])
+      - The primary judge then went on to identify eight separate matters relating to the extent of control exercised by Mr and Mrs Cassimatis.
+      - See Greenwood J at [22] to [31] for a consideration of s 180 and see the case at p 472 of Harris and Peters.
+      - Also see Federal Court confirms Storm Financial directors breached duties ASIC media release. 
+  - Business judgment rule – s 180(2)
+    - A dir. or other officer of a corporation who makes a bus. judgment is taken to meet the requirements of [s180(1)], and their equivalent duties at common law & in equity, in respect of the judgment if they:
+      - (a) make the judgment in good faith for a proper purpose; and
+      - (b) do not have a material personal interest in the subject matter of the judgment; and
+      - (c) inform themselves about the subject matter of the judgment to the extent they reasonably believe to be appropriate; and
+      - (d) rationally believe that the judgment is in the best interests of the corporation.
+    - The dir's or officer's belief that the judgment is in the best interests of the corporation is a rational one unless the belief is one that no reasonable person in their position would hold.
+  - Business judgment rule – s 180(2)
+    - (3) In this section: "business judgment" means any decision to take or not take action in respect of a matter relevant to the business operations of the corporation
+    - ASIC v Rich (2009) 75 ACSR 1 at [7248]-[7276] – whilst dismissing
+    - ASIC’s case, Austin J gave a detailed discussion on s 180 and BJR – for s 180(2)(c) “reasonableness” assessed according to:
+      - Importance of bus judgment to be made
+      - Time and costs available to obtain information
+      - Director’s confidence in those exploring the matter
+      - State of company’s business at the time and nature of competing demands on board’s attention
+      - Whether material information is available to director
+  - Reliance on information and advice
+    - If director relies on information, or professional or expert advice, given or prepared by:
+    - employees, professional advisers / experts; other directors / officers (or committees) - whom the director believes on reasonable grounds to be reliable and competent; and
+    - the reliance was made in good faith - and after making an independent assessment of the information or advice,
+    - the director's reliance on the information or advice is taken to be reasonable - unless the contrary is proved.
+    - See also ASIC v Adler [2002] NSWSC 171 at [372] per Santow J 15 principles applicable to ss 180 and 189
+  - Delegation – s 190
+    - s 190 – Whilst directors may delegate the exercise of certain powers – they remain responsible for actions of delegates
+    - s 190(2) – Defence where directors believed on reasonable ground at all times that the delegate would exercise the power
+      - on reasonable grounds
+      - in good faith
+      - after making proper inquiry if the circumstances indicated the need for inquiry;
+      - that the delegate was reliable and competent in relation to the power delegated
+    - See ASIC v Macdonald (No 11) (2006) 256 ALR 199 at [259] – [261] – significance of James Hardie’s ASX announcement
+  - Concepts: insolvency
+    - Equity vs Debt
+    - Section 95A: “
+      - (1) A person is solvent if, and only if, the person is able to pay all the person's debts, as and when they become due and payable. 
+      - (2) A person who is not solvent is insolvent”
+    - Critical issue – Company’s cash flow
+    - Three forms of cash flow
+      - Operating
+      - Financing
+      - Investing
+    - ASIC Regulatory Guide 217: Duty to prevent insolvent trading: A guide for directors Appendix “Indicators of insolvency”
+    - As company nears insolvency – Directors must consider creditors’ interests: Kinsela v Russell Kinsela Pty Ltd (in liq) (1986) 4 NSWLR 722
+  - ASIC v Plymin (No 1) (2003) 46 ACSR 126
+    - ASIC civil penalty action against directors of Water Wheel group of companies (rice and wheat milling)
+    - Elliott (NED), Plymin (MD), Harrison (Chair – admitted liability)
+    - Water Wheel – entered voluntary administration in Feb 2000
+    - In 1998 – Unable to pay debts; A supplier stopped supplying it
+    - Late 1999 – Major debt-funded purchases of stock, storage capacity and transportation costs
+    - Elliott – Argued as NED he was unable to prevent insolvent trading
+    - VSC held – as an NED, s 588G required him to take reasonable steps to prevent insolvent trading
+    - Plymin – 10 year ban, $25K fine; Elliott – 4 year ban, $15K fine
+    - VSC - listed several indicators of insolvency (now see ASIC RG 217)
+    - Appeal dismissed – Elliott v ASIC; Plymin v ASIC (2004) 48 ACRS 621
+  - Indicators of insolvency
+    - Lewis v Doran [2004] NSWSC 608 at [75] (Palmer J) and ASIC v Plymin [2003] VSC 123 at [386] (Mandie J).
+      - Continuing losses
+      - Liquidity ratios below 1
+      - Overdue taxes
+      - Inability to borrow further funds or to raise further capital
+      - Bank requests to reduce overdraft
+      - Changing supply terms to COD, or otherwise demanding special payments before resuming supply
+      - Failure to pay within trading terms
+      - Post dated or rounded sum cheques
+      - Dishonoured cheques
+      - Special arrangements with selected creditors
+      - Enforcement action taken by creditors
+      - Inability to produce timely and accurate financial information
+  - Section 588G – Liability for insolvent trading
+    - S 588G – Director's duty to prevent insolvent trading by company
+    - Was the person a Director at the time? (s 9AC)
+    - At that time was the company was insolvent? (s 95A) - were there “reasonable grounds” for suspecting insolvency?
+    - s 588G(2) - Breach if Director failed to prevent debt being incurred - if a “reasonable person” in that position would be aware of grounds for suspecting insolvency
+    - Consequences: s 588G(2) – Civil penalty provision (see s 1317E)
+    - s 588G(3) – Offence if director’s failure to prevent insolvent trading is dishonest
+    - Proceedings against director by company – s 588J-Q
+    - Proceedings against director by creditors – s 588R–U
+  - Section 588H - Defences
+    - s 588H(2) – Director had reasonable grounds to expect solvency and did expect solvency
+      - However – the mere expectation that company may be able to trade profitably in future not “reasonable grounds”: Fryer v Powell (2001) 37 ACSR 589 (history of trading losses, few assets of company whose MD and NED were sued by liquidator for insolvent trading
+    - s 588H(3) – Director relied on a competent person to provide adequate information about company’s solvency
+    - s 588H(4) - Absence from management due to illness or other good reason
+    - s 588H(5) - Reasonable steps to prevent incurring debt
+    - See also s 1317S – Relief from liability – civil penalty provisions
+  - Metropolitan Fire Systems PL v Miller (1997) 23 ACSR 699
+    - Millers – Directors of Raydar P/L – contracted to undertake electrical installations work UNSW lecture theatres
+    - When accepting this job – several unpaid creditors
+    - Unable to finish a major contract – so contracted with MFS
+    - When MFS completed work – Raydar could not pay MFS – as Raydar hadn’t yet been paid by project management co Reed Ltd – although Mr Miller assured payments were coming 
+    - However – payments from Reed to Raydar didn’t arrive before one of Raydar’s creditors issued a statutory demand
+    - MFS – Sought declaration that Millers breached s 588G
+    - Held: Raydar insolvent ($200K assets cf $400K liabilities) – and lack of $$ coming into business – despite large amounts owing from Reed
+    - Here – Millers had no “reasonable grounds” to suspect solvency
+  - Commonwealth Bank of Australia v Friedrich (1991) 5 ACRS 115
+    - John Friedrich – CEO of National Safety Council (Victoria)
+    - Mis-stated NSC’s financial accounts
+    - Obtained significant bank loans
+    - CBA sued NSC NEDs after Friedrich’s death; NSC Chair Eise didn’t settle
+    - Held: NSC’s dirs failed to actively monitor NSC’s fin position
+    - Mr Eise (in 70s, no fin literacy) –  breached s 588G – could not rely on Friedrich’s assurances
+  - DCT v Clark (2003) 45 ACSR 332
+    - Mrs Clark – director of family business with husband (who made decisions) 
+    - Liquidator of company – sought to recover a tax payment as an unfair preference payment
+    - NSWSC: Held Mrs Clark had a defence to s 588G under s 588H(4) – relying on husband and not taking part in managing the business: “I usually had a frying pan in one hand and signed with the other .”
+    - NSWCA: Upheld DCT’s appeal → Directors expected to actively monitor company’s business Cannot be a “sleeping director” who blindly relies on others
+- Overview of corporate insolvency
+  - What is insolvency?
+    - s95A Solvency and insolvency
+      - (1) A person is solvent if, and only if, the person is able to pay all the person's debts, as and when they become due and payable.
+      - (2) A person who is not solvent is insolvent.
+      - A debt does not include a claim for unliquidated damages:	
+        - – Box Valley P/L v Kidd [2006] NSWCA 26
+      - A company may be deemed insolvent for certain purposes (eg winding up, or insolvent trading):
+        - – See s459C (winding up); s588E (insolvent trading)
+      - If no deeming provision available, then use s95A
+  - Indicators of insolvency (these assist in establishing elements of s 95A)
+    - Lewis v Doran [2004] NSWSC 608 at [75] (Palmer J) and ASIC v Plymin [2003] VSC 123 at [386] (Mandie J):
+      - Continuing losses
+      - Liquidity ratios below 1
+      - Overdue taxes
+      - Inability to borrow further funds or to raise further capital
+      - Bank requests to reduce overdraft
+      - Changing supply terms to COD, or otherwise demanding special
+      - payments before resuming supply
+      - Failure to pay within trading terms
+      - Post dated or rounded sum cheques
+      - Dishonoured cheques
+      - Special arrangements with selected creditors
+      - Enforcement action taken by creditors
+      - Inability to produce timely and accurate financial information 3
+  - Forms of insolvency appointments
+    - Liquidation
+      - Winding up the company and making payments to creditors
+    - Voluntary administration
+      - Trying to save the company’s business or provide >$ than liquidation
+    - Schemes of arrangement
+      - Restructuring a company’s debts (doesn’t have to be insolvent)
+    - Receivership
+      - Usually protecting secured assets for the benefit of secured creditor
+    - It is possible to have overlapping appointments
+  - Liquidation overview
+    - May be commenced by court order, by ASIC order or by resolution of members (for MVL) and creditors (for CVL)
+    - Application for court winding up usually because of deemed insolvency using a statutory demand
+    - Liquidation stays court actions (s 471B, but does not prevent sec cred s471C)
+    - Liquidator must act in the interests of all creditors
+    - Liquidators have power to sue in the co name, including against former dir (s477)
+    - Liquidators can bring voidable transaction proceedings Pt 5.7B, including for insolvent trading
+    - Liquidators can pool corporate groups in liquidation Pt 5.6 Div 8
+    - Liquidator can put co into VA (s 436B)
+    - Goal of liquidation is to sell all assets and repay unsecured creditors
+    - Payment to secured creditors subject to employee entitlements (s561)
+    - Vesting of unperfected security interests on liquidation (PPSA s267) or for late registrations without court extension (s 588FL)
+    - Liquidation may be suspended or terminated by court order s482
+  - Voluntary administration
+    - Voluntary administration (Corps Act Pt 5.3A) commenced by directors, liquidator or major secured creditor
+    - There is a stay against claims against the co, its property, or property used by the co during VA-ss440B, D
+    - Administrator has full management powers (s437A) and can replace dir (s442A)
+    - Administrator can sell any/all assets-liability for debts incurred ss443A,B
+    - VA involves 2 creditor meetings, including meeting to decide co future
+    - Secured creditors may attend and vote on a show of hands, but not on a poll without waiving their security interest
+    - Unperfected security interest vests on VA (PPSA s 267)
+    - Secured creditor with perfected security interest over the whole or substantially the whole of the co property may take enforcement actions (s441A)
+      - Any perfected secured creditor may take action before appointment
+    - Court may limit powers of secured party (ss441D, 444F)
+    - Usual outcome of VA is either CVL or DOCA
+    - Court has extensive powers to vary Pt 5.3A under s447A
+  - Schemes of arrangement
+    - Schemes of arrangement may be entered into between a company and its creditors, or a class of creditors
+    - The scheme must constitute a ‘compromise or arrangement’ (s411(1))
+      - Some degree of give and take must be present
+    - The scheme involves gaining court permission to convene a creditors meeting and distribute an explanatory statement
+    - There is no moratorium pending the convening of the meeting
+    - Creditors may need to be put into separate classes for voting
+    - If approved (majority in number and 75% in value of debts of creditors at the meeting or voting by proxy) the scheme must then be approved by the court (s411(4))-binding effect only comes after court approval
+    - Schemes can vary the pari passu rule, alter statutory priority payments and bind rights of creditors against third parties (provided there is a nexus with the company’s debts and the purpose of the scheme)
+    - Used relatively infrequently, but may be used to bind secured creditors, including amending loan documents (Centro, Nine Entertainment, Alinta)
+  - Receivership
+    - May be either privately appointed (by a secured creditor) or appointed by the court
+    - Power to appoint, and powers of receiver, provided in security agreement
+    - Further powers given under Corps Act s420
+    - Duties upon exercise of the power of sale s420A
+    - Receivers are officers of the company, but primary duty is to appointing creditor (for private appointments)
+    - Receivers usually have management power and can sell assets (including the whole business)
+    - Proceeds from sales covered by circulating security interests are subject to employee statutory entitlements (s433)
+    - There is no stay or moratorium during receivership
+      - Overlapping appointments with voluntary administration more common
+    - Receivers have personal liability for debts they incur during receivership ss 419, 419A
+  - Overlapping appointments
+    - Voluntary administrator and receiver
+      - Receiver will have control of the secured assets, and most likely the management of the business (receiver and manager)
+      - Voluntary administrator is still required to complete process
+      - Administrator may be able to dispose of collateral in the ordinary course of business (ss442B, C), but not if receiver already in place (s442D)
+      - Becoming more common for VA to be used to facilitate receiver sale
+    - Liquidator and receiver
+      - Receiver takes control of the secured assets and possibly management of bus
+      - Liquidator still required to complete process and report
+      - Liquidator may take action to recover voidable transactions
+      - These will be distributed to unsecured creditors (not property of co-not subject to sec)
+    - Voluntary administrator and liquidator
+      - No liq during VA unless court approves (s440A)
+      - Pre-VA liquidation suspended till end of VA
+## Week 10: Good Faith and Proper Purpose and Overview of corporate control transactions
+
+- Good faith and proper purpose; Overview of corporate control transactions
+  - The background to many cases in this area…
+    - Shares – A form of personal property - Can provide the right to profits  can also enable persons to gain control of companies
+    - Powers of directors to issue shares; also cancellation of shares
+    - Takeovers – Bidder and Target companies
+    - Rationale for takeovers
+      - – Perspectives of target – Board cf Shareholders
+    - Hostile vs Friendly
+    - Many foundational cases in this area resulted from disputes about takeovers
+    - Now governed by Ch 6 of the Corporations Act
+  - Section 181
+    - “(1) A director or other officer of a corporation must exercise their powers and discharge their duties:
+      - (a) in good faith in the best interests of the corporation; and
+      - (b) for a proper purpose.”
+    - (2) A person who is involved in a contravention of subs (1) contravenes this subsection
+      - Corporations Act s 79 – definition of “involved”
+      - ASIC v Somerville (2009) NSWSC – Solicitors who assisted directors to set up “phoenix” companies – were involved in the breach of s 181(1) by the directors
+  - Section 181 cases
+    - s 180 cases – More commonly involve defective decision-making processes
+    - s 181 cases – More commonly involve a single major decision – for example
+      - – Decisions to issue shares to manipulate voting power;
+      - – Advancing the interests of persons other than the company’s  ie acting with ulterior motives
+      - – Frustrating a takeover offer
+      - – Prejudicing the interests of creditors when company approaching insolvency
+    - But – s 180 and s 181 can also arise from the same conduct ....
+  - A hypothetical example…
+    - Roger – CEO of XYZ Ltd (major Australian investment company) presents a proposal to the board for XYZ to purchase ABC Pty Ltd
+    - Roger does not tell XYZ’s board that:
+      - – His cousin Sue is the major shareholder of ABC
+      - – ABC Financial is currently under investigation by authorities
+    - Roger also convinces XYZ’s directors to buy ABC for almost double the company’s market value
+      - Here, Roger has not acted in good faith (ie honestly) and a for proper purpose (ie to benefit XYZ): s 181 breach
+    - XYZ’s directors follow Roger’s recommendations without further investigation and agree to purchase ABC at the price recommended by Roger -> s 180(1) breach; s 180(2) business judgment rule not available
+  - Approaching corporate law problems
+    - What is the issue?
+    - How has the issue arisen?
+    - Who are the relevant people?
+    - What have the relevant people done / not done?
+    - What should the relevant people have done / not done?
+    - Are there any defences / mitigating factors?
+    - What consequences could result?
+  - To whom are directors’ and officers’ duties owed?
+    - To “the company as a whole”
+    - Not to individual shareholders: Percival v Wright [1902] 2 Ch 421; Coleman v Myers [1977] 2 NZLR 225; Brunninghausen v Glavanics [1999] NSWCA 199
+    - Not to potential investors: ASIC v Maxwell [2006] NSWCA 1052
+    - Not to employees: Parke v Daily News [1962] Ch 927
+    - But – as company approaches insolvency  duty to consider creditor interests: Kinsela v Russell Kinsela Pty Ltd (in liq) (1986) 4 NSWLR 722
+  - Proper purpose – The “but for” test
+    - Mills v Mills [1938] HCA 4 – Board approved bonus shares to ordinary shareholders – increasing voting power of the MD (providing the dividend distribution to be by way of bonus shares – in lieu of $$)
+    - Minority director – argued the majority directors did not act bona fide in the best interests of company
+    - HCA held: Conduct will not be invalidated merely because directors obtain a benefit  (recognised it is natural for directors to have an interest in the success of company)  -> Provided – directors act fairly between the different classes of shareholders 
+    - Court must consider: If there are several purposes behind an impugned act - Would the directors have still acted in the way they did “but for” the improper purpose (ie if it didn’t exist)  Was there a legitimate commercial purpose for the action?
+  - Proper purpose
+    - Harlowe’s Nominees Pty Ltd v Woodside (Lake Entrance) Oil Co NL [1968] HCA 37
+    - Woodside’s directors acted for proper purpose in issuing shares to a JV partner – Decision challenged by a substantial shareholder
+    - “.. Although primarily the power is given to enable capital to be raised when required for the purposes of the company, there may be occasions when the directors may fairly and properly issue shares for other reasons - so long as those reasons relate to a purpose of benefiting the company as a whole, as distinguished from a purpose, for example, of maintaining control of the company in the hands of the directors themselves or their friends”: at 493
+  - Teck Corporation Ltd v Millar (1972) 33 DLR (3d) 288
+    - Supreme Court of British Columbia
+    - Held that directors of Afton junior mining co (seeking JV with a major miner) acted for a proper purpose when issuing shares during a takeover contest
+    - Afton: Competing offers from (1) Teck Corp (had acquired a major shareholding in Afton on-market; wanted board seat) and (2) Canex (Afton’s dirs – decided this to be of better value for Afton)
+    - After Teck’s share purchase – Afton agreed that Canex would 
+      - – Take over the operation of Afton’s mining operations; and
+      - – Receive 30% of Afton’s shares at a lower price than shares to Teck Corp
+    - This agreement – Had effect of frustrating Teck Corp’s takeover
+    - Held: Afton’s directors had not breached their duties  They were entitled to take account of a variety of factors in determining what was in the best interests of the company
+    - Conduct which frustrates a takeover will not of itself be improper  Need to show some evidence of bad faith / improper purpose
+  - Improper purpose: Ngurli Ltd v McCann [1953] HCA 39
+    - Estate of Clifford Southcott  - Lead co Ngurli; Executor McCann
+    - Governing dir’s share held by Clifford’s brother Horace – and 60 ordinary shares held by Southcott’s sister and her daughter  
+    - Under Clifford’s will - Horace took governing shares with “super voting” (4x) powers, and power to manage company -> But only for the administration of Clifford’s estate -> Thereafter - each governing share would convert to an ordinary share -> so Clifford’s sister & other relatives would then control Ngurli companies (as they had >> ordinary shares) 
+    - Horace – Used his governing shares to issue further shares to executor as payment for the Ngurli companies’ debts – based on the understanding that he would then purchase back the shares -> and control of Ngurli et al 
+    - Clifford’s sister – Challenged Horace’s actions – improper, ulterior purpose
+    - HCA held – She had the right to rectify the share registers of the Ngurli companies to remove shares invalidly issued by Horace 
+    - Horace’s power to issue shares in Ngurli – Was exercised for improper purpose
+  - Improper purpose: Howard Smith Ltd v Ampol Petroleum [1974] AC 821
+    - Issuing shares to assist with a takeover – was an improper purpose
+    - Howard Smith Ltd and Ampol Ltd – both competing for Miller Ltd 
+    - Ampol Ltd (and associates) owned 55% of shares in Miller
+    - Directors of Miller – wanted to attract a higher bidder -> So issued shares to HS on the proviso that HS would offer more $$ for Miller than Ampol -> This share issue diluted Miller’s share capital – so Ampol’s 55% shareholding would have less voting power) -> This would make HS’s bid >> likely to succeed 
+    - Ampol – Challenged Miller’s share issue - made for an improper purpose
+    - UKPC – Held Miller’s directors were acting for an improper purpose in issuing the shares to HS – seeking to frustrate Ampol’s hostile takeover – Enunciated a two-step test: 
+    - What was the nature of the power? (Here, to issue shares to raise $$) 
+    - Consider the substantial purpose for which the power was exercised -> and then reach a conclusion regarding whether that purpose was (a) proper or (b) improper
+  - Improper purpose: Whitehouse v Carlton Hotel Pty Ltd [1987] HCA 11
+    - Mr Whitehouse – “Governing” director of family company 
+    - Three classes of shares – Class A (held by Mr W. - unrestricted voting powers); Class B (held by Mrs W. – only permitted voting after Mr W. died); and Class C (held by the children – provided only profit sharing, no voting rights)
+    - After divorce – Mr W. issued Class B shares to his two sons (who sided with him, while daughters sided with Mrs W.), to ensure his sons maintained control over company once he died
+    - Mr W. – then fell out with both sons – passed board resolution to amend the share register to remove the Class B shares 
+    - Sons – Successfully sought rectification of the share register
+    - HCA held – Mr W. had acted for an improper purpose in issuing the shares -> manipulating voting power of company  
+  - s 187 - Directors of wholly-owned subsidiaries
+    - “A director of a corporation that is a wholly-owned subsidiary of a body corporate is taken to act in good faith in the best interests of the subsidiary if: 
+    -  (a)  the constitution of the subsidiary expressly authorises the director to act in the best interests of the holding company; and 
+    - (b)  the director acts in good faith in the best interests of the holding company; and 
+    - (c)  the subsidiary is not insolvent at the time the director acts and does not become insolvent because of the director's act.”
+    - Directors of a subsidiary within a corporate group are obliged to consider the interests of their particular company – rather than sacrificing these interests in favour of the broader corporate group: Walker v Wimborne [1976] HCA 7
+  - Interests of company’s creditors
+    - Kinsela v Russell Kinsela Pty Ltd (in liq) (1986) 4 NSWLR 722 As a company enters insolvency – the primary focus of directors’ and officers’ duties transforms from shareholders to creditors
+    - In that case – the directors of a family funeral business breached their duties to the company by entering into an uncommercial transaction when the company was approaching insolvency   signing a lease with a closely related company on terms much lower than the prevailing market rate
+    - Spies v R [2000] HCA 43 
+    - Directors owe their duties to the company
+    - (Outside of insolvency situations) – Directors do not owe fiduciary duties directly to creditors
+    - See also Westpac Banking Corp v Bell Group (in liq) (No 3) (2012) 89 ACSR 1; (2012) WASCA 157 – increasing tendency of courts to intervene to protect creditors’ interests
+  - Remedies for breaches
+    - By ASIC – regulatory considerations:
+      - Criminal prosecutions – see s 184  
+      - Civil penalties – see Podcast 5 – Civil penalties flowchart   
+      - Civil litigation 
+      - See Podcast 5 – Corporate law enforcement pyramid
+    - Members – private considerations; common law and equitable remedies: 
+      - Damages 
+      - Account of profits
+      - Constructive trusts
+      - Injunctions (see s 1324)
+    - See also s 185: ss 180 to 184 have effect in addition to, and not in derogation of, any rule of law in relation to the duty or liability of a person because of their office or employment in relation to corporation
+  - Overview of corporate control transactions
+    - Substantial shareholding disclosure requirements
+    - s 606 – Acquisitions of >> 20% of shares  must make takeover bid
+    - See also ASC RG 5 Relevant interests and substantial holding notices 
+    - Takeovers – Corporations Act 2001 Ch 6 – s 602 Purpose of Ch 6
+    - To ensure the acquisition of control of listed companies takes place in an efficient, competitive and informed market where shareholders:
+      - Know the identity of the bidder 
+      - Have a reasonable time to consider the proposal 
+      - Are given enough information to consider the merits of the proposal 
+      - Have equal opportunity to participate in benefits accruing in scheme 
+    - Bidder and Target Statements 
+    - Disclosure requirements – eg beneficial ownership
+    - Approval requirements; Compulsory acqusitions
+    - Takeovers Panel – Peer review body which nowadays determines most takeover disputes: www.takeovers.gov.au 
+  - Overview of corporate control transactions
+    - Also – Schemes of Arrangement – s 411
+    - Can be used to facilitate complex restructurings of equity and/or debt capital 
+    - First court hearings – to order convening of meeting of members or creditors 
+    - Meeting – Approval by majority in number and 75% in value
+    - ASIC statement of no objection 
+    - Second court hearing – to approve the scheme 
+    - See ASIC Regulatory Guide 60 Schemes of Arrangement
+    - See also: www.asic.gov.au/regulatory-resources/takeovers/
+- Managing conflicts of interest
+  - Outline
+    - Early cases – Misuse of information and position
+    - s 182 – Misuse of position 
+    - s 183 – Misuse of information 
+    - s 184 - Good faith, use of position and use of information - criminal offences
+    - Managing conflicts of interest 
+      - s 191, 193, 195, 194
+      - Disclosure; Abstaining from voting; Resigning
+    - Related party transactions – Ch 2E (Public companies)
+  - Conflicts of interest
+    - Directors and officers as fiduciaries – obligations to promote and protect company’s interests, asserts, information and opportunities 
+    - Depending on company’s constitution etc – might also be able to carry on private activities / investments – provided they first present opportunity to company – and then gain informed consent of company 
+    - Common remedies company (or members) may pursue for misuse of corporate information / assets – Account of profits; Constructive trust; Injunctions 
+  - Account of profits 
+    - Boardman v Phipps [1967] 2 AC 46  
+      - A trustee under a will and the trust’s solicitor misused their positions to obtain shares in a company in which the trust also held shares 
+      - They re-structured the business to generate a significant dividend to shareholders (including the trust and themselves) 
+      - The trustee and solicitor were held liable to account for the private benefit 🡪 Despite the fact the other trustees could not have produced the same benefit if not for the investment by the trustee and solicitor 
+    - Green v Bestobell Industries Pty Ltd [1982] WAR 1
+      - Green – a senior manager of construction company Bestobell – misused his knowledge of the tendering process (eg profit margins on construction materials etc) to set up a competing business through his personal company Clara Pty Ltd 
+      - Clara Pty Ltd - successfully tendered for construction work 🡪 this opportunity was diverted from Bestobell 
+      - Green - liable to account to Bestobell for the profits Clara obtained 
+  - Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134 (1)
+    - Regal Ltd – operated a cinema in England - 20 shareholders 
+    - Regal – was negotiating purchase of two competing cinemas – established a subsidiary (Hastings Amalgamated Cinemas Ltd) to undertake the purchase 
+    - Hastings – only had a small amount of capital 
+    - Board of Hastings Amalgamated – Regal directors and Regal’s solicitor
+    - The landlord who owned the land where the other two cinemas were located – demanded that Hastings be fully capitalised 🡪 ie able to pay its debts – to the value of $5K 
+    - Regal – could only provide $2K of the $5K share capital held by Regal’s subsidiary Hastings 🡪 Planned to offer remaining shares to public and eventually sell the business (both parent Regal and subsidiary Hastings)
+    - Due to concerns by lessors of cinemas that were to be purchased by Hastings – Regal’s directors provisionally agreed to guarantee rent owed by the cinemas in case Hastings didn’t have sufficient revenue to pay rent on ongoing basis
+    - Planned sale of company failed – one director expressed concerns about the guarantees for Hastings’ rent … 
+    - Revised plan – Regal’s directors and solicitor would buy remaining shares in Hastings to ensure it was fully capitalised
+    - Regal’s Chairman Mr Gulliver – arranged for a friend to purchase shares for him
+    - Soon afterwards – a shareholder of Regal offered to buy the shares of Regal – as well as the shares in Hastings that were not owned by Regal 
+    - The directors’ shares in Hastings – Sold for more than triple their issue price
+    - So – Regal’s directors made significant profits on their investment in Hastings 
+    - Following takeover of Regal 🡪 New directors appointed – they caused Regal to take legal action against former directors for obtaining private profits from their fiduciary positions
+    - Held: Regal’s directors had misused their positions 🡪 Liable to account for the profits they made in selling shares in the subsidiary Hastings 
+    - UKHL noted – The former directors of Regal – might have obtained the fully informed consent of the company 🡪 ie at a General Meeting of members  
+    - Consider nowadays – Related party transactions regime – Ch 2E
+  - Cook v Deeks [1916] 1 AC 554
+    - Cook – minority shareholder in Toronto Construction Co – with Deeks and Hinds 
+    - Toronto – completed work for Canadian Pacific Railway line 
+    - After railway completed - relationship between Cook and Deeks / Hinds soured 
+    - After JV partner withdrew - Deeks and Hinds – negotiated a tender contract for the extension of the railway line – but not in the name of Toronto – but in the new Dominion Construction Co which excluded Cook 
+    - After securing extension contract, and completing the work (with a major profit) – a members meeting was held – Deeks and Hinds voted to approve their conduct as directors – and resolved Toronto had no interest in the new project 
+    - Deeks and Hinds – also passed a resolution authorising themselves to defend the legal action which Cook had brought against them
+    - Held – Deeks and Hinds had breached their fiduciary duties by securing the benefit of the extension contract for their new enterprise 🡪 that benefit properly belonged to the Toronto Construction Co  
+    - Directors cannot exercise their powers to secure a corporate benefit for themselves – AND - Directors who are majority shareholders may not be able to simply approve their own breach of duty
+  - Industrial Development Consultants Ltd v Cooley [1972] 2 All ER 162 
+    - Cooley – Architect with extensive experience in building gas installations  
+    - Industrial Development Consultants (IDC) - had previously expressed interest in undertaking work for Eastern Gas Board – but had been unsuccessful – Gas Board didn’t approve of IDC’s structure 
+    - IDC - recruited Cooley as MD due to his experience
+    - Gas Board – Approached Cooley – offered him role of project manager for installation of gas terminals – same project IDC had tendered for (Gas Board still didn’t want to deal with IDC)
+    - IDC – Advised Cooley he required their permission to undertake this work 
+    - Cooley – After lying about health – resigned to take up offer from Gas Board 
+    - Held: Cooley’s fiduciary obligations did not cease as soon as he resigned 
+    - Cooley – still had duty to disclose the offer from Gas Board 🡪 Also liable to account to IDC for the benefit he received from Gas Board 
+    - Resigning – will not automatically prevent a breach of fiduciary duty
+  - Streeter v Western Areas Exploration PL [2011] WASCA 17 
+    - Streeter and Cooper (wealthy WA mining investors - start-up mining companies) – Director and also major shareholder & creditor of WAE – presented a business opportunity to a group of mining engineers – who had been introduced to him by WAE’s Chairman 
+    - Streeter – proposed to use WAE as a vehicle for listing on ASX – together with the assets held by the engineers – however engineers refused the proposal 
+    - However – Engineers later made a counter-offer re a potential investment to Streeter 
+    - Streeter – agreed to the proposal and invested significant $$$ 
+    - Under this proposal – the engineers suggested the deal include WAE’s sole asset (a gold mining tenement) as this had been part of the original proposal put to Streeter – and the engineers wanted to make deal attractive to Streeter
+    - Streeter – caused WAE to sell its asset to the new company 🡪 Under this deal WAE received shares in the new company at fair value
+    - Held 2:1 – Streeter was not liable to account to WAE - As the offer had been made to him in his private capacity – not as director of WAE
+    - At [69] 🡪 Emphasised need for disclosure and fully-informed consent 
+  - Peso Silver Mines Ltd v Cropper (1968) 58 DLR (2d)
+    - Cropper – MD of Peso Silver Mines – which had mining interests in north-west Canada
+    - Peso – frequently received investment proposals 
+    - Peso – considered one proposal from a Dickson, a prospector who also held an interest in the Mayo area – but Peso rejected this 
+    - After this rejection – a geologist from Dickson contacted Cropper – suggested they form a syndicate to pursue the opportunity by acquiring Dickson’s interests
+    - Several years later – when Peso had been taken over by other owners – and when this new venture was a success  
+    - Peso (unsuccessfully) sought an account of profits from Cropper – breach of fiduciary obligations – and terminated his employment 
+    - Held – Cropper not liable to account to Peso 🡪 he pursued the investment in his personal capacity (and with own resources) - not in his capacity as Peso MD
+  - Sections 182 and 183
+    - s 182 - Use of position--directors, other officers and employees 
+      - (1)  A director, secretary, other officer or employee of a corporation must not improperly use their position to: 
+        - (a)  gain an advantage for themselves or someone else; or 
+        - (b)  cause detriment to the corporation. 
+    - s 183 - Use of information--directors, other officers and employees 
+      - (1)  A person who obtains information because they are, or have been, a director or other officer or employee of a corporation must not improperly use the information to: 
+        - (a)  gain an advantage for themselves or someone else; or 
+        - (b)  cause detriment to the corporation. 
+      - Note 1: This duty continues after the person stops being an officer or employee of the corporation
+        - Both sections – Civil / Civil penalty; s 79 Involved
+  - Scenario - s 182 or s 183? 
+    - XYZ Ltd is looking to replace its office computer systems
+    - The board decides to undertake a public tender process 
+    - The board meets and decides XYZ’s budget to be $5M
+    - The request for tenders is advertised
+    - The Executive Assistant to the MD helped the company secretary to prepare the documents for the board meeting – mentions the $5 million budget to uncle Roger who owns an IT company 
+    - Roger structures his tender response to be under $5M
+    - Is this a s 182 or s 183 breach? 
+    - How might the outcome differ if the CEO convinced board to contract with uncle Roger? 
+  - Section 184(1)
+    - (1)  A director or other officer of a corporation commits an offence if they: 
+      - (a)  are reckless; or 
+      - (b)  are intentionally dishonest; and fail to exercise their powers and discharge their duties: 
+      - (c)  in good faith in the best interests of the corporation; or 
+      - (d)  for a proper purpose. 
+      - …. 
+  - Section 184(2) and (3)
+    - Use of position--directors, other officers and employees 
+      - (2)  A director, other officer or employee of a corporation commits an offence if they use their position dishonestly: 
+        - (a)  with the intention of directly or indirectly gaining an advantage for themselves, or someone else, or causing detriment to the corporation; or 
+        - (b)  recklessly as to whether the use may result in themselves or someone else directly or indirectly gaining an advantage, or in causing detriment to the corporation. 
+    - Use of information--directors, other officers and employees 
+      - (3)  A person who obtains information because they are, or have been, a director or other officer or employee of a corporation commits an offence if they use the information dishonestly: 
+        - (a)  with the intention of directly or indirectly gaining an advantage for themselves, or someone else, or causing detriment to the corporation; or 
+        - (b)  recklessly as to whether the use may result in themselves or someone else directly or indirectly gaining an advantage, or in causing detriment to the corporation. 
+  - R v Byrnes & Hopwood (1995) 17 ACSR 551
+    - Byrnes and Hopwood – Both directors of Jeffcott Investments Ltd 
+    - Jeffcott – in significant debt – its directors resolved to issue >> securities to help pay down debts
+    - However – this securities issue could only be made if Jeffcott obtained support from an underwriter – underwriters would only participate if they were assured of not incurring a loss on the underwritten securities 
+    - Byrnes and Hopwood – Used Magnagcrete Ltd - of which they were members of board – to provide guarantee to obtain a loan to assist with underwriting Jeffcotts issue of securities
+    - Sole purpose of this transaction involving the guarantee – to benefit Jeffcott – not Magnacrete
+    - Did not obtain consent or approval of other Magnacrete directors 
+    - Held - Byrnes and Hopwood both improperly used their positions as directors of Magnacrete to obtain benefit for Jeffcott 🡪 Not necessary to establish benefit nor detriment 🡪 Rather need to look to the purpose of the action 
+    - Convictions under former Corps Law s 229(6) (predecessor to s 182) upheld
+  - Some recent cases on ss 182 and 183
+    - ASIC v Vizard (2005) 54 ACSR 394 – Misuse of confidential info by Telstra director – buying shares in takeover targets 
+    - ASIC v Somerville (2009) 74 ACSR 89 – Misuse of customer lists etc to set up new companies to avoid debts owed by previous companies 
+    - Chameleon Mining NL v Murchison Metals Ltd (2010) 28 ACLC 10-073 – Shadow director breached s 181 and 182 – causing Chameleon to provide funds to Murchison to acquire interest in mining venture – no benefit to Chameleon 
+    - Hydrocool Pty Ltd v Hepburn (No 4) (2011) 83 ACSCR 652 – MD ensured key licensing agreement guaranteed employee jobs – even though this disadvantaged Hydrocool – breach of s 181  and 182
+  - Managing conflicts of interest 
+    - At general law 
+      - Conflict rule: prevents fiduciaries (directors) from acting under a conflict – regardless of whether the conflict generates a profit 🡪 Poss remedies: Acct of profits, injunction or rescission of contract 
+      - Profit rule: only engaged if director obtains a private benefit 🡪 Remedy: Account of profits
+    - Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461 – a purchase of property to a company from a partnership where one of the partners was also a director was set aside:  
+    - “And it is a rule of universal application, that no one, having such duties to discharge, shall be allowed to enter into engagements in which he has, or can have, a personal interest conflicting, or which may possibly conflict, with the interests of those of whom he is bound to protect”
+  - Section 191 
+    - Material personal interest – director’s duty to disclose 
+      - “(1)  A director of a company who has a material personal interest in a matter that relates to the affairs of the company of the interest unless subs (2) says otherwise” must give the other directors notice 
+      - s 191(2) – Includes shareholdings in the company; dir’s remuneration; contract approved by members etc 
+      - Exceptions – Single director companies (s 191(5))
+        - s 192 – Dirs may give other dirs standing notice about interest 
+        - s 193 – ss 191 and 192 have effect in addition to, and not in derogation of – general law rules re conflicts of interest; and – provisions in company’s constitution re dirs duties / conflicts 
+  - Section 195 – Public companies  
+    - “(1)  A director of a public company who has a material personal interest in a matter that is being considered at a directors' meeting must not: 
+      - (a)  be present while the matter is being considered at the meeting; or 
+      - (b)  vote on the matter.” 
+    - Exceptions – fully informed approval of other directors (s 195(2)), or ASIC (s 195(3)), or general meeting (s 195(4))
+    - Drillsearch Energy Ltd v McKerlie [2009] NSWSC 517 – A resolution to convene a members’ meeting held invalid – as majority of dirs had a material personal interest in the subject matter (dispute amongst board – attempt to remove dirs)
+  - Sections 194 and 201K  
+    - s 194 - Voting and completion of transactions - directors of proprietary companies (Replaceable rule 🡪 see s 135) 
+    - If director discloses material personal interest – may vote on matters and retain profits
+    - Rationale – Smaller closely-held companies – directors often also members
+    - s 201K – Appointment of alternate directors (Replaceable  Rule)
+    - Resigning from position – will not automatically prevent a breach of fiduciary duty: Industrial Development Consultants Ltd v Cooley [1972] 2 All ER 162 
+  - Grand Enterprises PL v Aurium Resources Ltd (2009) 72 ACSR 75
+    - Directors held not to have material personal interests
+    - Dispute re members’ meeting approving new share issue
+    - Two Aurium directors declared interests (shares in Greater Pacific Gold (ASX Code GPN) – during board meeting - varying JV agmt 
+    - Dirs did not leave board meeting – but abstained from voting
+    - Aurium Chair – also Chair of GPN – abstained from voting after declaring interest to board 
+    - Grand Enterprises (Aurium s/holder) - sought to overturn the share issue decision of members’ meeting – due to: 
+      - Inadequate disclosure of directors interests in GPN; and 
+      - Directors’ failure to leave prior board meeting – due to material personal interest under s 195)
+    - Held: Directors not in breach of s 195 – No material personal interest in subject matter of the board meeting; Also resolutions passed at members’ meetings not invalidated 
+      - The interest – Must relate to affairs of company;  
+      - “Material” – the interest must be of some substance or value – rather than merely a slight interest;  
+      - The interest will not be material if it is “remote or insubstantial”
+    - One director – held << 1% of GPN shares as trustee for children (not material); also held shares through another company of which he was a director and shareholder (but not controller) (<< 8%) 🡪 while material – not “personal”
+    - Other director – held shares in a company owning << 5% of GPN shares – also not material personal interest   
+    - Aurium Chair – also Chair of GPN – who abstained from voting after declaring interest to board 🡪 May have given rise to a conflict 🡪 however this did not automatically amount to a “material personal interest”; nor did the fact that his son also owned GPN shares
+    - What constitutes a “material personal interest”? 🡪 Depends on circumstances – especially size and type of company  (eg owning >> 5% of listed public company – Substantial shareholder) 
+  - Related party transactions 
+    - Purpose of Ch 2E – s 207 🡪 Public companies
+    - Need for member approval for financial benefit – s 208
+    - Giving a financial benefit – s 229
+    - Definition of related parties – s 228 
+    - Exceptions – ss 210 – 216
+    - Procedure – ss 217 - 227
+    - Consequences of breach – s 209
+      - Doesn’t affect validity of transaction 🡪 However – Can seek injunction (s 1324); Also s 209 - Civil Penalty Provision 
+    - General duties still apply – s 230 
+  - ASIC v Adler [2002] NSWSC 171
+    - Adler – Director of HIH - Caused HIH to pay $10m for units in a trust he controlled through Adler Corp and Pacific Eagle Equities – trust assets were tech stocks worth << $10m
+    - Did not seek shareholder approval for the $10m loan
+    - Held - the $10m loan from HIH was a financial benefit – was not “at arms length” (ie, not on ordinary commercial terms)
+    - Transaction therefore breached s 208 
+    - Defences in s 210 not available – payment was unsecured and inadequately documented 
+    - Also illustrates civil penalty and disqualification provisions
+    - 
+    - HIH Ltd (Directors: Williams, Fodera, Adler) -> HIHC Ltd -> (Unsecured $10 million loan) Pacific Eagle Equity (Controlled by Adler) = Related party
+## Week 11: Members’ remedies
+
+- Statutory Oppression remedy (ss 232-235)
+  - Elements of ‘oppression’ remedy, s.232
+    - Conduct of company’s “affairs” (defined s.53), or act or omission, or proposed act of company, that is:
+      - (d) Contrary to the interests of members (shareholders) as a whole, or
+      - (e) Oppressive, unfairly prejudicial to, or unfairly discriminatory of a member or members
+    - Wrongdoer could be the company, director(s), majority shareholders, or a class of shareholders
+    - Plaintiff = 1 or more shareholders, but can be for harm to other shareholder, or harms plaintiff in other role (s234)
+    - Court can make very wide range of orders (s.233)
+  - Wayde v NSW Rugby League Ltd
+    - Corporation had 13 shareholders = 13 rugby clubs
+    - NSW Rugby League Ltd
+    - 13 shareholders, each shareholder represented one rugby club
+  - Discrimination or prejudice is not enough: must be “unfair” too
+    - Wayde v NSW Rugby League Ltd (HCA) [Harris 13.15; Bottomley 14.30.15]
+    - Company’s directors reduced number of rugby league teams from 13 to 12
+    - West’s Club was excluded from competition: major financial impact on Club
+    - West’s shareholder reps apply for oppression remedy
+    - High Court finds discrimination but not “unfair discrimination”
+    - “No reasonable director” test 6
+  - Statutory oppression – Grounds for complaint, examples 	
+    - Scottish Co-op Wholesale Society Ltd v Meyer [1959] AC 324: 
+      - Parent company’s attempts to “squeeze out” its subsidiary from business (through offering to buy out shares at a lower price) held to be oppressive → Parent company obliged to deal fairly with subsidiary
+    - John J Starr (Real Estate) v Robert R Andrew (Australasia) PL (1991) 6 ACSR 63: 
+      - Director’s conduct of company’s management held to be oppressive towards minority shareholder through:
+        - Bringing forward important matters for members’ meetings without giving sufficient notice;
+        - Refusing to provide board with budgets; 
+        - Restricting speaking time for directors at board meetings; 
+        - Excluding minority shareholder from some board meetings; and
+        - Terminating minority shareholder’s real estate franchise.
+      - “The mere fact that a member of a company has lost confidence in the manner in which a company's affairs are conducted does not lead to the conclusion that he is oppressed; nor can resentment at being outvoted; nor mere dissatisfaction with or disapproval of the conduct of the company's affairs, whether on grounds relating to policy or to efficiency, however well founded → Those who are alleged to have acted oppressively must be shown to have acted at least unfairly towards those who claim to have been oppressed” per Young J
+  - Majority vs minority shareholders oppression: Jenkins v Enterprise Gold Mines NL (1992) 6 ACSR 539
+    - Directors acted oppressively towards minority (although backed by majority of votes), because transactions benefited a related party without benefiting the minority shareholders of the company at all:
+    - “Oppression may be established where controlling directors have pursued a course of conduct designed by them to advance their own interests or interests of others of their choice to the detriment of the company or to the detriment of minority shareholders
+  - Oppression and refusing to pay dividends: Shamsallah Holdings Pty Ltd v CBD Refrigeration & Airconditioning Services Pty Ltd (2001) 19 ACSR 517
+    - Rare eg of dividend policy constituting oppression
+    - Two groups of investors incorporated a JV – expectation of profit sharing → JV became profitable
+    - After dispute between the two groups – majority directors changed dividend policy and increased directors’ payments
+    - WASC held: Refusal to revise dividend policy - after a long period where business profitable – and at same time increasing directors’ payments – effectively shut out minority from sharing in the company’s profits → Ordered the minority’s shares to be bought out by majority
+    - Need to look to history of company and reasonable expectations of members
+  - Other cases where oppression not found
+    - Re G Jeffrey (Mens Store) P/L (1984) 9 ACLR 193: Mere loss of confidence is not enough, nor being merely locked in to the position of minority shareholder
+    - Re H.W. Thomas Ltd (1984) 2 ACLC 610: Conservative but proper management including fair and reasonable wages for family members not oppression
+    - Morgan v 45 Flers Avenue Pty Ltd (1986) 10 ACLR 692: Refusal to increase dividend payments in a family company (but increasing director remuneration) – held to be not “commercially unfair” – and therefore not oppressive
+  - Winding Up Remedy (also called Compulsory Liquidation remedy), s.461-4
+    - Very drastic remedy: generally not given if less drastic remedy available (s.467(4)); oppression remedy is much more common.
+    - Who can apply? (s.462)
+      - Company
+      - Shareholder
+      - Creditor in insolvency
+      - Liquidator
+      - ASIC, if in public interest
+  - What are “just and equitable” grounds for winding up company? s.461(1)(k)
+    - Deadlock in management and among shareholders
+      - Re Yenidje Tobacco [1916] 2 Ch 426 [Harris 13.22, n45]
+    - 1. Exclusion from management in small pty companies with very few shareholders: see Ebrahimi case below
+    - Westbourne Galleries Ltd.
+    - Directors & Shareholders: Ebrahimi and Nazar
+    - Later, Nazar’s son bought 20% of the co. shares
+  - Winding up order due to exclusion from management: case
+    - Ebrahimi v Westbourne Galleries Ltd [1973 H.L. Bottomley 14.40.05; Harris 13.22]
+    - Three elements:
+      - (i) Small company formed by people with personal relationships and mutual confidence
+      - (ii) Reasonable expectation of management participation by shareholders
+      - (iii) Share transfer restrictions: hard to sell shares
+        - Exclusion from management in such a company = just & equitable grounds for winding up company.
+        - But note overlap with oppression remedy here.
+  - Statutory Derivative Action (s.236-242)
+    - Also known as ‘bringing an action on behalf of the company’
+  - Bringing an action on behalf of the company (s.236-242)
+    - Also known as ‘statutory derivative action’
+    - Situations where company’s interests have been harmed
+    - S.236(1)(a): Can be brought by:
+      - Shareholder or former shareholder of the company
+      - Officer or former officer of the company
+    - Leave of court is required, i.e., first get permission from the court to bring the action, then bring the action on behalf of the company (see slides below)
+  - Disadvantages of statutory derivative action
+    - Two-stage process: time-consuming, unpredictable & expensive
+    - Costs normally borne by plaintiff at both stages (despite s.242), until lawsuit successful
+    - Any damages/compensation goes to company, not directly to applicant
+  - How to obtain leave of court before bringing derivative action, s.237(2)
+    - Court must grant leave to bring action if satisfied that:
+      - a) Company won’t bring lawsuit itself
+      - b) Plaintiff is acting in good faith, and
+      - c) Is in best interests of company to grant leave to the applicant, and
+      - d) There is a serious question to be tried
+        - Ragless v IPA Holdings [Harris 13.11]: “identify the legal or equitable rights to be determined at trial”
+      - e) And, the Applicant has given company 14 days notice of intention to apply for leave
+        - See also rebuttable presumption, s 237(3) re best interests
+  - s.237 applied in Swansson v Pratt (NSWSC 2002) [Harris 13.11; Bottomley 14.35.10]
+    - Facts: Dispute between divorced couple
+      - Ms Swansson (ex-wife): director + shareholder of company
+      - Mr Highland (ex-husband): former director of company
+      - Mr Pratt (Ms Swansson’s brother): other director of company + chartered accountant
+    - Swansson claimed that Highland wrongly took money from the company for his own benefit while he was director
+    - Swansson seeks leave of court (s 237) to bring action on behalf of company vs. Highland to recover money
+    - Ms. Swansson failed on (b) and (c) elements of test (see previous slides): leave not granted for her to bring the lawsuit against Mr. Highland
+    - Evidence that Ms. Swansson had already received the money she was claiming from Mr. Highland
+  - Statutory Injunction, s.1324
+    - For actual or potential contraventions of the Corporations Act, or refusal to do something required by the Corporations Act (see s.1324(1) and (2))
+    - Can apply to Court for injunction restraining the conduct and/or requiring person to do any act or thing
+    - Can also apply for damages (s.1324(10))
+    - Must show “substantial injustice,” not just “procedural irregularity” (see s 1322)
+    - Who can apply?
+      - ASIC, or “a person whose interests have been, are or would be affected by the conduct”: very broad
+    - What are “interests ... affected by the conduct”?
+      - “the interests referred to in this section are the interests of any person (which includes a corporation) which go beyond the mere interest of a member of the public: Broken Hill Pty Co. Ltd. v Bell Resources Ltd (1984) 8 ACLR 609
+    - Note: Failure to comply with Replaceable Rules does not contravene the Corporations Act (s.135(3))
+      - For breach of constitution, see Podcast 4 part 1
+  - Applying s 1324 to a case: Airpeak PL v Jetstream Aircraft Ltd (1997) 23 ACSR 715
+    - Jetstream – a creditor of Airpeak under a supply contract – alleged two Airpeak directors had breached their duties by creating a secured debt in the directors’ favour
+    - Jetstream – sought injunction to overturn this transaction – arguing it prejudiced Airpeak’s ability to repay creditors – wanted the $$ returned to Airpeak – which could then be used to repay Jetstream (and other creditors)
+    - Airpeak – challenged this application – arguing creditors did not have standing under s 1324
+    - FCA – Refused Airpeak’s challenge → Jetstream’s interests as a creditor were “affected by [Airpeak’s] conduct”
+    - Shareholders and creditors may use s 1324 to enforce provisions of the Corps Act – which they cannot normally do → as directors’ duties are owed to (and enforceable by) the company
+    - Note: Some limitations on seeking damages through 1324(10) for breach of directors’/officers’ duties: see McCracken v Phoenix Constructions (Qld) PL [2012] QCA 129
+  - Remedies under the CATSI Act
+    - CATSI Act contains similar remedies to Corporations Act
+      - Oppression remedy: CATSI Act s 166.1-15
+      - Statutory derivative action: CATSI Act s 169.1-30
+      - Statutory injunction: CATSI Act s 576.25
+        - To prevent or correct breach of CATSI Act
+        - Substantial injustice test: s 576.15
+      - Winding up application: CATSI Act s 526.1-5
+  - Applying to appoint a special administrator under CATSI Act
+    - A unique remedy for members of a CATSI corporation
+    - See grounds to apply under CATSI Act s 487.5
+      - The greater of: 5 members or 10% of members (487.5(4))
+      - Request the Registrar (of ORIC) in writing (487.5(i))
+    - Special Administrator will come in to manage the company instead of directors/officers, with verybroad powers: 499.1-5
+  - Other Options for shareholders
+    - Public listed companies and other options for shareholders:
+      - Sell shares on market
+      - Class actions by large groups of plaintiffs (see podcast 12)
+        - Sometimes called ‘representative’ actions
+        - Often for misleading disclosures (under s 729 or 1041E, H and I)
+        - Litigation funders: growth market, especially class actions, E.g. OMNI Bridgeway: http://www.imf.com.au
+
+## Week 12: Corporate litigation
+
+- Corporate litigation
+  - ASIC’s approach to enforcement.
+    - ASIC Information Sheet 151
+    - How ASIC might identify misconduct
+    - Assessment of the misconduct
+      - – Extent of harm or loss – how many consumers / investors affected
+      - – Benefits of investigating the misconduct
+      - – Seriousness, and evidence, of the misconduct
+    - Assessment of appropriate remedies
+      - – Punitive action – eg imprisonment; financial penalties
+      - – Protective action – eg disqualification and banning orders
+      - – Preservative action – eg injunctions; Proceeds of Crime Act 2002
+      - – Corrective action – eg corrective advertising
+      - – Compensation action
+      - – Negotiated resolution – eg Enforceable Undertakings
+  - The corporate law enforcement pyramid
+    - Top
+      - Criminal
+      - Civil penalties
+      - Civil litigation
+    - Middle
+      - Administrative action
+      - (Banning orders; Infringement notices; Stop orders)
+    - Low
+      - Enforceable undertakings
+  - Criminal prosecutions
+    - s 1311: All contraventions of the Corporations Act 2001 may be an offence
+      - – Examples: s 184; s 728; s 734; s 1043A
+    - Schedule 3 – Lists specific penalties - otherwise 5 penalty units applies
+    - s 1312: Higher penalties for companies compared to individuals
+    - Criminal Code Act 1995 (Cth) Ch 2 (General principles of criminal responsibility) assists in determining criminal liability: s 1308A
+    - ASIC may prosecute minor regulatory breaches ; More serious offences are referred to the Commonwealth DPP
+    - ASIC – CDPP Memorandum of Understanding (1 March 2006)
+    - Prosecution Policy of the Commonwealth (19 July 2021)
+  - Civil penalty provisions
+    - Rationale for the introduction of civil penalty provisions
+    - Civil standard of proof
+    - When likely to be used
+    - s 1317E – Declaration of contravention of a designated civil penalty provision
+    - s 1317J - Possible orders for the court:
+      - – s 1317G: Pecuniary penalty order
+      - – s 1317H: Compensation order
+      - – s 206C: Disqualification order
+    - Some other examples of civil penalty provisions – Competition and Consumer Act 2010; Fair Work Act 2009; Superannuation Industry (Supervision) Act 1993; Privacy Act 1988; Migration Act 1958
+  - Civil penalties flowchart
+    - Is the CA provision listed in s 1317E
+      - Yes
+        - Court may make declaration of contravention (s 1317E) On application by ASIC (s 1317J)
+          - ASIC may apply for s 1317J(1):
+            - Pecuniary penalty order (s 1317G) 
+            - Disqualification orders (s 206C)
+            - Compensation order (s 1317H)
+          - Company may apply for s 1317J(2):
+            - Compensation order (s 1317H)
+      - No
+        - The civil penalties regime does not apply
+        - 1. Contractual or equitable remedies may be available to the company
+        - 2. Other Corporations Act provisions may be available. Eg: 
+          - A. Disclosure contravention (s1041H)
+          - B. Fundraising contravention (Ch 6D)
+          - C. Statutory injunction (s1324)
+          - D. Minority oppression for members (s 232)
+    - Is the provision a ‘corporation/scheme civil penalty provision’ or a ‘financial services civil penalty provision’ (see s 1317DA)?
+      - s 206c disqualification only available for corporation/scheme provisions
+      - s 1317HA compensation available for financial services provisions
+      - 
+  - Continuous disclosure: Recent developments
+    - Listed entities – Must comply with the disclosure rules of the relevant financial market: s 674; For ASX-listed entities -> Listing Rule 3.1
+    - Corporations (Coronavirus Economic Response) Determination (No. 2) and (No. 4) 2020 - amended s 674 for a period of six months
+    - Parliamentary Joint Committee on Corporations and Financial Services Report - Litigation funding and the regulation of the class action industry (December 2020)
+    - Treasury Laws Amendment (2021 Measures No. 1) Act 2021
+    - Introduced new s 674A; amended s 1041H (and ASIC Act s 12DA) – requirements for establishing that an entity or officer acted with ‘knowledge, recklessness or negligence’ for in respect of alleged contravention of continuous disclosure requirements for civil penalty proceedings
+    - s 674 – ASIC retained the power to issue infringement notices in respect of alleged contravention of CD requirements (see RG 73)
+  - Civil penalties: Recent case studies
+    - ASIC v GetSwift Limited (Penalty Hearing) [2023] FCA 100
+      - Record penalties imposed against a previously ASX-listed software company and its former directors for serious breaches of s 674 (on 22 occasions) and s 1041H (on 40 occasions): at [1] – [27]
+      - Principles for determining the appropriate pecuniary penalty orders to be imposed (s 1317G): at [36] – [48]
+      - Principles for determining the appropriate length of disqualification orders under s 206C: at [60] - [61]
+      - $15m Pecuniary penalty order against GetSwift: at [67] – [79]
+      - 15-year disqualification and $2m PPO for former CEO: at [84] – [96]
+      - 12-year disqualification and $1m PPO for former MD: at [108] – [112]
+      - 2-year disqualification and $75K PPO for former general counsel / corporate affairs director: at [120] – [142]
+  - Civil penalties: Recent case studies
+    - ASIC v Hawkins [2025] FCA 121
+      - Imposition of s 206C disqualification orders, and s 1317G pecuniary penalty orders against two former officers of The Star Entertainment Group Ltd for breaches of s 180
+      - s 180 breaches - alleged operation of a gambling "junket" involving Star and NAB: at [1] – [36] in the main judgement
+      - Former officers consented to s 1317E declarations of contraventions – which were particularised in “Orders”
+      - Principles for determining appropriate length of disqualification periods under s 206C – see esp Annexure A para [157]
+        - – See ASIC v Adler & Ors [2002] NSWSC 483 at [56]; (2002) 42 ACSR 80 at 97–98
+      - Principles for determining appropriate quantum of pecuniary penalty orders under s 1317G – see in particular paragraphs 136 - 145 of
+      - Annexure A (Note the references to the caselaw on civil penalties under other statutory regimes)
+  - Representative proceedings
+    - Federal Court of Australia Act 1976 Part IVA (Representative proceedings): ss 33A – 33ZJ
+    - See: https://www.fedcourt.gov.au/law-and-practice/class-actions
+    - Commencement of proceedings – FCA Act 1976 s 33C
+    - There must be:
+      - – claim by seven or more persons; and
+      - – the claims must be against the same person;
+    - The claims must arise out of the same, similar or related circumstances; and
+    - There must be a substantial common issue of law or fact.
+    - See also: Civil Procedure Act 2005 (NSW) Pt 10; Supreme Court Act 1986 (Vic) Pt 4A; Civil Proceedings Act 2011 (Qld) Pt 13A; Civil Procedure (Representative Proceedings) Act 2022 (WA); and Supreme Court Civil Procedure Act 1932 (Tas) Pt VII
+    - FCA Class Actions Practice Note (GPN–CA, 20 December 2019)
+      - Commencement of Class Action Proceedings – ss 33C; 33H
+      - Case Management – including the roles of judges and registrars, and case management hearings
+      - Disclosure regarding (i) Costs agreements and (ii) Litigation funding agreements - to Class members, the court and other parties
+      - Management of competing class actions
+      - Mediations and ADR
+      - Communications with class members
+      - Rights of class members to opt out of a class action – s 33J
+      - Trial
+      - Settlement – s 33V
+      - Court supervision of deductions for legal costs or litigation funding charges
+      - Making of confidentiality orders
+  - Representative proceedings: Recent case studies
+    - Bonham v Iluka Resources Ltd [2022] FCA 71
+      - First successful defence to liability in a shareholder class action in Australia
+      - Dismissed a claim by the representative applicant for alleged breaches of ss 674 and 1041E (false or misleading statements) by Iluka Resources in respect of guidance to the ASX about future sales of minerals
+      - Held: Iluka had reasonable grounds for making the representations
+    - Crowley v Worley Ltd [2022] FCAFC 33
+      - Allowed appeal by representative applicant against trial judge’s decision
+      - Claimed related to Worley’s earnings guidance forecast issued to ASX in August 2013 – projected increase in profits
+      - Held: The knowledge of Worley’s CFO could be attributed to the company
+      - Further reference: Prashant Kelshiker and Michael Legg 'Shareholder Class Actions Judgments in 2022 – Iluka Resources and Worley' (2023) 39(8) Company and Securities Law Journal 440

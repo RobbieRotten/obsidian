@@ -1,0 +1,6472 @@
+#tag-notes #tag-tutorial
+
+## Cheat Sheet
+
+- Link
+- 
+### Week 2: Executive Power
+
+  - The Executive Branch
+    - Who? Governor-General, PM, Ministers, Cabinet, Departments, Tribunals, Public Servants.
+    - What? Administers laws, policies, and public services at Federal, State, and Local levels.
+    - Where? Departments, statutory bodies, councils, agencies (e.g., ATO, Centrelink, ICAC).
+  - Sources of Executive Power
+    - Source	Example
+    - Statutory Power - Legislation (e.g., PGPA Act 2013 (Cth))
+    - Prerogative Power - Treaties, pardons, passports
+    - Nationhood Power - Crisis response, national security
+    - Common Law Power - Contracting, suing
+      - Federal: Constitution s 61 + Statutes
+      - State: State laws + Prerogative
+      - Local: Powers delegated by State
+      - 
+  - Executive Review Mechanisms
+    - Merits Review – AAT → ART (soon) (Fed) | NCAT (NSW)
+    - Investigations – Ombudsman, ICAC, NACC, Auditor-General
+    - FOI – Freedom of Information Act 1982 (Cth) | GIPA Act 2009 (NSW)
+    - Judicial Review –
+      - High Court (s 75(v) Constitution)
+      - Federal Court (ADJR Act 1977 (Cth))
+      - NSW Supreme Court (s 69 Supreme Court Act 1970 (NSW))
+  - Key Public Law Values	
+    - Legality – Must act within the law.
+    - Fairness & Consistency – Impartial & equal decisions.
+    - Rationality – Based on logic & evidence.
+    - Integrity & Honesty – Ethical decision-making.
+    - Accountability – Justification of actions.
+    - Accessibility & Participation – Public input & transparency.
+    - Efficiency & Effectiveness – Government must function well.
+  - Administrative Law: What Are We Challenging?
+    - Who is the decision-maker?
+    - What act or instrument are we targeting?
+  - Decision Chain Example:
+    - Parliament → Passes a law giving executive power
+    - Minister (Executive) → Uses the law to make a decision
+    - Tribunal or Court → Reviews the decision
+  - Kerr Report (1971) – Why It Matters
+    - Problem: No structured administrative law system, judicial review was inaccessible.
+    - Solution:
+      - AAT – Independent merits review (AAT Act 1975)
+      - Ombudsman – Investigates government decisions (Ombudsman Act 1976)
+      - Judicial Review Reform – ADJR Act 1977 (simplified process)
+      - FOI Laws – FOI Act 1982 (access to government info)
+    - 💡 Impact: Modern administrative law = Transparency + Accountability + Fairness
+  - Case: Craig v DFAT [2023] AATA 2785
+    - Issue: FOI request denied under s 33(a)(iii) (harm to international relations).
+    - Held: Tribunal upheld DFAT refusal – confidentiality in diplomatic communications outweighs leaks.
+    - Key Takeaways:
+      - Leaks (WikiLeaks) ≠ Official disclosure – Diplomatic trust matters.
+      - FOI Act s 33(a)(iii) applies strictly – Public interest is irrelevant. 
+      - Tribunal can't override exemptions – Limited power in FOI cases.
+  - TL;DR Summary
+    - Executive power comes from statute, prerogative, and common law.
+    - Executive review = Merits review (AAT), Ombudsman, FOI, Judicial Review.
+    - Public law values = Legality, fairness, accountability, efficiency, integrity.
+    - Kerr Report (1971) → AAT, Ombudsman, FOI, ADJR Act = modern admin law.
+    - Craig v DFAT (2023) → FOI exemptions for diplomatic documents apply strictly.
+  - Big Picture: Administrative law = Holding the executive accountable & ensuring fairness.
+### Week 3: Administrative law outside the courts
+
+  - Ombusdman Problem Question - Ombudsman Act 1976 Cth
+  - Jurisdiction
+    - (a) What may be investigated?
+      - ... action that relates to a matter of administration’ (administrative (executive) actions, s 5(1)(a))
+      - s 7(1) 
+        - Subject to subsection (2), a complaint under this Act may be made to the Ombudsman orally or in writing.
+      - Narrow reading:
+        - Legislative action✖
+        - Judicial action✖
+        - High policy decisions✖
+      - ... but is this unduly restrictive?
+    - (b) Who may be investigated?
+      - Captured 
+        - Commonwealth Departments 
+          - s 5(1)
+        - Prescribed authorities (ie body established by legislation for a public purpose) 
+          - ss 3, 5(1)
+        - Private contractors: the contracting Department/authority is taken to have performed the action taken by the contractor
+          - s 3BA apply to -> s 3(4B)
+      - Exclusions
+        - Ministers 
+          - s 5(2)(a)
+        - Proceedings in Parliament 
+          - s 5(2)(aa)
+        - Judges 
+          - s 5(2)(b)
+        - Appointment and employment decisions (eg appointment to public office, APS promotion/discipline)
+          - s 5(2)(d)-(g)
+        - Note power to transfer relevant complaints to other appropriate bodies (eg ACMA, Information Commissioner, Parliamentary Service Commissioner etc): see s 6
+    - (c) Discretion not to act
+      - (i) Conduct of the applicant
+        - 12 month delay in raising complaint
+        - frivolous, vexatious, or not made in good faith
+        - complainant does not have a sufficient interest
+          - s 6(1)
+      - (ii) Subject matter of the decision
+        - relates to a commercial activity of a Department or prescribed authority
+          - s 6(12)
+      - (iii) Availability of other mechanisms
+        - internal review/ complaints
+        - tribunal review, legal proceedings
+          - s 6(1A), (3), (4)
+      - (iv) General catch-all
+        - “An investigation, or further investigation, of the action is not warranted having regard to all the circumstances”
+          - s 6(1) (b)(3)
+  - Royal Commissions
+    - Royal Commissions - investigative public body
+      - Royal Commission
+      - Commission of Inquiry
+      - Boards of Inquiry
+      - Special Inquiry
+      - (Executive equivalent to a parliamentary select committee)
+    - Standing commissions
+      - Integrity Commission
+      - Anti-corruption Commission
+      - (Executive equivalent to a parliamentary standing committee)
+    - Establishment
+      - Convention – exercise of prerogative power through letters patent
+        - Prerogative cannot confer coercive powers
+        - Coercive powers conferred by:
+          - Royal Commissions Act 1902 (Cth)
+          - Royal Commissions Act 1923 (NSW)
+    - Jurisdiction
+      - Scope defined by letters patent
+      - Usually:
+        - investigate a particular set of matters
+        - prepare a report
+        - make recommendations
+    - Powers
+      - Coercive powers conferred by legislation (not letters patent)
+        - Royal Commissions Act 1902 (Cth):
+          - apply for search warrants
+          - summon and cross-examine witnesses
+          - require production of documents
+          - hold hearings
+    - Government accountability?
+      - Motivation
+        - Quell public outcry?
+        - Target actions of a previous government?
+      - Examples:
+        - 1987-91 Royal Commission into Aboriginal Deaths in Custody
+        - 2014 Royal Commission into the Home Insulation Program
+        - 2016 Royal Commission and Board of Inquiry into the Protection and Detention of Children in the Northern Territory
+        - 2020 Victorian COVID-19 Hotel Quarantine Inquiry
+        - 2022-23 Royal Commission into the Robodebt Scheme
+      - Outcomes:
+        - Recommendations not legally enforceable
+        - Action is often too weak or too slow
+        - Pressure and transparency
+      - “The Government has agreed, or agreed in principle, to all 56 of the Royal Commission’s recommendations as part of the ongoing work to restore faith, integrity and trust in government.”
+  - Exam Scaffold
+    - 1. What is Accountability?
+      - Definition: A relationship in which an actor must explain and justify conduct to a forum which may pass judgment and impose consequences (Mark Bovens).
+      - Purposes:
+        - Legitimacy: Reinforces public trust in government.
+        - Transparency: Ensures decision-making is open to scrutiny.
+        - Control: Enables enforcement of legal and ethical norms.
+        - Restoration: Ensures remedies for administrative wrongs.
+        - Desert: Punishes abuses of power.
+        - Deterrence and Reform: Improves public administration.
+
+  - 2. Accountability Mechanism
+    - 2.1 Parliamentary Institutions
+      - Representative government: s 7, s 24 Constitution.
+      - Responsible government: s 64 Constitution – Ministers accountable to Parliament.
+      - Parliamentary Committees:
+        - Standing, Select, Joint.
+        - Roles: scrutiny, investigation, budget review (e.g., Senate Estimates).
+    - 2.2 Executive Oversight Institutions
+      - 2.2.1 Auditor-General (Auditor-General Act 1997 (Cth))
+        - s 8(1): Independent officer of Parliament.
+        - s 8(4): Complete discretion – not subject to ministerial direction
+        - s 11–12: Conducts financial and performance audits.
+        - s 17–18: May review systemic issues.
+      - 2.2.2 Ombudsman (Ombudsman Act 1976 (Cth))
+        - s 5(1): May investigate administrative action on complaint or own motion.
+        - s 6: Discretion not to investigate if matter is stale, trivial, or better suited elsewhere.
+        - s 15: Can make recommendations but not binding.
+        - Jurisdiction excludes ministers, judges, and high policy (Glenister v Dillon; Booth v Dillon (No 2), (No 3)).
+      - 2.2.3 Royal Commissions (Royal Commissions Act 1902 (Cth))
+        - Established by letters patent + statutory power.
+        - Powers: compel evidence, examine witnesses, recommend reform.
+        - Limitations: Cannot bind government; often politically motivated.
+        - Criticism: RCIADIC – failed to decolonise; symbolic rather than transformative (Marchetti (2006)).
+      - 2.2.4 Integrity Commissions (ICAC, NACC)
+        - NSW ICAC: s 13 ICAC Act – investigate and expose corruption.
+        - NACC: s 3, s 7–9 NACC Act – must involve serious or systemic corrupt conduct.
+        - Public hearings: ICAC s 31; NACC s 73 – only if in public interest.
+        - Powers: compel documents, examine witnesses, enter premises.
+        - Berejiklian v ICAC [2024] NSWCA 177: Partial exercise of power due to private influence = serious corrupt conduct.
+
+  - 3. Modern Issues: AI and Accountability
+    - 3.1 Use of AI in Government
+      - Expert Systems: Rule-based decision aids (e.g., AustLII’s FOI system)
+      - Machine Learning: Data-trained algorithms – Robodebt.
+      - No current public registry of AI use across government.
+    - 3.2 Key Concerns
+      - Pintarich v Deputy Commissioner of Taxation (2018) 262 FCR 41: No valid "decision" without human mental process.
+      - Black box problem: Lack of intelligible justification violates Li reasoning principle.
+      - Bias and procedural fairness: Cannot apply Jia bias rule to non-human ADM.
+      - Reasons: Statutes like ADJR s 13 and AAT Act s 28(1) presume human reasoning.
+
+  - 4. Critiques and Reforms
+    - Ombudsman lacks binding enforcement: Robodebt showed systemic failure uncorrected.
+    - RCIADIC: Recommendations ignored; failed to incorporate Indigenous legal traditions (Marchetti (2006)).
+    - Need for enforceable recommendations or legal duties to implement findings.
+    - AI oversight: Requires transparency, human review layers, or statutory personality.
+### Week 4: FOI Request
+
+  - Overview: Access to Government Information
+    - Access to government information is regulated by freedom of information (FOI) regimes, archives legislation, and privacy laws. These laws aim to:
+      - Promote transparency, accountability, and public participation.
+      - Balance access rights with national security, confidentiality, and privacy concerns.
+    - Accessing Information: Freedom of Information (FOI) Regimes
+  - Commonwealth FOI Law
+    - Freedom of Information Act 1982 (Cth)
+      - Right to access: Legally enforceable right to obtain documents of agencies and Ministers.
+      - Exemptions: Certain documents can be withheld under specific grounds (e.g. national security, Cabinet-in-confidence).
+      - Appeals: Decisions to withhold information can be challenged.
+    - Freedom of Information (Charges) Regulations 2019 (Cth)
+      - Allows agencies to impose fees for processing FOI requests.
+      - Exemptions for personal information and where requests are unreasonably delayed.
+    - FOI Guidelines (s 93A FOI Act)
+      - Issued by the Information Commissioner to guide FOI decision-making.
+      - Not legally binding but must be considered by agencies.
+    - Australian Information Commissioner Act 2010 (Cth)
+      - Establishes the Australian Information Commissioner to oversee FOI compliance.
+  - 2.2. NSW FOI Law
+    - Government Information (Public Access) Act 2009 (NSW) (GIPA Act)
+      - Governs public access to information held by NSW government agencies.
+      - Focuses on proactive release, informal access, formal access, and mandatory disclosure.
+    - Key Differences: FOI Act (Cth) vs GIPA Act (NSW)
+Feature
+FOI Act (Cth)	
+GIPA Act (NSW)
+Scope
+Commonwealth agencies & Ministers	
+NSW agencies & Ministers
+Exemptions
+Specific exemptions under Pt IV FOI Act	
+Public interest test under s 12 GIPA Act
+Review Rights	
+Internal review, Information Commissioner, AAT, Courts	
+Internal review, NCAT, Courts
+
+  - 3. Preserving Information: Archives Legislation
+    - Archives Act 1983 (Cth)
+      - Regulates the preservation and disposal of Commonwealth records.
+      - National Archives must preserve and provide public access to records over 20 years old.
+    - State Records Act 1998 (NSW)
+      - Governs the creation, management, and disposal of NSW government records.
+  - 4. Protecting Information: Privacy Legislation
+    - Privacy Act 1988 (Cth)
+      - Regulates the handling of personal information by Commonwealth agencies and private sector organisations.
+      - Includes Australian Privacy Principles (APPs) governing data collection, storage, and access.
+    - Privacy and Personal Information Protection Act 1998 (NSW) (PPIP Act)
+      - Applies to NSW government agencies, ensuring personal information is managed fairly.
+    - Health Records and Information Privacy Act 2002 (NSW) (HRIP Act)
+      - Covers the handling of health information in NSW.
+  - 5. The Right to Access Information
+    - Freedom of Information Act 1982 (Cth) – s 11(1)
+      - Every person has a legally enforceable right to access:
+        - A document of an agency, unless exempt.
+        - An official document of a Minister, unless exempt.
+    - 5.1. What Can Be Requested?
+      - Documents include written records, electronic files, maps, photographs, emails, and audio recordings.
+      - Agencies include Commonwealth departments and prescribed authorities.
+      - Ministers include documents relating to their official duties.
+  - 6. Refusing Access: FOI Exemptions
+    - Exemptions under FOI Act (Cth) (Pt IV, Div 2 & 3)
+
+Category
+Exemption Type
+Key Provisions
+National Security
+National security, defence, international relations
+s 33
+Law Enforcement	
+Law enforcement, public safety
+s 37
+Government Operations
+Cabinet documents
+s 34
+
+Deliberative process	
+s 47C
+
+Financial/property interests of the Commonwealth
+s 47D
+Privacy & Confidentiality	
+Personal privacy
+s 47F
+
+Legal professional privilege
+s 42
+
+Trade secrets, commercial information
+s 47G
+
+    - Public Interest Test (s 11B FOI Act)
+      - ✔ Factors for disclosure: promotes transparency, informs public debate, allows scrutiny of government decisions.
+      - ❌ Factors against disclosure: harm to national security, breach of confidentiality, substantial adverse effects.
+        - Redaction & Partial Exemptions (s 22 FOI Act)
+          - Agencies must redact exempt parts and provide access to the remaining information where possible.
+  - 7. Practical Refusals & Charges
+    - Practical Refusal Reasons (s 24 FOI Act)
+      - Agency may refuse requests if processing would substantially and unreasonably divert resources.
+      - Applicant must be given a chance to revise the request before refusal.
+    - Charges for FOI Requests
+      - No charges for personal information requests.
+      - Time limits exceeded? Fee waived.
+  - 8. Review & Appeal Rights
+    - 8.1. Merits Review
+      - Internal Review (s 54 FOI Act) – Agency reconsiders its own decision.
+      - Information Commissioner Review (s 55L FOI Act) – Independent review.
+      - AAT Review (s 57A FOI Act) – Tribunal review of Information Commissioner decisions.
+    - 8.2. Judicial Review
+      - Federal Court review for errors of law under the Administrative Decisions (Judicial Review) Act 1977 (Cth).
+      - NSW Supreme Court review under judicial review principles.
+  - 9. Case Law: Key FOI Decisions
+    - Warren v Chief Executive Officer, Services Australia [2024] FCAFC 73
+      - Facts: FOI request for Robodebt-related documents, rejected under Cabinet exemptions.
+      - Issue: Whether procedural fairness was denied in the AAT process.
+      - Decision: Federal Court ruled procedural unfairness and set aside the decision.
+      - Significance: Reinforced narrow interpretation of FOI exemptions and importance of procedural fairness.
+    - Beesley v Australian Federal Police (2001) 111 FCR 1
+      - Facts: AFP refused access to database info stored in another department.
+      - Issue: Did AFP have "constructive possession" of the document?
+      - Decision: Constructive possession was sufficient for FOI Act application.
+      - Significance: Expanded interpretation of "possession" under FOI law.
+  - 10. Exam Answer Formula 📖
+    - 1. Establish the Right to Access
+      - Legally enforceable right to access government-held information (Freedom of Information Act 1982 (Cth) s 11(1)).
+      - Applicant must be an individual or entity (e.g., incorporated association) (s 11(2)).
+      - Applies to “documents of an agency” or “official documents of a Minister” (s 4).
+      - Key authority: Beesley v Australian Federal Police (2001) 111 FCR 1 – Constructive possession applies if an agency has control, even if it does not physically hold the document.
+      - Jurisdiction
+        - Cth or NSW - relevant legislation
+      - Does the request meet submission requirements (s 15)
+    - 2. Determine Whether the Document is Exempt
+      - Conclusive exemptions (cannot be disclosed) – s 11A(4):
+        - Cabinet documents (s 34).
+        - National security, defence, international relations (s 33).
+        - Law enforcement (s 37).
+        - Documents subject to secrecy provisions (s 38).
+        - Legal professional privilege (s 42).
+        - Trade secrets (s 47).
+      - Conditionally exempt (requires a public interest test) – s 11A(5):
+        - Deliberative process documents (s 47C).
+        - Intergovernmental communications (s 47B).
+        - Agency operations (s 47E).
+        - Personal privacy (s 47F).
+      - Key authority: Warren v Chief Executive Officer, Services Australia [2024] FCAFC 73 – Cabinet exemption (s 34) only applies if the document reveals Cabinet deliberations.
+    - 3. Apply the Public Interest Test (s 11B FOI Act)
+      - Required for conditionally exempt documents.
+      - Public interest factors in favour of disclosure (s 11B(3)):
+        - (a) Promotes transparency and accountability.
+        - (b) inform debate on a matter of public importance;
+        - (c) promote effective oversight of public expenditure;
+        - (d) allow a person to access his or her own personal information.
+      - Against disclosure (s 11B(4)):
+        - Would cause harm to government decision-making s 11B(4)(a)).
+        - Would prejudice Commonwealth-State relations (s 11B(4)(b)).
+      - Invalid reasons for refusal:
+        - 🚫 Embarrassment to the government is NOT a valid reason (s 11B(4)(a)).
+        - 🚫 Misinterpretation/misunderstanding is NOT a valid reason (Re Prinn and Dept of Defence (2016) 152 ALD 162).
+        - Rank of the individual is not relevant
+      - Key authority: Re McKinnon and Secretary, Dept of Treasury (2005) 90 ALD 197 – Government must provide specific evidence of harm; vague claims of “damage” are insufficient.
+    - Practical Refusals & Redactions
+      - Practical refusal (s 24 FOI Act)
+        - Request may be refused if it would substantially and unreasonably divert resources (s 24AA).
+        - Agency must consult applicant before refusing (s 24AB).
+      - Redactions (s 22 FOI Act) 
+        - Agencies must redact exempt portions and provide access to the rest.
+      - Key authority: Re Thomas and Secretary, Dept of Defence [2018] AATA 604 – The agency must consider whether partial release is possible rather than outright refusal.
+    - Step 4: Consider Partial Access (Redaction & Practical Refusals)
+      - If only parts of documents are exempt, the agency must provide a redacted version under s 22 FOI Act.
+      - If requests are too broad or burdensome, agencies can refuse on practical refusal grounds (s 24 FOI Act), but must first consult the applicant.
+    - 5. Review & Appeal Options
+      - Merits Review (Reassessment of the decision):
+        - 1. Internal Review (s 54 FOI Act)
+          - Request review by the Department itself within 30 days.
+        - 2. Information Commissioner Review (s 54L FOI Act)
+          - Independent review of the Department’s decision.
+          - The IC can affirm, vary, or set aside the decision (s 55K FOI Act).
+        - 3. AAT Review (s 57A FOI Act)
+          - If dissatisfied with the IC’s decision, appeal to the Administrative Appeals Tribunal.
+      - Judicial Review (Legality review only):
+        - Federal Court (Administrative Decisions (Judicial Review) Act 1977 (Cth)) – If there is an error in law.
+        - NSW Supreme Court (for GIPA Act refusals in NSW).
+      - Key authority: Warren v Services Australia [2024] FCAFC 73 – Procedural unfairness (e.g., relying on secret evidence) is grounds for judicial review.
+### Week 5: Tribunals
+
+- 1. Locating Tribunals in the Administrative Law System
+  - Categories of Tribunals
+    - De facto courts – Tribunals that function similarly to courts but lack judicial status.
+    - Political decision-making bodies – Tribunals with decision-making influenced by government policy.
+    - Administrative review tribunals – Tribunals that conduct merits review of government decisions.
+    - Hybrid tribunals – Tribunals that combine elements of different tribunal types.
+  - Key Tribunals
+    - Administrative Appeals Tribunal (AAT)
+      - Governing Act: Administrative Appeals Tribunal Act 1975 (Cth) s 5A
+      - Expected to be replaced by: Administrative Review Tribunal (ART) within 12 months
+    - NSW Civil and Administrative Tribunal (NCAT)
+      - Governing Acts: Civil and Administrative Tribunal Act 2013 (NSW) s 9
+      - Administrative Decisions Review Act 1997 (NSW) s 9
+- 2. Guiding Principles of Tribunals
+  - Tribunals must pursue objectives (Administrative Appeals Tribunal Act 1975 (Cth) s 2A):
+    - Accessible
+    - Fair, just, economical, informal, and quick
+    - Proportionate (to the importance and complexity of the case)
+    - Promote public trust and confidence
+- 3. Tribunal Procedure
+  - Tribunals have flexibility in procedure (AAT Act s 33(1)):
+    - ✅ Discretion
+    - ✅ Expedition
+    - ❌ Formality
+    - ❌ Technicality
+    - ❌ Formal rules of evidence
+  - Key procedural rules:
+    - The tribunal controls its own procedure within statutory and regulatory limits (AAT Act s 33(1)(a)).
+    - Proceedings should be conducted with as little formality and technicality as possible (AAT Act s 33(1)(b)).
+    - The tribunal is not bound by the rules of evidence and may inform itself as it sees fit (AAT Act s 33(1)(c)).
+- 4. Membership & Constitutional Issues
+  - Tribunal Structure (AAT Act ss 5A, 7)
+    - President – Federal Court judge
+    - Deputy Presidents – Judges, lawyers (5+ years experience), or experts
+    - Senior Members – Lawyers (5+ years) or experts
+    - Other Members – Lawyers (5+ years) or experts
+  - Separation of Powers Issues
+    - Tribunals are not Chapter III courts (not part of the judicial branch).
+    - Judges can serve as tribunal members as persona designata (Re Drake v Minister for Immigration and Ethnic Affairs (1979) 2 ALD 60).
+    - Breach of separation of powers? No constitutional issue if a judge personally holds an administrative role.
+- 5. Access to Reasons from Government
+  - What are reasons?
+    - A statement from the decision-maker explaining:
+      - Findings on material facts
+      - Evidence or materials used
+      - Reasons for the decision
+    - Why are reasons important?
+      - Transparency & accountability
+      - Fairness (so the affected party understands the decision)
+      - Supports review & appeal
+    - Legal Position on Reasons
+      - No common law right to reasons: Public Service Board of NSW v Osmond (1986) 159 CLR 656
+      - BUT…
+      - Courts may infer legal irrationality if no reasons are given.
+      - Tribunals must provide reasons before and after review (AAT Act ss 28(1), 37(1)).
+    - Other Sources of Reasons
+      - Administrative Decisions (Judicial Review) Act 1977 (Cth) s 13 – Right to request reasons for ADJR Act applications.
+      - Corporations Act 2001 (Cth) s 915G – ASIC must give reasons if cancelling a financial services licence.
+- 6. Abolition of the AAT & Establishment of the ART
+  - Problems with the AAT
+    - Backlogs & delays
+    - Declining public trust
+    - Political appointments (40% in 2019–22; 31% had political ties 2017–21)
+  - Key Features of the ART
+    - Appointment Process (cl 205-08) – Minister can only appoint candidates assessed as suitable via a merit-based, publicly advertised process.
+    - Guidance and Appeals Panel (cl 122, 128) – Handles appeals on errors and systemic issues (e.g., Robodebt).
+    - Re-establishing the ARC – Restores the Administrative Review Council (defunded in 2015–16).
+  - Impact for Students & Lawyers
+    - Core principles of merits review remain unchanged.
+    - In exams, refer to AAT & AAT Act unless the question asks about the ART.
+- 7. Tribunal Jurisdiction
+  - Conferral of Jurisdiction
+    - A ‘decision’ includes any act or refusal to act (AAT Act s 3(3)).
+    - Purported decisions (even if unlawful) are reviewable (Collector of Customs v Brian Lawlor Automotive Pty Ltd (1978) 1 ALD 167).
+  - Examples of tribunal jurisdiction under specific statutes:
+    - Migration Act 1958 (Cth) s 306
+    - Gene Technology Act 2000 (Cth) s 183
+    - Australian Passports Act 2005 (Cth) s 50
+  - Standing to Apply for Review (AAT Act s 27)
+    - A person “whose interests are affected” can apply.
+    - Organisations may have standing if the decision relates to their objectives.
+  - Key Cases on Standing:
+    - Rudd and Minister for Transport – MPs do not have standing just because an issue affects their electorate.
+    - Re Control Investment Pty Ltd – ALP had standing due to media ownership concerns.
+    - Re Gay Solidarity Group – No standing if the decision does not directly relate to the organisation’s objectives.
+- 8. Tribunal Decision-Making: Rehearing vs Hearing De Novo
+  - ‘Correct & Preferable’ Test (Drake v Minister for Immigration (1979) 2 ALD 60)
+    - Correct decision = legally valid
+    - Preferable decision = best option based on merits
+  - Evidence in Tribunal Review
+    - Original decision-maker’s documents (‘T’ documents) must be provided (AAT Act s 37(1)(b)).
+    - Tribunal can summon witnesses and documents (AAT Act ss 38, 40A).
+    - Tribunal is not bound by the rules of evidence (AAT Act s 33(1)(c)).
+    - New evidence is admissible (Shi v Migration Agents Registration Authority (2008) 235 CLR 286).
+- 9. Government Policy in Tribunal Decisions
+  - Is a Tribunal Bound by Policy?
+    - Tribunals must consider policy but are not bound by it (Re Drake (No 1) (1979) 2 ALD 60).
+    - Strict application of policy should not produce injustice (Re Drake (No 2) (1979) 2 ALD 634).
+    - Cogent reasons required to depart from policy.
+- 10. Doctrine of Precedent in Tribunals
+  - No strict precedent in AAT decisions (Re Ganchov and Comcare (1990) 19 ALD 541).
+  - ART ‘Guidance Decisions’ (cl 109-110) must be considered but are not binding.
+- 11. Tribunal Review Outcomes
+  - Remedial Powers (AAT Act s 43(1))
+    - Affirm
+    - Vary
+    - Set aside and substitute
+    - Set aside and remit
+- 12. Appeals from Tribunal Decisions
+  - Appeals only on questions of law (AAT Act s 44).
+  - Federal Court → High Court (special leave required).
+  - Key Case: Neal v Secretary, Department of Transport (1980) 3 ALD 97 – Appeals are limited to legal errors, not merits.
+- 13. Exam Answer Formula: Tribunals in Administrative Law
+  - Step 1: Identify the Tribunal and Its Function
+    - Determine the relevant tribunal (e.g., AAT, NCAT).
+    - Confirm whether it has jurisdiction under the applicable statute:
+      - Administrative Appeals Tribunal Act 1975 (Cth) s 3(3), s 25(1)
+      - Civil and Administrative Tribunal Act 2013 (NSW) s 9
+  - Step 2: Establish Standing
+    - Identify the applicant’s interest: Does the person’s interests meet the standing test? (AAT Act s 27)
+    - Apply relevant case law:
+      - Rudd and Minister for Transport – MPs do not have standing just for representing constituents.
+      - Re Control Investment Pty Ltd – Political parties may have standing if the decision affects their objectives.
+      - Re Gay Solidarity Group – Organisations must show the decision relates directly to their purpose.
+  - Step 3: Determine the Tribunal’s Review Approach
+    - Is the review a merits review (de novo hearing)?
+      - AAT Act s 43(1) – Tribunal has power to remake the decision.
+      - Drake v Minister for Immigration (1979) 2 ALD 60 – Tribunal determines the “correct or preferable” decision.
+        - Correct = must
+        - Preferable = may
+          - Must grant is either correct or incorrect
+          - May grant is discretionary and therefore merits based
+    - What evidence is considered?
+      - Tribunal is not bound by rules of evidence (AAT Act s 33(1)(c)).
+      - Tribunal can receive new evidence (Shi v Migration Agents Registration Authority (2008) 235 CLR 286).
+  - Step 4: Consider the Role of Government Policy
+    - Is the tribunal required to apply policy?
+    - Tribunals should follow lawful policy unless there are cogent reasons to depart (Re Drake (No 2) (1979) 2 ALD 634).
+    - Policy cannot be inflexibly applied if it leads to injustice.
+  - Step 5: Determine the Tribunal’s Decision-Making Power
+    - What remedial power does the tribunal have? (AAT Act s 43(1)):
+      - Affirm the decision.
+      - Vary the decision.
+      - Set aside and substitute a new decision.
+      - Set aside and remit for reconsideration.
+    - Apply the relevant case law on tribunal discretion:
+      - Re Greenham & Minister for Capital Territory (1979) 2 ALD 137 – Tribunal is not limited to material before the original decision-maker.
+  - Step 6: Consider Access to Reasons for Decision
+    - Does the applicant have a right to reasons?
+      - No general common law right to reasons (Public Service Board of NSW v Osmond (1986) 159 CLR 656).
+      - Statutory rights to reasons:
+        - AAT Act s 28(1) – Right to request reasons before seeking review.
+        - AAT Act s 37(1) – Reasons must be lodged with the Tribunal during review.
+        - ADJR Act s 13 – Right to request reasons under judicial review.
+  - Step 7: Determine Appeal Options
+    - Can the decision be appealed?
+      - Only questions of law can be appealed (AAT Act s 44).
+      - Appeal process:
+        - Federal Court → High Court (special leave required) (Neal v Secretary, Department of Transport (1980) 3 ALD 97).
+    - Does the ART change this process?
+      - ART will introduce a Guidance and Appeals Panel (ART Bill cl 122, 128).
+- SCAFFOLD MODULES
+  - [TRB-P1] – Identifying the Tribunal and Source of Jurisdiction Where merits review is sought, the relevant tribunal and source of jurisdiction must first be identified. At the Commonwealth level, the Administrative Appeals Tribunal (AAT) may review “decisions” made under an enactment (AAT Act 1975 (Cth) s 25(1)). A “decision” includes acts such as granting, refusing, or revoking a permission, certificate, or order (s 3(3)). The same logic applies to state tribunals such as NCAT under s 9 of the Civil and Administrative Tribunal Act 2013 (NSW). The tribunal only has jurisdiction where the enabling Act expressly confers review rights.
+  - 
+  - [TRB-P2] – Establishing Standing for Review Standing is a jurisdictional requirement. Under AAT Act s 27(1), any person “whose interests are affected by the decision” may apply. This includes individuals directly impacted and organisations whose statutory objects align with the subject matter of the decision (s 27(2)). For example, a political party challenging media control had standing because media regulation fell within its aims (Re Control Investment Pty Ltd (1980) 3 ALD 74). Conversely, a Member of Parliament lacks standing merely by virtue of electoral representation (Rudd v Minister for Transport (2001) 65 ALD 296), and advocacy groups may lack standing where the decision is not linked to their explicit objectives (Re Gay Solidarity Group (1983) 5 ALD 289).
+  - [TRB-P3] – Nature of Merits Review and the Tribunal’s Approach Merits review is conducted as a hearing de novo. The tribunal may exercise all powers of the original decision-maker to determine the decision that is “correct or preferable” (AAT Act s 43(1)). “Correct” addresses legal validity; “preferable” permits policy-sensitive discretion (Drake v Minister for Immigration (1979) 2 ALD 60). The tribunal does not assess whether the original decision was wrong, but whether it can make a better decision on the evidence available at the time of review.
+  - 
+  - [TRB-P4] – Evidence Admissible in Merits Review Tribunals are not bound by the rules of evidence and may inform themselves on any matter as they think appropriate (AAT Act s 33(1)(c)). They may consider new or updated information, including evidence unavailable to the original decision-maker (Shi v Migration Agents Registration Authority (2008) 235 CLR 286). For instance, post-decision developments or newly discovered documents are admissible and may be determinative.
+  - 
+  - [TRB-P5] – Role of Government Policy in Merits Review Tribunals are not bound by executive policy but may consider it where it is lawful and relevant. In Re Drake (No 1) (1979) 2 ALD 60, it was held that policy may guide consistency but cannot override individual justice. In Re Drake (No 2) (1979) 2 ALD 634, Brennan J held that the tribunal should ordinarily apply lawful ministerial policy unless there are cogent reasons to depart — for instance, where strict adherence would cause injustice. The tribunal must ultimately determine the correct or preferable outcome, not merely whether the original decision conformed to policy.
+  - 
+  - [TRB-P6] – Remedies and Powers of the Tribunal The tribunal may affirm, vary, or set aside the decision. If set aside, the tribunal may substitute its own decision or remit the matter to the original decision-maker for reconsideration (AAT Act s 43(1)). This broad remedial power underscores the de novo nature of review. In Re Greenham (1979) 2 ALD 137, the tribunal was not restricted to the material before the original decision-maker and could take into account new arguments and facts to determine a preferable outcome.
+  - 
+  - [TRB-P7] – Access to Reasons from Government Decision-Makers There is no general common law duty to provide reasons for administrative decisions (Public Service Board of NSW v Osmond (1986) 159 CLR 656). However, under AAT Act s 28(1), an applicant may request a statement of reasons before review. Once an application is lodged, s 37(1) requires the decision-maker to provide a written statement to the tribunal, setting out findings of fact, the evidence relied upon, and reasons. Additionally, under ADJR Act 1977 (Cth) s 13, applicants in judicial review proceedings may request reasons. The absence of reasons may give rise to an inference of unreasonableness.
+  - 
+  - [TRB-P8] – Appeals from Tribunal Decisions Merits review decisions may be appealed only on questions of law (AAT Act s 44). There is no right to appeal factual or discretionary errors. The appeal lies to the Federal Court and may reach the High Court by special leave. In Neal v Secretary, Department of Transport (1980) 3 ALD 97, the Federal Court affirmed that its role is limited to identifying legal error — not re-evaluating the merits. This preserves the distinction between judicial and administrative review. The ART introduces an internal merits appeal mechanism — the Guidance and Appeals Panel (ART Bill cls 122, 128) — which allows reconsideration where a matter involves systemic error or an issue of significant administrative importance.
+### Week 6: Judicial Review
+
+- 1. Key Doctrinal Foundations
+- 
+  - Rule of Law
+    - Government must be governed by laws, not discretion (John Adams).
+    - Laws must be:
+      - General, clear, and publicly known;
+      - Prospective;
+      - Equally applied;
+      - Supported by institutions of enforcement.
+  - Separation of Powers
+    - Separation: Courts, Parliament, and Executive must not overstep their domain.
+    - Supervision: Courts check legality of executive action — not policy merits.
+  - Legality vs Merits Distinction
+    - Judicial review is not a cure for administrative injustice unless it arises from illegality.
+      - Attorney-General (NSW) v Quin (1990) 170 CLR 1, 35-6 (Brennan J)
+      -  The court enforces legal limits, not better decision-making.
+- 2. What is Judicial Review?
+  - Judicial review is supervisory, not appellate — courts ensure the decision-maker (DM):
+    - Stayed within power;
+    - Followed procedure;
+    - Respected individual rights.
+- 3. Where Does JR Come From?
+Level
+Jurisdiction
+Source
+Cth
+High Court
+Constitution s 75(v): writs against Cth officers
+
+Fed Court
+Judiciary Act s 39B: replicates s 75(v)
+
+
+ADJR Act 1977 (Cth): simplified, statutory review
+State
+NSWSC
+Supreme Court Act ss 23, 69: broad inherent power
+- 4. Jurisdiction Checklist
+Requirement
+Constitutional (s 75(v), 39B)
+ADJR Act
+NSWSC
+Remedy sought
+Relevant writ (prohibition, mandamus, injunction)
+Order of review
+Judicial review remedies
+Decision-maker
+Officer of the Commonwealth
+Decision of admin character under enactment
+Public body or power
+Subject-matter
+“Matter”: existing legal right/duty
+Same subject as JR
+Justiciable matter
+Standing
+Special interest, person aggrieved
+s 5(1): “person aggrieved”
+Standing overlaps
+- 5. Decision-Making under ADJR Act
+  - Elements:
+    - Decision: Must be final, operative, substantive → 
+      - Australian Broadcasting Tribunal v Bond
+    - Administrative Character: Not judicial/legislative → 
+      - Roche Products v NDPSC, FAC v Aerolineas Argentinas
+    - Under an Enactment: Must derive from a statute → 
+      - Griffith University v Tang, ANU v Burns
+    - Person Aggrieved (s 5(1)): Has special interest
+- Decision-Making under Constitution s 75(v)
+  - 1. Identify the Source of Jurisdiction
+    - s 75(v) of the Australian Constitution vests original jurisdiction in the High Court in all matters:
+    - “in which a writ of Mandamus or prohibition or an injunction is sought against an officer of the Commonwealth.”
+    - Key legal source: Australian Constitution s 75(v)
+  - 2. Establish the Existence of a "Decision" or "Conduct"
+    - Judicial review requires that there be administrative conduct or a decision capable of review.
+    - Legal source: Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476
+    - → Held: "Decision" means administrative action taken under statute, including refusals.
+  - 3. Determine Whether the Respondent Is an "Officer of the Commonwealth"
+    - The High Court's jurisdiction under s 75(v) only applies to decisions by a Commonwealth officer.
+    - Legal source: Bodie v Commonwealth (2004) 78 ALJR 1259; Plaintiff S157
+    - → Ministers administering a Commonwealth Act are “officers of the Commonwealth”.
+  - 4. Relief Must Be One of the Constitutional Writs
+    - Applicant must be seeking mandamus, prohibition, or an injunction.
+    - Legal source: Australian Constitution s 75(v); Plaintiff S157
+      - → Court can issue constitutional writs to restrain unlawful conduct or compel action.
+  - 5. Identify the Legal Error (Typically Jurisdictional Error)
+    - Judicial review under s 75(v) focuses on jurisdictional errors – errors that affect the legality of the decision.
+    - Legal sources:
+      - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476
+      - Minister for Immigration v SZMDS (2010) 240 CLR 611
+      - Minister for Aboriginal Affairs v Peko-Wallsend Ltd (1986) 162 CLR 24
+    - Examples of jurisdictional error include:
+      - Acting under dictation
+      - Unlawfully fettering discretion
+      - Ignoring relevant considerations
+- 6. Types of Reviewable Action
+Type
+Section
+Example
+Decision
+s 5
+Licence refusal, cancellation of visa
+Conduct
+s 6
+Procedural actions in decision-making
+Failure
+s 7
+Not making a required decision
+- 7. Grounds of Review (ADJR & CL)
+  - ADJR s 5 grounds largely codify common law:
+    - Procedural unfairness – e.g. no hearing → Kioa v West
+    - Jurisdictional error – e.g. acting beyond power
+    - Improper purpose or irrelevant considerations
+    - Error of law
+    - No evidence
+    - Uncertainty
+    - Otherwise contrary to law (s 5(1)(j))
+  - Common Law & Remedies:
+    - Writs: Mandamus, Prohibition, Certiorari
+    - Declarations or injunctions
+    - Requirement: Jurisdictional error to displace privative clause
+- 8. Justiciability
+  - Review not available for purely political, foreign affairs, or Cabinet-level discretion:
+    - Minister v Peko-Wallsend
+    - Aye v Minister for Immigration
+- 9. Private Bodies – Amenable to JR?
+Case
+Test / Principle
+Datafin
+Public function = public law accountability
+NEAT v AWB
+Private actor not subject to JR unless statutory power
+- 10. Constitution s 75(v) – Essentials
+Element
+Meaning
+“Matter”
+Real legal dispute → In re Judiciary Acts; McBain
+“Officer of Cth”
+Public servant, Minister, Tribunal (not ABC/ATSIC)
+“Writ sought”
+Mandamus, Prohibition, Injunction
+- 11. Remedies & Jurisdiction
+Court
+Jurisdiction Source
+Remedy Prerequisites
+HCA
+s 75(v)
+Jurisdictional error, officer of Cth
+FCA
+s 39B + ADJR
+Matter + error / breach
+NSWSC
+ss 23, 69
+Broad judicial review powers
+- 12. Flowchart Reference (From Diagram)
+  - 1. What level of government?
+    - Commonwealth → HCA/FCA → ADJR or s 75(v)
+    - State → NSWSC
+  - 2. Which court has jurisdiction?
+    - ADJR: FCA / FCFCA (decision of admin character under enactment)
+    - Constitution: HCA s 75(v), FCA s 39B (writ + officer + matter)
+    - NSW: NSWSC (inherent jurisdiction)
+  - 3. Does the party have standing?
+    - “Person aggrieved”, special interest, legal right affected
+  - 4. Has the DM exceeded power?
+    - Jurisdictional error
+    - Error of law / procedural unfairness
+  - 5. Remedy available?
+    - ADJR: s 16 orders
+    - Constitution: Prohibition, Mandamus, Injunction
+    - Common law: Certiorari, declaration, injunction
+- Exam Answer Formula: Judicial Review Overview
+  - Step 1: Identify the Level of Government Involved
+    - Who made the decision?
+      - Federal decision-maker? (e.g. Minister, agency, tribunal) → go to Step 2A
+      - State decision-maker? (e.g. NSW agency, NSW Minister) → go to Step 2B
+  - Step 2A: If Federal – Choose the Appropriate Jurisdiction
+    - Which court has jurisdiction to hear the case?
+    - You must choose between:
+      - ADJR Act (Administrative Decisions Judicial Review Act 1977 (Cth)) → easier procedure
+      - Judiciary Act 1903 (Cth) s 39B (Federal Court) → if ADJR not available
+      - Constitution s 75(v) (High Court) → fallback constitutional guarantee
+    - Checklist for ADJR Act Jurisdiction:
+      - Is it a decision to which the Act applies? (ADJR Act s 3(1))
+        - See Step 3 for detail.
+      - Is the applicant a “person aggrieved”? (ADJR Act s 5(1))
+      - Is the decision excluded? (Schedule 1 or privative clause?)
+      - ✅ If all are yes → Apply under ADJR Act in Federal Court
+      - ❌ If no (e.g. non-reviewable decision, excluded) →
+        - → Use s 39B (Federal Court) or
+        - → s 75(v) of the Constitution (High Court)
+      - Key authority: Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476 – privative clauses cannot oust s 75(v) jurisdiction
+  - Step 2B: If State – Use NSW Supreme Court
+    - Supreme Court Act 1970 (NSW) ss 23, 69
+      - Court has inherent jurisdiction over administrative action by State bodies
+      - No need to prove decision was under statute (but it often is)
+      - Justiciability still applies
+  - Step 3: Is the Decision Reviewable?
+    - Apply this four-part ADJR test (or equivalent for constitutional/common law JR):
+Element
+Rule
+Case / Statute
+1. Decision
+Must be final, operative, and determinative (not a preliminary step)
+Bond (1990) 170 CLR 321; ADJR Act s 3(2)
+2. Administrative Character
+Not legislative or judicial
+Griffith University v Tang (2005) 221 CLR 99
+3. Made Under Enactment
+Decision must be authorised/imposed by statute and affect legal rights
+Tang; Burns v ANU (1982) 40 ALR 707
+4. Applicant has standing
+“Person aggrieved” under ADJR s 5(1); “special interest” for common law
+ACF v Commonwealth (1980) 146 CLR 493; Bateman’s Bay (1998) 194 CLR 247, s 5(1)
+
+  - Step 4: What Ground(s) of Review Apply?
+    - Apply grounds from:
+      - ADJR Act s 5 (or s 6 if conduct only)
+      - Common law equivalents under s 39B / s 75(v)
+    - Most common grounds:
+      - Jurisdictional Error	
+        - Craig v South Australia (1995) 184 CLR 163
+      - Procedural Fairness	
+        - Kioa v West (1985) 159 CLR 550
+      - Improper Purpose	
+        - ADJR s 5(1)(e); Padfield [1968] AC 997
+      - Relevant/Irrelevant Considerations	
+        - ADJR s 5(2)(a); Peko-Wallsend (1986) 162 CLR 24
+      - No Evidence	
+        - ADJR s 5(1)(h), s 5(3)
+      - Error of Law	
+        - ADJR s 5(1)(f); Miah (2001) 206 CLR 57
+      - Fettering of Discretion / Inflexible Policy	
+        - ADJR s 5(2)(f); British Oxygen Co [1971] AC 610; Venables [1998] AC 407
+  - Step 5: Is the Decision Justiciable?
+    - Ask: Should the court even decide this?
+      - Justiciable if it involves:
+        - Legal rights, duties, public power
+        - Most cases are justiciable.
+      - ✖ Not justiciable if:
+        - Political questions (e.g. foreign affairs, Cabinet-level decisions)
+        - No enforceable standard or duty
+          - See: Peko-Wallsend, Minister for Arts v Peko-Wallsend (1986) 162 CLR 24
+          - See: McBain v Victoria (2002) 198 CLR 383
+  - Step 6: What Remedy Is Sought?
+    - Choose based on court/jurisdiction:
+Jurisdiction
+Available Remedies
+ADJR Act
+Order of Review → s 16 remedies (e.g. quashing, injunction)
+s 75(v)
+Constitutional writs: Mandamus, Prohibition, Injunction
+NSWSC
+Prerogative writs + declarations/injunctions under s 69
+
+    - ✔ Certiorari: to quash unlawful decision
+    - ✔ Mandamus: to compel performance of duty
+    - ✔ Prohibition: to prevent excess of power
+    - ✔ Declaration: clarity about legal rights
+    - ✔ Injunction: prevent action or compel restraint
+  - Step 7: Consider Remedial Limits
+    - Has a privative clause been used? Is the remedy limited?
+    - Remedies may be limited to jurisdictional error only.
+    - Privative clauses do not exclude s 75(v) remedies → Plaintiff S157/2002
+    - Remedies discretionary under ADJR s 16
+### Week 7: Remedies and standing
+
+- 1. 🧰 Public Law Remedies – Overview
+Remedy
+Purpose
+Error Required
+Coercive?
+Legal Source
+Certiorari
+Quashes legally effective decisions
+✔ Jurisdictional or ✖ Non-JE on face of record
+✔ Yes
+SCA 1970 (NSW) s 69(1)(a), Judiciary Act 1903 (Cth) s 33
+Prohibition
+Prevents unlawful action
+✔ Jurisdictional
+✔ Yes
+Constitution s 75(v), Judiciary Act s 33
+Mandamus
+Compels exercise of public duty
+✔ Jurisdictional
+✔ Yes
+Constitution s 75(v), Judiciary Act s 33
+Injunction
+Prevents or compels action
+✔ JE or ✖ Non-JE
+✔ Yes
+Equitable jurisdiction, Constitution s 75(v)
+Declaration
+Clarifies legal position
+✔ JE or ✖ Non-JE
+✖ No
+Equitable jurisdiction
+Habeas Corpus
+Produces detained person before court
+✔ Jurisdictional
+✔ Yes
+SCA s 69(1)(b)
+ADJR Act Remedies
+Streamlined federal review remedies
+✔ JE or ✖ Non-JE (unless excluded)
+✔/✖ Varies
+ADJR Act 1977 (Cth) s 16
+
+- 2. 🏛️ Sources of Remedies
+  - Prerogative Writs: Certiorari, Mandamus, Prohibition, Habeas Corpus
+    - Now statutory: SCA 1970 (NSW) s 69; Judiciary Act 1903 (Cth) s 33
+  - Equity: Declaration and injunction
+    - Flexible, non-coercive unless enforced via contempt
+    - Constitution: s 75(v) mandates original jurisdiction of HCA for: 
+      - Mandamus, Prohibition, Injunction against Commonwealth officers
+    - Statute (ADJR Act): s 16 allows: 
+      - Quashing, declaration, injunction, or referral of decision
+- 3. ⚖️ Errors & Legal Effect
+Remedy
+Requires Jurisdictional Error?
+Notes
+Certiorari
+✔ Usually, unless on face of record
+Legal effect must be present (Ainsworth)
+Prohibition
+✔ Yes
+Must prohibit pending/continuing action
+Mandamus
+✔ Yes
+Only where duty is unperformed
+Injunction
+✔/✖ Both
+Available for JE & non-JE (Futuris)
+Declaration
+✔/✖ Both
+Non-coercive (Ainsworth)
+ADJR
+✔/✖ Both
+Unless privative clause applies (s 16)
+
+4. Standing – Remedy-Specific Tests
+Standing – Remedy-Specific Tests
+Remedy
+Standing Test
+Authority
+Injunction / Declaration
+“Special interest”
+ACF v Commonwealth (1980)
+Mandamus
+Legal specific right
+R v Whiteway; Ex p Stephenson [1961] VR 168
+Certiorari / Prohibition
+Peculiar grievance (not shared generally)
+R v Surrey Justices (1870)
+ADJR
+“Person aggrieved”
+North Coast Environment Council (1994)
+  - “Special interest” ≠ ideological concern (ACF);
+  - Includes cultural custodianship (Onus v Alcoa);
+  - Competitor standing allowed where economic loss + unfair competition (Argos v Corbell).
+- 5. 📁 Discretionary Refusal of Relief
+  - No remedy as of right: Court may refuse relief even where error shown
+  - Grounds to refuse:
+    - Unreasonable delay
+    - Improper conduct (e.g., bad faith)
+    - Alternative remedy more appropriate
+    - Futility (e.g., licence expired)
+    - Presumption in favour of relief once JE shown (Essendon FC v ASADA (2014))
+- Exam Scaffold – Remedies & Standing
+  - 1. Identify the Remedy Sought and Its Source
+    - 1.1. What is the applicant seeking?
+      - Certiorari, Prohibition, Mandamus, Injunction, Declaration, or ADJR Act s 16 remedy?
+    - 1.2. What is the legal source?
+      - Prerogative (SCA s 69; Judiciary Act s 33), Equitable jurisdiction, ADJR Act s 16, Constitution s 75(v).
+  - 2. Does the Alleged Error Justify the Remedy?
+    - 2.1. Is a jurisdictional error required?
+      - Yes for Certiorari (unless face of record), Prohibition, Mandamus (Craig v South Australia (1995)).
+      - No for Injunction & Declaration (FCT v Futuris (2008)).
+      - ADJR Act remedies available for both, unless excluded (Plaintiff S157/2002 v Cth (2003)).
+    - 2.2. Does the decision have legal consequences?
+      - Certiorari only quashes legally effective decisions (Ainsworth v CJC (1992)).
+      - May apply to a step in a process if it affects final outcome (Hot Holdings v Creasy (1996)).
+  - 3. Remedy-Specific Tests
+    - 3.1. Certiorari
+      - Legal test: Decision with legal effect + jurisdictional error or error on face of record.
+      - Ainsworth: Report with no legal effect ≠ certiorari.
+      - Hot Holdings: Precursor step affecting final discretion = quashable.
+      - Craig: “Record” excludes reasons unless statute expands it.
+      - SCA s 69(4): “Record” includes reasons.
+    - 3.2. Prohibition
+      - Prevents a continuing or threatened jurisdictional error (Re Patterson; Ex p Taylor (2001)).
+      - Must be something left to prohibit.
+      - Can prevent decisions taken without PF (Ainsworth).
+    - 3.3. Mandamus
+      - Compels a public legal duty.
+      - Must be unperformed or constructively unperformed (invalid due to JE).
+      - Minister v Bhardwaj (2002): Invalid decision = no decision.
+      - Cannot compel how discretion is exercised (Randall v Northcote (1910)).
+    - 3.4. Injunction
+      - Available for JE or non-JE (Futuris (2008)).
+      - May restrain tribunals, enforce rights or prevent unlawful conduct.
+      - Broader and more flexible than prerogative writs.
+    - 3.5. Declaration
+      - Non-coercive statement of legal rights (Ainsworth, 581).
+      - Available for JE or non-JE.
+      - May be refused if Parliament intended finality (Harvey v Commissioner [2014] QSC 183).
+    - 3.6. ADJR Act s 16 Remedies
+      - (a) Quash decision
+      - (b) Refer back
+      - (c) Declare rights
+      - (d) Order to act or refrain
+        - Available for JE and non-JE (Conyngham (1986)), but no damages (Park Oh Ho (1989))
+  - 4. Discretionary Factors
+    - Relief is discretionary, not as of right.
+    - Refusal grounds include:
+      - Delay
+      - Futility
+      - Alternative remedy
+      - Improper conduct (e.g. bad faith) → However, there is a strong presumption in favour of relief for JE (Essendon v ASADA (2014)).
+  - 5. Standing – Remedy-Specific Test
+    - 5.1. Determine appropriate test based on remedy
+      - Injunction/Declaration → Special interest (ACF (1980))
+      - Mandamus → Legal specific right (Whiteway (1961))
+      - Certiorari/Prohibition → Peculiar grievance (Surrey Justices (1870))
+      - ADJR → Person aggrieved (North Coast (1994))
+    - 5.2. Apply to facts
+      - No standing for moral/political interest (ACF)
+      - Yes if cultural custodian/actual user (Onus v Alcoa)
+      - Public bodies may gain standing based on role (North Coast)
+      - Competitors: No for mere competition, Yes if unfair or causing loss (Argos (2014))
+  - 6. What If a Party Does Not Have Standing?
+    - 6.1. Attorney-General Fiat
+      - A party without standing can apply for the Attorney-General’s fiat to bring proceedings in the public interest.
+      - Once granted, the person may sue on behalf of the Attorney-General – Little v Victoria [1999] VSCA 113, [18].
+    - 6.2. Join or support another proceeding
+      - Non-standing parties may assist a proceeding (e.g. intervenor status or amicus curiae) if a party with standing commences litigation.
+    - 6.3. Lobbying or Parliamentary Review
+      - Parties may make submissions to parliamentary committees or lobby the Minister for reconsideration or amendment of guidelines under the Act.
+### Week 8: Jurisdictional error
+
+- 1. Jurisdiction and Error
+  - Jurisdiction: power to decide facts, apply law, make orders (incl. judgment in courts)
+    - May be limited by: 
+      - Geographic, monetary, or subject-matter restrictions
+      - Procedural requirements, e.g. notice, hearings, consultation
+      - Statutory conditions precedent to valid exercise of power
+- 2. Functions of Jurisdictional Error (JE)
+  - Limits legislative and executive power
+    - s 75(v) of the Constitution entrenches judicial review of federal officers
+    - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476 — JE can’t be excluded
+  - Controls access to remedies
+    - Prohibition: requires JE – Re Refugee Review Tribunal; Ex parte Aala
+    - Mandamus: requires JE – Aala
+    - Certiorari:
+      - Possibly available for error on the face of the record – Craig v SA
+      - Otherwise only if *ancillary to prohibition or mandamus – Durairajasingham
+    - Injunction/Declaration: broader — available even where no JE
+      - Futuris (2008) 237 CLR 146, S157, Durairajasingham
+- 3. What Is Jurisdictional Error?
+  - Not a test — a conclusion: Hossain v Minister (2018) 264 CLR 123
+    - JE = failure to comply with a condition that is essential to valid decision-making
+    - Result: decision is void, not merely voidable
+- 4. How to Identify Jurisdictional Error
+  - a. Statutory Interpretation
+    - Ask: Did Parliament intend breach to result in invalidity?
+      - Project Blue Sky (1998) 194 CLR 355 — replace “mandatory/directory” with purpose of legislation
+    - Use:
+      - Text (e.g. “must” vs “may”)
+      - Context (location of provision in the Act)
+      - Purpose (object clauses, explanatory memorandum)
+      - Principle of legality — Ex parte Simms [2000] 2 AC 115
+  - b. Materiality
+    - An error is jurisdictional only if material — Hossain, MZAPC v Minister (2021)
+      - Material = could have made a difference
+      - Not needed for:
+        - Actual bias
+        - Apprehended bias
+        - Unreasonableness — MZAPC at [33]
+        - Procedural fairness — Nathanson v Minister [2022]
+  - c. Burden of Proof
+    - On applicant — MZAPC at [60]
+    - Standard: realistic possibility of a different outcome (not probability) — MZAPC at [39], Nathanson at [33]
+      - Cite: LPDT v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs [2024] HCA 12
+- 5. Privative Clauses
+  - a. What is a Privative Clause?
+    - Clauses that purport to exclude judicial review
+      - Finality clauses, ouster clauses, deeming provisions, limited review rights
+
+  - b. Constitutional Limits
+    - s 75(v) entrenches minimum supervisory jurisdiction of HCA
+      - Cannot exclude review for JE — Plaintiff S157
+  - c. Operation in Commonwealth and State Contexts 
+    - Commonwealth:
+      - HCA (s 75(v)) and Federal Court (s 39B Judiciary Act) — cannot exclude JE review
+      - ADJR Act (statutory) — can be excluded
+    - States:
+      - State Parliaments cannot remove JE review from Supreme Courts — Kirk v Industrial Court (NSW) (2010) 239 CLR 531
+- 6. Examples of Jurisdictional Error
+  - a. Breach of statutory procedure
+    - Not always JE → depends on legislative intent
+    - Project Blue Sky — breach of international obligation ≠ invalidity
+    - SAAP v Minister (2005) — breach of mandatory written notice was jurisdictional
+    - Oke (2007) — giving draft instead of final warrant = invalid search
+  - b. "No-invalidity" clauses
+    - Effective for non-JE errors only — not for conscious maladministration or bad faith
+    - Futuris — s 175 validly protects assessments despite error, unless deliberate abuse
+    - Still must read alongside other provisions (e.g. s 177)
+- 7. Delegation and Agency
+  - a. Delegation
+    - Presumption: delegatus non potest delegare — can't sub-delegate
+    - Rebutted by:
+      - Express statutory authorisation (e.g. s 34AA Acts Interpretation Act)
+      - Possibly implied in special circumstances (Bayly v Municipal Council of Sydney)
+  - b. Valid Delegation Requirements
+    - Written, signed instrument
+    - Compliant with statute
+    - Must clearly identify delegate (by name or office)
+  - c. Agency — Carltona Principle
+    - Carltona v Commissioner of Works [1943] — Minister may act through responsible officers
+    - Applied where:
+      - Statute permits (no personal exercise required)
+      - Administrative necessity supports it
+- Exam Scaffold – Jurisdictional Error
+  - 1. Identify the source of power
+    - Is it conferred by:
+      - Statute (e.g. Migration Act 1958 (Cth))
+      - Constitution (e.g. s 75(v) Constitution – entrenched judicial review)
+      - Delegation or agency under Acts Interpretation Act 1901 (Cth) s 34AA or Carltona
+  - 2. Identify the alleged error
+    - Type of error:
+      - Breach of a statutory condition (e.g. procedural requirement, time limit)
+      - Breach of procedural fairness (e.g. hearing rule, bias)
+      - Improper appointment or delegation (delegatus non potest delegare)
+      - Bias or bad faith
+  - 3. Ask: Is it a jurisdictional error?
+    - a. Apply the Project Blue Sky test
+      - Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355
+        - Did Parliament intend that breach of the condition should result in invalidity?
+    - b. Assess materiality of the error
+      - Hossain v Minister for Immigration and Border Protection (2018) 264 CLR 123
+        - Would compliance with the provision have made a difference?
+        - “Could have resulted in a different decision” = jurisdictional error
+      - MZAPC v Minister for Immigration (2021) 390 ALR 590 at [33]
+        - Bias, unreasonableness, and procedural fairness are inherently material
+  - 4. Determine available remedies
+    - Constitutional writs (available only for jurisdictional error):
+      - Prohibition, Mandamus, Certiorari – Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82
+    - Equitable remedies (may not require JE):
+      - Injunction / Declaration – FCT v Futuris Corporation Ltd (2008) 237 CLR 146
+        - Broader availability: includes fraud, bad faith, improper purpose
+      - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476 – confirms constitutional remedies for JE
+  - 5. Consider presence and effect of a privative clause
+    - Does it attempt to exclude judicial review?
+      - Migration Act 1958 (Cth) s 474: “privative clause decision... not subject to review”
+    - Apply S157:
+      - Plaintiff S157 – such clauses do not protect decisions involving jurisdictional error
+    - Apply Kirk:
+      - Kirk v Industrial Court (NSW) (2010) 239 CLR 531
+      - Privative clauses cannot remove supervisory jurisdiction of State Supreme Courts
+  - 6. Delegation or agency issue?
+    - a. Delegation – was power properly delegated?
+      - Presumption: delegatus non potest delegare
+      - Can be rebutted by:
+        - s 34AA Acts Interpretation Act 1901 (Cth) 
+        - Express delegation clauses in enabling statute (e.g. Therapeutic Goods Act 1989 s 57)
+    - b. Agency (Carltona principle) – did the decision-maker act via a department official?
+      - Carltona Ltd v Commissioners of Works [1943] 2 All ER 560
+        - Administrative necessity allows Minister to act through department officials
+        - Valid unless statute requires personal exercise
+### Week 9: Procedural Fairness
+
+- 1. What is Procedural Fairness and When Does It Apply?
+  - Terminology
+    - Originally termed “acting judicially”, later “natural justice”, now “procedural fairness” (Kioa v West (1985) 159 CLR 550).
+    - Reflects common law principles of justice and fairness (Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476 at 490).
+    - Two fundamental rules:
+      - Hearing rule: right to be heard.
+      - Bias rule: right to an impartial decision-maker.
+  - Source of Duty
+    - Common law presumes procedural fairness unless excluded.
+      - Kioa at 609 (Brennan J): statutes are construed against the background of fairness.
+    - Statutory context may affect the content or existence of the duty.
+- 2. When Does Procedural Fairness Apply?
+  - Relevant Interests
+    - PF applies where rights, interests, or legitimate expectations are affected:
+      - Legal and equitable interests.
+      - Status, liberty, reputation, confidentiality.
+      - Livelihood, financial interests.
+      - Kioa at 584, 373, 632.
+    - “Legitimate expectations” no longer determinative: see Ex parte Lam; WZARH.
+  - Nature of Adverse Effect
+    - “It is not the kind of individual interest but the manner in which it is apt to be affected...” – Kioa at 619 (Brennan J).
+    - Plaintiff S10/2011 at [66]: must “affect adversely... the sufficient interest of a party”.
+    - Link to standing principles: weaker standing = lower likelihood of PF being owed (Griffith v Tang at [45]).
+  - Statutory Exclusion
+    - Can be excluded expressly (Annetts v McCann (1990) 170 CLR 596).
+    - Implied exclusion possible but rare:
+      - Nature of power (e.g. emergency, warrants).
+      - Political context (Plaintiff S10/2011).
+      - Better seen as limiting content, not duty itself.
+- 3. The Hearing Rule
+  - General Rule
+    - WZARH (2015) 256 CLR 326, 335: fairness depends on legal framework and context.
+  - Factors Influencing Content (NCSC v News Corp (1984) 156 CLR 296, 326)
+    - Statutory context
+      - Look for express requirements (oral hearing, representation).
+    - Subject matter
+      - Urgency may reduce fairness: Marine Hull v Hurford (1985) 10 FCR 234.
+      - Immigration status decisions often require fairness: Kioa v West.
+    - Identity of decision-maker
+      - Courts require higher standards than administrative officers: BP Australia Ltd v Brown [2003] NSWCA 216.
+      - Ministers may have broader leeway: Plaintiff S10/2011 at 648.
+    - Discretionary scope
+      - Broad discretion may reduce entitlement (Barratt v Howard) or increase need for fairness (Jarratt v Commissioner of Police).
+      - Narrow discretion may limit the hearing right: Osborn v Parole Board [2014] AC 1115.
+    - Nature of inquiry
+      - Adversarial (greater entitlements: oral hearing, cross-examination).
+      - Inquisitorial (less stringent).
+  - Key Principles
+    - Kioa at 628: must be given a chance to respond to relevant adverse matters.
+    - Edwardes v Kyle (1995) 15 WAR 302: notice must provide sufficient particulars.
+  - Notice Requirements
+    - Contextual; no fixed form.
+    - Must allow time to respond and prepare: Ansell v Wells (1982) 43 ALR 41, 62.
+  - Opportunity to Be Heard
+    - Written or oral — depends on context (WZARH).
+    - Oral hearing required only if credibility, reputation, or complex facts at stake.
+  - Representation
+    - No absolute right: Cains v Jenkins (1979) 28 ALR 219, 230.
+    - Denial may breach PF in serious or complex matters.
+  - Cross-Examination
+    - Not guaranteed; depends on fairness, nature of facts, and context.
+  - Adverse Material
+    - Must be disclosed if credible, relevant and significant:
+      - Kioa at 629.
+      - Applicant VEAL (2005) 225 CLR 88 at 95, 99.
+      - AB v IBAC [2024] HCA 10, [24].
+      - Alphaone Pty Ltd (1994) 49 FCR 576 at 592.
+- 4. Rule Against Bias
+  - Types of Bias
+    - Actual Bias (subjective)
+      - Must show a pre-existing state of mind that affected the decision:
+        - Jia v MIMA (2001) 205 CLR 507 at 531–2.
+        - Sun Zhan Qui (1997) 81 FCR 71.
+    - Apprehended Bias (objective)
+      - Ebner v Official Trustee (2000) 205 CLR 337 at 350:
+        - Would a fair-minded lay observer reasonably apprehend lack of impartiality?
+  - Four Categories of Apprehended Bias (Webb v The Queen (1994) 181 CLR 41)
+    - 1. Interest: financial/personal interest in the outcome (e.g. Ebner, Hot Holdings).
+    - 2. Conduct: statements, hostility (Vakuata v Kelly; BAT v Laurie).
+    - 3. Association: relationships, affiliations (Pinochet).
+    - 4. Extraneous information: irrelevant facts influencing perception (CNY17 v MIBP).
+  - Exceptions
+    - Necessity: no alternative decision-maker (Laws v Australian Broadcasting Tribunal).
+    - Waiver: delay in objection may waive the right (Vakuata).
+    - Statutory override: if Parliament permits conflicted decision-makers.
+- 5. Procedural Fairness and Judicial Review
+  - Common Law Remedy
+    - Breach of PF = jurisdictional error = invalid decision.
+    - Plaintiff S157/2002 (2003) 211 CLR 476.
+  - ADJR Act 1977 (Cth)
+    - s 5(1)(a) – breach of natural justice.
+    - s 5(1)(h) and s 5(3) – no evidence.
+    - s 5(1)(c), (d) – jurisdictional error, ultra vires.
+- 6. No Evidence and Fact-Finding Errors
+  - Common Law Standard
+    - R v Australian Stevedoring Board (1953) 88 CLR 100:
+      - No evidence = no factual foundation for legal power.
+      - Distinct from insufficient evidence.
+    - Must relate to a critical step: SFGB v MIMIA (2003) 77 ALD 402.
+  - Statutory Ground – ADJR Act s 5(3)
+    - Two limbs:
+      - (a) No evidence for a required fact.
+      - (b) Decision based on a non-existent fact.
+    - Must be critical to the outcome.
+    - Unresolved whether both limbs must be satisfied: compare Rajamanikkam and Curragh Queensland.
+- 7. Jurisdictional Facts
+  - What are Jurisdictional Facts?
+    - Objective preconditions to valid exercise of power.
+    - Trives v Hornsby (2015) 89 NSWLR 268 at 281: better termed “preconditions to power”.
+    - Key Cases
+      - Corporation of the City of Enfield (2000) 199 CLR 135:
+        - Whether a development was "non-complying" = jurisdictional fact.
+      - Plaintiff M70 (2011) 244 CLR 144:
+        - Minister’s belief that Malaysia offered protections = jurisdictional fact.
+    - Identifying Jurisdictional Facts
+      - Timbarra v Ross Mining (1999) 46 NSWLR 55:
+        - Requires statutory construction.
+        - Consider objectivity, essentiality, convenience.
+    - Subjective Preconditions
+      - “In the Minister’s opinion...” = limited judicial review.
+      - SZMDS (2010) 240 CLR 611 at 625: must not be irrational, illogical or unsupported by evidence.
+      - Djokovic v Minister (2022) 289 FCR 21: Minister’s “satisfaction” must be legally reasonable.
+- Exam Answer Formula - Procedural Fairness
+  - 1. Identify Whether Procedural Fairness (PF) Applies
+    - 1.1 Source of the duty
+      - PF arises at common law, unless clearly excluded.
+        - Kioa v West (1985) 159 CLR 550 at 609 (Brennan J)
+        - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476 at 490
+        - Annetts v McCann (1990) 170 CLR 596 at 598
+    - 1.2 Statutory construction principle
+      - Statutes are construed with a presumption of fairness unless expressly or impliedly excluded.
+      - Minister for Immigration and Border Protection v SZSSJ (2016) 259 CLR 180 at [75]
+    - 1.3 ADJR Act equivalent
+      - s 5(1)(a) – breach of the rules of natural justice in connection with the making of the decision (ADJR Act 1977 (Cth))
+  - 2. Determine Whether PF Has Been Excluded or Modified
+    - 2.1 Express exclusion
+      - Must be through “plain words of necessary intendment”
+        - Annetts v McCann (1990) 170 CLR 596 at 598
+    - 2.2 Implied exclusion – factors to consider
+      - Statutory review framework (e.g. appeal rights)
+      - Nature of power (e.g. urgency, national security)
+      - Contextual impracticality (e.g. mass visa cancellation)
+        - Kioa v West at 584; WZARH (2015) 256 CLR 326 at 335
+        - Marine Hull v Hurford (1985) 10 FCR 234
+    - 2.3 Ministerial/political discretion
+      - PF may be narrower where power is conferred on a politically accountable actor.
+        - Plaintiff S10/2011 (2012) 246 CLR 636 at 648
+        - Jia v MIMA (2001) 205 CLR 507 at 531
+  - 3. Establish Whether PF Is Owed in the Circumstances
+    - 3.1 Sufficient interest must be affected
+      - PF applies if the decision affects a person’s rights, interests or status:
+        - Kioa v West at 373, 584
+        - Plaintiff S10/2011 at [66]
+      - Recognised interests include:
+        - Legal/equitable rights
+        - Status (e.g. citizenship, visa status)
+        - Reputation, confidentiality
+        - Liberty, livelihood, or financial interest
+    - 3.2 Not a member of general public
+      - Interest must be personal and not held as a member of the public or a class
+        - Kioa v West at 632 (Deane J)
+    - 3.3 Link to standing
+      - If interest supports standing, it often supports entitlement to fairness.
+        - Plaintiff S10/2011 at [68]
+        - Griffith University v Tang (2005) 221 CLR 99 at [45]
+  - 4. Assess Content of the Hearing Rule
+    - 4.1 Contextual test – what is required to ensure fairness?
+      - Depends on nature of the decision, process, and statutory context.
+        - Minister for Immigration v WZARH (2015) 256 CLR 326 at 335
+        - NCSC v News Corp (1984) 156 CLR 296 at 326
+    - 4.2 Factors affecting content
+      - Statutory scheme – includes procedural requirements or appeal rights
+      - Subject matter – urgency, complexity (e.g. Marine Hull)
+      - Identity of decision-maker – court vs admin agency vs minister (Jia)
+      - Scope of discretion – broader discretion may imply greater fairness (Barratt; Jarratt)
+      - Nature of inquiry – adversarial = higher standard; inquisitorial = lower
+  - 5. Was the Hearing Rule Breached?
+    - 5.1 Notice of adverse material
+      - Must give notice of any material adverse to the person’s interests that is relied on
+        - Kioa v West at 628
+        - Edwardes v Kyle (1995) 15 WAR 302
+        - Ansell v Wells (1982) 43 ALR 41 at 62
+    - 5.2 Opportunity to respond
+      - Must be real and meaningful (not necessarily oral)
+      - Depends on seriousness, complexity, credit/reputation issues
+        - WZARH
+    - 5.3 Disclosure of adverse material – 3-part test
+      - Was the material:
+        - Credible
+        - Relevant
+        - Significant to the decision
+        - Kioa at 629; Applicant VEAL (2005) 225 CLR 88 at 95; AB v IBAC [2024] HCA 10
+    - 5.4 No obligation to disclose
+      - Widely known material
+      - Immaterial or insubstantial information
+      - Decision-maker’s mental processes (Alphaone (1994) 49 FCR 576 at 592)
+    - 5.5 Legal representation and cross-examination
+      - No absolute right to representation
+        - Cains v Jenkins (1979) 28 ALR 219 at 230
+      - Cross-examination may be required where credibility or key facts are in dispute
+  - 6. Was the Rule Against Bias Breached?
+    - 6.1 Actual bias (subjective)
+      - Must show pre-existing state of mind that affected impartial evaluation
+        - Jia v MIMA at 531
+        - Sun Zhan Qui (1997) 81 FCR 71
+        - Wannakuwattell’a (unreported, FCA, 24 June 1996)
+    - 6.2 Apprehended bias (objective)
+      - Ebner v Official Trustee (2000) 205 CLR 337 at 350 – two-limb test:
+        - 1. Identify what might cause the decision-maker to deviate from merits
+        - 2. Articulate the logical connection between that matter and feared deviation
+          - Standard: Would a fair-minded lay observer reasonably apprehend the decision-maker might not bring an impartial mind? (Johnson v Johnson (2000) 201 CLR 488)
+    - 6.3 Common categories of bias (Webb v The Queen (1994) 181 CLR 41 at 74)
+      - Interest – e.g. shares in affected company (Ebner)
+      - Conduct – e.g. hostile comments (Vakuata v Kelly)
+      - Association – e.g. ties to advocacy group (Pinochet)
+      - Extraneous information – e.g. access to prejudicial material (CNY17 v MIBP)
+  - 7. Is the Breach a Jurisdictional Error?
+    - 7.1 PF is a jurisdictional requirement
+      - Breach renders the decision invalid and void
+        - Plaintiff S157 (2003) 211 CLR 476 at 492
+    - 7.2 Remedy (common law or constitutional)
+      - Declaration, certiorari, prohibition, mandamus
+  - 8. Review Under the ADJR Act (If Applicable)
+    - 8.1 Relevant provisions – ADJR Act 1977 (Cth):
+      - s 5(1)(a) – breach of natural justice
+      - s 5(1)(h) – no evidence
+      - s 5(3) – explains the “no evidence” ground
+      - s 5(1)(c), (d) – ultra vires / lack of jurisdiction
+### Week 10: Errors in the exercise of discretion
+
+- 1. Considerations Grounds
+  - 1.1. Relevant and Irrelevant Considerations
+    - Relevant (Mandatory): Must be taken into account (Lo v Chief Commissioner of State Revenue (2013) 85 NSWLR 86, 89).
+    - Neutral (Permitted): May be considered or ignored without error (Lo).
+    - Irrelevant (Prohibited): Must not be considered; relates to extraneous/improper purposes (Lo).
+  - Examples:
+    - Relevant: Criminal history
+    - Neutral: Experience, nationality, employment
+    - Irrelevant: Marital status, religion, political views
+  - 1.2. Determining Relevance
+    - Express (Statutory):
+      - Mandatory: Migration Act 1958 (Cth) s 54(1) – must consider application information.
+      - Prohibited: Migration Act 1958 (Cth) s 197C(1)-(2); FOI Act 1982 (Cth) s 11B(4).
+    - Implied (Statutory Construction):
+      - Text, context, purpose (Minister for Immigration v Huynh (2004) 80 ALD 501).
+  - Special Examples:
+    - Must consider consultation submissions (Peko-Wallsend Ltd (1986) 162 CLR 24).
+    - Not mandatory: Unenacted international obligations (Plaintiff M1 v Minister for Home Affairs [2022] HCA 17).
+- 2. Taking Considerations into Account
+  - 2.1. General Rules
+    - Relevant considerations: Must be considered.
+    - Irrelevant considerations: Must not affect decision.
+  - 2.2. Proof via Reasons
+    - No common law right to reasons (Public Service Board (NSW) v Osmond (1986) 159 CLR 656).
+    - Statutory right: ADJR Act s 13.
+    - Benign reading of reasons (Collector of Customs v Pozzolanic (1993) 43 FCR 280).
+  - Inference:
+    - Courts may infer from silence or evidence gaps (Minister for Immigration v Yusuf (2001) 206 CLR 323).
+  - 2.3. Weight of Considerations
+    - Decision-maker usually decides weight (Peko-Wallsend, 41).
+    - Statutes may stipulate weight or require 'proper, genuine and realistic' consideration (SZMDS (2010) 240 CLR 611).
+- 3. Improper Purpose
+  - 3.1. Identifying Purpose
+    - Express: e.g., Migration Act 1958 (Cth) s 140X.
+    - Implied: Statutory construction (text, context, purpose).
+  - 3.2. Particular Cases
+    - Plaintiff S4/2014 v Minister for Immigration (2014) 312 ALR 537: improper use of detention powers.
+    - Schlieske v Minister for Immigration (1988) 84 ALR 719: deportation power for foreign prosecution = improper.
+  - 3.3. Proving Purpose
+    - High bar: Must prove subjective improper intent or reckless indifference (Industrial Equity Ltd v Deputy Commissioner of Taxation (1990) 170 CLR 649).
+  - 3.4. Weight of Purpose
+    - Would the decision "obviously have been no different" without the improper purpose? (East Melbourne Group Inc v Minister for Planning (2008) 23 VR 605).
+- 4. Fettering Discretion
+  - 4.1. What is Fettering?
+    - Inflexible application of policy = error (ex parte Venables [1998] AC 407).
+  - 4.2. Limits on Policy Use
+    - Policy must be lawful: Consistent with statute (Green v Daniels (1977) 13 ALR 1).
+    - Policy must be flexible: Merits must be considered (Re Drake (No 2) (1979) 2 ALD 634).
+    - Examples
+      - Green v Daniels: unlawful rigid policy for school leavers.
+      - Rendell v Release on Licence Board (1987) 10 NSWLR 499: improper blind application of government policy.
+- 5. Acting Under Dictation
+  - Decision must be genuinely that of the decision-maker.
+  - Fine line between considering views and surrendering discretion (Bread Manufacturers v Evans (1981) 180 CLR 404).
+  - Examples:
+    - CPCF v Minister for Immigration (2015) 255 CLR 514: obeying lawful superior orders was permitted.
+- 6. Unreasonableness, Irrationality, and Bad Faith
+  - 6.1. Unreasonableness and Irrationality
+    - Must be legally reasonable (Kruger v Commonwealth (1997) 190 CLR 1).
+    - "Evident and intelligible justification" needed (Minister for Immigration and Citizenship v Li (2013) 249 CLR 332).
+    - Key case:
+      - Minister for Immigration v Li: arbitrary refusal to defer hearing = jurisdictional error.
+    - Examples of Unreasonableness:
+      - Capriciousness (Edelsten v Wilcox (1988) 15 ALD 546).
+      - Critical inquiries misunderstood (SZIAI).
+  - 6.2. Bad Faith
+    - Requires dishonesty or recklessness (SBBS).
+    - Mere error or illogicality ≠ bad faith.
+    - Rare and difficult to prove.
+- 7. ADJR Act Equivalents
+  - s 5(1)(e): Improper exercise of power (taking irrelevant considerations, failing to take relevant ones, improper purpose, acting under dictation, inflexible application of policy, unreasonableness, bad faith).
+- Week 10 Exam Scaffold
+  - 1. Is the Decision Reviewable?
+    - 1.1. ADJR Act Jurisdiction
+      - Is it a “decision of an administrative character made under an enactment”? (ADJR Act s 3(1); Griffith University v Tang (2005) 221 CLR 99)
+      - 1.1.1. Final operative determination of rights or obligations
+      - 1.1.2. Source of power is statutory
+      - 1.1.3. Decision made under the enactment (i.e., statute provides authority or criteria)
+    - 1.2. Constitutional Writ Jurisdiction
+      - Is this a Commonwealth officer? → Judicial review is available under s 75(v) Constitution for jurisdictional error
+  - 2. Standing
+    - 2.1. ADJR Act s 5(1): “Person aggrieved”
+      - IF PRIVATE INTEREST CANNOT BE MADE: Must have a special interest in the subject matter beyond that of the general public (ACF v Commonwealth (1980) 146 CLR 493)
+    - 2.2. Constitutional Writs
+      - Lower threshold: a real interest suffices (Coco v The Queen (1994) 179 CLR 427)
+  - 3. Justiciability
+    - Excludes decisions involving non-statutory power or high-level political discretion unless unlawfulness is alleged (CPCF v Minister (2015) 255 CLR 514)
+  - 4. Grounds of Judicial Review – Errors in the Exercise of Discretion
+    - (ADJR Act s 5(1)(e): “Improper exercise of power” includes the following grounds)
+    - 4.1. Failure to Consider a Relevant Consideration – s 5(2)(b)
+      - 4.1.1. Legal Test
+        - A relevant consideration is one the decision-maker is legally bound to consider (Minister for Aboriginal Affairs v Peko-Wallsend Ltd (1986) 162 CLR 24, 39–40)
+        - Obligation may be:
+          - Express (e.g., Migration Act 1958 (Cth) s 54(1))
+          - Implied via statutory construction (subject matter, scope, purpose)
+      - 4.1.2. Application
+        - Did the decision-maker fail to consider a factor clearly indicated by statute or context? 
+        - Example: Peko’s submission on mine location (Minister ignored updated information)
+    - 4.2. Taking into Account an Irrelevant Consideration – s 5(2)(a)
+      - 4.2.1. Legal Test
+        - Irrelevant = prohibited by the statute's scope, subject matter, or purpose (Lo v Chief Commissioner of State Revenue (2013) 85 NSWLR 86, 89)
+        - Not every mention is fatal: must materially influence the decision (ACF v Forestry Commission (1988) 19 FCR 127)
+      - 4.2.2. Examples
+        - Irrelevant: religion, political views, personal preferences
+        - FOI Act 1982 (Cth) s 11B(4): prohibits certain public interest considerations (e.g., potential embarrassment)
+    - 4.3. Improper Purpose – s 5(2)(c)
+      - 4.3.1. Legal Test
+        - Decision-maker must use power only for the statutory purpose (Plaintiff S4/2014 v Minister for Immigration (2014) 312 ALR 537)
+        - Purpose assessed via:
+          - Text, context, purpose of statute
+          - Express purpose clauses (e.g., Migration Act s 140X)
+      - 4.3.2. Application
+        - Did the decision-maker act for an ulterior or unauthorised purpose?
+        - Examples:
+          - Schlieske: deportation used to assist foreign prosecution = improper
+          - Plaintiff S4: granting safe haven visa to block access to protection visa = improper
+      - 4.3.3. Dominant Purpose Test
+        - Ask: Would the decision obviously have been no different absent the improper purpose? (East Melbourne Group (2008) 23 VR 605)
+    - 4.4. Fettering of Discretion – s 5(2)(f)
+      - 4.4.1. Legal Test
+        - It is unlawful to bind future discretion by:
+          - Inflexibly applying a policy
+          - Automatically following government directions (ex parte Venables [1998] AC 407, 496)
+      - 4.4.2. Lawful Use of Policy
+        - Policy may guide decision-making if:
+          - Consistent with statute
+          - Flexibly applied (opportunity for exceptions) (Green v Daniels (1977) 13 ALR 1) 
+        - Key: Must genuinely consider individual merits (Rendell v Release on Licence Board (1987) 10 NSWLR 499)
+      - 4.4.3. Examples
+        - Green v Daniels: rigid school holiday rule inconsistent with Act
+        - Rendell: parole board bound itself to 10-year rule = error
+    - 4.5. Dictation – s 5(2)(e)
+      - 4.5.1. Legal Test
+        - Power must be exercised independently; cannot be dictated by another person (Bread Manufacturers v Evans (1981) 180 CLR 404)
+      - 4.5.2. Permissible Consultation
+        - May consider Minister’s views if still exercising own judgment
+        - Exception: Military/command structure decisions may lawfully follow orders (CPCF v Minister (2015) 255 CLR 514)
+  - 5. Materiality and Jurisdictional Error
+    - 5.1. Is the Error Jurisdictional?
+      - Materiality test: Would compliance have made a realistic difference to the outcome? (Hossain v Minister (2018) 264 CLR 123)
+      - Jurisdictional error is presumed for:
+        - Procedural fairness (MZAPC)
+        - Bias
+        - Unreasonableness
+  - 6. Remedies (If Jurisdictional Error Made Out)
+    - 6.1. Constitutional Writs (s 75(v))
+      - Prohibition: to restrain unlawful action
+      - Mandamus: to compel lawful action
+      - Certiorari: to quash decision (where jurisdictional error established)
+    - 6.2. ADJR Act Remedies (s 16)
+      - Set aside decision
+      - Refer back to decision-maker
+      - Direct performance of statutory duty
+### Week 11: Delegated Legislation
+
+- 1. What is Delegated Legislation?
+  - Definition: Legislative instruments made by non-parliamentary bodies under statutory authority.
+    - Pearce & Argument, Delegated Legislation in Australia (5th ed, 2017), 2
+  - Made by: Executive (or courts – e.g., court rules)
+  - Examples:
+    - Regulations
+    - By-laws
+    - Ordinances
+    - Statutory rules
+- 2. Separation of Powers
+  - Parliament may delegate law-making powers but cannot abdicate its legislative function.
+  - Key case: Victorian Stevedoring v Dignan (1931) 46 CLR 73 – upheld delegation to Executive within limits.
+- 3. Benefits and Drawbacks
+  - Advantages
+    - Saves parliamentary time
+    - Suitable for emergencies or technical matters
+    - Enables expert self-governance (e.g. unis, professions)
+  - Disadvantages
+    - Reduces democratic accountability
+    - Shifts power to unelected bodies
+    - Less transparent than primary legislation
+- 4. Review and Control Framework
+  - A. Primary Legislation
+    - Acts of Parliament
+    - Cannot be challenged by judicial review unless unconstitutional
+  - B. Delegated Legislation
+    - Subject to:
+      - Non-judicial review
+      - Judicial review
+  - C. Non-Legislative Instruments
+    - Policies, guidelines (soft law)
+    - Reviewable as part of administrative decisions
+- 5. Non-Judicial Review Mechanisms
+  - Consultation Requirements
+Jurisdiction
+Source
+Details
+Cth
+Legislation Act 2003 s 17
+“Appropriate consultation” required
+NSW
+Subordinate Legislation Act 1989 ss 5–7
+RIS + mandatory consultation
+
+  - → Breach does not affect validity (Cth s 19; NSW s 9)
+  - Registration
+Jurisdiction
+Requirement
+Effect of Non-Compliance
+Cth
+s 15G
+Not enforceable (s 15K)
+NSW
+Interpretation Act 1987 s 39
+Valid, but affects commencement (s 39(2A))
+
+  - Tabling
+Jurisdiction
+Requirement
+Consequences
+Cth
+s 38
+Treated as repealed if not tabled (s 38(3))
+NSW
+s 40
+Does not affect validity (s 40(4))
+
+  - Parliamentary Scrutiny
+    - Cth: Senate Standing Committee (Senate Order 23)
+    - NSW: Regulation Committee (s 9, Legislation Review Act 1987)
+  - Disallowance
+Jurisdiction
+Timing
+Outcome
+Cth
+Within 15 sitting days (s 42)
+Motion passed or not moved = disallowed
+NSW
+Before or within 15 sitting days (s 41)
+If resolution passed = disallowed
+
+  - Sunsetting
+Jurisdiction
+Rule
+Provision
+Cth
+10 years post-registration
+s 50(1), Legislation Act 2003
+NSW
+5 years post-publication
+s 10(2), Subordinate Legislation Act 1989
+- 6. Judicial Review of Delegated Legislation
+  - Jurisdiction
+    - High Court – Constitution s 75(iii)
+    - Federal Court – Judiciary Act s 39B(1A)(c)
+    - NSW Supreme Court – s 75 Supreme Court Act 1970 (NSW)
+    - ❌ Not under ADJR Act (fails “administrative character” test)
+  - IF PRIVATE INTEREST CANNOT BE MADE – Must show special interest, not just a hypothetical dispute
+- 7. Grounds of Judicial Review
+  - 1. Procedural Defects
+    - Example: Concore Pty Ltd v Mulgrave SC [1988] 2 Qd R 395 – failure to adequately notify = invalid by-law
+  - 2. Exceeds Scope of Act
+    - “Necessary or convenient” ≠ expand purpose
+    - Shanahan v Scott (1957) 96 CLR 245 – regulation prohibiting cold storage of eggs went beyond power
+    - Swan Hill Corporation v Bradbury (1937) 56 CLR 746 – “regulate” ≠ “prohibit”
+  - 3. Inconsistency
+    - With Act: Plaintiff M47/2012 v Director-General of Security (2012) 251 CLR 1
+    - With Constitution: eg s 51(xxxi), implied freedom
+    - With common law: Evans v NSW (2008) 168 FCR 576 – invalid for infringing free speech
+  - 4. Improper Purpose
+    - Must be for purpose intended in statute
+    - Brownells Ltd v Ironmongers' Wages Board (1950) 81 CLR 108 – improper use to penalise out-of-hours trading
+  - 5. Unreasonableness / Proportionality
+    - City of Brunswick v Stewart (1941) 65 CLR 88 – strict test: “so capricious no reasonable person could justify it”
+    - South Australia v Tanner (1989) 166 CLR 161 – proportionality: regulation must be a reasonable means to statutory end
+    - Brett Cattle Co Pty Ltd v Minister [2020] FCA 732 – rare application of proportionality in delegated legislation
+  - 6. Subdelegation
+    - Delegatus non potest delegare: Legislative power cannot be further delegated unless authorised
+    - Hawke’s Bay Raw Milk [1961] NZLR 218 – regs can delegate admin powers, not legislative ones
+- Exam Answer Formula: Delegated Legislation
+  - 1. Identify the legal nature of the instrument
+    - 1.1. Determine if the instrument is delegated legislation:
+      - Is it made under a power delegated by Parliament? (Legislation Act 2003 (Cth) s 8(4); Subordinate Legislation Act 1989 (NSW) s 3)
+      - Does it impose obligations, confer rights, or alter legal interests generally?
+    - 1.2. Distinguish from:
+      - Primary legislation (not subject to judicial review except for constitutional validity)
+      - Non-legislative instruments (e.g., policies, guidelines — subject to review as part of administrative decision)
+  - 2. Determine procedural compliance
+    - 2.1. Consultation:
+      - Was appropriate consultation undertaken? (Legislation Act 2003 (Cth) s 17; Subordinate Legislation Act 1989 (NSW) s 5)
+      - Failure to consult ≠ invalid (Legislation Act 2003 (Cth) s 19; NSW s 9)
+    - 2.2. Registration:
+      - Cth: must be registered to be enforceable (s 15K)
+      - NSW: must be published on legislation website (Interpretation Act 1987 (NSW) s 39)
+    - 2.3. Tabling:
+      - Cth: tabled within 6 sitting days (s 38) → otherwise repealed (s 38(3))
+      - NSW: notice to be tabled within 14 days (s 40) → failure ≠ invalid
+    - 2.4. Sunsetting:
+      - Cth: 10 years post-registration (s 50)
+      - NSW: 5 years post-publication (s 10(2))
+  - 3. Ground 1: Ultra vires – beyond power conferred
+    - 3.1. Is the regulation consistent with the scope and purpose of the enabling Act?
+      - Must complement, not extend statutory purposes (Shanahan v Scott (1957) 96 CLR 245, 250)
+      - Cannot prohibit what Act permits (Swan Hill Corporation v Bradbury (1937) 56 CLR 746, 762)
+    - 3.2. Scope is narrower if the Act is detailed (Morton v Union Steamship Co (1951) 83 CLR 402)
+  - 4. Ground 2: Inconsistency
+    - 4.1. With empowering Act – delegated legislation cannot contradict or frustrate the parent statute (Plaintiff M47/2012 v Director-General of Security (2012) 251 CLR 1, [54])
+    - 4.2. With the Constitution – e.g. s 51(xxxi) (property), implied freedom (Evans v NSW (2008) 168 FCR 576)
+    - 4.3. With other statutes – delegated legislation cannot conflict with other Acts (Powell v May [1946] KB 330)
+    - 4.4. With common law – cannot override rights unless clearly authorised by statute (principle of legality)
+  - 5. Ground 3: Improper purpose
+    - 5.1. Was the regulation made to fulfil the purpose of the Act, or to pursue a collateral purpose?
+      - If not bona fide = invalid (Brownells Ltd v Ironmongers' Wages Board (1950) 81 CLR 108)
+  - 6. Ground 4: Procedural invalidity (when mandatory)
+    - 6.1. Was notice or consultation essential to validity?
+      - Concore Pty Ltd v Mulgrave SC [1988] 2 Qd R 395 – invalidity where public notice failed to identify height restriction
+    - 6.2. Must consider whether statute makes procedural step mandatory
+  - 7. Ground 5: Unreasonableness or disproportionality
+    - 7.1. Unreasonableness: Regulation is so oppressive that no reasonable authority could have made it (City of Brunswick v Stewart (1941) 65 CLR 88, 98)
+    - 7.2. Proportionality: Must be reasonably appropriate and adapted to statutory purpose (SA v Tanner (1989) 166 CLR 161, 167; Brett Cattle Co Pty Ltd v Minister [2020] FCA 732)
+  - 8. Ground 6: Invalid subdelegation
+    - 8.1. Cannot subdelegate legislative power unless expressly authorised (Hawke’s Bay Raw Milk Producers Co Ltd v NZ Milk Board [1961] NZLR 218)
+    - 8.2. Administrative delegations (e.g. power to issue licences) may be valid
+  - 9. Remedy
+    - 9.1. Declaration of invalidity of regulation
+    - 9.2. Collateral challenge available (e.g., as a defence in enforcement proceeding)
+    - 9.3. Standing: Must show special interest (broader class harder to prove than individual administrative impact)
+### Week 12: AI Lecture
+
+- 1. What is Artificial Intelligence (AI)?
+  - Definition:
+    - ‘A range of [computer-based] technologies [or systems] [that exhibit] some characteristics of human intelligence’ (Australian Human Rights Commission, Human Rights and Technology Discussion Paper (2019) 59).
+- 2. Categories of AI
+  - Narrow (Weak) AI
+  - General (Strong) AI
+- 3. Key AI Technologies in Administrative Law
+  - Algorithms
+  - Expert Systems
+    - First Wave of AI
+    - Pre-programmed rules created with decision-maker input
+    - Two subsystems:
+      - Knowledge Base
+      - Inference Engine
+  - Machine Learning
+    - Second Wave of AI
+    - Algorithms 'learn' without pre-programming
+    - Involves:
+      - Training
+      - Deployment
+- 4. Expert Systems Example
+  - Freedom of Information Act 1982 (Cth) - Example on AustLII using an expert system.
+- 5. Robodebt Scandal (Royal Commission Report, 2023)
+  - Findings:
+    - Scheme was unfair, unlawful, traumatic
+    - Legal advice ignored
+    - Cabinet not fully briefed
+    - No legal basis to demand payments
+    - Misapplication of income averaging
+    - Reluctance to escalate appeals
+- 6. Machine Learning Workflows
+  - Define problem/goal
+  - Collect historical data
+  - Clean data
+  - Review input/output variables
+  - Partition data
+  - Select model(s)
+  - Train model(s)
+- 7. Government Use of AI in Decision-Making
+  - Early use:
+    - Department of Agriculture, ATO, Department of Health (2003 Administrative Review Council Survey)
+  - No registry of AI ADM systems
+  - Future planning:
+    - Digital Transformation Strategy (Vision 2025)
+    - Digital NSW: Designing Our Digital Future
+    - AI Action Plan for All Australians
+- 8. Benefits and Risks of AI in Administrative Decision-Making (ADM)
+  - Benefits:
+    - Greater accuracy
+    - Cost reduction
+    - Faster speed
+    - Improved service delivery
+  - Risks:
+    - Data errors
+    - Programming errors
+    - Biased data
+    - 'Black box' opacity
+- 9. Administrative Law Concerns
+  - 9.1 Incompatibility with Judicial Review Principles
+    - 1. Reasoning Process Grounds
+      - Statutory power requires human cognitive capacity.
+      - Case: Pintarich v Deputy Commissioner of Taxation (2018) 262 FCR 41.
+        - Issue: Whether a letter constituted a 'decision' under s 8AAG of the Taxation Administration Act 1953 (Cth).
+        - Finding: No "mental process" - no valid decision.
+      - Supporting Principle: Semunigus v Minister for Immigration [1999] FCA 422, [19].
+    - 2. Duty to Provide Reasons
+      - Failure to provide intelligible reasons frustrates judicial review.
+      - Cases:
+        - Public Service Board v Osmond (1986) 150 CLR 656
+        - Minister for Immigration and Border Protection v Singh (2014) 231 FCR 437, [45]
+      - Legislation:
+        - Administrative Decisions Judicial Review Act 1977 (Cth) s 13
+        - Administrative Appeals Tribunal Act 1975 (Cth) s 28(1)
+    - 3. Hearing Rule & 'Black Box' Problem
+      - Opacity prevents meaningful participation or challenge.
+  - 9.2 Existing Doctrines Are Inadequate
+    - 1. Limited Reviewability
+      - Decisions using AI may avoid review under:
+        - s 75(v) Australian Constitution
+        - s 39B(1) Judiciary Act 1903 (Cth)
+        - s 5 Administrative Decisions Judicial Review Act 1977 (Cth)
+      - Migration Act 1958 (Cth) s 495A
+        - Minister can automate decisions; deemed made by the Minister.
+      - Other Proposals:
+        - Grant AI systems legal personality
+        - Require human review
+        - Use s 39B(1A)(c) Judiciary Act 1903 (Cth)
+    - 2. Bias Rule Challenges
+      - Difficulty applying procedural fairness (bias rule) to AI.
+      - Cases:
+        - Minister for Immigration v Jia (2001) 205 CLR 507
+        - Laws v Australian Broadcasting Tribunal (1990) 170 CLR 70
+        - McGovern v Ku-ring-gai Council (2008) 72 NSWLR 504
+- 10. Inconsistency with Rule of Law Values
+  - Transparency
+  - Accountability
+  - Predictability
+  - Consistency
+  - Equality before the law
+- 11. Government and Other Initiatives
+  - Department of Industry: AI Ethics Principles (2019)
+  - Cth Ombudsman, OAIC, AGD: Automated Decision-Making Better Practice Guide (2019)
+  - AHRC: Human Rights and Technology Final Report (2021)
+  - Royal Commission: Robodebt Report (2023)
+  - Department of Industry: Safe and Responsible AI in Australia
+- Exam Answer Formula
+  - Define the nature of the technology (e.g., Expert System, Machine Learning) and link it to administrative decision-making.
+  - Identify whether the administrative law concern relates to:
+    - Reasoning processes
+    - Duty to provide reasons
+    - Hearing rule ('black box' problem)
+    - Inadequacy of doctrines
+  - Apply the facts:
+    - Was there a breach of cognitive decision-making? (Cite Pintarich)
+    - Was the duty to give reasons fulfilled? (Cite Osmond, Singh)
+    - Was procedural fairness undermined? (Cite Jia)
+  - Discuss systemic risks:
+    - Lack of transparency and accountability
+    - Limited review mechanisms
+    - Conclude with the relevance of government initiatives to remedy identified deficiencies.
+### Admin flowchart
+
+    - 
+1. Jurisdiction 
+- Federal/Commonwealth → ADJR Act / Judiciary Act s 39B / Constitution s 75(v)
+  - - If proceedings are commenced in the High Court, they can be remitted to the Federal Court under Judiciary Act 1903 (Cth) s 44(2A).
+- NSW → Supreme Court Act 1970 (NSW) ss 23, 69
+- Privative Clause Issue:
+  - A privative clause in the statute may attempt to exclude review (e.g., s 12(3) Disability Services Act).
+  - Under Plaintiff S157/2002 v Commonwealth, a privative clause cannot exclude constitutional review under s 75(v) for jurisdictional error.
+  - Therefore, if jurisdictional error is alleged, constitutional remedies (mandamus, prohibition, certiorari) remain available despite a privative clause.
+  - However, a privative clause may bar ADJR Act review if the statute validly excludes it.
+
+2. Identify Decision Type and Source of Power
+- Is it delegated legislation?
+  - Made under delegated statutory authority? (Legislation Act 2003 (Cth) s 8(4); Subordinate Legislation Act 1989 (NSW) s 3)
+  - Alters rights/obligations/interests? ➔ Yes → Procedural Compliance → Ultra vires grounds ➔ No → Is it an administrative decision?
+- Is it an administrative decision under an enactment?
+  - AJDR
+  - Final, operative? (Bond)
+  - Administrative character? (Tang)
+  - Made under enactment? (Tang)
+    - IF CANNOT BE MADE: Does the applicant have a special interest in the decision beyond that of an ordinary member of the public?
+    - There is not a privative clause blocking ADJR Act? (Plaintiff S157/2002)
+    -  ➔ Yes → Go to 2.
+    -  ➔ No → Not reviewable under ADJR; check Constitution s 75(v) / common law.
+  - Constitution s 75(v)
+    - Is it a decision by an Officer of the Commonwealth?
+    - Does it involve the exercise of public legal power? 
+    - Is there an alleged jurisdictional error?
+    - Does the applicant have a real interest in the decision?
+3. Procedural Compliance
+- Consultation?
+  - Cth: Legislation Act 2003 (Cth) ss 17–19
+  - NSW: Subordinate Legislation Act 1989 (NSW) s 5
+- Registration/Publication?
+  - Cth: Registered on Federal Register (s 15K)
+  - NSW: Published on NSW Legislation website (Interpretation Act 1987 (NSW) s 39)
+- Tabling?
+  - Cth: Table within 6 sitting days (s 38)
+  - NSW: Notice within 14 days (s 40)
+- Sunsetting?
+  - Cth: 10 years (s 50)
+  - NSW: 5 years (s 10(2))
+- Validity of Delegated Legislation or Guidelines:
+  - Apply Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355.
+  - Not every procedural breach causes invalidity.
+    - Test: Did Parliament intend that failure to comply with the procedural step (e.g., tabling) would render the instrument invalid?
+    - Factors:
+      - 1. Wording ("must" vs "may")
+      - 2. Importance of the provision to the statutory scheme
+      - 3. Whether invalidity would defeat the Act’s purpose
+        - If mandatory → instrument invalid.
+        - If directory → instrument valid, but breach may still be relevant for administrative discretion.
+
+4. Grounds of Judicial Review
+- For Delegated Legislation Challenges:
+  - Ground 1: Ultra Vires
+    - Consistent with enabling Act? (Shanahan v Scott (1957) 96 CLR 245)
+    - Not prohibiting what Act permits? (Swan Hill Corporation v Bradbury (1937) 56 CLR 746)
+  - Ground 2: Inconsistency
+    - With parent Act? (Plaintiff M47/2012 v Director-General of Security (2012) 251 CLR 1)
+    - With Constitution? (Evans v NSW (2008) 168 FCR 576)
+    - With other statutes or common law?
+  - Ground 3: Improper Purpose
+    - Used for collateral, unauthorised purpose? (Brownells Ltd v Ironmongers' Wages Board (1950) 81 CLR 108)
+  - Ground 4: Procedural Invalidity
+    - Mandatory notice or consultation breached? (Concore Pty Ltd v Mulgrave SC [1988] 2 Qd R 395)
+    - Interpretation Rule: Project Blue Sky (1998) 194 CLR 355
+      - Not every breach of a statutory procedure leads to invalidity.
+      - Test: Did Parliament intend that failure to comply would render the delegated legislation invalid?
+      - Factors:
+        - Language ("must" vs "may")
+        - Purpose of the requirement
+        - Consequences of invalidity➔ If mandatory → Invalid.➔ If directory → No invalidity (but breach may still affect discretion)
+  - Ground 5: Unreasonableness/Disproportionality
+    - Wednesbury unreasonableness (City of Brunswick v Stewart (1941) 65 CLR 88)
+    - Proportionality to purpose (SA v Tanner (1989) 166 CLR 161)
+  - Ground 6: Invalid Subdelegation
+    - Delegated without authority? (Hawke’s Bay Raw Milk Producers [1961] NZLR 218)
+- For Administrative Decision Challenges (Materiality included):
+Ground
+Test
+Key Case
+Apprehended bias
+Would fair-minded observer reasonably apprehend bias?
+Ebner v Official Trustee (2000); Hot Holdings
+Bad faith
+- Bad Faith requires dishonesty, fraud, or reckless indifference (SBBS).  
+- Mere error, illogicality, or harshness does not amount to bad faith (SBBS).
+SBBS
+Procedural fairness breach
+Hearing rule (notice + opportunity); Bias rule
+Kioa v West
+Relevant/irrelevant considerations
+Must consider only those required by statute
+Peko-Wallsend (1986)
+Improper purpose
+Purpose must match statute's purpose
+Padfield
+Fettering discretion
+No rigid application of policy; must consider merits
+Green v Daniels; Re Drake No 2
+Unreasonableness
+Must be legally reasonable; intelligible justification
+Minister for Immigration and Citizenship v Li - [2013] HCA 18
+
+Acting under dictation
+Must independently exercise discretion
+Bread Manufacturers v Evans (1981)
+- Jurisdictional Error?
+  - Materiality Test: Hossain v Minister (2018) 264 CLR 123; MZAPC (2021) 390 ALR 590
+    - Fettering of discretion? (Green v Daniels (1977))
+  - Breach of Procedural Fairness?
+    - Hearing Rule? (Kioa v West (1985))
+    - Rule Against Bias? (Ebner v Official Trustee (2000))
+  - Relevant/Irrelevant Considerations?
+    - Minister for Aboriginal Affairs v Peko-Wallsend Ltd (1986) 162 CLR 24
+  - Improper Exercise of Discretion?
+    - Fettering Discretion
+    - Dictation by another? (Bread Manufacturers v Evans (1981))
+
+5. Remedies
+- Declaration of invalidity (for delegated legislation)
+- Judicial Review Remedies:
+  - Certiorari (quash decision) (Ainsworth v CJC (1992))
+  - Prohibition (prevent unlawful action) (Re Patterson (2001))
+  - Mandamus (compel lawful duty) (Minister v Bhardwaj (2002))
+  - Injunction (restrain or compel) (Futuris (2008))
+  - Declaration (state legal position) (Ainsworth)
+  - - As the proceeding involves an Officer of the Commonwealth and a live legal issue, mandamus and certiorari are available constitutional remedies under s 75(v) Constitution (Plaintiff S157/2002).
+- ADJR Act Remedies (s 16):
+  - Set aside
+  - Refer back
+  - Direct action or inaction
+  - Discretionary Limits: Delay, futility, alternative remedy.
+
+6. Appeal and Review Options
+- Merits Review (Tribunals):
+  - AAT (Cth) – correct or preferable decision (Drake v Minister for Immigration (1979))
+  - NCAT (NSW) – according to statute
+- Judicial Review:
+  - Federal Court (ADJR Act or s 39B)
+  - High Court (s 75(v))
+  - NSW Supreme Court (SCA ss 23, 69)
+Remedy
+Purpose
+Error Required
+Coercive?
+Legal Source
+Certiorari
+Quashes legally effective decisions
+✔ Jurisdictional or ✖ Non-JE on face of record
+✔ Yes
+SCA 1970 (NSW) s 69(1)(a), Judiciary Act 1903 (Cth) s 33
+Prohibition
+Prevents unlawful action
+✔ Jurisdictional
+✔ Yes
+Constitution s 75(v), Judiciary Act s 33
+Mandamus
+Compels exercise of public duty
+✔ Jurisdictional
+✔ Yes
+Constitution s 75(v), Judiciary Act s 33
+Injunction
+Prevents or compels action
+✔ JE or ✖ Non-JE
+✔ Yes
+Equitable jurisdiction, Constitution s 75(v)
+Declaration
+Clarifies legal position
+✔ JE or ✖ Non-JE
+✖ No
+Equitable jurisdiction
+Habeas Corpus
+Produces detained person before court
+✔ Jurisdictional
+✔ Yes
+SCA s 69(1)(b)
+ADJR Act Remedies
+Streamlined federal review remedies
+✔ JE or ✖ Non-JE (unless excluded)
+✔/✖ Varies
+ADJR Act 1977 (Cth) s 16
+
+
+
+## Scaffold Modules
+
+JURISDICTION MODULES
+[ADM-J1] Jurisdiction – ADJR Act Pathway Judicial review may be pursued under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (ADJR) where the decision is final (Bond), administrative (Tang), and made under an enactment. ADJR simplifies standing and remedies, but its scope is subject to statutory exclusion. If a privative clause validly excludes ADJR review (e.g. s 12(3) Disability Services Act), the claim must proceed via constitutional or common law means (Plaintiff S157).
+[ADM-J2] Jurisdiction – Constitution s 75(v) and Judiciary Act s 39B If ADJR review is unavailable or excluded, judicial review may be sought under s 75(v) of the Constitution (for writs against officers of the Commonwealth) or s 39B of the Judiciary Act 1903 (Cth) (Federal Court jurisdiction). Privative clauses do not exclude s 75(v) review (Plaintiff S157). The High Court can remit matters to the Federal Court under s 44(2A).
+[ADM-J3] Jurisdiction – NSW Supreme Court under SCA ss 23, 69 In NSW, administrative review of state matters is available under Supreme Court Act 1970 (NSW) ss 23 and 69. The court may issue constitutional writs where jurisdictional error or breach of procedural fairness is alleged. This jurisdiction is protected by the Kirk principle: jurisdictional error cannot be ousted by statute (Kirk v Industrial Court (NSW)).
+
+DECISION CHARACTERISATION
+[ADM-D1] Decision Type and Source of Power A reviewable “decision” must be final and determinative of legal rights (Bond), administrative in character and made under an enactment (Tang). Delegated legislation is reviewable if it changes legal obligations and derives from statute (Legislation Act 2003 (Cth) s 8(4)). If ADJR doesn’t apply, constitutional or common law review may still succeed where jurisdictional error is alleged (Plaintiff S157).
+[ADM-D2] Procedural Validity of Delegated LegislationProcedural requirements for delegated legislation must be assessed under Project Blue Sky (1998) 194 CLR 355. Breach renders an instrument invalid only if Parliament intended invalidity. Indicators include mandatory language (“must”), importance to the scheme, and whether the purpose would be defeated. If procedural steps are directory, the breach may still be relevant to discretion.
+
+GROUNDS OF REVIEW
+[ADM-G1] Procedural FairnessProcedural fairness includes the hearing rule and the bias rule. The hearing rule requires notice and a fair opportunity to respond (Kioa v West). The bias rule asks whether a fair-minded lay observer might reasonably apprehend that the decision-maker might not bring an impartial mind:(Ebner v Official Trustee). A breach of either rule renders the decision invalid.
+[ADM-G2] Relevant and Irrelevant Considerations
+A jurisdictional error occurs where a decision-maker fails to consider a mandatory factor or takes into account an irrelevant one. The court looks to the statutory text and purpose (Peko-Wallsend). Failure to consider important submissions required by the statute will invalidate the decision. The court looks to the structure and text of the statute to determine what must or must not be considered.
+[ADM-G3] Improper Purpose and Bad Faith
+Statutory powers must be exercised only for the purpose for which they were conferred. Using powers to defeat or frustrate legislative objectives constitutes an improper purpose (Padfield v Minister of Agriculture). Separately, bad faith involves dishonesty, fraud or reckless indifference (SBBS v Minister for Immigration (2006)). Mere harshness, error, or illogicality is not bad faith.
+[ADM-G4] Fettering of Discretion and Acting Under Dictation
+A decision-maker must not rigidly apply a policy or allow another to dictate the decision (Green v Daniels). Additionally, the decision-maker must not act under the direction of another (Bread Manufacturers v Evans). Such fettering of discretion or acting under dictation amounts to jurisdictional error.
+[ADM-G5] Unreasonableness and Proportionality
+Administrative decisions must be supported by intelligible justifiacation (Minister for Immigration v Li). A decision is legally unreasonable if no rational authority could have made it (Wednesbury). In cases involving limitations on fundamental rights, courts may apply a proportionality test (SA v Tanner).
+
+[ADM-P8] Grounds: Unreasonableness and Proportionality
+Administrative decisions must be legally reasonable. In Minister for Immigration v Li (2013) 249 CLR 332, the High Court held that a decision lacking an intelligible justification is legally unreasonable. This modern standard supplements the classic Wednesbury unreasonableness test (1948) 1 KB 223. In cases involving limitations on rights or liberties, proportionality may also apply: SA v Tanner (1989) 166 CLR 161.
+
+ JURISDICTIONAL ERROR AND MATERIALITY
+[ADM-M1] Jurisdictional Error and MaterialityJurisdictional error arises where the decision-maker exceeds statutory limits. Since Hossain v Minister for Immigration (2018) and MZAPC (2021), an error must be material to invalidate a decision. Materiality means there is a realistic possibility the decision could have been different had the error not occurred (MZAPC v Minister for Immigration).
+
+REMEDIES MODULES
+[ADM-R1] Remedies – Constitutional and Common Law
+Courts may grant certiorari (quash), prohibition (restrain), and mandamus (compel), even where privative clauses exist (Plaintiff S157). These are available despite any privative clause in a ch III court: Plaintiff S157 (2003) 211 CLR 476. These remedies are available under Constitution s 75(v) and Judiciary Act s 39B. Declarations and injunctions are available in equity (Ainsworth v CJC).
+[ADM-R2] Remedies – ADJR Act Relief
+Under ADJR Act s 16, available remedies include setting aside the decision, referring the matter back for reconsideration, and compelling lawful performance. Relief is discretionary and may be refused for delay, futility, or an adequate alternative remedy.
+
+
+## Week 2: Executive power
+
+- Executive Power
+  - Constitution ss 61, 62
+    - Queen
+    - Governor-General
+    - Ministers (PM and Cabinet)
+    - Occur in
+      - Departments 
+      - Statutory bodies 
+      - Councils 
+      - Tribunals
+      - Public servants
+      - Agencies 
+      - Integrity institutions
+      - Schools, prisons etc
+  - Flipchart of PGPA Act Commonwealth entities and companies (191) | 1 November 2023
+    - 
+  - Sources of executive power
+    - Statutory powers
+    - Prerogative power
+    - Nationhood powers
+    - Legal personality
+  - Federal
+    - Source of executive power
+      - Legislation: Enacted by Commonwealth Parliament as permitted by the Constitution
+      - Other: Prerogative, nationhood and common law powers
+    - Executive review mechanisms (examples)
+      - Merits review tribunal: AAT (to be replaced by ART)
+      - Inquiries, investigations: Commonwealth Ombudsman, National Anti-Corruption Commission, Commonwealth Auditor-General etc
+      - Access to information: Freedom of Information Act 1982 (Cth) and Information Commissioner
+    - Judicial review
+      - High Court: Constitution
+      - Federal Court: Judiciary Act 1903 (Cth) and Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - (also Federal Circuit Court)
+  - State 
+    - Source of executive power
+      - Legislation: Enacted by State Parliament using plenary power, subject to Constitutional limits
+      - Other: Prerogative and common law powers
+    - Executive review mechanisms (examples)
+      - Merits review tribunal: NSW Civil and Administrative Tribunal
+      - Inquiries, investigations: NSW Ombudsman, ICAC etc
+      - Access to information: Government Information (Public Access) Act 2009 (NSW)
+    - Judicial review
+      - NSW Supreme Court: Common law judicial review pursuant to s 69 of the Supreme Court Act 1970 (NSW)
+  - Local
+    - Source of executive power
+      - Power conferred pursuant to State legislation 
+- Public Law Values
+  - Legality
+  - Fairness Consistency
+  - Rationality
+  - Integrity
+  - Honesty
+  - Accountability
+  - Accessibility
+  - Participation
+  - Efficiency
+  - Effectiveness
+- The targets of administrative law
+  - Administrative law targets
+    - 1. Who is the decision-maker?
+    - 2. What act or instrument are we targeting?
+  - Parliament
+    - Is this Act valid -> Leave this to constitutional lawyers
+    - Confers administrative power to cancel entitlement
+    - Sends to Minister (Decision-Maker) 
+      - Cancels A’s entitlement (Decision)
+  - Parliament
+- TL;DR — Week 1
+  - Executive branch: largest part of government, includes high level officials, institutions and public servants at Federal, State and Local level
+  - Executive power: Vast range of powers across areas of administration (welfare, policing, education, taxation, quarantine, visas, international relations etc)
+  - Sources of power: Mainly statute, but also prerogative, nationhood, common law legal personality
+  - Executive review mechanisms: Review government from inside the executive branch (eg tribunals, ombudsmen, Auditors-General)
+  - Judicial review: Federal and State courts review government from the judicial branch, authorised by Constitution, statute and common law
+  - Public law values: Underpin rules we will learn about (eg legality, fairness, consistency, rationality, integrity, honesty, accountability, effectiveness, efficiency, accessibility, participation)
+  - What are we challenging? Pay close attention to who and what we’re challenging when there are multiple actions/instruments in the decision-making chain
+- In summary, it could be said that three principles underpin the administrative law system: 
+  - administrative justice def, which, at its core, is a philosophy that in administrative decision-making the rights and interests of individuals should be properly safeguarded; 
+  - executive accountability def, which is the aim of ensuring that those who exercise the executive  (and coercive) powers of the state can be called on to explain and to justify the way in which  they have gone about that task; and 
+  - good administration def, which is the principle that administrative decision-making should  conform to universally accepted standards, such as rationality, fairness, consistency and  transparency.
+- Adding a fourth integrity branch to three-branch legislative, executive, and judicial model
+- Kerr Report (1971)
+  - Background & Context:
+    - Commissioned in 1968, chaired by Sir John Kerr.
+    - Aimed to review Commonwealth administrative law due to concerns about inconsistency, complexity, and lack of accessibility.
+    - At the time, judicial review was available under common law and s 75(v) of the Constitution, but was hindered by cost, secrecy, and legal technicalities.
+    - Other countries (UK, NZ) had already reformed administrative law, influencing the Committee’s recommendations.
+  - Key Issues Identified:
+    - Fragmented and inconsistent administrative review (different tribunals with varying powers and procedures).
+    - Judicial review was insufficient – legal technicalities and cost limited access.
+    - Over-reliance on parliamentary and executive accountability, which was ineffective.
+    - Lack of transparency and access to reasons for government decisions.
+  - Major Recommendations & Reforms:
+    - Judicial Review Reform
+      - Led to the Administrative Decisions (Judicial Review) Act 1977 (Cth), which codified and simplified judicial review procedures.
+    - Creation of a General Merits Review Tribunal
+      - Established the Administrative Appeals Tribunal (AAT) under the Administrative Appeals Tribunal Act 1975 (Cth) for independent merits review of government decisions.
+    - Introduction of the Ombudsman
+      - Recommended a government oversight body (Ombudsman Act 1976 (Cth)) to investigate complaints about administrative decisions.
+    - Establishment of the Administrative Review Council (ARC)
+      - Oversight body to monitor and improve administrative review mechanisms.
+    - Proposed Administrative Procedure Act (Not Implemented)
+      - Aimed to standardize tribunal procedures across different areas of law.
+  - Significance & Impact:
+    - Laid the foundation for modern Australian administrative law, enhancing transparency, accountability, and fairness.
+    - Established structured judicial and merits review mechanisms.Strengthened individual rights in administrative decision-making.
+    - Influenced later reforms, such as the Freedom of Information Act 1982 (Cth) and Privacy Act 1988 (Cth).
+- Craig v Department of Foreign Affairs and Trade (Freedom of Information Appeal) [2023] AATA 2785 
+  - Tribunal: Administrative Appeals Tribunal (AAT)
+    - Presiding Member: Deputy President Britten-Jones
+    - Date of Decision: 28 August 2023
+  - Parties:
+    - Applicant: Mr Craig
+    - Respondent: Department of Foreign Affairs and Trade (DFAT)
+  - Procedural History:
+    - Mr Craig applied for access to an unredacted version of a three-page diplomatic cable (the DFAT Cable) under the Freedom of Information Act 1982 (Cth) (FOI Act). 
+    - DFAT denied full access under s 33(a)(iii) (damage to international relations) and s 33(b) (confidential foreign government communications). 
+    - The applicant sought a review by the AAT.
+  - Facts:
+    - The DFAT Cable (dated 16 November 2007) was sent by Dr Justin Lee (Deputy Head of Mission in Jakarta) to DFAT headquarters in Canberra. 
+    - It summarised discussions between Australian and Indonesian officials regarding the NSW Coronial Inquest into the 1975 deaths of the Balibo Five journalists in Indonesia.
+    - DFAT partially released the document but redacted portions under s 33(a)(iii) and s 33(b) of the FOI Act.
+    - The US diplomatic cable (dated 21 November 2007), published by WikiLeaks and reported in Australian media, allegedly contained similar information.
+    - Mr Craig argued that:
+      - The DFAT Cable should be disclosed because similar information was already public via WikiLeaks.
+      - The FOI Act should not be used to conceal crimes or override higher laws.
+      - The Tribunal should examine the document to determine if it contained evidence of misconduct.
+      - DFAT relied on the affidavit of Mr Ridwaan Jadwat, asserting that disclosure would harm Australia’s international relations with Indonesia.
+  - Legal Issues:
+    - Is the DFAT Cable an "exempt document" under s 33(a)(iii) of the FOI Act?
+    - Would disclosure "reasonably be expected to cause damage to the international relations of the Commonwealth"?
+    - Does prior public disclosure (via WikiLeaks) remove the exemption under s 33(a)(iii)?
+  - Decision:
+    - The Tribunal affirmed DFAT’s decision to deny access.
+    - Exemption under s 33(a)(iii) applies:
+      - The Tribunal accepted Mr Jadwat’s evidence that diplomatic communications occur with an expectation of confidentiality.
+      - Disclosure would erode trust between Australia and Indonesia and reduce diplomatic cooperation.
+      - The Balibo Five issue remains highly sensitive, and disclosure could still harm Australia-Indonesia relations despite the passage of time.
+    - WikiLeaks disclosure is irrelevant:
+      - The US Cable was a third-party hearsay report, not an official Australian document.
+      - Even if accurate, Indonesia would perceive an official Australian disclosure differently from an unauthorised leak.
+      - Breach of diplomatic trust—not just content—is the key issue.
+    - Tribunal's power is limited:
+      - The Tribunal can only decide whether the document is exempt under s 33(a)(iii)—not investigate alleged misconduct.
+  - Ratio Decidendi:
+    - Confidential diplomatic communications are protected under s 33(a)(iii) of the FOI Act.
+    - Even if similar information is leaked by a third party, official disclosure can still harm international relations.
+    - The Tribunal lacks discretion to override an exemption once it is satisfied that disclosure "could reasonably be expected" to cause harm.
+  - Significance:
+    - Reinforces that diplomatic confidentiality is central to international relations and that unauthorised leaks do not negate FOI exemptions.
+    - Confirms strict application of FOI exemptions—public interest considerations do not apply under s 33(a)(iii).
+    - Clarifies the AAT’s limited role in FOI reviews—it cannot override statutory exemptions based on public interest arguments.
+## Week 3: Administrative law outside the courts
+
+- What is accountability?
+  - “a relationship between an actor and a forum, in which the actor has an obligation to explain and to justify his or her conduct, the forum can pose questions and pass judgement, and the actor may face consequences
+  - What is the purpose of accountability?
+    - Legitimacy
+      - To reinforce the legitimacy of government
+    - Transparency
+      - To ensure the availability of an explanation of government performance and decisions
+    - Control
+      - To provide a means to control the government and ensure it acts in conformity with our preferences
+    - Restoration
+      - To ensure that government wrongs are made right
+    - Desert
+      - To punish egregious abuse of power
+    - Deterrence and reform
+      - To facilitate improvements in government performance
+  - Legislature
+    - Parliamentary committees
+    - Representative government
+    - Responsible government
+  - Judiciary
+    - Tort law
+    - Criminal law
+    - Judicial review
+  - Executive
+    - Auditor-General
+    - Commissions
+    - Ombudsmen
+    - Freedom of information
+    - Tribunals
+- Representative and responsible government
+  - Representative and responsible government
+    - Legislature (Constitution)
+      - 1 The legislative power of the Commonwealth shall be vested in a Federal Parliament, which shall consist of the Queen, a Senate, and a House of Representatives …
+      - 7 The Senate shall be composed of senators for each State, directly chosen by the people of the State …
+      - 24 The House of Representatives shall be composed of members directly chosen by the people of the Commonwealth ...	
+    - Executive
+      - 61 The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General ...
+      - 62 There shall be a Federal Executive Council to advise the Governor-General in the government of the Commonwealth ...
+      - 64 ... [N]o Minister of State shall hold office for a longer period than three months unless he is or becomes a senator or a member of the House of Representatives.
+  - Representative and responsible government
+    - Executive Government
+    - Elected members of Parliament
+    - Voters
+    - 
+    - Ministerial responsibility
+      - Collective
+        - Ministers must support Cabinet decisions
+        - Ministers must not speak against government policy
+        - Government must resign in response to vote of no confidence
+      - Individual
+        - Ministers accountable to Parliament for: 
+          - Policies
+          - Performance
+          - Operations within their portfolios Collective Individual
+    - Accountability mechanisms?
+      - Elections
+      - Question time
+      - Vote of no confidence
+      - Ministerial
+      - resignation
+      - Leadership spills
+      - Contempt
+- Parliamentary committees
+  - Parliamentary committees
+    - Types of committees
+      - Standing committees
+        - Created for the life of a Parliament and generally re-established in successive Parliaments
+        - Examples:
+          - Senate Legal and Constitutional Affairs Committee
+          - House Standing Committee on Social Policy and Legal Affairs
+      - Select committees
+        - Appointed to inquire into particular matters, and cease to exist after they make their report
+        - Examples:
+          - Select Committee on Australia’s Disaster Resilience
+          - Select Committee on Supermarket Prices
+      - Joint committees
+        - Consists of members from both Houses of Parliament
+        - Examples:
+          - Foreign Affairs, Defence and Trade
+          - National Disability
+          - Insurance Scheme
+  - Accountability roles
+    - Scrutinise legislation
+      - Senate Legal and Constitutional Affairs Committee – constitutional legality of legislation
+      - Senate Scrutiny of Bills Committee – legislative impact on fundamental rights and liberties Accountability roles
+    - Monitoring interests
+      - House Committee of Privileges and Members Interests
+      - Senators’ Interests Committee
+    - Senate Estimates
+      - Public hearings
+      - Scrutinise government expenditure
+      - Question ministers regarding financial performance of departments and programs
+    - Inquiries
+      - Inquiries into a broad range of issues, including government administration
+      - Eg ‘Senate Select Committee on a Certain Maritime Incident’ – accountability issues including adequacy of administrative practices
+- Auditor-General
+  - Auditor-General
+    - Financial audits
+      - Auditor-General Act 1997 (Cth)
+        - 11 The Auditor-General's functions include auditing the annual financial statements of Commonwealth entities ... and Commonwealth companies ...
+        - 12 The Auditor-General's functions include auditing the annual consolidated financial statements...
+    - Performance audits
+      - Auditor-General Act 1997 (Cth)
+        - s 17 (1) The Auditor-General may at any time conduct a performance audit of a Commonwealth entity ... or a Commonwealth company …
+          - s 5 "performance audit" ... means a review or examination of any aspect of the operations of the person or body.
+        - s 18 (1) The Auditor-General may at any time conduct a review or examination of a particular aspect of the operations of the whole or part of the Commonwealth public sector ...
+    - Independence
+      - Auditor-General Act 1997 (Cth)
+        - (a) Separation of powers
+          - s 8(1) The Auditor-General is an independent officer of the Parliament.
+        - (b) Autonomy
+          - s 8(4) ... [T]he Auditor-General has complete discretion in the performance or exercise of his or her functions or powers. 
+          - In particular, the Auditor-General is not subject to direction from anyone in relation to:
+            - (a) whether or not a particular audit is to be conducted; or
+            - (b) the way in which a particular audit is to be conducted; or
+            - (c) the priority to be given to any particular matter.
+        - (c) Appointment
+          - Schedule 1
+            - cl 1-2: Appointed by the Governor-General on the recommendation of the Minister, who must seek approval from Parliament (ie the Joint Committee of Public Accounts and Audit)
+            - cl 1: 10 year tenure
+            - cl 6: limited grounds for removal
+      - 2020
+        - January: “Sports Rorts” report
+        - September: Hehir requests additional funding to maintain current functions
+        - October: ANAO budget cut by $14 million
+          - “This is revenge for sports rorts” – Julian Hill (Labor MP)
+      - 2021
+        - February: Hehir warns Senate investigations will decrease
+        - May: $62 million funding increase
+- Royal Commissions
+  - Royal Commissions
+    - Royal Commission
+    - Commission of Inquiry
+    - Boards of Inquiry
+    - Special Inquiry
+    - (Executive equivalent to a parliamentary select committee)
+  - Standing commissions
+    - Integrity Commission
+    - Anti-corruption Commission
+    - (Executive equivalent to a parliamentary standing committee)
+  - Establishment
+    - Convention – exercise of prerogative power through letters patent
+      - Prerogative cannot confer coercive powers
+      - Coercive powers conferred by:
+        - Royal Commissions Act 1902 (Cth)
+        - Royal Commissions Act 1923 (NSW)
+  - Jurisdiction
+    - Scope defined by letters patent
+    - Usually:
+      - investigate a particular set of matters
+      - prepare a report
+      - make recommendations
+  - Powers
+    - Coercive powers conferred by legislation (not letters patent)
+      - Royal Commissions Act 1902 (Cth):
+        - apply for search warrants
+        - summon and cross-examine witnesses
+        - require production of documents
+        - hold hearings
+  - Government accountability?
+    - Motivation
+      - Quell public outcry?
+      - Target actions of a previous government?
+    - Examples:
+      - 1987-91 Royal Commission into Aboriginal Deaths in Custody
+      - 2014 Royal Commission into the Home Insulation Program
+      - 2016 Royal Commission and Board of Inquiry into the Protection and Detention of Children in the Northern Territory
+      - 2020 Victorian COVID-19 Hotel Quarantine Inquiry
+      - 2022-23 Royal Commission into the Robodebt Scheme
+    - Outcomes:
+      - Recommendations not legally enforceable
+      - Action is often too weak or too slow
+      - Pressure and transparency
+    - “The Government has agreed, or agreed in principle, to all 56 of the Royal Commission’s recommendations as part of the ongoing work to restore faith, integrity and trust in government.”
+- Integrity commissions
+  - 1980	
+    - Widespread corruption concerns (eg Fitzgerald Inquiry in Qld)
+  - 1990
+    - 1988:NSW ICAC established
+  - 2000
+    - Some major success stories...
+    - And some major controversies…
+  - 2010
+    - Many years of debates and proposals…
+  - 2020
+    - Cth NACC established
+  - Overriding objectives/functions
+    - NSW ICAC NACC
+      - Promote the integrity and accountability of public administration (s 2A(a))
+      - Accountability: investigate and expose corruption (s 13(a))
+      - Prevention: recommend changes to reduce corruption (s 13(d)-(g))
+      - Education: educate the government and public about corruption (s 13(h)-(k)
+    - NACC
+      - Section 3:
+        - Detect corruption
+        - Investigate serious/systemic corruption
+        - Prevent corruption
+        - Educate about corruption
+  - What can be investigated?
+    - Broad definition of corruption + Seriousness threshold
+    - 
+    - 
+    - Seriousness threshold
+      - s 41(3) Can only conduct an investigation if the issue could involve corrupt conduct that is “serious or systemic”
+    - s 12A: As far as practicable, direct attention to “serious corrupt conduct and systemic corrupt conduct”
+    - s 7: “Corrupt conduct” means conduct falling within s 8 but only if not excluded by s 9
+    - s 9: Not corrupt conduct unless:
+      - General:
+        - (a) criminal offence
+        - (b) disciplinary offence
+        - (c) grounds for termination
+      - Additional for Ministers / MPs:
+        - (d) substantial breach of code of conduct
+  - Berejiklian v Independent Commission Against Corruption [2024] NSWCA 177
+    - Facts
+      - Gladys Berejiklian (former Premier and Treasurer) endorsed a number of funding proposals sponsored by Daryl Maguire while in a “close personal relationship”
+      - ICAC made a finding of “serious corrupt conduct” based on breach of the Ministerial Code of Conduct, including findings of conflict of interest, partial exercise of power and “breach of public trust”
+    - Issue
+      - Is the duty only a negative duty to avoid acting for improper reasons?
+      - Was it necessary to show that Berejiklian would not have acted “but for” the private interest?
+        - no
+    - Decision
+      - “a Minister’s obligation not to breach public trust is expressed more broadly than an obligation prohibiting the promotion of private pecuniary interests in circumstances where there is a conflict of interest and public duty” (at [174]).
+      - Showing that a private interest has influenced the exercise of power “is sufficient to constitute a “partial” exercise of the power under s 8(1)(b), ... irrespective of whether the outcome of that exercise would not have been different in the absence of the private interest” (at [256]).
+  - Conducting an investigation
+    - Initiating an investigation
+      - NSW ICAC 
+        - Allegations/ complaints 
+          - s 13(1)(a) 
+        - Referrals, eg from Parliament, other commissions, government departments etc
+          - s 13(1)(b)
+          - s 13A
+          - s 73
+        - Note, referrals mandatory in many contexts
+          - s 11
+        - Own motion 
+          - s 20(1)
+      - NACC
+        - Allegations/ complaints 
+          - s 32
+        - Referrals, eg from Parliament, other commissions, government departments etc
+        - Note, referrals mandatory in many contexts
+          - s 33
+        - Own motion 
+          - s 40(2)
+  - Investigative power
+    - NSW ICAC
+      - Compel production of information / documents
+        - ss 21-22 
+      - Enter premises 
+        - s 23 
+      - Compulsory examinations of witnesses
+        - ss 30 and 35 
+      - Search/surveillance warrants
+        - ss 19, 40-48 
+    - NACC
+      - Compel production of information / documents
+        - ss 57-58
+      - Enter premises 
+        - s 117
+      - Compulsory examinations of witnesses
+        - s 65
+      - Search/surveillance warrants
+        - ss 119-128
+  - Hearings
+    - NSW ICAC
+      - 31(1) [T]he Commission may, if it is satisfied that it is in the public interest to do so, conduct a public inquiry.
+      - (2) ...in determining whether or not it is in the public interest ... the Commission is to consider:
+        - (a) the benefit of exposing to the public ... corrupt conduct,
+        - (b) the seriousness of the allegation or complaint,
+        - (c) any risk of undue prejudice to a person's reputation 
+        - ...,
+        - (d) whether the public interest in exposing the matter is outweighed by the public interest in preserving the privacy of the persons concerned.
+    - NACC
+      - 73 (1) A hearing must be held in private, unless the Commissioner decides to hold the hearing, or part of the hearing, in public .
+      - (2) The Commissioner may decide to hold a hearing, or part of a hearing, in public if the Commissioner is satisfied that:
+        - (a) exceptional circumstances justify holding the hearing, or the part of the hearing, in public ; and
+        - (b) it is in the public interest to do so.
+      - Public interest criteria defined in s 73(3)
+  - Outcomes
+    - NSW ICAC
+      - Findings and recommendations
+        - Make findings of corruption 
+          - s 13(5)(a) 
+        - Make recommendations 
+          - s 13(3) 
+        - Follow up on recommendations 
+          - s 111E 
+      - Reports
+        - Prepare investigation report (restrictions on certain findings, procedural protections apply)
+          - s 74 
+        - Public access to report:
+          - Compulsory release in some  cases (eg where public hearing was held)
+          - ICAC: broad powers to the table and publish reports
+          - NACC: only if in public interest 
+            - ss 74(4), 78 
+    - NACC
+      - Findings and recommendations
+        - Make findings of corruption 
+          - s 149(2)
+        - Make recommendations 
+          - s 149(6)
+        - Follow up on recommendations 
+          - s 160
+      - Reports
+        - Prepare investigation report (restrictions on certain findings, procedural protections apply)
+          - s 149
+        - Public access to report:
+          - Compulsory release in some  cases (eg where public hearing was held)
+          - ICAC: broad powers to the table and publish reports
+          - NACC: only if in public interest 
+            - ss 155-156
+- Ombudsmen
+  - International Ombudsman Institute
+    - Mechanism for low value disputes
+    - Overcome power imbalances
+    - Simple to use and access
+    - Can target systemic issues
+    - Legal and non-legal disputes
+    - [T]o protect the people against violation of rights, abuse of powers, error, negligence, unfair decisions and maladministration and to improve public administration while making the government’s actions more open and its administration more accountable to the public.
+  - Commonwealth Ombudsman
+    - 1. Functions
+    - 2. Investigative jurisdiction
+    - 3. Powers
+    - 4. Case study: Robodebt
+  - Ombudsmen Functions
+    - Oversight roles
+      - Whistleblowing: Public Interest Disclosure Act 2013 (Cth)
+      - Covert surveillance: Surveillance Devices Act 2004 (Cth)
+      - Immigration detention: Migration Act 1958 (Cth) s 4860
+    - Specialty areas
+      - Commonwealth Ombudsman
+        - Defence Force Ombudsman
+        - Postal Industry Ombudsman
+        - Overseas Students Ombudsman
+        - Private Health Insurance Ombudsman
+        - Student Loans Ombudsman
+    - Investigations
+      - Ombudsman Act 1976 (Cth)
+        - Complaints      Own motion
+          - 5(1) Subject to this Act, the Ombudsman: 
+            - (a) shall investigate ... action that relates to a matter of administration ... in respect of which a complaint has been made to the Ombudsman;
+            - (b) may, of his or her own motion, investigate any action ... that relates to a matter of administration, taken ... by a Department or by a prescribed authority
+          - A systemic focus?
+            - Our role in the early days was to resolve complaints (or swat the flies), rather than tackle the systemic issues within an agency which led to the complaints in the first place (hunt the lions). ... We now set out to hunt more lions, with the belief that if we remove the things that attract flies (the complaints), the flies will disappear of their own accord.
+              - Richard Glenn, ‘Keynote Address’ (Speech at the Tax
+  - Jurisdiction
+    - (a) What may be investigated?
+      - ... action that relates to a matter of administration’ (s 5(1))
+      - Narrow reading:
+        - Legislative action✖
+        - Judicial action✖
+        - High policy decisions✖
+      - ... but is this unduly restrictive?
+    - (b) Who may be investigated?
+      - Captured 
+        - Commonwealth Departments 
+          - s 5(1)
+        - Prescribed authorities (ie body established by legislation for a public purpose) 
+          - ss 3, 5(1)
+        - Private contractors: the contracting Department/authority is taken to have performed the action taken by the contractor
+          - s 3(4B)
+      - Exclusions
+        - Ministers 
+          - s 5(2)(a)
+        - Proceedings in Parliament 
+          - s 5(2)(aa)
+        - Judges 
+          - s 5(2)(b)
+        - Appointment and employment decisions (eg appointment to public office, APS promotion/discipline)
+          - s 5(2)(d)-(g)
+        - Note power to transfer relevant complaints to other appropriate bodies (eg ACMA, Information Commissioner, Parliamentary Service Commissioner etc): see s 6
+    - (c) Discretion not to act
+      - (i) Conduct of the applicant
+        - 12 month delay in raising complaint
+        - frivolous, vexatious, or not made in good faith
+        - complainant does not have a sufficient interest
+          - s 6(1)
+      - (ii) Subject matter of the decision
+        - relates to a commercial activity of a Department or prescribed authority
+          - s 6(12)
+      - (iii) Availability of other mechanisms
+        - internal review/ complaints
+        - tribunal review, legal proceedings
+          - s 6(1A), (3), (4)
+      - (iv) General catch-all
+        - “An investigation, or further investigation, of the action is not warranted having regard to all the circumstances”
+          - s 6(1) (b)(3)
+  - Glenister v Dillon [1976] VR 550
+    - Facts
+      - Prisoners complained to the Ombudsman (Dillon) about the Head of the Crown Law Department (Glenister) taking too long to bring their matters to trial
+      - Glenister disputed the Ombudsman’s jurisdiction to investigate
+    - Issue
+      - Did this complaint relate to a matter of administration?
+        - no
+    - Decision
+      - “[A] matter of administration” means any subject that should arise in the course of administration, or putting it another way, in the performance of the executive function of government (at 558)
+      - • “[A]ny activity in the areas of the exercise of judicial function or the enactment of legislation by Parliament would be beyond the jurisdiction of the Ombudsman” (at 558)
+      - “[P]atently the delay is something that occurred in the area of the judicial process and ... is not concerned with any activity (or inactivity) relating to the performance of any executive power” (at 559)
+  - Booth v Dillon (No 3) [1977] VR 143
+    - Facts
+      - Two prisoners had been separately charged by the Governor of a prisoner with disobeying an order
+      - Each complained to the Ombudsman about the manner in which the Governor heard and determined those charges
+      - The Director-General of Social Welfare (Booth) challenged jurisdiction
+    - Issue
+      - Did this complaint relate to a matter of administration?
+        - yes
+    - Decision
+      - [T]he ... distinction to be drawn is that between acts which may properly be described as falling within the performance of the executive function of government and those which fall within the performance of the legislative and judicial functions of government (at 144)
+      - The provisions to which I have referred, in my opinion, point strongly to the conclusion that... the governor is exercising his administrative responsibility for the due order, management and discipline of the prison under his charge. The hearing of charges ... is clearly related to the discharge of his administrative responsibility (at 147)
+      - [E]ven if there are elements of what could be described as the discharge of a judicial function in what he does, such elements are incidents only to the executive function he is discharging (at 147)
+  - Booth v Dillon (No 2) [1976] VR 434
+    - Facts
+      - Victorian Ombudsman investigated complaints about sexual assault committed against young male prisoners
+      - The Ombudsman’s draft report considered the Department of Social Welfare’s failure to take steps to alter prisoner sleeping arrangements so as to reduce incidents of sexual violence
+    - Issue
+      - Did this investigation relate to a matter of administration?
+        - No
+    - Decision
+      - [T]he matter to be investigated must relate to administration; a matter of policy is outside the scope of the Ombudsman's jurisdiction (at 435)
+      - [N]o clear line of demarcation exists between what is involved in policy and what is involved in administration (at 439)
+      - The provision of funds for the particular purposes of a Department is not a matter of administration... The question of what should be included in the estimates of a Department, and the priority of those included, is again a matter of policy (at 439)
+      - [I]t is a matter of administration as to whether or not any action of an administrative nature was or was not taken to deal with the matter of alleged sexual assaults (at 439).
+  - Powers
+    - (a) Running an investigation
+      - Investigative powers
+        - Obtain information and documents 
+          - s 9(1)
+        - Require a person to attend and answer questions
+          - s 9(2)
+        - Examine witnesses under oath 
+          - s 13
+        - Enter premises and inspect documents
+          - s 14
+      - Protections
+        - Investigation occurs in private
+          - s 8(2)
+        - Advance notice to the principal officer of the Department/ authority
+          - s 8(1)
+        - Opportunity to be heard before reporting a critical opinion
+          - s 8(5)
+        - Protection from liability/reprisal
+          - s 8(2A)-(2E)
+    - (b) Findings
+      - Ombudsman Act 1976 (Cth) s 15(1)
+        - Contrary to law
+        - Unreasonable, unjust, oppressive, improperly discriminatory
+        - Applied a law or practice that is unreasonable, unjust, oppressive, improperly discriminatory
+        - Based on mistake of law or fact
+        - ‘Was otherwise, in all the circumstances, wrong’
+        - Exercise of discretionary power:
+          - based on an improper purpose or irrelevant grounds
+          - took into account irrelevant considerations or failed to take into account relevant considerations
+          - not accompanied by a required statement of reasons
+    - (c) Outcomes
+      - (i) Make recommendations (s 15(2))
+        - the matter should be reconsidered
+        - ‘action... should be taken to rectify, mitigate or alter the effects of a decision...’
+        - a decision should be canceled or varied
+        - a rule or practice should be altered
+        - reasons should have been given
+        - ‘any other thing should be done
+      - (ii) Track recommendations (s 15(4))
+        - Did They Do What They Said They Would (2022)?
+      - (iii) Report “up the chain” (ss 16-17)
+        - Prime Minister: s 16
+        - Parliament: s 17
+  - Robodebt
+    - ✔ Matter of administration?
+    - ✔ Contrary to law?
+    - ✔ Power to uncover the problem?
+    - ✔ Power to expose the problem?
+    - ✔ Power to address the problem?
+    - ✖ Effective action on Robodebt?
+    - Did not use available mechanisms to refer/ seek advice on legality
+    - Accepted DHS claims regarding legality
+    - Removed draft text raising concerns regarding legality
+    - Influenced (even "co-written? ") by DHS
+    - Rush job: concern to assist current complainants and complete during Acting Ombudsman's term
+    - Does not seek independent advice on legality
+    - Draft (tentative) comment on legality
+    - Agrees to remove draft comment on DHS request
+    - “What is depressingly clear... is that the Ombudsman’s Office was not able to fulfil its role in exposing maladministration over the almost three years it investigated Robodebt complaints; it took litigation to do that. Individuals who were the victims of unfair debt raising could not look to the Ombudsman’s Office for relief.”
+  - TL;DR — Week 2
+    - Accountability: core administrative law theme, looks for adequate mechanisms to hold power in check and respond to accountability problems (eg lack of transparency, excess of power, abuse of power etc)
+    - Parliament: supports executive accountability through principles of responsible government, representative government, and parliamentary committee scrutiny
+    - Auditor-General: audits government finances and performance
+    - Royal commissions: appointed by government to investigate a discrete issue of public concern (recommendations not binding)
+    - Integrity commissions: ongoing scrutiny role in investigating government corruption and reducing opportunities for corruption
+    - Ombudsmen: grievance-handling bodies that investigate maladministration and make recommendations (recommendations not binding)
+    - Individual grievances v systemic issues: sometimes individual complaints (eg
+      - “I should not have received this debt notice”) are symptoms of bigger underlying problems in executive power (eg the government is using an unlawful debt-notice system)
+- "The Deep Colonizing Practices of the Australian Royal Commission into Aboriginal Deaths in Custody" – Elena Marchetti
+  - Title: 
+    - The Deep Colonizing Practices of the Australian Royal Commission into Aboriginal Deaths in Custody
+  - Author: 
+    - Elena Marchetti
+  - Published By: 
+    - Journal of Law and Society (2006)
+  - Context & Background:
+    - The Royal Commission into Aboriginal Deaths in Custody (RCIADIC) was established in 1987 to investigate the deaths of 99 Indigenous people in custody between 1980–1989.
+    - It was expected to be a transformative process addressing systemic racial injustice in the criminal justice system.
+    - However, despite extensive findings and 339 recommendations, Indigenous incarceration and deaths in custody remain disproportionately high, and government responses have been inadequate.
+    - This paper argues that RCIADIC, while intended to be a “decolonizing” inquiry, instead engaged in “deep colonizing” practices that reinforced colonial legal structures and marginalized Indigenous perspectives.
+  - Key Issues Identified:
+    - Liberal Legal Ideology as a Tool of Oppression
+    - Law presents itself as neutral and objective, but in practice, it upholds colonial power structures.
+    - Legal processes, rather than individual legal rules, continue to marginalize Indigenous peoples.
+    - RCIADIC, despite being framed as an independent inquiry, relied on Western legal traditions that filtered and constrained Indigenous voices.
+  - Structural Issues with RCIADIC’s Investigation
+    - The inquiry’s methods, although appearing inclusive, failed to challenge existing institutional racism.
+    - Despite the appointment of an Indigenous commissioner (Patrick Dodson) and the establishment of Aboriginal Issues Units (AIUs), Indigenous perspectives were often disregarded or reshaped to fit legalistic frameworks.
+    - Legal professionals (mostly non-Indigenous) dominated the process, marginalizing Indigenous staff and community voices.
+    - Failure to Incorporate Indigenous Knowledge and Cultural Sensitivities
+    - Testimonies from Indigenous communities were undervalued if they did not meet Western evidentiary standards.
+    - Gendered Indigenous experiences were silenced, particularly regarding women’s deaths, family violence, and systemic abuse.
+    - Cultural protocols around discussing death were ignored, causing distress and alienation among Indigenous communities.
+  - Denial of Justice and Lack of Tangible Outcomes
+    - RCIADIC found that most deaths were not caused by deliberate police violence, but due to systemic over-incarceration and failures in custodial care.
+    - No police or prison officers were held accountable, reinforcing Indigenous distrust in the legal system.
+    - Many families of the deceased did not receive copies of death reports, highlighting a lack of transparency and respect.
+    - Recommendations for reform were only partially implemented, and many have since been ignored.
+    - Findings from Interviews (48 Participants, Both Indigenous & Non-Indigenous):
+      - Social & Professional Subordination – Indigenous staff, particularly those in AIUs, were paid less, given less authority, and worked in lower-status roles than their non-Indigenous counterparts.
+      - Denial of Indigenous Expertise – Indigenous perspectives were dismissed as unreliable, and AIUs had little control over how their research was used in the final report.
+      - Cultural Blind Spots in Legal Processes – The legal framework failed to accommodate Indigenous ways of knowing, grieving, and storytelling.
+      - Emotional & Psychological Harm – Indigenous staff and families experienced trauma, yet no support or counselling was provided during or after the inquiry.
+  - Major Recommendations & Reforms (Implicit in the Paper):
+    - Future inquiries should centre Indigenous knowledge, voices, and leadership rather than filtering them through Western legal structures.
+    - Legal processes must acknowledge and integrate Indigenous cultural norms (e.g., protocols around discussing death and gendered perspectives).
+    - Truth-telling mechanisms, rather than legal commissions, may be more appropriate for addressing historical injustices.
+    - Structural reform is necessary beyond policy recommendations—there must be binding obligations for government implementation.
+  - Legal & Policy Impact:
+    - RCIADIC remains one of Australia’s most significant legal inquiries, but its failure to implement real change demonstrates the limitations of state-led commissions in dismantling systemic racism.
+    - Some Supreme Court justices (e.g., in South Australia) have referred to RCIADIC recommendations in sentencing Indigenous offenders, but systemic change has been minimal.
+    - Indigenous incarceration rates have continued to rise, demonstrating that RCIADIC’s findings were not effectively acted upon.
+    - The Uluru Statement from the Heart (2017) and calls for a Voice to Parliament can be seen as contemporary responses to the limitations of inquiries like RCIADIC.
+  - Criticism & Debate:
+    - Some scholars argue that RCIADIC’s failure was due to government inaction, not the commission itself.
+    - Others, including Marchetti, argue that RCIADIC’s own processes reinforced colonial dominance, making meaningful reform impossible.
+    - The paper contributes to critical legal scholarship by expanding the concept of "deep colonizing" and demonstrating how even well-intended legal inquiries can uphold systemic oppression.
+  - Relevance to Modern Law:
+    - Demonstrates the failure of legal institutions to fully decolonize and empower Indigenous communities.
+    - Highlights the ongoing challenge of achieving justice for Indigenous deaths in custody.
+    - Raises questions about whether legal commissions of inquiry are the best approach to Indigenous justice issues.
+  - Final Takeaway: RCIADIC, despite its progressive aims, ultimately reinforced colonial legal structures, demonstrating the inherent limitations of state-led legal processes in addressing Indigenous injustice. Future reforms must move beyond symbolic inclusivity and ensure genuine Indigenous self-determination in legal and policy-making processes.
+## Week 4: FOI Requests and Merit Review
+
+- Access to information: an overview
+  - Accessing information
+    - Freedom of information regimes:
+      - Freedom of Information Act 1982 (Cth)
+      - Government Information (Public Access) Act 2009 (NSW)
+    - Archives legislation:
+      - Archives Act 1983 (Cth) 
+      - State Records Act 1998 (NSW)
+  - Preserving information
+    - Archives legislation:
+      - Archives Act 1983 (Cth) 
+      - State Records Act 1998 (NSW)
+  - Protecting information
+    - Privacy legislation:
+      - Privacy Act 1988 (Cth)
+      - Privacy and Personal Information Protection Act 1998 (NSW)
+      - Health Records and Information Privacy Act 2002 (NSW)
+  - Which jurisdiction?
+    - Freedom of Information Act 1982 (Cth)
+      - Documents held by Commonwealth departments, agencies, Ministers
+    - Government Information (Public Access) Act 2009 (NSW)
+      - Documents held by New South Wales departments, agencies, Ministers
+  - Commonwealth Legislation
+    - Australian Information Commissioner Act 2010 (Cth)
+      - Establishes the Australian Information Commissioner
+    - Freedom of Information Act 1982 (Cth)
+      - Creates right of access
+      - Defines when documents can be withheld (exemptions)
+      - Defines rights to challenge/ appeal decisions to withhold
+    - Freedom of Information (Charges) Regulations 2019 (Cth)
+      - Sets possible fees / charges for providing access
+    - FOI Guidelines
+      - s 93A(1) The Information Commissioner may, by instrument in writing, issue guidelines for the purposes of this Act.
+      - Provides guidance on the FOI Act (including exemptions)
+  - Status of the FOI Guidlines
+    - Not a decision-making straitjacket
+      - s 93A(2) For the purposes of the ... exercise of a power, under this Act, regard must be had to any guidelines issued by the Information Commissioner.
+      - (3) Guidelines are not legislative instruments
+    - BUT
+    - Are relevant and should be considered
+      - [G]uidelines of this sort play an important role in administrative decision-making ... Even though they play such an important role, Guidelines must not be followed without consideration of their validity ... I disagree that decision-makers ... “should” apply the Guidelines. The obligation is to have “regard” to them ie “...to take into account; consider...”. It is not to “apply” them ie “...bring to bear, put into practical operation, as a principle, rule, law, etc...”. Regard can only be had to them if they are made lawfully ie within the scope of the power conferred by s 93A and consistently with the FOI Act.
+        - Re Prinn and Dept of Defence (2016) 152 ALD 162, 176-77
+  - Guiding rationale for FOI
+    - Transparency
+    - Participation
+    - Accessibility
+    - Accountability
+      - 3(1) The objects of this Act are to give the Australian community access to information held by the Government of the Commonwealth, by (a) requiring agencies to publish the information and (b) providing for a right of access to documents. 
+      - 3(2) The Parliament intends ... to promote Australia's representative democracy by... (a) increasing public participation ... with a view to promoting better-informed decision-making and (b) increasing scrutiny, discussion, comment and review of the Government's activities.
+      - 3(3) The Parliament also intends ... to increase recognition that information held by the Government is to be managed for public purposes, and is a national resource. 
+      - 3(4) The Parliament also intends that functions and powers given by this Act are to be performed and exercised, as far as possible, to facilitate and promote public access to information, promptly and at the lowest reasonable cost.
+- Proactive release of government information
+  - Information publication scheme
+    - Agency information
+      - “Agency plan” (ie outline of how the agency will publish required information) (s 8(1))
+      - Required information:
+        - Structure (eg organisational chart) (s 8(2)(b))
+        - Functions (eg powers affecting members of the public) (s 8(2)(c))
+        - Operational information (eg rules, guidelines, precedents etc used by the agency) (s 8A(1))
+        - Consultations (ie opportunities for the public to comment / participate in agency operations) (s 8(2)(f))
+    - Disclosure log
+      - Agency/Minister must publish information about documents to which access has been granted, unless unreasonable to do so (eg personal information) (s 11C)
+      - ie agencies will tell us what documents have been released under FOI
+      - Information Commissioner, ‘Disclosure Log Desktop Review’ (September 2021)
+        - Agency practice in 2019-20:
+          - 42% summarise the FOI request
+          - 11% describe the documents released
+          - 60% provided documents for direct download
+    - Proactive release of information
+      - 
+- Right of access
+  - Freedom of Information Act 1982 (Cth)
+    - General right of access
+      - 11(1) Subject to this Act, every person has a legally enforceable right to obtain access in accordance with this Act to:
+        - (a) a document of an agency, other than an exempt document; or
+        - (b) an official document of a Minister, other than an exempt document.
+    - What can we request?
+      - Questions we need to answer:
+        - (1) What is a ‘document’?
+        - (2) What is an ‘agency’ / ‘Minister’?
+        - (3) When is a document ‘of’ an agency / an official document ‘of’ a Minister (ie possession/control)?
+        - (4) What makes a document ‘exempt’?
+    - From whom?
+      - Questions we need to answer:
+        - (1) What is a ‘document’?
+        - (2) What is an ‘agency’ / ‘Minister’?
+        - (3) When is a document ‘of’ an agency / an official document ‘of’ a Minister (ie possession/control)?
+        - (4) What makes a document ‘exempt’?
+    - How?
+  - What Can We Request
+    - ‘Documents’
+      - Summary of s 4:
+        - Very broad – goes beyond written records to capture other forms in which information can be stored
+        - Non-exhaustive (ie “document” includes ...)
+        - Captures parts, reproductions and duplicates
+      - Excluded
+        - (a) Not ‘documents’
+          - 4 “document"
+          - …
+          - does not include:
+          - (d) material maintained for reference purposes that is otherwise publicly available; or
+          - (e) Cabinet notebooks.
+        - (b) Documents exclusive to other regimes
+          - documents held by the National Archives: s 12(1)(a))
+          - documents held in official collections (eg Australian War Memorial and National Library) (s 13)
+          - documents available for purchase (eg birth certificate, land title) (s 12(1)(b)-(c))
+        - (c) Narrow entitlement in some areas
+          - Limited access to categories of documents for certain bodies (examples)
+        - Agency
+          - Ministers
+            - Only captures documents held in ‘capacity as a Minister, being a document that relates to the affairs of an agency or of a Department of State’: s 4 def. “document of a Minister”
+          - Courts / tribunals
+            - Only captures documents of administrative nature: s 5
+          - Official Secretary Governor-General
+            - Only captures documents of administrative nature: s 6A
+          - ABC / SBS
+            - Program material/content excluded: s 7(2), Sch 2
+          - Reserve Bank
+            - Banking operations / exchange excluded: s 7(2), Sch 2
+          - Australia Post
+            - Banking operations / exchange excluded: s 7(2), Sch 2
+          - Department of Defence
+            - Operational intelligence excluded: s 7(2), Sch 2
+  - From Whom?
+    - (1) Agencies and Ministers
+      - (a) ‘Agencies’
+        - 4 “Agency" means a Department, a prescribed authority or a Norfolk Island authority.
+      - (b) Ministers
+        - ie Commonwealth Government Ministers (Commonwealth Minister for Finance etc)
+          - (i) Departments
+            - ie Australian Public Service Departments (s 4)
+          - (ii) ‘Prescribed authorities’
+            - Captured
+              - Body established for a public purpose by legislation / order: s 4 def., (a)
+              - Person holding office established by legislation / order: s 4 def., (c)
+              - Bodies/persons specified in regulations: s 4 def., (b)-(d)
+              - NBNCo: s 4 def., (aa)
+            - Excluded (examples)
+              - Royal Commission: s 4 def., (a)(vi)
+              - Incorporated companies: s 4 def., (a)(i)
+              - Land Councils: s 7(1), Sch 2
+              - Auditor-General: s 7(1), Sch 2
+              - ASIO: s 7(1), Sch 2
+              - Parliamentary Budget Office: s 7(1), Sch 2
+    - (2) ‘Of an agency’, ‘of a Minister’
+      - (a) Possession
+        - 4 [A] document is a document of an agency if ... the document is in the possession of the agency...
+        - 4 "official document of a Minister..." means a document that is in the possession of a Minister …
+      - (b) Constructive possession: power and control
+        - FOI Guidelines 2.36: ‘Possession’ of a document is not limited to actual or physical possession, but can include constructive possession where an agency has the right and power to deal with a document, regardless of where and by whom it is stored…
+        - 4 [A] Minister shall be deemed to be in possession of a document that has passed from his or her possession if he or she is entitled to access to the document and the document is not a document of an agency.
+      - (c) Private contractors
+        - 4 [A] document is a document of an agency if ... in order to comply with section 6C, the agency has taken contractual measures to ensure that it receives the document.
+        - s 6C: Agencies must include a clause in their contracts that allow the agency to obtain documents from the contractor
+        - Eg: “The Contractor must, within 7 days of receiving a written request by the Agency, provide the Agency with immediate access to the following information contained in records held by the Contractor...”
+  - Beesley v Australian Federal Police (2001) 111 FCR 1
+    - Facts
+      - Applicant requested access to information held by the Australian Federal Police
+      - The AFP had the ability to access a database (Law Enforcement Access Network – LEAN) which was administered by the A-G’s Department
+    - Issue
+      - Was electronic information stored in LEAN a ‘document’ in the ‘possession’ of the AFP?
+    - Decision
+      - [T]he question arises whether a document as defined in s 4 may qualify for the characterisation as one in the "possession" of an agency only if … the agency has actual physical possession of the document (at [64])
+      - In my opinion, the concept of "constructive possession" in the sense explained by Jones J in Re Guide Dog Owners and Friends Association is apposite in the present context (at [72]):
+        - “In my view, having regard to the scheme and objects of the Act, possession embraces legal or constructive possession: that is a right and power to deal with the document in question. It is not confined to actual or physical possession.”
+      - That question was simply not explored in any real sense by the Tribunal and for that reason alone, in my opinion, the matter must be remitted to the Tribunal (at [73])?
+  - How?
+    - Freedom of Information Act 1982 (Cth)
+      - 15(2) The request must:
+        - (a) be in writing; and
+        - (aa) state that the request is an application for the purposes of this Act; and
+        - (b) provide such information concerning the document as is reasonably necessary to enable a responsible officer of the agency, or the Minister, to identify it; and
+        - (c) give details of how notices under this Act may be sent to the applicant…
+  - Warren v Chief Executive Officer, Services Australia [2024] FCAFC 73
+    - Court:
+      - Federal Court of Australia – Full Court
+    - Parties:
+      - Appellant: Justin Warren
+      - Respondent: Chief Executive Officer, Services Australia
+    - Procedural History:
+      - In January 2017, Mr. Warren made a Freedom of Information (FOI) request regarding the Pay As You Go (PAYG) data matching initiative, later known as Robodebt.
+      - Services Australia denied access under FOI Act exemptions (ss 34 & 37(2)(b)).
+      - The Information Commissioner (2019) set aside the decision for some documents but upheld it for others.
+      - Services Australia appealed to the Administrative Appeals Tribunal (AAT), which found that certain documents were exempt under ss 34(1)(d), 34(3), and 47C of the FOI Act (Services Australia v Warren [2022] AATA 4191).
+      - Mr. Warren appealed to the Federal Court under s 44 of the Administrative Appeals Tribunal Act 1975 (Cth), arguing the AAT erred in its legal interpretation and procedural handling of the case.
+      - The Federal Court allowed the appeal, set aside the AAT’s decision, and remitted the matter for rehearing.
+    - Facts:
+      - Mr. Warren sought 10 documents related to New Policy Proposals (NPPs), draft NPPs, and costings prepared as part of the budgetary process and related to the Robodebt scheme.
+      - Services Australia denied access under the Cabinet exemption (s 34(3) FOI Act), claiming disclosure would reveal Cabinet deliberations or decisions.
+      - During the AAT proceedings, Services Australia changed its legal position multiple times regarding whether NPPs were submitted to Cabinet or merely proposed to be submitted.
+      - Services Australia sought to reopen its case, relying on confidential evidence in a supplementary affidavit from Ms. McGregor, which was not disclosed to Mr. Warren due to confidentiality orders.
+    - Legal Issues:
+      - Procedural Fairness (Ground 1) – Did the AAT err in permitting Services Australia to reopen its case based on confidential evidence, without giving Mr. Warren a fair opportunity to respond?
+      - Reliance on Unchallenged Evidence (Ground 2) – Did the AAT improperly rely on evidence from Scott Britton regarding the purpose of document creation, which Mr. Warren could not properly challenge?
+      - Cabinet Exemption (Ground 3) – Did the AAT misinterpret s 34(3) by concluding that a document containing information similar to a Cabinet document was itself exempt, even if it did not directly reveal Cabinet deliberations?
+      - Official Disclosure Exception (Ground 4) – Did the AAT misinterpret s 34(3) by requiring that the substance of a Cabinet deliberation be disclosed before the exemption no longer applied, instead of requiring only disclosure of the existence of a deliberation?
+      - Public Interest Test (Ground 5) – Did the AAT fail to properly consider the public interest in disclosure, particularly regarding documents 5 and 6, which had already been administratively released?
+    - Decision:
+      - The Federal Court allowed the appeal, set aside the AAT’s decision, and remitted the matter for rehearing.
+      - The AAT denied Mr. Warren procedural fairness by allowing Services Australia to introduce confidential evidence that changed its case without giving Warren fair notice or opportunity to respond.
+      - The AAT failed to evaluate submissions opposing the reopening of the case and did not provide reasons for its decision to do so.
+      - The AAT erred in interpreting s 34(3) by misapplying the Cabinet exemption and narrowing the official disclosure exception beyond its statutory intent.
+    - Ratio Decidendi:
+      - Procedural fairness requires that parties be given a reasonable opportunity to respond to evidence, particularly where a party introduces new confidential evidence that materially alters its case.
+      - A document is only exempt under s 34(3) if it directly reveals a Cabinet deliberation or decision. Mere similarity to a Cabinet document does not satisfy the exemption.
+      - The "official disclosure" exception in s 34(3) applies when the existence of a Cabinet deliberation or decision has been disclosed—full disclosure of the substance is not required.
+      - When assessing public interest, the Tribunal must consider the FOI Act’s transparency objectives and balance confidentiality against the public benefit of disclosure.
+    - Significance:
+      - Clarifies the scope of the Cabinet exemption under the FOI Act, emphasizing a narrow interpretation to avoid excessive government secrecy.
+      - Establishes that procedural fairness is paramount in FOI disputes, particularly when confidential evidence is relied upon.
+      - Reaffirms that the FOI Act’s official disclosure exception does not require full disclosure of Cabinet deliberations, only acknowledgment of their existence.
+      - Strengthens the principles of government transparency and accountability, particularly in high-profile cases related to public policy failures like Robodebt.
+- Refusing access
+  - 
+    - Not captured
+      - Possibilities 
+        - Not a ‘document’
+        - Not a captured agency
+        - Not a captured document for that agency
+        - Not in possession of the agency
+    - Conclusively Exempt
+      - Not required to give access to an ‘exempt document’: s 11A(4) -> 
+        - Means a document captured by Pt IV, Div 2: ss 4 and 31B(a)
+      - Part IV, Division 2
+        - Safety 
+          - 33: National security, defence, international relations
+          - 37: Law enforcement, protection of public safety
+        - High level government activity
+          - 34: Cabinet documents
+          - 45A: Parliamentary Budget Office documents
+          - 47A: Electoral rolls etc
+        - Obligations of confidence and valuable information
+          - 38: Secrecy imposed by another Act
+          - 42: Legal professional privilege
+          - 45: Material obtained in confidence
+          - 46: Contempt of Parliament or court
+          - 47: Trade secrets, commercially valuable information
+        - --- Public interest test does not apply ---
+    - Conditionally exempt
+      - Required to give access to a ‘conditionally exempt’ document unless contrary to public interest: s 11A(5) -> Means a document captured by Pt IV, Div 3: s 4
+      - Part IV, Division 3
+        - Impact on government activity
+          - 47B: Commonwealth-State relations
+          - 47C: deliberative process
+          - 47D: financial or property interests of the Commonwealth
+          - 47E: agency operations
+          - 47H: government research
+          - 47J: the economy
+        - Impact on others
+          - 47F: personal privacy
+          - 47G: business
+        - --- Public interest test does apply —
+      - Public interest test
+        - Section 11B – Factors relevant to determining whether release is contrary to the public interest:
+          - Yes
+            - (3)(a) promote the objects of this Act ... ; -> See s 3!
+            - (b) inform debate on a matter of public importance;
+            - (c) promote effective oversight of public expenditure;
+            - (d) allow a person to access his or her own personal information.
+          - No
+            - (4)(a) access ... could result in embarrassment to the Commonwealth Government, or cause a loss of confidence in the Commonwealth Government;
+            - (b) access to the document could result in any person misinterpreting or misunderstanding the document;
+            - (c) the author of the document was (or is) of high seniority in the agency to which the request for access to the document was made;
+            - (d) access to the document could result in confusion or unnecessary debate
+        - FOI Guidelines
+          - 11B(5) In working out whether access to the document would, on balance, be contrary to the public interest, an agency or Minister must have regard to any guidelines issued by the Information Commissioner for the purposes of this subsection under section 93A.
+          - Part 6
+            - But recall status of Guidelines
+          - Guidelines [6.224]:
+            - Public interest versus individual interest (ie common concern for the public or a substantial section of the public)
+            - In the interest versus of interest
+            - Broad and applied to suit the particular case
+          - Part 6.7
+            - 1 Is the document conditionally exempt?
+            - 2 What is the harm threshold?
+            - 3 Factors in favour of disclosure
+            - 4 Factors against disclosure
+            - 5 Ignore irrelevant factors
+            - 6 Weigh the relevant factors
+        - The present s 11A(5) of the FOI Act expressly adopts a balancing test. But it does not do so on the basis that there is a starting point of “empty scales in equilibrium”. By s 11B(3), certain factors telling in favour of the granting of access are already placed in the scales.
+          - Re Thomas; Secretary, Dept of Defence and (Freedom of Information) [2018] AATA 604 at [74]
+      - How do I interpret / apply the exemptions?
+        - 1 Focus on key words / phrases
+        - 2 Look for defined terms
+        - 3 Review the FOI Guidelines
+        - 4 Search for relevant case law (ie tribunals and courts)
+      - Common terms / phrases in FOI exemptions
+        - Would or could reasonably be expected to
+          - Guidelines [6.13]-[6.16]
+          - “Could” requires less certainty than “would”
+          - “reasonable, as distinct from something that is irrational, absurd or ridiculous”: A-G v Cockcroft (1986) 10 FCR 180, 190
+        - Substantial adverse effect
+          - Guidelines [6.17]-[6.19]
+          - “adverse effect ... sufficiently serious or significant to cause concern to a properly concerned reasonable person”: Re Thies and Department of Aviation [1986] AATA 141 [24].
+        - Prejudice 
+          - Guidelines [6.20]-[6.21]: producing detrimental or worse outcome
+          - Need not rise to the level of substantial adverse effect: Re James and ANU (1984) 6 ALD 687
+    - Partially Exempt
+      - Redacted copies
+        - Section 22 – A redacted version of a document must be provided if:
+          - (1)(a) an agency or Minister decides:
+            - (i) to refuse to give access to an exempt document;
+            - (ii) that to give access to a document would disclose information that would reasonably be regarded as irrelevant to the request for access
+          - (1)(b) it is possible for the agency or Minister to prepare a copy (an edited copy) of the document…
+          - (1)(c) it is reasonably practicable for the agency or Minister to prepare the edited copy, having regard to:
+            - (i) the nature and extent of the modification; and
+            - (ii) the resources available…
+        - 
+    - Practical refusal reason
+      - Voluminous and time consuming requests
+        - s 24(1): The agency can refuse access if there is a “practical refusal reason”
+        - s 24AA: Practical refusal reason exists where:
+          - (1)(a): the work involved in processing the request would ‘substantially and unreasonably divert the resources of the agency from its other operations’
+          - (1)(b): the applicant has not sufficiently identified the document (see criteria in s 24AA and examples in Guidelines)
+        - Section 24(1)(a): The agency must first consult with the applicant
+        - 
+- Demonstration: interpreting an FOI exemption
+  - Exemptions in FOI problem questions
+    - Read the exemption provisions / Guidelines so you can spot relevant ones for your problem
+    - Research your exemptions: this lecture is deliberately high level because the assessment focusses on research and statutory interpretation skills. Use the FOI Guidelines for help, and look at relevant cases on the exemptions you use.
+    - Don’t stop work after identifying one basis for refusal. ie don’t find the single fastest path to “No Access” in the decision tree, consider other possibilities too!
+    - Consider alternative arguments. ie should you still discuss redaction if you’ve argued an exemption does not apply?
+    - IRAC analysis: Don’t just summarise the law and jump to a conclusion. Make sure you pull directly from the facts to show how the law applies to them
+  - Statutory interpretation demo: interpreting and applying an exemption
+    - 1. Identify key terms / phrases
+        - Conditionally exempt: if this exemption applies, we will need to apply the public interest test to determine if it should be released
+      - What is protected? -- “Financial or property interests”
+      - Whose interests? -- Commonwealth or agency
+      - How likely does it need to be? -- “Would have”
+      - How significant does the impact need to be? -- “Substantial adverse effect”
+    - 2. Internal FOI Act references
+      - Defined terms?
+        - Check the dictionary (s 4)
+        - Search across the Act for definition provisions (eg “operational information” is defined in s 8A)
+        - Some terms are defined in other Acts – eg “personal information” is defined in s 4 to adopt its meaning from the Privacy Act 1988 (Cth)
+      - Context?
+        - Follow up cross-references to other provisions (eg s 47H applies to “agencies specified in Schedule 4”)
+        - Consider the structure and context (eg “would have” in s 47D is presumably a higher standard than “would or could be expected” in other exemptions)
+      - Purpose?
+        - Prefer an interpretation that best achieves the legislative
+        - purpose (see objects in s 3): Acts Interpretation Act 1901 (Cth) s 15AA
+    - 3. FOI Guidelines
+      - Financial or property interests
+        -  6.80 The financial or property interests of the Commonwealth or an agency may relate to assets, expenditure or revenue-generating activities. An agency's property interests may be broader than merely buildings and land, and may include intellectual property or the Crown's interest in natural resources."
+      - 6.17 – 6.19: General discussion of the meaning of substantial adverse effect
+      - 6.81 – 6.83: Specific discussion of how it has been applied to s 47D
+    - 4. Case law (tribunals / courts)
+      - Why are cases relevant?
+        - Establish principles that guide interpretation of words and phrases (eg “property” in s 47D is not confined to real property)
+        - Provide facts to use in legal analysis (ie how is your problem question similar to / different from decided cases?)
+      - Finding relevant cases
+        - Lots of examples in the FOI Guidelines
+        - Search on Lexis Advance!
+          - “freedom of information w/s 47D” will find cases on this provision
+          - narrow by search terms as relevant to your problem question (eg “intellectual property”, “trade mark” etc)
+- Process and procedure
+  - Timeframes
+    - 30 DAYS
+      - Day 1:
+        - Request received
+      - Day 14:
+        - Notice of receipt (s 15(5)(a))
+      - Day 30:
+        - Notice of decision (s 15(5)(b))
+        - OR
+        - “Deemed refusal” (s 15AC)
+    - Calculations:
+      - Rules around how dates are calculated (eg deemed delivery days for post, email etc)
+    - Clock paused:
+      - Agency consulting with the applicant about a potential practical refusal reason (s 24AB(8)
+      - Waiting on the applicant to pay a charge
+    - Permitted extensions:
+      - To consult with other parties (s 15(6))
+      - By agreement (s 15AA)
+      - For complex or voluminous requests (ss 15AB)
+      - Additional IC discretion after deemed refusal decision (ss 15AC(5), 51DA(4), 54D(4))
+  - Fees
+    - FOI Act s 29:
+      - Agency can impose charges pursuant to the regulations
+      - Must give notice
+      - Must take into account hardship and whether release is in the public interest
+    - Freedom of Information (Charges) Regulations 2019 (Cth):
+      - cl 6 and Schedule: rates of charges
+      - cl 7(1): No charges for access to personal information
+      - cl 7(2): No charge if agency runs exceeds time limits
+      - cl 11: Charges to be paid before access granted
+  - Review and appeal
+    - Merits review
+      - Internal review
+        - Applicant: can request internal review of an access refusal decision (s 54)
+        - Third parties: affected third party can request internal review of an access grant decision (s 54A)
+        - Time limit: Application must be made within 30 days of the decision (s 54B)
+        - Review time: A new decision-maker must make a ‘fresh decision’ within 30 days (s 54C)
+      - Information Commissioner
+        - What decisions?
+          - original decisions (s 54L) and internal review decisions (ss 54L-54M)
+          - includes deemed refusal decisions (s 15AC)
+        - Procedure: (see s 55)
+          - Direction as to certain procedures to be followed by agencies and ministers in Information Commissioner reviews (July 2024)
+          - Direction as to certain procedures to be followed by applicants in Information Commissioner reviews (July 2024)
+        - Powers: affirm, vary or set aside the decision (s 55K)
+          - (2) For the purposes of implementing a decision on an IC review, the Information Commissioner may perform the functions, and exercise the powers, of the person who made the IC reviewable decision.
+          - (3) A decision of the Information Commissioner on an IC review has the same effect as a decision of the agency or Minister who made the IC reviewable decision.
+      - Administrative Appeals Tribunal
+        - (soon ART)
+          - What decisions? Can review Information Commissioner decisions (s 57A), but not original or internal review decisions
+          - Powers: Can exercise the powers available to the agency or Minister at first instance (s 58)
+            - 58(1) Subject to this section, in proceedings under this Part, the Tribunal has power, in addition to any other power, to review any decision that has been made by an agency or Minister in respect of the request and to decide any matter in relation to the request that, under this Act, could have been or could be decided by an agency or Minister, and any decision of the Tribunal under this section has the same effect as a decision of the agency or Minister.
+      - Merits review of FOI decisions
+        - Internal review -> IC review 
+          - AAT review
+    - Legality review	
+      - Judicial review by the courts
+        - Week 5!!
+  - TL;DR — Week 3A
+    - Government information: Different laws work together to govern access to government information, preservation of government information, and protection of personal information (FOI, archives, privacy laws)
+    - Access: the government is required to proactively publish certain information, and release other information on request
+    - Right to request access: We have a legally enforceable right to request access to documents held by government
+    - Refusal of access: Agencies can refuse access if: (a) the FOI regime doesn’t apply, (b) conclusively exempt material cannot be redacted, (c) release of conditionally exempt material is contrary to the public interest and cannot be redacted, (d) for other limited “practical” reasons
+    - Interpreting exemptions: carefully review the Act, Guidelines and case law
+    - Merits review options: Internal review (fresh decision by the agency), Information Commissioner review of original decision or internal review decision, AAT review of Information Commissioner decision
+- The legality-merits distinction
+  - The separation of powers
+    - Also: Ombudsmen, commissions of inquiry etc (Week 2) and tribunals (Week 4)
+  - 
+- Distinguishing the merits
+  - The duty and jurisdiction of the court to review administrative action do not go beyond the declaration and enforcing of the law which determines the limits and governs the exercise of the repository’s power. If, in so doing, the court avoids administrative injustice or error, so be it; but the court has no jurisdiction simply to cure administrative injustice or error. The merits of administrative action, to the extent that they can be distinguished from legality, are for the repository of the relevant power and, subject to political control, for the repository alone. 
+    - Attorney-General (NSW) v Quin (1990) 170 CLR 1, 35-36 (Brennan J)
+  - Who can decide?
+    - 
+  - Who can review?
+    - 
+    - “trespass into the forbidden field of review on the merits”
+      - Minister for Immigration & Ethnic Affairs v Guo (1997) 191 CLR 559, 577
+    - “slide into impermissible merit review”
+      - Swift v SAS Trustee Corporation (2010) 6 ASTLR 339, 351
+  - Distinguishing the merits
+    - Merits review
+      - Determines the facts
+      - Applies the law to the facts
+      - Stands in the shoes of the original decision-maker
+      - Typically re-exercises the power and makes the decision afresh
+        - Executive bodies
+    - Judicial review
+      - Determines the legality of the decision:
+        - Law correctly interpreted?
+        - Correct procedures followed?
+        - Appropriate reasoning process adopted?
+      - Remedies require original decision-maker to act within power
+        - Courts
+    - Blurred boundaries?
+      - merits review bodies still interpret / apply the law
+      - difficulty of separating questions of fact and law
+      - some grounds of judicial review allow review of factual findings
+      - States can have dual function tribunals (eg NSW Land and Environment Court)
+  - Example
+    - Fisheries Licencing Act 2018 (Cth)
+      - 12. The Director of Fisheries may cancel a fishing licence if the holder of the licence is not of good character.
+      - 13. If proposing to exercise the power conferred under s 12, the Director of Fisheries must first afford the licence-holder an opportunity to make submissions.
+    - Ken receives a speeding fine after being caught by a speed camera driving at 87km/h in an 80 zone.
+      - Two weeks later, Ken receives a notice from the Director of Fisheries cancelling his fishing licence. The Director indicates the cancellation is based on his lack of good character, as evidenced by his poor driving record
+        - Notice: Decision 
+        - Director of Fisheries: Original Decision-maker
+    - Merits review
+      - Is Ken of good character?
+      - Do I think a person is not of good character based on a speeding fine?
+      - Should I cancel Ken’s fishing licence?
+    - Judicial Review
+      - Has the Director correctly interpreted their powers?
+      - Has the Director followed the right procedures?
+      - Has the Director employed an appropriate reasoning process?
+- ‘Merits’ review
+  - ‘Correct and preferable’ decision
+    - Hearing ‘de novo’
+    - Re-hearing
+      - ‘statutory provisions conferring appellate powers … [including] by way of re-hearing, are to be construed on the basis that ... the power is to be exercised for the correction of error’
+        - Coal and Allied Operations Pty Ltd v Australian Industrial Relations Commission (2000) 203 CLR 194, 203-04
+  - New South Wales Thoroughbred Racing Board v Waterhouse (2003) 56 NSWLR 691
+    - Facts
+      - Robbie Waterhouse gave a friend very inflated odds on a race to help him win enough money to pay off business debts
+      - Original decision-maker gave Waterhouse a 9-month suspension
+      - Waterhouse appealed to the Racing Appeals Tribunal, who increased the penalty to a 9-month disqualification
+      - The matter was ultimately appealed to the NSW Court of Appeal
+    - Issue
+      - Did the Tribunal have the power to consider the matter afresh, or to consider the correctness of the original decision?
+        - Yes
+    - Decision
+      - In this case, I accept that the Tribunal did not approach its task as one where detection of error was required before the decision of the Panel could be interfered with. On the appeal against sentence, the Tribunal took the view that it could substitute its own view without first deciding that there was error. That was in my opinion an error ... (at 718, [106] per Hodgson JA)
+  - ‘Correct and preferable’
+    - 
+  - Core differences in approach
+    - Merits review 
+      - Inquisitorial approach
+      - Informal
+      - Outcome – make a substitute decision
+    - Judicial review
+      - Adversarial approach
+      - Formal
+      - Outcome – invalidate and refer back to original decision-maker 
+  - Rationale for merits review
+    - The basic fault of the entire structure is, however, that review cannot as a general rule ... be obtained "on the merits"—and this is usually what the aggrieved citizen is seeking.
+      - Commonwealth, Commonwealth Administrative Review Committee Report (Parliamentary Paper no. 144 of 1971), [58]
+- Merits review mechanisms
+  - Internal review
+    - Advantages
+      - Quick
+      - Relevant knowledge and expertise
+      - Fosters improved decision-making
+    - Disadvantages
+      - Lacks independence
+      - Perceived ‘rubber stamp’
+      - Risk of appeal fatigue
+      - 
+  - Eternal review
+    - Tribunals 
+      - NOTE: major AAT overhaul underway (see Week 4)
+      - Administrative Appeals Tribunal
+        - major AAT overhaul underway
+        - AAT Act, s 43(1) For the purpose of reviewing a
+        - decision, the Tribunal may exercise all the powers and discretions that are conferred by any relevant enactment on the person who made the decision...
+      - NSW Civil and Administrative Tribunal
+        - NCAT Act, s 63(1) In determining an application for an administrative review under this Act of an administratively reviewable decision, the Tribunal is to decide what the correct and preferable decision is having regard to the material then before it.
+    - Specialised Bodies
+      - Information Commissioner
+        - FOI Act, s 55K(1) After undertaking an IC review, the Information Commissioner must make a decision… (a) affirming ... or (b) varying ... or (c) setting aside the IC reviewable decision and making a decision in substitution for that decision.
+      - Fair Work Commission
+        - WHS Act, s 229(3) The Fair Work Commission may do any of the following in relation to the decision … (a) confirm the decision; (b) vary the decision; (c) set aside the decision and make a decision in substitution for the decision set aside.
+    - Some State courts
+      - NSW Land and Environment Court
+        - LEC Act, s 39(2) In addition to any other functions and discretions that the Court has apart from this subsection, the Court shall, for the purposes of hearing and disposing of an appeal, have all the functions and discretions which the person or body whose decision is the subject of the appeal had in respect of the matter the subject of the appeal.
+  - TL;DR — Week 3B
+    - Separation of powers: Power is distributed to prevent tyranny – each branch should stay in its own lane (separation principle), and should be subject to checks and balances (supervision principle)
+    - The “merits”: The merits of a decision reflects the exercise of decision-making freedom or discretion, eg “I think this is the best way to exercise this power” 
+    - Legality: The executive must stay within legal boundaries on its powers when deciding the merits
+    - Merits review: A merits reviewer revisits the merits of a decision, forming their own view on the correct (ie legal) and preferable (ie most preferred of the legal options) outcome
+    - Who can decide/review the merits? The executive has final say on the merits – courts trespassing into the merits is a potential SOP concern (cf State level)
+    - Who can decide/review legality? The courts have a final say on interpreting the law (ie the legality of a decision) – while merits reviewers do fix legal errors (ie make the “correct” decision), they do not have a final say on the meaning of the law
+## Week 5: Tribunals
+
+- Locating tribunals in the administrative law system
+  - Tribunal decision-making	
+    - 1. Categories of tribunal
+    - 2. Guiding principles
+    - 3. Tribunal procedure
+    - 4. Membership and constitutional issues
+    - 5. Access to reasons from government
+  - 1. Categories of tribunal
+    - 1. De facto courts
+    - 2. Political decision-making bodies
+    - 3. Administrative review tribunals
+    - 4. Hybrid tribunals
+    - Administrative Appeals Tribunal
+      - Administrative Appeals Tribunal Act 1975 (Cth) s 5A
+        - Likely to become the Administrative Review Tribunal in the next 12 months
+    - NCAT 
+      - Civil and Administrative Tribunal Act 2013 (NSW) s 9
+      - Administrative Decisions Review Act 1997 (NSW) s 9
+  - 2. Guiding principles
+    - s 2A In carrying out its functions, the Tribunal must pursue the objective of providing a mechanism of review that:
+    - (a) is accessible; and
+    - (b) is fair, just, economical, informal and quick; and
+    - (c) is proportionate to the importance and complexity of the matter; and
+    - (d) promotes public trust and confidence in the decision- making of the Tribunal.
+  - 3. Tribunal procedure
+    - ✓ Discretion
+    - ✓ Expedition
+    - ✖ Formality
+    - ✖ Technicality
+    - ✖ Formal rules of evidence
+    - 33(1)(a) the procedure of the Tribunal is, subject to this Act and the regulations and to any other enactment, within the discretion of the Tribunal;
+      - (b) the proceeding shall be conducted with as little formality and technicality, and with as much expedition, as the requirements of this Act and of every other relevant enactment and a proper consideration of the matters before the Tribunal permit; and
+      - (c) the Tribunal is not bound by the rules of evidence but may inform itself on any matter in such manner as it thinks appropriate.
+  - 4. Membership and constitutional issues
+    - Administrative Appeals Tribunal Act 1975 (Cth) ss 5A, 7
+      - President
+        - Federal Court Judge
+      - Deputy Presidents
+        - Judge, lawyer (5 years), special knowledge or skills
+      - Senior members
+        - Lawyer (5 years), special knowledge or skills
+      - Other members
+        - Lawyer (5 years), special knowledge or skills
+    - Which branch?
+      - Legislative 
+        - Making the law
+      - Executive 
+        - Administering government according to law
+        - Judges as members
+          - Not a Ch III court
+          - Not a ‘court of a state’
+      - Judicial
+        - Interpreting the law and Resolving Disputes
+        - Judges as members
+          - Not a Ch III court
+          - Not a ‘court of a state’
+    - Judges as members
+      - A breach of the separation of powers?
+        - There is nothing in the Constitution which precludes a justice of the High Court or a judge of this or any other court created by the Parliament under Ch Ill of the Constitution from, in his personal capacity, being appointed to an office involving the performance of administrative or executive functions including functions which are quasi judicial in their nature. Such an appointment does not involve any impermissible attempt to confer upon a Ch III court functions which are antithetical to the exercise of judicial power. Indeed, it does not involve the conferring of any functions at all on such a court.
+          - Re Drake v Minister for Immigration and Ethnic Affairs (1979) 2 ALD 60, 64
+        - Persona designata exception
+  - 5. Access to reasons from government
+    - What are reasons?
+      - Statement from a decision-maker recording:
+        - Findings about relevant facts
+        - Evidence / other material that informed factual findings
+        - Explains the reasons for the decision
+      - Why are reasons important?
+        - Transparency and accountability
+        - Fairness (ie to understand why an unfavourable decision was made)
+        - Support review and appeal
+    - No common law right to reasons
+      - Public Service Board of New South Wales v Osmond (1986) 159 CLR 656
+        - There is no general rule of the common law, or principle of natural justice, that requires reasons to be given for administrative decisions, even decisions which have been made in the exercise of a statutory discretion and which may adversely affect the interests, or defeat the legitimate or reasonable expectations, of other persons (at 662 per Gibbs CJ)
+        - BUT
+        - If the decision-maker does not give any reason for his decision, the court may be able to infer that he had no good reason (at 663-34 per Gibbs CJ)
+        - ie maybe the decision is legally irrational/unreasonable?
+    - Reasons in Tribunal proceedings
+      - Administrative Appeals Tribunal Act 1975 (Cth)
+        - Before seeking review
+          - s 28(1) ... any person ... who is entitled to apply to the Tribunal for a review of the decision may ... request that person to give to the applicant a statement in writing setting out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the decision…
+        - After seeking review
+          - s 37(1) ... a person who has made a decision that is the subject of an application for review... by the Tribunal must ... lodge with the Tribunal a copy of ... a statement setting out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the decision…
+        - Similar rules will apply for the ART: cl 23-24 and 268-271
+    - Other sources of reasons
+      - ADJR Act: person entitled to make an ADJR Act application can request a statement of reasons from the decision-maker (s 13)
+      - Other specific Acts: eg ASIC must give reasons if it cancels a financial services licence (Corporations Act 2001(Cth) s 915G)
+- The abolition of the AAT
+  - 1. Problems in the AAT
+    - Backlogs
+    - Delays
+    - Declining public trust
+    - Increase to 40% of all appointments as “political” in 2019-22
+    - 31% of new appointees from 2017-21 had political ties
+  - 2. The Administrative Review Tribunal
+    - Timeline
+      - A-G Consultation: “A new system of federal administrative review” (May)
+      - ART Bill introduced (Dec)
+      - Committee inquiries (Jan-Feb)
+      - ART Act enacted (June)
+        -  Administrative Review Tribunal Act 2024 
+      - ART commences operations (October)
+    - Appointment
+      - cl 205-08: Minister can only recommend an appointment if satisfied the candidate has been: 
+        - assessed as suitable for the appointment through an assessment process that:
+        - (i) was merit-based; and
+        - (ii) included public advertising
+      - cl 4: definition of ‘merit-based’:
+        - ‘competitive selection’ process that considers the ‘comparative suitability’ of candidates
+        - compare candidate’s ‘skills, expertise, experience and knowledge’ with those of the job
+        - consider the Tribunal’s need for diversity in skills, expertise, knowledge and lived experience
+      - cl 209: Minister may establish an “Assessment Panel” to assess candidates for appointment
+    - “Guidance and Appeals Panel”
+      - Higher tier of review within the Tribunal
+      - President can refer two types of matters (cl 122, 128):
+        - 1. appeals from Tribunal decisions that are ‘materially affected’ by error
+        - 2. priority cases that ‘raise an issue of significance to administrative decision-making’ – intended to catch systemic problems like Robodebt
+    - Re-establishing the ARC
+      - Was a very important oversight body established
+      - in the AAT Act (eg published reports and
+      - guidelines on best practice in administrative
+      - decision-making)
+      - • Still exists in the legislation, but gutted by
+      - government budget in 2015-16
+      - • Will be re-established with the ART, with a
+      - commitment to government funding
+  - 3. What does this mean for us??
+    - How big are these changes?
+      - Main changes focus on Tribunal structure / procedure
+      - Core principles of merits review are relevant to both the AAT and the ART
+    - As students in this subject
+      - Understand what is changing and why
+      - In assessments, refer to the AAT and the AAT Act unless the question specifically asks about the ART
+    - As future lawyers
+      - Develop strong understanding of core principles of merits review
+      - New legislation / provisions to learn (NOTE lectures refer to ART Bill clause numbers, not ART Act section numbers)
+- Jurisdiction in tribunals
+  - 1. Conferral of jurisdiction
+    - ‘Decision’?
+      - Broadly defined
+      - Administrative Appeals Tribunal Act 1975 (Cth)
+        - s 3(3) Unless the contrary intention appears, a reference in this Act to a decision includes a reference to:
+        - (a) making, suspending, revoking or refusing to make an order or determination;
+        - (b) giving, suspending, revoking or refusing to give a certificate, direction, approval, consent or permission;
+        - (c) issuing, suspending, revoking or refusing to issue a licence, authority or other instrument;
+        - (d) imposing a condition or restriction;
+        - (e) making a declaration, demand or requirement;
+        - (f) retaining, or refusing to deliver up, an article; or
+        - (g) doing or refusing to do any other act or thing.
+      - Purported decisions?
+        - s 25(1) ... applications may be made ... for review of decisions made in the exercise of powers conferred by that enactment
+      - Collector of Customs v Brian Lawlor Automotive Pty Ltd
+        - It seems absurd that immunity from review could be secured by proof that the decision-maker's exercise of power so far miscarried as not to be a valid exercise of the power at all.
+          - (1978) 1 ALD 167, 178 per Brennan J
+        - [A] decision made ... includ[es] the notion that the official may be making his decision on the basis that he is exercising powers conferred by the enactment, whether or not on a proper interpretation of the enactment such powers are conferred... [This i]nterpretation appears to me to be consistent with the context in the Administrative Appeals Tribunal Act.
+          - (1979) 2 ALD 1, 4–5 per Bowen CJ
+    - Jurisdiction conferred?
+      - Migration Act 1958 (Cth) s 306
+        - Subject to the Administrative Appeals Tribunal Act 1975, application may be made to the Administrative Appeals Tribunal for review of a decision by the Migration Agents Registration Authority made under this Division
+      - Gene Technology Act 2000 (Cth) s 183
+        - (1) Subject to the Administrative Appeals Tribunal Act 1975, an application may be made by an eligible person in relation to: 
+        - (a) a reviewable decision made by the Regulator personally...
+      - Customs (Prohibited Exports) Regulations 1958 (Cth) cl 9AB
+        - (3) The Minister... may... grant a permission... for the exportation of … a cat or dog fur product...
+        - (11) Application may be made to the Administrative Appeals Tribunal for review of a decision of the Minister… not to grant a permission…
+      - Australian Passports Act 2005 (Cth) s 50
+        - (1) If a reviewable decision is made:
+          - (a) by the Minister; or
+          - (b) under subsection 49(4) by a delegate of the Minister;
+        - application may be made to the Administrative Appeals Tribunal for review of that decision.
+      - 
+  - 2. Standing
+    - The entitlement of a person or organisation to invoke the jurisdiction of a court to hear a case.
+      - Encyclopaedic Australian Legal Dictionary (LexisNexis)
+    - People have standing to sue (or locus standi) if the court or tribunal treats their connection with the dispute before it as sufficient to allow them to institute and maintain the proceedings before it.
+      - Aronson, Groves and Weeks, Judicial Review of Administrative Action and Government Liability (Thomson Reuters, 6th ed, 2017) 769
+    - s 27 (1) Where this Act or any other enactment ... provides that an application may be made to the Tribunal for a review of a decision, the application may be made by or on behalf of any person or persons ... whose interests are affected by the decision.
+    - (2) An organization or association of persons, whether incorporated or not, shall be taken to have interests that are affected by a decision if the decision relates to a matter included in the objects or purposes of the organization or association.
+  - Rudd and Minister for Transport and Regional Services and Brisbane Airport Corporation Ltd (2001) 65 ALD 296
+    - Facts
+      - Kevin Rudd was the Member of Federal Parliament for Griffith
+      - He wanted to challenge the approval of a development plan for Brisbane Airport
+    - Issue
+      - Does a Member of Parliament’s position as a political representative in a location afford standing for issues affecting that location?
+        - No
+    - Decision
+      - Not all constituents in an electorate will have the same views (at [9])
+      - The application could proceed on the basis that Mr Rudd was a resident living 9–10 kilometres from the development (at [22])
+  - Re Control Investment Pty Ltd and Australian Broadcasting Tribunal (No 1) (1980) 3 ALD 74
+    - Facts
+      - News Group was challenging a decision of the Australian Broadcasting Tribunal refusing to approve certain transactions relating to control of media companies
+      - The Australian Labor Party sought to be joined to the proceeding
+    - Issue
+      - Was the ALP a person whose “interested are affected” by the decision?
+        - Yes
+    - Decision
+      - “In my opinion, the interests of the Australian Labor Party are affected by the decisions under review by reason of its contention that the control of media interests has a potential and actual effect upon political processes in Australia and the welfare of the Australian Labor Party, by reason of the part the Party played in the proceedings before the Australian Broadcasting Tribunal and because the decisions under review relate to matters included within the objects of the Party” (at 81–82)
+  - Re Gay Solidarity Group & Minister for Immigration & Ethnic Affairs (1983) 5 ALD 289
+    - Facts
+      - The Minister issued a deportation order to Mr Bright; an immigrant who was convicted of a criminal offence (homosexual sex)
+      - As Mr Bright was unable to challenge the deportation decision, the Gay Solidarity Group sought to challenge the decision
+      - One of the objects of the Group was to ‘end all forms of prejudice and discrimination against homosexual people’
+    - Issue
+      - Was the Gay Solidarity Group a person whose interests are
+      - Affected?
+        - No
+    - Decision
+      - AAT accepted the Minister’s submission that the deportation was not based on the fact that Mr Bright was a homosexual, but on the fact that he had committed an offence
+      - “... s 27(1) ... does not avail the applicant because the decision to deport Mervyn John Bright does not relate to a matter included in the objects and purposes of the applicant” (at 292)
+- Tribunal decision-making
+  - 1. Re-hearing, or hearing ‘de novo’?
+    - Administrative Appeals Tribunal Act 1975 (Cth)
+      - s 43(1) For the purpose of reviewing a decision, the Tribunal may exercise all the powers and discretions that are conferred by any relevant enactment on the person who made the decision...
+    - Drake v Minister for Immigration and Ethnic Affairs (1979) 2 ALD 60, 68 (Bowen CJ and Deane J)
+      - The question for the determination of the Tribunal is whether that decision was the correct or preferable one on the material before the Tribunal.
+    - ‘Correct and/or preferable’
+      - Correct 
+        - Illegal x 
+        - Legal ✔
+      - Preferable 
+        - AX BX C✔ DX
+    - The merits review function of the AAT is "to stand in the shoes of the decision-maker whose decision is under review so as to determine for itself on the material before it the decision which can, and which it considers should, be made in the exercise of the power or powers conferred on the primary decision-maker for the purpose of making the decision under review". The function of the AAT, in other words, is "to do over again" that which was done by the primary decision-maker
+  - 2. Evidence
+    - ‘T’ Documents
+      - AAT: Decision-maker must lodge all documents in possession or control that are ‘relevant to the review of the decision by the Tribunal’ (s 37(1)(b))
+      - This will capture the documentary evidence relied on by the original decision-maker and other relevant material
+      - ART equivalent: cl 23(b)
+    - Additional evidence
+      - Witnesses: power to summon witnesses to give evidence (AAT s 40A; ART cl 74)
+      - Documents: power to summon a person to produce documents (AAT s 40A; ART cl 74)
+      - Further information from government: power to require decision-makers to produce additional documents and statements (AAT ss 38, 38AA; ART cl 24-26)
+      - AAT s 33(1)(c) 
+      - ART cl 52
+      - The Tribunal is not bound by the rules of evidence but may inform itself on any matter in such manner as it thinks appropriate.
+    - New evidence?
+      - Original decision (2023)
+      - Tribunal decision (2024)
+      - Examples:
+        - Relevant documents are discovered
+        - Changes in family structure (eg births, deaths, marriages)
+        - Applicant turns over a new leaf
+        - Applicant’s financial circumstances worsen or improve
+      - Re Greenham & Minister for Capital Territory (1979) 2 ALD 137
+        - Facts
+          - Dr Greenham sought AAT review of the Minister’s rating valuation of his land, arguing that it was too high
+          - Dr Greenham asked the tribunal to consider the property’s proximity to diplomatic premises causing noise, access and security troubles, and earthquake risk
+        - Issue
+          - Was the AAT restricted to material before the original-decision maker?
+            - No
+        - Decision
+          - In reaching its decision, the Tribunal is not restricted to the material that was before the decision-maker any more than the decision-maker himself is so restricted. The decision-maker may adduce evidence that was not available to him when he made his decision and he may, in the light of that evidence, or upon re-consideration of the decision, even abandon or modify the reasons upon which he originally relied. The absence of a hearing before the decision-maker and the Tribunal's powers to gather evidence make it unthinkable that the Tribunal should be limited to the material before the decision-maker (at 141)
+      - Shi v Migration Agents Registration Authority (2008) 235 CLR 286
+        - Facts
+          - 2003: Authority cancelled Shi’s migration agent registration for misconduct
+          - Shi applied to the AAT, who stayed the decision pending AAT review
+          - 2005: The AAT reviewed the cancellation decision and substituted the cancellation with a caution, taking into account Shi’s performance during the period of the stay
+        - Issue
+          - Was the AAT able to take into account evidence post-dating the original decision?
+            - Yes
+        - Decision
+          - [T]he language in s 303 of the Migration Act clearly contemplates the possibility that circumstances may change between an initial decision of the authority and a subsequent decision of the tribunal (at [48])
+          - When making a decision, administrative decision-makers are generally obliged to have regard to the best and most current information available... When, therefore, the tribunal elects to make [a substitute decision] it would be surprising in the extreme if the substituted decision did not have to conform to such a standard (at [41])
+  - 3. Government policy in Tribunal decisions
+    - What is ‘policy’?
+      - Public policy [is] an authoritative statement by a government about its intentions. 
+        - Althouse, Bridgman and Davis, The Australian Policy Handbook (Allen and Unwin, 5th ed, 2012)
+      - [E]xecutive policy is ... a non-statutory rule devised by the administration to provide decision- making guidance, particularly in administering legislation. In some instances, the policy is very formal, possibly authorised by statute, tabled in the parliament, endorsed by a minister or cabinet, or published as an agency manual... In other instances [it] may be informal – originating in a press release ... or based on unwritten agency folklore ... passed down from officer to officer.
+        - Robin Creyke et al, Control of Government Action
+    - Why is policy useful?
+      - Rules -> Discretion -> Policy
+        - [A] policy has virtues of flexibility which rules lack, and virtues of consistency which discretion lacks.
+        - R v Secretary of State for Education and Employment; Ex parte Begbie [2000] 1 WLR 1115,
+      - There are powerful considerations in favour of a Minister adopting a guiding policy. It can serve to focus attention on the purpose which the exercise of the discretion is calculated to achieve, ... and the integrity of decision-making in particular cases is the better assured if decisions can be tested against such a policy. By diminishing the importance of individual predilection, an adopted policy can diminish the inconsistencies which might otherwise appear in a series of decisions, and enhance the sense of satisfaction with the fairness and continuity of the administrative process.
+        - Re Drake and Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 634,
+    - Rules for original decision-maker
+      - Judicial review grounds:
+        - Breach of natural justice (departure from policy)
+        - Inflexible application of policy
+        - Exercise of power at the behest of another
+    - Rules for merits reviewer
+      - Questions
+        - (1) Is a tribunal allowed to base its decision on government policy?
+        - (2) Is a tribunal bound by government policy?
+      - Re Drake v Minister for Immigration and Ethnic Affairs (1979) 2 ALD 60 (Drake No 1)
+        - Facts
+          - Drake (born in USA) became a permanent Australian resident
+          - He had a son living with him, and planned to marry an Australian
+          - He was convicted of drug offences
+          - Government policy statements on deportation referred to deterrence as an important factor weighing in favour of deportation, and indicated serious offences including drug trafficking were less likely to attract leniency
+          - The Minister issued a deportation order Drake on the basis of his drug conviction
+          - Drake applied for AAT merits review of the deportation decision
+          - At first instance, Davies J applied the government policy in affirming the Minister’s decision
+        - Issue
+          - Is the tribunal entitled to take into account government policy in reaching its decision?
+          - Is the tribunal bound by government policy in reaching its decision?
+        - Decision
+          - If the original decision-maker has properly paid regard to some general government policy in reaching his decision, the existence of that policy will plainly be a relevant factor for the Tribunal to take into account in reviewing the decision (at 69-70)
+          - On the other hand, the Tribunal is not, in the absence of specific statutory provision, entitled to abdicate its function of determining whether the decision made was, on the material before the Tribunal, the correct or preferable one in favour of a function of merely determining whether the decision made conformed with whatever the relevant general government policy might be (at 70)
+          - [The] part which government policy should ordinarily play in the determinations of the Tribunal... is a matter for the Tribunal itself to determine in the context of the particular case and in the light of the need for compromise, in the interests of good government, between, on the one hand, the desirability of consistency in the treatment of citizens under the law and, on the other hand, the ideal of justice in the individual case (at 70)
+        - Reasoning:
+          - Ministerial Policy as a Guideline, Not a Rule:
+            - Brennan J acknowledged that while ministerial policy is not legally binding, it plays a legitimate role in ensuring consistency in decision-making.
+            - The AAT should ordinarily apply policy unless there are cogent reasons to depart from it, such as unlawfulness or injustice in the particular case.
+          - Tribunal’s Independent Review Function:
+            - The AAT must not simply determine if the decision complies with ministerial policy; rather, it must decide independently whether the Minister’s decision was the correct or preferable one.
+            - This means assessing the facts afresh, considering whether the policy is appropriate, and applying its own judgment rather than deferring to ministerial discretion.
+          - Policy Should Be Transparent and Scrutinised:
+            - Published and publicly scrutinised policies should generally be followed to ensure accountability and predictability in decision-making.
+            - However, if new circumstances arise that make the policy obsolete or unfair, the AAT has the power to deviate from it.
+          - Outcome:
+            - Brennan J affirmed the Minister’s decision to deport Drake, finding that the Minister’s policy on deportation for criminal offences was lawful and appropriate to apply in this case.
+            - The AAT applied the policy but did so after independently assessing its propriety, rather than automatically deferring to it.
+            - This decision clarified the balance between following policy and exercising independent judgment, reinforcing the AAT’s role as a true merits review body.
+          - Remember: the Federal Court can’t decide the merits! The case must be sent back to the Tribunal
+        - Steps
+          - 1. Policy must be lawful
+          - 2. Strict application cannot produce unjust results
+          - 3. Should be applied unless ‘cogent reasons’ not to
+            - These considerations warrant the Tribunal’s adoption of a practice of applying lawful Ministerial policy, unless there are cogent reasons to the contrary. If it were shown that the application of Ministerial policy would work an injustice in a particular case, a cogent reason would be shown, for consistency is not preferable to justice (at 645)
+          - 4. Not all policies are considered equal
+  - 4. Doctrine of precedent
+    - The Tribunal is not legally required to apply a strict doctrine of precedent. It is not a court, and is not of last resort ... [H]owever ... unless decisions of presidential members ... clearly dealing with a point in issue are followed within the Tribunal, the Tribunal could gain a reputation for inconsistency if not disarray. In critical cases it is certainly in my view open to a member to note his or her disagreement with a precedent decision, but it is not desirable for members to adhere to views that appeal to them when the point has been decided otherwise at a higher level. ... [A] disappointed party has a right of appeal if the view of such a would-be dissentient from the precedent case is seen as compelling.
+      - Re Ganchov and Comcare (1990) 19 ALD 541, 542
+    - Not strictly binding
+    - But consistency is desirable
+    - Qualification
+    - ART “Guidance Decisions”
+      - Guidance Decision: Decisions made by the
+        - “Guidance and Appeals Panel” in cases involving an issue of significance to administration (unless President excludes) (ART Bill cl 109)
+      - Relevance: the Tribunal “must have regard to” Guidance Decisions in cases involving similar facts or issues (ART Bill cl 110)
+      - This is not creating a precedent system:
+        - not required to apply the Guidance Decision
+        - failure to consider a Guidance Decision doesn’t undermine a tribunal decision
+- Outcomes in tribunal review
+  - 1. Remedial powers
+    - Affirm
+    - Vary
+    - Set aside:
+      - Substitute
+      - Remit
+    - Administrative Appeals Tribunal Act 1975 (Cth)
+      - s 43(1) For the purpose of reviewing a decision, the Tribunal ... shall make a decision in writing:
+        - (a) affirming the decision under review;
+        - (b) varying the decision under review; or
+        - (c) setting aside the decision under review and:
+          - (i) making a decision in substitution for the decision so set aside; or
+          - (ii) remitting the matter for reconsideration in accordance with any directions or recommendations of the Tribunal.
+      - See ART Bill cl 105
+  - 2. Reasons for Tribunal decisions
+    - Providing reasons
+      - Administrative Appeals Tribunal Act 1975 (Cth)
+        - s 43(2) Subject to this section and to sections 35 and 36D, the Tribunal shall give reasons either orally or in writing for its decision.
+      - See ART Bill cl 112
+    - Publishing reasons
+      - Administrative Appeals Tribunal Act 1975 (Cth)
+      - ART Bill cl 113
+        - May publish decisions generally
+        - Must publish decisions involving ‘a significant conclusion of law’ or with ‘significant implications for Commonwealth policy’
+  - 3. Appeals from Tribunal decisions
+    - 
+    - AAT -> Some qualifications, eg migration and child support 
+      - s 44
+        - Federal Court
+          - s 44AA
+            - Federal Circuit Court
+              - FCA s 24
+                - Federal Court
+          - FCA s 33 (Special leave)
+            - High Court
+    - What can be appealed?
+      - 44(1) A party to a proceeding before the Tribunal may
+      - appeal to the Federal Court of Australia, on a question of law, from any decision of the Tribunal in that Proceeding
+    - Question of law
+      - There is no appeal to this court on anything other than a question of law and therefore the court is not concerned with whether or not it would have come to the same conclusion as the tribunal came to, but only with the question of whether the tribunal erred in law. 
+        - Neal v Secretary, Department of Transport (1980) 3 ALD 97, 100
+    - Why only questions of law?
+      - The purpose of limiting an appeal to a question of law is to ensure that the merits of the case are dealt with not by the Federal Court but by the Administrative Appeals Tribunal. This distribution of function is critical to the correct operation of the administrative review process.
+        - Repatriation Commission v Owens (1996) 70 ALJR 904, 904
+  - TL;DR — Week 4
+    - Administrative tribunal: Executive body that reviews the merits of government decision-making – we focus on the AAT
+    - Purpose: Decide the correct (ie legal) and preferable (ie best legal option) decision, via an informal, accessible, fair, economical and quick review process
+    - Evidence: Access to material before the original decision-maker, reasons from the decision-maker, and inquisitorial power to gather new information
+    - New evidence? Generally considers best and current evidence (including change in circumstances) unless the relevant statute makes that inappropriate
+    - Government policy: Policy is relevant and the tribunal should apply it for the sake of consistency unless (i) the policy is unlawful, or (ii) there are cogent reasons not to (ie consistency is not preferable to justice)
+    - Powers: Can affirm, vary, set aside and substitute, or set aside and send back to the government to be redecided
+    - Appeal: AAT decisions can be appealed to the Federal Court on a question of law (not merits)
+    - Will the new ART make this week’s content redundant? No!! The core legal principles of merits review will remain unchanged
+- Key Features of the New Administrative Review Tribunal
+  - Summary of Justice Kyrou’s Address – 16 April 2024
+    - On 21 March 2024, the Administrative Review Tribunal Bill 2024 and associated transitional Bills were passed by the House of Representatives and are currently before the Senate. These Bills will replace the Administrative Appeals Tribunal (AAT) with the Administrative Review Tribunal (ART), making significant reforms to merits review.
+  - Justice Kyrou’s paper outlines three key policy motivations behind the reforms:
+    - 1. Structural reform – removing inefficiencies created by the 2015 AAT amalgamation.
+    - 2. Robodebt Royal Commission recommendations – increasing transparency and accountability in government decision-making.
+    - 3. Member qualifications and performance standards – ensuring a highly qualified tribunal membership.
+  - 1. Structural Reforms: A More Flexible Tribunal
+    - 1.1. Replacement of the AAT’s Divisional Structure
+      - The AAT’s nine divisions will be abolished and replaced with eight jurisdictional areas under s 196(1) ART Act:
+        - 1. General
+        - 2. Intelligence and Security
+        - 3. Migration
+        - 4. National Disability Insurance Scheme 
+        - 5. Protection
+        - 6. Social Security
+        - 7. Taxation and Business 
+        - 8. Veterans’ and Workers’ Compensation
+      - Jurisdictional Area Leaders (appointed by the Attorney-General) will oversee these areas.
+    - 1.2. Introduction of ‘Lists’ for Case Management
+      - The President of the ART has broad powers to create lists within jurisdictional areas under s 196(2).
+      - Members can be assigned to multiple jurisdictional areas, allowing for greater flexibility in responding to case demands (s 199(3)).
+    - 1.3. Expanded Powers for the President
+      - Under s 196(4), the President can determine which jurisdictional areas or lists handle cases.
+      - The President also has broad practice direction powers under s 36, ensuring procedural uniformity.
+      - This removes rigid silos that have slowed the AAT’s decision-making processes.
+  - 2. Implementing the Robodebt Royal Commission Recommendations
+    - The Robodebt scheme, which relied on income averaging to determine debts, was ruled unlawful in 431 AAT decisions between 2016 and 2022. However, because these decisions were not published, the Department continued the scheme. The ART Act addresses these issues through:
+    - 2.1. Mandatory Publication of Decisions (s 113(2))
+      - Significant ART decisions must be published if they involve important conclusions of law or policy implications.
+      - This ensures government agencies cannot ignore adverse decisions (as they did during Robodebt).
+    - 2.2. Power to Compel Agency Participation
+      - Unlike the AAT, which allows agencies like Centrelink to remain absent, the ART can force agencies to attend hearings.
+      - Agencies can be compelled to provide submissions and documents.
+    - 2.3. Identifying and Reporting Systemic Issues
+      - The President and jurisdictional area leaders must report systemic issues to Ministers and the re-established Administrative Review Council (ARC) (s 193(i)).
+      - This prevents issues like Robodebt from being buried by bureaucracy.
+    - 2.4. Re-establishment of the Administrative Review Council (ARC)
+      - The ARC will monitor government decision-making and investigate systemic failures (Part 9 ART Act).
+      - Its members include the President of the ART, the Commonwealth Ombudsman, and up to 10 others.
+  - 3. The Guidance and Appeals Panel (GAP): A New Review Mechanism
+    - 3.1. Two Types of GAP Referrals
+      - First-instance referral (s 122): The President may send an application directly to the GAP if it raises significant issues for administrative decision-making.
+      - Second review referral (s 128): The President can refer a completed ART decision for review if it involves:
+        - A significant administrative issue; OR
+        - A material factual or legal error.
+    - 3.2. GAP as a Second Merits Review Body
+      - Unlike Federal Court appeals (which focus on legal errors), the GAP can re-hear the case in full, including new evidence.
+      - Parties can still appeal to the Federal Court on legal grounds, even after a GAP review.
+    - 3.3. ‘Tribunal Guidance Decisions’ and Precedent (s 109, s 110)
+      - If the GAP decides an issue of significant administrative importance, its ruling will be a binding ‘Tribunal Guidance Decision’ for non-judicial ART members.
+      - This introduces a modified form of precedent within the ART.
+  - 4. Minimum Qualifications and Member Performance Standards
+    - 4.1. Merit-Based Appointments & Legal Experience Requirements
+      - All ART members must be appointed through a merit-based selection process (ss 205–208).
+      - Minimum qualifications:
+        - Deputy presidents – must be a lawyer with at least 10 years’ experience.
+        - Senior members – must have 7 years’ legal or subject-matter experience.
+        - General members – must have 5 years’ legal or subject-matter experience.
+    - 4.2. Code of Conduct & Performance Standards (ss 201–202)
+      - The President must publish a Code of Conduct and Performance Standard.
+      - Breaches can lead to removal from the Tribunal.
+    - 4.3. Expanded Termination Powers (s 221)
+      - The Governor-General, on recommendation from the Attorney-General, can terminate a member for:
+        - Serious misconduct, including discrimination or bullying.
+        - Repeated breaches of the Code of Conduct.
+        - Physical or mental incapacity preventing performance of duties.
+    - 4.4. Investigation & Disciplinary Actions (s 203)
+      - If the President suspects a breach, they can:
+        - Investigate or direct an external investigation.
+        - Refer the matter to law enforcement.
+        - Suspend or restrict the member’s duties.
+  - 5. Key Takeaways: Why the ART is Different from the AAT
+  - 
+Feature
+AAT
+ART
+Structure
+9 rigid divisions	
+8 flexible jurisdictional areas + lists
+Decision Publication	
+No mandatory publication	
+Mandatory publication of key decisions (s 113(2))
+Agency Participation	
+Agencies (e.g. Centrelink) can avoid hearings	
+Agencies can be compelled to participate
+Systemic Issues	
+No mandatory reporting	
+ART must report systemic issues (s 193(i))
+Guidance & Appeals Panel (GAP)	
+No equivalent	
+Second merits review + binding guidance decisions
+Member Appointments
+Political discretion	
+Merit-based selection
+Termination of Members	
+Requires a Parliamentary vote	
+Can be removed for misconduct or breaches of performance standards (s 221)
+
+  - Conclusion: A More Transparent and Accountable Tribunal
+    - The ART is a significant departure from the AAT, not merely a rebranding. It introduces:
+      - Greater flexibility in case allocation and membership.
+      - Stronger transparency through mandatory decision publication and compulsory agency participation.
+      - More robust review mechanisms, including GAP’s second merits review.
+      - Higher appointment standards and greater accountability for members.
+## Week 6: Judicial review: introduction and overview
+
+- Judicial review: overview
+  - 1. Revisiting key principles
+    - Rule of law
+      - “a government of laws and not of men” 
+        - John Adams, paraphrasing James Harrington
+      - ...there must be a system of laws... set forth in advance that are stated in general terms... The law must be generally known and understood. The requirements imposed by the law cannot be impossible for people to meet. The laws must be applied equally to everyone according to their terms. There must be mechanisms or institutions that enforce the legal rules when they are breached.
+    - Separation of powers
+      - Separation
+        - Each institution should confine itself to the tasks assigned to it
+      - Supervision
+        - Those who exercise power should be subject to checks and balances
+    - Legality-merits distinction
+      - 
+  - 2. What is judicial review? 
+    - The duty and jurisdiction of the court to review administrative action do not go beyond the declaration and enforcing of the law which determines the limits and governs the exercise of the repository’s power. If, in so doing, the court avoids administrative injustice or error, so be it; but the court has no jurisdiction simply to cure administrative injustice or error. The merits of administrative action, to the extent that they can be distinguished from legality, are for the repository of the relevant power and, subject to political control, for the repository alone.
+      - Attorney-General (NSW) v Quin (1990) 170 CLR 1, 35-36 (Brennan J)
+    - 
+  - 3. A potted history of judicial review
+    - 
+    - 
+- Judicial review jurisdiction: an overview
+  - 1. Sources of jurisdiction
+    - Commonwealth
+      - Federal Court
+        - Administrative Decisions (Judicial Review) Act 1977 (Cth) AKA FCFCA
+        - Judiciary Act 1903 (Cth) s 39B
+      - High Court
+        - Constitution s 75(v) (see also s 75(iii))
+    - State
+      - Supreme Court
+        - Common law (Supreme Court Act 1970 (NSW) ss 23 and 69)
+  - 2. Practical considerations
+    - Where to commence?
+      - Judiciary Act 1903 (Cth)
+        - 44(1) Any matter ... that is at any time pending in the High Court, whether originally commenced in the High Court or not... may, upon the application of a party or of the High Court's own motion, be remitted by the High Court to any federal court... that has jurisdiction with respect to the subject-matter and the parties…
+        - 
+    - Separate claims?
+      - Federal Court Rules 2011 (Cth)
+        - 31.01 Application for order of review
+        - ...
+        - (3) An application under the AD(JR) Act may be joined with an application for relief of a kind mentioned in section 39B of the Judiciary Act 1903 that arises out of, relates to or is connected with the same subject matter.
+- Constitutional jurisdiction Constitution s 75(v) | Judiciary Act s 39B
+  - Constitutional jurisdiction
+    - 1. Legislative provisions
+      - Constitution
+        - High Court
+          - 75 In all matters:
+          - ...
+          - (v) in which a writ of Mandamus or prohibition or an injunction is sought against an officer of the Commonwealth; the High Court shall have original jurisdiction.
+      - Judiciary Act 1903 (Cth)
+        - Federal Court
+          - 39B (1) Subject to subsections (1B), (1C) and (1EA), the original jurisdiction of the Federal Court of Australia includes jurisdiction with respect to any matter in which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.
+    - 2. ‘Matter’
+      - What is a ‘matter’?
+        - In re Judiciary and Navigation Acts (1921) 29 CLR 257
+          - Facts
+            - Constitution s 76 – Parliament can confer original jurisdiction on the High Court in ‘matters’
+            - Parliament amended the Judiciary Act 1903 (Cth) to confer jurisdiction to “hear and determine...any question of law as to the validity of any Act...”
+            - Cth Attorney-General queried the validity of the Navigation Act 1912 (Cth)
+            - Victorian Attorney-General challenged the validity of the Judiciary Act provisions
+          - Issue
+            - Were the provisions of the Judiciary Act valid?
+              - No
+          - Decision
+            - It was suggested in argument that "matter“ meant no more than legal proceeding, and that Parliament might at its discretion create or invent a legal proceeding in which this Court might be called on to interpret the Constitution by a declaration at large. We do not accept this contention... (at 265)
+            - In our opinion there can be no matter within the meaning of the section unless there is some immediate right, duty or liability to be established by the determination of the Court (at 265)
+            - We can find nothing ... to lend colour to the view that Parliament can confer power or jurisdiction upon the High Court to determine abstract questions of law without the right or duty of anybody or person being involved (at 267)
+        - Re McBain; Ex parte Australian Catholic Bishops Conference (2002) 209 CLR 372
+          - Facts
+            - Legislation restricted IVF procedures to women in relationships
+            - A doctor wanting to treat a single woman sought a declaration that the legislation was inconsistent with the Sex Discrimination Act 1984 (Cth)
+            - The Federal Court made that declaration
+            - The Catholic Bishops Conference (who had made submissions in the case), sought to challenge the validity Federal Court’s decision
+          - Issue
+            - Did the High Court have jurisdiction to hear the challenge?
+              - No
+          - Decision
+            - There was a ‘matter’ in the original case because the doctor had a right to know whether the law was binding. In contrast: “neither the Bishops nor the Episcopal Conference seek to dispute the valid operation of the State law; they support the law and have no interest in relief from the obligation to observe its requirements” (at 408)
+            - While the Conference was significantly concerned by the decision, “those concerns and objectives ... do not represent a claim by them in this present litigation of a right, title, privilege or immunity under the Constitution... In short, the controversy between these parties and the respondents to these applications is not one which comprises a ‘‘matter’’ …
+    - 3. Writs / remedies
+      - ... in which a writ of Mandamus or prohibition or an injunction is sought …
+      - Entitlement
+        - Entitled to seek, not awarded
+      - Other remedies?
+        - Certiorari, declaration – ancillary
+      - Jurisdictional error
+        - Some remedies only available if an error is jurisdictional
+    - 4. ‘Officer of the Commonwealth’
+      - Ministers
+      - Public servants
+      - Governor-General
+      - Commonwealth police
+      - Federal Court judges
+      - Tribunal members
+      - NOT
+        - Public corporations
+        - State officials exercising federal power
+        - Entities at arms’ length (eg the ABC, ATSIC)
+    - 5. Additional source?
+      - Constitution
+        - High Court
+          - 75 In all matters:
+          - ...
+          - (iii) in which the Commonwealth,
+          - or a person suing or being sued
+          - on behalf of the Commonwealth,
+          - is a party;
+          - the High Court shall have original
+          - Jurisdiction.
+        - “The authority given by s 75(iii) in respect of matters in which the Commonwealth is a party was supplemented by s 75(v) which provides for writs of mandamus and prohibition, and for injunctions, against officers of the Commonwealth.”
+          - Commonwealth v Mewett (1997) 191 CLR 471, 547
+        - “Section 75(v) may not add to the jurisdiction conferred by s 75(iii).”
+        - Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82, 92
+        - BUT consider implications of jurisdictional error
+- Administrative Decisions (Judicial Review) Act 1977 (Cth)
+  - 1. Introduction to legislation
+    - Which court?
+      - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+        - “jurisdiction to hear and determine applications made... under this Act”
+        - FCA: s 8(1)
+        - FCFCA: s 8(2)
+    - What decisions?
+      - A person who is aggrieved ... may apply ... for an order of review of …
+        - Decisions
+          - 5(1) ... a decision to which this Act applies ..
+        - Conduct
+          - 6(1) ... conduct for the purpose of making a decision to which this Act applies...
+        - Failures
+          - 7(1) ... [failure to fulfil] a duty to make a decision to which this Act applies …
+      - 3 "decision to which this Act applies" means a decision of an administrative character made, proposed to be made, or required to be made (whether in the exercise of a discretion or not and whether before or after the commencement of this definition):
+        - (a) under an enactment referred to in paragraph (a), (b), (c), (d) or (e) of the definition of enactment …
+        - Exclusions:
+          - decisions by the Governor-General (s 3(c))
+          - decisions included in the Schedule (eg Fair Work Act 2009 (Cth); Intelligence Services Act 2001 (Cth))
+      - Griffith University v Tang (2005) 221 CLR 99
+        - The cases, particularly in the Federal Court, have tended to see these as discrete elements. 
+        - But there are dangers in looking at the definition as other than a whole.”
+  - 2. ‘Decision’
+    - Definition
+      - 3(2) In this Act, a reference to the making of a decision includes a reference to:
+        - (a) making, suspending, revoking or refusing to make an order, award or determination;
+        - (b) giving, suspending, revoking or refusing to give a certificate, direction, approval, consent or permission;
+        - (c) issuing, suspending, revoking or refusing to issue a licence, authority or other instrument;
+        - (d) imposing a condition or restriction;
+        - (e) making a declaration, demand or requirement;
+        - (f) retaining, or refusing to deliver up, an article; or
+        - (g) doing or refusing to do any other act or thing...
+    - Limits of ‘decisions
+      - Distinguishing decisions and conduct
+      - Premature review
+    - Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321
+      - Facts
+        - Relevant legislation provided that television licences could be revoked if the licensees were not ‘fit and proper persons’
+        - Alan Bond was heavily involved with a number of licensee companies, and the ABT convened an inquiry to consider if the companies were ‘fit and proper’
+        - During the inquiry, the ABT found that Mr Bond was not ‘fit and proper’
+      - Issue
+        - Was the Tribunal’s finding a ‘decision’ for the purpose of the ADJR Act?
+          - No
+      - Decision
+        - “[A] reviewable "decision" is one for which provision is made by or under a statute. That will generally, but not always, entail a decision which is final or operative and determinative, at least in a practical sense, of the issue of fact falling for consideration. A conclusion reached as a step along the way in a course of reasoning leading to an ultimate decision would not ordinarily amount to a reviewable decision, unless the statute provided for the making of a finding or ruling on that point so that the decision, though an intermediate decision, might accurately be described as a decision under an enactment.” (at 337) 
+        - The distinction between reviewable decisions and conduct engaged in for the purpose of making such a decision is somewhat elusive. However, once it is accepted that "decision" connotes a determination for which provision is made by or under a statute, one that generally is substantive, final and operative, the place of "conduct" in the statutory scheme of things becomes reasonably clear. In its setting in s. 6 the word "conduct" points to action taken, rather than a decision made, for the purpose of making a reviewable decision. In other words, the concept of conduct looks to the way in which the proceedings have been conducted, the conduct of the proceedings, rather than decisions made along the way with a view to the making of a final determination. Thus, conduct is essentially procedural and not substantive in character.” (at 341-42)
+      - Decisions
+        - s 5
+          - Final and operative determinations
+        - Findings or conclusions in a reasoning process
+      - Conduct
+        - s 6
+          - Procedure – the way the proceedings are conducted
+      - Examples:
+        - Preliminary steps – Chief of Navy v Angre (2016) 244 FCR 457; Edelsten v Health Insurance Commission (1990) FCR 56
+        - Investigation reports – Kelson v Forward (1995) 60 FCR 39
+  - 3. ‘Administrative character’
+    - Griffith University v Tang (2005) 221 CLR 99, 123
+      - The second element of the definition to which attention is given by the case law is the expression ‘‘of an administrative character’’. The evident purpose here is the exclusion of decisions of a ‘‘legislative’’ or ‘‘judicial’’ character.”
+      - Legislative ✖
+      - Administrative ✔
+      - Judicial ✖
+    - Administrative or legislative?
+      - Visa International Service Association v Reserve Bank of Australia (2003) 131 FCR 300, [592] (Tamberlin J)
+        - Whether the decisions determined rules of general application or whether there was an application of rules to particular cases.
+        - Whether there was Parliamentary control of the decision.
+        - Whether there was public notification of the making of the regulation.
+        - Whether there has been public consultation and the extent of any such consultation.
+        - Whether there were broad policy considerations imposed.
+        - Whether the regulations could be varied.
+        - Whether there was power of executive variation or control.
+        - Whether provision exists for merits review.
+        - Binding effect
+    - Roche Products Pty Ltd v National Drugs and Poisons Schedule Committee (2007) 163 FCR 451
+      - Facts
+        - The National Drugs and Poisons Schedule Committee was empowered to classify drugs within the Poisons Schedule
+        - Roche manufactured a weight-control drug which was classified as one which could be sold without prescription
+        - The Committee removed the drug from that classification
+      - Issue
+        - Was the Committee’s decision of ‘administrative character’?
+          - No
+      - Decision
+        - “[T]he inclusion of a substance in a particular schedule of the Poisons Standard, or an appendix thereto, determines the future lawfulness of conduct in relation to that substance (eg publishing or broadcasting advertisements about the substance... That is, a decision under s 52D determines the content of rules of general application... although a sponsor of therapeutic goods may initiate the process which leads to a decision under s 52D(2), any decision made under the subsection will apply to the substance in general, not merely to the substance when manufactured or supplied by that sponsor.” (at 459) 
+    - Federal Airports Corporation v Aerolineas Argentinas (1997) 76 FCR 582
+      - Facts
+        - Federal aviation legislation allowed the Federal Airports Corporation to make determinations fixing or varying charges for landing at airports
+        - The FAC made a determination which imposed a charge for large aircraft landing in major city airports
+        - Airlines wanted to contest the determination
+      - Issue
+        - Was the FAC’s determination of ‘administrative character’?
+          - Yes
+      - Decision
+        - “It is significant, in my view, that the Corporation carries on a business undertaking... although a government undertaking, it is clearly also intended to be a commercial one [and] the charges are, essentially, to be fees for services and are to bear a reasonable relationship to the cost to the Corporation of providing those services” (at 591-92)
+        - “Once it is accepted... that the fixing... of a charge payable by all those who choose to use the facilities or services ... may... be regarded as an administrative act, then in my view it is clear [that] is a determination made by the Corporation in the course and for the purpose of its commercial operation: that is, in the execution or administration of the FAC Act.” (at 592)
+  - 4. ‘Made under an enactment’
+    - Enactment
+      - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 3 "enactment" means:
+        - (a) an Act [some exclusions]
+        - (c) an instrument (including rules, regulations or by-laws) made under such an Act [some exclusions]
+        - (ca) an Act of a State, the Australian Capital Territory or the Northern Territory, or a part of such an Act, described in Schedule 3; or
+        - (cb) an instrument (including rules, regulations or by-laws) made under an Act or part of an Act covered by paragraph (ca); or
+        - …
+        - and ... includes a part of an enactment.
+      - Limits of ‘instrument’
+        - Captured
+          - Regulations
+          - By-laws
+          - Rules
+        - Query
+          - Policies
+          - Manuals
+          - Guidelines
+          - Terms and conditions
+      - Chittick v Ackland (1984) 1 FCR 254, 264
+        - “As at present advised we accept that to qualify as an instrument for the purposes of the Judicial Review Act the document must be of such a kind that it has the capacity to affect legal rights and obligations.”
+    - Source of  power
+      - Australian National University v Burns (1982) 5 ALD 67
+        - Facts
+          - ANU terminated the appointment of a professor
+          - The professor sought a statement of reasons under the ADJR Act
+          - ANU refused on the basis that the Act did not apply to the termination decision
+        - Issue
+          - Was the ANU’s decision made under an enactment?
+          - No
+        - Decision
+          - “In one sense every decision of the Council may be said to be made “under” the University Act namely, in the sense of in pursuance of or under its authority” (at 73)
+          - “Notwithstanding that s 23 was the source of the Council's power to appoint and dismiss the respondent in 1966, it does not follow that the decision to dismiss him was made under the University Act ... It was a decision to dismiss him on a particular ground ... expressly provided for in condition 2(b)(ii) of the conditions of appointment which formed part of the respondent's contract of engagement....
+          - In our opinion the rights and duties of the parties to the contract of engagement were derived under the contract and not under the University Act ... (at 73)
+      - Griffith University v Tang (2005) 221 CLR 89
+        - Facts
+          - Griffith University made a decision to exclude Tang from her PhD studies for academic misconduct
+          - Tang brought proceedings to challenge the university’s decision under the Queensland equivalent to the ADJR Act
+        - Issue
+          - Was Griffith University’s decision made under an enactment?
+          - No
+        - Decision
+          - “The determination of whether a decision is ‘‘made . . . under an enactment’’ involves two criteria: first, the decision must be expressly or impliedly required or authorised by the enactment; and, secondly, the decision must itself confer, alter or otherwise affect legal rights or obligations, and in that sense the decision must derive from the enactment” (at 130)
+          - “The decisions ... were authorised, albeit not required, by the University Act... But that does not mean that the decisions of which the respondent complains were ‘‘made under’’ the University Act... The decisions did not affect legal rights and obligations. They had no impact upon matters to which the University Act gave legal force and effect. The respondent enjoyed no relevant legal rights and the University had no obligations under the University Act with respect to the course of action the latter adopted towards the former” (at 132)
+- Amenability to judicial review
+  - 1. Justiciability
+    - Legislative
+      - Making the law
+    - Executive
+      - Administering Government according to law
+        - Statutory Powers
+          - Statutory Interpretation
+        - Prerogative power
+        - Nationhood Powers 
+        - Legal Personality
+JUSTICIABILITY
+    - Judicial
+      - Interpreting the law and resolving disputes
+    - Minister for Arts, Heritage and Environment v Peko-Wallsend (1987) 15 FCR 274
+      - Facts
+        - Commonwealth Cabinet nominated part of the Kakadu National Park for
+        - inclusion on the World Heritage List
+        - This power was prerogative, as it derived from Australia’s rights and obligations as a signatory to a UN Convention
+        - Peko wanted to challenge the decision as it affected its future mining rights
+      - Issue
+        - Could the Minister’s decision be challenged in judicial review
+        - Proceedings?
+      - Decision
+        - I have some doubt whether by reason only of its relationship to the Convention it was non-justiciable... However, the whole subject-matter of the decision involved complex policy questions relating to the environment, the rights of Aborigines, mining and the impact on Australia's economic position ... as well as matters affecting private interests ... It appears to me that the subject-matter of the decision in conjunction with its relationship to the terms of the Convention placed the decision beyond review by the court... In the present case it would, in my view, be inappropriate for this Court to intervene to set aside a Cabinet decision involving such complex policy considerations... The matter appears to my mind to lie in the political arena.” (at 278-79)
+    - Aye v Minister for Immigration and Citizenship (2010) 187 FCR 449
+      - Facts
+        - Aye, a citizen of Myanmar, was the daughter of a senior member of the Burmese military and travelled to Australia on a student visa
+        - The Australian government imposed sanctions targeting family members of Burmese senior officials
+        - Prompted by that policy, the Minister determined that Aye’s presence was contrary to Australia’s interests, leading to a proposed visa cancellation
+      - Issue
+        - Was the matter justiciable?
+          - No
+      - Decision
+        - “The main thrust of the appellant’s challenge is that it would be wrong for the policy to extend on an indiscriminate basis to all associates or close family members of those who are senior members of the Burmese regime. In the present circumstances, the true gravamen of the complaint by the appellant is the content of the policy itself rather than its application.... 
+        - There may be a good argument that use of a general expression such as associates is unfair, inappropriate or imprecise. There may also be good arguments to the contrary. 
+        - But to explore those arguments would require, in my view, venturing into the area of the politically created formulation of and justification for the foreign policy and its sanctions. That is an area that is not justiciable.” (at [127])”
+  - 2. Application to private bodies
+    - Privatisation
+    - Outsourcing
+    - PPP’s
+    - Statute
+
+    - R v Panel on Take-overs and Mergers, Ex parte Datafin [1987] QB 815
+      - Facts
+        - Panel was responsible for enforcing the City Code on Take-overs and Mergers
+        - Neither the Panel nor the Code were established under statute, but performed a public role of supervising corporate takeovers
+        - The Panel made a decision which frustrated a company’s planned takeover and the company wanted to seek judicial review of the Panel’s decision
+      - Issue
+        - Could the Court of Appeal review the Panel’s decision?
+          - Yes
+      - Decision
+        - “I should be very disappointed if the courts could not recognise the realities of executive power and allowed their vision to be clouded by the subtlety and sometimes complexity of the way in which it can be exerted” (at 838-39)
+        - “The panel is a self-regulating body in the latter sense. Lacking any authority de jure, it exercises immense power de facto by devising, promulgating, amending and interpreting the ... Code ... by waiving or modifying the application of the code in particular circumstances, by investigating and reporting upon alleged breaches of the code and by the application or threat of sanctions. These sanctions are no less effective because they are applied indirectly and lack a legally enforceable base” (at 826)
+        - But this did not necessarily mean that review would operate the same way (see p 841-42)
+    - 75(v) 
+      - ‘Officer of the Commonwealth’
+    - ADJR Act
+      - ‘Made under an enactment’
+    - NEAT Domestic Trading Pty Ltd v AWB Ltd (2003) 216 CLR 277
+      - Facts
+        - Wheat could not be exported without the consent of the Wheat Export Authority
+        - AWBI was exempt from that rule, and held a veto power over the Authority’s consent process
+        - NEAT applied for consent, which the Authority refused due to AWBI’s veto
+      - Issue
+        - Could the court review the decision of AWBI under the ADJR Act?
+      - Decision
+        - “Unlike the Authority, AWBI needed no statutory power to give it capacity to provide an approval in writing. As a company, AWBI had power to create such a document. No doubt the production of such a document was given statutory significance by s 57(3B) but that subsection did not, by implication, confer statutory authority on AWBI to make the decision to give its approval or to express that decision in writing” (at 298)
+        - “On that understanding of s 57(3B) AWBI’s determination to approve the Authority’s giving consent was not a decision under an enactment for the purposes of the AD(JR) Act. The approval was a condition precedent to the Authority considering whether to give its consent to export” (at 298)
+- TL;DR — Week 5
+  - Judicial review: Review of executive action by the courts to determine compliance with legal limits on powers
+  - Jurisdiction: A JR challenge can only be brought if the court has jurisdiction
+  - Which court? Federal: HCA, FCA, FCFCA | State: NSWSC
+  - Three primary sources of jurisdiction:
+    - (1) Constitutional (HCA s 75(v) Constitution | FCA s 39B Judiciary Act): requires a matter, application for a relevant writ, against an officer of the Commonwealth
+    - (2) ADJR Act (FCA and FCFCA): requires a decision, of administrative character, made under an enactment
+    - (3) Common law (NSWSC ss 23, 69 Supreme Court Act)
+  - Justiciability: court will not review decisions that are inappropriate for judicial determination (eg highly polycentric policy decisions) – this is a high bar so most cases will be justiciable
+  - Remember: JR concepts are often relevant for more than one purpose (“matter” is similar to “standing”, “writ” relevant to jurisdiction and also remedies)
+- Textbook
+  - Wednesbury, Quin ,and Li  make the similar point that the legality/merits distinction hinges on a court’s respect for and application of objective criteria in  reviewing the validity of executive action. 
+  - Each case cautions against using criteria of validity  that are indeterminate or inherently subjective, such as ‘fair’ or ‘reasonable’, at least in their popular sense
+  - There are, however, a few important contrasts between the  ADJR Act grounds and the common law grounds: 
+    - The ADJR Act consciously departs from common law principles at several points, notably  in s 5(1)(f ) (‘error of law’:  13.4.5ff) and s 5(1)(h), (3) (‘no evidence’:  13.2.12ff). 
+    - At other points it is probable that the ADJR Act crystallised the existence or scope of a  ground of uncertain common law dimension, notably (and ironically) s 5(2)(h) (‘uncertainty’:  8.6.6ff). 
+    - In recognition of the evolving nature of common law principles, the ADJR Act itself  deliberately contains criteria to allow for an expansion of existing grounds, notably in ss 5(1)(j) (‘otherwise contrary to law’) and 5(2)(j) (‘abuse of the power’:  15.2.2). 
+    - In applying the common law to the ADJR Act, some account must also be taken of trends  in definition. A foremost example is the generally accepted practice, following a lead set by Mason J in  Kioa  11.2.16C, to prefer the term ‘procedural fairness’ to ‘natural justice’
+- NEAT Domestic Trading Pty Ltd v AWB Ltd [2003] HCA 35
+  - Court: High Court of Australia
+  - Parties: NEAT Domestic Trading Pty Ltd (Appellant) v AWB Ltd & AWB (International) Ltd (AWBI) (Respondents)
+  - Procedural History: 
+    - Appeal from the Full Court of the Federal Court, which upheld the decision of the primary judge (Mathews J) dismissing NEAT’s claim for judicial review under the ADJR Act.
+  - Facts:
+    - NEAT applied for approval to export wheat in bulk.
+    - Under Wheat Marketing Act 1989 (Cth) s 57, bulk wheat export required consent from the Wheat Export Authority (WEA), which in turn required prior written approval from AWBI (nominated company B).
+    - AWBI, a grower-controlled private company, withheld approval based on a blanket policy to deny all non-AWBI bulk export requests to protect its "single desk" monopoly.
+    - NEAT sought judicial review under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (ADJR Act), arguing that AWBI applied a rigid policy and failed to consider individual merits.
+  - Legal Issue:
+    - Whether AWBI’s refusal to approve bulk wheat exports was:
+      - A decision of an administrative character made under an enactment (ADJR Act, s 3(1)); and
+      - An improper exercise of power by applying a blanket policy without considering merits (ADJR Act ss 5(2)(f), 6(2)(f)).
+  - Decision:
+    - Majority (Gleeson CJ, McHugh, Hayne, Callinan JJ): Appeal dismissed.
+    - Minority (Kirby J): Dissenting, would have allowed the appeal and granted judicial review.
+  - Ratio Decidendi:
+    - Majority: AWBI’s refusal was not a decision "under an enactment" — it was a commercial decision made by a private company under corporate law, despite its statutory role. AWBI had no duty to consider public interests or individual merits under s 57(3B).
+    - Gleeson CJ (separate reasoning): Even if the decision was administrative under statute, no improper policy was applied — the policy aligned with statutory objectives and no compelling individual case was made to depart from it.
+    - Kirby J (Dissent): AWBI’s decision was administrative and made under an enactment. Its blanket policy unlawfully fettered discretion and failed to consider merits. Judicial review should have been granted.
+  - Significance:
+    - Key High Court authority on when private entities exercising statutory functions are subject to judicial review.
+    - Confirms that not all decisions affecting rights or interests, even if closely tied to statute, are “administrative decisions under an enactment”.
+    - Highlights difficulties in applying administrative law principles to corporatised or privatised regulatory arrangements.
+    - Kirby J’s dissent is significant for arguments around public accountability of private bodies exercising statutory power.
+## Week 7: Remedies and standing
+
+- Remedies
+  - 1. What are the public law remedies?
+    - Certiorari
+      - ‘Quashing’ order
+      - Removes the official record to the reviewing court for the purpose of quashing or expunging
+    - Prohibition
+      - Prevents invalid action being taken:
+        - a threatened act which would amount to a jurisdictional error
+        - a continuing act constitutes a jurisdictional error
+    - Mandamus
+      - Requires power to be exercised according to law
+    - Injunction
+      - Prohibitory – prevents action being taken
+      - Mandatory – requires action to be taken
+    - Declaration
+      - Conclusive statement of legal rights and obligations
+    - Habeus corpus
+      - Conclusive statement of legal rights and obligations
+  - 2. The source of remedies
+    - Prerogative
+      - Now statute – ‘orders in the nature of’ the writs
+        - Judiciary Act 1903 (Cth) s 33
+        - Supreme Court Act 1970 (NSW) s 69
+      - Sources: Certiorari, Prohibition, Mandamus, Habeus corpus
+    - Equity
+      - Equitable jurisdiction developed to relieve against inflexibility of the common law
+        - Injunctions and declarations derive from the equitable jurisdiction
+      - Sources: Injunction, Declaration
+    - Constitution
+      - “Constitutional writs”
+      - s 75(v) of the Constitution – original jurisdiction in cases “in which a writ of Mandamus or prohibition or an injunction is sought”
+      - Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82, 92–93, 133–34: the move to ‘constitutional writs’ reflects that this is a judicial, not monarchical power
+      - Source: Prohibition, Mandamus, Injunction
+    - Statute
+      - ADJR Act remedies
+      - See s 16:
+        - quashing
+        - refer for reconsideration
+        - declaring rights
+        - directing something be done or not done
+      - Source: Certiorari, Prohibition, Mandamus, Injunction, Declaration, Habeus corpus
+    - Relevance?
+      - Standing rules
+      - Requirement to establish jurisdictional error
+      - Exclusion of relief
+      - Source: Certiorari, Prohibition, Mandamus, Injunction, Declaration, Habeus corpus
+- Access to remedies
+  - 1. Certiorari
+    - Which decision-maker?
+      - Wherever any body of persons having legal authority to determine questions affecting the rights of subjects, and having the duty to act judicially, act in excess of their legal authority they are subject to the controlling jurisdiction of the King's Bench Division exercised in these writs”
+        - R v Electricity Commissioners; Ex parte London Electricity Joint Committee Co (1920) Ltd [1924] 1 KB 171, 205
+      - High Court has not definitively rejected this limitation, but the writ has been widely issued against administrative decision-makers
+    - ‘Quashable’ decisions
+      - Limited to actions that have legal consequences – Ainsworth v Criminal Justice Commission (1992) 175 CLR 564
+      - Extends to steps in a process that have such consequences – Hot Holdings Pty Ltd v Creasy (1996) 185 CLR 149
+      - Ainsworth v Criminal Justice Commission (1992) 175 CLR 564
+        - Facts
+          - Ainsworth was investigated by the Criminal Justice Commission
+          - The Commission wrote a report and tabled it in Parliament under authority of the Criminal Justice Act 1989 (Qld), without any notice to Ainsworth
+          - The report contained statements and recommendations adverse to Ainsworth
+        - Issue
+          - Could the report be quashed?
+            - No
+        - Decision
+          - The function of certiorari is to quash the legal effect or the legal consequences of the decision or order under review. The report made and delivered by the  Commission has, of itself, no legal effect and carries no legal consequences, whether direct or indirect. 
+          - It is different when a report or recommendation operates as a precondition or as a bar to a course of action, or as a step in a process capable of altering rights, interests or liabilities. 
+          - A report or a recommendation of that kind may be quashed, that is to say its legal effect may be nullified by certiorari. But the Commission's report is not in that category.” (at 580)
+      - Hot Holdings Pty Ltd v Creasy (1996) 185 CLR 149
+        - Facts
+          - The Minister had power to grant applications for mining licences, and was required to consider (but was not bound by) the Warden’s recommendation
+          - The parties were all applicants for a mining licence who lodged their applications on the same day
+          - The Warden was responsible for determining priority, and after finding that the applications were lodged simultaneously, proposed a ballot
+          - The parties sought review of the Warden’s decision to hold a ballot
+        - Issue
+          - Could the Warden’s decision be quashed?
+            - Yes
+        - Decision
+          - “A preliminary decision or recommendation, if it is one to which regard must be paid by the final decision-maker, will have the requisite legal effect upon rights to attract certiorari” (at 165)
+          - “It is apparent that the Minister is bound to consider the information which the warden transmits ... The result of this statutory process is that ... the warden's decision has a discernible legal effect upon the Minister's exercise of discretion” (at 174)
+    - What errors?
+      - Errors
+        - ✔ Jurisdictional error
+        - ― Non-jurisdictional error
+          - ✔ ‘On the face of the record’
+          - X Not on the face of the record
+          - X Where ancillary, whether or not on the face of the record
+      - Common law
+        - ‘On the face of the record’
+          - One finds in some recent cases in this country support for the adoption of an expansive approach to certiorari which would include both the reasons for decision and the complete transcript of proceedings in the "modern record" of an inferior court... Nonetheless, it should, on balance, be rejected...
+          - The determination of the precise documents which constitute “the record” of the inferior court ... is ultimately a matter for the court hearing the application. The effect of the foregoing is that “[o]rdinarily, in the absence of statutory prescription, the record will comprise no more than the documentation which initiates the proceedings and thereby grounds the jurisdiction of the tribunal, the pleadings (if any) and the adjudication.”
+          - Craig v South Australia (1995) 184 CLR 163, 180-82
+        - ✔
+          - Originating process (application, notice of appeal)
+          - Pleadings (statement of claim, defence, reply)
+          - Order (ie formal order or determination)
+        - ✖
+          - Evidence 
+          - Exhibits
+          - Transcript 
+          - Reasons
+      - Statute
+        - ‘On the face of the record’
+          - For the purpose of granting certiorari for an error of law appearing on the face of the record:
+          - Supreme Court Act 1970 (NSW)
+            - 69(4) ... the face of the record includes the reasons expressed by the court or tribunal for its ultimate determination.
+    - Ancillary status
+      - Constitution
+        - 75 In all matters:
+        - ...
+        - (v) in which a writ of Mandamus or prohibition or an injunction is sought against an officer of the Commonwealth; the High Court shall have original jurisdiction
+      - Why no certiorari?	
+        - see eg Lisa Burton, 'Why These Three? The Significance of the Selection of Remedies in Section 75(v) of the Australian Constitution' (2014) 42 Federal Law Review 253; William Gummow, 'The Scope of Section 75(v) of the Constitution: Why Injunction but No Certiorari?' (2014) 42 Federal Law Review 241.
+      - 1 Certiorari is ancillary
+        - “The power of this Court to issue certiorari is not stated in Ch III of the Constitution. Rather, in a matter such as the present, the conferral of jurisdiction to issue writs of prohibition and mandamus implies ancillary or incidental authority to the effective exercise of that jurisdiction.”
+        - Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82, 90-91
+      - 2 Tied to another writ
+        - Must be sought in conjunction with a named remedy
+        - Not necessary that the other remedy actually be granted – Edwards v Santos Limited (2011)
+        - 242 CLR 421
+      - 3 Error must be jurisdictional
+        - When sought as an ancillary remedy to relief under s 75(v), the error complained of must be jurisdictional – Re McBain; ex parte Australian Catholic Bishops Conference (2002) 209 CLR 372, 465–6
+        - The position might differ if certiorari is sought ancillary to an injunction - Re Minister for Immigration and Multicultural Affairs; Ex parte Durairajasingham (2000) 58 ALD 609, 617 
+      - 4 Alternative sources
+        - Certiorari may potentially extend to non- jurisdictional errors on the face of the record in the context of s 75(iii) – Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476, 507
+  - 2. Prohibition
+    - Which decision-maker?
+      - See discussion of certiorari
+    - Something to ‘prohibit’
+      - Temporal issue – there must be something remaining to prohibit
+      - Not restricted by reference to impact on legal rights
+      - Practical examples:
+        - Prevent action being taken in reliance on a legally invalid visa decision - Re Patterson; Ex parte Taylor (2001) 207 CLR 391; Thayananthan v Minister for Immigration and Multicultural and Indigenous Affairs (2003) 132 FCR 222
+        - Prevent a decision-maker finalising an adverse report without giving an opportunity to answer (ie prevent a breach of procedural fairness) - Ainsworth v Criminal Justice Commission (1992) 175 CLR 564, 581
+    - What errors?
+      - ✔ Jurisdictional error
+      - ✖ Non-jurisdictional error
+  - 3. Mandamus
+    - Which decision-maker?
+      - Federal courts
+      - State and Territory courts (but not Supreme Courts)
+      - Tribunals
+      - Administrative decision-makers
+    - What powers?	
+      - 
+      - Duty to perform
+        - ‘If an applicant (a) lodges an application within 5 days, and (b) pays the prescribed fee, the decision-maker must approve the application’
+      - See eg Plaintiff S297/2013 v Minister for Immigration and Border Protection (2014) 255 CLR 179
+      - 
+      - No duty to consider
+        - ‘A Minister may, from time to time, declare an open hunting season in respect of any species of fauna
+      - See eg West Australian Field & Game Association Inc v Pearce (1992) 8 WAR 64 
+      - 
+      - Duty to consider (but not to perform)
+        - ‘The Attorney-General may refer a petition for mercy to a competent court’
+      - See eg Yasmin v Attorney-General of Commonwealth of Australia (2015) 236 FCR 169
+      - Separation of powers
+        - Randall v The Council of the Town of Northcote (1910) 11 CLR 100, 105
+          - “[i]f the act sought to be compelled to be done is a discretionary act, mandamus does not go further than to command the exercise of the discretion, and can never go to command its exercise in a particular manner”
+      - Statutory interpretation
+        - Statutory language (eg ‘may’, ‘must’ etc)
+        - Statutory context (eg consistency with other provisions in the scheme)
+        - Statutory purpose (eg consistency with implied purpose of Parliament)
+        - Practical consequences (eg would recognising a duty to consider impose an illogical burden)
+    - Unperformed
+      - Actual non-performance
+        - No attempt has been made to perform
+        - Delay may sometimes amount to non-performance
+      - Constructive non-performance
+        - Performance is attempted but is invalidated by error
+        - A decision affected by jurisdictional error “is properly regarded in law as no decision at all” – Minister for Immigration and Multicultural Affairs v Bhardwaj (2002) 209 CLR 597, 615
+    - What errors?
+      - ✔ Jurisdictional error
+      - X Non-jurisdictional error
+  - 4. Injunction
+    - Scope
+      - Available to prevent the infringement of a legal or equitable right
+      - More flexible that the other writs
+      - Can take interlocutory or permanent form
+      - Discretionary (perhaps even moreso than the other public law remedies – see lecture 6.3)
+      - Examples
+        - Restrain the commission of a tort (eg Plaintiff S99/2016 v Minister for Immigration and Border Protection (2016) 243 FCR 17)
+        - Restrain a tribunal from deciding a case where it lacks jurisdiction (eg Dalgety Wine Estates Pty Ltd v Rizzon (1979) 141 CLR 552)
+        - Enforce a right to participate in council meetings (Ariansen v Bromfield (1956) 57 SR (NSW) 24)
+        - Enforce a right to continue to receive postal services (Bradley v Commonwealth (1973) 128 CLR 557)
+    - What errors?
+      - ✔ Jurisdictional error
+      - ✔ Non-jurisdictional error
+      - Federal Commissioner of Taxation v Futuris Corporation Ltd (2008) 237 CLR 146, 162
+        - “[P]rinciples of jurisdictional error control the constitutional writs but do not attend the remedy of injunction including that provided in s 75(v) (and thus in s 39B of the Judiciary Act). The same is true of the other equitable remedy, the declaratory order. Nevertheless, the equitable remedies, which are available at the suit of a party with a sufficient interest, operate to declare invalidity and to restrain the implementation of invalid exercises of power.”
+  - 5. Declaration
+    - Scope and effect
+      - Non-coercive, they “change nothing” – Cane, McDonald and Rundle, Principles of Administrative Law (OUP, 2019) 110
+      - Non-compliance does not amount to contempt
+      - Issued by the court in the expectation they will be respected and complied with
+      - Flexible remedy
+    - ‘Bare’ declaration
+      - Not a named remedy in s 75(v)
+      - Can be sought alongside other remedies
+      - Can be made independently of other remedies:
+      - Ainsworth v Criminal Justice Commission (1992) 175 CLR 564, 581
+        - “[I]n reporting adversely to the appellants in its Report on Gaming Machine Concerns and Regulations, the respondent failed to observe the requirements of procedural fairness”
+    - What errors?
+      - ✔ Jurisdictional error
+      - ✔ Non-jurisdictional error
+      - But note that if Parliament has indicated the error should not lead to invalidity, the courts might be disinclined to exercise this discretion – eg Harvey v Commissioner of State Revenue [2014] QSC 183, [107]
+  - 6. ADJR Act remedies
+    - 16 (1) On an application for an order of review ... the ... Court may, in its discretion, make all or any of the following orders:
+      - Certiorari
+        - (a) an order quashing or setting aside the decision, or a part of the decision, with effect from the date of the order or from such earlier or later date as the court specifies;
+      - Mandamus
+        - (b) an order referring the matter to which the decision relates to the person who made the decision for further consideration, subject to such directions as the court thinks fit; 
+        - (d) an order directing any of the parties to do, or to refrain from doing, any act or thing the doing, or the refraining from the doing, of which the court considers necessary to do justice between the parties. 
+      - Prohibition
+        - (b) an order referring the matter to which the decision relates to the person who made the decision for further consideration, subject to such directions as the court thinks fit; 
+        - (d) an order directing any of the parties to do, or to refrain from doing, any act or thing the doing, or the refraining from the doing, of which the court considers necessary to do justice between the parties. 
+      - Injunction
+        - (b) an order referring the matter to which the decision relates to the person who made the decision for further consideration, subject to such directions as the court thinks fit; 
+        - (d) an order directing any of the parties to do, or to refrain from doing, any act or thing the doing, or the refraining from the doing, of which the court considers necessary to do justice between the parties. 
+      - Declaration
+        - (c) an order declaring the rights of the parties in respect of any matter to which the decision relates;
+    - ✔ Jurisdictional error
+    - ✔ Non-jurisdictional error
+      - BUT can be excluded by privative clause
+    - Extended application
+      - The Judicial Review Act was intended to provide a comprehensive code of grounds and remedies for those seeking to challenge Commonwealthexecutive action... Although the Act did not take away existing remedies... it was plainly designed to provide a more streamlined procedure for the obtaining of relief which was formerly available only by way of prerogative writ or declaration of right. It would therefore seem unlikely to have been the intention of Parliament not to clothe this Court with powers at least as extensive as courts of common law could exercise. That is a further reason why the language of s 16... should not be the subject of a narrow or restrictive construction. On the contrary, it should receive the liberal construction normally given to remedial legislation.
+        - Minister for Immigration and Ethnic Affairs v Conyngham (1986) 11 FCR 528, 537
+    - Limited application
+      - 16(1)(d) an order directing any of the parties to do... any act or thing the doing... of which the court considers necessary to do justice between the parties
+      - Park Oh Ho v The Minister of State for Immigration and Ethnic Affairs (1989) 167 CLR 637, 645
+        - [B]oth declaratory and injunctive orders, as distinct from an order for damages, can readily be seen as appropriate remedies of judicial "review" of administrative decisions and actions.
+      - DOES NOT EQUAL Power to award damages
+- Discretion to refuse relief
+  - 1. No relief as of right
+    - ‘As of right’
+      - available where the plaintiff establishes their case
+      - eg contractual damages
+    - Discretionary
+      - court has discretion to refuse a remedy even if the claim is made out
+      - eg public law remedies
+      - However
+        - “there is a basic presumption that appropriate relief should follow upon a finding of unlawfulness”
+        - Essendon Football Club v Chief Executive Officer of the Australian Sports Anti-Doping Authority (2014) 227 FCR 1, 92
+  - 2. Grounds to refuse relief	
+    - Delay
+      - the applicant has unreasonably delayed in their commencement of the proceedings
+      - lengthy delays may be excused if there is good reason (eg awaiting the result of other litigation)
+    - Improper conduct
+      - bad faith
+      - fraud
+      - improper conduct
+    - Alternative remedies
+      - the applicant ought to have accessed another procedure (eg appealing an inferior court decision)
+      - the applicant ought to have sought a different remedy elsewhere (eg damages in a contract claim)
+    - Futility
+      - the grant of relief is pointless
+      - eg the decision-maker has made a later, valid, decision to the same effect
+      - eg the period of a cancelled licence has since lapsed
+    - Breach != Remedy
+- Standing
+  - 1. Introduction to standing
+    - Does the party in question have a sufficient connection with the dispute to allow them to institute and maintain the Proceedings?
+    - Note links to the ‘matter’ requirement in s 75(v) and s 39B
+  - 2. Tests of standing
+    - Divergence -> Convergence?
+      - CAUTION
+        - Not entirely settled
+        - History still relevant to current approach
+        - May be good reason to retain (in part)
+    - ‘Special interest’
+      - Which remedies?
+        - Injunction 
+        - Declaration
+      - ACF Case
+      - Onus v Alcoa
+      - Australian Conservation Foundation Inc v Commonwealth (1980) 146 CLR 493
+        - Procedural History:
+          - At first instance, Aickin J struck out the statement of claim on the basis that the Australian Conservation Foundation (ACF) lacked standing. The ACF appealed to the Full Court of the High Court, which dismissed the appeal.
+        - Facts
+          - A foreign developer wanted to construct a resort in Queensland
+          - Before approving the development, the Commonwealth government was required to assess environmental concerns
+          - ACF wanted to challenge the validity of the government’s assessment process
+          - The ACF challenged the validity of a Commonwealth decision to approve exchange control transactions for a resort development at Farnborough, QLD, alleging non-compliance with the Environment Protection (Impact of Proposals) Act 1974 (Cth) and related Administrative Procedures. ACF had made submissions during the public comment process and claimed that its procedural expectations were ignored.
+          - 
+        - Legal Issue:
+          - Did the ACF have standing (locus standi) to seek declarations and injunctions for alleged failures by Commonwealth authorities to comply with statutory environmental procedures?
+            - No
+        - Ratio Decidendi:
+          - To have standing in public law, a plaintiff must show a special interest in the subject matter of the action—more than a mere intellectual, emotional, or ideological concern. ACF had not demonstrated that it or its members were affected differently or more directly than the general public.
+        - Decision
+          - The High Court held that the ACF did not have standing to bring the action and dismissed the appeal.
+          - I would not deny that a person might have a special interest in the preservation of a particular environment. However, an interest, for present purposes, does not mean a mere intellectual or emotional concern. A person is not interested within the meaning of the rule, unless he is likely to gain some advantage, other than the satisfaction of righting a wrong, upholding a principle or winning a contest, if his action succeeds or to suffer some disadvantage, other than a sense of grievance or a debt for costs, if his action fails. 
+          - A belief, however strongly felt, that the law generally, or a particular law, should be observed, or that conduct of a particular kind should be prevented, does not suffice to give its possessor locus standi. If that were not so, the rule requiring special interest would be meaningless. Any plaintiff who felt strongly enough to bring an action could maintain it (Gibbs CJ at 530-31)
+        - Significance:
+          - This case established that mere concern for compliance with law or public policy is insufficient for standing. Environmental or ideological organisations must demonstrate a direct or special interest. The decision reflects the traditional restrictive approach to standing in Australia, contrasting with broader doctrines in other jurisdictions (e.g., the US). It remains a leading authority on standing in administrative law.
+      - Onus v Alcoa of Australia Ltd (1981) 149 CLR 27
+        - Facts
+          - Alcoa proposed to build a smelting plant near Aboriginal relics
+          - Two Aboriginal plaintiffs brought proceedings against Alcoa seeking an injunction to prevent Alcoa from breaching legislation designed to preserve Aboriginal relics
+        - Issue
+          - Did the plaintiffs have standing?
+            - Yes
+        - Decision
+          - The present is not a case in which a plaintiff sues in an attempt to give effect to his beliefs or opinions on a matter which does not affect him personally except in so far as he holds beliefs or opinions about it. The appellants claim not only that their relics have a cultural and spiritual significance, but that they are custodians of them according to the laws and customs of their people, and that they actually use them. 
+          - The position of a small community of aboriginal people of a particular group living in a particular area which that group has traditionally occupied, and which claims an interest in relics of their ancestors found in that area, is very different indeed from that of a diverse group of white Australians associated by some common opinion on a matter of social policy which might equally concern any other Australian (Gibbs CJ at 37)
+        - Procedural History:
+          - The appellants sought an interlocutory injunction in the Supreme Court of Victoria to restrain Alcoa from damaging Aboriginal relics under s 21 of the Archaeological and Aboriginal Relics Preservation Act 1972 (Vic).
+          - Brooking J dismissed the action for lack of standing; the Full Court of the Supreme Court (Starke, Kaye, and Jenkinson JJ) refused leave to appeal.
+          - The High Court granted special leave and allowed the appeal.
+        - Original Dispute:
+          - Could two Aboriginal women bring proceedings to prevent Alcoa from damaging Aboriginal relics on land at Portland, Victoria — relics they claimed cultural and spiritual custodianship over — in the absence of a private legal right or specific statutory entitlement?
+        - Reason for Trial:
+          - To determine whether the appellants had standing to bring proceedings to restrain a breach of public law — namely s 21 of the Relics Act — despite not having a proprietary or statutory right.
+        - Material Facts:
+          - Alcoa proposed to build a smelter on land in Portland containing Aboriginal relics (artefact scatters).
+          - The appellants were members of the Gournditch-jmara people and claimed cultural custodianship over the relics based on Aboriginal law and custom.
+          - They alleged the destruction of relics would breach s 21 of the Relics Act, which criminalises wilful or negligent damage to protected relics.
+          - They sought an injunction and declaration, arguing they had a special interest in the preservation of the relics due to their cultural, spiritual, and educational significance.
+        - Issue Raised:
+          - Did the appellants have locus standi to bring proceedings for declaratory and injunctive relief in respect of a public wrong where they alleged no private legal right had been infringed?
+        - Law(s)/Statute(s) in Contention:
+          - Archaeological and Aboriginal Relics Preservation Act 1972 (Vic), ss 2, 21
+          - General principles of standing in public law
+          - Comparison with Australian Conservation Foundation Inc v Commonwealth (1980) 146 CLR 493
+        - Precedents:
+          - Australian Conservation Foundation Inc v Commonwealth (1980) 146 CLR 493 (intellectual/emotional concern ≠ standing)
+          - Boyce v Paddington Borough Council [1903] 1 Ch 109 (special damage or private right)
+          - Benjamin v Storr (1874) LR 9 CP 400 (peculiar damage)
+          - Gouriet v Union of Post Office Workers [1978] AC 435 (UK standing principles)
+        - Tests:
+          - ✔ Special interest test — Does the plaintiff have a special interest in the subject matter of the action?
+          - ✘ Mere intellectual or emotional concern ≠ standing (see ACF, 530–31)
+          - ✔ Cultural or spiritual connection, particularly involving Indigenous traditions, may satisfy the test (as held here).
+        - Words and Phrases Considered:
+          - Special interest: An interest greater than that of an ordinary member of the public.
+          - Custodian: One who, under Aboriginal law/custom, has cultural responsibility for land or objects.
+          - Relic: As defined in s 2 of the Relics Act, includes Aboriginal artefacts and deposits.
+        - Arguments by Party:
+          - Appellants (Onus & Frankland):
+            - As members of the Gournditch-jmara people, they were cultural custodians of the relics.
+            - The relics were of cultural, spiritual, and educational significance.
+            - Their interest went beyond mere concern — it was personal, communal, and continuous.
+            - Preservation of the relics served not only heritage value but also spiritual and pedagogical roles in Aboriginal life.
+          - Respondent (Alcoa):
+            - Argued the Relics Act created no private rights.
+            - The appellants’ interest was indistinguishable from general public concern.
+            - Since they had no proprietary or statutory right to enter the land, success in the action would provide them no advantage.
+            - Relied on ACF to argue the appellants lacked standing.
+        - Judicial Opinions:
+          - Gibbs CJ (leading judgment):
+            - Distinguished from ACF by noting the appellants’ connection was personal, cultural, and custodial, not merely ideological.
+            - Relics had spiritual and educational significance for the Gournditch-jmara.
+            - The appellants would suffer a unique disadvantage if relics were destroyed (at 38–39).
+            - The law does not require exclusivity — a special interest can be shared by a class, as long as it is not general to the public.
+          - Stephen J:
+            - Agreed standing was established.
+            - Emphasised closeness of connection to subject matter, not merely legal rights.
+            - Distinguished from the diverse conservationist group in ACF.
+          - Mason J:
+            - Simple but powerful concurrence: “The relics here have great cultural and spiritual significance for the Gournditch-jmara community. … They have a special interest” (at 43).
+          - Murphy J:
+            - Emphasised that restrictive rules of standing deny access to justice.
+            - A cultural or spiritual interest suffices to establish standing.
+            - Courts must not privilege “Western European Judeo-Christian culture” over Aboriginal cultural frameworks (at 46).
+          - Wilson J & Aickin J:
+            - Cautious on the statutory argument, but agreed the facts alleged (custodianship, use, connection) were enough to establish a special interest.
+        - Legal Reasoning:
+          - The Relics Act was enacted for public benefit, not only Aboriginal people, so no private statutory right arose.
+          - However, the appellants had a stronger personal stake than the public at large due to their cultural and spiritual connection to the relics.
+          - The appellants were custodians under their laws and had used the relics to teach children and maintain their culture.
+          - This differentiated their interest from that of members of the public (ACF distinguished).
+          - It was not necessary to show pecuniary damage or a proprietary interest. A spiritual or cultural loss suffices to establish a special interest.
+        - Ratio Decidendi:
+          - A plaintiff will have standing to enforce a public law duty where they have a special interest in the subject matter — that is, a personal stake that is greater than that of the general public. This may include cultural, spiritual, or communal interests, especially for Indigenous Australians, even absent legal title or private right.
+        - Result:
+          - Appeal allowed. The matter was remitted to the Supreme Court of Victoria for further determination.
+          - Alcoa’s application for dismissal or stay of the action was refused.
+        - Relevance to Modern Law:
+          - Establishes the special interest test as the governing principle for standing in public law (now applicable across most remedies).
+          - Groundbreaking affirmation of Indigenous spiritual and cultural rights as legally relevant interests.
+          - A pivotal case in the convergence of standing tests (see also North Coast Environment Council v Minister for Resources (1994) 55 FCR 492).
+          - Often cited in administrative and environmental law contexts as a contrast to ACF.
+    - Persons ‘aggrieved’
+      - Which remedies?
+        - Prohibition, Certiorari
+        - a ‘peculiar grievance’ as opposed to a grievance ‘in common with the rest of the subjects’ – R v Surrey Justices (1870) LR 5 QB 466, 474
+      - Specific interest
+        - Prohibition, Certiorari, ADJR Act
+          - ADJR Act s 5: A person who is aggrieved by a decision... may apply ... for an order of review
+          - ADJR Act s 3(4): ... includes a reference ... to a person whose interests are adversely affected by the decision
+          - “The ADJR Act should not be read as formulating a narrower criterion than the principles governing legal and equitable remedies in public law.” – see eg North Coast Environment Council Inc v Minister for Resources (1994) 55 FCR 492, 507
+    - ‘Legal specific right’
+      - Which remedies?
+        - Mandamus
+          - “What amounts to such a right is by no means clear. It means something less than a definite legal right enforceable in the courts, and has in some cases been of a vague nature.”
+          - R v Whiteway; Ex parte Stephenson [1961] VR 168, 170.
+    - ‘Strangers’
+      - Which remedies?
+        - Prohibition, Certiorari
+      - Sometimes used to refer to ‘anyone’
+      - More correctly refers to those who were not party to the impugned proceedings/decision in the historical context
+    - Convergence?
+      - “ACF and Onus ... merged the test for declarations and injunctions. It would make sense for the process of consolidation to go further. This is partly because the differentiation between the remaining tests is too fine-grained to be convincing or even workable, and partly because the remedies so often serve the same functional end.” Mark Aronson, Matthew Groves and Greg Weeks, Judicial Review of Administrative Action and Government Liability (7th ed, Thomson Reuters, 2022) 896-97
+      - TIP
+        - As long as you appreciate the history and background:
+          - Commentators suggest there is convergence towards the special interest test (eg Aronson et al)
+          - ADJR Act test is equivalent to the special interest test (North Coast)
+  - 3. Particular contexts
+    - Attorney-General
+      - A party without standing can apply for the Attorney-General’s fiat to bring proceedings in the public interest.
+      - Attorney-General has automatic standing to seek judicial review in the public interest - Little v Victoria [1999] VSCA 113, [18]
+      - The Attorney-General can grant a fiat to allow other parties to bring public interest proceedings
+      - This decision cannot be challenged
+    - Public interest groups
+      - Represent a section of the public
+      - ACF lacked standing – Australian Conservation Foundation Inc v Commonwealth (1980) 146 CLR 493
+      - ACF had standing – Australian Conservation Foundation v Minister for Resources (1989) 19 ALD 70, 73:
+        - public perception of the need for the protection and conservation of the natural environment and for the need of bodies such as the ACF to act in the public interest has noticeably increased, as is demonstrated by the growth of the ACF itself since the time of the ACF case.
+      - North Coast Environment Council Inc v Minister for Resources (1994) 55 FCR 492
+        - Facts
+          - The Minister granted a licence to a logging company to export woodchips
+          - North Coast relied on s 13 of the ADJR Act to request a statement of reasons from the Minister
+        - Issue
+          - Did North Coast have standing under the ADJR Act?
+            - Yes
+        - Decision 
+          - First, North Coast is the peak environmental organisation in the north coast region ...
+          - Secondly, North Coast has been recognised by the Commonwealth since 1977 as a significant and responsible environmental organisation. This recognition has taken the form of regular financial grants ...
+          - Thirdly, ... forms of participation in official decision-making processes show that the State government has accepted North Coast as a representative of environmental interests.
+          - Fourthly, North Coast has conducted or co-ordinated projects and conferences on matters of environmental concern, for which it has received significant Commonwealth funding.
+          - Fifthly, ... it has made submissions on forestry management issues ... (at 512-13)
+    - Competitors
+      - Courts typically reluctant to allow competitors to use judicial review to reduce competition
+      - Argos Pty Ltd v Corbell (2014) 254 CLR 394
+        - Facts
+          - An ACT Minister approved a new development which would house a supermarket
+          - Two competitor supermarkets sought judicial review of the decision
+        - Issue
+          - Did the competitor supermarkets have standing?
+            - Yes
+        - Decision
+          - Under the planning regime relevant here, as indeed under the general law, no trader has an interest in hindering competitors or being protected from competition. It is a matter of public policy that no trader has an interest in being protected from “competition per se” or “mere competition” ... (at [34])
+          - In this case, however, the second and third appellants demonstrated, as a matter of fact, that their businesses will suffer a loss in profitability as a result of the decision which they sought to challenge. And if their challenge to the lawfulness of the decision proves to have merit, the consequences of the competitive pressures resulting from the decision they seek to challenge can properly be described as a situation of “unfair competition”, rather than mere competition (at [35])
+      - TL;DR — Week 6	
+        - Public law remedies: prohibition, mandamus, certiorari, injunction, declaration, ADJR Act s 16 orders
+        - Criteria: Each remedy has particular criteria that must be established (eg certiorari only available to quash instruments/decisions with legal consequences)
+        - Jurisdictional errors: Some remedies are available only for JE (eg mandamus)
+        - Non-jurisdictional errors: Injunction and declaration extend to non-JE; certiorari extends to non-JE on the face of the record (unless sought ancillary to a remedy limited to JE); ADJR Act orders available for non-JE (unless excluded by a privative clause)
+        - Discretion: public law remedies not available as of right -- the court may decline a remedy due to delay, disentitling conduct, futility or where an alternative remedy is more appropriate
+        - Standing tests: Historically, the test for standing differs according to the remedy sought
+        - Convergence: The distinctions between tests is fine-grained, and we can argue that an applicant who satisfies the special interest test will likely be in a position to establish other tests
+## Week 8: Jurisdictional error
+
+- Jurisdictional error – why is it important?
+  - 1. ‘Jurisdiction’ and error
+    - The scope of the power of a court or administrative decision-maker or tribunal to examine and determine facts, interpret and apply the law, make orders and, in the case of a court, to declare judgment.
+      - Encyclopaedic Australian Legal Dictionary
+    - A procedural error becomes a jurisdictional error when the procedure is essential to the exercise of power, and Parliament is taken to have intended invalidity for non-compliance.
+    - Exceeding jurisdiction
+      - Geographical limit
+      - Monetary limit
+      - Subject matter limit
+      - Interpreting limits, eg:
+        - procedural requirements
+        - hearing requirements
+        - decision-making requirements
+    - Non-Jurisdictional power
+      - A non-jurisdictional error, often referred to as an "error of fact," is a mistake made by a decision-maker that doesn't affect their power or authority to make a decision, meaning they were still within their jurisdiction, but made a mistake in applying the law or facts (Project Blue Sky)
+  - 2. Functions of jurisdictional error
+    - 1 Legislative power
+      - [T]he jurisdiction to grant s 75(v) relief where there has been jurisdictional error by an officer of the Commonwealth cannot be Removed… [Section 75 of the Constitution], and specifically s 75(v), introduces into the Constitution of the Commonwealth an entrenched minimum provision of judicial review... The provision of the constitutional writs and the conferral upon this Court of an irremovable jurisdiction to issue them to an officer of the Commonwealth constitutes a textual reinforcement... of the rule of law.
+      - S157/2002 v Commonwealth (2003) 211 CLR 476, 512-13
+    - 2 Access to remedies
+      - Available beyond jurisdictional error?
+        - Prohibition
+          - See Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82
+        - Mandamus
+          - See Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82
+        - Certiorari
+          - Available beyond jurisdictional error?
+            - ✔ Error of law on the face of the record – see Craig v South Australia (1995) 184 CLR 163
+            - X Ancillary – “[B]ecause the power of this court to issue certiorari is ancillary to the jurisdiction to issue mandamus or prohibition, to obtain an order of certiorari the prosecutor must demonstrate … jurisdictional error” (Re Minister for Immigration and Multicultural Affairs; Ex parte Durairajasingham (2000) 58 ALD 609, 617) – but note that this limitation might not apply when sought ancillary to injunctive relief (at 31)
+            - ✖ Privative clause – can oust power to issue relief for non-jurisdictional error
+        - Injunction
+          - ✔ [P]rinciples of jurisdictional error control the constitutional writs but do not attend the remedy of injunction including that provided in s 75(v) (and thus in s 39B of the Judiciary Act). The same is true of the other equitable remedy, the declaratory order. Nevertheless, the equitable remedies, which are available at the suit of a party with a sufficient interest, operate to declare invalidity and to restrain the implementation of invalid exercises of power.
+            - Federal Commissioner of Taxation v Futuris Corporation Ltd (2008) 237 CLR 146, 162
+          - Available beyond jurisdictional error?
+            - ✔ ... it may be that injunctive relief is available on grounds that are wider than those that result in relief by way of prohibition and mandamus. In any event, injunctive relief would clearly be available for fraud, bribery, dishonesty or other improper purpose.
+          - S157/2002 v Commonwealth (2003) 211 CLR 476, 512-13
+        - Declaration
+          - ✔ [P]rinciples of jurisdictional error control the constitutional writs but do not attend the remedy of injunction including that provided in s 75(v) (and thus in s 39B of the Judiciary Act). The same is true of the other equitable remedy, the declaratory order. Nevertheless, the equitable remedies, which are available at the suit of a party with a sufficient interest, operate to declare invalidity and to restrain the implementation of invalid exercises of power.
+            - Federal Commissioner of Taxation v Futuris Corporation Ltd (2008) 237 CLR 146, 162
+    - see 7A.3: Privative clauses
+    - Entrenched minimum provision = Jurisdictional error = Irremovable jurisdiction
+  - 3. Commonwealth
+  - 4. States
+- Identifying jurisdictional error
+  - 1. What is jurisdictional error?
+    - Jurisdictional error is a conclusion, not a test
+    - Hossain v Minister for Immigration and Border Protection (2018) 264 CLR 123, 133.	
+      - Jurisdictional error ... refers to a failure to comply with one or more statutory preconditions or conditions to an extent which results in a decision ... lacking characteristics necessary for it to be given force and effect... To describe a decision as “involving jurisdictional error” is to describe that decision as having been made outside jurisdiction... [A] decision made outside jurisdiction is ... properly to be regarded for the purposes of the law pursuant to which it was purported to be made as “no decision at all”. To that extent, in traditional parlance, the decision is “invalid” or “void”.
+    - Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355, 390
+      - Is it invalid? -> Did the legislature intend for it to be invalid? 
+      - [The preferred] test for determining the issue of validity is to ask whether it was a purpose of the legislation that an act done in breach of the provision should be invalid.
+    - Did the legislature intend for it to be invalid?
+      - Statutory Interpretation
+      - Assessment of materiality
+  - 2. Statutory interpretation
+    - Express Intention
+      - “No invalidity” clauses, eg:
+        - Migration Act 1958 (Cth)
+          - 501G(4) A failure to comply with this section in relation to a decision does not affect the validity of the decision.
+    - Implied intention
+      - 1. Actual intention? X
+        - Zheng v Cai (2009) 239 CLR 446 at 455-45
+          - [W]hat is involved here is not the attribution of a collective mental state to legislators. That would be a misleading use of metaphor. Rather, judicial findings as to legislative intention are an expression of the constitutional relationship between the arms of government with respect to the making, interpretation and application of laws. [T]he preferred construction by the court of the statute in question is reached by the application of rules of interpretation accepted by all arms of government in the system of representative democracy.
+      - 2. Text, context, purpose
+        - Consider words used (eg ‘must’ v ‘may’ could indicate whether something is a mandatory duty or discretionary power)
+        - Consider the context of the provision within the Act (eg does another provision set up an alternative procedure?)
+        - Consider the objects of the Act (express and implied)
+        - Acts Interpretation Act 1901 (Cth)
+        - Extrinsic materials
+      - 3. Principle of legality
+        - “the principle of legality means that Parliament must squarely confront what it is doing and accept the political cost. Fundamental rights cannot be overridden by general or ambiguous words...”
+        - R v Secretary of State for the Home Department; Ex parte Simms [2000] 2 AC 115, 131
+        - Examples –
+          - freedom of expression
+          - presumption of innocence
+    - Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355, 390
+      - [The preferred] test for determining the issue of validity is to ask whether it was a purpose of the legislation that an act done in breach of the provision should be invalid.
+  - 3. Materiality
+    - ‘Material’ errors
+      - Hossain v Minister for Immigration and Border Protection (2018) 264 CLR 123
+      - An error may not be jurisdictional unless it is ‘material’
+        - Assume the error is removed
+        - ‘could have made no difference to the decision that was made’ (at 134-34 [30])
+        - ‘could have resulted in the making of a different decision’ (at 135 [31])
+        - Did it ‘deprive [the applicant] of the possibility of a successful outcome’? (at 149 [79])
+        - Facts
+          - Hossain’s visa application was refused on the bases that (1) he had applied too late, and (2) he had outstanding debts to the Commonwealth
+          - The AAT affirmed the decision on both grounds, but made an error of law regarding the lateness ground
+        - Issue
+          - Was the AAT’s error jurisdictional?
+            - No
+        - Decision
+          - “The question of whether a particular failure to comply with [a] statutory condition ... is of a magnitude which has resulted in taking the decision outside the jurisdiction conferred by the statute cannot be answered except by reference to the construction of the statute” (at [27])
+          - “Ordinarily, a statute which impliedly requires that condition ... be observed in the course of a decision-making process is not to be interpreted as denying legal force and effect to every decision that might be made in breach of the condition. The statute is ordinarily to be interpreted as incorporating a threshold of materiality in the event of non-compliance... Whilst a statute... might set a higher or lower threshold of materiality, the threshold of materiality would not ordinarily be met in the event of a failure to comply with a condition if complying with the condition could have made no difference to the decision that was made...” (at [29]-[30])
+    - Inherently material?
+      - Actual bias (at [33])
+        - MZAPC v Minister for Immigration (2021) 390 ALR 590, 598 [33]
+          - [Certain grounds] of their nature, incorporate an element of materiality, non-compliance with which will result in a decision exceeding the limits of decision-making authority without any additional threshold needing to be met.
+      - Apprehended bias (at [33])
+        - MZAPC v Minister for Immigration (2021) 390 ALR 590, 598 [33]
+          - [Certain grounds] of their nature, incorporate an element of materiality, non-compliance with which will result in a decision exceeding the limits of decision-making authority without any additional threshold needing to be met.
+      - Unreasonableness (at [33])
+        - MZAPC v Minister for Immigration (2021) 390 ALR 590, 598 [33]
+          - [Certain grounds] of their nature, incorporate an element of materiality, non-compliance with which will result in a decision exceeding the limits of decision-making authority without any additional threshold needing to be met.
+      - Procedural fairness	
+        - Nathanson v Minister for Home Affairs [2022] HCA 26, [33]
+          - There will generally be a realistic possibility that a decision-making process could have resulted in a different outcome if a party was denied an opportunity to present evidence or make submissions on an issue that required consideration.
+    - Burden of proof
+      - Plaintiff bears the onus
+        - ‘Ordinary question of fact’ – SZMTA at [46]
+        - Burden ‘lies unwaveringly on the plaintiff’ – MZAPC at [60]
+        - Only need to establish the possibility of a
+        - different outcome – ie outcome could have been different, not would have been different - MZAPC at [39]
+        - Not an onerous burden - MZAPC at [40]
+        - ‘undemanding’ – Nathanson at [33]
+- Privative clauses
+  - 1. What is a privative clause?
+    - Executive: Administering Government according to law
+    - Judicial: Interpreting the law and resolving disputes
+    - Judicial review X -> Executive Administration of the law
+    - Administrative Review Council, The Scope of Judicial Review (Discussion Paper, 2003) 160-67
+      - 1. Clauses which seek to make orders, awards or other determinations final
+      - 2. Clauses forbidding the courts from granting the remedies traditionally used by them for judicial review, such as certiorari, prohibition or mandamus
+      - 3. Clauses expressly stating that judicial review lies only on stipulated grounds
+      - 4. Clauses prescribing time limits beyond which there can be no judicial review
+      - 5. Clauses giving a decision-making body very wide jurisdiction
+      - 6. Clauses providing protection for a body’s decisions or purported decisions, or providing that anything that the body does shall have effect as if enacted by parliament
+      - 7. By including evidentiary clauses deeming all things done and that a certain result has been achieved on production of a certificate, or other formal proof of proper form
+      - 8. By way of a self-executing decision, that is, a decision where the ‘decision’ follows automatically
+      - 9. By amending the range and scope of judicial review
+  - 2. The entrenched minimum provision
+    - Does this clause exclude the High Court’s judicial review power under s 75(v)?
+    - Migration Act 1958 (Cth)
+      - (1) A privative clause decision:
+        - (a) is final and conclusive; and
+        - (b) must not be challenged, appealed against, reviewed, quashed or called in question in any court; and
+        - (c) is not subject to prohibition, mandamus, injunction, declaration or certiorari in any court on any account.
+      - (2) In this section:
+        - privative clause decision means a decision of an administrative character made, proposed to be made, or required to be made, as the case may be, under this Act or under a regulation or other instrument made under this Act (whether in the exercise of a discretion or not)...
+    - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476
+      - Facts
+        - Plaintiff wished to institute proceedings against the Minister for Immigration and Refugee Review Tribunal under s 75(v)
+        - The basis of the challenge was a denial of procedural fairness
+        - s 474 of the Migration Act 1958 (Cth) was a privative clause, providing that ‘privative clause decisions’ could not be reviewed by any court
+      - Issues
+        - Was s 474 invalid by reason of inconsistency with s 75(v)?
+        - Did s 474 apply to preclude the plaintiff’s judicial review claim? 
+          - No
+      - Decision
+        - ‘[D]ecision[s]..made under this Act’’ must be read so as to refer to decisions which involve neither a failure to exercise jurisdiction nor an excess of the jurisdiction conferred by the Act. 
+        - Indeed so much is required as a matter of general principle. This Court has clearly held that an administrative decision which involves jurisdictional error is “regarded, in law, as no decision at all” (at [76])
+      - To decide otherwise would be inconsistent with the Constitution (at [57]):
+        - “s 474(1)(c) would be in direct conflict with s 75(v) of the Constitution”
+        - “[it] would confer authority on a non-judicial decision-maker ... to determine conclusively the limits of its own jurisdiction and, thus, at least in some cases, infringe the mandate implicit in the text of Ch III of the Constitution that the judicial power of the Commonwealth be exercised only by [Ch III] courts…
+      - [T]he constitutional writs of prohibition and mandamus are available only for jurisdictional error and because s 474 of the Act does not protect decisions involving jurisdictional error, s 474 does not, in that regard conflict with s 75(v) of the Constitution and, thus, is valid in its application to the proceedings which the plaintiff would initiate ... (at [83]) s 75(v), introduces into the Constitution of the Commonwealth an entrenched minimum provision of judicial review. ... The provision of the constitutional writs and the conferral upon this Court of an irremovable jurisdiction to issue them to an officer of the Commonwealth constitutes a textual reinforcement for ... the rule of law...
+  - 3. Operation in different contexts
+
+	
+Jurisdiction
+Removable?
+Rationale
+Constitutional
+jurisdiction
+HCA – s 75(v)
+FCA – s 39B
+✖ (in theory
+Parliament
+could amend
+the Judiciary
+Act)
+- s 75(v) confers an “entrenched minimum” jurisdiction to review for jurisdictional error
+- Privative clauses can be read down to retain
+- HCA and FCA jurisdiction (eg a decision affected by jurisdictional error is not made ‘under this Act’) – Plaintiff S157
+Statutory
+jurisdiction
+FCA and FCFCA
+– ADJR Act
+✔
+- FCA and FCCA are creatures of statute, and the ADJR Act is a statutory review entitlement
+- What Parliament gives it can take away
+NSWSC –
+inherent
+jurisdiction
+✖
+- Constitution requires there to be a ‘Supreme Court of a State’
+- A defining characteristic of a Supreme Court is the power to review for jurisdictional error - Kirk v Industrial Court (NSW)
+- Kirk v Industrial Court (NSW) (2010) 239 CLR 531
+  - Facts
+    - Kirk was convicted of industrial offences in the NSW Industrial Court, and unsuccessfully challenged that conviction in various courts
+    - Industrial Court decisions (but not Full Bench) were subject to a privative clause
+  - Issue
+    - Should the Industrial Court’s decision be quashed?
+  - Decision
+    - In considering State legislation, it is necessary to take account of the requirement of Ch III of the Constitution that there be a body fitting the description “the Supreme Court of a State”, and the constitutional corollary that “it is beyond the legislative power of a State so to alter the constitution or character of its Supreme Court that it ceases to meet the constitutional description” (at [96])
+    - The supervisory jurisdiction of the Supreme Courts ... exercised through the grant of prohibition, certiorari and mandamus (and habeas corpus) was, and is, a defining characteristic of those courts (at [98])
+    - To deprive a State Supreme Court of its supervisory jurisdiction enforcing the limits on the exercise of State executive and judicial power by persons and bodies other than that Court would be to create islands of power immune from supervision and restraint. It would permit what Jaffe described as the development of “distorted positions” (228). And as already demonstrated, it would remove from the relevant State Supreme Court one of its defining characteristics (at [99])
+  - Jurisdictional error
+    - Defines the scope of legislative power over the courts
+      - Parliament cannot use privative clauses to remove the power of the High Court or State Supreme Courts to engage in review for jurisdictional error
+    - Defines access to relief
+      - Some remedies are dependent on establishing jurisdictional error
+        - Parliament can use a privative clause remove access to remedies beyond jurisdictional error
+- Introduction to grounds of review
+  - 1. What do we mean by ‘grounds’?
+    - 
+    - REMEMBER
+      - Merits
+        - Substance of the decision
+      - Legality
+        - Legal errors in making the decision
+  - 2. Summary of judicial review grounds
+    - Preliminary errors
+      - simple ultra vires
+      - breach of statutory procedure
+      - defect in appointment or delegation
+    - Breach of Procedural fairness
+      - breach of the hearing rule
+      - apprehended bias
+      - actual bias
+    - Fact-finding errors
+      - no evidence
+      - error of jurisdictional fact
+    - Discretionary errors
+      - considering irrelevant considerations /
+      - failing to consider relevant considerations
+      - acting under dictation
+      - acting for an improper purpose
+      - inflexible application of policy
+      - acting in bad faith
+      - unreasonable or irrational exercise of power
+  - 3. What about the ADJR Act?
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth) s 5
+      - (1)(a) that a breach of the rules of natural justice occurred in connection with the making of the decision;
+      - (b) that procedures that were required by law to be observed in connection with the making of the decision were not observed;
+      - (c) that the person who purported to make the decision did not have jurisdiction to make the decision;
+      - (d) that the decision was not authorized by the enactment in pursuance of which it was purported to be made;
+      - (e) that the making of the decision was an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made;
+      - (f) that the decision involved an error of law, whether or not the error appears on the record of the decision;
+      - (g) that the decision was induced or affected by fraud;
+      - (h) that there was no evidence or other material to justify the making of the decision;
+      - (j) that the decision was otherwise contrary to law
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth) s 5
+    - (2) The reference in paragraph (1)(e) to an improper exercise of a power shall be construed as including a reference to:
+    - (a) taking an irrelevant consideration into account in the exercise of a power;
+    - (b) failing to take a relevant consideration into account in the exercise of a power;
+    - (c) an exercise of a power for a purpose other than a purpose for which the power is conferred;
+    - (d) an exercise of a discretionary power in bad faith;
+    - (e) an exercise of a personal discretionary power at the direction or behest of another person;
+    - (f) an exercise of a discretionary power in accordance with a rule or policy without regard to the merits of the particular case;
+    - (g) an exercise of a power that is so unreasonable that no reasonable person could have so exercised the power;
+    - (h) an exercise of a power in such a way that the result of the exercise of the power is uncertain; and
+    - (j) any other exercise of a power in a way that constitutes abuse of the power.
+  - 4. What about jurisdictional error?
+    - Breach of grounds may amount to jurisdictional error
+- Breach of statutory procedure
+  - 1. Types of statutory procedures
+    - Notification
+      - eg
+        - a requirement to notify a person that a decision has been or will be made which affects them
+        - a requirement to send a notice to certain third parties (eg neighbouring landowners) before making a decision
+        - a requirement to give notice of the information that will be taken into account when making a decision
+    - Publication
+      - eg
+        - a requirement to publish a notice in a newspaper or other media outlet
+        - a requirement to display an application for public consideration for a period of time
+        - a requirement to publish a decision after it has been made
+    - Consultation
+      - Eg
+        - a requirement to gather views from certain bodies or individuals (eg to consult with the Director of Public Prosecutions)
+        - a requirement to hold a public consultation process
+    - Timeframes
+      - Eg
+        - a requirement that a decision be made within a particular time limit
+        - a requirement that a notice must be sent by a particular date
+        - a requirement to allow a certain period for consultation
+    - Voting quorum
+      - Eg
+        - a requirement that a certain number of people be present for a group decision
+        - a requirement that a group decision be made with a certain majority vote
+  - 2. Consequences of breach?
+    - Breach != Invalidity -> What did Parliament intend?
+      - Mark Aronson, Matthew Groves and Greg Weeks, Judicial Review of Administrative Action and Government Liability (Thomson Reuters, 7th ed, 2022) 363
+        - “It is in the nature of procedural rules that they are frequently broken. Procedure being the servant of substance, invalidity is the least common of the possible consequences of such breaches.”
+      - Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355
+        - Facts
+          - The ABA’s was empowered to determine television programming standards, including for ‘the Australian content of programs’ (s 122)
+          - s 160(d) required the ABA to perform its functions consistently with Australia’s international obligations
+          - The ABA set a standard which gave preferential treatment to Australian content, which was inconsistent with a fair trade agreement with New Zealand
+        - Issue
+          - Did the breach of s 160 lead to invalidity?
+            - No
+        - Decision
+          - After rejecting the distinction between mandatory/directory: “A better test for determining the issue of validity is to ask whether it was a purpose of the legislation that an act done in breach of the provision should be invalid” (at [93])
+          - “The fact that s 160 regulates the exercise of functions already conferred on the ABA rather than imposes essential preliminaries to the exercise of its functions strongly indicates that it was not a purpose of the Act that a breach of s 160 was intended to invalidate any act done in breach of that section” (at [94])
+          - Also:
+            - other subsections (eg requirement to comply with government policy) lack “a rule-like quality which can be easily identified and applied” (at [95])
+            - international agreements often contain provisions “more aptly described as goals to be achieved rather than rules to be obeyed” (at [96])
+      - SAAP v Minister for Immigration and Multicultural and Indigenous Affairs (2005) 228 CLR 294
+        - Facts
+          - The Migration Act 1958 (Cth) required certain information to be provided to protection visa applicants in writing
+          - The Tribunal breached this requirements by providing the information via video link during a hearing
+        - Issue
+          - Did the procedural breach lead to invalidity?
+            - Yes
+        - Decision
+          - “If the requirement to give written particulars is mandatory, then failure to comply means that the Tribunal has not discharged its statutory function. There can be no “partial compliance” with a statutory obligation to accord procedural fairness.
+          - Either there has been compliance or there has not. Given the significance of the obligation in the context of the review process (the obligation is mandated in every case), it is difficult to accept the proposition that a decision made despite the lack of strict compliance is a valid decision under the Act... Parliament has made the provisions of s 424A one of the centrepieces of its regime of statutory procedural fairness. Because that is so, the best view of the section is that failure to comply with it goes to the heart of the decision-making process. Consequently, a decision made after a breach of s 424A is invalid.” (at 321)
+      - Commissioner of the Australian Federal Police v Oke (2007) 159 FCR 441
+        - Facts
+          - s 3H(1) of the Crimes Act 1914 (Cth) required that a copy of a search warrant must be made available to the occupier if they are present during the search
+          - When searching Oke’s home, AFP officers provided a draft version of the warrant rather than final
+        - Issue
+          - Did the procedural breach render the search unlawful?
+            - Yes
+        - Decision
+          - Relevant factors (at 447):
+            - the use of “must” in the provision
+            - other procedural provisions expressly referred to consequences of breach
+            - the obligation is simple to comply with and serves an important purpose
+          - “Having regard to the matters outlined above... our judgment is that the Crimes Act discloses an intention that non-compliance with s 3H(1) renders unlawful the execution of the warrant” (at 449)
+  - 3. No invalidity clauses
+    - Examples
+      - Crimes Act 1914 (Cth)
+        - s 15N(5) A failure to comply with this section does not affect the validity of a certificate authorising a controlled operation.
+      - Income Tax Assessment Act 1936 (Cth)
+        - s 175 The validity of any assessment shall not be affected by reason that any of the provisions of this Act have not been complied with.
+    - Effect
+      - Generally effective at defining the consequences of breach
+      - Do not offend s 75(v) (ie these are not privative clauses)
+      - Do not protect deliberate breaches
+      - Federal Commissioner of Taxation v Futuris Corporation Ltd (2008) 237 CLR 146
+    - Federal Commissioner of Taxation v Futuris Corporation Ltd (2008) 237 CLR 146
+      - Facts
+        - A taxpayer sought to quash a tax assessment that the Commissioner had issued knowing it was excessive
+        - s 175 of the relevant legislation was a ‘no-invalidity’ clause
+      - Issue
+        - Did s 175 preclude the possibility of invalidity?
+          - Yes
+      - Decision
+        - “[T]he question for the present case is whether it is a purpose of the Act that a failure by the Commissioner in the process of assessment to comply with provisions of the Act renders the assessment invalid; in determining that question of legislative purpose regard must be had to the language of the relevant provisions and the scope and purpose of the statute. Section 175 must be read with ss 175A and 177(1). If that be done, the result is that the validity of an assessment is not affected by failure to comply with any provision of the Act...” (at 156-57)
+        - “Where s 175 applies, errors in the process of assessment do not go to jurisdiction and so do not attract the remedy of a constitutional writ under s 75(v) of the Constitution or under s 39B of the Judiciary Act” (at 157)
+        - “But what are the limits beyond which s 175 does not reach? The section operates only where there has been what answers the statutory description of an “assessment”... [C]onscious maladministration of the assessment process may be said also not to produce an “assessment” to which s 175 applies” (at 157)
+  - 4. ADJR equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies that is made after the commencement of this Act may apply to the Federal Court or the Federal Circuit Court for an order of review in respect of the decision on any one or more of the following grounds:
+      - (b) that procedures that were required by law to be observed in connection with the making of the decision were not observed;
+- Defects in appointments and delegations
+  - 1. The need for delegation and agency
+    - Cabinet
+    - Departments
+    - Agencies
+  - 2. Delegation of power
+    - Presumption
+      - Delegatus non potest delegare
+        - General presumption that a person to whom a power has been delegated cannot sub-delegate that power to another
+        - Parliament -> Executive (Principal) X ->  Delegate X -> Sub-delegate
+      - Acts Interpretation Act 1901 (Cth)
+        - s 34AA: power can be delegated to a specified person or a person occupying a specified position
+        - s 34AAA: power conferred on a person holding a particular position as such cannot be delegated
+        - s 34AB: both the delegate and principal can exercise the power
+        - s 34A: a statutory power based on a person’s state of mind also captures the delegate’s state of mind
+    - Rebutting the presumption
+      - Examples of express provisions
+        - Delegation
+          - Therapeutic Goods Act 1989 (Cth)
+            - s 57(1) Subject to subsections (2), (6) and (8) to (11), the Minister or the Secretary may, by signed instrument, delegate to... (a) an officer of the Department …
+        - Sub-delegation
+          - Public Service Act 1999 (Cth)
+            - s 78(9) A person (the first delegate) to whom powers or functions are delegated under subsection (5), (6) or (7) may, in writing, delegate any of those powers or functions to another person (the second delegate)...
+      - Implied rebuttal?
+        - Possible, but rare
+        - See eg:
+          - Bayly v Municipal Council of Sydney (1927) 28 SR (NSW) 149
+          - Ex parte Forster; Re University of Sydney [1963] SR (NSW) 723
+            - [T]he application of the maxim, and its extent, must be considered with due regard to the purpose and objects of the statute, the character of the power which is conferred, the exigencies of the occasions which may arise with respect to its exercise, and other relevant considerations
+    - Valid delegation
+      - Instrument of delegation
+        - consistent with statutory requirements
+        - written
+        - signed by the principal
+        - may delegate to a named official or to a position / office
+        - instruments are strictly construed
+  - 3. Agency
+    - What is an agent?
+      - agent, surrogate, alter ego
+      - makes decisions on behalf of the principal
+    - The Carltona principle
+      - Administrative necessity
+        - Carltona v Commissioner of Works [1943] 2 All ER 560, 563
+          - In the administration of government in this country the functions which are given to ministers ... [are] so multifarious that no minister could ever personally attend to them ... The duties imposed upon ministers and the powers given to ministers are normally exercised under the authority of ministers by responsible officials of the department. Public business could not be carried on if that were not the case. Constitutionally, the decision of such an official is, of course, the decision of the minister. The minister is responsible. It is he who must answer before Parliament for anything that his officials have done under his authority…
+        - Is there a practical need for the principal to act through an agent?
+        - Does the statute suggest that the power should be exercised personally?
+- TL;DR — Week 7B
+  - “Grounds” of review: the label we give to the types of limits that apply to the exercise of executive power and ways that they can be breached
+  - Are all grounds JE’s? No. We need to consider whether a ground is a JE on a case by case basis (we will return to this in Week 9).
+  - Statutory procedures: Statutes may set various types of procedures to follow in the exercise of powers (eg notice and publication requirements).
+  - Breach of statutory procedure: Whether breach of a statutory procedure affects validity depends on parliamentary intention. (This is a good example of our JE thinking process!)
+  - Presumption against delegation: The common law presumption is that power given to one executive official cannot be delegated to another. This presumption can be rebutted expressly and sometimes impliedly by the relevant statute.
+  - Agency: The Carltona principle recognises that an executive principal can sometimes act through an agent on the basis of administrative necessity, as long as the statute does not suggest the power needs to be exercised personally.
+##  Week 9: Procedural Fairness
+
+- What is procedural fairness and when does it apply?
+  - (a) What is it and when does it apply?
+  - (b) Hearing rule
+  - (c) Rule against bias
+  - What is procedural fairness?
+    - Terminology
+      - [I]n the past, it was customary to refer to the duty to observe common law requirements of fairness as a duty “to act judicially”... Later, the duty came to be referred to as a duty to observe the requirements of “natural justice”. Later again, it became common to speak of “procedural fairness”
+    - Two rules:
+      - Hearing rule
+      - Bias rule
+    - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476, 490
+      - The precise content of the requirements... may vary according to the statutory context... Subject to any such statutory regulation... the essential elements involved include fairness and detachment. Fairness and detachment involve “the absence of the actuality or the appearance of disqualifying bias and the according of an appropriate opportunity of being heard”...
+    - Kioa v West (1985) 159 CLR 550, 609 (Brennan J)
+      - Common law 
+      - Statute
+      - The statute is construed, as all statutes are construed, against a background of common law notions of justice and fairness ... When the legislature creates certain powers, the courts presume that the legislature intends the principles of natural justice to be observed in their exercise in the absence of a clear contrary intention.
+  - 2. When does it apply?
+    - Relevant Interest?
+      - “decisions which affect rights, interests and legitimate expectations” Kioa at 584 (Mason CJ)
+      - Note, “legitimate expectations” no longer in favour: eg Ex parte Lam and WZARH)
+      - ‘interest’ includes “any interest possessed by an individual whether or not the interest amounts to a legal right or is a proprietary or financial interest or relates to reputation”: Kioa at 373 (Brennan J)
+        - Legal interests
+        - Equitable interests
+        - Status
+        - Reputation
+        - Liberty
+        - Confidentiality
+        - Livelihood
+        - Financial interests
+    - Relevantly Affected?
+      - “It is not the kind of individual interest but the manner in which it is apt to be affected that is important”: Kioa at 619 (Brennan J)
+      - applies where the exercise of the powers are “apt to affect adversely... the sufficient interest of a party”: Plaintiff S10/2011 at [66]
+      - “directly affects the rights [or] interests ... of another in his individual capacity (as distinct from a member of the general public or a class of the general public)” Kioa at 632 (Deane J).
+      - ...Link to principles of standing…
+        - “...the interest which tends to attract the protection of the principles of natural justice may be equated with the interest which, if affected, gives “standing” at common law (and, one might add, in equity), to seek a public law remedy”: Plaintiff S10/2011 at [68]
+        - The weaker the claim for standing (eg for public interest groups), the less likely it is that an obligation of procedural fairness will be owed: Griffith v Tang at [45]
+    - Excluded by statute?
+      - “there is a common law duty to act fairly ... subject only to the clear manifestation of a contrary statutory intention”: Kioa at 584 (Mason CJ)
+      - “It is sufficient to say that, in the absence of a clear, contrary legislative intention, administrative decision-makers must accord procedural fairness to those affected by their decisions”: WZARH at 335
+      - The presumption of procedural fairness “operates unless clearly displaced by the particular statutory scheme”: Minister for Immigration and Border Protection v SZSSJ (2016) 259 CLR 180, [75]
+      - natural justice can be excluded only by “plain words of necessary intendment”: Annetts v McCann (1990) 170 CLR 596, 598
+      - Implied exclusion?
+        - Statutory framework (eg prescribed appeal or review process)
+        - Decision-making criteria (eg based on individual merits or political factors)
+        - Nature of the power (eg counterproductive to require hearings for search warrants)
+        - Contextual circumstances (eg impractical in the context of national emergency)
+          - More likely to be considered in limiting the content of the duty rather than excluding the duty
+  - 3. ADJR equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+      - (a) that a breach of the rules of natural justice occurred in connection with the making of the decision;
+- The hearing rule
+  - 1. General rule
+    - Minister for Immigration and Border Protection v WZARH (2015) 256 CLR 326, 335
+      - [T]he real question [is] what is required in order to ensure that the decision is made fairly in the circumstances having regard to the legal framework within which the decision is to be made.
+  - 2. Factors that influence content
+    - Statute
+      - NCSC v News Corp Ltd (1984) 156 CLR 296, 326
+        - The terms of the statute which creates the function, the nature of the function and the administrative framework in which the statute requires the function to be performed are material factors in determining what must be done to satisfy the requirements of natural justice.
+      - Examples
+        - Express requirements to:
+          - afford an oral hearing
+          - allow access to legal representation
+    - Subject matter
+      - Consider
+        - The subject matter of the power may demand a lower or higher standard of fairness
+      - Examples
+        - Urgent decision-making may reduce the requirements to ‘nothingness’: Marine Hull and Liability Insurance Co Ltd v Hurford (1985) 10 FCR 234
+        - Requirement to give prior notice to a prohibited immigrant seeking to evade authorities: Kioa v West (1985) 159 CLR 550, 586
+    - Decision-maker
+      - Consider
+        - The identity of the decision-maker may inform the content of the duty
+      - Examples
+        - Courts have more stringent obligations that administrative decision-makers: BP Australia Ltd v Brown [2003] NSWCA 216, [134]
+        - A high level official subject to political accountability may be subject to less stringent requirements: Plaintiff S10/2011 v Minister for Immigration and Citizenship (2012) 246 CLR 636, 648
+    - Discretion
+      - Consider
+        - The scope of discretion conferred on the decision-maker may affect the content of the duty
+      - Examples
+        - A broad discretion may:
+          - reduce the entitlement to make submissions: Barratt v Howard (1999) 92 IR 350
+          - go in favour of a duty of fairness: Jarratt v Commissioner of Police for NSW (2005) 224 CLR 44, 56
+      - A narrow discretion might limit the demands of natural justice: R (Osborn) v Parole Board [2014] AC 1115 at 1149
+    - Nature of inquiry
+      - Consider
+        - An adversarial proceeding may demand greater hearing entitlements than an inquisitorial proceeding
+      - Examples
+        - Oral hearing
+        - Representation
+        - Cross-examination of witnesses
+        - Timing for disclosure of adverse information
+    - — Not a closed category
+  - 3. Specific principles
+    - Kioa v West (1985) 159 CLR 550, 628
+      - A person whose interests are likely to be affected by an exercise of power must be given an opportunity to deal with relevant matters adverse to his interests which the repository of the power proposes to take into account in deciding upon its exercise.
+    - Edwardes v Kyle (1995) 15 WAR 302
+      - The notion of procedural fairness demands that a person be given notice of what is put against him and be given a real opportunity to be heard. He must be given sufficient particulars of contentious matters to allow him to respond by way of correcting or contradicting the adverse material in a meaningful way (Adverse material)
+    - Notice
+      - Context specific
+      - No prescribed form
+      - Sufficient time to prepare a case
+        - eg “must have an opportunity quietly to consider the allegations against him, and, if necessary, to obtain material to rebut them”: Ansell v Wells (1982) 43 ALR 41, 62
+      - Must specify the nature of the charge, order, decision etc with sufficient particularity
+    - Opportunity to be heard
+      - Form of hearing
+        - Procedural fairness does not always require an oral hearing: WZARH
+        - Written submissions will sometimes be sufficient
+        - Consider:
+          - Seriousness of the outcomes
+          - Issues of credit, reputation involved
+          - Disputed facts or inconsistencies
+          - Witnesses to be cross-examined
+      - Representation
+        - Cains v Jenkins (1979) 28 ALR 219, 230
+          - On the authorities there is no absolute right to representation even where livelihood is at stake. 
+          - But that is not to say that in all cases a tribunal can refuse it with impunity. The seriousness of the matter and the complexity of the issues, factual or legal, may be such that refusal would offend natural justice principles.
+        - No requirement to arrange or provide representation
+      - Cross-examination
+        - No general right
+        - .
+          - Consider:
+          - • Contested claims
+          - • Analogous to court proceedings
+          - Issues of credit, reliability, veracity
+    - Adverse material
+      - Kioa v West (1985) 159 CLR 550, 629
+        - [I]n the ordinary case where no problem of confidentiality arises an opportunity should be given to deal with adverse information that is credible, relevant and significant to the decision to be made... Information of that kind creates a real risk of prejudice, albeit subconscious, and it is unfair to deny a person whose interests are likely to be affected by the decision an opportunity to deal with the information
+      - AB v IBAC [2024] HCA 10, [24]
+        - [A person] does not have to be given an opportunity to comment on every adverse piece of information, irrespective of its credibility, relevance or significance…
+      - Commissioner for ACT Revenue v Alphaone Pty Ltd (1994) 49 FCR 576, 592
+        - The decision-maker is required to advise of any adverse conclusion which has been arrived at which would not obviously be open on the known material. Subject to these qualifications however, a decision-maker is not obliged to expose his or her mental processes or provisional views to comment before making the decision in question.
+      - Context specific
+        - Is it “credible, relevant and significant to the decision to be made”?
+        - Focus on fairness of the process rather than weight in the final decision
+        - Does not require disclosure of the decision-maker’s evaluation of the information
+        - Does not require disclosure of widely known material
+  - Applicant VEAL of 2002 v Minister for Immigration and Multicultural and Indigenous Affairs (2005) 225 CLR 88
+    - Facts
+      - Applicant challenged a protection visa refusal decision in the RRT
+      - Before the review, the Department passed on a letter claiming the applicant worked for the Eritrean government – the writer requested confidentiality
+      - The RRT affirmed the refusal – it noted the existence of the letter but gave it ‘no weight
+    - Issue
+      - Had the RRT breached the hearing rule?
+        - Yes
+    - Decision
+      - “[W]hat is “credible, relevant and significant” information must be determined by a decision-maker before the final decision is reached... [It refers] to information that cannot be dismissed from further consideration... And the decision-maker cannot dismiss information from further consideration unless the information is evidently not credible, not relevant, or of little or no significance to the decision that is to be made.” (at 95)
+      - “the Tribunal’s statement, that it gave no weight ... to the letter or its contents, does not demonstrate that there was no obligation to reveal the information to the appellant and to give him an opportunity to respond” (at 95)
+      - “[The] step, of putting the information in the letter aside from consideration, could not be taken before reaching the conclusion that the application should be refused. 
+      - It follows that to conduct the review with procedural fairness, the appellant had at least to know the substance of what was said against him in the letter” (at 99)
+- The rule against bias
+  - 1. Types of bias
+    - Actual v Apprehended
+    - Subjective v Objective
+  - 2. Actual bias
+    - Subjective
+      - Jia v Minister for Immigration and Multicultural Affairs (1998) 84 FCR 87, 104 (French J)
+        - The range of ordinary English meanings of "bias" relevant for present purposes as defined in the New Shorter Oxford English Dictionary is: "An inclination, a propensity, a predisposition (towards); prejudice.”
+        - It must be a pre-existing state of mind…
+        - The emphasis is upon a state of mind...
+    - Affects the decision
+      - Jia v Minister for Immigration and Multicultural Affairs (1998) 84 FCR 87, 104 (French J)
+        - "Actual bias" ... must be dysfunctional in the sense that it induces or affects the decision. It must be a pre-existing state of mind which disables the decision-maker from undertaking or renders him unwilling to undertake any or any proper evaluation of the materials before him or her which are relevant to the decision to be made… 
+        - The emphasis is upon a state of mind which affects decision making rather than elements of the process of decision making taken in isolation.
+        - This approach ... permits the decision-maker to form a strong inclination or predisposition to a particular outcome on the basis of a partial knowledge of the relevant facts. That is provided the decision-maker is not thereby disabled from considering or unwilling to consider all relevant circumstances in coming to a decision…
+      - Summary:
+        - Need to identify a state of mind held by the decision-maker
+        - Need to show this state of mind prevented an impartial and fair decision-making process
+    - High threshold
+      - “had a closed mind to the issues raised and was not open to persuasion by the applicant's case”: Wannakuwattell'a v Minister for Immigration and Ethnic Affairs (unreported; Federal Court of Australia (North J); 24 June 1996) at 4
+      - "has prejudged the case against the applicant, or acted with such partisanship or hostility as to show that the decision-maker had a mind made up against the applicant and was not open to persuasion”: Sun Zhan Qui v Minister for Immigration and Ethnic Affairs (1997) 81 FCR 71, 134
+    - Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507
+      - Facts
+        - A Chinese national was convicted of offences his visa application was refused on the basis that he was not of good character
+        - He appealed to the AAT, who found that he was of ‘good character’ and remitted for reconsideration
+        - The Minister made comments in the media about the case before cancelling the visa on character grounds
+      - Issue
+        - Was the Minister’s decision affected by actual bias?
+          - No
+      - Decision
+        - “The question is not whether a decisionmaker‘ s mind is blank; it is whether it is open to persuasion... The state of mind described as bias in the form of prejudgment is one so committed to a conclusion already formed as to be incapable of alteration, whatever evidence or arguments may be presented” (at 531-32)
+        - Factors:
+          - In the media comment, the Minister indicated the need to ‘weigh up’
+          - The Minister had the benefit of a comprehensive briefing from the Department before making the decision
+          - The comments were made in the context of general policy criticism
+  - 3. Apprehended bias
+    - General test
+      - Ebner v Official Trustee (2000) 205 CLR 337, 350
+        - whether a fair-minded lay observer (Fair-minded lay observer) might reasonably apprehend that the [decision-maker] might not (Likelihood) bring an impartial mind to the resolution of the question the judge was required to decide... [T]he test ... reflects the general principle which is to be applied to problems of apprehended bias, whether arising from interest, conduct, association, extraneous information, or some other circumstance (connected interest).
+    - Fair-minded lay observer
+      - Johnson v Johnson (2000) 201 CLR 488
+        - “Such a person is not a lawyer. Yet neither is he or she a person wholly uninformed about the law or the issue to be decided... The fictitious bystander will be aware of the strong professional pressures on adjudicators... Acting reasonably, the fictitious bystander would not reach a hasty conclusion based on the appearance evoked by an isolated episode of temper or remarks to the parties or their representatives, which was taken out of context. ... [The FMO] is neither complacent nor unduly sensitive or suspicious.”
+    - Likelihood
+      - Ebner v Official Trustee (2000) 205 CLR 337, 345
+        - The question is one of possibility (real and not remote), not probability
+      - Undecided cases
+        - Deciding whether a [decision-maker] might not bring an impartial mind to the resolution of a question that has not been determined requires no prediction about how the decision-maker will in fact approach the matter
+      - Decided cases
+        - [I]f the matter has already been decided, the test is one which requires no conclusion about what factors actually influenced the outcome. 
+          - No attempt need be made to inquire into the actual thought processes of the decision-maker.
+        - Ebner v Official Trustee (2000) 205 CLR 337, 345
+    - Connected interest
+      - 1. Its application ... requires two steps. First, it requires the identification of what it is said might lead a [decision-maker] to decide a case other than on its legal and factual merits.
+      - 2. The second step is no less important. There must be an articulation of the logical connection between the matter and the feared deviation from the course of deciding the case on its merits.
+      - Webb v The Queen (1994) 181 CLR 41, 74
+        - The area covered by the doctrine of disqualification by reason of the appearance of bias encompasses at least four distinct, though sometimes overlapping, main categories of case
+        - 1 Interest
+          - The first is disqualification by interest, that is to say, cases where some direct or indirect interest in the proceedings, whether pecuniary or otherwise, gives rise to a reasonable apprehension of prejudice, partiality or prejudgment...
+          - [T]he general rationale underlying the doctrine is reinforced by the principle expressed in the maxim that nobody may be judge in his own cause…
+          - Ebner v Official Trustee (2000) 205 CLR 337
+          - Judge presiding over bankruptcy proceedings where he held shares in one of the creditors
+          - No bias
+            - The shareholdings were relatively small and were a common form of investment
+          - Hot Holdings Pty Ltd v Creasy (2002) 210 CLR 438
+            - Minister granted mining licences in circumstances where Departmental officers held a financial interest in the outcome
+            - No bias
+              - Minister was unaware of the officer’s interests and there was no basis to apprehend he would be influenced
+        - 2 Conduct
+          - Webb v The Queen (1994) 181 CLR 41, 74
+            - The second is disqualification by conduct, including published statements. That category consists of cases in which conduct, either in the course of, or outside, the proceedings, gives rise to such an apprehension of bias.
+          - Vakuata v Kelly (1989) 167 CLR 568
+            - Judge criticised the insurer’s medical witnesses, making statements like the doctors were “the unholy trinity”, and that their “views are almost inevitably slanted in favour of the insurer”
+            - Bias
+              - Yes, though the party needs to raise it at the first opportunity
+          - British American Tobacco Australia Services Ltd v Laurie (2011) 242 CLR 283
+            - A judge hearing a claim against a tobacco company had previously presided over another case in which he had made a preliminary finding that the tobacco company had engaged in fraudulent conduct in connection with destruction of company documents
+            - Bias
+              - A reasonable observer might apprehend that the court might not ‘move its mind’ from the position reached in the earlier case
+        - 3 Association
+          - Webb v The Queen (1994) 181 CLR 41, 74
+            - The third category is disqualification by association. It will often overlap the first and consists of cases where the apprehension of prejudgement or other bias results from some direct or indirect relationship, experience or contact with a person or persons interested in, or otherwise involved in, the proceedings
+          - R v Bow Street Metropolitan Stipendiary Magistrate; Ex parte Pinochet Ugarte [2000] 1 AC 119
+            - The House of Lords upheld warrants for the arrest of Pinochet for crimes against humanity
+            - Lord Hoffman was a director of Amnesty International, who had been given leave to intervene in the case
+            - Bias
+              - Yes
+        - 4 Extraneous information
+          - Webb v The Queen (1994) 181 CLR 41, 74
+            - The fourth is disqualification by extraneous information. It will commonly overlap the third and consists of cases where knowledge of some prejudicial but inadmissible fact or circumstance gives rise to the apprehension of bias.
+          - CNY17 v Minister for Immigration and Border Protection [2019] HCA 50
+            - IAA was empowered to conduct automatic merits review of certain immigration decisions
+            - The Department was required to provide the IAA with relevant information, and commonly provided full files which included irrelevant and prejudicial material
+            - The IAA would not refer to this material in its reasons because it was irrelevant
+            - Bias
+              - There is a risk that such information would lead a decision-maker in the place of the IAA to have a bias against the appellant, possibly by thinking that the appellant is not a fit person to hold a visa or that the appellant would be a danger to the community” (at [96])
+  - 4. Types of decision-makers
+    - Jia v Minister for Immigration and Multicultural Affairs (1998) 84 FCR 87, 107 (French J)
+      - In assessing the standards of behaviour required of the Minister it is important to bear in mind that he is not acting as a judge or tribunal but as an administrative decision-maker implementing government policy
+      - There are other consequences that flow from the circumstance that a power is vested in, and exercised by, a Minister. Relevantly to the present case, they include the consideration that the conduct of a Minister may need to be evaluated in the light of his or her political role, responsibility and accountability.
+  - 5. Exceptions
+    - Necessity
+      - eg where the decision-making body has limited membership making it impossible or impractical to use an alternate decision-maker
+      - See eg Laws v Australian Broadcasting Tribunal (1990) 170 CLR 70
+    - Waiver
+      - the party expressly or impliedly waives their right to complain about the bias
+      - eg unreasonable delay in raising the issue
+      - See eg Vakuata v Kelly (1989) 167 CLR 568
+    - Statute
+      - Express or implied exclusion of the ground via statute
+      - eg expressly allowing a decision-maker to hold certain interests
+- Fact-finding in judicial review cases
+  - 1. Legality-merits distinction
+    - Executive
+    - Courts
+    - Findings of fact
+    - Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321, 341
+      - “To expose all findings of fact, or the generality of them, to judicial review would expose the steps in administrative decision-making to comprehensive review by the courts”
+  - 2. Fact-law distinction
+    - Azzopardi v Tasman UEB Industries Ltd (1985) 4 NSWLR 139, 156
+      - It is important, I believe, to remember that whether an error is one of fact or law is determined by legal theory ... Errors may be committed ... at any one of three points viz determining the facts by way of primary findings and inferences, directing himself as to the law and applying the law to the facts found
+    - Fact-finding
+      - Not reviewable
+        - Part of the ‘merits’
+        - Not an error of law
+        - Waterford v Commonwealth (1987) 163 CLR 54 at 77
+          - There is no error of law simply in making a wrong finding of fact.
+        - BUT a factual error might be relevant to another ground, eg:
+          - no evidence
+          - jurisdictional fact
+          - considerations grounds
+          - unreasonableness/illogicality
+    - Rule-stating
+      - Reviewable
+        - Question of law:
+          - courts have final say on interpreting the effect of a statute
+          - courts generally determine the meaning of words used
+          - Historical approach summarised and revised in Agfa-Gevaert Ltd
+        - Older approach
+          - Collector of Customs v Agfa-Gevaert Ltd (1996) 186 CLR 389, 395
+        - Modern approach
+          - Collector of Customs v Agfa-Gevaert Ltd (1996) 186 CLR 389, 395
+            - 1. The question whether a word or phrase in a statute is to be given its ordinary meaning or some technical or other meaning is a question of law.
+            - 4. The effect or construction of a term whose meaning or interpretation is established is a question of law.
+            - 3. The meaning of a technical legal term is a question of law.
+            - 2. The ordinary meaning of a word or its non-legal technical meaning is a question of fact.
+            - 5. The question whether facts fully found fall within the provision of a statutory enactment properly construed is generally a question of law…
+        - OV v Wesley Mission Council (2010) 79 NSWLR 606, 610
+          - The notions of meaning and construction will often... be interdependent ... [That] should not be taken as denying the conceptual distinction between the ascertainment of semantic meaning (interpretation) and determining legal effect or legal content (construction) of a legal text. [However] their inter-relationship in the process of ascription of meaning to a legal text meant that for the purpose, at least, of distinguishing between questions of law and fact, the distinction was illusory
+    - Law-applying
+      - Do the facts as found fall within the legal rule?
+      - Reviewable, but depends on how much evaluation is required (eg a narrow question or one of degree and judgment?)
+      - Examples:
+        - Does particular conduct amount to “insulting behaviour”? (Brutus v Cozens [1973] AC 854)
+        - Does particular mode of travel amount to “journey” between home and work? (Vetter v Lake Macquarie City Council (2001) 202 CLR 439)
+        - Is particular activity “carrying on the business of grazing”? (Hope v Bathurst City Council (1980) 144 CLR 1)
+  - 3. Reviewable findings of fact
+    - Week 8B
+      - No evidence
+      - Error of jurisdictional fact
+    - Week 9
+      - Facts as irrelevant considerations
+      - Serious irrationality / illogicality
+- No evidence
+  - 1. Common law
+    - Lack of evidence
+      - R v Australian Stevedoring Industry Board; Ex parte Melbourne Stevedoring Company Pty Ltd (1953) 88 CLR 100, 119
+        - Must be no evidence to support the conclusion
+        - X “mere insufficiency of evidence or other material to support a conclusion of fact”
+        - ✔ “the absence of any foundation in fact for the fulfilment of the conditions upon which in point of law the existence of the power depends”
+      - An erroneous finding of fact does not found a ‘no evidence’ claim
+        - R v District Court; Ex parte White (1966) 116 CLR 644, 654
+          - “Even if the reasoning, whereby the [decision-maker] reached its conclusion of fact were demonstrably unsound, this would not amount to an error of law... To establish some faulty (eg illogical) inference of fact would not disclose an error of law.”
+    - Critical step
+      - Must relate to a critical step in the reasoning process
+      - SFGB v Minister for Immigration and Multicultural and Indigenous Affairs (2003) 77 ALD 402, 407
+        - “If the tribunal makes a finding and that finding is a critical step in its ultimate conclusion and there is no evidence to support that finding then this may well constitute a jurisdictional error”
+      - R v Australian Stevedoring Industry Board; Ex parte Melbourne Stevedoring Company Pty Ltd (1953) 88 CLR 100
+        - Facts
+          - Stevedoring Board empowered to cancel registration of “unfit” employers
+          - Board had a policy objective of maintaining strict supervision of workers to prevent them from ceasing work without discovery
+          - Delegate of the Board held an inquiry and proposed to cancel MSC’s registration on the basis that it had not noticed the absence of two workers
+        - Issue
+          - Was the Board’s decision invalid for lack of evidence?
+            - Yes
+        - Decision
+          - [T]he chief point of difficulty in the case lies in the distinction between on the one hand a mere insufficiency of evidence or other material to support a conclusion of fact ... and on the other hand the absence of any foundation in fact for the fulfilment of the conditions upon which in point of law the existence of the power depends ... (at 119)
+          - Fitness connotes suitability, appropriateness, qualification to fill that character… 
+            - The complaint against the prosecutor company is that its foreman or foremen and its supervisor were not sufficiently vigilant ... Let all this be so. No ground for saying that the company is "unfit" ... follows from it. It affords no possible basis for such a conclusion (at 120-21)
+  - 2. Relationship to other grounds
+    - Jurisdictional facts
+      - Not all ‘no evidence’ facts will be jurisdictional facts
+      - Suggestion that cases requiring jurisdictional error may be limited to jurisdictional facts: Minister for Immigration and Multicultural and Indigenous Affairs v SGLB (2004) 207 ALR 12, 21, [39]; Minister for Immigration and Citizenship v SZMDS (2010) 240 CLR 611, 622
+    - Irrationality / illogicality
+      - No evidence – attack on the lack of evidence
+      - Irrationality – attack on how evidence is used by the decision-maker
+      - Increased blurring between these boundaries: Minister for Immigration and Citizenship v Li (2013) 249 CLR 332
+    - Other grounds
+      - Procedural fairness – not allowing an opportunity to respond to an adverse fact- finding error
+      - Irrelevant consideration – taking into account factually incorrect information
+      - Relevant consideration – an incorrect factual finding prevented consideration of a relevant fact
+  - 3. ADJR Act equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+      - (h) that there was no evidence or other material to justify the making of the decision;
+    - 5(3) The ground specified in paragraph (1)(h) shall not be taken to be made out unless:
+      - (a) the person who made the decision was required by law to reach that decision only if a particular matter was established, and there was no evidence or other material ... from which he or she could reasonably be satisfied that the matter was established; or
+      - (b) the person who made the decision based the decision on the existence of a particular fact, and that fact did not exist
+    - Restate common law?
+      - Steps beyond the common law ‘no evidence’ ground
+      - Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321, 358
+        - The better view ... is to treat ... the "no evidence“ ground in s 5(1)(h), as elucidated in s 5(3), as expanding that ground of review in the applications for which pars (a) and (b) of s 5(3) make provision
+    - Limbs of s 5(3)
+      - 5(3)(a) = no evidence to reasonably support a fact required to be found
+      - 5(3)(b) = decision based on a non-existent fact
+        - Must be a “fact” as opposed to a finding, assumption or observation
+        - Must be a “critical” fact which affects the final decision
+        - Must prove the fact “does not exist” (as opposed to a lack of positive evidence)
+    - Separate or cumulative?
+      - Curragh Queensland Mining Ltd v Daniel (1992) 34 FCR 212: both limbs must be satisfied
+      - Minister for Immigration v Rajamanikkam (2002) 210 CLR 222:
+        - Gleeson CJ and Callinan J: both limbs must be satisfied
+        - Gaudron and McHugh JJ: s 5(3) explains and expands the ‘no evidence’ ground
+      - Remains unresolved... so the ADJR ‘no evidence’ ground is currently at least as restrictive as the common law
+- Jurisdictional facts
+  - 1. What are jurisdictional facts?
+    - Findings of fact = Merits = No judicial review
+    - Jurisdictional facts =  Legality = Judicial review
+    - Trives v Hornsby Shire Council (2015) 89 NSWLR 268, 281
+      - In short, the phrase “jurisdictional fact” is a potentially confusing label for what is better described as a precondition to the engagement of a statutory power
+    - If X then Y
+  - 2. Identifying jurisdictional facts
+    - Timbarra Protection Coalition Inc v Ross Mining NL (1999) 46 NSWLR 55, 63-64
+      - The issue of jurisdictional fact turns, and turns only, on the proper construction of the statute (Statutory Construction). 
+      - The parliament can make any fact a jurisdictional fact, in the relevant sense: that it must exist in fact (objectivity) and that the legislature intends that the absence or presence of the fact will invalidate action under the statute (essentiality)... “Objectivity” and “essentiality” are two inter-related elements in the determination of whether a factual reference in a statutory formulation is a jurisdictional fact in the relevant sense. They are inter-related because indicators of “essentiality” will often suggest “objectivity”.
+      - Another factor, relevant to determining the intention of parliament, is the inconvenience that may arise from classifying a factual reference in a statutory formulation as a jurisdictional fact (Convenience). Statutes are construed on the basis that parliament did not intend to cause inconvenience, although it can do so, and often has.
+    - Statutory construction
+      - Consider statutory text, context and purpose to determine whether Parliament intended the fact to be a precondition of jurisdiction
+    - Objectivity
+      - Factual objectivity requires that the fact exist in fact (as opposed to subjective opinion)
+      - A fact is less likely to be jurisdictional if it is highly evaluative, complex or invites political judgment
+    - Essentiality
+      - The error must have been (a) one the decision-maker was not allowed to get wrong, or (b) so substantial it took the decision beyond power
+    - Convenience
+      - “The most significant element suggesting that classification is not a jurisdictional fact arises from the degree of inconvenience that can arise”: Woolworths Ltd v Pallas Newco Pty Ltd (2004) 61 NSWLR 707, [63]
+      - eg if third parties would be unable to rely on the decision without asking the court to decide the jurisdictional fact 
+    - Corporation of the City of Enfield v Development Assessment Commission (2000) 199 CLR 135
+      - Facts
+        - Legislation forbade the DAC from granting provisional development plan consent to “non-complying development” without council’s approval
+        - The application of this restriction turned on whether the applicant was in a “special industry”
+        - The DAC determined that the a proposed development was a “general” rather than “special industry” and that the restriction did not apply
+      - Issue
+        - Was the “special industry” finding a jurisdictional fact?
+          - Yes
+      - Decision
+        - “The term "jurisdictional fact" (which may be a complex of elements) is often used to identify that criterion, satisfaction of which enlivens the power of the decision-maker to exercise a discretion. Used here, it identifies a criterion, satisfaction of which mandates a particular outcome... The determination of ... a "noncomplying“ development, which turned upon the application of the criterion of "special industry", was a condition upon the existence of which there operated the obligation that the Commission not grant consent.” (at 148)
+        - Statutory interpretation – “Section 35 occupies a position which is in the statutory scheme different to that occupied by these provisions. [It] mandates circumstances in which the relevant authority must give or refuse that consent.”
+        - it was the task of [the trial judge] to determine the question of the jurisdiction of the Commission upon the evidence as to "special industry" before him…
+    - Plaintiff M70/ 2011 v Minister for Immigration and Citizenship (2011) 244 CLR 144
+      - Facts
+        - The Minister had discretionary power to transfer asylum seekers to a “specified country”
+        - A specified country declaration could be made based on certain criteria, including (a) provision of effective assessment processes; (b) provision of protection pending the determination; and (c) meeting human rights standards
+        - The Minister declared Malaysia to be a specified country for the purpose of transferring asylum seekers who had arrived in Australia by boat
+      - Issue
+        - Could the court revisit the ‘specified country’ criteria as jurisdictional facts?
+          - Yes
+      - Decision
+        - Majority construed the criteria as objective jurisdictional facts: “[T]he submissions on behalf of the Minister and the Commonwealth that [the criteria] are not jurisdictional facts should not be accepted... So to read the provision would pay insufficient regard to its text, context and evident purpose.” (at 194)
+        - “A country does not provide protections of the kind described [in the statutory criteria] unless its domestic law deals expressly with the classes of persons [ie refugees] mentioned in [the criteria] or it is internationally obliged to provide the particular protection.” (at 199)
+        - “Where... it is agreed that Malaysia: first, does not recognise the status of refugee in its domestic law and does not undertake any activities related to the reception, registration, documentation and status determination of asylum seekers and refugees; secondly, is not party to the Refugees Convention or the Refugees Protocol; and, thirdly, has made no legally binding arrangement with Australia obliging it to accord the protections required by those instruments; it was not open to the Minister to conclude that Malaysia provides the access or protections referred to in [the statutory criteria]” (at 201-202) 
+  - 3. Challenging jurisdictional fact-finding
+    - Court decides the merits
+      - Mark Leeming, Authority to Decide: The Law of Jurisdiction in Australia (2012) 62
+        - The process of ‘jurisdictional fact’ review is not ‘something approaching merits review; it is merits review
+      - Minister for Immigration and Citizenship v SZMDS (2010) 240 CLR 611, 624 [38] (Gummow A-CJ and Kiefel J: dissent)
+        - [A]pprehensions respecting ‘merits review’ assume that there was jurisdiction to embark upon the determination of the merits. But the same degree of caution as to the scope of judicial review does not apply when the issue is whether the jurisdictional threshold has been crossed
+    - Plaintiff bears the onus
+      - A person challenging the validity of government action bears the onus of proof: 
+        - Minister for Immigration and Citizenship v SZGUR (2011) 241 CLR 594 at [67]
+    - New evidence?
+      - New evidence may be admitted that goes to the jurisdictional fact
+      - It may sometimes be “unnecessary to adduce, or inappropriate to admit, additional evidence” (eg if it is repetitive): Chowdhary v Bayne (1999) 29 AAR 100 at 105
+  - 4. "Subjective" jurisdictional preconditions
+    - Trives v Hornsby Shire Council (2015) 89 NSWLR 268, 281
+      - Note, some disagree with the label of jurisdictional “facts” here. Perhaps “precondition to the engagement of a statutory power” is more accurate?
+    - Objective
+      - based on facts
+      - eg “Does the person actually meet the criteria?”
+    - Subjective
+      - based on opinions
+      - eg “In the opinion of the decision-maker, does the person meet the criteria?”
+    - Examples
+      - Migration Act 1958 (Cth)
+        - 65(1) Subject to sections 84 and 86, after considering a valid application for a visa, the Minister (a) if satisfied that... (i) the health criteria for it (if any) have been satisfied ... is to grant the visa.
+        - 500A(1) The Minister may refuse to grant to a person a temporary safe haven visa ... if, in the Minister's opinion (a) the person has or has had an association with someone else, or with a group or organisation, whom the Minister reasonably suspects has been or is involved in criminal conduct...
+    - Limited review
+      - NOT open-ended review for ‘correctness’
+      - Minister for Immigration and Citizenship v SZMDS (2010) 240 CLR 611, 625
+        - critical question in reviewing the formation of a state of mind jurisdictional fact requirement is “whether the determination was irrational, illogical and not based on findings or inferences of fact supported by logical grounds.”
+      - Potential grounds:
+        - Unreasonableness / illogicality
+        - Bad faith
+        - Improper purpose
+        - Considerations grounds
+    - Djokovic v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs (2022) 289 FCR 21
+      - Facts
+        - The Minister cancelled tennis player Djokovic’s visa on being “satisfied” his presence in Australia may be a risk to health, safety and good order due to promoting anti-vaccination
+        - Djokovic argued that the decision was affected by jurisdictional error because the state of satisfaction was reached illogically in failing to take into account the risk cancellation would encourage anti-vax sentiment
+      - Issue
+        - Was the Minister’s state of satisfaction unreasonably formed?
+          - No
+      - Decision
+        - The satisfaction of the Minister is not an unreviewable personal state of mind. 
+        - The law is clear as to what is required. If, upon review by a court, the satisfaction is found to have been reached unreasonably or was not capable of having been reached on proper material or lawful grounds, it will be taken not to be a lawful satisfaction for the purpose of the statute (at [21])
+        - As a statutory jurisdictional condition or jurisdictional fact, the satisfaction … must be reached on a legally reasonable basis (at [25])
+        - Ultimately, the question is whether the satisfaction of the relevant state of affairs or matter was irrational, illogical or not based on findings or inferences of fact supported by logical grounds (at [35])
+  - 5. ADJR Act equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+      - (c) that the person who purported to make the decision did not have jurisdiction to make the decision;
+      - (d) that the decision was not authorized by the enactment in pursuance of which it was purported to be made;
+- Ebner v Official Trustee in Bankruptcy; Clenae Pty Ltd v Australia and New Zealand Banking Group Ltd
+  - Procedural History:
+    - Two appeals were heard jointly by the High Court. In Ebner, a judge disclosed holding an indirect shareholding in a bank creditor during proceedings. In Clenae, the judge inherited shares in the plaintiff bank after the trial concluded but before judgment was delivered. In both cases, disqualification for apprehended bias was argued and rejected (Kirby J dissenting in Clenae).
+  - Facts:
+    - In Ebner, the judge disclosed an interest (via a family trust) in a bank involved in bankruptcy proceedings. The value of the interest was unaffected by the outcome. In Clenae, the judge did not disclose inheriting ANZ shares during judgment delivery in a case involving the bank. One of the bank’s key witnesses had died post-trial, raising the issue of necessity in finalising judgment.
+  - Legal Issue:
+    - Whether a judge is disqualified under the apprehended bias principle due to a minor or indirect financial interest in a party to litigation.
+  - Decision:
+    - The High Court held that neither judge was disqualified under the apprehended bias principle. The appearance of bias was not established in either case. In Clenae, necessity further justified the judge’s continuation.
+  - Ratio Decidendi:
+    - A judge is disqualified only if a fair-minded lay observer might reasonably apprehend that the judge might not bring an impartial mind to the case. A bare financial interest, without a logical connection to the feared deviation from impartiality, is insufficient. There is no automatic disqualification for minor pecuniary interests unless a real possibility of bias is shown
+  - Significance:
+    - This case sets the modern Australian test for apprehended bias. It rejects the automatic disqualification rule for financial interests (except where those interests are substantial and logically connected to the outcome). It confirms the two-step test for apprehended bias and applies across all courts under Ch III of the Constitution. The decision is a leading authority on judicial impartiality in administrative and judicial decision-making contexts.
+- Jia v Minister for Immigration and Multicultural Affairs (1998) 84 FCR 87, 107 (French J)
+  - Procedural History:
+    - The Minister cancelled the applicant’s visa and declared him an excluded person under ss 501 and 502 of the Migration Act 1958 (Cth). This occurred despite the Administrative Appeals Tribunal (AAT) previously finding that Mr Jia was of “good character” and directing a visa be granted. Mr Jia sought judicial review in the Federal Court, alleging actual bias, jurisdictional error, and improper exercise of power.
+  - Facts:
+    - Mr Jia, a Chinese national, was convicted of serious offences (including sexual assault) and sentenced to over six years in prison. Despite this, the AAT found he was of good character, citing mitigating factors and strong support from the community. The Minister, disagreeing with the AAT’s conclusion, granted the visa and then cancelled it under s 501, also declaring Mr Jia an excluded person under s 502. Mr Jia challenged the Minister’s decisions, alleging actual bias, errors of law, and inconsistency with the AAT's findings.
+  - Legal Issue:
+    - Whether the Minister’s decision was vitiated by actual bias.
+    - Whether the Minister erred in law in interpreting “good character” (s 501) and “national interest” (s 502).
+    - Whether the Minister’s decision was an improper exercise of power, especially in light of the AAT’s prior decision.
+    - Whether ss 501 and 502 permit a fresh ministerial decision on the same facts considered by the AAT.
+  - Decision:
+    - Application dismissed. The Court upheld the Minister’s actions and rejected all grounds of challenge.
+  - Ratio Decidendi:
+    - The actual bias ground failed as there was no evidence that the Minister was unable or unwilling to properly consider the merits of Mr Jia’s case, despite prior public statements.
+    - The Minister’s view of “good character” (under s 501) was not legally flawed, nor was it exercised via an improper policy.
+    - The Court rejected the argument that the AAT’s decision on the same facts precluded the Minister from acting under ss 501 and 502, noting the Minister’s personal power and accountability to Parliament under s 502.
+    - There was no improper purpose, even if the Minister’s actions effectively overturned the AAT's ruling.
+  - Significance:
+    - This case is a leading authority on the limits of judicial review under s 476 of the Migration Act. It draws a firm distinction between actual bias and apprehended bias, emphasising the heavy onus on applicants to prove the former. The case also confirms the breadth of the Minister’s personal power under ss 501 and 502, including the capacity to act independently of, and contrary to, AAT findings where national interest is invoked. It affirms that the Minister can consider broader policy issues (e.g. public confidence, social cohesion) in determining “national interest.”
+## Week 10: Errors in the exercise of discretion
+
+- Considerations grounds
+  - 1. Relevant and irrelevant considerations
+    - Relevant (mandatory)
+      - The term “relevant considerations” is widely misunderstood... [I]t refers to a matter which the decision-maker is bound to take into account. The obligation may derive from the express terms of the power-conferring statute or may be implied from its subject matter, scope and purpose. A preferable term would be “mandatory consideration”.
+      - Lo v Chief Commissioner of State Revenue (2013) 85 NSWLR 86, 89
+      - Criminal history
+    - Neutral (permitted)
+      - Between these two categories is usually a wide range of permissible considerations which the decision-maker may weigh or disregard without committing an error of law.
+      - Lo v Chief Commissioner of State Revenue (2013) 85 NSWLR 86, 89
+      - Experience
+      - Nationality
+      - Employment
+    - Irrelevant (prohibited)
+      - Further, a matter traditionally described as an “irrelevant consideration” is one which is prohibited because, having regard to the subject matter, scope and purpose of the power being exercised, it can be seen to reflect an extraneous or improper purpose or to render the decision arbitrary or capricious.
+      - Lo v Chief Commissioner of State Revenue (2013) 85 NSWLR 86, 89
+      - Marital status Age
+      - Religion Gender
+      - Political views
+  - 2. Determining relevance
+    - Express
+      - Relevant (mandatory)
+      - Migration Act 1958 (Cth) 
+        - 54(1) The Minister must, in deciding whether to grant or refuse to grant a visa, have regard to all of the information in the application.
+      - Irrelevant (prohibited)
+        - Migration Act 1958 (Cth) 
+          - 197C(1) For the purposes of section 198, it is irrelevant whether Australia has non-refoulement obligations in respect of an unlawful non-citizen.
+          - (2) An officer's duty to remove as soon as reasonably practicable an unlawful non- citizen under section 198 arises irrespective of whether there has been an assessment, according to law, of Australia's non-refoulement obligations in respect of the non-citizen.
+        - Freedom of Information Act 1982 (Cth)
+          - 11B(4) The following factors must not be taken into account in deciding whether access to the document would, on balance, be contrary to the public interest:
+            - (a) access ... could result in embarrassment to the Commonwealth…
+            - (b) access ... could result in any person misinterpreting or misunderstanding the document;
+            - (c) the author of the document was (or is) of high seniority ...;
+            - (d) access to the document could result in confusion or unnecessary debate.
+    - Implied
+      - Statutory construction
+        - Principles:
+          - statutory text, context and purpose
+          - subject matter of the statute
+          - nature of the power
+          - type of decision-maker
+        - Broad or narrow?
+          - Discretion: Broad discretion makes it more difficult to read in a requirement to consider specific considerations
+          - Purpose: Broad purpose (eg national interest) makes it more difficult to read in a requirement to consider specific factors personal to the applicant: 
+            - Minister for Immigration v Huynh (2004) 80 ALD 501, [74]
+    - Particular examples
+      - What types of matters are more or less likely to be considered relevant / irrelevant?
+    - Examples
+      - Content of submissions
+        - A requirement to consult usually implies a requirement to consider submissions resulting from the consultation: Peko-Wallsend Ltd
+      - Matters personal to the decision-maker
+        - “It will be seldom, if ever, that the extent of the power cannot be seen to exclude from consideration by a decision-maker all corrupt or entirely personal and whimsical considerations, considerations which are unconnected with proper governmental administration”: Murphyores 
+      - International obligations
+        - “unenacted international obligations... are not mandatory relevant considerations attracting judicial review for jurisdictional error”: Plaintiff M1 v Minister for Home Affairs [2022] HCA 17, [20]
+        - the Department was not prohibited from taking into account conformity with international law: Eve Hemp Pty Limited v Department of Health [2017] FCA 1051
+      - Political matters
+        - local government’s decision to sell its assets at a considerable undervalue for purely party political purposes: Porter v Magill [2002] 2 AC 357
+        - Minister’s refusal to consider setting up a statutory inquiry for political reasons: Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997
+        - impact of a decision on political fortunes: Hot Holdings Pty Ltd v Creasy (2002) 210 CLR 438, 455
+    - Minister for Aboriginal Affairs v Peko-Wallsend Ltd (1986) 162 CLR 24
+      - Facts
+        - The Minister was empowered to determine native title claims in relation to traditional land in the Northern Territory
+        - The Aboriginal Land Commissioner was required to prepare a report for the Minister including comment on detriment arising from an approved claim
+        - The Commissioner mistakenly indicated that Peko-Wallsend’s mine was only partly located on the land: Peko-Wallsend corrected this with the then-Minister
+        - The new Minister decided the case without reference to Peko’s submission
+      - Issue
+        - Had the Minister failed to consider a relevant consideration?
+          - Yes
+      - Decision
+        - When the Act specifically provides for the Commissioner to comment on the manner in which persons may be adversely affected by the making of a land grant, and provides the means whereby those comments are brought to the Minister's attention, there may readily be found in the subject-matter, scope and purpose of the Act an implication that the Minister is bound to take resultant detriment into account when making his decision....” (at 45)
+        - “Once it is accepted that the subject-matter, scope and purpose of the Act indicate that the detriment that may be occasioned by a proposed land grant is a factor vital to the exercise of the Minister's discretion, it is but a short and logical step to conclude that a consideration of that factor must be based on the most recent and accurate information that the Minister has at hand.” (at 44)
+  - 3. Taking considerations into account
+    - General
+      - Relevant (mandatory)
+        - Must be considered / taken into Account
+      - Irrelevant (prohibited)
+        - Must not be considered / taken into account
+    - Proof
+      - Reasons
+        - No common law right to reasons: Public Service Board (NSW) v Osmond (1986) 159 CLR 656
+        - Statutory right: ADJR Act s 13
+        - reasons should be read benignly, without “an eye keenly attuned to the perception of error”: Collector of Customs v Pozzolanic (1993) 43 FCR 280, 287
+        - may infer a decision-maker has not considered an issue if not mentioned: Minister for Immigration and Multicultural Affairs v Yusuf (2001) 206 CLR 323, 330
+        - a decision-maker need not canvass every point in reasons: Minister for Immigration and Citizenship v SZGUR (2011) 241 CLR 594, 605
+      - Inference
+        - eg the court may infer that a Minister has not read beyond a briefing summary document where the Minister:
+          - did not have enough time to have read the file
+          - did not back up a reasons statement with sworn evidence
+            - Tickner v Chapman (1995) 57 FCR 451; Minister for Aboriginal and Torres Strait Islander Affairs v Western Australia (1996) 67 FCR 40
+    - Weight
+      - Irrelevant (prohibited)
+        - Irrelevant consideration affects the decision – not every mention of an irrelevant consideration is fatal
+          - If it appears that the dominating, actuating reason for the decision is outside the scope of the purpose of the enactment, that vitiates the supposed exercise of the discretion.
+          - Klein v Domus Pty Ltd (1963) 109 CLR 467, 473
+        - It is true that a decision-maker may not take account of an irrelevant consideration; but I think he may pick up a red herring, turn it over and examine it, and then put it down, so long as he does not allow it to affect his decision.
+          - Australian Conservation Foundation Inc v Forestry Commission of Tasmania (1988) 19 FCR 127, 135
+        - BUT
+          - Even if the red herring doesn’t affect the decision, procedural fairness requires a decision-maker to disclose an allegation that is “credible, relevant and significant”: VEAL
+      - Relevant (mandatory)
+        - “it is generally for the decision-maker and not the court to determine the appropriate weight to be given to the matters which are required to be taken into account in exercising the statutory power”
+        - Minister for Aboriginal Affairs v Peko-Wallsend Ltd (1986) 162 CLR 24, 41
+        - HOWEVER
+          - The statute might stipulate the weight to be given to a factor
+          - Some cases may require the decision-maker to give ‘proper, genuine and realistic consideration’ to relevant factors: Minister for Immigration and Citizenship v SZMDS (2010) 240 CLR 611
+  - 4. ADJR Act equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+      - (e) that the making of the decision was an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made;
+      - 5(2) The reference in paragraph (1)(e) to an improper exercise of a power shall be construed as including a reference to:
+        - (a) taking an irrelevant consideration into account in the exercise of a power;
+        - (b) failing to take a relevant consideration into account in the exercise of a power;
+- Improper purpose
+  - 1. What is an ‘improper’ purpose?
+    - ‘Purpose’
+      - What is it?
+        - A decision-maker’s objective, goal or motivation
+        - What did Parliament intend the power to be used for?
+        - Why did the decision-maker exercise the power?
+      - Examples
+        - To further public health objectives
+        - To achieve efficient use of financial resources
+        - To protect the natural environment
+        - To minimise the impact of an activity on a community
+        - To promote market competition
+    - ‘Improper’
+      - Power may be used for purpose A
+        - ✔ Purpose A
+        - ✖ Purpose B 
+        - ✖ Purpose C 
+        - ✖ Purpose D
+      - Improper = unauthorised, ulterior
+  - 2. Identifying statutory purpose
+    - Express
+      - Migration Act 1958 (Cth) 
+        - 140X The powers of an inspector under this Subdivision may be exercised ... for the purpose of investigating whether a sponsorship obligation is being, or has been, complied with by a person who is or was an approved work sponsor...
+    - Implied
+      - Statutory construction
+        - Principles:
+          - statutory text, context and purpose
+          - subject matter of the statute
+          - nature of the power
+          - type of decision-maker
+        - Specific clues:
+          - objects clause?
+          - specific criteria to engage the power?
+          - broad discretion?
+          - scope of the power?
+    - Particular examples
+      - ‘Public interest’
+        - even a broad power to act ‘in the public interest’ is not wholly unconstrained
+        - breadth may be tempered by other forms of accountability (eg ministerial responsibility)
+      - Political context
+        - difficulties arise where the power is exercised in an overtly political context
+        - the courts may be reluctant to intervene
+        - compare Randwick City Council v Minister for the Environment (1998) 54 ALD 682 and Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997
+      - Complexity / polycentricity
+        - some statutory schemes are complex, with vague or conflicting purposes
+      - Plaintiff S4/2014 v Minister for Immigration and Border Protection (2014) 312 ALR 537
+        - Facts
+          - The plaintiff arrived in Australia by boat, and was therefore not allowed to apply for a visa without Ministerial approval (s 46A)
+          - The Minister held the plaintiff in detention for 2 yrs pending a decision under s 46A
+          - The Minister also had a power to grant a visa (s 195A) if ‘in the public interest’
+          - After meeting the relevant criteria, the Minister instead granted a ‘temporary safe haven’ visa under s 195A, which precluded the plaintiff from applying for a protection visa (s 91K)
+        - Issue
+          - Had the Minister used the s 195A visa power for an improper purpose?
+            - Yes
+        - Decision
+          - “When a person's detention is prolonged for the purpose of considering the exercise of the power to permit the detainee to make a valid application for a visa [under s 46A], s 195A(2) does not give power to the Minister to grant a visa which, in effect, forbids the very thing which was the subject of uncompleted consideration warranting prolongation of the period of detention” (at [47])
+          - “[T]he Minister cannot exercise other powers under the Act in a manner which would defeat the Minister's consideration of the exercise of power under s 46A ... It follows that it is not open to the Minister to detain the plaintiff for any purpose other than the determination, as soon as reasonably practicable, of whether to permit the plaintiff to make a valid application for a protection visa” (at [58])
+      - Proving purpose 
+        - Assessed subjectively
+          - “An improper purpose will not lightly be inferred” – Industrial Equity Ltd v Deputy Commissioner of Taxation (1990) 170 CLR 649, 672
+        - Evidence
+          - Express statement of reasons
+          - Evidentiary processes (eg discovery and interrogatories)
+          - Evidentiary inferences from conduct or documents
+        - Multiple decision-makers
+          - eg Council decisions
+          - evidence from individual members (eg cross-examination)
+          - consider the number with improper purposes (eg voting majority)
+      - Weight
+        - Possible formulations
+          - What was the “true” or “dominant” purpose?
+          - Was the purpose “critical” to the outcome?
+          - Was the purpose “substantial”, in the sense that the decision would not otherwise have been made?
+        - Current test
+          - ask whether “the decision would obviously have been no different in the absence of the error”: East Melbourne Group Inc v Minister for Planning (2008) 23 VR 605, 683
+            - Note the JE link!
+        - Multiple purposes
+          - Schlieske v Minister for Immigration and Ethnic Affairs (1988) 84 ALR 719
+          - Samrein Pty Ltd v Metropolitan Water Sewerage and Drainage Board (1982) 41 ALR 467
+        - Schlieske v Minister for Immigration and Ethnic Affairs (1988) 84 ALR 719
+          - Facts
+            - Mr Schlieske was a West German national who had outstanding warrants in West Germany
+            - The Australian government had tried to extradite him on two occasions
+            - The Minister signed a deportation order on the basis that Mr Schlieske was a prohibited non-citizen
+          - Issue
+            - Had the deportation power been used for an improper purpose?
+              - Yes
+          - Decision
+            - “The relevant principle is that the power to deport a prohibited non-citizen, while wide and unqualified by any statutory condition, must be exercised for the purposes of the Migration Act, that is to say, in aid of the sovereign right of this country to determine who shall be permitted to enter it and who should be excluded therefrom” (at 729)
+            - “[W]hatever the relevance of allegations to the question whether the prohibited person is one who ought to be deported from Australia, it is plainly extraneous to the decision to deport a person, and to deport that person to a particular country, that the person is wanted by the government of that country upon criminal charges. It is not one of the purposes of the Migration Act to aid foreign powers to bring fugitives to justice” (at 729)
+        - Samrein Pty Ltd v Metropolitan Water Sewerage and Drainage Board (1982) 41 ALR 467
+          - Facts
+            - The Board had a statutory power to compulsorily acquire land for ‘any purpose of the Act’
+            - The Board acquired land owned by the plaintiff for the purpose of a joint venture with GIO, pursuant to which GIO would finance the development and they would share the building
+          - Issue
+            - Had the acquisition power been used for an improper purpose?
+              - No
+          - Decision
+            - The Board obviously needed to provide office accommodation for the future. Its object in acquiring the land was to provide such accommodation. It did not acquire more land than it needed for the building in which the office accommodation was to be provided... It is true to say that it acquired more land than it would have needed had it decided to build a smaller and different building, but the owner of land the subject of a proposed resumption is not entitled to say that the resuming authority could get by with a smaller building or a building of different construction.
+            - The proper conclusion is that the Board's proposed acquisition was for the purpose of acquiring a city block on which it could erect a building in which it would provide accommodation for its own employees. The joint venture with GIO was simply a means to that end
+  - 3. Identifying actual purpose
+  - 4. ADJR Act equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+      - (e) that the making of the decision was an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made;
+      - 5(2) The reference in paragraph (1)(e) to an improper exercise of a power shall be construed as including a reference to:
+      - (c) an exercise of a power for a purpose other than a purpose for which the power is conferred
+- Fettering discretion
+  - 1. What is fettering?
+    - When Parliament confers a discretionary power ... such power must be exercised on each occasion in the light of the circumstances at that time. In consequence, the person on whom the power is conferred cannot fetter the future exercise of his discretion by committing himself now as to the way in which he will exercise his power in the future…
+      - R v Secretary of State for the Home Department, ex parte Venables [1998] AC 407, 496
+    - Limits on Executive power to confine the exercise of discretion
+      - Blindly applying a policy
+      - Blindly following a direction
+  - 2. Inflexible application of policy
+    - Benefits of policy
+      - There are powerful considerations in favour of a Minister adopting a guiding policy. It can serve to focus attention on the purpose which the exercise of the discretion is calculated to achieve, ... and the integrity of decision-making in particular cases is the better assured if decisions can be tested against such a policy. By diminishing the importance of individual predilection, an adopted policy can diminish the inconsistencies which might otherwise appear in a series of decisions, and enhance the sense of satisfaction with the fairness and continuity of the administrative process
+        - Re Drake and Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 634, 640 (Brennan J)
+      - Merits-> <-Policy
+        - [C]onsistency is not preferable to justice
+          - Drake and Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 634, 645
+    - Limits on use of policy
+      - Lawful application of policy
+        - (a) The policy itself must be lawful (ie consistent with the statute)
+        - (b) The policy must not be applied inflexibly (ie decision-maker must consider the merits)
+        - (c) Rule is context specific (ie consider the nature of the policy and decision-maker)
+      - (a) Lawful?
+          - Must be consistent with the statutory scheme (eg cannot alter purpose of the statute)
+          - Must not prohibit consideration of a relevant consideration
+          - Must not require consideration of an irrelevant consideration
+      - (b) Flexible?
+        - Flexibility could mean…
+          - inviting comment on why the policy rule should not be applied: Stringer v Minister of Housing and Local Government [1970] 1 WLR 1281, 1298
+          - allowing submissions from someone who claims to have something new to say: R (Gujra) v Crown Prosecution Service [2013] 1 AC 484, 506
+          - allowing submissions from someone who claims that their case is exceptional: R v Torbay Licensing Justices; Ex parte White [1980] 2 All ER 25 
+        - Green v Daniels (1977) 13 ALR 1
+          - Facts
+            - The Commonwealth Employment Service could approve benefits to a person who was “unemployed” and had “taken reasonable steps to obtain... work”
+            - Green lodged an application after leaving school at 16 at the end of a school year
+            - The CES refused her application based on its policy (applied ‘as a general rule’) not to approve payments to school leavers until the commencement of the next term
+            - The policy was intended to avoid students accessing benefits over school holidays
+          - Issue
+            - Was the policy consistent with the statute?
+            - If so, had the policy been applied with proper regard to the merits?
+              - No
+          - Decision
+            - The criteria ... of being “unemployed” and of having “taken reasonable steps to obtain such work”, have had superimposed upon them a requirement which prevents them from being satisfied by any school leaver during the school holidays, a period of about three months, and which, in effect, renders them inoperative during that period. (at 9)
+            - Whatever hint of flexibility and of room for consideration of exceptional cases may be thought to be conveyed by the Manual's use of the phrase “as a general rule” ... the application of the general rule to the plaintiff contained no suggestion of anything other than an inflexible rule, a rule which prevented her from being considered for unemployment benefit at any time prior to [the next school term] (at 7)
+      - (c) Context?
+        - Weight accorded to policy
+          - Some policies carry more weight than others (eg Ministerial policy or policy tabled in Parliament): Re Drake
+          - These are subject to other forms of accountability scrutiny
+        - Impact of decision-making context
+          - Extent to which an independent body should apply government policy depends on:
+            - nature of the decision-maker
+            - nature of the powers to be exercised
+            - connection between policy, decision-maker and functions
+              - Rendell v Release on Licence Board (1987) 10 NSWLR 499, 504-05
+        - Rendell v Release on Licence Board (1987) 10 NSWLR 499
+          - Facts
+            - The Board was required to make recommendations on release of prisoners
+            - The statute identified the period of time spent in custody was a relevant factor
+            - The executive government stated that it would not recommend release of life prisoners unless they had served 10 years in jail
+            - Rendell applied for release while serving a life sentence for murder, after serving 8 years in prison and was refused as the Board had adopted the executive policy
+          - Issue
+            - Had the Board applied the policy inflexibly?	
+              - Yes
+          - Decision
+            - There is no absolute rule that the body must ignore known government policy. On the other hand, it must not be so influenced by that policy that it fails to perform its own functions, as the statute contemplated. (at 505)
+            - Applying these rules to the facts of the present case, we conclude that the Board did not simply take the government's stated policy into account but decided to apply it because it felt it had no alternative... Nothing in the statute warrants such an absolute rule. Such a rule effectively disentitles from consideration for liberty all life prisoners who have served less than ten years, and prevents individualised decisions in particular cases. We do not think it can be justified under the Act or that it is consistent with the duty which the Act imposes on the Board in the exercise of its powers. (at 505-05)
+    - Link to other grounds
+      - Departure from policy without warning may potentially engage an obligation of procedural fairness: Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Lam (2003) 214 CLR 1
+      - A policy may constitute a relevant consideration: Minister for Immigration v Gray (1994) 50 FCR 189
+      - (Possibly) unreasonably inconsistent treatment of cases: MLC Investments Ltd v Commissioner of Taxation (2003) 137 FCR 288
+  - 3. Acting under dictation
+    - Statutory scheme
+      - Express permission to consider (or not consider) direction from another:
+        - to consult with a Minister or superior body
+        - to take into account a recommendation with a Minister or superior body
+        - not to take into account the views of a Minister or superior body (ie irrelevant considerations)
+    - Character of the decision-maker
+    - Character of the power
+    - Relationship
+    - Bread Manufacturers of New South Wales v Evans (1981) 180 CLR 404
+      - Facts
+        - The Prices Commission was empowered to make an order setting maximum sale prices for products
+        - The Minister had the power to veto a price order
+        - The Commission consulted with the Minister prior to making an order setting maximum sale prices for bread in NSW
+      - Issue
+        - Had the Commission acted under dictation?
+          - No
+      - Decision
+        - The Commission is the body entrusted with power to fix the price, and its decision must be its own. If it acted under pressure exerted by the Minister, or simply gave automatic effect to a decision of the Minister, the decision would not then really be that of the Commission but would be that of the Minister. It does not follow that it was impermissible for the Commission to consider the views of the Minister in coming to its decision. (at 418)
+        - It would be a futility for the Commission to make an order which it knew that the Minister would veto, and it would therefore not be wrong for the Commission... to take into account the Minister's views... There is obviously a fine line between a case in which the Commission automatically obeys a ministerial pronouncement, and that in which it decides for itself to grant the largest increase in price that the Minister will not veto. The fact that the Minister has a statutory power of veto makes the case an exceptional one (at 419)
+    - CPCF v Minister for Immigration and Border Protection (2015) 255 CLR 514
+      - Facts
+        - Maritime officers were authorised to detain persons in Australia’s contiguous zone and take them to a place inside or outside Australia (s 72(4))
+        - An Indian vessel carrying asylum seekers was intercepted, and in accordance with a decision of the National Security Committee of Cabinet, maritime officers carried passengers towards India
+      - Issue
+        - Had the maritime officers acted under dictation?
+          - No
+      - Decision
+        - [This matter is] appropriate for decision at the highest levels of government... The power conferred upon maritime officers... is a power in the exercise of which they could properly regard the direction of the [Cabinet] as decisive and which, as officers of a disciplined service subject ultimately to civilian control, they are bound to implement (at [38] per French CJ)
+        - [A] maritime officer who acts in accordance with superior orders is not acting contrary to the requirements of s 72(4)... [T]he maritime officer who had detained the plaintiff was obliged to obey the orders of the Executive Government... [T]he terms of s 72(4)... do not suggest that a maritime officer given such an order is obliged, or even permitted, to exercise an independent discretion in such a case; rather, the terms of s 72(4) facilitate the execution by the maritime officer of orders received through the chain of command (at [473] per Kiefel J)
+  - 4. ADJR Act equivalent
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+        - (e) that the making of the decision was an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made;
+      - 5(2) The reference in paragraph (1)(e) to an improper exercise of a power shall be construed as including a reference to:
+        - (e) an exercise of a personal discretionary power at the direction or behest of another person; and
+        - (f) an exercise of a discretionary power in accordance with a rule or policy without regard to the merits of the particular case
+- Unreasonableness, irrationality and bad faith
+  - 1. Unreasonableness and irrationality
+    - Parliamentary intention
+      - [W]hen a discretionary power is statutorily conferred on a repository, the power must be exercised reasonably, for the legislature is taken to intend that the discretion be so exercised.
+      - Kruger v The Commonwealth (1997) 190 CLR 1 at 36
+    - Public law unreasonableness
+      - Public law
+        - Has the decision-maker stepped outside their jurisdiction?
+          - Legality
+      - Private law (eg negligence)
+        - Has the defendant fallen short of a reasonable standard?
+          - Merits
+      - Properly applied, a standard of legal reasonableness does not involve substituting a court’s view as to how a discretion should be exercised for that of a decision-maker.
+        - Minister for Immigration and Citizenship v Li (2013) 249 CLR 332, [68]
+    - A variable standard
+      - Expressions of “unreasonableness”
+        - A decision “so absurd that no sensible person could ever dream that it lay within the powers of the authority”: Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223, 229
+        - a decision that lacks “an evident and intelligible justification”: Li at [76]
+        - A decision-maker cannot be authorised to reach a decision that is “arbitrary or capricious or to abandon common sense” Li at [28]
+        - A decision-maker should confine themselves to limits that are “legal and regular, not arbitrary, vague and fanciful”: Sharp v Wakefield [1891] AC 173 at 179
+      - Varies according to statutory context
+        - The legal standard and indicia of legal unreasonableness will need to be found in the scope, subject and purpose of the particular statutory provisions: Li at [67]
+        - Some statutes might prescribe a standard different to the generic common law ground:
+          - The standard might be more demanding if a power is specifically required to be exercised on “reasonable grounds”
+          - The standard might be less demanding if the power specifically indicates the only criterion is good faith
+            - Minister for Immigration v SZVFW (2018) 264 CLR 541 at [53] (Gageler J)
+    - Process v outcomes?
+      - Process
+        - Review by a court of the reasonableness of a decision made by another repository of power “is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process”
+          - Minister for Immigration and Citizenship v Li (2013) 249 CLR 332, [105]
+        - Examples:
+          - Arbitrary reasoning process (eg tossing a coin)
+          - Illogical or irrational reasoning process
+        - -- Ground does not apply where the flaw could not have made a difference to the outcome: SZMDS –
+          - Note connection to jurisdictional error
+      - Outcomes
+        - [A]n inference of unreasonableness may in some cases be objectively drawn even where a particular error in reasoning cannot be identified” (at [68]) 
+        - “the result itself bespeaks error” (at [85])
+          - Minister for Immigration and Citizenship v Li (2013) 249 CLR 332
+        - Examples:
+          - Decision cannot logically be supported by the available evidence
+          - Conclusion defies common sense
+        - Irrelevant considerations
+        - Relevant considerations 
+        - No evidence 
+        - etc.
+    - Establishing the ground	
+      - High bar
+        - A very difficult ground to make out
+        - “Not every lapse of logic will give rise to jurisdictional error. A Court should be slow, although not unwilling, to interfere in an appropriate case”: SZMDS
+      - Not merits review
+        - The court needs to be cautious to avoid review of the merits of an exercise of discretionary power: Li
+      - Review of reasons
+        - Reasons are not reviewed with a fine-toothed comb to confirm error: Wu Shan Liang
+        - The more peculiar a finding is, the more important it will be for a decision-maker to explain it (ie unreasonableness is more likely to be made out where there is a bizarre unexplained decision): Li
+      - Minister for Immigration and Citizenship v Li (2013) 249 CLR 332
+        - Facts
+          - The Minister’s delegate refused Ms Li’s visa application on the basis that her skills assessment included untrue information
+          - Ms Li applied for review by the Migration Review Tribunal and applied for a second skills assessment application
+          - The second skills assessment application came back with an unfavourable result while the Tribunal decision was pending
+          - Ms Li sought review of the second assessment and asked the Tribunal to wait on that result – the Tribunal refused as she’d had ‘enough opportunities’
+        - Issue
+          - Had the Tribunal exercised its powers unreasonably?
+            - Yes
+        - Decision
+          - The decision of the MRT to proceed to its determination was not, on the face of it, informed by any consideration other than the asserted sufficiency of the opportunities provided to the first respondent to put her case. The MRT did not in terms or by implication accept or reject the substance of the reasons for a deferment put to it by the first respondent’s migration agent. It did not suggest that the first respondent’s request for a deferment was due to any fault on her part or on the part of her migration agent.
+          - It did not suggest that its decision was based on any balancing of the legislative objectives set out in s 353. Its decision was fatal to the first respondent’s application. There was in the circumstances, including the already long history of the matter, an arbitrariness about the decision, which rendered it unreasonable in the limiting sense explained above. (at [31])
+    - Examples
+      - Capricious exercise of power (impulsive and/or whimsical): Edelsten v Wilcox (1988) 15 ALD 546
+      - Failure to make an obvious inquiry about a critical fact: Minister for Immigration and Citizenship v SZIAI (2009) 111 LAD 15
+      - Irrational fact-finding: Minister for Immigration and Citizenship v SZMDS (2010) 240 CLR 611, 625
+      - Misunderstanding a critical inquiry (eg adverse credibility finding based on an unsupported assumption): Minister for Immigration and Citizenship v SZRKT (2013) 212 FCR 99
+      - Making an irrational assumption: Schmidt v Minister for Immigration and Border Protection (2018) 162 ALD 495
+      - Irrational treatment of relevant considerations: Minister for Immigration and Citizenship v SZJSS (2010) 243 CLR 164, 174–176
+      - Inconsistency suggesting capriciousness: Sunshine Coast Broadcasters Ltd v Duncan (1988) 15 ALD 525
+    - Merges into other grounds
+      - [Dismissing a] redhaired teacher ... because she had red hair ... is unreasonable in one sense. In another sense it is taking into consideration extraneous matters. It is so unreasonable that it might almost be described as being done in bad faith; and, in fact, all these things run into one another.
+        - Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223, 229
+  - 2. Bad faith
+    - Type of fault
+      - Personal fault
+        - “[A]n allegation of bad faith is a serious matter involving personal fault on the part of the decision maker”: SBBS at [43]
+        - “[T]here are many ways in which bad faith can occur and it is not possible to give a comprehensive definition”: SBBS at [43]
+        - “[T]he presence or absence of honesty will often be crucial”: SBBS at [43]
+      - Intention or recklessness?
+        - “[I]t is not necessary to demonstrate that the decision- maker knew the decision was wrong. It is sufficient to demonstrate recklessness in the exercise of the power”: SBBS at [48]
+        - “[R]eckless indifference may be the equivalent of intent. But ... [the] inquiry is directed to the actual state of mind of the decision-maker. There is no such thing as deemed or constructive bad faith”: Minister for Immigration v SBAN [2002] FCAFC 431, [8]
+        - “Bad faith cannot be constituted by recklessness in the sense of negligence, no matter how gross the negligence. A tribunal member cannot blunder into bad faith”: NAKF v Minister for Immigration (2003) 130 FCR 210, 219
+    - Not reasoning errors
+      - More than a reasoning error
+        - “[M]ere error or irrationality does not of itself demonstrate lack of good faith”: SBBS at [45]
+        - “Bad faith is not to be found simply because of poor decision-making. It is a large step to jump from a decision involving errors of fact and law to a finding that the decision-maker did not undertake its task in a way which involves personal criticism”: SBBS at [45]
+        - “[E]rrors of fact or law and illogicality will not demonstrate bad faith in the absence of other circumstances which show capriciousness”: SBBS at [46]
+    - High bar
+      - “[T]he allegation is not to be lightly made and must be clearly alleged and proved”: SBBS at [43]
+      - “[T]he circumstances in which the Court will find an administrative decision-maker had not acted in good faith are rare and extreme. This is especially so where all that the applicant relies upon is the written reasons for the decision under review”: SBBS at [44]
+    - Relevance?
+      - Very difficult to establish
+      - Other grounds more likely to be established in similar circumstances (eg improper purpose, apprehended bias)
+      - More likely to be argued where other grounds of review are excluded (eg privative clause)
+  - 3. ADJR Act equivalents
+    - Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - 5(1) A person who is aggrieved by a decision to which this Act applies ... may apply ... for an order of review in respect of the decision on any one or more of the following grounds:
+        - (e) that the making of the decision was an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made;
+      - 5(2) The reference in paragraph (1)(e) to an improper exercise of a power shall be construed as including a reference to:
+        - (d) an exercise of a discretionary power in bad faith;
+        - …
+        - (g) an exercise of a power that is so unreasonable that no reasonable person could have so exercised the power;
+- Bringing it together: grounds of review and jurisdictional error
+  - 1. Quick review of grounds
+    - Simple ultra vires
+      - eg acting without any available power
+    - Procedural error
+      - eg not providing a notice specified by the statute
+    - Delegation errors
+      - eg wrong official is exercising the power
+    - Fair hearing rule
+      - eg not giving notice of adverse material
+    - Bias rules
+      - eg decision-maker has a possible vested interest in the outcome
+    - No evidence
+      - eg no supporting evidence
+    - Jurisdictional facts
+      - eg wrong conclusion on an essential factual precondition
+    - Considerations
+      - eg basing decision on a matter the statute treats as irrelevant
+    - Improper purpose
+      - eg acting for a different purpose than Parliament intended
+    - Fettering discretion
+      - eg blindly applying a government policy
+    - Unreasonableness
+      - eg adopting a seriously irrational reasoning process
+    - Bad faith
+      - eg dishonest abuse of power
+  - 2. Grounds as (jurisdictional) errors
+    - Established ground ≠ Jurisdictional error
+      - Failing to follow a statutory procedure (eg giving notice)
+        - Error of law
+        - Jurisdictional error
+    - Did Parliament intend invalidity?
+      - Did Parliament intend invalidity?
+        - Statutory interpretation
+          - ie did Parliament intend this to be an essential condition for validity? 
+          - Text: Consider language of provisions (eg may v must?). Broad or narrow discretion? Is there a “no-invalidity” clause?
+          - Context: consider the structure of the regulatory scheme as a whole. Is JE consistent with other statutory provisions? What is the decision-making context (eg is it a context requiring urgent decisions?)
+          - Purpose: objects clause, purposive criteria? eg focus on individual rights v protection of national interest?
+        - Assessment of materiality
+          - ie Parliament does not intend for trivial breaches to undermine validity
+          - Less likely to be material
+            - technical or trivial errors
+            - the outcome was “inevitable” – ie the error could not have made a difference
+            - decision supported by two independent bases, where only one affected by error (eg Hossain)
+          - More likely to be material
+            - Procedural fairness: generally a realistic possibility of a different outcome if procedural fairness is denied: Nathanson
+            - Bias: “inherently” material: MZAPC
+            - Unreasonableness: “inherently” material: MZAPC
+            - Grounds that address impact: No evidence applies to “critical” step, improper purpose asks whether the outcome would have been “no different”, irrelevant considerations not made out if the red herring does not “affect” the decision
+    - Established ground of review (eg irrelevant considerations)
+      - Did Parliament intend invalidity?
+        - Statutory interpretation
+        - Assessment of materiality
+        - Yes -> Jurisdictional error
+        - No -> Error of Law
+  - 3. Why is this important?
+    - Access to remedies
+      - Prohibition
+        - Non-jurisdictional error? 
+          - ✖ See Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82
+      - Mandamus
+        - Non-jurisdictional error? 
+          - ✖ See Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82
+      - Certiorari
+        - Non-jurisdictional error? 
+          - Error of law on the face of the record – ✔
+            - see Craig v South Australia (1995) 184 CLR 163
+          - Ancillary to prohibition or mandamus – ✖ 
+            - see Re Minister for Immigration and Multicultural Affairs; Ex parte Durairajasingham (2000) 58 ALD 609, 617
+          - Privative clause – ✖ 
+            - can oust power to issue relief for non-jurisdictional error whether or not on the record
+      - Injunction
+        - Non-jurisdictional error? 
+          - See S157/2002 v Commonwealth (2003) 211 CLR 476, 512-13  - ✔ 
+          - eg decisions affected by fraud  (not a general invitation to access these remedies for any ground of review)
+      - Declaration
+        - Non-jurisdictional error? 
+          - See S157/2002 v Commonwealth (2003) 211 CLR 476, 512-13  - ✔ 
+          - eg decisions affected by fraud  (not a general invitation to access these remedies for any ground of review)
+      - ADJR Act
+        - Non-jurisdictional error? 
+          - ✔ No restriction in the ADJR Act
+          - ✖ Privative clause – can effectively remove ADJR Act jurisdiction
+    - Privative Clauses
+      - [Section 75 of the Constitution], and specifically s 75(v), introduces into the Constitution of the Commonwealth an entrenched minimum provision of judicial review... The provision of the constitutional writs and the conferral upon this Court of an irremovable jurisdiction to issue them to an officer of the Commonwealth constitutes a textual reinforcement... of the rule of law.
+      - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476, 512-13
+    - 
+Jurisdiction
+Removable
+Rationale
+Constitutional
+jurisdiction
+HCA – s 75(v)
+FCA – s 39B
+✖ (in theory
+Parliament
+could amend
+the Judiciary
+Act)
+- Parliament cannot remove the HCA’s “entrenched minimum” jurisdiction to review for jurisdictional error
+- Privative clauses generally read down so they only exclude HCA / FCA review for non-jurisdictional errors – Plaintiff S157
+Statutory
+jurisdiction
+FCA and FCFCA
+– ADJR Act
+✔
+- FCA, FCFCA and ADJR Act are creatures of statute
+- What Parliament gives it can take away
+NSWSC –
+inherent
+jurisdiction
+✖
+- Constitution requires there to be a ‘Supreme Court of a State’
+- A defining characteristic of a Supreme Court is the power to review for jurisdictional error - Kirk v Industrial Court (NSW)
+## Week 11: Delegated Legislation
+
+- What is delegated legislation?
+  - 1. What is it?
+    - “instruments that lay down general rules of conduct affecting the community at large which have been made by a body expressly authorised so to act by an Act of Parliament”
+      - Pearce and Argument, Delegated Legislation in Australia (2017, 5th ed) 2 
+      - = Legislative instruments made by the Executive branch (or sometimes the Courts, eg court rules)
+    - Examples:
+      - Regulations 
+      - Statutory rules 
+      - By-laws 
+      - Ordinances
+  - 2. Breach of the separation of powers?
+    - Legislative 
+      - Making the law
+    - Executive 
+      - Administering Government according to law
+    - Judicial
+      - Interpreting the law and resolving disputes
+    - Parliament can vest legislative power in executive bodies
+    - However, Parliament cannot “abdicate” its powers of legislation
+      - Victorian Stevedoring v Dignan (1931) 46 CLR 73
+  - 3. Benefits and drawbacks
+    - Positives 
+      - Saves parliamentary time
+      - Suitable for rapidly changing or uncertain situations (eg emergencies)
+      - Suitable for highly technical legislation (eg scientific matters)
+      - Allows bodies with knowledge and expertise to create self-governing rules (eg Universities)
+    - Negatives
+      - Transfers power away from elected representatives that represent the people
+      - Shifts the constitutional balance between branches of government
+      - Circumvents the parliamentary transparency and scrutiny processes
+  - 4. What are we challenging?
+    - Parliament -> Administrative power (eg cancel a licence) -> Minister -> Decision to cancel a license <- Minister <- Administrative power (eg cancel a license) <- Executive <- Legislative power (eg to make regs) <- Parliament
+      - Executive X -> Judicial review of Delegated legislation
+      - Decision to cancel a license X -> Judicial review of Delegated legislation
+      - Parliament X -> Invalidates everything!
+      - Executive X -> Invalidates regulations + decision
+      - Decision to cancel a license X -> Invalidates decision
+    - Primary legislation
+      - ie Acts
+      - X Judicial review of legislation (constitutional law)
+    - Delegated legislation
+      - eg regs, statutory rules, ordinances, by-laws etc
+        - A
+          - Non-judicial accountability mechanisms
+        - B
+          - Judicial review of delegated legislation
+    - Non-legislative instruments
+      - eg departmental guidelines, policies: soft law
+        - C
+          - Judicial review of administrative decisions
+          - Argue unlawful use of soft law, eg decision based on a policy that’s inconsistent with the statute, inflexible application of policy, no warning of plans to depart from policy (procedural fairness)
+- Non-judicial review mechanisms
+  - 1. Which instruments?
+    - Commonwealth
+      - Legislation Act 2003 (Cth)
+        - ‘Legislative instrument’
+          - 8(4) An instrument is a legislative instrument if:
+            - (a) the instrument is made under a power delegated by the Parliament; and
+            - (b) any provision of the instrument:
+              - (i) determines the law or alters the content of the law, rather than determining particular cases or particular circumstances in which the law ... is to apply, or is not to apply; and
+              - (ii) has the direct or indirect effect of affecting a privilege or interest, imposing an obligation, creating a right, or varying or removing an obligation or right.
+    - NSW
+      - Subordinate Legislation Act 1989 (NSW)
+        - ‘Statutory rule’
+          - 3 statutory rule means a regulation, by-law, rule or ordinance:
+            - (a) that is made by the Governor, or
+            - (b) that is made by a person or body other than the Governor, but is required by law to be approved or confirmed by the Governor, 
+          - but does not include any instruments specified or described in Schedule 4 [ie standing rules and orders of parliament, Court rules, university by-laws etc]
+  - 2. Mechanisms for control and review
+    - Consultation
+      - Requirement
+        - Commonwealth:
+          - Must be satisfied that there has been appropriate consultation as is reasonably practicable: s 17(1)
+          - May include consultation with persons affected and persons with relevant expertise 
+        - NSW:
+          - Must ensure consultation with appropriate representatives of persons likely to be affected: s 5
+          - Must not present a rule for registration without a Regulatory Impact Statement (RIS): ss 5-7
+          - RIS highlights legislative objectives, weighs costs-benefits and confirms consultation: Sch 2
+      - Consequence?
+        - Failure to comply does not affect validity: s 19 (Cth) and s 9 (NSW)
+    - Registration 
+      - Requirement
+        - Commonwealth:
+          - Legislative instruments must be lodged for registration: s 15G
+        - NSW:
+          - Statutory rules must be published on the NSW legislation website: Interpretation Act 1987 (NSW) s 39
+      - Consequence?
+        - Commonwealth:
+          - Legislative instrument “not enforceable by or against any person” unless registered: s 15K(1)
+        - NSW:
+          - Failure to publish does not affect validity, but does affect commencement date: Interpretation Act 1987 (NSW) s 39(2A)
+    - Tabling
+      - Requirement
+        - Commonwealth:
+          - Registered legislative instruments must be tabled before each House within 6 sitting days of registration: s 38(1)
+        - NSW:
+          - Notice of a statutory rule must be tabled before each House within 14 sitting days of publication: Interpretation Act 1987 (NSW) s 40(1)
+      - Consequence?
+        - Commonwealth:
+          - Instrument is treated as repealed if not tabled: s 38(3)
+        - NSW:
+          - Failure to lay notice does not affect validity (but must still be done): Interpretation Act 1987 (NSW) s 40(4)
+    - Parliamentary scrutiny
+      - 
+      - Senate Standing Committee for the Scrutiny of Delegated Legislation
+        - Senate Order 23
+          - Scrutinise all legislative instruments:
+            - in accordance with statute?
+            - constitutionally valid?
+            - lack of consultation?
+            - unduly trespasses on personal rights/liberties?
+            - excludes independent review?
+            - more appropriate for legislation?
+        - NSW Legislative Council Regulation Committee
+          - Legislation Review Act 1987 (NSW) s 9
+            - Scrutinise all instruments subject to disallowance:
+              - unduly trespasses on personal rights/liberties?
+              - adverse impact on business?
+              - not within statutory objects or spirit of the Act?
+              - consultation requirements (eg RIS) not complied with?
+              - form or intention should be clarified?
+        - Direct impacts:
+          - Raise concerns directly with the Executive (eg Minister might directly amend the instrument)
+          - Parliament can call on the relevant Minister during question time
+          - Inform Parliament’s choice to disallow the instrument
+    - Disallowance
+      - 
+      - Commonwealth:
+        - A notice of motion to disallow a legislative instrument may be put before either House within 15 sitting days of tabling: s 42
+        - The instrument is disallowed if: (a) the motion is passed, or (b) the motion has not been called on: s 42
+      - NSW:
+        - Either House may disallow a statutory rule before tabling or within 15 sitting days of tabling: Interpretation Act 1987 (NSW) s 41(1)
+        - The rule is disallowed if the resolution is passed: Interpretation Act 1987 (NSW) s 41(2)
+    - Sunsetting
+      - Commonwealth: 
+        - A legislative instrument is repealed on “1 April or 1 October falling on or after the tenth anniversary of registration”: s 50(1)
+      - NSW: 
+        - A statutory rule is repealed on “1 September following the fifth anniversary of the date on which it was published: Subordinate Legislation Act 1989 (NSW) s 10(2)
+- Judicial review of delegated legislation
+  - Bringing a challenge
+    - Jurisdiction
+      - High Court
+        - s 75(iii) of the Constitution: matters involving a claim against the Commonwealth
+      - Federal Court
+        - s 39B(1A)(c) of the Judiciary Act 1901 (Cth): matters arising under any law
+        - NOT the ADJR Act (ie fails on “administrative character”)
+      - Supreme Court
+        - Supervisory jurisdiction + power to
+        - issue ‘bare’ declarations: s 75 Supreme Court Act 1970 (NSW)
+      - Also – collateral challenge
+        - (eg challenge validity of a regulation as a defence to a prosecution being brought against you)
+    - Standing
+      - Standing rules generally the same as when challenging administrative action (ie special interest etc)
+      - “Matter” requirements still relevant for the High Court and Federal Court (ie can’t be a ‘hypothetical’ dispute)
+      - Note, may be more difficult to establish standing:
+        - legislative instruments affect a broad class v a single person
+        - what is the liability/interest? eg restricts a previously lawful business activity?
+    - Remedy
+      - Declaration of invalidity
+    - Ground of review
+      - 1 Failure to comply with formal requirements
+        - Examples
+          - Tabling
+          - Notification
+          - Publication
+          - Consultation
+          - Voting
+          - Others?
+        - Source
+          - Procedural requirements may be specified in:
+            - Legislative instruments legislation
+            - Empowering legislation
+        - Consequences
+          - Legislative instruments: see relevant provision (most breaches do not affect validity)
+          - Empowering legislation: May lead to invalidity (but depends on whether the Act makes it mandatory)
+        - Concore Pty Ltd v Mulgrave Shire Council [1988] 2 Qd R 395
+          - Facts
+            - Local Government Act 1936-86 (Qld) provided that a local authority was required to provide notice of a proposed by-law
+            - The council published an ad referring to “amendments” and broadly noting the subject matter
+            - The ad did not indicate that the bylaws imposed a new height restriction
+          - Issue
+            - (a) Did the notice comply with the procedural requirements?
+              - No
+            - (b) If not, did this render the by-law invalid?
+              - Yes
+          - Decision
+            - “It is not enough that the by-law itself be available for inspection if the advertisement itself does not go so far as to convey the purport of it ... In the present case, there was insufficient to notify interested parties that the height of buildings in general was to be limited by the by-law and the advertisement is therefore defective in that way” (at 401)
+            - “Because the default of the council in the present case is so significant in its failure to give reasonable notice as to the purport of the new by-law and in the serious deficit in the time of notice, there are breaches of the conditions of the approval of the Governor in Council which disqualify the legislation from the benefits of the privative clause” (at 404)
+      - 2 Exceeds the scope of the primary Act
+        - ‘Necessary or convenient’ (or expedient)
+          - eg Aboriginal Housing Act 1998 (NSW) s 43:
+            - The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+          - Limited to complementing as opposed to supplementing the power: Carbines v Powell (1925) 36 CLR 88, 92
+          - Scope is wider where empowering Act is general, and narrower where empowering Act is detailed: 
+            - Morton v Union Steamship Company of New Zealand Ltd (1951) 83 CLR 402, 410
+          - Shanahan v Scott (1957) 96 CLR 245
+            - Facts
+              - Marketing of Primary Products Act 1935-53 (Vic) was concerned with marketing schemes for eggs
+              - There was a power to make regulations ‘necessary or expedient’ in relation to processing and marketing of eggs
+              - Regulation purported to prohibit the cold storage of eggs
+            - Issue
+              - Did the regulation fall within the scope of power conferred by the empowering Act?
+                - No
+            - Decision
+              - “[S]uch a power does not enable the authority by regulations to extend the scope or general operation of the enactment but is strictly ancillary.
+              - [It] will not support attempts to widen the purposes of the Act, to add new and different means of carrying them out or to depart from or vary the plan which the legislature has adopted to attain its ends” (at 250)
+              - “[A]n attempt has been made to add to the general plan or conception of the legislation and to extend it into a further field of regulation, namely that of the use... of eggs independently of the board’s marketing of the eggs...” (at 253-4)
+        - ‘Regulate’ or ‘Prohibit’
+          - Swan Hill Corporation v Bradbury (1937) 56 CLR 746, 762
+            - [A] power to make by-laws regulating a subject matter does not extend to prohibiting it either altogether or subject to a discretionary licence or consent. By-laws made under such a power may prescribe time, place, manner and circumstance and they may impose conditions, but under the prima facie meaning of the word they must stop short of preventing or suppressing the thing or course of conduct to be regulated
+            - A power to ‘regulate’ does not confer a power to ‘prohibit’
+      - 3 Inconsistency
+        - Inconsistency with the empowering legislation
+          - Plaintiff M47/2012 v Director-General of Security (2012) 251 CLR 1, [54]
+            - “[D]elegated legislation cannot be repugnant to the Act which confers the power to make it”
+          - Direct inconsistency
+            - eg term defined differently in each instrument
+          - Indirect inconsistency
+            - Eg
+              - Imposing new liabilities beyond those contemplated by the Act
+              - Constraining activity permitted by the Act
+              - Inclusion of an additional penalty
+              - Qualifying rights granted by the Act
+        - Inconsistency with general law
+          - Constitution
+            - Eg:
+              - acquiring property without providing compensation: s 51(xxxi)
+              - breaching the implied freedom of political communication
+          - Other legislation
+            - Regulations cannot be inconsistent with matters dealt with by another Act: Powell v May [1946] KB 330
+          - Common law
+            - Principle of legality protects common law rights (eg liberty, property)
+            - Regulations cannot override common law rights unless authorised by the primary Act
+        - Evans v New South Wales (2008) 168 FCR 576
+          - Facts
+            - Act authorised the Governor to make regulations with respect to matters necessary for carrying out or giving effect to the Act, including regulating public conduct at World Youth Day venues
+            - Regulation provided that an authorised person could direct someone to cease conduct that caused ‘annoyance’ to World Youth Day participants
+          - Issue
+            - Was this exercise of power authorised by the enactment?
+              - No
+          - Decision
+            - [F]reedom of expression in Australia is a powerful consideration favouring restraint in the construction of broad statutory power when the terms in which that power is conferred so allow ... [A]nother important freedom generally accepted in Australian society is freedom of religious belief and expression” (at 596)
+            - “Breach of [the regulation] as drafted affects freedom of speech in a way that, in our opinion, is not supported by the statutory power ... Moreover there is no intelligible boundary within which the “causes annoyance” limb of s 7 can be read down to save it as a valid expression of the regulating power” (at 597)
+      - 4 Improper purpose
+        - Identifying the purpose
+          - Express or implied purpose set out in the Act
+          - eg “regulating the ... the conduct of the public on World Youth Day venues and facilities 
+          - = another purpose will be improper
+          - No purpose identifiable in the Act
+          - eg power to set fees and charges under the Act
+          - = Only improper if not in good faith
+          - Brownells Ltd v Ironmongers' Wages Board (1950) 81 CLR 108
+            - Facts
+              - Act conferred power to set wages for the purpose of determining the relations between employers and employees
+              - Board exercised the power so as to set a higher minimum wage after 5:45pm
+            - Issue
+              - Was the regulation made for an improper purpose?
+                - Yes
+            - Decision
+              - “Questions of degree might make it difficult in some cases to determine whether a board was exercising its powers bona fide for the purpose for which the powers were conferred but in the present case there can be no doubt that the Board is, under the guise or pretence of fixing rates for overtime, seeking to impose what are in substance penalties upon employers for keeping shops open at a time when the Legislature had said that it shall be lawful to keep shops open. Accordingly, in my opinion, the power possessed by the Board has been illegitimately exercised and the provision of which the appellant complains should be held to be invalid” (at 120)
+        - Identifying inconsistency
+          - Difficult to prove
+            - Interrogatories – very unlikely
+            - Statement of reasons – limited rights to obtain reasons
+            - Internal documents (eg memoranda, reports, transcripts etc): Telstra Corporation Ltd v Hurstville City Council (2000) 105 FCR 322
+          - Mixed motives
+            - The improper purpose must be substantial: Haines v Annwrack Pty Ltd (1980) 39 LGRA 404
+      - 5 Unreasonableness and proportionality
+        - Unreasonableness
+          - Strict test: regulation is ‘so oppressive or capricious that no reasonable mind can justify it’: City of Brunswick v Stewart (1941) 65 CLR 88, 98
+          - Not merits: The test does not invite the court to consider the merits or policy of the choice
+          - Rare finding: eg no regulations were found invalid on this basis in Australia between 1926-1992
+        - Proportionality
+          - South Australia v Tanner (1989) 166 CLR 161, 167-8 and 636
+            - “[T]he test of validity is whether the regulation is capable of being considered to be reasonably proportionate to the end to be achieved ... It is not enough that the court itself thinks the regulation inexpedient or misguided. It must be so lacking in reasonable proportionality as not to be a real exercise of the power.”
+          - Often argued, rarely successful: eg A-G (SA) v Corp of the City of Adelaide (2015) 249 CLR 1
+            - Structured proportionality (constitutional):
+              - suitability, necessity and adequacy of balance: McCloy v New South Wales (2015) 325 ALR 15
+              - applied to delegated legislation by Rares J in Brett Cattle Co Pty Ltd v Minister for Agriculture, Fisheries and Forestry [2020] FCA 732 – a high water mark case
+      - 6 Subdelegation of legislative power
+        - Delegatus non potest delegare = A person to whom power has been delegated cannot sub-delegate that power
+        - Hawke’s Bay Raw Milk Producers Co-operative Co Ltd v New Zealand Milk Board [1961] NZLR 218, 223
+          - ✔ Regulations can delegate administrative power to executive officials (eg conferring power to grant a licence)
+          - X Regulations cannot delegate legislative power to executive officials (eg conferring power to make licence eligibility rules)
+      - Common ground?
+        - Some specific to delegated legislation (eg proportionality)
+        - Some specific to administrative power (eg acting under dictation, irrelevant considerations)
+        - Some overlaps (eg improper purpose)
+      - Differences in application
+        - Don’t assume overlapping grounds apply in exactly the same way
+        - A “sterner onus” applies to establish invalidity of delegated legislation than administrative decisions: Donohue v Australian Fisheries Management Authority [2000] FCA 901
+## Week 12: AI Lecture
+
+- Impact of Technology on Administrative Law
+  - What is Artificial Intelligence?
+    - • 'a range of [computer-based' technologies [or systems] [that exhibit] some characteristics of human intelligence'
+      - Australian Human Rights Commission, Human Rights and qTechnology Discussion Paper (2019) 59.
+  - Artificial Intelligence (cont.)
+    - Categories of Al
+      - Narrow (or weak)
+      - General (or strong)
+    - Algorithms
+    - Types of Technologies
+      - Expert Systems
+      - Machine Learning
+  - Expert Systems
+    - 'First wave of Al'
+    - Pre-programmed rules designed in consultation with the decision-maker
+    - Two sub-systems
+      - Knowledge Base
+      - Inference Engine
+    - An example of an expert system involving s I I of the Freedom Information Act 1982 (Cth) can be found on austlii's website. To activate the system, click on Run Consultation.
+  - Robodebt
+    - Royal Commission into the Robodebt Scheme, Report (2023) esp xxiii-xxxiii and ch 14
+      - Robodebt was a crude and cruel mechanism, neither fair nor legal, and it made people feel like criminals. In essence, people were traumatised on the off-chance they might owe money. It was a costly failure of public administration, in both human and economic terms.
+      - Commissioner Catherine Holmes
+    - Key failures
+      - Legal advice was ignored
+      - Cabinet was not fully briefed
+      - Absence Of legal basis to demand payment
+      - False assumption that if averaging led to a debt recipients had failed to notify DHS of income changes
+      - Wrong conclusions reached by Ombudsman
+      - Reluctance to appeal to higher tiers of the AAT
+  - Machine Learning
+    - 'Second Wave Al'
+    - The algorithms 'learn' without being pre-programmed
+    - Workflows
+      - Training
+      - Deployment
+      - Big Data
+    - Training Data
+      - Defining the problem or goal
+      - Collecting historical data
+      - Cleaning the data
+      - Reviewing input and output variables
+      - Splitting or partitioning the data
+      - Selecting algorithmic model(s)
+      - Training the model(s)
+  - How is Government Using Artificial Intelligence in Decision-making?
+    - 2003 Administrative Review Council Survey
+      - Department of Agriculture, Fisheries and Forestry
+      - Australian Taxation Office
+      - Department of health
+    - No registries of public sector automated decision-making systems
+    - Planned Future Use
+      - Digital Transformation Agency. Digital Transformation Strategy ('Vision 2025')
+      - Digital NSW: Designing Our Digital Future
+      - QQDepartment of Industry. Science, Energy and Resources, An AI Action Plan for All Australians
+  - What are the Benefits and Risks of Using Artificial Intelligence for ADMs?
+    - POTENTIAL BENEFITS
+      - Greater accuracy and consistency in decision-making
+      - Cost reductions
+      - Faster speed
+      - Service delivery improvements
+    - RISKS
+      - Data errors
+      - Programming errors
+      - Biased data
+      - The 'black box' problem
+  - Administrative Law Concerns: Incompatibility with Underlying Principles of Judicial Review (1)
+    - 1. 'Reasoning process grounds' assume an administrative decision-maker has 'cognitive capacities' that 'can engage with the interpretive complexity of legal language' and are 'sensitive to highly dynamic social, economic and environmental conditions'.
+    - Statutory power conferred on an administrative decision-maker (ADM) with 'cognitive capacities' must be exercised by that ADM
+      - Pintarich v Deputy Commissioner of Taxation (2018) 262 FCR 41
+  - Pintarich v Deputy Commissioner of Taxation (2018) 262 FCR 41
+    - Text from 8 December 2014 letter:
+      - Thank you for your recent promise to pay your outstanding account, We agree to accept a lump sum payment of SS39.115.43 on or by 30 January 2015. This payout figure is inclusive of an estimated general interest charge (GIC) amount calculated to 30 January 2015. Amounts of GIC are tax deductable in thc year in which they are incurred.
+      - If you have any difficulties in making this payment by the agreed date, please contact us immediately.
+      - Failure to make this payment by thc agreed date may result in thc commencement of legal action without further notice.
+    - Issue: Was this letter a 'decision' for the purposes Ofs 8AAG of the Taxation Administration Act 1953 (Cth)?
+    - Semunigus v Minister for Immigration and Multicultural Affairs [1999] FCA 422, [191: 'the making of a decision involves both reaching a conclusion on a matter as a result of a mental process having been engaged in and translating that conclusion into a decision by an overt act Of such character as, in the circumstances, gives finality to the conclusion — as precludes the conclusion being revisited by the decision-maker at his or her option before the decision is to be regarded as final
+    - Kerr J at paras 46, 47 and 49
+      - The hitherto expectation that a "decision" will usually involve human mental processes of reaching a conclusion prior to an outcome being expressed by an overt act is being challenged by automated "intelligent" decision-making systems that rely on algorithms to process applications and make decisions.
+      - What was once inconceivable, that a complex decision might be made without any requirement of human mental processes is, for better or worse, rapidly becoming unexceptional. Automated systems are already routinely relied upon by a number of Australian government departments for bulk decision-making. Only on administrative (internal or external) and judicial review are humans involved .
+      - The legal conception of what constitutes a decision cannot be static; it mustcomprehend that technology has altered how decisions are in fact made and thataspects of, or the entirety of, decision-making, can occur independently of human mental input.
+  - Administrative Law Concerns: Incompatibility with Underlying Principles of Judicial Review
+    - 3. ADMs must give reasons justifying their use of executive power
+      - Public Service Board v Osmond(1986) 150 CLR 656
+      - Minister for Immigration and Border Protection v Singh (2014) 231 FCR 437, [451:
+        - In circumstances where no reasons for the exercise of power, or for a decision, are produced, all a supervising court can do is focus on the outcome of the exercise of power in the factual context presented, and assess, for itself, its justification or intelligibility.
+      - Administrative Decisions Judicial Review Act 1977 (Cth), s 13
+      - Administrative Appeals Tribunal Act 1975 (Cth) , s 28(1)
+    - 4. The hearing rule and the 'black box' problem
+  - Administrative Law Concerns: Existing Doctrines Are Inadequate (2)
+    - l. Decisions made using Al are unlikely to be revieweable under:
+      - s 75(v) of the Australian Constitution, s 39B(l) of the Judiciary Act 1903 (Cth)
+      - s 5 of the Administrative Decisions Judicial Review Act 1977 (Cth)
+  - Authorisation and Deeming Provisions
+    - Migration Act 1958 (Cth)
+      - 495A Minister may arrange for use of computer programs to make decisions etc.
+        - (1 )The Minister may arrange for the use, under the Minister's control, of computer programs for any purposes for which the Minister may, or must, under the designated migration make a decision; or (b) exercise any power, or comply with
+        - any obligation; or(c) do anything else related to making a decision, exercising a power, or complying with an obligation.
+        - (2)The Minister is taken to have:(a) made a decision; or(b) exercised a power, or complied with an obligation; or(c)done something else related to the making of a decision, the exercise of a power, or the compliance with an obligation; that was made, exercised, complied with, or done(as the case requires) by the operation of a computer program under an arrangement made under subsection(l ).
+    - Approach endorsed by:
+      - Administrative Review Council in Automated Assistance in Administrative Decision-making (Report No 46) (2004)
+      - AHRC, Human Rights and Technology Discussion Paper (2019)
+  - Other ways around the lack of review problem?
+    - Give legal personality to Al systems
+    - Al systems with a review mechanism involving humans
+    - Rely on s 39B(1A)(c) of the Judiciary Act 1903 (Cth)
+  - Administrative Law Concerns: Existing Doctrines Are Inadequate
+    - 2. The bias rule of procedural fairness is not easily applied to Al and automated systems
+      - Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507
+      - Laws v Australian Broadcasting Tribunals (1990) 170 CLR 70
+      - McGovern v Ku-ring-gai council (2008) 72 NSWLR 504
+  - Administrative Law Concerns: Inconsistency with Rule of Law Values (3)
+    - Transparency
+    - Accountability
+    - Predictability
+    - Consistency
+    - Equality before the law
+  - Initiatives of Government Departments and Others to Address Problems
+    - Department of Industry, Innovation and Science,Al Ethics Principles (20 1 9)
+    - Cth Ombudsman, the Office of the Australian Information Commissioner and Attorney-General's
+    - Department, Automated Decision-making Better Practice Guide (20 1 9)
+    - Australian Human Rights Commission, Human Rights and Technology Final Report (2021)
+    - Royal Commission into the Robodebt Scheme, Report (2023) (see esp pp xiii-xxi)
+    - Department of Industry, Science and Resources, Safe and Responsible Al in Australia;

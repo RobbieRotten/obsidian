@@ -1,0 +1,2237 @@
+#tag-notes #tag-tutorial
+
+- STEPS TO ANALYZE CASE 
+  - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+  - Clarify the procedural history of the case. 
+  - What the original dispute was
+  - Current reason for trial
+  - Ascertain the material facts
+  - State the issue raised by the material facts 
+    - Law(s)/Statue(s) in contention
+    - Precedences
+    - Tests
+    - Words and Phrases Considered
+    - Arguments made by each side
+      - Plaintiff/Prosecution
+      - Defense 
+  - What each judge thought
+  - Obiter 
+  - Identify the legal reasoning and the ratio of the case.
+  - Result
+
+- Example
+  - Note the name of the case and its citation
+    - Clark v Malpas (1862) 31 Beav 80; 54 ER 1067
+  - Clarify the procedural history of the case. 
+    - No procedural history
+  - Ascertain the material facts
+    - In Clark v Malpas,the material facts relate to
+      - the vendor's personal circumstances (old,seriously ill, illiterate),
+      - the value of the property(aboutÂ£380), the price actually paid
+      - 100 to heir plus 12s (shillings) per week and free rent for life)
+      - and the circumstances in which the transaction occurred 
+        - (the purchaser knew that the vendor was ill, the vendor had no independent advice, the transaction was completed very quickly and the vendor died soon afterward
+  - State the issue raised by the material facts and how the court answered it (the result of the case)
+    - In Clark v Malpas, the facts raised this issue: 
+      - is it fair for a party to retain the benefit of a bargain where the contract is hastily executed and the other party is a sick old man who received no independent advice and inadequate consideration? 
+        - And the court's answer? No
+  - Identify the reasoning which supported the decision and the ratio of the case.
+    - In this case it’s facts, so not much ratio (mostly appellate has ratio)
+    - Defendant used precedent that was distinguished by judge due to material difference
+      - Previous case gave seller time to move deliberately into transaction
+    - Example ratio: where the sale of property is for a very inadequate consideration and the circumstances establish that the vendor requires the protection of the law, 
+      - the burden is on the purchaser to prove that the transaction was entered into carefully, deliberately and with full knowledge
+
+- autochthonous expedient’
+  - state courts could be invested with federal jurisdiction.
+  - Federal civil court hierarchy 
+  - Federal criminal court hierarchy 
+  - 
+- The major characteristic that distinguishes federal jurisdiction from state jurisdiction is that federal jurisdiction must always be specifically given.
+- jurisdiction. 
+- High Court has both original and appellate jurisdiction.
+  - Its original jurisdiction is set out in s 75 of the Constitution
+  - appeals can only take place by special leave of the court.
+    - An application for special leave is a hearing by the Court.
+    - may lie from
+      - a single Supreme Court judge
+      - Court of Appeal
+      - state courts exercising federal jurisdiction
+      - Full Federal Court.
+    - s 35 of the Judiciary Act 1903
+      - consider whether there is a question of law which is of public importance
+      - resolve differences of opinion in below courts
+      - whether the administration of justice requires it.
+- original jurisdiction
+- Interlocutory
+  - (before a final order)
+- Federal courts
+  - superior court of record of law and equity
+  - established under Commonwealth Constitution, s 71.
+    - defined or limited rather than general jurisdiction.
+  - Hears the following:
+    - bankruptcy,
+    - trade practices (now under the Australian Consumer Law)
+    - federal administrative law,
+    - admiralty
+    - corporations law
+    - civil jurisdiction over federal tax disputes
+    - native title,
+    - concurrent jurisdiction over intellectual property cases
+    - Appeals from decisions of the Federal Magistrates Court in non-family law matters 
+    - Appeals from state Supreme Courts exercising federal jurisdiction,
+  - Section 32 of the Federal Court Act (Cth)
+    - ‘Associated jurisdiction’—matters
+  - the matters arise out of the same facts, or are ‘within the scope of one controversy’ and therefore ‘within the ambit of a matter’, and must be genuine—that is, fairly raised on the facts.
+- Federal Circuit Court of Australia
+  - Commonwealth Parliament at the end of 1999,
+  - entirely civil.
+    - family law and child support, property disputes where the value is less than $300 000 unless the parties consent, parenting orders, and determination of parentage—but it is not permitted to hear matters of adoption or the nullity or validity of marriage.
+  - shared jurisdiction with the Federal Court in administrative law, bankruptcy, human rights, privacy, and trade practices/consumer law
+  - Appeal from the Federal Circuit Court of Australia is not a hearing de novo,
+- Family Court
+  - was established by the Family Law Act 1975
+  - marriage and matrimonial causes.
+  - accrued jurisdiction
+    - court's ability to hear a case based on the accumulation of jurisdictional elements over time
+  - associated jurisdiction
+    - a court's ability to hear related matters that fall outside its primary jurisdiction
+- Federal tribunals
+  - administrative, not judicial, power.
+  - not appeals.
+- The striking down of the part of the cross-vesting legislation which vested state jurisdiction in federal courts can create problems for litigants who may be forced to commence proceedings in multiple courts to resolve a dispute.
+  - It can also create issues of consistency and coordination between the state and federal court systems.
+- Federal–state court interaction
+  - federal jurisdiction is that exercised by a Chapter III court.
+  - state courts to exercise federal judicial power (s 77) (the ‘autochthonous expedient’) as well as state judicial power.
+  - Jurisdiction of Courts (Cross-Vesting) Act 1987
+    - vested the non-federal jurisdiction of the state courts in the Federal Court and the Family Court, and in turn it vested most of the federal jurisdiction in the state Supreme Courts.
+  - Re Wakim; ex parte McNally (1999)
+    - Held that the 1987 legislation and the corporations law cross-vesting scheme were invalid to the extent that they purported to confer state jurisdiction on federal courts.
+    - state could not refer power to a federal court, and it established that the Federal Court(s) cannot hear matters whose only jurisdiction is cross-vested state jurisdiction.
+    - there should be a single ‘justiciable controversy’, identifiable separately from the proceedings, with a ‘common substratum of facts’.
+- Traveling through the court hierarchy
+  - No absolute right of appeal,
+- mens rea
+  - intent/mental status
+- Onus
+  - Burden of proof
+The judges in the earlier court cases, R v Murrell and R v Bonjon, assume that colonial legal rule is superior and intended for the benefit of white settlers, with little consideration for the rights and interests of First Nations Australians. In contrast, the judgments in Mabo v Queensland (No 2), Love v Commonwealth of Australia; Thoms v Commonwealth of Australia, Walker v New South Wales, and Wik Peoples v Queensland recognize the significance of Indigenous land rights and reject the idea of terra nullius, acknowledging that colonial legal rule has historically marginalized and disadvantaged First Nations Australians. These later judgments suggest a shift towards a more equitable and inclusive legal system.
+	
+- Privy Council = an advisory body to the British monarch and the court of final appeal in the United Kingdom.
+- Reception = the implementation of the colonial nation’s laws after occupation.
+- Terra nullius = Latin for land belonging to no one.
+- Westminster system = the British system of representative government, consisting of three arms of government: the courts (judicature), parliament (legislature) and executive.
+- Customary laws system =  law passed down through the generations by oral tradition (storytelling).
+  - Heterogeneous
+  - R v Murrell.
+    - Murrell argued that the judgment of the Supreme Court on the alleged murder could not be handed down, as judgment could only be handed down by Jabbingee’s family.
+    -  New South Wales was neither conquered, ceded, nor a British settlement by occupation. Thus, the Aboriginal people were not bound by English criminal laws in New South Wales. Only the Britons were bound by these laws. The sole exception was where laws ‘protected’ Aboriginal people--this was premised on a contract theory of government: that the right to govern and impose laws on the people was granted in return for their protection.
+    - •Aboriginal people had no recognisable laws, but only ‘practices’ that ‘are consistent with a state of the grossest darkness and irrational superstition’. These ‘are founded entirely upon principles … of vindication for personal wrongs’ and ‘the wildest most indiscriminatory notions of revenge’. Thus, Aboriginal people are not ‘entitled to be recognised as … sovereign states governed by laws of their own’.
+    - Every First Nations person born in Australia after 1829 became a British subject--although not by their own choosing, or necessarily to their benefit (R v Murrell
+- Native title
+  - Law Reform Commission of Western Australia identified among Western Australian First Nations societies ‘a defined system of rules for the regulation of human behaviour which has developed over many years from a foundation of moral norms and which attracts specific sanctions for noncompliance’.
+- Occupation
+  -  it allowed for the automatic reception of English laws, without the need to negotiate a treaty and concede limitations on colonial jurisdiction. The logic behind occupation is that the colonised territory does not have a pre-existing legal system that the colonising nation has to adopt or negotiate with.
+  - Too primitive to own land, so they were the only land owners in the area
+    - Needed to show land development and cultivation
+- The international law doctrine of terra nullius--a colony ‘without settled inhabitants or settled law’--was confirmed in New South Wales in Cooper v Stuart (1889)
+  - Mabo v Queensland [No 2] (1992) 175 CLR 126
+    - Dispels terra nullius
+    - High Court in Mabo (1992) held that, while in 1788 the Crown acquired radical (absolute) title, it did not become the owner of all land.
+- R v Bonjon (1841) recognised the possibility of the coexisting application of First Nations laws with Anglo-Australian laws
+- Walker v New South Wales in 1994
+  -  High Court held that the jurisdiction of the Anglo-Australian criminal law could not be challenged by First Nations laws 
+  - The judgment in R v Bonjon (see above) is an example of New South Wales Supreme Court Judge Willis’ refusal to accept the universality of English laws.
+- Governor Bourke issued a proclamation that the British Crown was the owner of all Australian territory and solely capable of distributing the land, which the British Colonial Office affirmed on 10 October 1835.
+- The Australian Courts Act 1828 (UK) was the statutory instrument for the formal reception of English law.
+  - Pursuant to the Imperial Acts Application Act 1969 (NSW), English laws received in 1828 were deemed to be specifically applicable to the colony of New South Wales upon settlement
+- Criminal and civil courts were established in 1788 pursuant to the New South Wales Courts Act 1787 (UK) and letters patent from the King dated 2 April 1787
+  - It was not until 1810 that the first civilian judge, Ellis Bent, assumed judicial duties in the New South Wales colony
+- Magna Carta
+  - 1215
+  - Great charter
+  - Charter of liberties
+  - Baron and king John compromise
+    - King subject to law, aka rule of law
+  - Charter of Liberties was confirmed in 1217, the clauses dealing with the law of the royal forest were taken out and put into a separate document known as ‘the Charter of the Forest’. 
+    - Demanding payments to fight a losing war with french "despotic"
+    - Articles of the Barons, which sought to reinstate feudal customs and defend the barons against the despotism of the King.
+      - Aka charter of liberties
+  - Three main clauses today foundation of law
+    - The first of these clauses defends the freedom of the English Church (which King John sought to encroach upon). 
+      - Church can elect own officials 
+      - No royal interference
+    - The second enduring clause confirms the liberties and customs of London and other towns. 
+    - The main clauses for us
+      - No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgment of his equals or by the law of the land.
+      - To no one will we sell, to no one deny or delay right or justice.
+        - in the fourteenth century, the English Parliament saw it as guaranteeing trial by jury.
+        - Foundation of modern bills of rights
+- The principles that the Anglo-Australian legal system adopted from England can be summarised in 20 key concepts:
+  - Feudalism-
+    - The legal obligations to the ruler were formalized with the Norman Conquest in 1066, when William, Duke of Normandy, was crowned King William I and assumed ultimate title to all land in England. 
+      - This system developed in England and formed the basis of its land law, criminal legal system and taxation system. 
+      - It also forms the basis of Australian law in these areas--the Crown ultimately owns all the land, our criminal system is based on an action by the state against the wrongdoer, and there is an entrenched power for the government to impose taxes.
+  - Law as an autonomous discipline
+  - Common law legal system
+  - Precedent
+    - doctrine of precedent requires that the decisions of a court on a matter of law are binding on all courts that are lower in the judicial hierarchy.
+  - Equity
+    - Checks and balances on courts
+    - The Judicature Acts
+      - Acts consolidated the various common law courts (which required the filing of writs based on standard forms that were rigid and would give rise to injustice when parties could not comply) and equity courts (which had more flexibility and usually fairness in their procedure).
+      - The equity and common law courts came together to form one general court, known as the Supreme Court of Judicature (with different divisions),36 to create uniformity in pleading and procedure.
+        - Supreme Court Act 1970
+  - Due process
+  - Juries
+    - Today, a jury usually consists of 12 people in a criminal trial and between four and twelve people in a civil trial,
+    - In civil cases, the jury must make a decision as to liability and may also determine the amount of damages awarded
+  - Rule of law
+    - government should rule through law, and not through the exercise of arbitrary power by individuals.
+    - Government must be exercised only in accordance with written law, established and enforced by precedented procedure
+      - Law applies across the board
+      - Upholds legal rights of citizens
+      - No punishment without illegal conduct
+  - Importance of procedural law
+  - Parliament
+    - shares power with the monarch, comprising elected representatives.
+    - In Australia, the Federal Parliament consists of the Queen, the Senate and the House of Representatives.
+  - Separation of powers
+    - 3 Arms of government:
+      - Legislature (pariliament)
+      - Executive
+      - Judicature
+  - Parliamentary sovereignty
+    - the parliament is supreme over the executive and the judicature except where it provides otherwise.
+  - Independent judiciary 
+    - judges should be independent of the other arms of government so that their decisions are made freely, according to law.
+      - Security of tenure
+        - cannot be removed from their position if their decisions are unpopular to the government of the day,
+        - they receive fixed salaries
+  - Process of legislation making 
+    - draft laws are introduced into parliament and debated, passed and then assented to by the monarch or their representative.
+      - Queen’s representative in the Commonwealth jurisdiction is the Governor-General, 
+        - States = Governor,
+        - Territories = Administrator.
+  - Rules of statutory Interpretation
+    - guidelines for interpreting parliament’s statutes
+  - Political parties
+    - Parliament is comprised of these
+    - power determined by election
+  - Cabinet 
+    - Historically
+      - an informal body of ministers that advised the English monarch.
+    - Currently
+      - self-sustaining, key body of ministers who develop government policy
+      - Useless without parliament enacting it
+  - Prime Minister 
+    - Informal office, leader 
+    - ‘Prime’ minister 
+  - Representative Government
+    - Representative of the people
+    - Free and fair elections
+  - Responsible Government ‘Liable’ 
+    -  government is responsible to the people for its actions.
+- Westminster system of government
+  -  incorporated into the Commonwealth Constitution in 1901.
+  - All the previous 20 ideals in 
+  - First steps
+    -  establishment of a Legislative Council and Supreme Court in New South Wales and Van Diemen’s Land (Tasmania).
+      -  Enabled by New South Wales Act 1823 (UK). 
+        - King appoint between five and seven members to the Legislative Council.
+        - Legislative council was to advise the governor (mini-king)
+          - Only gov could authorize legislation
+          - Council could defeat a law unless necessary
+          - Australia could not have laws repugnant to UK
+        - 1825 Executive Council
+          - Same deal as legislative council
+          - Advisory board, Gov could null them if neccessary
+          - Governor appointed same people as legis council
+            - Created cabinet government
+        - Feudal tenure
+          - All land was Crown grant
+          - Because the land in australia was now Australian (british owned) owned, and because Australian settlers were part of the crown, Australian land became crown land, and crown land can’t be given out without crown permission 
+            - The Australian colony is the Crown's property. 
+            - No one could claim any right or interest in the land unless the Crown granted them permission.
+          - Crown sovereignty gave New South Wales Governor Arthur Phillip right to dispose of lands
+          - Common law precedent affirmed feudal tenure in Attorney-General v Brown (1847) 1 Legge 312
+            - titles in the colony were without an overlord, and so the land was considered ‘allodial’ land- 
+              - A-lord-ial (no lord) land
+          - Sovereign is legal ‘universal occupant’
+          - In 1913, Justice Isaacs held in the High Court of Australia case of Williams v Attorney-General (New South Wales) (1913) 16 CLR 404 (at 439)
+            - all colonial land belonged ‘to the Crown until the Crown chose to grant it’. 
+          - Milirrpum v Nabalco (1971) 17 FLR 141
+            - all titles, rights and interests in land are the direct consequence of Crown grants’.
+- Australia operates under imposed sovereignty  when British Parliament claimed sovereignty over australia (Australian Constitutions Act 1850, )
+- What really happened to First Nations laws and First Nations people with the reception of the common law?
+  - In R v Murrell, Justice Burton proclaimed that First Nations people, like all other Australians, were British subjects and formally equal before the law. 
+  -  ‘summary justice’: 
+    - the swift infliction of physical punishment by occupiers who are a law unto themselves.
+  - Often, early English Acts are written with (Imp) instead of (UK). 	
+    - This signifies that it is an Act of the British Imperial Parliament.
+  -  Australian Courts Act
+    - Legislative Council of between 10 and 15 members. 
+    - Governor limited rejection right and listened more to council
+    - Was cucked for a while with british law
+
+- Australian Constitutions Act (No 1) 1842 (UK) 
+  - Expanded to 36 members
+    - 2/3 elected, 1/3 nominated
+  - Removed gov from legislative council
+  - Seperated executive 
+  - Australian Constitutions Act (No 2) 1850 (UK)
+    -  Australian colonies to write their own constitutions with fully elected parliaments 
+    - established the Westminster system of responsible government
+    - colonial constitutions had to be reserved for the Queen’s assent.
+      - R D Lumb stated constitution exceeded rights in Australian Constitutions Act 
+  - Gold - rush 
+    - Gold fuelled economy 
+    - Increased immigration
+    - Protests on fields 
+      - Anti-authoritatian movement
+      - Increased licensing fee for gold digging
+        - Digger hunts
+        - Ballarat Reform League
+          - Abolishing mining license
+          - Democratic rep of miners
+          - Liberty and popular government
+          - Eureka Manifesto
+      - Gold Fields Commision
+        - Elected local courts introduced to goldfields
+    - 1842 Act
+      - three separate branches of government in the colonies: 
+        - the legislature
+        - Executive
+        - Judiciary.
+    - Forest creek
+      - Miners wanted no tax without rep
+      - Universal (European) male suffrage
+- Justice Boothby 
+  - Striking down South Australian statues
+    - Recalcitrant
+    - Repugnant
+    - unAustralian
+  - Colonial Laws Validity Act 1865 (UK)
+    - colonial laws were valid irrespective of whether they were ‘repugnant’ to English law.
+    - Could override English laws
+  - Commonwealth of Australia Constitution Act 1900 (UK)
+    - End of six Aus colonies
+    - Transformed colonies into states 
+    - Formed federal government
+    - Called Federation
+    - The Commonwealth Constitution 
+      - Enforced in 1901
+      - Form the Federal Parliaant 
+        - Nationally elected House of Rep 
+        - Senate from each state
+        - No liberties or rights or independence  
+  - Australian States Constitutions Act 1907 (UK)
+    - obligations of the Australian states to Britain.
+    - Any changes to state constitution reserved for crown assent and Brit approval
+  - Statute of Westminster 1931 (UK) s 4
+    - No more brit legislation unless asked
+    - repealed repugnancy doctrine in section 2
+      - Can make laws inconsistent with UK
+  - Australia Acts 1986 (Cth)
+    - emoved UK ability to legislate for the individual Australian states.
+  - 1978, High court removes Privy council appeal
+- Still a constitutional monarchy
+- Premier = state gov
+- Australia is a liberal democracy
+  - Laws are made by executive gov
+  - Representative democracy 
+    - Elected representatives
+  - Federation
+    - Various state governments
+      - In Australia they are partners, not subservient 
+      - Residual powers
+    - Federal parliament
+      - Exclusive and concurrent powers
+
+- Legislative
+  - Make law
+    - Federal Parliament
+    - State Parliament
+    - Bicameral 
+      - Two houses
+    - Laws are called
+      - Statue
+      - Legistaltiuon
+      - Act of parliament
+- Executive
+  - Administer law
+    - Prime Minister
+      - Other ministers within Fed
+    - A Premier
+      - Other ministers within state/territory
+  - Day to day governance
+    - Propose most legislation passed by Parliament
+    - Manages state relationships
+    - Oversees public service departments
+  - Prime Minister/Premier/Chief Minister and others are also members of parliament
+- Judicial
+  - Interpret law
+- Division of power
+  - Division of law-making power between fed and state gov
+- Executive Councils
+  - Various Fed, State, and Territory Exec councils,
+    - Elected rep members of relevant parliament and answer to them,
+- Each minister must report to parliament
+  - Question time
+    - Performance review bipartisan
+  - Appointed by monarch or Gov-gen/state gove/territory admin
+    - Can receive no confidence from lower house
+    - Appointer can only act through ministers, head of state has to listen
+- Dispossession And Colonisation
+  - Northern Territory Intervention
+  - Howard Liberal Government
+    - Required suspension of the Race Discrimination Act 1975
+    - Aboriginal peoples citizenship and human rights could be suspended until they conformed to a western notion of responsible behaviour
+  - Draft Declaration on the Rights of indigenous people
+    - Adopted by 143 countries at the General Assembly of the United Nations
+    - Australia voted against (3 other counties as well)
+    - affirms the rights of Indigenous people their culture, land, natural resources, and self-government
+      - Belatedly adopted by Australia in 2009
+  - contests about how Australia was colonized, are highly emotional battles
+    - Rowley 1970
+    - Attwood 1996
+    - Markus 1994
+    - Reynolds 1981
+    - Read 1992
+    - Windshuttle 1994
+    - Maynard 2007
+    - Nugent 2009
+    - Ryan2012
+  - Indigenous people treaties UN
+    - International Covenant on Civil and Political Rights
+    - The International Convention on the Elimination of All Forms of Discrimination
+    - The Convention on the Rights of the Child (Anaya2004)
+  - The Declaration of Indigenous Peoples' Rights
+    - most comprehensive international statement with respect to Indigenous people’s rights
+  - Captain Cook
+    - Fairly fictional stories
+    - The arrival of the First Fleet at Botany Bay on 26 January 1788 
+- Dispossession Post Mabo
+  - Mabo v Queensland (No2) (1992) 175 CLR 1
+    - The common law could not be complicit in the violent and unjust dispossession of Aboriginal and Torres Strait Islander people
+      - Reason for native title and end of terra nullius
+      - Was very evasive and timid about repercussions/implications
+        - Acknowledges native laws for native title and nothing else?
+        - Hypocritical
+- Legal Process Of Dispossession
+  - Legal distinction between acquisition of territory and acquisition of land
+  - Common law sustains a distinction between territorial sovereignty and the acquisition of land
+    - this distinction is not part of Indigenous laws and social organization
+  - English law gave the Crown the prerogative to acquire new territories and did not require the acquisition to be made in compliance with international law.
+    - In settled colonies, which  were classified as those areas which  were uninhabited  or  virtually uninhabited
+      - English law accompanied colonization to the extent  that it was suitable to the local  circumstances  (McNeil1989, pp.  109-133)
+    - No real laws by natives
+- Context Of Colonisation
+  - combination of expedience and racist philosophical and political ideas
+  -  1750s racial theories
+    - Europeans at the top of the hierarchy and Indigenous peoples in a state of nature
+  - John locke property ownership
+    - Justification for the dispossession of natives
+      - If no agriculture, they must be in a state of nature
+  - Reaffirmed by Sir William Blackstone in Commentaries on the Laws of England (1850)
+    - Two colony types
+      - desert and uncultivated
+        - Gained through terra nullius
+      - Cultivated
+        - Gained through conquest or cession
+- Contested Sovereignty
+  - A single body of law applying to Indigenous and other Australians
+    - R v Ballard
+  - Australian courts are not a fan of globalism and how international law affects the population, i.e., Indigenous 
+- The Rule Of Law
+  - The two basic tenets of the rule of law 
+    - laws should not be exercised arbitrarily
+    - law should sustain a normative order and thereby contribute to the maintenance of law and order within communities. 
+    - These rights were denied to natives
+  - R v Murrell to Wik Peoples v Queensland
+    - The failure of the courts to recognize Aboriginal law and custom
+    - Denied Aboriginal peoples a fundamental way of maintaining social cohesion and reinforcing understood community standards of behaviour
+  - The Royal Commission into Aboriginal Deaths in Custody
+    - Governor Hunter banned 
+      - Aboriginal meetings 
+      - the carrying weapons (including those used for hunting)
+      - abolished their own system of punishments and reconciliation
+      - entitled settlers and military troops to use Force of arms on armed Aboriginal people or unarmed groups of six or more (Johnston 1991).
+- ‘Quietening’ The Frontier
+  - Condoned, not encouraged violence
+  - 1789 outbreak of smallpox in Port Jackson (Foley 2001a; Bennett 2009; Warren 2014)
+    - Imperial war strategy since 1770s
+      - British officials spread diseases as ‘only’ means to defend the colony (Warren 2014).
+    - accounts of killings and massacres by both civilians and police
+      - Elder 1988
+      - Evans et al. 1988
+      - Reynolds 1989
+      - Markus 1990
+      - Richards 2008
+      - Bottoms 2013
+      - Coniston massacre 
+        - Northern Territory
+        - Markus 1990,pp. 135-136
+      - Myall Creek massacre in 1838
+        - Tried and executed
+- Case study
+  - Waterloo Creek (1838)
+    - New South Wales mounted police
+    - command of Major James Nunn
+      - All killed 40-50 Aborigines in a single encounter at Waterloo Creek
+    - Would not prosecute these police but would prosecute Myall Creek massacres (private citizen(s))
+    - Governor would not address police
+      - Depended on mounted police for the protection of colonists
+      - Depended on mounted police for order and anti-rioting/invasion in already disorderly cities
+- The Queensland Mounted Police
+  - most lethal force used against Aboriginal people
+- George Arthur 1830 ˜Black Line’
+  - 2000 civilians and soldiers
+  - the express purpose of forcing Aboriginal nations from their homelands in eastern Van Diemen’s Land (Tasmania) onto a reserve in the Tasman Peninsula
+  - Police in Australia were paramilitary
+- Dispossession By Law 
+  -  ambivalent status of Aboriginal people
+  - Whether the Supreme Court of New
+  - South Wales has jurisdiction to try disputes between Aboriginal people
+    - R v Lowe in 1827 
+      - Aboriginal people in conflict with Europeans were subject to its jurisdiction
+    - Aboriginal people were also not considered competent to give evidence
+- Cases about Aboriginal Law
+  - R v Ballard 
+    - if an Aboriginal person could be prosecuted for the alleged murder of another Aboriginal person at the Domain near Sydney
+      - Found that NSW was not to interfere in disputes between Aborigines ‘(Kersher 1998, p. 412)’
+      - Aboriginal peoples exist with their own system of laws governingrelationsbetweenthem
+  - R v Murrell
+    - Jack Congo Murrell, was charged with murder and his counsel argued that the court had no jurisdiction to try him
+    - Subjects who are bound by the law must also be recognized and protected by the law in some manner
+      - Cannot be admitted as witnesses in Courts of Justice,
+      - They cannot claim any civil rights
+      - Cannot claim recovery of, or even compensation of lands that were taken
+    - They may now be recognized as having a form of government and laws but was not the case in the founding days
+      - During this time, most useable land in Oceania had been taken into actual possession by the King of England
+  - R v Bonjon
+    - (16 September 1841, Melbourne)
+    - Argued that occupation did not give the Crown authority over Indigenous inhabitants as Subjects unless there was a treaty or agreement between the parties and Indigenous people had elected to come under English law. 
+      - Argument from prosecution was lawful if they “left land for subsistence”
+      - Crown brought the law of England to New South Wales, that Aboriginal people were protected by the law and that they were bound to obey
+- Development of Anglo-Australian Law
+  - Australian Courts Act 1828 (Imp)
+    - all laws and statutes in force  within the realm of England at the time of the passing of this Act shall  be  applied so far as the same can be applied within the said colonies
+  - Colonial Laws Validity Act 1865 (Imp)
+    - Colonies can enact inconsistent laws unless British law has paramount force
+  - Statute of Westminster 1931 (Imp)
+    - Once adopted repugnancy ceases for the Commonwealth (not States)
+      - s 2. The Colonial Laws Validity Act... shall not apply to any law made after the commencement of this Act by the Parliament of a Dominion.
+      - s  4.  No  Act of  Parliament of the United  Kingdom passed after the commencement of this Act shall extend... to a Dominion... Requested, and consented to, the enactment
+      - s 1. In this Act, the expression ‘Dominion’ means... the Commonwealth of Australia…
+  - Australia Act 1986 (Cth)
+    - UK cannot legislate for Australia 
+    - Repugnancy ceases to have an effect for the Australian States
+      - Colonial  Laws  Validity  Act 1865  shall  not  apply  to  any  law  made  after  the commencement  of  this  Act
+- First Nations Laws
+  - Milirrpum v Nabalco Pty Ltd (1971) 17 FLR 141 (Gove Land Rights Case)
+  - »Coe v Commonwealth (1979) 24 ALR 118
+  - »Mabo v Queensland (No 2) (1992) 175 CLR 1
+  - »Coe v Commonwealth (1993) 118 ALR 193
+  - »Love v Commonwealth (2020) 270 CLR 152
+  - »Northern Territory v Griffiths [2019] HCA 7 (‘Timber Creek Case’)
+  - »Walden v Hensler (1987) 163 CLR 561
+  - »Walker v New South Wales (1994) 182 CLR 45
+  - »Wik Peoples v Queensland (1996) 187 CLR 1
+  - »Yorta Yorta Aboriginal Community v Victoria (2002) 214 CLR 422
+  - Freehold title
+    - exclusive ownership of land. 
+    - Freehold provides the owner with rights over the land for an indefinite period of time, including rights of occupation, rent, and sale.
+  - Native title
+    - use their land or waters in accordance with their laws and customs.
+    - This right pertains to specific nations that can prove ongoing ‘traditional’ connections to land.
+  - Terra nullius 
+    - land belonging to no one.
+  - Protectionism
+    - Smooth the dying pillow
+    - Put aboriginals in “hospice”
+      - Nice areas until they die out
+  - Aboriginal Acts	
+    - Formalized protectionism
+    -  ‘protectors’ who would police every aspect of First Nations people’s lives
+      - Movement
+      - Marriages
+      - Income
+      - work. 
+    - Authorized stolen generation
+      - For assimilation purposes
+    - Large 60s movement
+      - NSW Freedom Rides
+        - Charles Perkins
+      - Yes vote for constitutional reform
+        - Faith Bandler
+    - Customary law
+      - Needed recognition of this for land
+      - Would not receive
+    - Grandmothers Against Removal
+      - 11x first nations children in the system rather than with grandmothers
+  - Racial Discrimination Act 1975
+    - illegal to discriminate against someone based on their race, color, descent, or national or ethnic origin. 
+    - established the position of Race Discrimination Commissioner to investigate complaints of racial discrimination and promote public awareness
+  - The Northern Territory
+    - Northern Territory National Emergency Response Act
+      - Emergency relating to poverty, housing, and child abuse
+        - fifty percent of social security income was quarantined for certain items from certain stores
+        - prohibition of alcohol on Northern Territory Aboriginal lands
+        - restriction on possession of X-rated pornography
+        - compulsory acquisitions of townships
+        - increased police and police powers in Aboriginal communities.
+      - Suspension of the Racial Discrimination Act
+    - Replaced by the Stronger Futures in the Northern Territory Act 2012
+      - reinstated the Racial Discrimination Act
+  - Overturning terrra nullius
+    - Milirrpum v Nabalco (1971) 17 FLR 141 (‘Gove Land Rights Case’),
+      - Native title was not part of Australian Law
+      -  Yolngu people followed a ‘subtle and elaborate system’ of laws and customs connecting them to the land
+        - Even considering this, they had no right to be recognised as the owners under the laws of Australia.
+      - Aboriginal Land Rights Commission was established in 1973.
+        - Aboriginal Land Rights (Northern Territory) Act 1976 (Cth).
+          -  transferred ownership of certain lands to Aboriginal people and also provided a foundation for land rights claims based on traditional occupation.
+    - First Nations care for Country was pursued with the twin aims of 
+      - ensuring the greatest abundance of food 
+      - maintaining the greatest diversity of fish, plants and animals.
+    - Mabo v Queensland [No 2]	
+      - British Crown did not acquire exclusive possession of all Australian land in 1788. 
+      - Aboriginal possessory rights to land.
+      - Queensland gov tried to stifle case, passed Queensland Coast Islands Declaratory Act 1985 (Qld).
+        - Extinguished native title
+        - Was ruled contrary to Racial Discrimination Act
+      - Final ruling was made because failure to pay compensation for land acquisition (a constitutional entitlement for all Australians) discriminated against First Nations people (i.e., terra nullius was moot).
+      - Sui generis 
+        - Unique
+      - Mabo created native title
+        - not a right to own or lease the land
+        - Is a right to use the land in accordance with the claimants’ customs
+      - Requirements to establish native title
+        - they have had an ongoing connection with their traditional lands since colonization
+        - their connection is determined by their own laws and customs that gives them rights to their land
+        - there has been no extinguishment of their rights.
+      - Native Title extinguished
+        - before 1975, by the Crown through legislation clear and plain intention to extinguish native title
+        - grant of land to a third party inconsistent with a right to enjoy native title 	
+          - grant of freehold title on which the claimant’s house is located
+        - laws by which the Crown acquires full beneficial ownership of land previously subject to native title
+        - no persisting First Nations laws and customs on the claimed land because native title has been ‘washed away’ by colonization
+        - fail to establish the required continuity of connection between the laws and customs at the time of sovereignty and the present day.
+  - Developments since Mabo	
+    - Native Title Act 1993 
+      - governs the recognition, limitations and definition of native title
+      - established the procedure for making native title claims.
+        - communal native title as part of Australian law
+        - prescription of the circumstances for extinguishment of native title
+        - national system for processing native title claims over land without exclusive possession
+        - creation of the National Native Title Tribunal 
+          - mediate between claimants and respondent parties such as state and local governments, pastoralists and recreational users of the land; 
+          - if no agreement is reached, the matter is determined by the Federal Court
+        - Legal recognition of Native Title Representative Bodies to represent claimants.
+    - Jango v Northern Territory of Australia 
+      - claimant group has a right to compensation where native title is found by a court to have been ‘extinguished’ by a government
+    -  Timber Creek Case 		
+      - rates of compensation are to be paid at rates on a par with other forms of property 
+    - Wik Peoples v Queensland 
+      - native title is not necessarily extinguished by the grant of a pastoral lease 
+        - government-owned Crown land is leased out to graziers for the purpose of livestock grazing on rangelands.
+        -  native title can coexist with other interests in land. 
+        - Non-native title-holders prevail in disputes
+    - Native Title Amendment Act 1998
+      - 10 Point Plan
+      - limited native title rights, listing numerous instances of extinguishment
+        - Crown Acts
+        - public works
+        - incidental construction
+        - future acts of pastoralists, cultivators, or miners
+      - Cannot be revived once extinguished
+      - Suspended Racial Discrimination Act 1975 to pass this
+      - Resulted due to Wik
+    - Human Rights and Equal Opportunities Commission (now known as the Australian Human Rights Commission), the Aboriginal and Torres Strait Islander Commission, etc submitted to UN that OZ gov violated CERN via Native Title Amendment Act 1998
+      - Convention on the Elimination of Racial Discrimination (‘CERD’) Article 5
+        - right for Indigenous people to own property without discrimination
+      - UN Declaration on the Rights of Indigenous People
+        - OZ endorsed in 2009, but not enforced unless domestic
+      - United Nations Human Rights Committee resulted from Oz not legislating for Aboriginal protection
+        - Created due to high standard of proof required to demonstrate ongoing connection with land and the difficulties in obtaining compensation under the Native Title Act
+  - Yorta Yorta Aboriginal Community v Victoria (2002)
+    - native title is unlikely to be recognized in the areas of eastern and southern Australia that have been most affected by European colonization.
+      - washed away’ the Yorta Yorta community’s traditional laws, languages and customs and thus their evidence for native title claims.
+      - Oral evidence not sufficient
+  - Western Australia v Ward (2002) 
+    -  courts privilege written documents, by colonisers, above the evidence by claimants.
+    - evidence of cultural knowledge was deemed insufficient to prove native title. 
+  - Land rights legislation 
+    - granting common law land title to First Nations people.
+    - Aboriginal Lands Act 1970 (VIC)
+    - Aboriginal Land Rights (Northern Territory) Act 1976 
+      -  Aboriginal rights to land as a statutory creature in the imposed property system
+    - State Gov passed legislation
+      - Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981 (SA)
+      - Aboriginal Land Rights Act 1983 (NSW)
+      - Maralinga Tjarutja Land Rights Act 1984 (SA)
+      - Aboriginal Land Act 1991 (Qld)
+      - Torres Strait Islander Land Act 1991 (Qld)
+      - Aboriginal Lands Act 1995 (Tas).
+    - Different requirements per state
+  - nearly half of the Northern Territory is owned by Traditional Owners under the land rights system.
+  - Alternative Dispute Resolution (ADR)
+  - Consent determinations
+    -  native title claims are settled by agreement between the parties	
+  - Indigenous land use agreements (‘ILUAs’)
+    - permit developers, pastoralists or mining companies to negotiate directly with all people who may hold native title over the land. 
+  - Coe v Commonwealth [No 2] (1993) 
+    - challenge to these governments’ sovereignty over her tribe.
+    - no native title rights due to the prevailing statutory and freehold title grants.
+    - Chief Justice said (at 200) that nothing decided in Mabo affected sovereignty:
+      - The decision conflicts with the idea that Aboriginal people have limited sovereignty, as they are entitled to self-government and full rights except for the right of alienation. 
+      - It also goes against the belief that they are entitled to rights and interests beyond those recognized by the gov
+- The stolen Generations
+  - National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families (NISATSIC)
+    - Acknowledgment of and response to the issue of forced  separations
+    - Investigate and assess the effects of past laws, practices and policies which resulted  in the separation of Indigenous children from their families by compulsion, duress or undue influence. 
+    - Tasks
+      - examine the adequacy of services available  for those affected by separation; 
+      - to examine the principles relevant  to  compensation
+      - to examine  current  laws,
+        - Practices
+        - Policies
+        - With respect to contemporary separations
+        - advise of  changes required
+    - 10% of children stolen by sanctioned gov
+  - Findings
+    - Found gov guilty of 
+      - deprivation of liberty
+      - deprivation of parental rights
+      - Abuses of power
+      - breach of guardianship duties
+      - violation of international human rights
+    - Government was not following common law
+  - Results
+    - NISATSIC recommended
+      - acknowledgment and  apology; 
+      - Guarantees against repetition; 
+      - measures  of  restitution; 
+      - measures  of  rehabilitation; 
+      - Monetary compensation
+    - Used the Bassiouni-Van Boven principles
+  - The purpose of reparations is to promote justice 
+    - the basic principle underpinning the quantum of reparations is a proportional response to the gravity of the violations and the harms that have been caused
+- Native Title
+  - States have plenary power
+    - Union Steamship Co of Australia v King (1988)
+      - Residual enumerated powers being reserved for the Commonwealth
+  - Overlap
+    - Prima facie ‘valid’ laws - on the face of it)
+      - Commonwealth law has primacy to the extinct of any inconsistency s 109, even in land law
+  - De jure
+    - The law as it exists 
+  - Determining the question of sovereignty was outside the jurisdiction of a municipal court  (Mabo(No2)
+- 44 proprosed consitutional amendments
+  - 8 susccessful
+- Constitution 
+  - The date written on the title page, 9 July 1900, was the date the Constitution gained Royal Assent.
+  -  Commonwealth Constitution came into force on 1 January 1901.
+  - Alternative dispute resolution
+    - quasi-legal processes, as opposed to traditional litigation in a court, used by parties to settle disputes
+  - Conciliation
+    - a form of alternative dispute resolution where a conciliator directly assists parties to find ways of settling a dispute.
+  - Cross-vesting 
+    - the granting, or vesting, of power in a state court to exercise Commonwealth judicial power.
+  - Indictable offense
+    - Serious offence
+  - Parliamentary Sovereignty 
+    - Legislature is supreme three arms branch
+  - Summary offense 
+    - Less serious crime
+  - Govener-general dismissing whitlam 
+    - reserve powers’
+      - Powers without being beholden to the ministers
+        - appoint or dismiss a prime minister
+        - the power to force a dissolution of the parliament
+        - the power to refuse to dissolve the parliament.
+      - Typically follows convention
+        - Senate blocked funding in 1975 so government had no money
+        - Gov-general dismissed Prime minister
+          - Consistent with convention that a prime minister without funding should seek a general election or be dismissed
+          - Argueement that person who retains majority support of HoR is to remain PM. 
+  - High court
+    - Determines constitutionality of laws
+      - Intra vires
+        - Inside the powers
+      - Ultra viers
+        - Outside the powers
+      - If High court rules a piece of federal legislation is invalid, the Federal Parliament cannot override that decision by issuing further legislation. 
+        - In this matter, the High Court is supreme over the Federal Parliament.
+  - Kable v Director of Public Prosecutions (NSW) (1996) 189 CLR 51
+    - Guy was threatening caretakers of children, but time was up and was supposed to be release by longhstandng legal principle.
+    - NSW gov enacted the Community Protection Act 1994 (NSW) 
+      - protect the community by providing for the preventive detention of Gregroy Wayne Kable
+    - The entire state government was directed at him, creating law retrospectively 
+      - Parliament sticking nose in judiciary business, high court struck it down
+  - The Constitution Act 1855 (NSW)
+    - constitution for the colony of New South Wales and a parliament comprising a Legislative Council and a Legislative Assembly
+    - The Constitution Act 1902 (NSW) sets out the powers of the legislature and executive, 
+      - and the roles of a Governor of New South Wales, 
+      - an Executive Council to advise the Governor
+      - and a Chief Justice of the Supreme Court.
+  - Australian Capital Territory
+    - created in 1911
+    - The Australian Capital Territory achieved self-government in 1989, with the Self-Government (Citation of Laws) Act 1989 (ACT). 
+    - Unicameral system of parliament
+      - only a legislative assembly
+  - Important constitutional documents
+    - Letters patent
+      - form of an open letter issued by the Crown on advice of the government ministers, granting an office, right, monopoly, title or status to a person or to some entity, such as a corporation. 
+      - October 1900, Queen Victoria created GFov-general
+      - Recently created Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability
+  - Parliament
+      - Queen and two houses
+        - Senate
+          - 76 senators
+          - 12 from each state plus twoe each from NT and ACT
+          - 6 year term
+          - Check on gov
+        - House of Representatives
+          - Directly elected
+          - 151 members currently
+          - State population
+            - Each state is guaranteed five seats
+          - 3 year term
+    - Executive
+      - Queen to be exercised by Governor-General
+      - Administer laws and carry out business through 
+        - gov departments
+        - statutory authorities
+        - the defense forces
+      - Prerogative of the crown
+        - Customary authority
+        - Privilege
+        - Immunity for the crown
+          - Excercised on the advice of the prime minister traditionally 
+    -  Federal Executive Council
+      - Advise governor-General in council
+  - Judicature
+    - High Court of Australia
+      - Appointed by Governor-General on advice of government
+      - Serve until 70 years old
+    - Federal Court of Australia
+    - Family Court
+  - Rights
+    -  individual rights in the Commonwealth Constitution, 
+      - except for a right to vote (s 41)
+      - a right to trial by jury (s 80)
+      - freedom of religion (s 116)
+      - a right to reasonable compensation where the Crown acquires a person’s property (s 51(xxxi))
+      - and the right of citizens not to be discriminated against by governments in other states (s 117). 
+    - Implied rights
+      - Dietrich v The Queen (1992) 177 CLR 292
+        - an implied right to a fair trial (also known as the right to ‘due process’).
+      - Australian Capital Television Pty Ltd v Commonwealth (1992) 177 CLR 106
+        - implied right to freedom of political communication.
+  - Commonwealth and state relationship
+    -  no one state can be favoured over the others. 
+    - Commonwealth cannot tax residents in one state at a higher rate than residents in another state (s 51(ii)),
+      -  Cannot tax products from one state higher than products from another state (s 51(iii)).
+  - Change the constitution 
+    - Section 128 provides that any change to the Constitution can only be approved by the people of Australia. 
+      - Referendum
+        - people of Australia approve a change to the Constitution 
+        - Must be passed by majority in both houses of parliament,
+          - Then public votes yes or no. Requires
+            - approval of the majority of all voters, 
+            - plus a majority in at least four of the six states
+              - then the Constitution will be changed.
+  - constitutional conventions
+    - leader of the political party with the most seats in the lower house should become the Prime Minister, the head of the Cabinet, and the country’s political leader
+    - Prime Minister is not explicitly referred to in the Australian Constitution at all. 
+  - Supply Bill
+    - Funding/budget for government
+  - Federal parliament
+    - Exclusive powers
+      - Only fed parliament may make laws regarding these issues
+        - the establishment of the seat of government of the Commonwealth and oversight of the Commonwealth Public service (s52),
+        - the imposition of customs and excise duties (s90),
+        -  the raising and maintaining of any naval or military force (s114),
+        - the coining of money (s115)
+        - the government of the Territories (s 122)
+  - State parliaments
+    - Residual powers
+      - Only state parliament may make laws regarding these issues
+        - Education
+        - health 
+        - criminal law 
+        - contracts and torts
+        - Transport
+        - Property and land
+        - local government. 
+  - concurrent powers.
+    - All parliaments have jurisdiction 
+    - Section 51 of the Australian Constitution sets out 40 concurrent ˜heads of power”
+      - Section109of the Australian Constitution states that: When a law of a State is inconsistent with a law of the Commonwealth, the latter shall prevail, and the former shall, to the extent of the inconsistency, be invalid
+      - Wallis v Downard-Pickford (North Queensland)Pty Ltd (1994)179 CLR 388
+      - Koowarta v Bjelke-Petersen (1982)153 CLR 168
+      - Commonwealth v Tasmania (1983)158 CLR 1
+    - Can interpret s 51 strictly as well 
+      - New South Wales v Commonwealth (1990)169 CLR 482
+    -  “centralization” of legislative power
+      - Shifting of the ‘federal balance’ in favor of Commonwealth 
+      - Tied grants
+        - Common core, government overreach, dangling money so states obey
+  - No bill of rights in constitution
+    - Most viewed that the Westminster system, separation of powers, and responsible government were sufficient
+    - However some court cases have occured
+      - Langev Australian Broadcasting Corporation (1997) 189 CLR 520
+        - Freedom of political communication
+      - Roach v Electoral Commissioner (2007 )233 CLR 16
+        - Limited right to vote
+- 8 succeeded referendum
+  - Gov-general can skip over houses if they keep passing it between each other for 3 months
+  - 8 succeeded votes
+    -  1906 
+      - Section 13 was amended to alter the length and dates of senators' terms of office.
+    - 1910 
+      - Section 105 was amended to extend the power of the Commonwealth to takeover pre-existing State debts to debts incurred by a State at any time.
+    - 1928 
+      - Section 105 was inserted to ensure the constitutional validity of a financial agreement reached between the Commonwealth and State governments in 1927.
+    - 1946 
+      - Section 51 (xxiii) was inserted to extend the power of the Commonwealth Government over a range of social services.
+    - 1967
+      - Section 51 (xxvi) was amended to extend to Aborigines the power of the Commonwealth Government to legislate for people of any race, 
+      - s 127 (which stated that Aborigines were not to be counted in any Commonwealth or State census) was repealed.
+    - 1977 
+      - This amendment formalized the convention that, when a casual vacancy arises in the Senate, the parliament of the relevant State, if it chooses to fill the vacancy, must choose the replacement from the same political party as the departing senator if that party still exists.
+    - 1977
+      - Section 128 was amended to allow residents of the Territories to vote in referendums and be counted towards the national total.
+    - 1977
+      - Section 72 was amended to impose a retirement age of 70 upon judges in Federal courts.
+- Updating the constitution by other means
+  - Under s 51, the Commonwealth has power to legislate with respect to the custody and maintenance of children only in relation to marriage and divorce.
+  - Tasmanian Dam and WorkChoices 
+  - The Australian Consumer Law is another example of Commonwealth/​ State cooperation.
+  - Brandy 
+    - Demonstrated the separation of the institutions and functions of government at Commonwealth level.
+    - executive encroachment on judicial power is not always tolerated.
+  - Judicial creativity
+- Constitutional Change: Strengthening Rights Protection
+  - Ozzies trust government, even after making fun of them
+  - The founding fathers believed that 
+    - decision-making about the protection of rights-which ones we recognize and the extent to which we protect them were matters for the parliament. 
+  - Tasmanian Parliament proposed the following 
+    - ... nor shall a state deprive any person of life, liberty, or property without due process
+    - of law, or deny to any person within its jurisdiction the equal protection of its laws. 
+  - Was denied so that Parliament could enact racist laws, and “was uncecessary”
+    - Australians were content to rely on governments to protect them. 
+      - For Indigenous Australians, this left them vulnerable to exploitation and the breach of their human rights. 
+    - Wanted equal access to education and opportunity 
+      - Citizenship rights
+  - The Constitution can only be amended by a referendum and requires a Bill to be first passed by the Commonwealth parliament
+    - referendum is then put to the Australian people and to pass, it must attract an overall national majority and by a majority in a majority of states. 
+  - 1967 referendum - ‘yes’ campaigns
+    - allow for Indigenous people to be included in the census; 
+    - give the federal parliament the power to make laws m relation to Indigenous people. 
+    - s 51 (xxvi) = the 'races power'
+      - Kartinyeri v Commonwealth (the Hindmarsh Island Bridge case) (1998) 195 CLR 337.
+        - When the federal government passed legislation that stopped heritage protection legislation from applying to the contested area
+      - Argument was that 1967 referendum was passed with clear intention that the federal government should only use the power to protect Aboriginal people
+      - High court sided with Cth (comonwealth)
+        - court told her that, if the federal parliament can grant heritage protection, it is free to take it away if and when it so chooses
+    - Consequences of 1967 referendum
+      - new relationship it created between federal and state and territory governments. 
+      - 'Cost shifting' and 'blame game' between state and federal governments
+    - Kruger v Commonwealth (1997) 190 CLR l.
+      - First case about stolen-generation
+      - Unsuccessful on all human rights violations
+        - Intentional silences - Implied rights are only implied
+          - the right to due process before the law
+          - equality before the law
+          - freedom of movement 
+          - freedom of religion
+        - Australia is the only commonwealth country with outdated legal system 
+  - Preamble
+    - Had a very nice moral preamble that was rejected as they wanted to have it legally binding but could not
+    - rejected at the referendum held on 6 November 1999
+  - Potential improvements to the constitution
+    - A new Preamble to the Constitution that recognizes the unique place of Aboriginal and Torres Strait Islanders
+      - recognition of prior sovereignty and prior ownership
+    - Add a bill of rights
+      - Implied rights are only implied
+    - A non-discrimination clause in the body of the Constitution: 
+    - Specific constitutional protection:
+      - a specific provision about Indigenous rights. 
+    - Repeal of s 25 that permits discriminatory laws in relation to voting:
+- The History of Treaty in Australia 
+  - Tanderrum
+    - Kulin Nation ceremony to rent land or access 
+  - In 1846, for example, Aboriginal people petitioned Queen Victoria about maltreatment on Flinders Island in Bass Strait.
+  - R vs Ballard
+    - Crown can’t judge Aboriginals because they have laws
+    - Reversed this in R v Murrell
+    - Kind of reversed back again to they can’t judge them in R v Bonjon
+    - Dismissed Ballard and Bonjon and cherry-picked Murrell 
+  - Barunga statement
+    -  Barunga Festival in the Northern Territory,
+    - a national elected Aboriginal and Islander organisation to oversee Aboriginal and Islander affairs
+      - a national system of land rights, compensation for loss of land, an end to discrimination and the protection of civil, political, economic, social and cultural rights. 
+    - Also wanted a treaty
+    - Prime Minister Hawke, big talker few results
+      - Created Council for Aboriginal Reconciliation Act
+    - December 1992, Prime Minister Paul Keating
+      - Redfern Speech
+  - The Howard Government, however, rejected or ignored many of what it characterized as symbolic proposals
+    - such as treaty, constitutional reform and recognizing inherent Indigenous rights, 
+    - on the basis that they were too divisive to advance reconciliation
+  - Northern Territory 2007 
+    - Went power-mad after being accused of child abuse
+      - National emergency
+        - Banned sale and consumption of alcohol in areas
+        - Forced 5-year leases without comp
+        - Denied introduction of evidence of customary laws, etc
+        - Suspended Racial Discrimination Act
+  -  Prime Minister Malcolm Turnbull
+    - Referendum Council 
+      - 15 Indigenous and non-Indigenous members
+      - At Uluru, delegates issued the Statement from the Heart. 
+        - national Indigenous representative body empowered to advise parliament on laws that affect Indigenous people and a Makarrata Commission to supervise a process of treaty making and truth telling.
+        - Gone was the prohibition on racial discrimination.
+        - coexisting sovereignty, understood as 'a spiritual notion'
+    - Turnbull gov rejected everything after 5 months response
+      - Said “the voice” would contradict all Australian citizens having “equal civic rights”
+    - Expert Panel (as well as the subsequent Joint Select Committee) identified treaty as a key aspiration of Aboriginal and Torres Strait Islander peoples but stopped short of recommending government explore it further. 
+  - Recognize campaign
+    - The recognize campaign had resistance
+      - First burst onto national stage in victoria in 2016
+  - Victoria
+    - The Advancing the Treaty Process with Aboriginal Victorians Act 2018
+      -  a basis for negotiating a treaty with Aboriginal people in the State
+  - Northern Territory
+    - Signed a memorandum of understanding in the same month 
+    - Barunga Agreement
+  - The rest
+    - In talks
+  - Western Australia 
+    - Noongar people 
+    - Liberal Government treaty
+      - Largest and most comprehensive agreement
+      - Australia's first treaty (size and scope)
+  - Future issues for treaties
+    - Capacity of the Commonwealth Parliament to
+    - overrule any State-based treaty
+      - as well as the relationship between treaty processes and the Uluru Statement from the Heart's prioritization of a First Nations Voice. 
+- Judicial decision-making I: Introduction to reading cases
+- Problem-solving using precedent
+  - Not all precedents are created equally
+    - High courts and unanimous decision = better
+- Introduction to precedent
+  - stare decisis = precedent
+    - Abide by or adhere
+  - ratio decidendi - ratio
+    - ground or reason for the decision
+  - obiter dicta - obiter
+    - Comments not strictly relevant to outome
+  - Kakavas v Crown Melbourne Limited
+    - Harry Kakavas, sued Crown Melbourne Limited, the operator of the Crown Casino in Melbourne, for allegedly exploiting his gambling addiction.
+      -  allowing him to gamble large sums of money at their casino, despite knowing that he had a gambling addiction.
+      - problem gambling and the responsibility of casinos to protect vulnerable customers.
+    - The leading case on unconscionability is Commercial Bank of Australia v Amadio (1983) 151 CLR 447
+      - parents of a builder had guaranteed their son’s business loans with the bank, 
+        - little understanding of English and little education, they didn’t understand that the business was not going well,
+        - the guarantee was unlimited
+        - and they could lose their home. 
+      - Court in common found no issue, but equity said that the parents were at ‘special disadvantage’ and told the bank to go away
+    - Ratio is the tipping point to the argument
+      - In this case, how the precedent would be applied, was he at special disadvantage
+    -  Louth v Diprose [1992] HCA 61
+      - extent of knowledge the defendant must have of the plaintiff’s disability
+        - unconscionable for the defendant to take advantage of the plaintiff
+    - Indifference to his gambling addiction was not enough, they needed to take advantage of the state to be at ‘special disadvantage’
+- Case law and precedent
+  - Case law = common law
+  -  Commonwealth’s Administrative Appeals Tribunal.
+  - Donoghue v Stevenson
+    - found the decomposed remains of a snail in a bottle of gingerbeer she was drinking
+      - Caused shock and severe gastroenteritis
+    - Developed neighbor principal
+      - Those in close proximity to what you’re doing and will be affected by it
+        - i.e., manufacturer of a drink and drinker
+  - Plaintiff 
+    - Appears first in civil
+  - Defendant
+  - Summarizing a case
+    - For classpreparation, it is often sufficient to note onlythe followinginformation:
+      - citation;
+      - brief statement of material facts;
+      - ground(s) of appeal and/or issue(s) to be decided;
+      - reason(s) for decision; and
+      - Decision.
+  - Detailed analysis of case
+    - citation;
+    - court, including single judge, Full Court or Court of Appeal;
+    - brief statement of material facts;
+    - Procedural history
+    - Grounds for appeal and/or issued to be decided
+    - Summary of court’s analysis of law
+    - Principle of law to be applied;
+    - Description of how law was applied to the facts;
+    - decision;
+    - orders made by the court; and
+    - any features of the case suggesting that it should be viewed in its social or cultural context.
+  - Italicized need to be repeated for each issue that the court discusses
+- The hierarchy of authority
+  -  each state has its own court hierarchy, with the High Court at the top
+  - Farah v Say-Dee [2007] HCA 22; (2007) 230 CLR 89
+    - intermediate appellate courts have to follow other intermediate courts unless they are plainly wrong.
+    - lower appellate courts should be bound by seriously considered dicta of the majority of the High Court.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Rules of law derived from cases are not in fixed verbal form
+  - Wording on common law might be similar, but different judges apply it slightly differently
+  - Doctrine of precedent rules
+    -  each court is bound by decisions of courts higher in its hierarchy;
+    - a decision of a court in a different hierarchy or lower in the same hierarchy may be persuasive but not binding;
+    - a court is not bound by its own pastd ecisions but will depart from them with reluctance;
+    - Only the ratio decidendi (the reason for the decision) of a case is binding
+    - obiter dicta (remarks in passing)are not considered binding but may be persuasive;
+    - precedents do not lose their force by lapse of time; and
+    - previous court decisions only apply to the legal principles used to make the decision (ratio decidendi), not to the factual findings made by the court. 
+      - Additionally, a lower court is not bound by the factual findings of a higher court, especially in a different case.
+    -  Kinsella v Solicitorforthe Northern Territ
+      - often creates conflicts between two important goals. 
+        - On the one hand, people want a final and clear outcome to their legal disputes, so they know where they stand. 
+        - On the other hand, people want to make sure that justice is served in each individual case
+          - which may not always be the same as past decisions.
+    - occupier’s liability
+      - the liability, generally upon the occupier rather than the owner, to compensate persons injured on premises, owing to their dangerous state
+  - Ratio decidendi 
+    - This can be expressed by saying that the doctrine of precedent will view as a ratio only a ruling on a point of law rather than a statement of a rule of law•. 
+  - LEVEL OF GENERALITY
+    - Cases that are worded to apply only to the specific facts of that case are of limited precedential value 
+      - while restating a rule at a higher level of generality allows it to encompass a wider range of factual circumstances and increases its value as a precedent.
+- Precedent and Change
+  -  Dorset Yacht Co Ltd v Home Office
+    - previous cases had not usually allowed a duty of care in negligence to arise in such circumstances—where the defendant was a public authority, 
+      - where the damage was caused not directly by the defendant but by a third party’s voluntary action. 
+    - Natural law is broadly a belief in a system of law common to all people
+      - derived from the supreme force in the universe, or God. 
+    - positivism in law, 
+    - broadly, is a belief in a system of law created by men.
+      - Such law is recognisable by its pedigree or how it was created
+      - rather than whether it is right or wrong. 
+- Bugmy v R (2013)
+  - Cause of Appeal	
+    - Director of Public Prosecutions appealed the case on the grounds that the sentence was inadequate
+    - Two key legal issues - Ratio
+      - An appellate court cannot adjust a sentence unless it first makes an explicit finding that the original sentence was manifestly inadequate.
+      - Sentencing factors should relate to the individual offender, be it Aboriginal or non-Aboriginal — 
+        - generic and systemic factors such as incarceration statistics are not relied upon.
+        - In sentencing, full weight should be given to an offender’s deprived background, regardless of the intervening years and offences.
+  - Laws violated 
+    - Section 60A(1) makes it an offence to assault a correctional officer while the officer is acting in the execution of his or her duty.
+    - Section 33(1)(b) makes it an offence to cause grievous bodily harm to a person with intent to cause harm of that kind.
+  - Facts
+    - Criminal background - in and out of prison since 13 to 29
+    - Mental impairment
+      - Caused court to reconsider his sentence due to personal circumstances
+    - Took Fernando considerations into account
+      - raised in an Aboriginal community with alcohol abuse and violence
+      - Fernando was intoxicated at the time
+      - If raised in a community like this, the offender’s moral culpability is likely less than those whose formative years were better
+    - Courts are waiting for legislative to fix natives incarcerated
+    - Wood J proposed that being unfamilkiar with European ways would make a lengthy term particularly burdensome
+    - the appellant’s submission that courts should take judicial notice of the systemic background of deprivation of Aboriginal offenders cannot be accepted
+  - Director’s issues
+    - ‘Ground 1: failed to determine the degree of the offence.
+    - Ground 2: failed to acknowledge the victim as a serving prison officer performing his duties.
+    - Ground 3: Judge weighed the facts of the case too leniently.’
+      - The appellant argued that the three additional grounds were just details of the main issue of manifest inadequacy. 
+      - The Director didn't argue otherwise but said that the errors found were like manifest inadequacy. 
+      - The problem is that the Court of Criminal Appeal either found manifest inadequacy or not. 
+        - The Court's holding said that they didn't need to address the issue of manifest inadequacy because the errors identified required a resentencing. 
+        - This contradicts the argument that there was an implicit finding of manifest inadequacy.
+  - Results
+    - Court of Criminal Appeal disagreed with the sentence imposed by Judge Lerve and favoured a more severe sentence.
+    - Appeals said that Judge Lerve gave too much weight to fernando in this case
+    - Must not treat aboriginal offenders different, if so, individual justice is meaningless
+    - Brennan J in Neal v The Queen [(1982) 149 CLR 305], 
+      - the weight to be afforded to the effects of social deprivation in an offender’s youth and background is in each case for individual assessment.
+- Government initiatives in customary sentencing
+  - Circle sentencing (NSW)
+    - community elders, the victim (if they choose), the offender and their lawyer, family members of the offender and victim, the prosecutor and the magistrate sit  together in a circle to discuss and decide upon a sentence by consensus
+  - Koori court (VIC)
+    -  Magistrates’ Court (Koori Court) Act 2002  (Vic)
+    - Magistrate has ultimate authority, with input from community, victims, etc
+  - Murri court (QLD)
+    - obligations under s 9(2)(o) of the  Penalties and Sentences Act 1992  (Qld)
+    - take into account the views of Indigenous community representatives when sentencing Indigenous offenders
+-  FILLING THE LEGAL GAP—TREATY AND SOVEREIGNTY RIGHTS
+  - Treaty of Waitangi - 1840 (NZ)
+  - 1990 Aboriginal Provisional Government (APG)
+    - Wanted Aboriginal state
+      - All control vesting in indigenous communities
+        - Want crown land and additional land
+          - Half of Australia 
+        - Compensation for the transfer of the remaining land to Oz (pay for the land that the Oz government gets from the natives)
+        - Natives not subject to Australian law unless consented
+        - Natives would be self-governing, but could choose to live in white Australia
+        - Law boundaries (White law vs traditional law)
+        - International law when differences between white Oz and native Oz
+        - Operate as a state internationally 
+- Applying precedent
+  - Precedent is mainly used in courts
+  - Tribunals are also bound by court precedent
+    - do not use decisions of previous tribunals as a precedent. 
+  - Most cases turn on their facts
+    - Mainly appellate courts that grapple with interesting legal questions
+  - Precedent argument
+    - If in favor
+      - and try to convince the judge to follow the reasoning in those past decisions that are in their favour.
+    - If not 	
+      - Decision is somehow  materially different from the present case, and that it therefore does not apply.
+  - Material facts
+    - Which facts are important 
+  - If overruled in a higher court due to reasoning, it is no longer valid precedent
+      - Does not reopen the original case, res judicata 
+    - If considered
+      - Thought about but not followed nor distinguished from present case
+    - If cited
+      - Referred to without being considered
+    - The original decision, on appeal, may be:
+      - Upheld
+        - Court agrees withy original decision
+      - Reversed
+        - Court agrees with arguments raised on appeal 
+  - Cases cited in Namoa v R
+    - Woman argued that planning terrorism with husband was not conspiracy, as spouses are one person
+    - High Court cited 23 cases
+      - 2 from previous court, 12 previous High Court decisions, and 8 from overseas courts
+    - High court ruled that spousal rule is not part of conspiracy. 
+      - Dismissed her case upheld previous court decision. 
+  - Find out if case has been overruled or used for further rulings
+    - Gerlach v Clifton Bricks Pty Ltd (2002) 209 CLR 478
+      - Has been used in over 200 cases
+        - Applied is best
+        - Then considered
+        - Then cited
+- When are precedents binding?
+  - Only the ratio is used as precedent in a past case
+  - Decisions can be 
+    - Binding
+      - court is bound to follow the previous decision
+        - If not, likely that the decision will be appealed to a higher court.
+      - Each state has its own hierarchy, and federal is different than state courts not above
+      - Same court decisions
+        - A full court decision will bind a single judge, and a single judge may depart from a single judge.  
+        - A current full court can depart from single judge or previous full court
+    - Persuasive
+      - Likely to follow any precedent that falls within similar rank or higher
+        - A different state supreme court
+        - English House of Lords
+    - Largely irrelevant
+      - Often for international cases, and for smaller courts, i.e., india and district court
+  - Precedents from appeal courts in order of persuasiveness. 
+    - Unanimous
+      - Full bench arrived at the same outcome, best case to find ratio
+      - Single, unanimous judgement
+    - Majority
+      - Odd judges in a full court, whichever position has the most judges is majority
+    - Minority/dissenting
+      - Converse to majority. 
+      - Minority or dissenting judgements
+    - Joint
+      - Two+ judges write one judgement between them.
+      - May be unanimous, majority, or minority
+    - Individual
+  - Wik Peoples v Queensland
+    - 4 judges majority vs 3 judges
+      - Each of the four justices in the majority reached the same outcome using different reasoning, 
+        - this makes finding a ratio, to be used as a precedent, difficult if not impossible. 
+  - Justices Gummow and Hayne in Re Wakim; Ex parte McNally (1999) 198 CLR 511, 570
+    - considered that the decision of an equally divided High Court ‘established no principle or precedent having authority in this court’.
+- How are precedents avoided or distinguished?
+  - most common method of avoiding a precedent
+    - distinguishing a case on fact.
+  - Lawyers ethically must bring up all cases involved, even if they do not completely support your position
+    - Full disclosure
+- Judicial approaches to precedent
+  - Judges shouldn’t but do make law
+  - Do you follow law as written or make reasonable adjustments
+  - Declaratory theory
+    - Judges declare how law is, not how it should be
+    - “Applying the law” when actually making law
+  - Legal correctness
+    - Law can be explained in a series of rules. 
+    - Always one correct answer
+    - black-letter law
+  - Legal formalism 
+    - Apply the words of the law
+      - Without considering whether fair or just
+    - If a rule sucks, then parliament should change it
+  - Legal realism 
+    - How judges really judge
+    - Jurimetrics
+      - Study of the way judges judge and extraneous factors that affect decision making
+  - Judicial activism
+    - Make the law how it ought to be
+      - Promoting justice
+      - Legal formalists promote certainty
+  - If you don’t use precedent, must have reasons in judgment or else have the judgment labeled per incuriam 
+    - Through want of care
+  - 4 kirby guideposts as boundaries of judicial activism
+    - Opportunity
+      - Need a case that addresses the issue
+    - Need 
+      - Use power sparingly (unlikely to be changed by court - legal vacuum)
+    - Inclination
+      - Judge has to want it changed
+    - Methodology
+      - Consequences of choice and input from interest groups 
+- The importance of legal research	
+  - Primary data 
+    - is collected by the researchers themselves, such as through conducting surveys or interviews.
+  - Secondary data 
+    - census information and statistics, and past reported survey results.
+  - Doctrinal research 
+    - involves locating particular law and analysing the issues that arise
+  - Methodology or Strategy for legal research
+    - Step 1: What are you trying to find?
+    - Step 2: Decide on your research strategy
+    - Step 3: Locate the rules that govern the legal issues
+    - Step 4: Interpret and analyse results of your research Step 5: Apply research results to the facts in support of particular argument
+- Case Law
+  - Authorised reports
+    - a case may be published in a number of different law report series
+    - Only the CLR are the authorised law reports of the High Court of Australia
+      - Commonwealth Law Reports (CLR)
+      - Preferably use this citation
+  - Unauthorized reports
+    - May be the best place for lower courts and tribunals involving a specialised area of the law
+  - Unreported judgments
+    - decisions of courts that have not been published in either authorised or unauthorised law report
+  - Early Australian decisions
+    - First court decisions
+    - Newspapers only originally
+  - How cases are cited
+    -  case name, year, volume, law report series and starting page.
+    - Singh v Minister for Immigration and Multicultural Affairs (2000) 18 (volume) ALR (law report) 742 (starting page)
+  - How can | verify that a case exists given the information that | have?
+    - Citator
+      - the correct citation of a case and alternate or parallelcitation
+      -  also show the earlier proceedingsof your case in the lower courts and therefore alert you to the historical context of the case. C
+      - Shows how your principalcase has been
+      - Subsequently treated by later decisions. (Overruled, affirmed, etc) 
+  - Research ways
+    - Topic (including words and phrases)
+      - Secondary sources 
+        - such as legal encyclopedias, legal dictionaries, texts, commentary services and journal articles
+      - case citators
+        - such as Westlaw AU (FirstPoint),Lexis Advance (CaseBase)
+      - AustLII (LawCite);
+      - Legal words and phrases searches
+      - Searching other databases such as CCH IntelliConnect
+    - known cases
+      - if you have alreadybeendirected to a case (relatedto your research)
+      - or have found a case in your preliminary reading, it is good practice to locate and read that decision 
+        - then identifyhow that case has subsequently been treated in later decisions.
+      - 
+    - known legislation: Judicially considered legislation.
+      - Noting-up, or statues judicially considered	
+        - Samaritan law example
+- An overview of equity
+  - Equity
+    - Principles apple where law is deficient
+    - Does not fix the law, just applies specific resolution to a case (give back property etc, rather than fine)
+  - Institutional equity
+    -  creation   of a special  court having  the   power   to  modify or correct the general  law.
+  - Equitable remedies
+    - Equitable claims are remedy driven
+    - Smorgasbord
+      - Number and distinct remedial aims of equitable remedies
+    - Equitrable remedies can only be awardedn when equity acts in its exclusive jurisdiction
+    - Equity acts in its auxiliary jurisdiction when it acts in support of legal  rights.
+      - Only  equitable  remedies  can be awarded   in  the  exclusive  jurisdiction; 
+      - common   law  damages  are   never   available.  In  the  auxiliary  jurisdiction,  however,  a  court considers whether damages  will  adequately  compensate  for  the  plaintiffs  loss, and only  if  that remedy is not   adequate   will  the   award of an   equitable  remedy be considered.  
+      - Damages   are inadequate  if  a   money   award   will   not   enable  the  plaintiff  to  purchase  a   market   substitute  for the  defendant's  performance.
+- Analyzing Cases
+  - Clark v Malpas
+    - STEPS TO ANAYLSE CASE 
+    - Note the name of the case and its citation
+      - Clark v Malpas (1862) 31 Beav 80; 54 ER 1067
+    - Clarify the procedural history of the case. 
+      - No procedural history
+    - Ascertain the material facts
+      - In Clark v Malpas,the material facts relate to
+        - the vendor's personal circumstances (old,seriously ill, illiterate),
+        - the value ofthe property(aboutÂ£380), the price actually paid
+        - 100 to heir plus 12s (shillings) per week and free rent for life)
+        - and the circumstances in which the transaction occurred 
+          - (the purchaser knew that the vendor was ill, the vendor had no independent advice, the transaction was completed very quickly and the vendor died soon afterward
+    - State the issue raised bythe material facts and how the court answered it (theresult of the case
+      - In Clark v Malpas, the facts raised this issue: 
+        - is it fair for a party to retain the benefit of a bargain where the contract is hastily executed and the other party is a sick old man who received no independent advice and inadequate consideration? 
+          - And the court's answer? No
+    - Identify the reasoning which supported the decision and the ratio of the case.
+      - In this case it’s facts, so not much ratio (mostly appellate has ratio)
+      - Defendant used precedent that was distinguished by judge due to material difference
+        - Previous case gave seller time to move deliberately into transaction
+      - Example ratio: where the sale of property is for a very inadequate consideration and the circumstances establish that the vendor requires the protection of the law, 
+        - the burden is on the purchaser to prove that the transaction was entered into carefully, deliberately and with full knowledge
+- Louth v Dipros (1992)
+  - Stronger candidate, young healthy lawyer was the one with special disability rather than welfare emotionally distressed lady
+    - Emotional dependence, like intoxication
+      - In this case he believed her to be in atmosphere of crises (she was “evicted” and going to commit suicide unless he paid)
+      - She victimized and manipulated himn purposely
+        - Unconscionable conduct 
+  - STEPS TO ANAYLSE CASE 
+  - Note the name of the case and its citation
+    - Commercial Bank of Australia v Amadio (1983) 151 CLR 447
+  - Clarify the procedural history of the case. 
+    - Trial -  Wells J. who found in favour of the bank
+    - Appeal to Supreme Court - Bank
+    - Took it to High Court of Australia
+  - Ascertain the material facts
+    - The amadios were under the impression that when they executed and guaranteed the mortgage that their maximum potential liability was $50,000, which was in fact unlimited. 
+    - The bank maliciously withheld information from the couple and misrepresented the actual agreement 
+    - Did not provide adequate information and confirm understanding in a situation where clearly necessary 
+  - State the issue raised by the material facts and how the court answered it (the result of the case)
+    - Amadio builders were going through a severe liquidity crisis. Bank tricked parents to use entire property to cover any future debt rather than 50,000 as told.
+    - Bank and builder were actually partners, and builders were by father most important customer
+    - National bank that Vinchenzo went to get loan actually suggested that they secure Amadio builders indebtedness (never could repay) and was aware of deception with parents
+      - No independent advice, and only learned a few hours ago, no explanation made
+    - Bank argued that Mr Virgo assumed Vincenzo explained everything (not legit)
+      - Vincenzo never read the document
+  - Identify the reasoning which supported the decision and the ratio of the case.
+    - The whole transaction should properly be seen as flowing from the special disability which was evident to the bank and as being unfair, unjust and unreasonable. 
+    - They did not fully understand the terms which they were entering the agreement, and the bank made little effort to purposely victimize the couple
+  - Obiter
+    - If Mr. and Mrs. Amadio's potential liability had been limited to a maximum of $50,000, and if they had been informed as to the true financial position of Amadio Builders, it would be strongly arguable that the guarantee/mortgage could not properly be said either to have resulted from their special disability or to be other than fair, just and reasonable
+  - STEPS TO ANAYLSE CASE 
+  - Note the name of the case and its citation
+    -  Louth v Diprose (1992) 175 CLR 621
+  - Clarify the procedural history of the case. 
+    -  On her refusal he commenced proceedings in the Supreme Court of South Australia for a declaration that he was beneficially entitled to the land.
+    - An appeal by Louth to the Full Court (Jacobs A.C.J. and Legoe J., Matheson J. dissenting) was dismissed. 
+    - She appealed from that Court to the High Court pursuant to special leave. 
+  - Ascertain the material facts
+    - Man (Diprose) gave $58,000 to a woman (Louth) he was infatuated with
+      - Woman was largely indifferent to the man
+    - Money used to purchase a house for the woman and her children from a previous marriage
+      - Woman registered as the proprietor of the house
+    - Relationship between parties deteriorated
+    - Man filed a lawsuit to recover the land
+    - Judge found:
+      - Woman created a crisis atmosphere to influence man to provide money for the house
+      - Woman used man's love and suicide threats to manipulate him
+        - Woman was aware of man's infatuation and inability to judge his best interests
+    - 
+  - State the issue raised by the material facts and how the court answered it (the result of the case)
+    - Courts of equity can provide relief in cases of unconscionable dealing. 
+    - Relief can be granted if:
+      - One party in the transaction had a special disability that created an imbalance between the two parties, making it difficult for them to deal with each other fairly.
+      - The other party was aware of this special disability, and it would be considered unfair or unconscionable for them to take advantage of the disadvantaged party's agreement to the transaction.
+    - whether a gift by the respondent to the appellant was open to challenge on the ground of either unconscionable conduct or undue influence.
+  - Identify the reasoning which supported the decision and the ratio of the case.
+    - Court ordered the woman to transfer the house to the man
+    - Full Court of the Supreme Court upheld the findings and dismissed the woman's appeal
+- Case notes
+  - Case note
+    - Written summary and analysis of a case
+    - Has a 
+      - Case summary
+        - Formal details, citation, court and procdural history, material facts, issues, and outline 
+      - Case analysis
+        - Comments on the case that critique the judgements of the case, whether it opens or narrows the law, the significance of the case, etc
+    - Good case summary
+      - Citation
+      - Court
+        - Which court and the judge(s) heard the case
+          - Ex: ‘Federal Court of Australia--Kenny J’,
+      - Procedural history
+        - Where case came from
+          - Ex: Supreme Court–appeal
+      - Facts
+        - Material facts
+      - Issues
+        - Legal issues (number them) - what the case is about
+      - Reasoning
+        - What was decided and why
+        - Ratio
+          - Answer to the main issue(s) in the case
+      - Ratio
+        - Restate it
+      - Obiter
+        - Useful references for later
+      - Order
+        - What was held
+- Formal case note
+  - 
+Element
+Action
+Introduction
+- Briefly identify the case by party name and citation, the nature of
+the legal issue or issues and perhaps suggest why this case may be
+of interest
+Procedural History
+- Is it an appeal from a first instance decision or has there been a
+series of appeals? 
+- If the latter it might be useful to discuss the reasoning in previous decisions
+Facts
+- What are the circumstances in which the dispute arose?
+- Think about what is relevant to the law. 
+  - You only need to provide enough factual information to explain how the legal issues arose.
+- Identify the parties clearly and be consistent; 
+  - for example avoid referring to the applicant, plaintiff, aggrieved party or party by name interchangeably.
+Legal Issues
+- What is the applicable law, or what has been argued to be the applicable law?
+- Is the dispute about defining specific circumstances when a particular legal principle may be relevant? 
+  - For example, whether in the circumstances has a duty of care arisen and if there has been a breach of the duty of care; 
+  - or whether a particular term in a contract be interpreted in a specific way and if that term has been breached based on that interpretation.
+Decision
+- What is the outcome of the case?
+- What was the law the judge or judges applied?
+- What is the reasoning of the judge or judges that has led to that
+outcome?
+Analysis
+- Does the reasoning support the decision?
+- If it is a split decision (there is a dissenting judgment) is the majority's approach convincing?
+- If the case is the outcome of a series of appeals how does the decision reconcile or justify earlier decisions?
+- How has the case been treated subsequently?
+- Are there any social implications? Will this affect business practice
+Summary
+- What can you say overall about the importance of the case?
+- In order to complete the case note you may have to do further research. 
+- How would you familiarise yourself with the law?
+- How would you determine whether the case is important or not?
+
+  - 
+- STEPS TO ANAYLSE CASE 
+  - Note the name of the case and its citation
+    - Barret v MoD (1995) 1 WLR 1217. 
+  - Clarify the procedural history of the case.
+    - Court of Appeal
+  - Ascertain the material facts
+    - Off-duty  sailor dying following drinking bout  at  naval  base
+    - Placed in bunk in recovery position
+  - State the issue raised by the material facts
+    -  Law(s) broken
+      - Article 1810 Queen’s Rgulations for the Royal Navy 1967 
+      - Fatal Accidents Act 1967
+      - Law Reform Act 1934
+    - Officer in  command   at  base guilty  of  breach  of  regulations relating to  discouragement  of drunkenness Whether  Ministry  of  Defence  under  duty  to  prevent 
+    - deceased from   excessive indulgence in  alcoho
+    - Whether  ministry  taking   adequate   measures   after  deceased   collapsed
+    - Whether deceased  guilty of  contributory negligence
+  - Identify the reasoning which supported the decision and the ratio of the case.
+    - when the  defendant  assumed   responsibility for  him,  the  measures  taken fell short  of  the  standard  reasonably  to  be  expected;  and   that, accordingly, since it was  the  deceased's lack  of  self-control in  his own  interest   that   caused  the   defendant  to   have  to   assume responsibility for  him,  the  damages   recoverable  by  the  plaintiff would   be  reduced  by  two-thirds  
+    - Appeal
+      - (l)  the  judge  erred  in  law  in  holding  that 
+      - the  defendant  owed   the  deceased  a  duty  of  care;  
+      - (2)  in  concluding  that such  a  duty  of  care  existed,the  judge  erroneously had   regard  to  the 
+Queen's   Regulations  and   various  standing  orders  as  determining  the existence, as  opposed  to  the  extent, of  the  postulated duty;  
+(3)  the  judge erroneously  relied  upon   Barnett  v.  Chelsea  and   Kensington  Hospital Management   Committee  [1969] I  Q.B.  428  as  authority for  the  proposition that  it  was   "just  and   reasonable"  to  impose   a  duty   of  care  upon   the 
+Defendant;5+6+4
+(4)  if the  judge  was  correct in  imposing  a  duty  of  care  in that  regard,  then  he  erred  in  law  in  rejecting the defendant's contention that  the  maxim   volenti non  fit injuria applied to  negative any  breach  of such  duty.
+    - Judge phelan awarded 162k, 25% decrease due to burden on dead soldier (his responsibility)
+    - Bedlam LJ
+      - Lt cmd Lomax was unusually lax with alcohol
+      - Pleaded guilty
+      - Was required to take appropriate action to prevent death
+        - Notes in guidance of followed would have prevented his death
+        - Tossing and turning, and was checked on 3 times
+      - The  defendant's principal ground  of  appeal  is that the  judge  was  wrong   to  hold  that  it was  under  any  duty  to  take  care  to see  that  the  deceased, a  mature  man   30  years  of  age,  did  not  consume   so much   alcohol  that  he   became   unconscious to  exercise control  in  his  own   interest as  well  as  in  the interest of  others.
+      - To  dilute self-responsibility and  to  blame  one  adult  for another's lack  of  self-control is  neither just  nor  reasonable and  in  the development  of  the  law  of  negligence an  increment  too  far
+    - In  the  present  case  I  would   reverse  the  judge's  finding  that  the defendant  was   under  a  duty  to  take  reasonable care  to  prevent  the deceased from  abusing  alcohol to  the  extent he  did.  Until  he  collapsed, I  would   hold  that  the  deceased  was   in  law   alone  responsible  for  his condition.
+    - Thereafter, when  the  defendant assumed  responsibility for  him, it accepts that  the  measures  taken  fell short  of  the  standard  reasonably to be  expected. It  did  not  summon   medical  assistance and  its supervision of him  was  inadequate. 
+    - Other justices agreed
+  - Obiter 
+  - Result
+    - Too much responsibility on the defendant for a grown man's decision, ⅔ reduction down to $71,500 with interest
+    - Further appeal by prosecution dismissed
+- STEPS TO ANAYLSE CASE 
+  - Note the name of the case and its citation
+    - Hackett (a pseudonym) v Secretary, Department of Communities and Justice (2020) 379 ALR 248
+  - Clarify the procedural history of the case. 
+  - Ascertain the material facts
+    - She was in adoption system and was to be officially adopted by adoptive mother
+    - 12 years or less cannot be adopted without bio father consent
+      - Not necessary for 12+ and mature enough to understand
+  - State the issue raised by the material facts 
+    - Law(s) in contention
+      -  s 90(3) of the Adoption Act 
+      -  s 35(4)
+    - Fighting over parental responsibility (bio father) vs adoption (adoptive mother)
+      - Adoption means not a ward of the state (recognized family) 
+      - In home care rather than out of home
+      - No department intervention and apporval
+      - Actual legal member of family, taking the name
+    - whether the child was an “Aboriginal child” for the purposes of the Adoption Act. 
+    - (ii) Whether the applicant had been denied procedural fairness. 
+    - Primary Judge results - Father appeals this
+      - (a)  adopting  Belinda  as the  daughter  of  the  woman  in  whose  household  she has lived  for  almost  all  of  her  life,  
+      - (b) giving  Belinda  that  woman’s  surname,    
+      - (c)  two  orders  giving  effect  to  two  adoption plans  concerning  what would  happen  in  the  future  until  Belinda turns  18. 
+  - Identify the reasoning which supported the decision and the ratio of the case.
+    - Leeming JA
+      - Belina pseudonym 
+      - Aboriginal child
+        -  either  a child  is,  or  is  not,  an  “Aboriginal child” or  a “Torres  Strait  Islander  child”. 
+        - Same for young person
+        - Must apply “Aboriginal” or “Torres Straight Islander” Child Placement Principles
+          -  first preference to be given to same culture parents
+          - Must be put with aboriginal parent unless court is satisfied
+      - Supreme  Court is  required  to consider  the  cultural heritage  of  the  prospective adoptive  parent  and  whether  he or  she will assist in the preservation of the cultural heritage of the child.
+      - Three important points
+        - Belinda’s adoptive mother is not Aboriginal. 
+        - Belinda’s father is not aboriginal (therefore mother is Aboriginal)
+        - Belinda will not be adopted by Aboriginal members due to Aboriginal child placement principles
+      - The tests for determining who is an Aboriginal child 
+        - in  order  for  a  child  to  be  an “Aboriginal child”,  it was  necessary to  identify  an  ancestor  of  the  child  who  was  “a member of the Aboriginal  race  of  Australia, and  identified  as  an  Aboriginal  person,  and  was  accepted  by the  Aboriginal  community  as an  Aboriginal  person.”  
+        - Primary judge was not convinced based on the presented evidence that she was aboriginal
+      - Primary Judge results - Father appeals this
+        - (a)  adopting  Belinda  as the  daughter  of  the  woman  in  whose  household  she has lived  for  almost  all  of  her  life,  
+        - (b) giving  Belinda  that  woman’s  surname,    
+        - (c)  two  orders  giving  effect  to  two  adoption plans  concerning  what would  happen  in  the  future  until  Belinda turns  18. 
+      - Appeal 
+        -  Too narrow test of aboriginal child
+          - She now would be aboriginal for adoption purposes
+        - The  respondent made  no  submission  to  the  contrary, consistent  with  his  not  taking  a  position  on  the  correct  construction of s  4(2)  in   Fischer  v Thompson.
+        - 
+  - Obiter 
+  - Result
+    - Held, granting leave to appeal
+    -  definition  of  “Aboriginal child” in   Fischer  v Thompson  is  too  narrow,  and  that there  should  be a  grant of  leave  to appeal
+    -   S 4(2)  was  to  permit  a  Court  to  determine  that  a  child  who would  qualify  under  the descent  definition was  an  Aboriginal child,  even  if  no  ancestor satisfied the three-limb definition in the Aboriginal Land Rights Act.
+    - I  am  satisfied  that Belinda  is  of Aboriginal  descent,  meaning  that  she  is  descended  from  the  people  who  lived  in  this country before British colonisation.
+- Theories about precedent and law
+  - Natural law
+    - is broadly a belief in a system of law common to all people, derived from the supreme force in the universe, or God
+  - Positivism 
+    - belief in a system of law created by men. 
+    - Recognized by creation method rather than wrong or right
+    - ‘command theory’ 
+      - Enforceable by sanction
+    - Created legal formalism
+- Liberalism 
+  -  Importance and freedom of the individual and views certain values such  as  reason,  rights,  equality and private property as  of  paramount importance
+  - Fundamental values
+    - Liberty
+    - Reason
+    - Rights
+    - Private Property
+    - Equality
+- Liberty
+  - central to liberal ideology
+  - Freedom is the natural entitlement of humans
+  - Harm principle
+    -  the extent to which legal restrictions upon individual freedom are justified
+  -  A person’s freedom should not be limited merely to prevent them from harming themselves, to promote morality or to enhance the welfare of the majority
+    - Smoking tax is actually to prevent you from causing indirect economic harm on others by contracting a disease 
+  - Negative liberty
+    - The major form of liberalism, refrain others from interfering with you
+    - Freedom from restrictions imposed upon you by the state or by other individuals
+    - Freedom from harassment by police
+  - Positive liberty
+    - Not very common
+    - Freedom to travel interstate for a holiday
+    - Help you to do what you want
+      - Provide a house if you cannot afford one
+    - Community assistance to disadvantaged 
+- Domestic liberty
+  - freedom to say and do as you please in your private life and property
+  - Neoliberalism
+      - economic liberty, laissez-faire 
+- Utilitarianism
+  - Act util
+    - Traditional, happiness outweighs pain
+    - Steal bread when hungry
+  - Rule util
+    - What is the correct rule
+    - Which choice is consistent with correct rule
+    - Respect law and don’t steal
+- Wesley Hohfeld four basic types of rights
+  - Privileges (or liberties).
+    - You have a right in the form of a privilege to do something iff you have no duty not to do that thing
+      - Stay in class if you finished a test
+  - Claims
+    -  someone does something iff that person owes a duty to you to do that thing
+    - Payment for services rendered
+  - Powers
+    - the ability according to a set of rules to alter your own rights or the rights of another
+    - Power of attorney or employer
+  - Immunities
+    - Iff another person lacks the ability according to a set of rules to alter your right
+- Rights
+  - Negative right,
+    - You have a right to non-interference.
+    - Free speech
+  - Positive right
+    - Something provided by gov education
+- Critical Race Theory
+  - Critical Race Theory
+    - collection of theoretical frameworks, which provide lenses through which to examine structural and institutional racism.
+    - Principles
+      - Race is a social construct rather than biological reality
+      - “systemic racism”
+        -  social institutions and practices unwittingly contribute to and maintain white supremacy.
+      - who benefits from systemic privilege and why.
+- Tanya Day
+  - Day’s death was preventable had she not been arrested
+  - Taken off train to local station to sober up
+  - Hit head 5 times inside holding cell
+    - Police checking between 60 and 80 minutes, rather than 20-30 as guide says. 
+    - Police would have found her in time to save her
+    - Should have taken to hospital
+    - Supposedly influenced by race 
+  - This was the first time that the Court considered whether racism was a factor that should be considered when determining criminal negligence. 
+    - on the same day, the rail authorities took a drunk white woman home yet locked up a drunk Aboriginal woman in prison. 
+- Critical Race Theory
+  - liberal legal subject
+    - Featureless individual, no identification
+    - However this is equality not equity (and appears not very equal)
+  - Derrick Bell and Alan Freeman
+    - CRITICAL RACE THEORY 
+      - Racially distinctive body of scholarships to overcome the limitations in existing scholarship within the white-dominated academy
+        - Critique of liberalism
+          - Fails to address race
+          - Doesn’t do enough, even with formal recognition
+        - Narrative Method
+          - Shows the reality of racism in society
+          - Racial consciousness rather than color-blind society
+        - Critique of the civil rights movement:
+          - Why it was ineffective, even though it won on paper
+        - Multidisciplinary approach
+          - Social science
+        - Intersection of race, sex, and class
+          - Independent sources of disadvantage or hand in hand
+        - Race and essentialism
+          - how issues of race should be analyzed
+        - Race and legal institutions:
+          - issues of representation 
+    - Racism is not an exception, it is the norm according to CRT
+  - Edward Said’s Orientalism in 1978
+    - roots of post-colonialism 
+  - Postcolonialism
+    - considers the experience of oppression and resistance in relation to the dominant narrative created by the colonial presence
+    - Hybrid culture 
+      - Coloniser plus colonized, often in architecture
+- Owning the Earth
+  - The Earth
+    - System of physical and interlinked  relations
+  - Jurisprudence
+    - System of abstract laws
+    - Ecological Jurisprudence
+      - human beings exist in an interconnected way with the natural world
+    - Ecocentrism
+      - prioritizes the protection of the Earth as a whole: the ‘Earth community’
+      - the effort to move beyond anthropocentrism and to put the Earth at the center of thought and action
+    - Earth jurisprudence 
+      -  environmental philosophy, environmental science,and natural law theory to argue that there is a universal ‘Great Law’ or ‘Great Jurisprudence’ that provides guidance for human law
+      - 
+  - Property law is not about land, property is not land
+    - Property law regulates the relationships we have with each other, not the relationships we have with the Earth.
+    - What we ‘own’ is a ‘right’ against another
+    -  Property law is not about the real and physical world
+      - Dephysicalized
+  - Environmental law is subordinate to property law
+  - Liberal thinking also regards property as linked to individualism rather than appreciating communal life, rights, ownership and responsibility
+  - Property law
+    - Provide the right-holder first and foremost with the right to exclude all others from the object of property
+    - The value of property is a right to use the land to an extent
+- Eco Legality
+  - Anthropocene 
+    - The human-defined area of earth history
+  - Anthropocentrism 
+    - A human-centered theoretical orientation
+    - a world view that places human beings at the forefront of knowledge, values, and engagement with the world. 
+  - New materialism:
+    - rethink human relationships to the physical world and to show interconnection and entanglement rather than separation
+  - Posthumanism
+    - looks beyond the human as the basic category of thought
+  - Material-semiotic
+    - meaning and matter are connected and emerge together
+    - Multiple interactions of human beings with each other and with their physical environments.
+  - Onto-epistemology
+    - Knowledge and being emerge together
+  - The idea of the Anthropocene is widely accepted as a geological epoch caused by human activity.
+    - It serves both scientific and normative/political purposes, drawing attention to human impact on the Earth.
+    - The concept generates controversy around responsibility for the changes and whether it should be attributed to all humans or specific groups.
+    - Some suggest calling it the "capitalocene" to acknowledge the role of capitalism in Earth system changes.
+  - The Anthropocene may be a transition or a duration, and there is an ethical imperative to recognize privilege and redistribute burdens.
+  - anthropocentrism
+    - majority of legal theory produced in the Western Anglosphere being anthropocentric by default, presuming that law and legal theory need only be oriented around human society.
+      -  leading to a loss of touch with ourselves as natural beings dependent on a healthy biosphere
+      - dissociates humans from nature and leads to an excessive emphasis on rationality, downgrading non-human entities, and enabling damage to be done to the environment
+    - Ecocentrism is the fix for anthropocentrism
+      - granting legal standing to non-human entities, recognizing their rights and interests, and reimagining the possibilities for a future law.
+      - reconceptualize who we are as human beings
+    - contrasted with the world views of First Nations peoples, who see the human being as one part of an interconnected and extended set of social-ecological relations
+  - Dualisms associated with human-centeredness are prevalent in Western culture
+    - Inferiority of women, slaves, and people of different races and cultures.
+    -  recognize the interconnection of human and nonhuman spheres, and the need for human society to be adaptive instead of controlling.
+    - rights of nature emerged in the 1970s
+      - Earth jurisprudence is a theoretical approach to the relationship between law, the Earth, and human beings, and it is associated with the natural law tradition.
+  - Giving legal personhood to natural entities, such as rivers and ecosystems, can ensure that they are taken seriously by law and not just seen as resources for human use.
+    - incorporating indigenous understandings of the interconnection of humans and the natural world 
+    -  strategy to bring attention to the value of land and natural entities in a colonial and imperialist legal system, 
+      - and may be linked to the recognition of indigenous rights.
+    - Te Urewera will have fee simple recognized
+      - asbsolute ownership of property, including the right to sell or transfer the property, as well as the right to use and enjoy it.
+    - Thomas Berry's views on natural rights are underpinned by an elaborated theoretical position forming the inspiration for Earth jurisprudence
+  - Earth jurisprudence is a philosophy that is originally based on natural law thinking, which advocates the existence of two types of law: 
+    - the Great Law 
+      -  rules or principles of nature, 
+        - discoverable by humans 
+        - relevant to human-earth interaction
+    - Human Law. 
+      - rules articulated by human authorities enacted for the common good 
+  - New materialisms
+    - Movement symbolizing interconnectedness of all beings and things, and the relationality and dynamism of existence.
+    - Challenges anthropo and human-centred worldview
+    - Law is dependent on the interrelationships between humans and non-humans.
+- Feminist legal theory
+  - Feminist theory
+    - Concerns of women in the analysis of the law
+    - Critiquing law’s patriarchal assumptions
+      - 1980d, second wave feminist movement
+        - Critical feminism 
+          - Reflection exercise of pornography
+          -  oppression on the basis of gender is the most fundamental source of inequality in society
+    - Feminist legal critique attacked
+      - Liberal legal theory
+        - Individuals as equal, avoids coercive boardies regarding sex
+        - Equality is not enough, equity
+      - Positivism
+        - Neutral observation
+        - Reinforces position of men as objective, does not address subjective gender bias
+      - Legal rationalism and realism
+        - Neutralize power relations, disguise law as objective
+    - Third-wave feminism 
+      - Critique of single-axis feminism
+        - Race, history, and culture were not accounted for
+  - liberal legalism
+    - Set of assumptions within liberal societies and regimes 
+      - (a) the nature of the legal person
+      - and (b)the role of law
+  - Outsider jurisprudence
+  - Feminists have a diversity of theoretical views concerning the causes of women subordination, the best strategies for addressing it, and how significant the differences are
+  - Four main doctrines
+    - Liberal feminism 
+      - Women = men in ability to operate in the public world, equal opportunity (no legal barriers to advancement)
+      - Merit based evaluation, not gender = formal equality
+        - Not fair because pregnant women can’t claim that men are being fired due to pregnancy 
+      - Only benefit a minority of economically and socially privileged woman - already close to male living style
+      - Why should satisfying, well-paid jobs should be the preserve of workers who are able to work full-time in virtue of having minimal domestic responsibilities?
+      - Substantive equality is equity 
+    - Cultural feminism
+      - Difference feminism
+        - Direct discrimination
+          - Discrimination in employment, education, housing, and goods and service provision
+        - Indirect discrimination
+          - Ex: Will not hire primary caretakers
+          - While a unisex policy, mostly affects women  
+        - Feminists argue that assimilating women into patriarchal systems forces them to adopt male traits
+          - Carol Gilligan's work on difference feminism argues that men and women have different ways of reasoning and speaking
+          - Women are more concerned about relationships and context, while men focus on rigid rules and individualistic concepts such as rights and justice
+          - Robin West argues that the law needs to incorporate the ignored values associated with "woman's voice", which emphasizes connection and relationships
+        - Women prioritize intimacy as the most important value and see separation as a threat
+          -  difference feminism
+            - Luce Irigaray argues for a separate law for men and women, with sex-specific rights that recognize women's sexed bodies
+        - Double bind
+          - For a group subject to domination, all roads to progress can pack a backlash
+          - Potential solution:
+            - Fix the problem for everyone, not just women, i,e,. Parental leave, not pregnancy leave
+    - Radical feminism
+      - Focuses on dominance and power, not difference
+      - MacKinnon is exponent 
+        - Argues pornography is an issue of men’s power and women’s lack of it - a root cause of women’s oppression 
+        - Argues for women it is difficult to distinguish rape and sex under conditions of male dominance
+          - No way to distinguish
+    - Postmodern feminism 
+      - Distrust of grand, general theories - objective truth.
+        - Instead full of small-scale, partial, perspectival accounts. 
+      - Emphasizes differences among women 
+        - Black women are differently, not more nor less, oppressed by others. 
+      - MacKinnon argues too much emphasis on individuals, rather than group disadvantage
+  - Bradwell v Illinois.
+    - Women denied entry to the bar
+    - Separation of two spheres
+  -  Commonwealth legislative supremacy 
+    - Federal over state law
+    - is guaranteed by s 109 of the Commonwealth Constitution.
+  -  legislation comes into force 28 days from the date of assent unless the legislation itself says otherwise
+    - Commencement provision 
+  - Delegated legislation
+    - Give power to others to make certain regulations under Acts
+      - Executive 
+        - ordinances 
+      - By-laws
+      - Orders, etc
+    - Disallowance
+  - Dicey 
+    - 1. The laws made by the parliament are not subject to any ˜higher law™such as principles of morality,
+    - 2. Parliament cannot make a law that binds future parliaments
+    - No one can override, ignore, or disobey a valid law made by parliament 
+- State and Territory Parliaments
+  - Lower House
+    - Legislative Assembly
+  - Upper House
+    - Legislative Council. 
+- Federal Parliament
+  - Private members’ bills
+    - Bills not introduced by executive gov
+  - Bill preparation
+    - Office of Parliamentary Counsel
+      - Gov lawyers specializing in legislation draft
+  - Procedure for lower house
+    - First reading 
+      - Formal reading of title by Clerk of the House
+    - Second reading
+      - Minister of bill reads, outlining bill, then time given to think
+      - House resumes and debate
+      - Committee stage
+      - Select Committee may consider the bill
+    - Third reading
+      - Debate is restricted
+  - Procedure for upper house
+    - See lower house, identical
+    - If amended, starts over
+  - Announce Commencement date in Government Gazette after assent 
+  - Deadlocks
+    - s 57 of the Australian Constitution
+    - 3 month limit to keep trying to pass, then Gov-General can dissolve both houses
+      - Double dissolution 
+        - Taken place 7 times
+- Types of legislation
+  - Original Acts,
+    - A new act
+  - Amendment Acts,
+    - Changes an existing act
+  - Repealing Acts,
+    - Abolishes an existing act
+  - Consolidating or reprinted Acts,and
+    - Combines several relevant laws, rare
+  - Reviving Acts
+    - Bring back a law
+    - Restart a sunset clause law
+- Day to day legislation
+  - Delegated legislation
+    - Legislative instruments
+      - Gov-general
+      - Individual Minister
+      - Local authority
+      - Gov department or agency
+  - Known as regulations
+- Making a Law in NSW
+  - Three different types of Law
+    - Statute Law
+      - made by Parliament.
+      - Bill -> Act
+    - Common Law
+      - Judge law
+      - Precedent
+    - Regulations
+      - Subordinate or Delegated Legislation
+      - Parliamentary committee reviews regulations and Parliament may alter them. 
+- Making a Law (legislation)
+  - Bills introduced by ministers are considered during the time allocated for government business. 
+  - Bills introduced by private members are considered during the time allocated for general business.
+  - Types of bills
+    - Public Bills
+      - deal with matters of general public interest. 
+      - Government public bills and private members’ public bills.
+    - Private Bills
+      - deals only with specific private matters which affect a private person or body.
+      - Rare
+        - Ex: Tamworth Tourist Information Centre Act of 1992.
+    - Cognate bills
+      - package bills considered simultaneously
+    - Money Bills
+      - Public, introduced in Legislative Assembly
+      -  follow the same passage through both Houses as other bills
+  - Initiating a bill
+    - Government public bills 
+      -  party policies, submits a proposal to the Cabinet (a meeting of all ministers) for approval.
+      -  draft bill prepared by the Parliamentary Counsel 
+    - Private members' public bills
+      - Private members bill in response to pressure from their constituents
+  - Parliamentary process
+    - Notice of motion 
+      - Intention to introduce bill
+    - Intro and First reading
+    - Second Reading Debate
+    - Consideration in Detail (Assembly) or Committee of the Whole (Council)
+    - Third reading 
+    - Consideration by other House
+      - Potential amendments
+    - Consideration by original House
+    - Assent
+    - Commencement
+  - Statutory Instruments 
+    - rules, regulations, by-laws, ordinances, rules of the court or proclamations made under certain Acts.
+  - Re means in the matter of
+- Statutory Interpretation 
+  - Statutory interpretation
+    - I.e., statutory construction
+    - Means working out what legislation means
+  - two exceptions to the primacy of statutes:
+    - Ultra vires – beyond power of parliament to make laws on this
+      - Unconstitutionality 
+    - Parliament proper process failure
+  - Moore v Hubbard
+    - Put a placard on electric light rather than ‘lamp post’ as statute dictated (agaisnt the law to put without permission)
+      - Was he violating?
+      - Too precise wording, was quashed (Mr Hubbard won - he could put without permission) 
+  - Interpretation legislation
+    - Statutes that tell courts how to interpret legislation
+    - Modern statutory approach
+      - Interpret statutes in accordance with rules made by parliament
+    - Interpretation Acts
+      - These are ‘the Commonwealth Interpretation Act’, ‘the New South Wales Interpretation Act’, etc
+        - Acts Interpretation Act 1901 (Cth)
+        - Legislation Act 2001 (ACT)
+        - Interpretation Act 1987 (NSW)
+        - Interpretation Act 1978 (NT)
+        - Acts Interpretation Act 1954 (Qld)
+        - Legislation Interpretation Act 2021 (SA)7
+        - Acts Interpretation Act 1931 (Tas)
+        - Interpretation of Legislation Act 1984 (Vic)
+        - Interpretation Act 1984 (WA).
+  - Determine an Act’s purpose
+    - Long title 
+      - typically in older statutes
+    - Objects clause
+      - one of the first sections in more modern statutes
+    - Definitions sections
+      - Near the beginning
+    - Headings
+      - Used as interpretations
+    - Schedules
+      - Used where detailed info is needed to support a provision
+  - Not used for interpretation
+    - Headings to individual sections
+    - Notes in the margins, footnotes, endnotes
+  - Common extrinsic materials
+    - explanatory memoranda
+    - second reading speeches
+    - records of parliamentary debates (in Hansard)
+    - law reform commission reports
+    - parliamentary committee reports
+    - international treaties and agreements.
+  - Generic provisions include:
+    - Law commences 28 days after date of assent unless specified otherwise
+    - Gender
+      - Include every gender (he means everyone)
+    - Age
+      - Anniversary of their birth date
+    - Number
+      - Any person = any person or persons
+    - Time
+      - Standard or legal time in that jurisdiction (AEST for NSW)
+      - A date means 12:01 am on that date
+      - From a day means that day is excluded
+    - Distance
+      - As the crow flies
+    - Penalty 
+      - Number of unity by the current value of a penalty unit 
+      - Commonwealth crimes s 4AA of Crimes Act 1914 (Cth) 
+        - Penalty unit is $210 back then, now is $222
+        - NSW
+          - $110 Crimes (sentencing Procedure) Act 1999 (NSW) s 17
+  - Interpretation Acts provide guidance for tricky situations
+    -  “You may not sell do something” 
+      - May confers a discretion (may or may not) 
+    - Shall is mandatory
+  - Project Blue Sky v Australian Authority (1998) 194 CLR 355
+    - One statute said equal treatment for Australian and New Zealand TV programs while other said preference for Australian programs
+    - Treaty with NZ was precondition to exercise the Australian Content Standard 
+  - Regularly cited work around for interpretation
+    - Lord Reid in Gill v Donald Humberstone & Co Ltd [1963] 3 All ER 180, 183:
+      - ‘If the language is capable of more than one interpretation, we ought to discard the more natural meaning if it leads to an unreasonable result, and adopted that interpretation which leads to a reasonably practicable result’.
+  - Fundamental rule
+    - A statute is to be expounded according to the intent of the parliament that made it
+      - No matter how inconvenient 
+      - Higgon v O’Dea [1962] WAR 140
+        - s 84 of the Police Act 1892 (WA), which penalised every person who knowingly allowed children under the age of 16 years to enter and remain in any ‘shop or other place of public resort’ that they own. 
+        - Amusement parks were not exempt
+  - Literal Rule
+    - Use the natural, ordinary, or dictionary meaning of a word/phrase in statue 
+  - Golden rule
+    - Correct errors in legislation
+    - that courts must interpret statute "according to the intent of them that made it"
+      - Adler v George [1964] 2 QB 7
+        -  s 3 of the Official Secrets Act 1920 (UK)
+        - Defendant created an obstruction ‘in the vicinity of a prohibited place’.
+          - Argued vicinity was near, but he was in fact in a prohibited place
+          - Fixed it to mean “in or in the vicinity of”
+      - Extension of literal rule, if the literal rule provides an absurd result 
+  - Mischief rule
+    - Questions to ask the court
+      - What was the law before the making of the Act?
+      - What was the mischief and defect that the law did not provide for?
+      - What remedy did parliament establish under the Act to correct that mischief or defect?
+      - How can the court interpret the legislation so as to correct the mischief or defect according to the true intent of parliament?
+    - Used this to remove prostitutes from the street, argued that balcony was not the street, court said the intent was to correct mischief of harassment from prostitutes. 
+  - Interpretation of words through time
+    - Use the modern meaning
+      - Terrific is now good
+      - Vehicle from 1898 bill includes airplanes
+    -  common law approaches are forerunner to the modern statutory approach
+      - Secondary relevance
+  - presumptions tend to confer rights on individuals and limit the power of the legislature.
+    - apply unless the statute uses clear words to reject them. 
+  - 10 statutory presumptions 
+    - Parliament does not interfere with fundamental rights. ‘principle of legality’:
+      - Include the  right to exclude people from entering your property, 
+      - the right to not incriminate yourself, 
+      - and the right for clients to have what they tell their lawyer kept confidential. 
+    - Statutes do not operate retrospectively.
+      - Don’t apply to situations beforehand 
+    - Courts presume their previous interpretation of a word or phrase applies if parliament uses the word or phrase in a statute.
+    - Legislation does not bind the Crown.
+    - Penal provisions are strictly interpreted in favour of the accused.
+    - Legislation does not take jurisdiction away from the courts.
+    - Property rights are not taken away without compensation.
+      - Compulsory acquisition on just terms’ and is part of the power of the Commonwealth under s 51(xxxi)
+    - Legislation does not have extraterritorial effect.
+    - Parliament intends to legislate in conformity with international law.
+    - Words are used consistently in statutes.
+- Other Tools of Statutory Interpretation
+  - Presumptions for the interpretation of legislation 
+    - Courts make certain presumptions, which apply unless the statute uses clear words to reject them.
+    - Abrogate
+      - formally annul or repeal a law through an act of legislation, constitutional authority, or custom.
+  - To bind the crown
+    - Parliament adds ‘This Act binds the Crown’ to actually bind, otherwise crown is above law in most states
+    - Crown includes governor-general, the police force, and the public prosecutors who bring criminal actions
+  - Penal statute
+    - heavy fines and jail sentences for offences committed under it. 
+    -  ‘narrow construction’ to the provisions
+      - Use the interpretation that favors the accused (lighter punishment)
+    - Presumption that benefit provisions should be given a broad construction
+      - Social welfare, pensions, etc. 
+  - R v A2 (2019) 373 ALR 214
+    - Mutilate definition was used as any damage, even nick or cut
+    - Appeal said should have had higher onus for definition
+  - Demurrer
+    - a formal pleading alleging that the claim is insufficient in law 
+      - (does not include a cause of action to which effect can be given by the court).
+  - Latin maxims
+    - Noscitur a sociis
+      - it is known by its associates
+      - a word or phrase can be worked out by its context
+    - claim in rem 
+      - against a ship instead of a person
+    - Ejusdem generis 
+      - of the same kind
+      - if you have specific adjacent words followed by a general word, the interpretation of the general word is limited by the specific things that come before it
+        - Ex: glass, bottle, jug, or any other thing’
+          - Any other thing includes vase, but not pigeon 
+    - Expressio unius est exclusio alterius 
+      - the express mention of one thing is the exclusion of another’.
+        - Ex: if adults could drive cars, this would be considered to exclude children from driving cars.
+    - Generalia specialibus non derogant 
+      - if there is a specific provision in a statute and also a more general provision, the general provision does not override the specific provision
+        - Ex: no animals on public transport, but separate section/statute it says guide dogs allowed, you follow specific provision over the general prohibition
+  -  Other rules of statutory interpretation 
+    - Where a statute says that something ‘means’ something, that is an exhaustive, complete definition.
+    - ‘And’ as well as ‘or’ can now be used interchangeably, dependant on parliament interpretation
+- Problem question methods
+  - A methodical approach to problem questions requires the following steps:
+    - Read the problem very carefully and note what you are asked to do.
+    - Identify the legal issue(s) to which the facts of the problem give rise.
+    - State the relevant law and cite authority for it.
+    - Apply the law to the facts.
+    - Reach a conclusion.
+
+- Case
+  - Note the name of the case and its citation
+    - Ball v McIntyre [1966] 9 FLR 237
+  - Clarify the procedural history of the case. 
+    - Made it to appeal
+  - What the original dispute was
+    - Did he behave in an offensive manner
+  - Current reason for trial
+    - Appeal on result
+  - What each judge thought
+    - Kerr J.
+      - Did not hold King George V statute as sacred, followed the sergeant idea
+      - Unpremeditated political statement, serious not joking student 
+      - not to be a prearranged “defilement” or “abuse” or misuse of the statue
+      - Victorian Act
+        - preservation of order and decorum in streets and other public places
+      -  “improper” has a much wider meaning than “offensive”.
+        - offensive behavior if it can be said that conduct is hurtful, blameworthy or improper, and thus may offend.
+      - persistence is not separately relied upon; it is the original conduct which is said to have been offensive, and for that reason its continuance is also alleged to have been offensive.
+      - What the police thought doesn’t matter, it’s the reasonable person
+
+
+  - Ascertain the material facts
+    - It was proved that on 16th March, 1966, the defendant climbed on to a pedestal on which a statue of King George V stood and hung a placard, on which was printed in large letters the words “I will not fight in Vietnam”, from a part of the statue.
+    - squatted down at the foot of the statue and on top of the pedestal for about twenty minutes, refusing to come down when requested to do so by the police.
+    - If the statue were in fact defiled or abused, then strong feelings of resentment might well have been calculated to arise
+    - There is no criticism by the Crown of that political protest or demonstration as such. I have found as facts that: (a) the climbing on the pedestal of the statue and the hanging of the placard from part of the statue were an unpremeditated part of the political protest; (b) the conduct was not a student's prank or joke or stunt, but was originally undertaken in an incidental fashion as a means—even if a peculiar means—of drawing wider public attention to the protest. 
+    - Sergeant resentment was of silly conduct, a normal reaction
+  - State the issue raised by the material facts 
+    - Law(s)/Statue(s) in contention
+      - Police Offences Ordinance 1930 (ACT), s 17(d), with behaving in an offensive manner in a public place and convicted.
+        - Section 17 (d) of the Police Offences Ordinance says: “Any person who, in or near any public place, or within the view or hearing of any person therein behaves in a threatening, abusive, offensive or insulting manner, shall be guilty of an offense”
+    - Precedences
+      -  Anderson v. Kynaston
+        -  “offensive” has  to be considered in connexion with the associated words “behavior”, “manner”, “view or hearing” and “public place
+      - Worcester v. Smith
+        -  In that case the defendant was one of a party of persons carrying banners outside the United States Consulate in Melbourne.
+        - Offensive
+          - be such as is calculated to wound the feelings, arouse anger or resentment or disgust or outrage in the mind of a reasonable person.
+      -  Inglis v. Fish
+    - Words and phrases considered
+      - offensive
+    - Arguments made by each side
+      - Plaintiff/Prosecution
+        - Constable McIntyre
+          - Defendant climbed on a public memorial
+          - Small matter that he also offended the officer by not complying
+          - Sacred statue specifically
+          - No complaint about the actual politics
+        - Sergeant McSpeerin
+          - Climbing on King Geroge V stat
+          - Did not care kid disobeyed him
+          - Did not care about the politics
+      - Defense 
+  - Obiter 
+    - Conduct which offends against the standards of good taste or good manners, which is a breach of the rules of courtesy or runs contrary to commonly accepted social rules, may well be ill-advised, hurtful, not proper conduct.
+  - Identify the legal reasoning and the ratio of the case.
+    - A reasonable man may have been offended by lack of good taste, but not wounded, or disgusted, or outraged. 
+  - Result
+    - On appeal
+    - The behavior complained of considered in its full setting was not a prearranged defilement, abuse or misuse of the statue but an incidental resort to it during the political protest or demonstration with the emphasis on the protest and not on some mistreatment of the statue and, as such, was not “offensive” behavior within the meaning of s 17(d).
+-  Summary Offenses Act 1988 (NSW) s 4
+  - Offensive conduct
+    - A person must not conduct himself or herself in an offensive manner in or near, or within view or hearing from, a public place or a school.
+    - Offensive language is 4a
+    - Can defend if defendant had a reasonable excuse for conducting himself or herself 
+- Conners v Craigie (1994) 76 A Crim R 502. 
+  - Connors v Craigie (1994) 76 A Crim R 502 per Dunford J, and its related earlier case (Mclnemy J 5 July 1993) arise out of circumstances where an Aboriginal man yelled, from a distance of three meters, a tirade of abuse such as ‘Fuck off you white cunts ... you’re all white cunts’. 
+  - Reasonable excuse
+    - Justice Mclnemy found that the test to be applied was: 
+      - what would the attitude of a reasonably tolerant bystander be in the circumstances ... in my view there is no answer other than such an objective observer would conclude the language was offensive
+      - No provocation in public by that person, personal provocation in home
+      - The language was offensive
+- Statutory Interpretation
+  - Definition section is highest rated definition
+  - Case law of that specific statute
+

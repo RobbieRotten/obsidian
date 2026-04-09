@@ -1,0 +1,2172 @@
+#tag-notes #tag-tutorial
+
+## Week 1 Lecture Notes:
+
+- Constitutionalism def
+  - A system where power is limited by a Constitution, whether written or unwritten, consisting of
+    - A foundational law setting out the chain of command and
+    - Fundamental laws or principles that place limits on governmental power
+- Questions to start with
+  - What is the chain of command in our Constitution
+  - Should it be easy to change a Constitution
+    - Nah
+  - What if it was written in the late 1800s
+- Constitution Overview:
+  - Legislative Powers of the Commonwealth
+    - The Commonwealth government can only pass laws that come within heads of power set out in s 51 of the Constitution or another provision of the constitution aka enumerated powers
+    - s 51 is the main section of parliament power
+    - MATCH EVERY LAW TO A HEAD OF POWER
+    - Heads of power covered in this subject
+      - s 51(i) trade and commerce within the context of characterisation
+      - s 51(vi) the naval and military defence of the Commonwealth and of the several States, and the control of the forces to execute and maintain the laws of the Commonwealth;
+      - s 51(xix) naturalization and aliens;
+      - s 51(xx) foreign corporations, and trading or financial corporations formed within the limits of the Commonwealth;
+      - s 51(xxvi) RACE: the people of any race for whom it is deemed necessary to make special laws;
+      - s 51(xxix) external affairs;
+    - Sections that are different from others
+      - S 51 (xxxi) the acquisition of property on just terms from any State or person for any purpose in respect of which the Parliament has power to make laws;
+      - S 51 (xxxix) matters incidental to the execution of any power vested by this Constitution in the Parliament or in either House thereof, or in the Government of the Commonwealth, or in the Federal Judicature, or in any department or officer of the Commonwealth.
+      - S 61 - Executive Power
+        - The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General as the Queen's representative and extends to the execution and maintenance of this Constitution and of the laws of the Commonwealth.
+  - Rights Guaranteed in the Constitution
+    - Even if there is a head of power that allows the Commonwealth to pass the law on that topic, there may be other express and implied provisions within the Constitution that limit the COmmonwealth’s legislative power. 
+  - Legislative Powers of the States
+    - The states can pass laws about any topic they wish provided there is no express or implied imitation in the Constitution, and the law is not inconsistent with a valid Commonwealth Law
+      - S 109 of the Constitution - State laws inconsistent phrases nullified by Federal
+  - Commonwealth Executive Power
+    - Most significant powers of the Executive are conferred by legislation
+    - Other powers derive directly from the Constitution (eg the Gov-Gen power as Commander-in-Chief of the armed forces)
+    - While still, others come from common law 
+      - Prerogative powers 
+    - According to the principles of responsible gov, the Gov-general exercises nearly all powers only on the advice of the Executive (PM and/or other ministers)
+  - Judicial Power of the Commonwealth: Chapter III
+    - Judicial power is the power to resolve disputes by the application of law
+    - It is exercised by the HC and the FC, and some state courts, 
+- Constitutional Power in Summary
+  - In Australia, our Constitution ensures that we have 
+    - A division of powers between the States and the CW - Federalism
+    - A separation of powers between the Judicature, the executive, and the legislature AND
+    - Some fundamental rights and freedoms guaranteed in the Constitution
+- Rights in the Consitution
+  - Express rights we cover
+    - S 80 - Right to a jury trial for indictable offences
+    - S 116 - Freedom of Religion
+    - S 51 (xxxi) - Eminent Domain
+  - Implied Rights we cover
+    - Implied right to freedom of political Communication
+    - Right to vote
+  - Is there a right to vote
+    - In Roach v AEC (2007) 233 CLR 162, HCA held that the phrase ‘directly chosen by the people’ in ss 7 and 24 of the Cth Constitution protects the franchise (voting rights) by implication
+    - The consensus seems to be that any law that imposes a legal or practical burden on the enfranchisement of adult citizens w/o substantial justification is const invalid. 
+- Summary of Federal Voting Exclusions
+  - Australian citizens aged 18+ can vote 
+  - Exclusions apply to any citizen who
+    - Unsound mind incapable of understanding the nature and significance of
+    - Convicted of treason or treachery
+    - 3+ years in prison 
+    - Living overseas and does not intend to live in Australia
+- Electoral Democracy - ‘One vote, One value’ or Proportional Representation
+  - Proportional representation under s 7 requires there to be an equal number of senators
+  - The proposition of ‘one vote, one value’ does not exist under the Australian Constitution - McGinty v Western Australia (1996) 186 CLR 140.
+  - More voting power for small states
+- Power comes from the people or does it?
+  - Australia is now considered to have popular sovereignty as opposed to Parliamentary sovereignty. Therefore the idea is that the people have control through the Constitution
+- Australian Powple as Sovereign
+  - Arguable that sovereignty now resides with Australian people by virtue of their capacity to amend the Constitution through s 128
+- Australia as a Republic 1999
+  - In 1999 2 questions were put to the people
+    - A proposed law: To alter the constitution to establish the Commonwealth of Australia as a republic with the Queen and Gov-Gen being replaced by a President appointed by a two-thirds majority of the members of the Cth Parliament
+    - A proposed law: to alter the Consitution to insert a preamble
+- Rule of Law
+  - Dicey describes three categories of the Rule of law
+    - Ruled by Law
+      - Supremacy of the law as opposed to arbitrary power
+    - Equality before the law
+      - Equal subjection of all classes to the ordinary law of the land
+    - Power comes from the poeple
+- Equality before the Law
+  - No express Consitutitonal guarantee of equality before the law
+    - Katinyeri v The Commonwealth (1998) 195 CLR 337
+    - The CW has the power to pass laws which discriminate against classes and subclasses of people
+  - Limited recognition?
+    - Leah v Commonwealth (1992) 174 CLR per Guardon J at 502
+  - S 25 of the Australian Consittuion
+    - Tried to help stop racism, weird
+- Some (Implied) Rights in the Constitution - Comming from Common Law
+  - The right to due process - Kruger
+  - The right to a fair trial - Dietrich
+  - Some rights implied within the separation of Judicial Power of the Commonwealth
+- The Seperation of Judicial Power
+  - R v Kirby; Ex parte Boilermakers’ Society of Australia (1956) 94 CLR at 275
+    - Only Chapter III courts can exercise judicial power
+    - Chapter III can only exercise Chapter III power and powers incidental to Ch III power 
+  - Marbury v Madison 5 US 137 (1803)
+    - Separation and classification of departments of government
+    - Legislature makes, the executive executes, and the judiciary construes the law. 
+## Week 2 Lecture Notes:
+
+- The Australian Constitution: Ch II, s 61
+  - Structure of Executive - 
+    - King or Queen
+      - Gov Gen s 61
+        - Ministers (including PM and Cabinet): s 62
+  - The Gov-Gen Express Ceremonial Powers
+    - Subject to this Constitution 
+    - The GG may exercise all Australian executive power necessary to ‘execute and maintain’ the Constitution and laws of the Cth. 
+      - s 61
+    - Capacity - GG def - Governor General
+      - The rep of the AU head of state (The King)
+        - s 61
+      - Head of the executive
+        - s 61
+      - Commander-in-chief of the armed forces
+        - s 68
+    - The GG’s Executive Powers
+      - The GG’s powers under s 61 are subject to advice from GG’s ministers ‘acting in Council’ - s 62
+      - Convention of ‘confidence’ 
+        - GG appoints te leader of the party with a majority of seats in the lower HoP (Known as a ‘vote of confidence’
+      - Real Effect of GG
+        - Rubber stamp
+    - The GG’s Executive Powers: POLITICAL UMPIRE
+      - Reserve powers
+        - Dismissal of a Prime Minister is prime power controversial
+        - See Reserve powers from notes 
+      - Dismissal can occur when a PM
+        - Persists in illegal/controversial conduct, despite a GG’s request to desist
+        - Refuses to resign upon losing a vote of confidence in Lower HoP
+          - Failing to secure supply in lower house
+          - Losing a direct ‘no confidence’ motion
+          - Failing to enact key policy
+      - First dismissal	
+        - Big Fella, Jack Lang 1925-1927, 1930-32 
+        - NSW Premier
+      - ‘The Dismissal’
+        - Sir John Kerr - Gov General
+          - Appointed Whitlam
+          - Conservative upper house - refused to pass the budget
+        - Dismissal breached TWO fundamental conventions
+          - No basis to activate the reserve powers of the GG 
+            - Failed in upper house, not lower house - could not be no confidence
+          - A GG may only appoint a PM who leads a party that holds a majority in the lower house.
+    - The Executive Powers
+      - The HC has said that the executive possesses four 4 major powers under s 61
+        - Prerogative power of the Crown
+        - Statutory power
+          - Conferred on the executive by statute
+        - Nationhood power
+          - Under s 61 and s 51(xxxix)
+        - Power to enter into contracts and spend public money
+          - Davis v Cth (1988) 166 CLR 79
+    - The prerogative power of the Crown def
+      - Power to act w/o statutory authority
+    - Hobbesian Prerogative powers - Divine Right of Kings
+      - The invasion of foreigners
+        - borders
+      - The imposition of taxes
+        - Tax power
+      - Mutual defence
+        - Raise defensive armies
+  - Prerogative Power: Civil War and Revolution
+    - 1628-1642
+      - Imposed undemocratic taxes and suspended Parliament
+    - 1642-1685
+      - Civil War, revolution and restoration
+    - 1685-1689
+      - Suspended Parliament / Bill of Rights 1689, limiting prerogative power
+  - Executive Prerogative Powers: s 61 and ‘national sovereignty
+    - Ruddock v Vardarlis (The Tampa Case) [2001] FCA 1329
+      - Whether expulsion of non-residents from Australian waters is a valid exercise of prerogative power
+      - French CJ found that Executive has the power under s 61
+  - Power Conferred by Statute (Statutory power of the executive)
+    - The executive is always bound by statute and has been since the Bill of Rights 1688 and the English Revolution: Port of Portland Pty Ltd v Victoria (2010) HCA 44 - unanimous decision
+    - Victorian Stevedoring & General Contracting Coo Pty & Meakes v Dignan [Dignan’s Case] (1931)
+      - The executive may create delegated legislation, but its actions must fall within a recognizable head of Cth power under s 51(i) (per Dixon J; and Evatt J)
+  - Nationhood Power s 61 and s 51 (xxxix)
+    - Nationhood power is an implied head of power under s 61, using the incidental power under s 51 (xxxix)
+    - Incidental Power def
+      - Allows the legislature to create legislation that extends executive power beyond the ambit of s 51
+    - Nationhood Power: Purpose
+      - Nationhood power may only be exercised for the ‘benefit of the people’ or nation
+        - First Pharmaceutical Benefits case (1945)
+        - VIC v CTH (AAP case)(1975)
+        - Tas Dams (1983)
+        - Pape (2009)
+        - Davis (1988)
+  - Nationhood Power: Limitations & Controversies
+    - Whether a ‘benefit to the nation’ includes a coercive, penal, or punitive purpose
+    - Whether nationhood power permits executive ‘appropriation’ from the consolidated revenue fund and expenditure (executive appropriation)
+  - Nationhood Power: Limitation 1 - Coercive, Penal, or punitive purposes
+    - Two sets of decisions on whether a benefit includes or does not
+      - A benefit does not include: a coercive purposes such as no freedom of expression - Davis v Cth (1988)
+  - Non-Coercive nationhood power
+    - Tasmanian Dams Case (1983)
+      - The World Heritage Protection and Conservation Act 1983 s6(2) made it unlawful to destroy property part of ‘heritage distinctive of Australian nation’
+      - Nationhood power does not support ‘a coercive law declaring certain conduct to be unlawful and imposing penalties’: Wilson J 203 - Deanne J 252
+  - Non-Coercive Nationhood Power
+    - Davis v Cth (1988) HCA 63 - 166 CLR 79
+      - 200 years of suppression and depression - T-Shirts
+      - Executive power must not impair individual freedom and cannot be used for a punitive or coercive purposes: Brennan J at 110-11
+      - Nationhood power is subject to freedom of expression
+      - FORMALISED THE NATIONHOOD POWER
+- Coercive Nationhood power
+  - Burns v Ransley
+    - The offence of sedition supported by nationhood power?
+    - Latham CJ said yes 
+      - Ss 61 and s51(xxxix) enabled parliament to pass laws to maintain and protect Cth from internal and external security threats and attacks
+    - Confirmed in R v Sharkey (1949) 
+      - Power extends to respond to financial rather than security threats - Gummow, Crennan, Bell JJ
+        - Hayne and kiefel JJ dissented
+  - Nationhood Power: Limitation 2 - Executive Appropriation
+    - S 81
+      - Executive gets money from Consolidaed Revenue Fund
+    - S 83
+      - No money drawn from treasury except under appropriation made by law
+    - HCA created exceptions to ss 81 & 83 when the legislation requiring executive expenditure is created under the nationhood power
+    - First Pharmaceutical Benefits Case (1945)
+      - Pharmaceutical Benefits Act 1944 (Cth) provided for appropriation of moneys from the treasury to provide free medicines (first form of Cth Social Welfare)
+      - Nationhood power cannot be used to characterize a law authorizing executive expenditure or appropriation under ss 81 and 83.
+        - Led to Labor referendum in 1946 amending s 51 (xxiiiA) to provide the ‘social services’ power i.e. welfare state
+  - Nationhood power: executive appropriation - Victoria v Cth and Hayden (AAP case) (1975)
+    - Without accompanying or enabling legislation, the nationhood power cannot support
+      - An expansion of executive powers, nor
+      - A radical transformation of Cth / state funding responsibilities (at 398). 
+  - Pape v Comissioner of Taxation (2009) HCA 23
+    - Appropriation is valid under the nationhood power if ‘urgent’, to avoid national economic disaster (French CJ), ‘crisis’ or ‘natioonal emergency’ (Gummow, Crennanm and Bell JJ; confirmed in Williams (2012) per Gummow and Bell JJ at 235
+    - Dissenting Jusgements
+      - Heydon J - no such thing as nationhood power
+      - Hayne and Kiefel 
+- Executive Power to Spend Money and Enter into Contracts
+  - Williams v Cth (2012) 248 CLR 156
+    - 6:1 majority found Expenditure was invalid because it was not supported by legislation, bypassed responsible government and no parliamentary oversight
+      - Confirmed in Williams (No 2) (2014).
+  - Wilkie v Cth and Australian Marriage Equality Ltd v Minister for Finance (2017)(Marriage Equality Case)
+    - Cth executive sought to app $122 mil for a postal plebiscite regarding the legality of marriage equality under Appropriation Act, s 10 
+    - Unanimous HCA abandoned reliance on ‘urgancy’ from Williams and took a broad view of spending power (ss 81 and 84) 
+      - Executive merely need to have ‘need’ for it
+  - Executive Expenditure - Wilkie
+    - If const valid, only means of redress against exec lies in admin law, requiring that Min decisionbe ‘reasonable’
+    - Test of Wednesbury unreasonableness applies
+      - Must be so outrageous in its defiance of logic or accepted moral standards that no sensible person could have arrived at that decision” 
+      - High Standard - difficult to prove
+## Week 3 Lecture Notes:
+
+- NSW Race defined in state laws
+  - Aborigines Protection Act 1909
+    - A person of aboriginal descent with varying ‘blood quantum’ (e.g., full-blood, half-case)
+      - Segregation on reserves, restriction of movement, control over employment, wages, and marriage
+      - 
+- Love v Commonwealth; Thoms v Commonwealth
+  - Case Overview:
+  - Date: 11 February 2020
+  - Court: High Court of Australia
+  - Decision: 
+    - Aboriginal Australians cannot be deemed "aliens" under section 51(xix) of the Australian Constitution, impacting their deportability under the Migration Act 1958.
+  - Individuals: 
+    - Daniel Love (Kamilaroi) & Brendan Thoms (Gunggari), non-citizens serving jail sentences, facing deportation as "aliens."
+  - Issue: 
+    - Both lived in Australia since childhood, identified as Aboriginal Australians, and had permanent residency prior to their sentences.
+  - Legal Arguments:
+    - Victoria's Attorney-General argued Aboriginal Australians' unique land connection negates their classification as aliens.
+    - The Court applied the Mabo (No 2) tripartite test to define Aboriginal Australians, finding they fall outside the "aliens" definition.
+  - Decision:
+    - Majority Opinion: 
+      - Found Aboriginal Australians not "aliens," with Thoms recognized as such due to his native title claim. 
+      - Love's status was remitted to the Federal Court.
+    - Dissenting Views: 
+      - Concerns over race-based constitutional distinctions, the role of parliament in defining citizenship and alienage, and implications for sovereignty.
+## Week 4 Lecture Notes:
+
+- s 51(XXIX) External Affairs
+  - The Parliament shall, subject to this constitution, have power to make laws for the peace, order, and good government of the Commonwealth with respect to EXTERNAL AFFAIRS
+- Intro to the external affairs power
+  - Aspect one: Extraterritorial power
+    - Geographically external to australia 
+    - Subject matter power
+  - Aspect two: International Relations
+    - International relations 
+    - Purposive power
+  - An explainer: Treaties and international law
+    - Entering treaties
+    - International law and Australian Law
+  - Aspect three: Implementing treaties
+    - Implementing treaties that australia is subject to or a party to
+    - Purposive power
+  - Additional aspect fouL Matters of international concern
+- Characterisation 
+  - A dual purposive and subject matter power
+  - Subject matter (non-puposive power) test
+    - Is there sufficient connection (nexus) to the head of power 
+      - Look to the rights, duties, obligations, and privileges which it changes, replaces or abolishes
+  - Purposive power test
+    - A law made in exercise of a purposive constitutional power will be valid if it is reasonably capable of being regarded as appropriate and adapted to achieving the purpose of the power
+    - Proportionality question
+- The external affairs power and Australian federalism
+  - The external affairs power is arguably disruptive to Australian federalism
+    - Koowarta
+    - Tasmanian Dam
+    - Richardson v Forestry Commission
+  - Using this power to regulate environment and culture which is not provided in the constitution
+- Extraterritoriality
+  - Matters geographically external to Australia
+  - Persons, places, matter, or things (affairs) external to Australia
+    - NSW & Ors v the Commonwelath (Seas and Submerged Lands case) (1975)
+  - Must there be a “sufficient connection” (or “nexus”) between the law and Austrlaia?
+    - Polyhukhovich v Cth (War Crimes case)
+    - HORTA V THE COMMONWEALTH (1994)
+      - Australia negotiated and signed a treaty with Indonesia, regulating the petroleum rich sea bed between Australia and East Timor (now Timor-Leste)
+      - The plaintiffs in Horta, claimed that the treaty was illegal – void – in international law and that the Commonwealth could not rely on the external affairs power to legislate to give effect to the treaty.
+      - “Regardless of whether the mere fact that a matter or thing is territorially outside Australia is of itself sufficient to bring a matter or thing within the phrase "External affairs" for the purposes of s. 51(xxix) or whether one or other of those additional factors is necessary, it is clear that the area of the Timor Gap and the exploration for, and the exploitation of, petroleum resources within that area all fall within that phrase.”
+    - Victoria v Cth
+    - XYZ v Cth
+- INTERNATIONAL RELATIONS
+  - Relations with other countries
+    - R v. Sharkey (1949)- crime of sedition against any of the King’s dominions was said to be covered by external affairs.
+    - Latham said legislation relating to any country would be covered not just the ‘dominions’. 
+    - Australia’s relations with international persons or Organisations? 
+      - Koowarta (1982) - extended Sharkey to international persons and organisations
+  - SEAS AND SUBMERGED LANDS CASE (1975)
+    - Stephen J defined.
+    - The Majority said that the external affairs power did allow the Commonwealth to assert its sovereignty over territorial seas.
+    - But they relied on:
+      - Geneva Conventions on the law of the sea (all but Jacobs J relied on this, only McTiernan solely relied)
+      - Extraterritoriality (Mason, Deane, Dawson and McHugh)
+      - International relationships (Stephen J)
+    - Shows that multiple aspects of the power can be used in the same case
+    - THOMAS V MOWBRAY (2007)
+      - Hayne, Callinan and Heydon didn’t consider external affairs (they found valid under the Defence Power)
+        - But Gummow and Crennan (Gleeson agreeing): relied upon the capacity of terrorism to affect Australia’s relations with other countries (and, to the extent that it operated extra- territorially, geographic externality).
+      - Kirby: extraterritoriality not enough, international relations also rejected
+- MATTERS OF INTERNATIONAL CONCERN
+  - It may be that even without a treaty, it is possible to argue that the external affairs power can cover “matters of international concern.”
+  - Koowarta – judges recognised this aspect but had different views
+    - Stephen J considered that, even in the absence of a treaty, a ‘subject-matter of international concern’ could enliven s51(xxix).
+    - Mason and Murphy JJ, equally regarded ‘international concern’ as an independent ground for validity.
+    - Mason J expressed the view that a matter which is the topic of international debate, discussion and negotiation constitutes an “external affair” before Australia enters into a treaty relating to it.
+    - Murphy J also argued that the Act’s operative provisions would be valid even in the absence of the Convention.
+  - Joseph and Casten: “no presently recognized” power under this aspect
+- ENTERING TREATIES
+  - It is the executive that has the power to enter treaties
+  - It forms part of the prerogative power of the Crown/ executive
+  - 1996 reforms have included a role for parliament:
+    - Tabling of treaties in Parliament before signing
+    - Parliamentary Joint Standing Committee on Treaties
+- Treaties can influence statutory interpretation and the common law
+  - Chu Kheng Lim v Minister for Immigration (1992) 176 CLR 1
+    - “We accept the proposition that the courts should, in a case of ambiguity, favour a construction of a Commonwealth statute which accords with the obligations of Australia under an international treaty.” (However, here “unambiguous”) 
+    - Mabo (1992) Brennan J: International law is a significant and important element in the development of the common law
+- ASPECT THREE: IMPLEMENTATION OF TREATIES
+  - TREATIES AS A SOURCE OF LEGISLATIVE POWER
+    - Signing treaties potentially attracts enormous legislative power to the Cth
+  - WHEN TREATIES CAN AUTHORISE LEGISLATION
+    - Important question is: to what extent can Australia’s entry into treaties by the executive trigger a constitutionally permissable exercise of Commonwealth legislative power?
+      - AKA When can a Cth law rely on the treaty aspect of the external affairs power to pass a law?
+  - Parliament relies on treaties to pass legislation	
+    - SEX DISCRIMINATION ACT 1984 (CTH)
+      - Section 3 Objects
+        - (a) to give effect to certain provisions of the Convention on the Elimination of All Forms of Discrimination Against Women and to provisions of other relevant international instruments;
+  - TWO KEY PRINCIPLES ON THE SCOPE OF THE TREATY ASPECT OF THE EXTERNAL AFFAIRS POWER
+    - 1. Subject matter: When can the Cth rely on a treaty for legislative power? (ie does the subject of the treaty need to be international in nature?)
+    - 2. Conformity: How closely do the provisions of the law have to conform to the wording of the treaty? (the “conformity principle”)
+  - R v Burgess
+    - Subject matter: Restricted to ’matters of sufficient international significance’ (Starke J) or ‘indisputably international in character’ (Dixon J)?
+    - The Conformity principle: The legislation must conform to the treaty... but how closely? (In Burgess the regulations under the Act were invalid because they did not follow the text closely enough)
+    - Meticulous adherence to the terms of the treaty is not required, so long as the purpose of the treaty is effected
+      - R v Poole; Ex parte Henry (No 2) (1939) 61 CLR 634
+  - Conclusion on treaties
+    - Treaty is not limited to any particular subject matter
+    - Must embody precise obligations not just vague aspirations
+    - To be a law with respect to this aspect of ‘external affairs’, the law must be reasonably capable of being considered appropriate and adapted to implementing the treaty
+    - Commonwealth v Tasmania (1983) 158 CLR 1
+    - Victoria v Commonwealth (1996) 187 CLR 416
+- LIMITATIONS ON THE EXTERNAL AFFAIRS POWER
+  - What are the limits on the scope of the external affairs power?
+    - Section 51(xxix) is ‘subject to’ the Constitution and its express and implied constitutional limitations
+      - Victoria v Commonwealth (1996) 187 CLR 416
+    - If the Commonwealth exercises its external affairs power to implement treaty obligations which are void or unlawful under international law, will this invalidate the domestic legislation?
+      - Horta v The Commonwealth (1994) 181 CLR 183
+  - The Commonwealth may not cite an international obligation as a ‘sham or circuitous device to attract legislative power’
+    - Koowarta v Bjelke-Petersen (1982) 153 CLR 168
+    - R v Burgess; Ex parte Henry (1936) 55 CLR 608 at 642, 658, 669 and 687.
+    - Horta v The Commonwealth (1994) 181 CLR 183
+## Week 5: Corporations Power
+
+- The Corporations Power s51(XX)
+  - s. 51 (xx):
+    - The Parliament shall, subject to this Constitution, have power to make laws for the peace, order, and good government of the Commonwealth with respect to:	foreign corporations, and trading or 	financial corporations formed within 	the limits of the Commonwealth
+  - What is a corporation?
+    - In general terms a corporation is a legal entity that can operate very like an individual in that it can enter contracts, take out loans and borrow money. It can be sued and can sue, can hire and fire and it has to pay taxes. 
+    - It comes into existence when it is “incorporated” under the relevant law. 
+  - In Australia
+    - In Australia the relevant law is the CW Corporations Act 2001 
+    - What head of power is there to allow the government to make the Commonwealth Corporations Act 2001? 
+    - S51(xx)
+  - Under s51(xx) 
+    - CAN THE COMMONWEALTH REGULATE INCORPORATION UNDER S51(XX)?
+      - NO THERE IS NO CW POWER OVER INCORPORATION
+  - Huddart, Parker & Co Pty Ltd v Moorehead (1909) 8 CLR 330 
+    - All judges agreed the power did not extend to incorporation 
+    - Confirmed in NSW v. CW (1990)(Incorporations case) “formed within the limits of the Commonwealth” are words of limitation for the following reasons: 
+      - Formed meant corporations already formed 
+      - Had to be formed in accordance with State law before the CW could legislate with respect to it. 
+      - CW couldn’t legislate for incorporation of foreign corps so this view fit with the rest of the section
+      - Banking power s51(viii) specifically mentions incorporation of banks as an element of that power. Its omission from 51(xx) therefore suggests not intended to be included 
+  - Incorportating Corporations in Australia
+    - Corporations Act 2001
+      - It was agreed that a piecemeal system of incorporation where each State had their own rules was unwieldly.
+      - Therefore, power to incorporate was granted to the Commonwealth by a the States under the referral power s51(xxxvii) and the Commonwealth have power over the Territories through s122 (see specifically s3 and 4 of the Corporations Act 2001. 
+      - NB the referral power is not examinable
+    - Two main questions for the Corporations Power 
+      - 1. What is a Constitutional Corporation?
+      - 2. What aspects of a Constitutional Corporation can the Commonwealth regulate? 
+  - History of the interpretation of the Corporations power in Australia
+    - Original View was the Narrow View which lasted from 1909 to 1971
+    - Huddart, Parker & Co Pty Ltd v Moorehead (1909) 8 CLR 330
+    -  Held that s51(xx) did not allow the CW to regulate intrastate activities of trading and financial Corporations
+    - In other words the section does not empower the CW to make laws with respect to the operations of a corporation that fall within the exclusive purview of a State. 
+  - Huddart Parker Isaacs in Dissent 
+    - Two questions to answer for understanding the scope of the Corporations power 
+      - 1) which corporations come within the power?
+        - Isaacs construed corporations narrowly excluding charitable, religious and not-for-profit
+      - 2) what activities of a corporation can be regulated?
+        -  Isaacs took a wide view of power as encompassing those activities that involved the conduct of corporations in their transactions affecting the public
+  - Current View – Huddart Parker Overturned 
+    - The first case to overturn Huddart Parker (in part) was: Strickland v Rocla Concrete Pipes Ltd (1971) 124 CLR 468 
+    - Question arose as to whether to endorse Isaacs dissent in Huddart Parker. 
+  - Strickland v. Rocla Concrete Pipes
+    - S51(xx) allows the Cth to make laws with respect to restrictive trade practices of corporations which affect, inter alia, the sale and distribution of goods. 
+    - This case represents the beginning of the opening up of the corps power
+    - The cases that have followed have made it clear that the corporations power may affect activities beyond those directly related to trade and finance.
+- WHAT IS A TRADING OR FINANCIAL CORPORATION?
+  - Trading Corps
+    - R v Judges of the Federal Court of Australia; Ex parte Western Australian National Football League (Adamson’s case) (1979) 143 CLR 190
+      - League corporations were trading corporations because they were engaged in “substantial trading activities”, “not insubstantial trading activities” and trading activities of “sufficiently significant proportions”
+      - Also trading had its popular meaning and was more than just buying and selling but also included business activities. 
+      - Do not look to the original purposes of the corporation look at its actual activities 
+  - Court revisits what is a trading corporation
+    - Commonwealth v Tasmania (1983) (Tasmanian Dams Case) 
+      - Was it a corp?
+        - Mason and majority: Hydroelectricity Commission of Tasmania was a corporation 
+          - Fact that it sold electricity made it so
+          - This was despite the fact that it also conducted public undertakings
+        - Gibbs and minority: it was not a corp because it was a public body with a public purpose
+        - This case in line with Adamson firmed up the view that the test was the “current activities test”
+  - Additional cases
+    - Communications, Electrical, Energy, Information, Postal, Plumbing and Allied services Union v Queensland Rail (2015)
+      - Here the QLD parliament attempted to put QLD Rail Transit Authority beyond CW Corporations power by providing in s6(2) QLD Rail Transit Authority Act that it was “not a body corporate”
+      - High Court found it was a trading corp and held that a State parliament can’t simply legislate to remove a corp from Commonwealth power if Constitutionally it would otherwise be within power. 
+  - Financial Corporations 
+    - State Superannuation Board v Trade Practices Commission (1982)
+      - Must be a substantial and not insignificant part of its established operations however they do not have to be the predominant activities
+      - Test is the same for financial and trading corps
+      - Corp can be both financial and trading
+
+- Ready Made Companies
+  - Inactive Corporations – an exception
+    - Fencott v Muller (1983)
+      - Appropriate to look at the purposes in this case where the company was a shelf company and had never traded or engaged in financial activities. 
+      - A shelf company is one that has never traded and hold no assets or liabilities. Basically it sits on the shelf unused until it is needed at which point it is ready to go. 
+- WHAT ACTIVITIES OF A CORPORATION CAN BE REGULATED 
+  - Activities: includes protection of trading
+    - Actors and Announcers Equity Association v Fontana Films Pty Ltd (1982) 150 CLR 169
+      - Actors Equity persuaded theatrical agents not to supply actors to Fontana Films who were refusing to exclusively employ union members. 
+      - Held: Power extended to both the regulation and protection of the trading activities of trading corps ie included secondary boycotts
+      - Obiter:
+        - Mason (supported by Aiken) not confined to trading and financial activities
+        - Murphy includes corps not yet formed and industrial relations 
+  - Tasmanian Dams Case 1983 
+    - What activities were covered? 
+      - Having decided that the HEC was a Constitutional Corp the next question was which of its activities could the Commonwealth regulate? 
+      - The HEC was prohibited under the World Heritage Properties Conservation Act section 10(2) from felling trees or excavating and using explosives without the consent of the Commonwealth. 
+      - Were these non trading activities covered?
+      - Mason, Murphy and Deane all said that they these activities were covered taking the wide view that the activities could include those activities that supported the trading activities. 
+    - Gibbs, Wilson and Dawson held to the narrow view that only trading activities were within power. 
+    - Brennan did not decide either way as he felt on the facts it was only necessary to consider the validity of section 10(4) which he found valid on the basis that the Commonwealth could regulate acts done by Constitutional corporations if they fell within the implied incidental power. 
+    - Thus the decision re 10(2) was 3:3 but Brennan’s inclusion of incidental matters made the scope wider
+    - Tas Dams is therefore seen as precedent for a middle view that: 
+      - The Commonwealth can regulate trading activities and activities conducted for the purposes of trade
+  - Re Dingjan; Ex Parte Wagner (1995)
+    - section 127c(1)(b) Industrial Relations Act which extended the power to review contracts to cases “in relation to a contract relating to the business of a Constitutional Corporation.” ie independent contractors 
+    - 4:3 found the provision invalid however by 5:1 they endorsed a wider view of activities than previously but still required a nexus 
+    - Dawson was in favour of a narrow view
+    - Gaudron endorsed a wide no nexus view.
+  - Invalid despite the wide view
+    - The specific provision was invalid because the law was attempting to regulate independent contractors and 
+    - Per McHugh: therefore it was not a law with respect to a corporation. 
+    - Per Brennan and Toohey: therefore there was an insufficient nexus between the corporation and what the legislation sought to regulate ie independent contractors 
+  - Gaudron’s dissent (became the majority view in Workchoices 2006)
+    - Gaudron held that the s51(xx) power extends at the very least to business functions and activities. 
+    - It is sufficient that a law be “expressed to operate on or by reference” to the corporation. 
+    - Do not need “significant” or “substantial” connection 
+  - Gaudron J
+    - “When s51(xx) is approached on the basis that it is to be construed according to its terms and not by reference to unnecessary implications and limitations, it is clear that, at the very least, a law which is expressed to operate on or by reference to the business functions, activities or relationships of constitutional corporations is a law with respect to those corporations.” 
+- THE WORK CHOICES CASE
+  - New South Wales v Commonwealth (WorkChoices Case) (2006) 231 ALR 1
+    - Activities are anything connected to a Corp
+    - The case concerned the use of the Corporations Power to regulate industrial relations. The challengers argued:
+      - The Corporations Power only permitted the regulation of ‘external’ relationships, not ‘internal’ relationships and the relationship between a constitutional corporation and its employees was ‘internal’.  
+      - A law was not within the Corporations Power merely because it confers rights and imposes obligations on constitutional corporations.  
+      - 5:2 Decision –adopted dissenting reasoning of Gaudron J in Re Dingjan and her later decision in Re Pacific Coal Pty Ltd: Ex parte the CMEU (2000) 
+      - The majority decision: Gleeson CJ and Gummow, Hayne, Heydon and Crennan JJ.
+        - A law regulating the ‘activities, functions, relationships and business’ of a constitutional corporation or creating rights, privileges or obligations of a constitutional corporation was within the Corporations Power. 
+      - The minorityKirby and Callinan JJ.
+        - The federal balance had to be maintained. Consequently, the Corporations Power was subject to the Industrial Disputes Power. 
+        - Either the Corporations Power could not be used to regulate industrial relations or was subject to the same limitations as the Industrial Disputes Power (ie. being limited to making laws about conciliation and arbitration of interstate industrial disputes). 
+        - This meant the entire WorkChoices Act was invalid – although only part relied on the Corporations Power.   
+
+  - Work Choices changed Industrial relations for ever more
+    - The majority upheld the Work Choices legislation on the basis that the object of the legislation was the Constitutional Corporation 
+    - In addition, provisions not directed toward the Corporation may still be viewed as valid if they fell within the incidental power. 
+  - Implied Incidental Power
+    - Attached to every express grant of power is an implied grant of power wide enough to make the express grant effective
+    - D’Emden v. Pedder 1904 Included in the larger grant of power is “Every power and every control the denial of which would render the grant ineffective” 
+    - See also Brennan in Tas Dams Slide 24
+    - Where the validity of a law depends on bringing it within the incidental power it will usually be necessary to examine the purpose of the law and ask is it appropriate and adapted to the purpose
+## Week 6: Separation of Power
+
+- Ch III ss 71-77: courts of the federal jurisdiction
+  - 
+  - Ch III, s71:
+    - establishes the High Court of Australia;
+    - allows Cth Parliament to establish federal courts (now done); and
+    - allows Cth Parliament to vest federal jurisdiction in pre-existing State courts 
+  - Ch III overview
+    - s 72(i) allows for the appointment of judges by the GG in counsel;
+    - s 72 sets a mandatory retirement age for judges at 70;
+    - s 72 (ii) provides for removal of judges by a majority vote at a joint sitting of Cth Parliament for misbehaviour or incapacity only;
+    - s 77 allows the Cth Parliament to define the jurisdiction of all courts (including federal courts) other than the HCA.
+  - Original jurisdiction of the HCA
+    - s75 Original jurisdiction of High Court
+      - In all matters:
+        - i. arising under any treaty;
+        - ii. affecting consuls or other representatives of other countries;
+        - iii. in which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, is a party;
+        - iv. between States, or between residents of different States, or between a State and a resident of another State;
+        - v. in which a writ of Mandamus or prohibition or an injunction is sought against an officer of the Commonwealth;
+        - the High Court shall have original jurisdiction.
+    - S 76 Additional original jurisdiction
+      - The Parliament may make laws conferring original jurisdiction on the High Court in any matter:
+        - i. arising under this Constitution, or involving its interpretation;
+        - ii. arising under any laws made by the Parliament; [...]
+    - Judiciary Act 1903 (Cth), s 30 Original jurisdiction conferred
+      - In addition to the matters in which original jurisdiction is conferred on the High Court by the Constitution, the High Court shall have original jurisdiction:
+        - (a) in all matters arising under the Constitution or involving its interpretation;
+  - Appellate jurisdiction of the HCA
+    - s 73 provides the HCA jurisdiction to hear and determine appeals from all courts exercising federal jurisdiction (which includes state supreme courts) and appeals from the decision of a single High Court judge
+  - Principle of separation of powers
+    - 
+  - Some judicial functions are exclusive to the judiciary as they can only be exercises of judicial power
+    - Exclusively judicial functions
+      - 1. Declaring the common law
+      - 2. Adjudicating and punishing criminal guilt
+      - 3. Deciding constitutional validity of parliamentary and executive acts
+      - 4. Reviewing the lawfulness of administrative/executive action
+      - 5. Ascertaining the meaning of statutes
+    - Not exclusively judicial
+      - There are guiding indicators ('indicia') of functions that may be exercises of judicial power, or they may be exercises of another power. 
+      - So, it may be lawful for non-judges to undertake them
+  - E.g. - exercises of exclusive judicial power
+    - Adjudicating and punishing criminal guilt
+    - =/= legislative punishment
+      - ACMA v Today FM (2015): 
+        - ACMA tribunal was not exercising judicial power
+    - Punishing criminal guilt through judicial detention
+    - =/= executive detention
+      - Chu Kheng Lim v Minister for Immigration (1992): 
+        - executive migration officers were not punishing refugees by detaining them (textbook p196)
+      - NB update on this line of cases in 2023 decision, NZYQ: Aliens Power lecture.
+  - E.g. - indicators of possible exercise of judicial power
+    - Enforceability
+      - Brandy v Human Rights and Equal Opportunities Commission (1995)
+        - Was HREOC exercising judicial power in making enforceable rulings?
+    - Binding and conclusive decision about existing legal rights
+      - WWFA v JW Alexander LTD (1918)
+        - Were new rights being created when the Commonwealth Court of Conciliation and Arbitration made an Industrial Award?
+  - E.g. - indicators of possible exercise of judicial power
+    - A matter/dispute to resolve, rather than giving advisory opinions
+      - Momcilovic v The Queen (2011)
+        - Did the Court of Appeal of Victoria exercise a non-judicial power in issuing an advisory opinion?
+    - Discretion is not too wide
+      - Thomas v Mowbray (2007)
+        - Are judges making an "indeterminate inquiry" or policy decision rather than employing judicial reasoning?
+    - Historical considerations, i.e. how the function has previously been treated
+      - e.g. Thomas v Mowbray.
+        - Are the judges making decisions in line with history of judicial role?
+  - Separation of the judicial power of the Chapter III courts
+    - The judicial power of the Cth cannot be vested in any tribunal other than a Ch III court:
+      - Wheat case (1915);
+        - Notably followed in: Waterside Workers' Federation v JW Alexander (1918); Boilermakers case (1956); Brandy v HREOC (1995); Lane v Morrison (AMC case) (2009)
+  - NSW v Cth (Wheat case) (1915)
+    - Subject of constitutional challenge: the federal Interstate Commission, set up by legislation made under s101 of the Constitution.
+    - Constitutional provisions:
+      - s71 – Ch III courts and their judicial power.
+      - s51(xxxix) express incidental legislative power.
+      - s 103, which dictated 7-year terms for the Commissioners.
+    - Legal questions:
+      - Is the Interstate Commission a Ch III court? 	
+        - No
+      - Is the Interstate Commission exercising federal judicial power?
+        - Yes. It must stop.
+  - Alexander’s Case (1918) 25 CLR 434
+    - Facts: 
+      - President of the Commonwealth Court of Conciliation and Arbitration was, otherwise, a High Court judge, but as President he had tenure for a 7-year renewable term. 
+      - The President exercised both judicial and non-judicial functions.
+    - Issue: 
+      - Does this breach the rule about separation of judicial power?
+    - Held, 4:3: 
+      - The C & A Court is not a Ch III Court, despite being called a "court".
+    - Held, 4:3: 
+      - Federal Parliament could not confer judicial powers on this body that was not a Ch III court
+  - Recap so far
+    - 
+  - Exceptions to the 2 Rules
+    - Rule 1. 
+      - The judicial power of the Commonwealth cannot be vested in any tribunal other than a Ch III court: Wheat case (1915).
+      - Exception 1. 
+        - Cth judicial powers, but not the fundamentally important ones, may be delegated to non-judicial bodies if their exercise is subject to review by Ch III courts.
+    - Rule 2.
+      - A Ch III court cannot be invested with anything other than Commonwealth judicial power.
+      - Exception 1. 
+        - Ancillary non-judicial functions that are strictly "auxiliary or incidental" to exercising Commonwealth judicial power can be done by a Ch III court: Boilermakers (1956); R v Joske (1976).
+      - Exception 2
+        - Judges of Ch III courts can exercise non-judicial functions in their personal capacity (as 'persona designata'): Hilton v Wells (1985).
+  - Illustrations of Rule 2, Exception 1
+    - R v Joske (1976).
+      - Industrial Court's powers to address the consequences of its orders (ordering that certain industrial rules were invalid) may not have been judicial but they were incidental to the Court's judicial power to make a decision about the rules' invalidity: full bench HCA.0
+    - Re Wakim (1999)
+      - Federal courts may make determinations under state laws if incidental to a single issue which is justiciable in the federal jurisdiction: McHugh J.
+    - Momcilovic v The Queen (2011)
+      - Federal courts could hypothetically issue declarations akin to the Victorian Declarations of Inconsistent Interpretation as incidental to the judicial process (if Cth statute created such federal declarations): Crennan and Kiefel JJ.
+  - Rule 2, Exception 2: 'Persona Designata'
+    - A Ch III court cannot be invested with anything other than Commonwealth judicial power. 
+      - Thus:
+        - A federal judge cannot undertake non-judicial functions while acting as a federal judge.
+        - However, a federal judge may be appointed to perform non-judicial, administrative functions for a non-judicial body.
+        - This non-judicial appointment is made in a personal capacity to a designated person (i.e. a persona designata, designated person).
+        - The judge’s federal court is not changed or given new powers/functions.
+        - So the separation of judicial power remains intact.
+    - Grollo v Palmer (1995) case summary
+      - Act: Cth statute about phone tap warrants
+      - Constitutional provisions: s71
+      - Ratio: 4:1
+      - Key judgements: Majority:
+        - To be acting as a persona designata, and thus validly within the Rule 2 exception to the constitutionally prescribes separation of federal judicial power,
+          - a) the designated person must consent to the appointment; and
+          - b) the functions conferred cannot be incompatible with the designated person's performance of Cth judicial functions, or the responsibilities of their court:
+            - e.g. appointment cannot make person too busy to work as a judge;
+            - e.g. appointment cannot compromise judicial integrity;
+            - e.g. appointment cannot diminish public confidence in this judge, their court or the judiciary as a whole.
+        - Issuing phone tap warrants is not incompatible with being a federal judge.
+  - Wilson v Minister for Aboriginal and Torres Strait Islander Affairs (1996) case summary
+    - Act: 
+      - Aboriginal and Torres Strait Islander Heritage Protection Act 1984 (Cth), s10 under which Minister appoints Matthews J of Federal Court to prepare a report on the proposed bridge's impact upon the Aboriginal (Ngarrindjeri) heritage of Hindmarsh Island (Kumerangk) and recommend Minister's actions.
+    - Constitutional Provisions: s71
+    - Ratio: 6:1 invalid
+    - Key judgements:
+      - Majority: Non-judicial functions here conferred on a persona designata, not on the Ch III Federal Court, but her appointment is incompatible with her judicial role.
+      - i.e. The PD exception is still good law, but it does not apply to this set of facts.
+  - Wilson (1996) - considerations about whether the Persona Designata exception applies to allow performance of non-judicial function by Ch III judge
+    - Is this function incompatible with exercise of federal judicial power (and therefore unconstitutional)? Consider:
+      - Is the function closely connected to Executive or Legislative functions?
+      - Is the PD’s function to be performed independently of any instruction, advice or wish of the executive or legislature?
+      - Is there any decision-making discretion for the PD which will be exercised on political grounds? (You may look at the procedural fairness, inter alia, but existence of procedural fairness is not conclusive of compatibility.)
+    - Also:
+      - Is having a judge do this function a long-standing practice in Australia?
+      - Is this more or less problematic than the telephone warrants scheme? (It breached Separation of JP Rules but was allowed, creating PD exception.)
+- Separation of Judicial Power at Federal and State Level
+  - 
+  - Kable Principle: state-level separate of JP
+    - NSW has no entrenched doctrine of the separation of powers. (Nor do the other states.)
+    - The implication is that state laws can violate the separate of judicial power without offending the NSW Constitution.
+    - BUT even state laws must comply with the Constitution of Australia, including its entrenched separation of judicial power.
+    - Kable v DPP (NSW) (1996) is the key case explaining why.
+  - Kable v DPP (NSW) (1996) 189 CLR 51
+    - Facts: 
+      - Community Protection Act 1994 (NSW) empowered the NSW Supreme Court to order the detention of a person, for up to 6 months.
+      - Unusually, s 3 limited the application of the Act to one person, Gregory Wayne Kable, who had been convicted of manslaughter and sentenced to 5 years’ imprisonment. Upon expiry of his sentence, the NSW Supreme Court ordered his continued detention for a further 6 months.
+    - Decision: 
+      - By 4:2 majority, the High Court held that the Act was invalid by virtue of infringing the separation of judicial power under Ch III of the Commonwealth Constitution. (Legislation invalid, NSW Court order set aside.)
+  - STATE Legislation - Updating our Rules on Separation of JP
+    - Rule 1. 
+      - The judicial power of the Commonwealth cannot be vested in any tribunal other than a Ch III court: Wheat case (1915), Boilermakers Case (1956).
+    - Rule 2. 
+      - A Ch III court which is the HCA or a federal court cannot be invested with anything other than Cth judicial power, i.e. not non-judicial power; not State judicial power: Re Wakim (1999), building on Boilermakers (1956).
+    - AND a Ch III court which is a state court vested with federal jurisdiction (namely a state supreme court) cannot be vested with non-judicial powers which are incompatible with its exercise of federal judicial power: Kable (1996)
+      - - i.e. state legislation attempting such vesting is unconstitutional.
+    - But state judicial power can be vested (by state legislation) in any non-judicial state body, eg NCAT.
+      - Thus, neither the Parliament of NSW nor the Parliament of the Commonwealth can invest functions in the Supreme Court of NSW that are incompatible with the exercise of federal judicial power’ 
+  - Why does the Constitution of Australia apply as a limit on the legislative power of state parliaments?
+    - public confidence cannot be maintained in a judicial system which is not predicated on equal justice, the proceedings under s 5(1) [of the NSW Act] are unique in applying unique rules and procedures only to the appellant [Mr Kable] – in so doing, the Act makes a mockery of judicial process and inevitably weakens public confidence in it, and therefore also in the institutions which comprise the judicial system brought into existence by Ch III (per Gaudron J at 107).
+  - Application of the Kable principle
+    - The HCA then applied the Kable Principle to review laws from the Qld and NSW Parliaments, but found that those Acts did not create incompatibility with the exercise of federal judicial power: 
+      - Fardon v Attorney-General (Qld) (2004) [a Qld Act]; 
+      - Baker v The Queen (2004) [a NSW Act]; 
+      - Condon v Pompano Pty Ltd (2013) [a Qld Act]. 
+        - i.e. those Acts were valid.
+    - Fardon: HCA held that a QLD Act about preventative detention was valid, distinguishing facts from those in Kable: textbook p234. Revision: How?
+    - Baker: HCA held that a NSW Act about minimum pre-parole time was valid, distinguishing facts from those in Kable. Revision: How?
+    - However, in International Finance Trust Company Ltd v New South Wales Crime Commission (2009) and South Australia v Totani (2010), the NSW Act and SA Act under review offended the Kable principle and were therefore ruled invalid by the HCA.
+  - Application of the Kable principle
+    - Kable Principle: the separation of judicial power under Ch III of the Cth Constitution applies to state courts, an "integrated system".
+      - International Finance Trust Company Ltd v NSW Crime Commission (2009)
+    - HCA held that a NSW Act about ex parte orders about property was invalid based on the Kable principle.
+      - [This section of the Act] "engages the Supreme Court in activity which is repugnant in a fundamental degree to the judicial process as understood and conducted throughout Australia": Gummow and Bell JJ.
+    - Condon v Pompano P/L (2013): Unanimous HCA held QLD Act valid.
+    - What was different about the facts in this case compared to International Finance Trust Co v NSW Crime Commission?
+      - Under the Qld Act, the state supreme court "retain[ed] its decisional independence and the powers necessary to mitigate the extent of the unfairness": French CJ at 79-80.
+      - If "a novel procedure is said to deny procedural fairness, attention must be directed to questions of fairness and impartiality" to determine whether that procedure is constitutionally valid: Hayne, Crennan, Kiefel and Bell JJ at 103.
+      - But "the appearance [...] of that institutional integrity will not endure if there is manifest unfairness in the procedure of the court": Gageler J at 115.
+    - South Australia v Totani (2010)
+      - HCA held that a SA Act was invalid based on the Kable principle.
+      - How did this law with respect to control orders impair the institutional integrity of the Court(s)?
+      - State SC judges have no discretion with these control orders: this Act is "obliging the Magistrates Court to act upon the declaration by the executive [i.e. The A-G], [...] subject only to the satisfaction of the Magistrates Court that the defendant is a member of the declared organisation" [...] and thereby to act in a fashion incompatible with the proper discharge of its federal judicial responsibilities and with institutional integrity" Gummow J at 66-67.
+      - This statute "gives the neutral colour of a judicial decision to [...] the result of executive action": French CJ at 52.
+    - Shift from 'public confidence' to 'institutional integrity' as key to compatibility
+      - E.g. Momcilovic v the Queen (2011):
+        - Victorian Human Rights Charter (an Act) about Supreme Court issuing Declarations of Inconsistent Interpretation conferred a non-judicial power on that court, yet the HCA held it was valid.
+        - French CJ and Bell J: 
+          - test is incompatibility with "institutional integrity of the Court" (like Kable): this Act is compatible, it maintains distinct roles for court and parliament.
+        - Gummow J, Hayne J concurring: this is incompatible with institutional integrity and therefore invalid.
+      - Crennan and Kiefel JJ: issuing such declarations is incidental to exercise of judicial power. An equivalent Cth Act assigning the HCA or a federal court this function would not breach Rule 2 (it's Exception 1).
+  - State laws must maintain these ‘institutional integrity’ characteristics of State courts
+    - The reality and appearance of decisional independence and impartiality.
+    - The application of procedural fairness.
+    - Adherence as a general rule to the open court principle (noting that there are a number of situations in which closed court, ex parte hearings and reliance on confidential information are permissible).
+    - The provision of reasons for the courts’ decisions.
+    - The capacity to review a decision on the basis of jurisdictional error.
+    - Judicial process. (PTO)
+  - Judicial process as part of institutional integrity
+    - The Kable Principle means that State and Territory courts invested with federal jurisdiction must achieve justice via a 'judicial process'.
+    - In addition, Gaudron J said in Polyukhovich (1991): “An essential feature of judicial power is that it be exercised in accordance with judicial process."
+    - Elements of judicial process:
+      - power can only be exercised when the decision-making body is called upon to take action (i.e. not initiated by the court itself);
+      - the adjudication must proceed by an open and public inquiry (with some exceptions);
+      - the rules of natural justice must apply;
+      - the judge(s) must ascertain the law as it is and the facts as they are and then apply that law to the facts.
+  - Persona Designata exception, now at State level
+    - Wainohu v NSW (2011)
+      - Crimes (Criminal Organisations Control) Act 2009 (NSW) sets up "an eligible judge", if they consent, as a designated person to make declarations against criminal organisations. Not bound to follow rules of evidence or to provide reasons. No automatic legal consequences. = A non-judicial function.
+      - This seems to breach Boilermakers Rule 2 as extended to States by Kable.
+      - Legal question: Does the Persona Designata exception exist at State level and cover this arrangement?
+      - HCA's Answer: Yes, the PD exception exists at state level, but it does not cover this partiuclar incompatible arrangement. Act therefore invalid after all (6:1).
+    - • This is a "merger between the Grollo v Palmer principle limiting the activities of federal judges as designated persons, and the Kable doctrine limiting the functions of state courts": Heydon J at 248, in dissent, but an accurate description. (Wilson and Kable were handed down 3 days apart.)
+  - Wainohu v NSW (2011) extends the persona designata exception to State judges.
+    - So you need to check:
+      - 1. Does the person (a State judge) consent to the additional appointment created by this state legislation?
+      - 2. Is the appointment created by this state legislation compatible with their ongoing exercise of judicial power?
+    - I.e.
+      - -PD's function(s) is not closely connected to (State) Legislature or (State) Executive;
+      - -PD's function(s) is independent of instruction, advice or wishes; and
+      - -PD's function(s) is not exercising political discretion to make a decision.
+  - Remember, these questions are applied to legislation made by a State parliament to see if it is valid or invalid according to the Constitution of Australia
+  - Seperation of powers Cheat sheet
+  - 
+## Week 7: Alien Power
+
+- Intentional ambiguity as to meaning of alien/'people of the Commonwealth'
+  - Ambiguous feeling about who Australians were and whether Australians were differentiated from the British
+  - 'We know who we are' — desire to carve out a polity with certain racial characteristics without being explicit
+  - The aliens power
+    - 51.The Parliament shall, subject to this Constitution, have power to make laws for the peace, order, and good government of the Commonwealth with respect to: - 
+    - (xix.) Naturalisation and aliens.
+  - Parliament has power to make laws with respect to aliens
+    - Can parliament regulate the entry and removal of anyone defined as a non-citizen?
+    - In other words, is an alien just anyone who is a non-citizen?
+  - Who is an alien?
+    - Short answer:
+      - Parliament's power to make citizenship laws (and revoke citizenship) is underpinned by the aliens power. 
+      - The HC has appeared to settle on the definition of an alien as a person who does not owe or have allegiance to Australia. 
+      - Prior to Love, the HC appeared to assume this was always the case for a non-citizen of Australia.
+    - Is the Migration Act valid enacted under the aliens power?
+      - Migration Act 1958 (Cth), section 4
+    - The term ‘alien’ does not appear in the Migration Act
+    - Are the legislative categories of citizen/non-citizen basically equivalent to the constitutional categories of subject and alien?
+  - Pochi v Macphee (1982) 151 CLR 101
+    - One of the first modern cases on the aliens power 
+    - Pochi challenged his deportation on the basis the aliens power didn't apply to him because although he was a non-citizen, he was absorbed into the Australian community and owed allegiance to the Australian Crown. 
+      - Cited Blackstone to say that an alien is someone who is not allied with the King.
+    - High Court held: 
+      - an alien is someone allied to a foreign power or not allied to the Australian Crown. Pochi, as an Italian citizen, was an alien.
+    - Gibbs CJ famously said : 
+      - 'Parliament cannot, simply by giving its own definition of "alien", expand the power under s 51(xix) to include persons who could not possibly answer the description of "aliens" in the ordinary understanding of the word', but that it could 'treat as an alien any person who was born outside Australia, whose parents were not Australians, and who has not been naturalized as an Australian' (at 109-110).
+  - Nolan, Taylor and Shaw
+    - Plaintiffs all emigrated from the UK as children before 1975. 
+    - They were British citizens, not Australian citizens. 
+    - In all three cases, the Minister for Immigration ordered their deportation or removal back to Britain on the grounds of their substantial criminal records.
+    - They argued that, at least until 19871 British citizens were a special class of persons who were non-citizens in Australia but also not alien under the constitution, and so couldn't be the object of legislation underthe aliens power in s 51(19).
+  - Brief outline of some changes to nationality and citizenship for British subjects
+    - 
+  - Nolan v Minister for Immigration (1988) 165 CLR 178
+    - Parliament can legislate wrt aliens and an alien is anyone other than an Australian citizen under the legislation
+    - Where the Constitution referred to 'subjects of the Queen these references should now be taken to mean subjects of the Queen of Australia, not the Queen of England.
+    - Gaudron dissent:
+      - Alienage is a constitutional term; it can’t just be equated with a concept that comes from legislation
+      - An alien is someone who is not a member of the community, the body politic of the nation state.
+  - Re Patterson; ex parte Taylor (2001) 207 CLR 391
+    - Splintered decision. 
+      - Majority seems to follow Gaudron J's dissent. 
+    - The category of alien under the constitution is complicated by Australia's origins as a colony of Britain.
+    - British subjects are seen to have a special status under the constitution and in certain circumstances can't be treated as aliens.
+  - Shaw v Minister for Immigration (2003) 218 CLR 28
+    - The majority (Gleeson C Jl Gummow, Hayne, Heydon JJ) went back to the view in Nolan.
+    - Aliens power allows parliament to legislative wrt non-citizens.
+    - Upshot: Alien = non-citizen.
+  - So where does this view of the aliens power come from?
+    - Majority in Shaw:
+      - At Federation, British subjects were not considered aliens underthe constitution.
+      - But the constitutional meaning of aliens had changed 
+        - the constitutional relationship between Australian and the 
+        - citizenship legislation
+      - Now there is no separate category of 'non-citizen British subject' (who is not an alien). 
+      - There is now no category of 'non-citizen non-alien'.
+    - Gleeson CJ, Gummow and Hayne JJ held in Shaw that pursuant to the aliens power Parliament could define those persons who would be categorised as aliens: at [2].
+    - But, Parliament’s power to define those who were aliens was not ‘at large’: at [9].
+  - Singh v Commonwealth (2004) 222 CLR 322
+    - Common law principle of jus soli: birthright citizenship
+    - Citizenship Act amended in 1986 to deny citizenship to children born in Australia to parents who are not Australian citizens or permanent residents
+    - Tania Singh born in Australia to failed asylum seekers and facing removal
+    - Majority held:
+      - Although at federation ‘alien’ would not have encompassed someone born in Australia, the constitutional definition of alien is not governed by common law of alienage including ‘jus soli’
+    - Throughout history, an alien is a person who owes allegiance to a foreign state
+      - Singh was an alien and her removal was valid under aliens power
+  - Koroitamana v Cth (2006) 227 CLR 31
+    - Affirmed Singh even though Koroitamana girls were not citizens of Fiji 
+    - Birth in Australia doesn't preclude someone from being subject to the aliens power 
+    - Aliens power gives Parliament the capacity to decide to who will admitted to citizenship
+    - Foreign allegiance is relevant (as was the case with Tania Singh) but not required to designate someone as an alien
+  - Chetcuti v Commonwealth of Australia [2021] HCA 25
+    - Chetcuti asserted he was in a small class of people who were British subjects and arrived in Australia before citizenship was introduced in 1949.
+      - Majority in Shaw had held:
+        - 'the aliens power has reached all those persons who entered this country after the commencement of the Nationality and Citizenship Act 1948 (Cth) on 26 January 1949 and who were born out of Australia of parents who were not Australian citizens and who had not been naturalised' (at [32]).
+      - HC held: 
+        - Chetcuti was an alien, and could be deported under the Migration Act.
+      - Plurality (Kiefel CJ, Gageler, Keane and Gleeson JJ): 
+        - By 1948 Australia's independence from the British Empire had progressed to the point where it was open to parliament, through the aliens power, to legislate citizenship.
+        - Chetcuti didn't seek citizenship at this or any later point through naturalisation. 
+        - So he was an alien and could be deported.
+      - Gordon and Edelman JJ:
+        - Emphasised that statutory concepts cannot determine constitutional membership. 
+          - So it was not the case that, when the Citizenship Act came into effect in 1949 that everyone who wasn’t a citizen suddenly was an alien. 
+          - Chetcuti wasn’t an alien at that time.
+        - Nevertheless, by 2017 Chetcuti became an alien: he was a non-citizen, born outside Australia, had no Australian parents and had never taken out citizenship.
+      - Steward J (dissent):
+        - Called the judgment in Shaw a ‘necessary and convenient constitutional fiction’ [134].
+        - Since Chetcuti arrived before the Citizenship Act was introduced, he was not an alien then and he had not subsequently become an alien.
+        - Alienage relates to lack of allegiance to the Australian Crow
+  - ASF17 v Commonwealth of Australia
+    - Matter currently before the High Court
+    - Whether indefinite detention is permissible where no real prospect of removal because the detainee is not willing to cooperate with authorities to achieve the removal
+    - Federal Court has ruled detention in these circumstances constitutional — there is a "lawful purpose ... as long as there is a practicable way that the person may be removed, even if it requires cooperation from the detainee
+  - Migration Amendment (Bridging Visa Conditions) Act 2023 (Cth)
+    - The Minister must impose 28 mandatory conditions on people who were released because of the decision, regardless of their individual circumstances, unless "the Minister is satisfied that the holder does not pose a risk to the community"
+    - Includes reporting rules, curfews, requirement to wear ankle bracelets and seek approval before person can take certain jobs
+    - Breach of conditions is a criminal offence carrying a mandatory minimum sentence of one year's imprisonment
+    - High Court challenges:
+      - Whether the executive government, rather than a court, can impose these restrictions on a person's liberty
+      - Whether such restrictions are for legitimate protective purposes if applied "across the board" with little or no consideration of the risk an individual may pose to the community
+      - Whether imposing mandatory restrictions on a person's liberty, without considering their appropriateness to each individual, amounts to punishment
+  - Migration Amendment (Removal and Other Measures) Bill 2024
+    - Seems to attempt to pre-empt the High Court’s ruling in ASF17
+    - Would allow the Minister to direct a person who is subject to removal from Australia to complete, sign and submit a document (eg a passport application or another document to facilitate travel)
+    - Would be a criminal offence to fail to comply with this direction, punishable by 5 years’ imprisonment
+## Week 8 - Inconsistency of Laws (s 109)
+
+- s109, Inconsistency of laws 
+  - When a law of a State is inconsistent with a law of the Commonwealth, the latter shall prevail, and the former shall, to the extent of the inconsistency, be invalid.
+  - Is there a law: 
+    - Before you address the possibility of an inconsistency between a Commonwealth and a State law, you must first be sure:
+      - a) that there is a Commonwealth and State law and 
+      - b) that they are valid.
+      - NB a law of a territory is not captured by s109. See s122 instead 
+  - Re a): What is a Commonwealth Law for the purposes of s109? 
+    - How is a Cth ‘law’ defined for the purposes of s 109?
+      - Does it include Acts of parliament? YES
+        - Amalgamated Society of Engineers v The Adelaide Steamship Company Ltd & Ors (1920) 28 CLR 129)
+      - Does it include the Common law? NO
+        - Felton v Mulligan (1971) 124 CLR 367
+        - Western Australia v The Commonwealth (Aka the Wororra Peoples and Anor v. Western Australian (128 ALR 1 (1995))
+      - Does it include rules of Court? YES
+        - Flaherty v Girgis (1987) 162 CLR 574
+      - What about subordinate legislation? YES
+        - Clyde Engineering v Cowburn (1926)
+      - Administrative decisions/ Instructions issued by the Directory General eg?
+        - NO Airlines of New South Wales Pty Ltd v New South Wales (No 1) 
+      - Does it include industrial Awards? YES
+        - Ex parte McLean (1930) 43 CLR 472 
+  - Re b) (i) what is a valid Commonwealth law for the purposes of s109? 
+    - A valid Commonwealth law is one that is characterised under a Commonwealth head of power and that has not been found to breach any other limitation in the Constitution. 
+  - Re b) (ii) what is a valid State law for the purposes of s109? 
+    - Union Steamship Com of Aust v King (1988) 166 CR 1
+      - Just about any law is within a State’s legislative competence
+      - As long as it doesn’t infringe any Constitutional prohibition
+- Are there two valid laws? RECAP
+  - Commonwealth Law
+-  Is there a Commonwealth law?
+- What is the source of authority for that law? Characterise the Law 
+- Are there any Constitutional limits on the exercise of that power by the Commonwealth? (see next slide) 
+  - State Law
+- Is there a State Law?
+- What is the source of authority for that State law?
+- Are there any Constitutional limits on the exercise of that power (see next slide) 
+  - Once established that there are two valid laws then ask: 
+    - Is the State law inconsistent with the Commonwealth Law? 
+- Potential Constitutional limits on an otherwise valid CW or State Law RECAP
+  - a) Any express limitations in the Constitutions 
+    - a) – eg s80, trial by jury – is there an indictable offence 
+    - b) s51(xxxi) acquisition on just terms – is there an acquisition? Is it property? Is it on just terms?
+  - b) Any implied limitations in the Constitution
+    - Implied freedom of political communication – is there a burden on political speech, what is the purpose of the legislation, is the burden appropriate – check the tests in Lange and McLoy
+  - d) Any federal limitations 
+    - eg Melbourne Corporations principle – is there a limit on state governmental power that is so profound that it threatens the continuation of the State – see Melbourne Corps, QEC, Austin etc 
+  - e) separation of powers
+    - Eg If there is a tribunal or Court
+      - is it a Ch III court? 
+      - is it exercising judicial power? 
+      - Is there a judge exercising non – judicial power?
+      - Is there an administrative tribunal exercising judicial power? 
+- RECAP of steps to answering a problem question 
+  - Is there a Commonwealth law?
+  - What is the source of authority for that law? Characterise the Law 
+  - Are there any Constitutional limits on the exercise of that power by the Commonwealth?
+  - Is there a State Law?
+  - What is the source of authority for that State law? DO NOT CHARACTERISE
+  - Are there any Constitutional limits on the exercise of that power?
+  - Is the State law inconsistent with the Cth law? 
+- If we have two valid laws and there is an inconsistency what are the consequences?
+  - The State law is to the extent of the inconsistency invalid
+  - What does it mean for a State law to be “invalid” for the purposes of s 109?
+    - inoperative but not repealed 
+      - Wenn V AG for Victoria (1948)
+    - If the CW law is repealed then the State law would revive
+      -  affirmed in Butler v AG (1961)
+  - “To the extent of” means only the inconsistent portions of a State law are invalidated. (Wenn v AG) 
+- The Tests for Inconsistency: Two types of inconsistency
+  - One: Direct Inconsistency
+    - Dual obedience rule
+    - Rights and duties rule/Conferral of Rights 
+  - Two: Indirect Inconsistency
+    - Cover the field rule
+      - What is the field?
+      - Was there intent to cover it?
+      - Was there State intrusion?
+- Direct Inconsistency: type 1 
+  - Dual Obedience Rule (or direct collision rule) 
+    - Where there is a direct inconsistency, in the sense that:
+      - the two laws have contradictory provisions on the same subject matter, rendering it impossible to comply simultaneously with the duties or obligations imposed by both laws (R v Licensing Court of Brisbane; Ex parte Daniell)
+      - In other words it is impossible to obey both laws at the same time. 
+  - R v. Licensing Court (Brisbane) Ex parte Daniell (1920) 28 CLR 23
+    - QLD ACT (Liquor Act)
+      - Referendum to be held on Day X	
+    - CW ACT (The CW Electoral Act)
+      - Senate election to be held on Day X and
+    - all referendums prohibited on Day X
+    - Court unanimous that both laws cannot be obeyed at the same time. 
+  - Australian Boot Trades Employees (Fed.) v. Whybrow (1909)
+    - State Laws
+      - Min wage for male emp’ees 1s per hour		
+    - Cth Law
+      - Min wage for male emp’ees 1.5s per hour	
+    - No inconsistency because it was possible to obey both laws at once by paying the higher minimum. 
+    - Note that the Commonwealth law has the higher minimum so even if they had viewed them as inconsistent the Commonwealth law would have prevailed. 
+      - This is important for when we look at the rights and duties law. 
+- Direct Inconsistency type 2: Rights and duties rule or Conferral of Rights test 
+  - Where one law takes away or modifies a right or privilege conferred by the other – always favours the CW So a State law will be invalid if it alters, impairs or detracts from the operation of a federal law. 
+  - Clyde Engineering v Cowburn (1926)
+    - Important case
+    - Decided on the rights and duties direct inconsistency test
+      - AND 
+    - the indirect inconsistency test also known as Cover the Field. 
+    - Before turning to indirect inconsistency we need to look at the facts and the application of the direct inconsistency test 
+    - A Federal Award prescribed a minimum wage employers must pay for a 48 hour week
+    - A State law prescribed the same minimum wage for a 44 hour week.
+    - It would be possible to obey both by paying the higher minimum wage set by the State however, unlike in Boots the CW would lose out if the higher minimum were to be paid. 
+    - Instead the Court said that the State law took away the rights conferred by the Commonwealth law namely to allow an employer to expect 48 hours for the same wage as would be required for 44 hours at the State level. 
+    - Therefore it was inconsistent based on the conferral of rights rule 
+    - Maj said 3 situations in which laws may be inconsistent:
+      - (1) Direct inconsistency – where the two laws cannot be obeyed simultaneously
+      - (2) Direct inconsistency – where one law takes away a right or privilege conferred by another and
+      - (3) Indirect Inconsistency (we will return to this in a moment)
+  - Another Example of the conferral of rights rule (Conferral of Rights Inconsistency)
+    - Colvin v Bradley Bros Pty Ltd (1943) 
+    - Commonwealth Award allowed women to work on milling machines 
+    - State Factories and Shops Act prohibited women from working on milling machines
+    - Could obey both by simply not employing women 
+    - However the Court said that the effect would be to away the right conferred by the Commonwealth Law and that therefore there was an inconsistency
+    - Native title acts passed by the States in expectation of a decision in the Mabo case.
+    - Set out to diminish any rights over land by ATSI peoples
+    - Ct found that these were inconsistent with Racial Discrimination Act 1975 (Cth)
+    - See Mabo v Queensland (No 1) and (No 2) and 
+    - Western Australia v Commonwealth (Native Title Act Case) 
+    - Ansett Transport Industries v Wardley (1980) 
+    - Federal Award allowed dismissal without reason within 12 months of employment
+    - Victorian law prohibited discrimination on the grounds of sex
+    - Wardley was refused employment after her traineeship on the grounds of gender. 
+      - Court ordered her employment based on the Victorian Equal Opportunity Law. 
+    - The CW argued that the Victorian law was directly inconsistent because it took away the absolute right to dismiss within 12 months. 
+  - Ansett v Wardley (1980) 
+    - With respect to the question of Direct Inconsistency the Court said that the question was “what right or immunity did the Commonwealth intend to confer? “
+    - While Barwick CJ and Aickin J said it was an unlimited right of dismissal, the majority said it was not intended to regulate the grounds for dismissal just the process and therefore the Victorian law stood. 
+    - Stephen J went so far as to say that a Commonwealth law on a particular subject cannot be “inviolate, unresponsive to a general law applicable to the community at large…”
+    - Importantly this case was also argued under indirect inconsistency test and we will return to that shortly. 
+  - Indirect Inconsistency 
+    - Where the Commonwealth intended to cover the field and a State law purports to legislate in that field.
+    - Three questions:
+      - (1) What is the field?
+      - (2) Did the CW intend to cover the field?
+      - (3) Did the State law enter the field?
+      - NB the laws do not have to be in conflict!
+    - 1. How to Identify the field
+      - (i) Characterise each of the two Acts
+      - (ii) If the laws can be characterised as applying to the same subject matter, do they apply to that subject matter in the same circumstances and in the same way? 
+  - Wenn v. AG (Victoria) 1948
+    - Cth Re-establishment	Vict. Discharged & Employment Act					Serviceman’s 						Preference Act ⇩	 				 ⇩
+    - CW Field				Victorian Field
+    - New Engagements	 	Preference in hiring and 					promotion
+    - 			  ⇩
+    - The field was held to be: Preferences in employment for ex-members of the armed forces which covered both employment and promotion therefore: CW and Vict. field the same.
+  - Examples: what is the field?
+    - Not always easy to define the field. 
+      - O’Sullivan v Noarlunga Meats (1954)
+        - CW law established a licensing regime for premises used to export meat production setting down standards
+        - State law also regulated abattoirs by licensing the people who were fit to run them and the location
+        - Was it the same field? Court said yes the regulation of slaughtering of meat 
+      - Airlines of NSW v NSW (1965)
+        - Both CW and State law regulated commercial air operations but the CW law concerned safety and the State law concerned transport needs. Because the State Act did not cover any of the same topics as the CW Act they were held to be different fields. 
+  - Commercial Radio Coffs Harbour v Fuller (1986) 
+    - Broadcasting and Television Act 1942 (Cth): condition of licence – erection of two 170m high antennae
+    - Environmental Planning and assessment Act (NSW) – protecting/regulating environment
+    - Every test for inconsistency not met. With respect to fields the Court said the CW Act concentrated on technical efficiency and the quality of broadcasting whereas the State law concerned development of land for the purposes of radio transmission 
+  - Ansett v Wardley (1980)
+    - Airline Pilots Agreement 1978 (under Cth Act): can dismiss an employee for any reason, with notice
+    - Equal Opportunity Act 1977 (Vic): can not dismiss an employee (or otherwise treat them less favourably in various aspects of employment) on the grounds of sex
+    - Stephen J: Not the same field
+    - Stephen pointed out that the Victorian Act is concerned with the social problem of sex discrimination whereas the Federal Award which is made under the Conciliation and Arbitration Act is concerned with disputes as to industrial matters pertaining to the relationship of employee and employer
+  - Equal Opportunity act 1977 (Vic), s18
+    - "(1) It is unlawful for an employer to discriminate against a person on the ground of sex or marital status -
+      - (a) in determining who should be offered employment;
+      - (b) in the terms on which the employer offers employment; or
+      - (c) by refusing or deliberately omitting to offer employment.
+    - (2) It is unlawful for an employer to discriminate against an employee on the ground of sex or marital status -
+      - (a) by denying the employee access, or limiting access by the employee, to opportunities for promotion, transfer or training or to any other benefits connected with employment; or
+      - (b) by dismissing the employee or subjecting the employee to any other detriment."
+  - The Federal agreement 
+    - A. The employer may employ its pilots and the pilots shall serve the employer in any part of the world where that employer may from time to time be operating, subject to the provisions of this agreement.
+    - B. The services of a pilot shall be terminable by either the employer or a pilot -
+      - 1. During the first six months of service, by seven days notice in writing;
+      - 2. After the completion of six months of service, by one month's notice in writing;
+      - 3. By the payment to the pilot of seven days' or one month's salary in lieu of notice as aforesaid
+      - OR
+      - 4. By the forfeiture by the pilot of the last seven days' or one month's salary paid to him, in lieu of notice as aforesaid.
+    - Provided that the period of notice set out herein may be reduced or waived by mutual agreement.
+    - A pilot whose services are terminated whether by summary dismissal or notice shall be given the reasons for this dismissal in writing, in the notice of dismissal, and shall have recourse to the Grievance Procedures except as provided in s. 6H. 
+  - 2. How do we know there wa s an intention to cover the field? 
+    - Ask:
+      - Is the subject matter of the legislation a commonwealth subject matter?
+      - Is there an express intention to cover the field in the Act?
+      - Is there an implied intention to cover it?
+    - Express intention to cover the field
+      - Wenn v AG
+        - s 24(2) of the Act said:
+        - The provisions of the division shall apply to the exclusion of any provisions providing for preference in any matter relating to employment of discharged members of the forces.
+    - Express intention not to cover the field
+        - where there is an express inclusion of State Law
+        - Re Credit Tribunal ex p GMAC Acceptance Corp 
+        - S75 of the Cth Act stated that Part V was not intended to exclude or limit the concurrent operation of any law of a State or Territory
+      - Importantly this could not save a State law where there was a direct inconsistency 
+  - No Retrospective Inclusion
+    - Viskauskas v. Niland (1983)
+    - The Racial Discrimination Act 1975 found to cover the field therefore State ADA inconsistent.
+    - After the case the RDA amended to say:
+      - The Act “was not intended and shall be deemed never to have been intended” to exclude the operation of the State Act
+    - University of Wollongong v. Metwally (1984)
+      - Revisited the issues in Viskauskas
+      - Although the Commonwealth can indicate an express intention not to cover the field prospectively they cannot do it retrospectively. 
+      - In other words the State law would only be operative from the date of the amendment. 
+      - However, CF the Native Title Case
+  - Native Title Case (1995) 
+    - CW law stated that the past acts of the States extinguishing Native Title that were previously inconsistent with the RDA will be effective in extinguishing Native Title if the States retrospectively revive those Acts 
+    - The majority found that was Constitutional 
+    - This case seems to be an outlier. 
+  - Implied intention to cover the field?
+    - Examine nature and scope of the legislation
+    - Is it exhaustive?
+    - Is it detailed?
+    - Is it broad?
+  - The breadth of a federal provision may signal intent to cover the field
+    - Australian Broadcasting Commission v Industrial Court of South Australia (1977) 138 CLR 399
+      - Fed Law gave ABC power over employment conditions of temporary employees. SA law dealt with unfair dismissal
+      - Even though the federal law was not detailed in its application to temporary employees it still covered the field because according to Mason J the breadth of the law implied that employer had unqualified authority
+  - Federal laws in area of exclusive power
+    - R v Loewenthal; Ex parte Blacklock (1974) 131 CLR 33
+      - An intention to cover the field may be manifest where Federal laws deal with Federal matters – here it was damage to federal property.
+      - Cth Crimes Act v the QLD criminal Code
+    - Menzies J held the Commonwealth Act Covered the field as it was a Commonwealth matter ie exclusive under s52
+    - Mason J found that there was a direct clash between the Acts and the Federal Act was intended to be exhaustive. Although presence of inconsistent penalties (QLD code included hard labour, Cth did not) was evidence of clash it was not definitive – the Federal nature of the field was See also McWaters v Day 
+  - McWaters v Day (1989) 
+    - CW law and State Law prescribed different penalties for driving a vehicle while drunk. 
+    - A soldier was caught driving under the influence and charged under both the Defence Force Discipline Act CW and the Traffic Act 
+    - The two laws were found to be valid. The federal law was concerned with a military offence while the State law was concerned with a general criminal law offence. 
+  - Momcilovic v The Queen (2011) 
+    - Another case dealing with inconsistent penalties for  the same law ie a prohibition on trafficking drugs. 
+    - The Court found there was not inconsistency. 
+    - Heydon, Crennan and Kiefel JJ said not an indirect inconsistency because CW did not intend to cover the field
+    - Gummow J, French CJ and Bell J agreed but also said the inconsistency would only arise at the point of sentencing and that Momcilovic had been prosecuted under the Victorian Law. 
+    - He noted that if the CW had wanted to prosecute other laws guarding against double jeopardy would ensure no conflict arose
+    - Hayne said they were inconsistent. 
+    - Interesting while an earlier case Dickson v the Queen had found an inconsistency where there were differing provisions in relation to Jury trials, no inconsistency was found on that basis here. 
+  - Did the State law enter the field?
+    - If the Cth intends to cover the field of a subject matter, and the State law on the subject matter is encroaching/entering the field
+## Week 9: INTERGOVERNMENTAL IMMUNITIES
+
+- Federalism, State Constitutions, Commonwealth and State Relations
+  - Part One: Principles of Federalism
+    - Australian Federalism
+      - Power is divided between a central government and six State governments each with their own governmental institutions
+      - The power of the federal government is limited to the powers set down in the Constitution eg s51 heads, s52, s122 etc....
+      - State power, however, is unlimited or ‘plenary’ (subject to the Federal Constitution) and preserved by the Constitution (ss.106-108).
+      - State ‘plenary power is retained under state constitutions (e.g. Constitution of NSW 1902, s5).
+    - What is the value of Federalism?
+      - It affords discretion to the High Court.
+      - It enhances ‘states rights’ (small government).
+      - In theory, a smaller political arena allows individuals to participate more directly than in a monolithic unitary government;
+      - However in practice, a larger, centralized political arena enables uniform regulation and a larger pool of material resources to resolve social problems on a larger scale.
+    - Examples of Federalism in the Constitution
+      - S51(ii) Taxation; but so as not to discriminate between the States or parts of States
+      - S99 No preference to one State over another in area of trade commerce or revenue
+      - S92 Trade commerce and intercourse among the states shall be absolutely free
+      - S96 The Grants Power: 
+        - the Parliament may grant financial assistance to any State on such terms and conditions as the Parliament thinks fit
+      - S117 States not to discriminate against residents of another state
+      - Ss. 107 & 108 Preserve State law and State constitutions
+  - Part 2: The Legislative Power of the States
+    - Limits on State powers
+      - Possible constraints:
+        - 1) State Constitutions
+        - 2) Territorial Limits
+        - 3) Common Law
+        - 4) Commonwealth Constitution
+    - State Constitutions
+      - NSW Constitution Act 1902, s5
+      - The Legislature shall, subject to the provisions of the Commonwealth of Australia Constitution Act, have power to make laws for the peace, welfare and good government of New South Wales in all cases whatsoever.
+      - Plenary power clauses in other state constitutions: QLD, s9; Vic, s16; SA, s5; WA, s2; TAS, s10.
+    - Union Steamship Co of Australia Pty Ltd v King (1988) 166 CLR 1
+      - Involved a claim under the Workers Compensation Act 1926 (NSW) for injuries suffered working on a ship outside NSW that was registered in NSW.
+      - The appellant (the employer) argued that the words in the NSW Constitution “peace, welfare and good government” were words of limitation and the extra-territorial reach of the Workers Compensation Act lacked sufficient nexus with the State to come within those words.
+      - Union Steamship – Test of State Extraterritoriality
+        - Court held these were NOT words of limitation 
+        - An extraterritorial State law will be valid, provided that there is a sufficient connection between the enacting State and the extra-territorial persons, things or events on which the law operates. 
+          - There was a sufficient connection
+      - Union Steamship – Plenary Power
+        - Within the limits of the grant, power to make laws for their peace, welfare and good government conferred by the Imperial Parliament on the Australian colonial legislatures was as ample and plenary as that possessed by the Imperial Parliament and had extraterritorial operation.
+        - As recognised by s2 of the Australia Act 1986 (Cth).
+    - State Constitutional Amendment
+      - Previously, amendment could be accomplished by an act of parliament in clear and explicit language: 
+        - Cadia Holdings v NSW (2010)
+      - To prevent amendment of State constitutions by future parliaments, legislators can impose ‘manner and form requirements’ on particular constitutional provisions…
+      - E.g. the Constitution Act 1902 (NSW), s. 7A provides that the Act cannot be amended except by referendum. 
+      - There are different requirements in each state constitution.
+  - Part 3: Commonwealth Law and State Governments
+    - The doctrine of intergovernmental immunities: 1904-1920
+      - Sometimes called, ‘reserved state powers’, ‘states rights’ or ‘immunity of instrumentalities’;
+      - “Neither the Commonwealth or the States can legislate so as to control the other.”
+      - Does the doctrine of intergovernmental immunities still apply?
+    - Amalgamated Society of Engineers v. Adelaide Steamship Company Ltd (1920) (The Engineers Case) 28 CLR 129
+      - s. 51 (xxxv) conciliation and arbitration for the prevention and settlement of industrial disputes extending beyond the limits of any one State;
+      - Laws validly made by the authority of the federal Constitution bind the people of every State.
+    - The Court’s Reasoning
+      - Australia, unlike the US, has a system of responsible government, which ‘radically distinguishes’ it from the US and means that reserved state powers (as conceived of in D’Emden v Pedder (1904), and by Madison, do not apply here: Knox CJ, Isaacs, Rich and Starke JJ, Engineers.
+    - The Social Democratic Chifley Government
+      - The architects of the post-war Australian welfare State;
+      - Conducted via referendum (new s. 51(xxiiiA)); AND
+      - Attempted control of the banks.
+    - Melbourne Corporation v. Commonwealth (1947) 74 CLR 31
+      - Concerned s48 of the Banking Act 1947 which required a bank to obtain the consent of the federal treasurer before it conducted any banking business for a State or for any authority of a State.
+      - Characterisation under the banking power, 51(xiii)
+        - Dixon, Rich, Starke, Williams (and McTiernan J, in dissent) JJ characterised the Act under the banking power, s51(xiii).
+        - Latham CJ found that the Act could not be validly characterised under the banking power because it was a law ‘with respect to state functions’ (at 61).
+      - ‘Discrimination’ and the Revival of intergovernmental immunities
+        - There are two limits on Commonwealth laws that bind the States:
+          - I) Singling-out states for differential treatment (‘discrimination’); and
+          - II) Commonwealth laws of general application that fundamentally prevent or impede the States from carrying out essential governmental functions (‘standstill’);
+            - If Cth legislation does either, it will be constitutionally invalid.
+            - In this case, the Cth singled-out the States for special disadvantage while not impacting individuals and corporations.
+      - The exception…
+        - Cth legislation must not discriminate against the states ‘UNLESS a given legislative power appears from its content, context or subject matter so to intend ... (to) authorise ... the Commonwealth to make a law aimed at the restriction or control of a State’, per Dixon J (at 83) (‘rational discrimination’).
+        - In other words, if the Cth intends to authorise or calculates for discrimination, its discriminatory legislation will be valid.
+        - This counter-principle provides a discretionary exception for the Court, enhancing its power.
+      - References to states rights in the constitution
+        - Dixon J: ‘The Constitution... proceeds to distribute the power between State and Commonwealth and to provide for their inter-relation, tasks performed with reference to the legislative powers chiefly by ss. 51, 52, 107, 108 and 109’.
+    - s. 107
+      - Saving of Power of State Parliaments 
+        - Every power of the Parliament of a Colony which has become or becomes a State, shall, unless it is by this Constitution exclusively vested in the Parliament of the Commonwealth or withdrawn from the Parliament of the State, continue as at the establishment of the Commonwealth, or as at the admission or establishment of the State, as the case may be.
+    - s. 108
+      - Saving of State laws
+        - Every law in force in a Colony which has become or becomes a State, and relating to any matter within the powers of the Parliament of the Commonwealth, shall, subject to this Constitution, continue in force in the State; 
+        - and, until provision is made in that behalf by the Parliament of the Commonwealth, the Parliament of the State shall have such powers of alteration and of repeal in respect of any such law as the Parliament of the Colony had until the Colony became a State.
+    - Victoria v. Commonwealth (1971)(Pay Roll Tax Case )
+      - The Cth Payroll Tax Act 1942 prescribed a 2.5% payroll tax on all employers – not just government employers.
+      - The State of Victoria challenged the Cth tax using the second limb from the Melb Corp doctrine – impairment or curtailment of a State’s right to function as a government.
+      - The question of impairment is one of degree.
+      - The tax had not prevented the States from discharging their functions for the previous thirty years.
+      - Pay Roll Tax Case – no state immunity from the Commonwealth prerogative power of taxation.
+    - Queensland Electricity Commission v. Commonwealth (1985) 159 CLR 192 (QEC Case)
+      - The QLD Bjelke-Petersen Government triggered an industrial crisis that threatened its electricity supply.
+      - The Cth passed ss6(1) & (2) of the Conciliation and Arbitration Act, permitting the Tribunal (the CAC) to resolve industrial disputes between the State of QLD and trade unions in the present and into the future
+      - The QLD challenged the Cth legislation on the basis of Melb Corp discrimination.
+      - Gibbs CJ, Mason, Wilson and Dawson JJ found ss6(1) and (2) of the Cth Act wholly invalid. 
+        - Deane and Brennan JJ, found it partially invalid.
+      - Mason J (the Majority concurring) said: A Commonwealth Act cannot impose a special disability or burden on one or more States unless the federal power under which the legislation was made from its terms or nature contemplated such a law.
+      - Both direct and indirect discrimination are prohibited: Mason J; Deane J (the same types of discrimination prohibited in Melb Corp);
+      - Mason J held that the Cth had discriminated against QLD in both ways here. 
+        - He discussed, ‘singling-out’ (direct discrimination) AND the application of Cth laws to ‘disputes to which employers in that State are parties, those employers being for the most part authorities brought into existence by the State to carry out public functions, and then subjecting those disputes to a regime of differential treatment’ (indirect discrimination).
+      - Deane and Brennan JJ
+        - Deane and Brennan JJ were in partial dissent. 
+          - They upheld the validity of s6(1) of the Cth Act (dispute resolution in the present). 
+          - But struck down s6(2) (future dispute resolution).
+        - Deane and Brennan JJ invoked Dixon J’s exception (‘rational discrimination’ - textbook). 
+          - They found that s6(1) was ‘intended to authorize the discretionary operation of the particular law’ (Deane J) and was ‘calculated to provide for particular circumstances’ (Brennan J).
+        - See also, Mason CJ and Brennan J, in Richardson v Forestry Commission (1988) 164 CLR 261.
+      - Two sub points re discrimination: per Mason J
+        - (a) The principle operates to prohibit discrimination against a particular State as well as against States generally
+        - (b) the principle protects legislatures as well as executive governments as well as agencies that represent State governments and agencies created by statute and controlled by the State government.
+    - Re Australian Education Union; Ex parte Victoria (1995) 184 CLR 188 (AEU Case)
+      - The Victorian Government abolished its state Industrial Relations tribunal.
+      - Victoria then attempted to sack a large number of school teachers and healthcare workers employed by the Victorian Government. 
+      - The teacher’s union (and others) brought proceedings against Victoria to negotiate redundancy packages in the Cth Industrial Relations tribunal under the Industrial Relations Act 1988 (Cth). 
+      - The tribunal made an interim award extending redundancy rights to Victorian public sector workers.
+      - Essentially, s111(1A) of the IR Act (Cth) said that the Cth tribunal (Australian Industrial Relations Comission (AIRC)) must hear a dispute when it cannot be dealt by a State tribunal.
+      - Victoria complained to the High Court on the basis of Melb Corp discrimination, seeking that the tribunal discontinue proceedings.
+      - Majority Decision (per Mason CJ, Brennan, Deane, Toohey, Gaudron and McHugh JJ)
+        - Section 111(1A) did not ‘discriminate’ against Victoria. 
+        - This was due to the rational or ‘logical’ ‘purpose ... substance and actual operation’ of the law which provides for ‘compulsory arbitration’ when no ‘alternative system of compulsory arbitration is available’ (rational discrimination); Majority (at 239-40).
+        - BUT, the second limb of Melb Corp - mere impairment or curtailment of a State’s capacity to function as a government – was enlivened: Majority per Mason CJ, Brennan, Deane, Toohey, Gaudron and McHugh JJ (at 232-233).
+        - The Cth will impair or curtail a State’s function as a government where it attempts to govern the employment of particular groups of public servants and their pay and conditions 
+      - Advice to the AIRC
+        - The following were State industrial matters (with which the Cth tribunal could not interfere):
+          - numbers of staff; duration of employment and redundancy; employment ‘at the higher levels of government’ including that of ‘Ministers, ministerial assistants and advisers, heads of departments and high level statutory office holders, parliamentary officers and judges’ (at 233).
+        - The following were Cth industrial matters, over which the tribunal could exercise Cth jurisdiction:
+          - minimum wages and working conditions, set out in Cth industrial awards. [232-233].
+        - Accordingly, the federal tribunal’s interim award, preventing termination on the basis of redundancy, was held to curtail the ability of the state of Victoria to function. 
+          - It was quashed.
+    - Austin v Cth (2003) 215 CLR 185
+      - Concerned federal tax on superannuation benefits of State judicial officers.
+      - 5:1 the court held that in its application to judicial officers of the States the legislation fell within the invalidity set out in Melbourne Corps. Kirby dissented.
+      - Gaudron, Gummow and Hayne JJ formulated a new test of State immunity, locating the two-pronged discrimination and curtailment test from Melb Corp and QEC within a broader unitary test.
+      - The new test (Gaudron, Gummow and Hayne JJ:
+        - Test: is there ‘a sufficiently significant impairment of the exercise by the State of its freedom to select the manner and method for discharge of its constitutional functions respecting the remuneration of the judges of the courts of the states’? (at 264). 
+          - Answer: yes
+        - Gleeson CJ and Kirby J agreed with the new unitary approach 
+        - McHugh J continued to categorise state immunity as ‘discrimination’ under the first limb of Melb Corp - ‘singling-out’ judges (direct discrimination)
+        - Kirby J (dissenting): 
+          - the tax did not have ‘a significant and detrimental effect on the power of the State to determine the terms and conditions affecting the remuneration of judges’ (at 290).
+    - NSW & Ors v Cth [2006] HCA 52 (The Workchoices Case)
+      - The Cth introduced legislation that effectively stripped State industrial tribunals of around 90% of their matters, to be channelled to Cth industrial tribunals and heard under new highly politicised Cth industrial laws.
+      - States argued that Cth legislation would impair the capacity of the State Industrial Relations Commissions to function (as per Austin).
+      - The majority found that IRCs were ‘not so vital to the functioning of the State that it can be said ... that it affects the capacity of the State to ...function...’.
+      - Kirby and Callinan JJ dissented. Callinan hinted that the majority approach was an abuse of the Constitution. For Kirby, the federal balance issue mattered less than the traditional Australian approach to industrial relations.
+    - Indicia of state immunity (Clarke v Cmr of Taxation [2009] HCA 33 per French CJ at [34]):
+      - 1. Whether the law in question singles out one or more of the States and imposes a special burden or disability on them which is not imposed on persons generally.
+      - 2. Whether the operation of a law of general application imposes a particular burden or disability on the States.
+      - 3. The effect of the law upon the capacity of the States to exercise their constitutional powers.
+      - 4. The effect of the law upon the exercise of their functions by the States.
+      - 5. The nature of the capacity of the functions affected.
+      - 6. The subject matter of the law affecting the State or States and in particular the extent to which the constitutional head of power under which the law is made authorises its discriminatory application.
+      - Discrimination will be more indicative of state immunity than other factors.
+    - To Summarise:
+      - Pre-1920 - intergovernmental Immunities apply
+      - Engineers (1920) - excludes intergovernmental immunities
+      - Melbourne Corp (1947) – intergov. immunities reintroduced through the concept of Cth discrimination against States (3 x types of discrimination: direct; indirect; and rational)
+        - z
+      - Payroll Tax Case (1971) - No Melb. Corp discrimination (a matter of degree).
+      - QEC v Cth (1985) – Direct and Indirect discrimination (Majority); Rational discrimination (Dissenting judges)
+      - AEU v Vic (1995) – Melb Corp extended beyond discrimination to include interference and curtailment. 
+        - There was no discrimination but there was Cth interference.
+      - Austin v Cth (2003)- New unitary test of state immunity.
+      - Workchoices (2006) - No Melb Corp discrimination where industrial commissions were not considered vital to the functioning of States
+  - Part 4: State Laws and the Commonwealth Government
+    - Recap: doctrine of intergovernmental immunities
+      - Intergovernmental immunities are said to be ‘reciprocal’.
+      - Neither the Commonwealth or the States can legislate so as to control the other.
+      - BUT State laws may affect the Commonwealth in certain ways.
+    - Engineers case
+      - As to whether State laws could affect the Commonwealth, the Court designed the ‘reciprocity rule’:
+        - ‘The principle we apply to the Commonwealth we apply also to the States’.
+      - In other words, State parliaments could enact legislation to bind the Commonwealth.
+    - Pirrie v McFarlane (1925) 36 CLR 170
+      - Cth agent was a citizen, an ordinary legal person, required to obey the laws of the State. 
+      - Vigorous dissents of Starke and Isaacs JJ.
+    - Evolution of the Dixon Doctrine: Uther v FCT (1947)
+      - Concerned a NSW law that abolished Cth prerogative entitlement to priority in recovering sales and payroll taxes in a winding-up application.
+      - Majority upheld State law and said Commonwealth could enact inconsistent legislation under s109 to solve the problem
+      - Dixon and McTiernan JJ dissented and Dixon’s dissent has since become the authority.
+        - Uther: Dixon’s dissent – State laws will not bind the Commonwealth.
+        - There are three limbs to this dissent:
+          - 1. States cannot interfere with Cth prerogative powers (taxation is a prerogative; defence etc);
+          - 2. Commonwealth immunity extends to the Commonwealth exercising governmental rights (between itself and its subjects) generally; and
+          - 3. States have no power to make laws that bind the Commonwealth (because the States gained the powers before Federation in 1901).
+    - Commonwealth. v. Cigamatic Pty Ltd (in Liquidation) (1962) 108 CLR 372
+      - Dixon CJ now in the majority (reiterated his judgment in Uther’s Case – same facts).
+      - Can the legislative powers of the State extend to cover a prerogative of the Commonwealth?
+        - Held no
+      - Can the States affect a federal fiscal right?
+        - Held no
+      - Can the States affect the legal rights of the Commonwealth in relation to its subjects?
+        - Held No
+        - Cth has supremacy by virtue of ss. 109 and 5 of the Constitution.
+    - s. 5 - Operation of the Constitution and laws
+      - This Act, and all laws made by the Parliament of the Commonwealth under the Constitution, shall be binding on the courts, judges, and people of every State and of every part of the Commonwealth, notwithstanding anything in the laws of any State; 
+      - and the laws of the Commonwealth shall be in force on all British ships, the Queen’s ships of war excepted, whose first port of clearance and whose port of destination are in the Commonwealth.
+    - S109 – Inconsistency of Laws
+      - When a law of a State is inconsistent with a law of the Commonwealth, the latter shall prevail, and the former shall, to the extent of the inconsistency, be invalid.
+    - Dixon’s Exceptions: Where a State law will validly affect the Commonwealth.
+      - (1) ‘Affected by’ doctrine 
+        - Dixon J in FCT v Official Liquidator of E O Farley Ltd (1943) 63 CLR 278 (at 308);
+        - Cth v Bogle (1953) 89 CLR 229);
+        - very similar to the ‘exercise of Cth capacities’ doctrine (Re Residential Tenancies (1997)).
+      - (2) ss 64 & 80 of the Judiciary Act 1903 (Cth)
+      - (3) Criminal law 
+        - Pirrie v McFarlane; 
+        - A v Hayden (1985) 36 CLR 170
+    - Exception 1: The ‘Affected by’... doctrine
+      - The “Affected By” doctrine: ‘...the executive government of the Commonwealth is affected by the condition of the general law. ...the general law of the States ... may incidentally affect Commonwealth administrative action’ 
+        - Dixon J in FCT v Official Liquidator of E O Farley Ltd (1943) at 308; 
+        - Cth v Bogle (1953) 89 CLR 229
+      - Established examples include: contract (Farley); rent control laws (Bogle); fair trading law (Bogle); or when the Cth is acting as an ordinary legal person or ‘juristic person’ (Bogle). 
+      - Laws that “affect” the Commonwealth indirectly are to be distinguished from laws that directly attempt to bind the Commonwealth (Bogle).
+    - Exception 2: Judiciary Act 1903 (Cth), s64
+      - ‘In any suit to which the Commonwealth or a State is a party, the rights of the parties shall as nearly as possible be the same, and judgment may be given and costs awarded on either side, as in a suit between subject and subject’: s64.
+      - Legislative submission by the Commonwealth to State legislation, other than in matters involving Cth prerogative power.
+      - E.g. a contractual debt, owed to the Cth, extinguished by State legislation, as in Maguire v Simpson (1977) 139 CLR 362; but not defence during war: Shaw Savill and Albion Co Ltd v Cth (1940) 66 CLR 344.
+    - Judiciary Act, s80
+      - So far as the laws of the Commonwealth are not applicable or so far as their provisions are insufficient to carry them into effect, or to provide adequate remedies or punishment, the common law in Australia as modified by the Constitution and by the statute law in force in the State or Territory in which the Court in which the jurisdiction is exercised is held shall, so far as it is applicable and not inconsistent with the Constitution and the laws of the Commonwealth, govern all Courts exercising federal jurisdiction in the exercise of their jurisdiction in civil and criminal matters.
+      - In other words, the Cth is always bound by common law (State and Cth judicial power).
+    - Re Residential Tenancies Tribunal (NSW) and Henderson & Anor; Ex parte Defence Housing Authority (1997) 190 CLR 410
+      - Facts
+        - Dr Henderson purchased a unit subject to a special 10- year lease to a Cth Department (the ‘DHA’), excluding State tenancy law at the time it was signed.
+        - New State tenancy law came into being, giving landlords the right to enter and inspect premises.
+        - A State Tribunal ordered the DHA to allow entry. It refused, citing the lease and Cigamatic as evidence of Cth supremacy over State laws.
+        - Section 64 of the Judiciary Act did not apply due to this being a Tribunal proceeding, rather than a Court.
+      - The Majority decisions
+        - Majority 6:1: The Cth was bound by the NSW Residential Tenancy Law
+        - Brennan CJ and a plurality of Dawson, Toohey and Gaudron JJ distinguished between a State law restricting or targeting the Cth’s executive capacities and a State law of general application restricting the Cth in the exercise of those capacities (as per Dixon CJ in Cigamatic). 
+          - The first type is invalid due to the Cigamatic doctrine. 
+          - The second type is valid and binds the Cth.
+        - The DHA’s capacities were prescribed by statute (not prerogative). The act of entering into a contract – the lease - was the Cth merely exercising its capacities.
+          - In this sense, the State law was merely incidental. The Cth merely ran into a State law of general application while exercising its capacities. 
+          - The State law did not expressly target the Cth’s executive capacities. (Very similar to ‘affected by’ doctrine). 
+          - McHugh and Gummow JJ said the Cth was subject to State law on the basis of the ‘affected by’ doctrine.
+      - Kirby J’s dissent
+        - Kirby J suggested replacing Cigamatic with a simple test of reciprocity on the basis of Melbourne Corp. 
+          - In other words, if the Cth can’t interfere with the States, why should the States be able to interfere with the Cth?
+        - The DHA was a ‘department of the public service’ under s52(ii) of the Constitution. 
+        - s52(ii) provides that the Cth has ‘exclusive power’ over matters relating to such departments, thereby excluding the operation of State law.
+  - To Summarise:
+    - Cth government immunity from the laws of the States is said to be ‘reciprocal’ to the immunity from Cth laws, enjoyed by the States:
+      - Engineers; Pirrie v McFarlane;
+    - BUT, due to the power of the Cth inherent within s 5 and s 109, the laws of a State cannot bind the Cth, subject to a range of extensive exceptions:
+      - Dixon J’s dissent in Uther’s Case; 
+      - Cth v Cigamatic (1962) 
+        - (particularly in respect to fiscal relations and prerogative power);
+      - Exceptions include: 
+        - (1) ‘Affected by’ doctrine 
+          - (Dixon J in FCT v Official Liquidator of E O Farley Ltd (1943) 63 CLR 278 (at 308); 
+          - Cth v Bogle (1953) 89 CLR 229); 
+            - very similar to the ‘exercise of Cth capacities’ doctrine (Re Residential Tenancies (1997)); 
+        - (2) ss 64 & 80 of the Judiciary Act 1903 (Cth); 
+        - (3) Criminal law, when acting through its servants 
+          - Pirrie v McFarlane (1925
+          - A v Hayden (1984)
+      - Characterisation/Executive Power -> 
+      - Judicial Power -> 
+      - Constitutional limitations -> 
+      - s. 109
+
+## Week 10: Some Limited Express Rights
+
+- ACL Wk 10: Express Rights
+  - I.R.A.C. Structure & ACL Problem Solving
+    - ISSUES FOR FEDERAL LEGISLATION:
+    - 1. Can each provision of this Cth Act be characterised as having legislative power?
+      - Steps 1-6 to characterise the Act as law with respect to a head of legislative power.
+    - 2. Even if this Cth Act connects to a head of legislative power in the Constitution, does any provision of the Cth Act breach other constitutional limits/prohibitions/rights?
+      - Prohibitions maintaining the separation of judicial power.
+      - Limits arising from federal nature of Australia e.g. intergovernmental immunities.
+      - Express rights in s51(xxxi), s80 and s116.
+    - NB These rights are not constitutional limitations affecting legislation from State parliaments,but the 'just terms' requirement does limit Territory parliaments (see textbook pp461-462).
+  - Property, Cth indictable offences, and religion; 
+    - why this combination of rights?
+  - s 51(xxxi) Acquisition on just terms
+    - The acquisition of property on just terms from any State or person for any purpose in respect of which the [Commonwealth] Parliament has power to make laws.
+  - Legislative Powers of the Cth Parliament
+    - Studied so far:
+      - Defence: s51 (vi)
+      - External Affairs: s51(xxix)
+      - Corporations: s51(xx)
+      - Aliens: s51(xix)
+      - 51(xxxi) Acquisition on Just Terms (but chiefly studied as an express right not a legislative head of power).
+      - Incorporation as a referred state legislative power: s51(xxxvii)
+      - s51(i): Trade & Commerce
+      - Race Power: s51(xxvi).
+    - Remember, we must be able to characterise all Commonwealth Acts with respect to at least one of these heads of power (if not, an Act is constitutionally invalid).
+  - s 51(xxxi) - Just Terms def
+    - The acquisition of property on just terms from any State or person for any purpose in respect of which the Parliament has power to make laws
+    - A head of legislative power
+      - A power to make laws about acquisition on just terms,
+      - but the prevailing view is that the acquisition has to be for a purpose authorised by another head of power.
+    - An express right limiting Cth Parliament
+      - Inquire whether a law is invalid for breaching this express right:
+      - Acquisition elements:
+        - 1. Is there property?
+        - 2. Is there an acquisition? 
+        - (OR 1&2. Is there acquirable property?)
+        - 3. Is it on just terms?
+    - Is there property?
+      - Minister for the Army v Dalziel (1944) 68 CLR 261
+        - ‘property’ for the purposes of the section included ‘every species of valuable right and interest including real and personal property, incorporeal hereditaments, such as rents and services, rights of way, rights of profit or use in land of another, and choses in action’ (Starke J [290]).
+        - Property is broadly defined
+      - Bank Nationalisation Case (1948)
+        - Property 'extends to innominate and anomalous interests and includes the assumption and indefinite continuance of exclusive possession and control for the purposes of the Commonwealth of any subject of property' (Dixon J [349]). 
+    - What is property for s51(xxxi) purposes?
+      - 1. Statutory licenses to access groundwater.
+        - ICM Agriculture (2009)
+      - 2. Leases over land granted in fee simple to the Land Trust and a permit system allowing traditional owners of the land to refuse others' access.
+        - Wurridjal v Cth (2009)
+      - 3. Common law choses in action.
+        - Georgiadis v Telecom (1994)
+      - 4. Possession and control of a banking business.
+        - Bank Nationalisation Case (1948)
+      - 5. Mining licenses.
+        - Newcrest Mining (WA) Ltd v Cth (1997)
+      - 6. Intellectual property rights.
+        - JT International (2012)
+      - 7. NOT statutory proprietary rights/ choses in action/gratuities (because they cannot be acquired).
+        - HIC v Peverill (1994), 
+        - Cth v WMC Resources (1998)
+  - S 51 (xxxi) - Is there property?
+    - ICM Agriculture v Cth (2009) 240 CLR 140
+      - An intergovernmental agreement under the National Water Commission Act 2004 (Cth) provided for ICM Agriculture’s previous irrigation entitlements under NSW legislation to be replaced by ‘aquifier access licences’, effectively reducing their irrigation entitlements by up to 70%.
+      - The licences were found to be property (some judges noted that the water itself was incapable of private ownership).
+      - There was property, but it was NOT ACQUIRED. 
+      - As such, the Cth legislation was not breaching this express right (i.e. not invalid).
+  - S 51 (xxxi) - Is there an acquisition by/for the Cth?
+    - Acquisition must be effected by a Cth law, even if Cth does not directly become the owner of the property: PJ Magennis Pty Ltd v Cth (1949), where Cth law made NSW the purchaser of land then compensated NSW with a grant.
+    - See also Smith v ANL (2000).
+    - See also the acquisition of a financial benefit by Telecom through Cth legislation that removed a proprietary right to proceed in Court to procure the payment of a sum of money (a common law 'choses in action') in Georgiadis v Telecom (1994).
+  - Is there an acquisition def by/for the Cth not merely a deprivation?
+    - "it is not enough that legislation adversely affects or terminates a pre-existing right that an owner enjoys in relation to his property; there must be an acquisition whereby the Commonwealth or another acquires an interest in property, however slight": Mason J [145-146], Murphy and Brennan JJ agreeing that there was no acquisition.
+      - Deprivation def
+        - legislation adversely affects or terminates a pre-existing right
+    - "mere extinguishment or deprivation of rights in relation to property does not involve acquisition": Deane J [283] (although he finds acquisition here of the benefit of restrictive covenant).
+    - No such acquisition in ICM Agriculture v Cth (2009), nor in JT International v Cth (2012) re intellectual property.
+  - Is there an acquisition of property by/for the Cth not merely a deprivation?
+    - [...] What is important in the present context is that neither the Commonwealth nor anyone else acquires by virtue of the legislation a proprietary interest of any kind in the property." Mason J [145-146], Murphy and Brennan JJ agreeing.
+    - i.e. they're finding no transfer even of effective control (contra Deane J).
+    - See also that an acquisition of property was found in Newcrest Mining (WA) Ltd v Cth (1997). 
+      - The control of land for conservation was factually similar to that in Tasmanian Dams, a National Park, but moreover the Cth, as the prerogative owner of the minerals, now no longer had to license them to miners = proprietary benefit.
+    - Compare the less prominent strand of jurisprudence accepting the acquisition of an interest of any kind (not a proprietary interest), e.g.:
+      - Kirby J, Smith v ANL Ltd (2000), [527] (acquisition of a common law chose in action): "It is sufficient that the beneficiary gains 'some identifiable measurable countervailing benefit or advantage'".
+      - a benefit of substantial control: Deane J in Tasmanian Dams;
+      - Bank Nationalisation Case – gaining substantive proprietary benefit but not formal, legal proprietary interest.
+  - Is there an acquisition by/for the Cth (Cont’d)
+    - Sometimes, 'is there property that can be acquired?' is considered a "compound conception" (Dixon J, Grace Bros (1946); recent cases)
+    - i.e. is there acquirable property?
+    - Rule of thumb: "Where the asserted 'property' has no existence apart from statute further analysis is imperative" because it may not be acquirable property: Gleeson CJ, Gummow, Hayne and Crennan JJ in A-G for NT v Chaffey (2007) [664].
+      - e.g. statutory choses in action.
+    - Bank Nationalisation case: 
+      - Acquisition of property in substance is what matters, in this case the legislation transferred "effective control" although not the legal property title over the bank. Read p440.
+    - No acquisition of a statutory chose in action, although it is a kind of property, in HIC v Peverill (1994): "Rights of that kind are rights which, as a general rule, are inherently susceptible of variation [...] the mere fact that a particular [statutory] variation involves a reduction in entitlement and is retrospective does not convert it into an acquisition of property", Mason CJ, Deane & Gaudron JJ [237]
+  - 1&2. Is there property and an acquisition by/for the Cth?
+    - Choses in Action = a right enforceable in court.
+    - This is a kind of property, but is it a kind of acquirable property?
+    - Georgiadis v Australian and Overseas Telecommunications Corporation [Telecom] (1994) 179 CLR 297
+      - Mr Geogiadis was a Telecom employee injured at work. He had a common law right to sue Telecom for damages. 
+      - A new Cth Act extinguished this right.
+      - All judges agreed this right was property. 
+      - 4:3 Majority agreed it was acquirable property, and in fact had been acquired, not on just terms i.e. the Act was invalid.
+    - A common law chose in action is acquirable property.
+  - 1&2. Is there property and an acquisition by/for the Cth (Cont’d)
+    - A statutory Choses in Action is another kind of property, but is it acquirable property?
+    - Health Insurance Commission v Peverill (1994) 179 CLR 226
+      - Dr Peverill could make claims to HIC for pathology test costs. While he and HIC were disputing the amount owed for each test, amended Cth Law retrospectively confirmed that the tests were only worth $4.60ea. 
+      - His statutory right to a previous, higher rate of repayment was thereby extinguished.
+      - Six judges agreed this right was property but this 6:1 Majority determined it was not acquirable property, and in fact had not been acquired, i.e. the Act was valid. 
+      - (Similarly, a statutory entitlement to a specific (higher) rate of parliamentary retirement allowance is not acquirable property: Cunningham v Cth (2016).)
+    - Compare Peverill to Cth v WMC Resources Ltd (1998), with its nuanced dissent from Kirby J, textbook p449.
+      - In AG(NT) v Chaffey (2007), majority agree that some rights created by Cth statutes are acquirable property, if they're not inherently variable. 
+      - The rights in question were, however, too variable to be aquired.
+      - In Wurridjal v Cth (2009), majority did not dismiss the claim for being about the acquisition of the benefit of Cth statutory (land) rights.
+      - In JT International: Cth did not acquire intellectual (or other) property, but the IP was acquirable property even though it was created by Cth statute.
+      - --> Most statutory choses in action are not acquirable property but other forms of property created by statute are acquirable.
+  - 3. Is the acquisition on just terms - A just amount?
+      - Market value of the property lost is the starting point, balanced against community interests: 
+        - Nelungaloo P/L v Cth (1948), see Dixon J, textbook p457.
+      - Plus e.g. lost future profits: 
+        - Dalziel (1944); 
+        - Johnston Fear v Cth (1943).
+      - Plus e.g. special or sentimental value of property - question posed, not answered: 
+        - Wurridjal v Cth (2009).
+      - Less than market value when market value is unfair, e.g. because market value is artificially inflated: 
+        - Nelungaloo.
+      - --> moving to full compensation = just, 
+        - e.g. Gleeson CJ in Georgiadis.
+  - 3. Is the acquisition on just terms - A just process?
+    - Wurridjal v Cth (2009) 237 CLR 309
+      - Legislation passed by Cth Parliament as part of the Northern Territory Intervention converted property that had been granted to the Land Trust in fee simple under the Aboriginal Land Rights (NT) Act 1976 into a five-year statutory lease to the Commonwealth.
+      - These leases also abolished a permit system under which the Land Trust and Aboriginal owners could refuse access to the property. 
+      - The majority found these measures to constitute an acquisition of property rights.
+      - There was property, and acquisition, but it was ON JUST TERMS because the Act obliged 'a reasonable amount of compensation' be provided if acquisition occurred, even though enforcing this compensation would require starting court proceedings.
+      - As such, the Cth legislation was not breaching this express right (i.e. not invalid).
+      - Dissent, Kirby J: The property (rights) acquired may be more extensive and therefore whether just terms have been provided needs further consideration.
+  - s 51(xxxi): Exceptions
+    - When acquisition of property under Cth law does not require compensation on just terms:
+      - Confiscation or forfeiture of property re criminal offences.
+      - Liens enforcing payment for services. 
+      - Laws relying on legislative heads of power which "clearly encompass the making of laws providing for the acquisition of property unaccompanied by any quid pro quo of just terms", joint judgement, Nintendo v Centronic (1994) [160], eg:
+        - Copyright - s51(xviii), as in the facts of the Nintendo case;
+        - Tax - s51(ii);
+        - Sequestration of a bankrupt person's property - s51(xvii).
+        - + if you agree with Cth for acquisition on less than just terms: John Cook (1924).
+  - s 80 Trial by jury
+    - The trial on indictment of any offence against any law of the Commonwealth shall be by jury, and every such trial shall be held in the State where the offence was committed, and if the offence was not committed within any State the trial shall be held at such place or places as the Parliament prescribes.
+  - Section 80
+    - "Section 80 is not a great guarantee of trial by jury for serious matters.": 
+      - McHugh J, Cheng, Cheng and Chan v The Queen (2000).
+    - Section 80 is "a mere procedural provision": 
+      - Barwick CJ, Spratt v Hermes (1965).
+
+  - When does s 80 apply?
+    - Not for contempt of court proceedings: Majority, Re Colina (1999).
+    - Not for indictable or summary (criminal) offences in State laws.
+    - Not for summary (criminal) offences in Cth laws:
+      - whether an offence in a Cth law is indictable or summary is up to Cth Parliament to state in legislation: 
+        - R v Archdall and Roskruge (1928); 
+        - Majority, Kingswell v The Queen (1985);
+      - and sometimes a Cth law lets the prosecutor choose.
+    - Not relevant to sentencing: 
+      - Cheung v The Queen (2001).
+    - So, s80 is only for indictable Commonwealth offences. 
+    - And not for Cth indictable offences in the Territories: 
+      - Bernasconi (1915)
+  - When s 80 does apply, its requirements are:
+    - In prosecutions of Cth indicatable offences, trial by jury is mandatory (cannot opt out): 
+      - Brown (1986); 
+      - Alqudsi (2016).
+    - s 80 implies a unanimous jury verdict (of the jurors remaining at the time of the verdict): 
+      - Cheatle v The Queen (1993); 
+      - R v Glynn (2002).
+    - A jury that starts with 12 people and reduces is still valid but reducing to less than 10 people may not comply with s 80 because it may not achieve the purpose of a jury representative of the community:
+      - Brownlee v The Queen (2001), obiter.
+    - A jury can start with more than 12, too, e.g. 15 in R v Ng (2003).
+    - Randomly and impartially selected jurors who are non-lawyers and impartial to the dispute (Kirby J in R v Ng at [19]).
+  - s 116 ('freedom of religion') Cth not to legislate in respect of religion
+    - The Commonwealth shall not make any law for
+      - [1.] establishing any religion, or
+      - [2.] for imposing any religious observance, or
+      - [3.] for prohibiting the free exercise of any religion, and
+      - [4.] no religious test shall be required as a qualification for any office or public trust under the Commonwealth. (my numbering)
+    - (You may have already considered the 4th guarantee in the Williams cases on school chaplaincy funding: s116 did not invalidate those laws).
+  - What is a religion?
+    - Adelaide Company of Jehovah’s Witnesses v Commonwealth (1943) 67 CLR 116 per Latham CJ, aspects can include:
+      - A system of beliefs or statements of doctrine (whether true or false);
+      - Prescribing a code of conduct (whether good or bad);
+      - Prescribing some form of ritual or religious observance.
+    - Note also that the freedom extends to having a belief against religion (atheism or agnosticism): Latham CJ at [123].
+    - The HCA's inclusive definition continues in: Church of the New Faith v Commissioner of Payroll Tax (Vic) (1983) (a case about the definition of religion for tax law).
+      - Per Mason ACJ and Brennan J, there are two criteria:
+        - ‘belief in a supernatural Being, Thing or Principle’ and
+        - ‘the acceptance of canons of conduct in order to give effect to that belief’ 
+      - per Wilson and Deane JJ, there are four indicia:
+        - belief in the supernatural;
+        - ideas relating to an individual’s nature and place in the universe and relation to things supernatural;
+        - the existence of codes of conduct with supernatural significance; and
+        - the fact that the adherents constitute an identifiable group.
+    - The point is that the HCA wants to include any and all religions, on principle.
+  - Cases on prohibiting free exercise of religion
+    - Krygger v Williams (1912)
+      - An unsuccessful challenge to conscription legislation. 
+      - The law is not directly prohibiting the 'doing of acts which are done in the practice of religion' - Griffith CJ at [369]. 
+      - Section 116 does not invalidate Acts which compel action contrary to one's religious beliefs/values.
+    - Adelaide Company of Jehovah’s Witnesses v Commonwealth (1943)
+      - The (one) purpose of the Act has to be clearly for prohibiting free exercise of religion in order to be invalidated by s116 (obiter).
+      - Proportionate Acts prohibiting religion may yet be valid (obiter).
+    - Kruger v Cth (Stolen Generations Case) (1997)
+      - One Purpose Test adopted. This Act was not for religious prohibition.
+      - Gaudron J widens purpose(s) test, coupled with proportionality test.
+  - Compare to the limitations emerging from CH III to uphold separation of judicial power
+    - Chapter III may be argued to be another/ a better source of individual protections: 
+    - the broader incompatibility doctrine which limits even State parliaments, e.g.
+      - protecting Mr Kable's human rights to liberty; or
+      - invalidating laws which restrit freedom of association (Totani, Wainohu); or
+      - limiting retrospective criminal laws (minority in Polyukhovic (1991));
+      - and requiring procedural fairness in trials in order to maintain 'institutional integrity' of judicial institutions (Wk 6 lecture).
+    - limiting Executive powers to detain (Chu Kheng Lim; NZYQ).
+  - In Attorney-General (Vic) (General (Vic) (Ex rel Black) v Commonwealth (DOGS case) Black) v Commonwealth (DOGS case) (1981) 146 CLR 559 (or Defence of Government Schools case)
+    - the DOGS group challenged the validity of a series of Commonwealth grant statutes. 
+    - Money was granted to each State under s 96 on the basis that that money was passed on to nominated private schools.
+    - The DOGS group sought a declaration that the grants were invalid insofar as they were earmarked for religious non-government schools, as that would amount to the establishment of a religion.
+    - A High Court majority disagreed. Murphy J dissented, and read the anti- establishment clause as prohibiting any Commonwealth sponsorship of or support for any religion
+## Week 11: Implied Freedom of Political Communication
+
+-  Implied Freedom of Political Communication
+  - Four key takeaways from this lecture
+    - 1: 
+      - The implied freedom of political communication is derived from ss 7, 24, 64 and 128 to protect communication on political or government matters.
+    - 2: 
+      - This implied freedom creates a constitutional limit on the power of the Commonwealth and states to legislate, and on the common law, and can invalidate laws in certain circumstances.
+    - 3: 
+      - To assess whether a law infringes the implied freedom of political communication, apply a modified version of the two stage test that was first adopted in Lange v Australian Broadcasting Corporation.
+    - 4: McCloy Test
+      - Stage 1 involves an assessment of whether the law effectively burden the freedom in its terms, operation or effect and 
+      - Stage 2 involves an assessment of whether the purpose of the law and the means adopted to achieve that purpose legitimate, in the sense that they are compatible with the maintenance of the constitutionally prescribed system of representative government, 
+      - Stage 3 involves an assessment of whethe the law reasonably appropriate and adapted to advance that legitimate object? (suitable, necessary and adequate in its balance), which was modified in McCloy v NSW in 2015, involves an assessment of proportionality
+  - Discovering implied freedoms
+    - Over a number of years different judges and legal scholars explored the idea that there may be implied rights that exist within our constitutional framework
+    - But if they do exist, how and when can the court discern them?
+    - What is the appropriate standard, and what can the implied right actually do?
+    - Two early cases show the recognition of the implied freedom of political communication but also the difficulties with them, as the court struggles to achieve consensus
+  - Australian Capital Television v Commonwealth (1992) 177 CLR 106
+    - Amendments to the Broadcasting and Television Act 1942 (Cth) sought to regulate the broadcast of political advertisements on electronic media during federal, State and local government election periods, including by prohibiting paid advertisements and instead mandating free advertising time for political parties already represented in the relevant legislature.
+      - It was challenged, inter alia, for impeding freedom of political communication.
+    - The court unanimously held that the Constitution protected freedom of political communication, with a majority of 5:2 finding that the legislation unjustifiably infringed that protection.
+    - According to Mason CJ (in majority): 
+      - The representatives who are members of Parliament and Ministers of State are not only chosen by the people but exercise their legislative and executive powers as representatives of the people; thus they are accountable to the people for what they do and have the responsibility to take account of the views of the people. 
+      - Indispensable to that accountability and responsibility is freedom of communication, at least in relation to public affairs and political discussion.
+  - Nationwide News v Wills (1992) 177 CLR 1
+    - The Industrial Relations Act 1988 (Cth) created an offence of bringing the Industrial Relations Commission or one of its members into disrepute. 
+      - A newspaper’s publisher was prosecuted as a result of a columnist referring to the Commissioners as a ‘corrupt and compliant judiciary in the Soviet style arbitration commission’.
+    - The court unanimously held that the provision was invalid. 
+      - Mason CJ, McHugh and Dawson JJ held that the provisions fell outside of the scope of the conciliation and arbitration power in s 51(xxxv).
+    - Brennan, Deane, Toohey and Gaudron JJ held that they were within the scope of the head of power but breached an implied freedom of political communication. 
+      - This implied freedom derived from the fact that the text and structure of the Constitution established a system of representative government, which incorporates by implication the degree of freedom of communication necessary to sustain that system.
+    - ‘The people of the Commonwealth would be unable to responsibly discharge and exercise the powers of government control which the Constitution reserves to them if each person was an island, unable to communicate with any other person...The ability to cast a fully informed vote in an election of the members of Parliament depends upon the ability to acquire information about the background, qualifications and policies of the candidates for election and about the countless number of other circumstances and considerations, both factual and theoretical...’ – Deane and Toohey JJ.
+  - More cases emerged - but there was a problem with consistency...
+    - Theophanous v Herald & Weekly Times Ltd (1994) 182 CLR 104
+      - Theophanous, a Federal MP, sued the Herald & Weekly Times for defamation over a letter it published which included an allegation of his being biased towards Greeks while acting as a Chair of a committee on immigration. 
+      - The newspaper argued that the letter was protected by the implied freedom of political communication, as a defence to a common law action in defamation.
+    - During this case there were concerns expressed about the 1992 judgments and how the implied freedom was recognised as we as the scope of it. 
+      - For instance, McHugh J expressed concern that the freedom could be implied through ss 7 and 24 alone.
+      - A majority (Mason CJ, Deane, Toohey and Gaudron JJ) held that the freedom applied to the common law of defamation. 
+      - They considered that to hold publishers liable for all false allegations about members of parliament would lead to a reluctance to publish any allegation for fear of defamation suits. 
+      - This is frequently referred to as the ‘chilling effect’.
+    - Stephens v West Australian Newspapers Ltd (1994) 182 CLR 211
+      - This was another defamation case arising from allegations in a newspaper that certain members of the legislative council had taken overseas ‘junkets’.
+      - Mason CJ, Toohey and Gaudron JJ held that the freedom of communication implied in the Commonwealth Constitution extended to public discussion of the performance, conduct and fitness for office of members of a State legislature. 
+      - It was further held that the implied freedom bound the state legislature, but it is unclear as to whether that was because of an implication arising from the State constitution of WA or the implication arising from the Commonwealth constitution.
+  - Consensus is finally reached on the implied freedom
+    - Lange v Australian Broadcasting Corporation (1997) 189 CLR 520
+      - Lange, a former Prime Minister of New Zealand, sued the ABC for defamation following a Four Corners program which he claimed suggested that his government had improper dealings with big business in exchange for political donations. 
+        - The ABC attempted to rely on the implied freedom of political communication in its defence.
+      - Concerns were expressed about the previous decisions by some of the justices of the court. 
+        - The Court re-evaluated its previous decisions and, in a unanimous judgement, tried to put the implied freedom on a more certain theoretical foundation, with an emphasis on the text of the Constitution:
+      - § 7 and 24 and the related sections of the Constitution [e.g. s 128] necessarily protect that freedom of communication between the people concerning political or government matters which enables the people to exercise a free and informed choice as electors.
+      - §‘Freedom of communication on matters of government and politics is an indispensable incident of that system of representative government which the Constitution creates by directing that the members of the House of Representatives and the Senate shall “be directly chose by the people” of the Commonwealth and the States, respectively.’
+  - What sections of the constitution are the freedom derived from?
+    - Sections 7 and 24 of the Constitution, read in context, require the members of the Senate and the House of Representatives to be directly chosen at periodic elections by the people of the States and of the Commonwealth respectively. 
+    - This requirement embraces all that is necessary to effectuate[28] the free election of representatives at periodic elections. 
+    - What is involved in the people directly choosing their representatives at periodic elections, however, can be understood only by reference to the system of representative and responsible government to which ss 7 and 24 and other sections of the Constitution give effect[29].
+  - The test initially derived by the court in Lange
+    - Two stage test developed for determining whether a law infringed the implied freedom of political communications.
+      - 1. Does the impugned law effectively burden freedom of communication about government or political matters either in its terms, operation or effect?
+      - 2. [If a burden is found] Is the law reasonably appropriate and adopted to serve a legitimate end the fulfilment of which is compatible with the maintenance of the constitutionally prescribed system of representative and responsible government and the procedure prescribed by s 128 for submitting a proposed amendment of the constitution to the informed decision of the people?
+  - The operation of stage 1 - what is political communication?
+    - [the ability of’ “the people” to communicate with each other with respect to matters that could affect their choice in federal elections or constitutional referenda or that could throw light on the performance of [federal] Ministers of State and the conduct of the executive branch of government” - Lange
+    - Expanded in Unions NSW v NSW (2013) 252 CLR 530: 
+      - “The complex interrelationship between levels of government, issues common to state and federal government and the levels at which political parties operate necessitate that a wide view to be taken of the operation of the freedom of political communication:
+  - Examples of political communication
+    - An allegation of corruption against a police officer in a public place in Queensland (Coleman v Power (2004) 220 CLR 1)
+    - Parole conditions restricting a former prisoners ability to attend public meetings about political advocacy and being made to do media interviews Wotton v Queensland (2023) 246 CLR 1
+    - Various acts of journalism (Lange, Theophanous etc)
+    - Covert video surveillance and publication by animal rights groups (Farm Transparency Ltd v New South Wales)
+    - Non verbal acts such as entering a hunting ground for advocacy purposes (Levy v Victoria 1997 189 CLR 579)
+  - The operation of stage 1 - what is a burden?
+    - French CJ, Gummow, Hayne, Crennan and Bell JJ in Wotton v Queensland (2012) 246 CLR 1:
+    - “there is a distinction...between laws which...incidentally restrict political communication, and laws which prohibit or regulate communications which are inherently political or a necessary ingredient of political communication. 
+    - The burden upon communication is more readily seen...if the law is of the former rather the latter description.”
+  - The modified test in Coleman v Power
+    - Coleman v Power (2004) 220 CLR 1
+      - Gummow, Hayne and Kirby JJ read down the provision – prohibiting ‘insulting words to any person’ - so as to only be applicable when the words used are directed to hurting an identified person and intended to provoke unlawful physical retaliation, which is not the case merely with insulting words to a police officer who, by temperament and training, must be expected to resist the sting of insults. 
+        - Under this interpretation, the provision was reasonably appropriate and adapted to preserving the peace and public order.
+      - McHugh J refused to read it down, and thus held that an ‘unqualified’ prohibition cannot be justified as compatible with the prescribed system. 
+        - The provision infringed the constitutional freedom by simply making it an offence to utter insulting words in or near a public place whether or not a person hears those words, even when they were used in the discussion of political and governmental matters, bearing in mind that the use of insulting words is a legitimate part of the political discussion protected by the Constitution.
+      - Gleeson CJ, Callinan and Heydon JJ agreed with McHugh J’s broad interpretation, but found that the law was nevertheless proportionate. 
+        - Kirby J criticised this broad interpretation as being intolerably over-wide, given the reality of Australian politics which often involves insulting language.
+    - Is the law reasonably appropriate and adopted to serve a legitimate end in a manner which is compatible with the maintenance of the constitutionally prescribed system of representative and responsible government and the procedure prescribed by s 128 for submitting a proposed amendment of the constitution to the informed decision of the people?
+  - Criticism emerges of Lange second stage
+    - Kiefel J in Monis v the Queen [2013] HCA 4:
+      - In Roach v Electoral Commissioner it was said that what upon close scrutiny is disproportionate or arbitrary may not answer the description "reasonably appropriate and adapted". 
+      - This raises the question whether the use of this more cumbersome and inexact phrase should be continued.
+    - Kiefel J advocated a form of “structured proportionality” adopted from German jurisprudence
+  - McCloy v New South Wales [2015] HCA 34 - HC majority adopts ‘structured proportionality’
+    - Facts: Following a series of corruption scandals that led to corrupt conduct findings by ICAC and recommendations to reform the donation system, the NSW government introduced legislation to curb political donations. 
+      - It introduced a $50,000 cap on all political donations in a financial year. 
+      - It also imposed a total ban on donations from property developers. 
+      - A developer challenged the validity of these laws in the high court, arguing they infringed the implied freedom of political communication.
+    - French CJ, Kiefel, Bell and Keane JJ adopted ‘structured proportionality’ to the second limb of the Lange test for the first time in a majority judgment.
+    - They argued that it provides a “uniform analytical framework for evaluating legislation which effects a restriction on a right or freedom. It is not suggested that it is the only criterion by which legislation that restricts a freedom can be tested. It has the advantage of transparency.”
+  - Modified Lange test set out in McCloy
+    - STAGE ONE OF LANGE TEST
+      - Does the law effectively burden the freedom in its terms, operation or effect?
+    - STAGE TWO OF LANGE TEST (MODIFIED)
+      - Are the purpose of the law and the means adopted to achieve that purpose legitimate, in the sense that they are compatible with the maintenance of the constitutionally prescribed system of representative government[4] ....AND... 
+      - is the law reasonably appropriate and adapted to advance that legitimate object[5]? This question involves what is referred to in these reasons as "proportionality testing"
+  - What is “proportionality testing def”?
+    - The proportionality test involves consideration of the extent of the burden effected by the impugned provision on the freedom. 
+    - There are three stages to the test – these are the enquiries as to whether the law is justified as suitable, necessary and adequate in its balance in the following senses:
+      - 1. suitable — as having a rational connection to the purpose of the provision;
+      - 2. necessary — in the sense that there is no obvious and compelling alternative, reasonably practicable means of achieving the same purpose which has a less restrictive effect on the freedom;
+      - 3. adequate in its balance — a criterion requiring a value judgment, consistently with the limits of the judicial function, describing the balance between the importance of the purpose served by the restrictive measure and the extent of the restriction it imposes on the freedom.
+    - If the measure does not meet these criteria of proportionality testing, then the...measure will exceed the implied limitation on legislative power.
+  - Application of test in McCloy
+    - Stage one McCloy test
+      - 1. Does the law effectively burden the freedom in its terms, operation or effect?
+      - Yes, the law did burden the implied freedom by its operation. 
+        - It limited the ability of property developers and other individuals to participate in the democratic process by curbing their ability to give financial support.
+    - Stage two McCloy test
+      - 2. Are the purpose of the law and the means adopted to achieve that purpose legitimate, in the sense that they are compatible with the maintenance of the constitutionally prescribed system of representative government[4]?
+        - Answer: The joint majority found the legislative measure’s purpose was to curb corruption in the political process, which the court found was not only compatible with the maintenance of government, but that they preserve and enhance it” by limiting corruption risks.
+      - 3. is the law reasonably appropriate and adapted to advance that legitimate object[5]? (suitable, necessary and adequate in its balance)
+        - Answer: They were suitable measures, as they were rationally connected to their objectives (e.g. the fact that the business of property developers is extraordinarily dependent upon decisions of governments regarding zoning and planning permits).
+      - They were necessary, in the sense that no obvious and compelling alternatives were identified (e.g. it is not a compelling alternative to limit the laws just to acts of bribery, firstly because of difficulties in proving bribery, and secondly because it is not the subjective intention of the donor that is important as the objective tendency of large payments of money to corrupt government and the electoral system).
+      - They are balanced, as they don’t affect the ability of any person to communicate with another about politics or government, nor to seek access to or influence politicians other than by the payment of substantial sums of money.
+    - Brown v Tasmania (2017) 261 CLR 328
+      - The Workplaces (Protection from protestors) Act (Tas) was enacted for the purpose of protecting businesses from certain activities by protestors, and applied to forestry land where forest operations were being carried out. 
+      - Two protestors (including former Senator Bob Brown) were arrested and charged (though later withdrawn) after protesting in a forestry area to raise awareness against logging.
+      - A majority (Kiefel, Bell and Keane JJ) found the law to breach the implied freedom of political communication:
+        - 1.The law did burden the freedom due to restricting peaceful protests.
+        - 2.The purpose of the law, to protect businesses from damage and disruption, was compatible with representative and responsible government.
+        - 3.However, concerning proportionality – 
+          - (i)Certain provisions were not suitable (e.g. police powers to direct people to leave an area)
+          - (ii)Certain provisions were not necessary: in restricting protests more generally, they would deter protest of all kinds; they go beyond what is reasonably necessary to protect against damage.
+  - Unions NSW v New South Wales (Unions NSW [No 2]) [2019] HCA 1
+    - This was a challenge to certain changes to election funding rules that impacted third-party campaigners in elections, including unions and business groups, which would have impacted the 2019 State election. 
+      - Against a background of corruption inquiries conducted by ICAC, and conservative perceptions that unions had too much power in election campaigns, s 29(10) of the Electoral Funding Act 2018 (NSW) substantially reduced the cap on electoral expenditure by third-party campaigners from $1,050,000 to $500,000.
+    - The Court unanimously found s29(10) invalid as an impermissible burden on political communication. 
+      - It was accepted that the purpose of the law was to prevent the drowning out of voices by the distorting influence of money and that it did so in relevant part by differentiating between political parties, candidates and third-party campaigners. 
+      - The issue was one of justification of the extent of the effect of the cap on electoral expenditure on the implied freedom. 
+      - Because the implied freedom ensures that the people of the Commonwealth enjoy equal participation in the exercise of political sovereignty, it is not surprising that there is nothing in the authorities which supports the submission that the Constitution impliedly privileges candidates and political parties over the electors as sources of political speech.
+  - Clubb v Edwards [2019] HCA 11
+    - Kathy Clubb and Graham Preston, pro-life advocates and protestors, were separately convicted of offences under the Victorian Public Health and Wellbeing Act 2008 (Vic) and the Tasmanian Reproductive Health (Access to Terminations) Act 2013 (Tas). 
+      - Clubb was convicted after handing a leaflet to a young woman approaching an abortion clinic. 
+      - She was found guilty of engaging in communication about abortion reasonably likely to cause distress or anxiety within the safe access zone. 
+      - Preston was convicted for holding up signs within the safe zone, speaking about the rights of unborn children under international law, one of which depicted a foetus. 
+      - Both appealed to the High Court, arguing that the laws infringed upon the implied freedom of political communication.
+    - Kiefel CJ, Bell and Keane JJ held:
+      - Handing out anti-abortion pamphlets to women in this case did not amount to political communication. 
+      - A discussion between individuals of the moral or ethical choices to be made by a particular individual is not to be equated with discussion of the political choices to be made by the people of the Commonwealth as the sovereign political authority. 
+      - However, the case presented three ‘unusual features’ which warranted dealing with the matter even if it did not involve political communication.
+  - Farm Transparency v New South Wales [2022] HCA 23
+    - Farm Transparency is an animal rights group that routinely obtained and published footage of animals subject to inhumane treatment. 
+      - At times they trespassed on farms and covertly filmed the treatment of animals. 
+      - In NSW it’s a criminal offence to install a covert surveillance device, and there is no public interest defence (which does apply in certain other states). 
+    - They challenged the validity of two provisions of the Surveillance Devices Act; s 11 which prohibits publication or communication of footage and s 12 which prohibits possession of them.
+    - A majority (Kiefel CJ and Keane, Edelman and Stewart JJ) held that the legislation burdened political communication, but that it had a legitimate purpose of protecting privac - given this, they did not proceed to a proportionality analysis.
+      - Gordon J read down the scope of the provisions.
+      - Gageler and Gleeson JJ in dissent found the legislation was invalid, finding it was too restrictive.
+  - Some justices left open the door for different considerations for news organisations
+    - What this case is not about
+      - A concerned member of the public, while present at a political event on private premises without invitation, overhears a conversation between senior members of the Government. 
+      - The senior members of the Government are discussing their participation in an unlawful enterprise involving wiretapping of Opposition premises, and using the Australian Taxation Office and the Australian Secret Intelligence Service to target political opponents. 
+      - The concerned member of the public uses a smartphone to make an audio‑visual recording of the conversation and provides the recording to a journalist at a national newspaper. 
+      - The journalist and the editor of the newspaper are aware that the conversation was unlawfully recorded but they want to publish the details to inform the public of these matters of enormous political importance. 
+      - Even if they cannot publish the information, they want to communicate it to the Australian Federal Police.
+  - RECAP – YOUR GUIDE TO PROBLEM SOLVING
+    - 1. The implied freedom of political communication is derived from ss 7, 24, 64 and 128 to protect communication on political or government matters.
+    - 2. This implied freedom creates a constitutional limit on the power of the Commonwealth and states to legislate, and on the common law, and can invalidate laws in certain circumstances.
+    - 3. To assess whether a law infringes the implied freedom of political communication, apply a modified version of the two stage test that was first adopted in Lange v Australian Broadcasting Corporation.
+    - 4. Stage 1 involves an assessment of whether the law effectively burden the freedom in its terms, operation or effect and Stage 2 involves an assessment of whether the purpose of the law and the means adopted to achieve that purpose legitimate, in the sense that they are compatible with the maintenance of the constitutionally prescribed system of representative government, and if so is the law reasonably appropriate and adapted to advance that legitimate object? (suitable, necessary and adequate in its balance), which was modified in McCloy v NSW in 2015, involves an assessment of proportionality
+
+## Week 12: Recap 
+
+- Revision and Exam Tips
+  - Exam Topics
+    - Characterisation and implied incidental power
+    - Corporations power
+    - The Race power
+    - External affairs power
+    - Executive/nationhood power
+    - Separation of judicial power – Commonwealth and State
+    - Intergovernmental immunities: Melb Corp; Cigamatic
+    - Express Rights: acquisition; trial by jury; freedom of religion
+    - Implied freedom of political communication
+    - Inconsistency of laws
+  - Exam Format
+    - constitutional provisions and case law for each issue (e.g. ...‘s51(xxxix) and s61, are authority for the nationhood power (Davis v Cth)’...). TIP: cite as many relevant cases as possible.
+  - Structure
+    - 1. Write a separate response for each Part (corresponding to a specific client/plaintiff – e.g. Part 1 Advise ‘X’
+    - 2. HEADINGS - Divide up the issues in a logical order – e.g.
+      - I. Characterisation of Cth law – Corporations power
+      - II. Limitation - Freedom of political communication
+      - III. Inconsistency of laws – s109
+      - I WOULD ADVISE MR XYZ THAT THE IMPILED FREEDOM OF COMMUNICATION WOULD RENDER THE LAW INVALID, HOWEVER, IF THE COURTS WOULD RULE OTHERWISE THEN THE LAW WOULD PROCEED TO CONFORM UNDER A SECTION 109 DISPUTE
+        - Fill in the italics
+    - 3. For each issue you should ensure that you cover these fundamental elements common to all legal problem solving:
+      - (i) Issue – Use each issue as a Subheading
+      - (ii) Facts - in Constitutional Law these can include clauses within legislation as well as material facts
+      - (iii) Rule(s) - cite the relevant section of the constitution, and the caselaw interpreting the Constitution –
+      - (iv) Application (of rule(s) to facts) – apply the legal principles to the relevant facts for each issue - MOST IMPORTANT PART / WHILE MAINTAINING RELEVANCE, TELL YOUR EXAMINER ALL YOU KNOW ABOUT HOW THE RULE HAS APPLIED IN VARIOUS CASES WE HAVE STUDIED. AS MANY RELEVANT CITATIONS OF CASES WE HAVE STUDIED AS POSSIBLE. MARKS ARE AWARDED FOR EACH RELEVANT CASE AND CONSTITUTIONAL PROVISION CITED.
+      - (v) Conclusion - explain the most ‘probable’ or ‘likely’ outcome.
+    - However, it is not desirable to structure your response using these as headings. 
+    - Use the general structure suggested in 2. above, with sub-headings corresponding to different elements or steps – e.g. the two requirements for applying the corporations power, or the three steps involved in analysing the implied freedom.
+  - Citations
+    - When citing cases in the exam, the following examples are acceptable:
+      - ...Tasmanian Dam Case (1983)...
+      - ...Commonwealth v Tasmania (1983)...
+      - ...Tasmanian Dam...
+      - ...Brown v Cth (2017)...
+      - ...Brown (2017)...
+    - Avoid using a very common word or name such as Commonwealth or Victoria.
+    - Recommended that you underline or use bold font for subheadings, case names and sections of the Constitution
+  - How to answer a problem
+    - Remember – we want to know whether the law is constitutionally valid
+      - 1. Characterise the law (i.e., what head of power might the law be connected to? If more than one head of power may be argued then discuss each one)
+        - i. Is it a subject matter or purposive power?
+        - ii. Cite and apply the relevant test to the law at issue
+        - iii. Can the implied incidental power be used?
+        - iv. Is there a state law?
+      - 2. Are there any constitutional limitations?
+        - i. Separation of judicial power
+        - ii. Intergovernmental immunities
+        - iii. Acquisition of property on just terms
+        - iv. Trial by jury
+        - v. Implied freedom of political communication
+      - 3. Is there a State law, and is it inconsistent?
+        - i. Is the Commonwealth law valid? Is the State law valid? Note: If already examined in a previous part, no need to rewrite, just refer back to earlier analysis.
+        - ii. Are there any constitutional limits?
+        - iii. Is the State law inconsistent with the Commonwealth law?
+  - Step 1: Characterisation
+    - Subject matter powers are given a broad interpretation (Bank Nationalisation Case and Murphyores (1976)), applying the ‘sufficient connection’ test.
+      - TEST - If it’s a subject matter power, does the Cth Act have a sufficient connection to the subject matter? (Kitto J in Fairfax “Is it in real substance a law upon, “with respect to”, one or more of the enumerated subjects”) –
+      - Dual characterisation - a law may have multiple subjects and be attached to multiple heads of power. This is basically the gist of Kitto J’s findings in Fairfax v Cmr of Tax (1965).
+      - Kitto J found that it is a question of the ‘true nature and character of the legislation; is it in its real substance a law with respect to, one or more enumerated subjects, or is there no more in it in relation to any of those subjects than an inference so incidental as not in truth to affect its character?’
+  - Step 1: Characterisation – subject matter power
+    - If there is no sufficient connection but by invoking the implied incidental power it can be brought within the subject matter, we must apply the proportionality test (asking whether the law is “appropriate and adapted” to its purpose (D’Emden v Pedder (1904)): R v Burgess (1936)).
+      - With respect to the trade and commerce power, for instance, the implied incidental power can be invoked to regulate steps preparatory or ancillary to trade and commerce like manufacturing: Grannall v Marrickville Margarine (1955) (including penalties (Burton v Honan (1952)), or permit regulation of intrastate trade and commerce where it is sufficiently integrated (beyond merely in an economic or commercial sense) with interstate or foreign trade and commerce: O’Sullivan v Noarlunga Meat (1954).
+        - [note: the trade and commerce power is not examinable, but you can refer to these cases to support an argument involving the implied incidental power being used for an examinable head of power]
+      - With respect to the corporations power, the implied incidental power was found to authorise a law which permitted a person who had suffered a loss because of a corporation’s misleading or deceptive conduct to recover that loss from any natural person involved in that deception: Fencott v Miller (1983).
+      - The difference between the express and implied incidental power is that the implied incidental power from D’Emden v Pedder (1904) is used to interpret the head of power and the express incidental power (s. 51 (xxxix)) is used to interpret an executive exercise of power under the head of power.
+  - Step 1: Characterisation – purposive power
+    - If its a purpose power, again we use the proportionality test (ie is it appropriate and adapted). This is a test of proportionality between the legislation and the purpose of defence or external affairs or the nationhood power – not necessarily the head of power. Different in each case:
+      - External affairs, very broad approach (for treaty implementation and international legal matters, Seas and Submerged Lands Case (1975)), compliant with the ‘spirit’ (Tasmanian Dam); the treaty must be reasonably specific as to what States must do, and the implementing law must conform to the requirements of the treaty (ILO case).
+      - Defence power (NOT EXAMINABLE) a power that is applied differentially according to the context – war, peace, transitional period; there must be a threat to the Cth and the States; In the absence of war involving a threat to Australia, the court has limited its use (Communist Party Case (1951)); however, in the case of terrorism, counter-terrorism laws may be appropriate and adapted to the purpose of defending Australia and the law (Thomas v Mowbray (2007)).
+      - Nationhood power – a broad power in terms of potential subjects to which it could be applied, but a narrow interpretive approach – must be for the benefit of the nation, and not a punitive or coercive purpose: First Pharmaceutical Benefits Case; Davis v Cth (1988); Pape v Cth (2009)
+  - Characterisation - Specific heads of power
+    - Corporations Power s. 51(xx):
+      - Subject matter power, thus we apply the sufficient connection test.
+      - First requirement: that the law deals with constitutional corporations: foreign, trading or financial corporations (the latter two formed within the Commonwealth). 
+        - In relation to trading and financial corporations, it would only apply to corporate entities whose trading or financial activities respectively form a significant and substantial, although not a predominant, part of the business (Adamson’s Case (1979); Tasmanian Dams (1983)). 
+        - This could include sporting clubs, charities (Red Cross Case (1991)), and universities (Quickenden v O’Connor). 
+        - For companies that have yet to begin to operate, such as shelf companies, we look to the purposes (rather than current activities) of the corporation (Fencott v Muller (1983). 
+        - It would not include public entities that run at a loss (AWU v Etheridge Shire Council (2008) or that are funded wholly by the state (ALSWA v Lawrence (2008)).
+      - Second requirement: that the law falls within the scope of the power. After Work Choices case (2006), s51(xx) provides near plenary power - there will be such a connection where the law regulates: 
+        - the activities, functions, relationships and the business of constitutional corporations;
+        - the creation of rights, and privileges belonging to such a corporation;
+        - the imposition of obligations on it;
+        - the regulation of the conduct of those through whom it acts, its employees and shareholders and, also, the regulation of
+        - those whose conduct is or is capable of affecting its activities, functions, relationships or business; [note that this latter point may more accurately be construed as part of the implied incidental power].
+      - In Work Choices, laws prescribing the industrial rights and obligations of corporations and their employees and the means by which they are to conduct their industrial relations (i.e. internal relationships within a corporation), were held to be within power.
+    - The Race Power (s51(xxvi)
+      - (i) First Requirement: the law must involve ‘race’
+        - ‘Race’ is defined as: ‘common history, religion spiritual beliefs, culture, biological origins and physical similarities’ (Tas Dams, per Brennan J); ‘all that makes up personality and identity of people of a race’ (Tas Dams, per Deane J).
+      - (ii) Second Requirement: the law must be ‘special’
+        - A self-proclaimed ‘special law’ preserving archaeological relics was validly enacted under s51(xxvi) where it ‘benefited’ a particular race: Tasmanian Dams, per Mason, Murphy, Brennan and Deane JJ.
+        - A law will be validly enacted pursuant to the race power when it confers ‘a benefit of special significance to a particular race’ (Aboriginal people): Native Title Act Case (1995), (6:1 majority);
+      - Kartinyeri v Commonwealth (1998):
+        - Gummow and Hayne JJ applied a literal interpretation of the race power and found that the provision did not contain any qualifications as to whether it could be used for the benefit or disadvantage of Aboriginal people. 
+        - In the absence of such qualifiers, a law will be ‘special’ or validly enacted under the race power where it either benefits or ‘disadvantages’ Aboriginal people. 
+        - In other words, the race power allows the Parliament to make racist laws. 
+        - This was the effect of Brennan CJ, Gaudron and McHugh JJ’s decision, which said that if the law was made under a s51 head of power, it can be unmade (regardless of any benefit or disadvantage).
+
+        - Gaudron J added a separate test that a disadvantageous law must be appropriate and adapted (proportionate). 
+        - But she did not apply this test to the obviously disadvantageous law made under the race power in the case at hand.
+        - Kirby J applied a purposive interpretation, concluding that the purpose of the race power is to permit special laws on the grounds of race but not so as to adversely and detrimentally discriminate against people of a particular race (i.e. it must not be disadvantageous). 
+        - He reasoned that most Australians thought that this was a key purpose of the 1967 referendum. 
+        - The spirit of that referendum, he said, would not allow a racist interpretation of s51(xxvi). He added that where the clause is ambiguous, it should be interpreted in accordance with international law and its instruments.
+    - External Affairs (s. 51 (xxix)):
+      - Sufficient connection test (for matters of mere geographic externality - test: does the law exhibit ‘the mere fact of externality’ (Horta v Cth (1994))?
+        - Alternatively, to satisfy the sufficient connection test we look to the rights, duties, obligations and privileges which it changes, regulates or abolishes; persons, places, matters or things: XYZ v Cth (2006) (or more often than not, the way in which the High Court has characterised factually similar legislation, under the external affairs power).
+        - OR
+        - Proportionality test (for matters including obligations, agreements, treaties – the Cth may simply enact any treaty obligation
+          - (Koowarta (1982) per Mason, Murphy and Brennan JJ; that has an ‘international character’: Tasmanian Dams (1983) per Mason, Murphy, Deane and Brennan JJ; unanimously accepted in Richardson v Forestry Commission (1988));
+      - Limits:
+        - The law lacks ‘sufficient specificity’: a regime prescribed by the treaty to direct ‘the general course’ of its implementation by signatories: Vic v Cth (ILO Case) (1996) Majority, or embodies vague sentiments;
+        - The law does not comply with the ‘conformity principle’: undermines the character of the international law: ILO Case, majority; (and thereby interferes with domestic legal rights in some way e.g. property rights) per Deane and Gaudron JJ (dissenting) in Richardson.
+        - The claimed treaty provisions on which the legislation relies are void or unlawful under international law: 
+          - Horta v Cth (1995); OR
+        - The Cth uses international law as a sham or circuitous device in order to rely on its plenary power under the external affairs power:
+          - Horta v Cth (1995).
+  - Step 1: Characterisation – Executive power
+    - There are four categories of executive power:
+      - 1. Prerogative power of the Crown (not examinable)
+      - 2. Nationhood power
+      - 3. Statutory power (not examinable)
+      - 4. Power to enter into contracts and spend money (not examinable)
+  - Characterisation - Specific heads of power
+    - Nationhood (ss. 61 and s. 51 (xxxix)):
+      - The power may only be exercised for the benefit of the people or nation? (Davis (1988)).
+      - A purposive power, so the test is whether the law is appropriate and adapted to a purpose which is of benefit to the people or nation.
+      - Laws potentially constituting a ‘benefit to the nation’ may include:
+        - National scheme for free medicine (First Pharmaceutical Benefits case (1945))
+        - Establishing regional social development councils to support social welfare activities through an Australian Assistance Plan (The AAP case (1975))
+        - Preserving the environment through World Heritage listing (Tasmanian Dam case (1983))
+        - Commemoration of Australia’s Bicentenary (Davis v Commonwealth (1988))
+        - Provision for a tax bonus to stimulate the economy during a fiscal emergency (Pape v Commissioner of Taxation (2009).
+      - Could apply to legislation concerning ‘physical property or artistic, intellectual, scientific or sporting achievement or endeavour’, things that are ‘part of the heritage distinctive of the Australian nation’, worthy of ‘protection, preservation or promotion’: Tasmanian Dam case (1983) per Deane J [252]
+      - Needs to be peculiarly adapted to the Commonwealth as a national polity, so may not apply to benefits which could readily be provided by the States (Pape).
+      - It would not authorise laws which are coercive, punitive or penal in purpose (Tasmanian Dams; Davis; Pape); unless those laws are to ‘maintain and protect’ the Cth (Sharkey; Pape).
+  - Characterisation - Executive Expenditure, ss81 & 83
+    - Executive expenditure (an ‘appropriation from the consolidated revenue fund’ and its expenditure, per ss81) must be done pursuant to law: s83
+    - Expenditure under the nationhood power:
+      - The nationhood power cannot be used to support such an expenditure because it is not an express s51 head of power (First Pharmaceutical Benefits Case; AAP Case per Mason J; Pape), UNLESS, the expenditure is ‘urgent’ and necessary to ‘avoid ... crisis’ or avert a ‘national emergency’ (Pape).
+    - Expenditure under other s51 heads of power:
+      - Executive expenditure will be valid if itemised in legislation, validly made under another s51 head of power: Williams [No 1]; Williams [No 2]; (e.g. the marriage power (s51(xxi) in The Marriage Equality Case).
+      - If constitutionally valid, such expenditure may nevertheless be subject to an administrative law remedy of ‘Wednesbury unreasonableness’: that the decision is ‘so outrageous in its defiance of logic or accepted moral standards that no sensible person who had applied his mind to the question to be decided could have arrived at it’ (Minister for Immigration and Citizenship v Li (2013)).
+  - Characterisation of a State Law
+    - What is the source of authority for the state law?
+    - Constitution Act 1902 (NSW), s5:
+      - ‘The Legislature shall, subject to the provisions of the Commonwealth of Australia Constitution Act, have power to make laws for the peace, welfare and good government of New South Wales in all cases whatsoever’.
+    - Plenary power clauses in other state constitutions: QLD, s9; Vic, s16; SA, s5; WA, s2; TAS, s10;
+    - This clause means that States possess power to make laws for their peace, welfare and good government, ‘as ample and plenary as that possessed by the Imperial Parliament’, extending to extraterritorial operation: Union Steamship Co of Australia Pty Ltd v King (1988) 166 CLR 1.
+    - Almost always valid, unless it interferes with judicial power (Kable) or purports to apply to the Commonwealth in its executive capacity (Cigamatic) or infringes the implied freedom of political communication (Brown); or is inconsistent with a Commonwealth law (s109).
+  - Step 2: Limits
+    - Separation of judicial power (Boilermakers’ principle, Kable principle)
+    - Intergovernmental immunities (Melbourne Corporation principle; Cigamatic principle)
+    - Trial by jury
+    - Freedom of religion
+    - Acquisition on just terms
+    - Implied freedom of political communication
+  - Separation of Judicial power
+    - 1. Judicial power of the Commonwealth may only be exercised by Ch III courts
+      - (Wheat Case, Alexander’s Case)
+    - 2. Ch III courts may only exercise judicial power (and ancillary non-judicial powers) (Boilermakers Case)
+    - Applying these principles requires consideration of:
+      - Whether judicial power is being exercised – thus, the definition of ‘judicial power’;
+      - Whether the same body also exercises non-judicial functions, such as determining policy, setting industry standards, drafting recommendations, etc.;
+      - Whether the requirements of judicial office under Ch III, such as tenure to age 70 years, are complied with.
+  - Judicial power – Ch. III
+    - So what is judicial power?
+      - 1. Binding and authoritative determination 
+        - (enforceable, albeit subject to appeal) – Brandy v HREOC (1995); Luton v Lessels (2002)
+      - 2. Of a controversy 
+        - (must be a ‘matter’; no advisory opinions) – Momcilovic v The Queen (2011)
+      - 3. Involving existing rights and duties between parties
+        - (as opposed to the creation of new rights and duties) – AG v Alinta (2008); ACMA v Today FM (2015)
+  - Judicial power – exceptions (Persona designata)
+    - An appointment to a position of persona designata (judges exercising executive power) will be valid if:
+      - i) The judicial officer accepts or consents to the appointment: 
+        - Grollo v Palmer (1995); and
+      - ii) The functions of the judicial officer are not incompatible with judicial functions and responsibilities:
+        - Grollo; Wilson v Minister for ATSI Affairs (1996)
+    - Incompatibility might arise where:
+      - i) the role requires a ‘permanent and complete’ commitment to the non-judicial function – diversion from judicial duties; or
+      - ii) the non-judicial functions compromise the capacity of the judge to exercise their judicial functions with integrity; or
+      - iii) the nature of the non-judicial functions might diminish public confidence in the integrity of the judicial function (see next slide on this point...): Grollo v Palmer (1995).
+    - A non-judicial function might impair or diminish public confidence in the integrity of the judiciary when:
+      - It involves a function that is closely connected with or part of the functions of the legislature or executive; OR
+      - The function will not be performed independently of the advice or wishes of the legislature or executive; OR
+      - Discretion will be exercised on political grounds: Wilson v Minister for ATSIA (1996)
+  - Separation of Judicial power – Kable principle
+    - There is no doctrine of the separation of powers entrenched in the State constitutions. 
+      - However, because the State courts are an integral and equal part of the judicial system set up by Ch III, it follows that no State or federal parliament can legislate in a way that might undermine the role of those courts as repositories of federal judicial power (Kable v DPP (1996)).
+    - Thus, State courts cannot be invested with functions that are incompatible with the exercise of federal judicial power.
+    - Required characteristics of ‘institutional integrity’ of State courts:
+      - The reality and appearance of decisional independence and impartiality (Kable; South Australia v Totani (2010))
+      - The application of procedural fairness (International Finance Trust Co v NSW Crime Commission (2009))
+      - Adherence as a general rule to the open court principle; however, there are a number of situations in which closed court, ex parte hearings and reliance on confidential information are permissible, including where the court retains the capacity to stay an application (Condon v Pompano (2013))
+      - The provision of reasons for the courts’ decisions (Wainohu v NSW (2011))
+      - The capacity to review a decision on the basis of jurisdictional error (Kirk v Industrial Court of NSW (2010)).
+  - Judicial Power – Examples of the Incompatibility Doctrine in Action
+    - Legislation provided that:
+      - ‘The Court must make an order if particular conditions exist’ in ex parte matters - the lack of discretion in hearing and determining ex parte applications from the executive attracted the principle: 
+        - International Finance Trust Company v NSW Crime Commission (2009);
+      - ‘The Magistrate’s Court must make a control order after the AG declares an organisation to be involved ‘serious criminal activity’ - lack of discretion attracted the principle: 
+        - SA v Totani (2010);
+      - ‘The Court may declare certain evidence to be admitted against a defendant in secret (a ‘criminal intelligence’ declaration)’ – retained judicial discretion, did not attract the principle: 
+        - Condon v Pompano (2013);
+      - The Court had discretion to find that somebody had associated with or was a ‘participant’ in a criminal organisation, following an executive declaration that an organisation was ‘criminal’ - did not interfere with judicial discretion to find that somebody - courts retained judicial discretion: 
+        - Kuczborski v QLD (2014);
+      - That a Court must make a declaration that a person was a ‘drug trafficker’ upon finding that they had committed three-prior drug offences – the discretion to find three prior offences did not attract the principle: 
+        - AG(NT) v Emmerson (2014);
+      - Police may arrest and detain a person for 4 hours – punitive executive detention did not attract the principle: 
+        - NAAJA v NT (2015).
+  - Intergovernmental immunities - Melbourne Corporation principle
+    - There is a presumption of Cth legislative supremacy over the States: Engineers (1920); Tas Dams (1983).
+    - BUT the Melb Corp doctrine applies in respect to Cth laws that burden the States. 
+    - This doctrine is premised upon ss. 107 + 108 which preserve the power of State Parliaments: per Dixon J, Melbourne Corp (1947).
+    - Two Limbs: 
+      - i) Does the Cth law discriminate against a State AND
+      - ii) Does the Cth law inhibit; or impair the ability of a State to function?;
+    - Exception: ‘rational discrimination’ – where the Cth law is intended to discriminate against a state for a rational purpose: (Melb Corp v Cth (1947); QEC v Cth (1985));
+    - New Test (incorporating previous limbs): 
+      - is there a significantly sufficient impairment of the exercise by the State of its freedom to select the manner and method for discharge of its constitutional functions? (Austin v Cth (2003))
+    - French CJ’s indicia of Melbourne Corp interference from Clarke v Fed Cmr of Taxation (2009):
+      - i) Singles out one or more States for special burden or disability.
+      - ii) A law of general application or does it impose a particular burden or disability.
+      - iii) Inhibits the States from exercising their constitutional powers.
+      - iv) Inhibits the States from exercising their functions.
+      - v) Nature of the capacity or functions affected.
+      - vi) Subject matter of the law and its permissibility considering the head of power (e.g. Tas Dams –external affairs, and arguably, defence power).
+  - Intergovernmental immunities - Cigamatic principle
+    - There is a presumption of Commonwealth legislative supremacy over the States: Engineers (1920); Tasmanian Dam (1983).
+    - The Cigamatic principle provides that States have no power to alter the legal relationships existing between the Commonwealth and its subjects (the States cannot bind the Cth). 
+      - This is derived from the notion of Commonwealth supremacy by virtue of ss 109 and 5 of the Constitution (Commonwealth v Cigamatic (1962)).
+    - However, there is a qualification: 
+      - States have no power to impair the capacities of the Commonwealth executive (defined to mean the rights, powers, privileges and immunities of the Crown (prerogatives)), but State law of general application may regulate the Commonwealth's activities when it is acting as an ordinary legal person (Residential Tenancies Tribunal case (1997)).
+    - Thus, Commonwealth and its officers/employees may be bound by: 
+      - State criminal law, e.g. road licence requirements (Pirrie v McFarlane (1925)), or 
+      - State tenancy laws (Residential Tenancies Tribunal case).
+  - Trial by Jury: s80 – a limitation
+    - Guarantees trial by jury for indictable, Commonwealth offences: Archdall (1928);
+    - The Cth determines whether an offence shall be tried on indictment: Kingswell (1985);
+      - Note: offences punishable by over 12 months imprisonment are indictable, unless otherwise prescribed: Crimes Act 1914 (Cth), s4G.
+    - Where s80 applies, it is mandatory and cannot be waived: Alqudsi (2016);
+    - S80 requires jury unanimity for a conviction: Cheatle (1993);
+    - S80 requires a minimum of 10 jurors, but no maximum: Brownlee (2001); Ng (2003)
+  - s. 116 Freedom of Religion – a limitation
+    - The express freedom of religion contains four limbs:
+      - 1. No Establishment of religion – the ‘Establishment clause’
+      - 2. No Imposition of Religious observance – the ‘Religious observance clause’
+      - 3. No Prohibiting Free Exercise – the ‘Free exercise clause’
+      - 4. No religious test for public office – the ‘Religious test clause’
+  - s. 116 Freedom of Religion: Interpretation by the HCA
+    - Definitions of religion: 
+      - ‘belief in a supernatural being, thing or principle’ etc: Scientology Case; AND recognised ‘canons of conduct’: Jehovah’s Witnesses Case.
+    - 1. ‘Establishment’ limb: s. 116 only prohibits laws that expressly seek to establish a single state religion (government funding to religious schools is acceptable): 
+      - DOGS Case (1981);
+    - 2. ‘Religious observance’ limb never tested;
+    - 3. ‘Prohibition’ limb: the freedom only limits laws that expressly prohibit religion; and not when authorised by other heads of power (e.g. defence power; territories power): Kryger (1912); Jehovah’s Witnesses Case (1943); Kruger (1996).
+    - 4. ‘Religious test for public office’ limb: religious qualifications are acceptable if the officeholder is employed by an intermediary/contractor: Williams (No. 1)
+  - Acquisition of property on just terms – section 51(xxxi)
+    - Subject matter power, so test is whether the law has a sufficient and substantial connection with an acquisition of property.
+    - Note:
+      - Though a head of power, it also contains a limitation: the requirement of just terms.
+      - Only applies to an acquisition for a purpose in respect of which the Parliament has power to make laws. 
+        - This means that acquisitions conventionally require dual characterization under another s51 head of power.
+    - 1. Is there property?
+      - ‘Property’ is a general term, meaning ‘any tangible or intangible thing which the law protects under the name of property’ (Minister of State for the Army v Dalziel (1944).
+      - It ‘extends to innominate and anomalous interests and includes the assumption and indefinite continuance of exclusive possession and control for the purposes of the Commonwealth of any subject of property’ (Bank Nationalisation Case (1948).
+    - 2. Is there an acquisition? (TWO views)
+      - There is a broad view which tends to confirm a s51(xxxi) acquisition and, in the absence of just terms, this renders the acquisition invalid:
+        - Partial acquisition is sufficient & Cth itself need not acquire an interest: PJ Magennis v Cth (1949)
+        - Cth need not acquire a proprietary right, an ‘identifiable and measurable advantage’ or mere ‘benefit’ will suffice: Deane J (Tas Dams); a proprietary right lost but not gained by the Cth will suffice: Newcrest (1997); advantage or benefit: Smith v ANL (2000);
+        - A right to sue can be proprietary: Georgiadis;
+      - There is narrow view which tends to deny a s51(xxxi) acquisition and, in the absence of just terms, renders the Cth’s interference with or taking of property valid:
+        - Cth must acquire a proprietary interest, rather than a mere deprivation (Restrictions on property use – not proprietary
+          - Tas Dams (1983) (Plurality); 
+          - WMC Resources (1998); (Intellectual property regulation through tobacco advertising is not proprietary) 
+          - JT International v Cth (2012); (compound property/acquisition view);
+        - Statutory benefits are not proprietary, since inherently susceptible to alteration or repeal: 
+          - Peverill (1994);
+        - Incidental and punitive acquisition: 
+          - No s51(xxxi) acquisition where acquisition is incidental to another HOP (often for the purposes of punishment): 
+            - Re DPP; 
+            - Ex parte Lawler (1994) (s51(x) punishment); 
+            - Theophanous (2006) (s51(xxxvi) punishment); 
+            - Emmerson (2014) (NT Self-Govt Act- criminal punishment); 
+            - Nintendo (1994) (s51(xviii) regulatory laws);
+            - Compass Airlines Case (1999) (s51(i); s51(xxix) lien /fee for services)
+    - 3. Have just terms been paid?
+      - Determining what is just and fair by looking at all the interests involved, i.e. community and government interests rather than simply market value (Nelungaloo v Commonwealth (1948); or
+      - Fully compensating the owner of the property at market value (Smith; Georgiadis) (suggested by textbook).
+      - ‘Reasonable’ compensation as determined by courts or tribunals, may qualify as just terms (Wurridjal v Commonwealth (2009)
+  - Implied Freedom of Political Communication
+    - The implied freedom is derived from ss. 7, 24, 64 & 128 of the Constitution: 
+      - Lange v ABC (1997);
+    - It is a constitutional limitation on the power of all three branches of government;
+    - It is not a personal right or ‘sword’ permitting free speech to be asserted by individuals against all and sundry, but rather, a limitation on, immunity or ‘shield’ against government action that interferes with citizens’ ability to communicate about political issues: Lange.
+    - Two alternative tests:
+      - Test from Lange v ABC (1997) modified by Coleman v Power [2004] HCA 39:
+        - i) Does the law burden freedom of communication about government or political matters, either in its terms, operation or effect?
+        - ii) Is the law reasonably appropriate and adapted to serve a legitimate end in a manner which is compatible with the maintenance of representative government?
+      - OR, the new test from McCloy v NSW (2015), per French CJ, Kiefel, Bell and Keane JJ:
+        - i) Does the law burden the freedom (of comm. about govt & politics)?
+        - ii) Is its purpose legitimate and compatible with representative government?
+        - iii) Is the law reasonably appropriate and adapted to advance a legitimate object (proportionality)? (three steps: 
+          - suitability (rational connection to purpose); 
+          - necessity (obvious and compelling alternatives); 
+          - balance (value judgment re public purpose)).
+    - 1. Does the law “burden” communication on government and political matters in its terms, operation or effect?
+      - Freedom applies to restrict both Federal and State legislative power: 
+        - Unions NSW v NSW (2013)
+      - Protected “communication” includes non-verbal communication and protest:
+        - Levy v Victoria (1997) 189 CLR 579; 
+        - Brown v Tasmania [2017] HCA 43
+      - Protected “communication” may be offensive, critical, untruthful: 
+        - Coleman v Power (2004) 220 CLR 1; 
+        - Monis v The Queen (2013)
+      - Government and Political matters include:
+        - Matters relevant to state, as a well as federal elections: 
+          - Unions NSW;
+        - Potentially, it even includes the conduct of foreign governments: 
+          - Lange v ABC
+        - Conduct of officers of the C’th and the States: 
+          - Coleman v Power (2004)
+        - A permissive/broad approach to what constitutes a communication on Government and political matters.
+      - Government and Political matters do not include:
+        - Discussion of the judiciary, not connected with legislative or executive action:
+        - Herald & Weekly Times v Popovic (2003)
+        - Commercial advertising: 
+          - APLA v Legal Services Commissioner (NSW) (2005)
+        - Private communications about moral and ethical choices: 
+          - Clubb v Edwards (2019)
+      - “Burdens” may be indirect:
+        - Laws restricting political donations burden the freedom because they limit funds available to meet the costs of political communication by the recipient: 
+          - Unions NSW; 
+          - McCloy v NSW [2015].
+        - Potentially could include burden on speech by the act of donation itself
+    - 2. Does the law serve another legitimate purpose compatible with the system of “representative and responsible government” prescribed by the Constitution?
+      - The application of the “compatibility test” in McCloy:
+        - "A legitimate purpose is one which is compatible with the system of representative government provided for by the Constitution; which is to say that the purpose does not impede the functioning of that system and all that it entails. So too must the means chosen to achieve the statutory object be compatible with that system" - French CJ, Kiefel, Bell and Keane JJ;
+      - “Legislative regulation of the electoral process directed to the protection of the integrity of the process is, therefore, prima facie, legitimate.”: McCloy.
+    - 3. Is the law “reasonably appropriate and adapted” to advance that legitimate object? I.e. is it “suitable”, “necessary” and “adequate”.
+      - Application of the “proportionality test” in McCloy:
+        - Suitability - “...contributes to the realisation of the statute's legitimate purpose ... a rational connection between the provision in question and the statute's legitimate purpose”;
+        - Necessity – “availability of other, equally effective, means of achieving the legislative object which have a less restrictive effect on the freedom and which are obvious and compelling...’; and
+        - Adequate in its balance -“compares the positive effect of realising the law's proper purpose with the negative effect of the limits on constitutional rights or freedoms. It requires an "adequate congruence ... consideration of the importance of the purpose and the benefit sought to be achieved” - French CJ, Kiefel, Bell and Keane JJ.
+  - Step 3: Inconsistency of laws, s109
+    - s 109 of the Constitution: where there is an inconsistency between a Commonwealth and State law, the Commonwealth law shall prevail to the extent of the inconsistency.
+    - S 109 generally applies where there are two laws (State and Federal) which are in conflict. 
+      - Not to be confused with disputes over federalism where a single law of either the Commonwealth or a State discriminates against or affects the other in some material way. 
+      - Nevertheless, where the cover field test applies because the fields are clearly different, there may also be a Melb Corp or Cigamatic issue. 
+    - For there to be inconsistency, there must be a valid state law and a valid federal law, otherwise s. 109 does not apply. 
+      - Hence the reason s109 issues are resolved last.
+  - s. 109 – Tests of Inconsistency (apply all)...
+    - 1. DUAL or SIMULTANEOUS OBEDIENCE TEST - Where it is impossible to obey both laws (must vs must not, conflict) – a form of direct inconsistency; 
+      - R v Brisbane Licensing Court; Ex parte Daniell (1920) 
+      - (eg QLD law: referenda must be held on same day as senate elections / Cth law: said they must not).
+    - 2. RIGHTS AND DUTIES or CONFERRAL OF RIGHTS TEST – One law confers rights and the other modifies it – usually possible to obey both (can vs can albeit differently, conflict) – a form of direct inconsistency; 
+      - Clyde Engineering Co Ltd v Cowburn (1926); (eg NSW law: 44 hr week / Cth law: 48 hr week); 
+      - Colvin v Bradley Brothers Pty Ltd (1943).
+    - 3. COVER THE FIELD TEST - Where the Cth expresses a legislative intention to ‘cover the field’ (all the law there is on a particular topic) – a form of indirect inconsistency, (‘cover the field test’ much broader and no real tangible conflict required): 
+      - Clyde Engineering Co Ltd v Cowburn (1926); 
+      - Victoria v Cth (The Kakariki) (1937); 
+      - Wenn v AG (VIC) (1948).
+  - ‘Cover the field’ test: Wenn v AG Victoria (1948)
+    - i) What is the field(s)? (suggested by each law’s characterisation)
+    - ii) Does State law enter into the field? – two approaches…
+      - Wide approach to the field: both laws regulated slaughter of stock for export: O’Sullivan v Noarlunga Meat (1954) – Cth law prevailed;
+      - Narrow approach to the field: 
+        - each law regulated different aspects of air travel (navigation vs air transport industry):
+          - Airlines of NSW v NSW (No 2) (1965); 
+          - each law occupied a different field (discrimination / industrial law): 
+            - Ansett v Wardley (1980) (Stephen J) – both laws co-existed;
+      - Laws are less likely to overlap when they concern different subject matters: 
+        - Wardley (1980), Stephen J (Commercial Radio Coffs Harbour (1986).
+    - iii) Cth intention to cover it?
+    - (a) Is there an express intention to cover the field – if yes, the Cth law prevails (Wenn);
+    - (b) If no express intention, an intention to cover the field may be implied from the breadth, exhaustive nature and detail of the Cth legislation (Workchoices (2006)) and inferred on that basis (Ex parte McLean (1930);
+    - (c) If no express intention – i.e. the Cth law is not very detailed, there may be an express intention to avoid inconsistency (a ‘rollback mechanism’) (e.g. Metwally (1984) – although this particular case failed on the basis of a retrospective rollback mechanism), in which case, both State and Cth laws may co-exist;
+    - (d) If no express intention, does the subject matter require uniformity? (eg currency; standard measures; copyrights; collisions at sea; military preferences; destruction of Cth property: Blacklock’s Case (1974))
+    - (e) If no express intention and the State law undermines the Cth law, the Cth law prevails. 
+      - If it does not undermine Cth law, both co-exist.
+- Exam Questions
+  - Tribunal - ch 3 powers
+    - CAN THEY give fines
+  - Punitary
+  - Oilermakers
+  - Topic Order
+    - Judicial Power
+      - oilermakers
+    - Seperation
+      - Persona designata
+    - Intergovernmental immunities
+    - Meh - trial by jury - don’t spend much time
+

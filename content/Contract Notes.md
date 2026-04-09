@@ -1,0 +1,5094 @@
+#tag-notes #tag-tutorial
+
+Contracts
+- When is a statement a term of a contract?
+  - General Principles 
+    - Statement: 
+      - Any oral or written precontractual statement
+    - Representor:
+      - Person who makes a statement
+    - Representee:
+      - Person whom a representor makes a statement
+  - Signature
+  - Notice 
+  - Prior dealings
+  - Simple scenario
+    - All express terms in an accepted offer
+  - Contract elements
+    - Puff
+      - Exaggerated sales talk
+    - Representation 
+      - Induce contract
+      - Not intended to be in contract
+      - Representation def
+        - a statement that induces a party to enter into a contract but isn't a contractual promise
+    - Term
+      - Intended to be in contract.
+      - Often promissory.
+      - Term definition
+        - any clause or provision in a contract.
+    - Term
+      - Contractual damages
+      - Specific performance
+    - {Mis}Representations
+      - Rescission
+      - Damages in tort
+      - Statutory damages
+- Five key indications of statements being terms or conditions
+  - Timing
+    - Oceanic Sun Line Special Shipping Company lnc v Fay (1988) 165 CLR 197
+      - 'It was too late after the original contract was made to add conditions which were not incorporated in it. 
+    - Anything before contract is signed is admissable
+  - Language
+    - Oscar Chess Ltd v Williams [1957] 1 WLR 370
+  - Expertise
+    - Expertise of representor may indicate a pre-contractual statement is intended as a term.
+    - Someone in a position to guarantee the truth of a statement more likely to intend contractual liability for it.
+    - Oscar Chess Ltd v Williams [1957] 1 WLR 370
+      - Williams sold a '1948 Morris 10 Saloon' to Oscar Chess for lbs 290.
+      - Williams had represented that the car was a 1948 Model Morris based on registration book.
+      - Car was a 1939 model worth lbs 175.
+      - Did Williams promise that the car was a 1948 model?
+        - Did not have personal knowledge
+        - Was relying on the rego book 
+        - Therefore not likely liable
+  - Importance
+    - No defined meaning:
+      - Necessary for the contract to function.
+      - Objectively important to the representee or representor.
+    - Van Den Esschert v Chappell [1960] WAR 114 
+      - whereby a buyer ask the house seller if the house was affected by termites before signing a contract to purchase a house. 
+  - Form
+    - Statements recorded in writing more likely to be intended to be terms. 
+      - Specially if the form of the document is clearly contractual.
+    - Signature 
+  - Notice
+    - Equuscorp Pty Ltd v Glengallan Investments Pty Lt (2004) 218 CLR 471
+      - Respondents borrowed money from Rural Finance to invest in Equuscorp's project.
+      - Signed formal loan agreements.
+      - Trial judge found that Rural had orally promised 'limited recourse' before the respondents signed. 
+      - Oral promise not in loan documents
+        - Was the oral promise an enforceable term?
+          - collateral agreement (made in consideration of the parties later executing the written agreement)
+          - But that cannot be so here. 
+            - The oral limited recourse terms alleged by the respondents contradict the terms of the written loan agreement.
+- Apply the BP Refinery test (all 5 conditions) when implying a term into a formal contract.
+  - Implied term interpretation construction loosley:
+  - Formal term interpretation construction strictly:
+    - (1) it must be reasonable and equitable; 
+    - (2) it must be necessary to give business efficacy (got to make it work) to the contract, so that no term will be implied if the contract is effective without it; 
+    - (3) it must be so obvious that "it goes without saying"; 
+    - (4) it must be capable of clear expression; 
+    - (5) it must not contradict any express term of the contract.' 282-3 (Lord Simon of Glaisdale for the majority)
+- Koompahtoo Local Aboriginal Land Council v Sanpine Pty Ltd (2007) 233 CLR 115
+  - ‘... a right to terminate arises in respect of: 
+    - (1) breach of an essential term; 
+    - (2) breach of a non-essential term causing substantial loss of benefit; or 
+    - (3) repudiation (in the sense of “renunciation”). 
+    - The common thread uniting the three categories is conduct inconsistent with the fundamental postulate of the contractual agreement.’
+- Laurinda Pty Ltd v Capalaba Park Shopping Centre Pty Ltd (1989) 166 CLR 623
+  - Repudiation test
+    - Would a reasonable person in the shoes of the innocent party clearly infer that the other party would not be bound by the contract 
+      - or would fulfil it only in a manner substantially inconsistent with that party's obligations and in no other way?’
+- ELEMENTS of discharge by doctrine of frustration
+  - Supervening event
+  - Radical change to contract
+  - Not caused by the fault of the parties
+  - Unforeseen
+- Leading Australian case: Codelfa Construction ELEMENTS of misrepresentation
+  - Actionable representation:
+    - 1. False pre-contractual statement of past/present fact (not an opinion or statement that something will happen);
+    - 2. Made by the defendant to induce the plaintiff into the contract;
+    - 3. Which in fact induces the plaintiff into the contract (reliance).
+  - TYPES AND REMEDIES
+  - THREE TYPES
+    - Innocent
+    - Fraudulent
+    - Negligent
+    - The type determines whether damages are available in addition to rescission.
+    - Only fraudulent and innocent assessed in this subject.
+  - FRAUDULENT MISREPRESENTATION / DECEIT
+    - Common law allows rescission for fraudulent misrepresentation.
+    - Remedy
+      - Plaintiff can choose:
+        - 1. Rescission (Restoration to pre-contractual position) or
+        - 2. Damages (Affirm the contract and sue in tort of deceit).
+  - Magill v Magill (2006) 226 CLR 551
+    -  The modern tort of deceit will be established where a plaintiff can
+      - show five elements of deceit: 
+        - first, that the defendant made a false representation; 
+        - secondly, that the defendant made the representation with the knowledge that it was false, or that the defendant was reckless or careless as to whether the representation was false or not
+        - thirdly, that the defendant made the representation with the intention that it be relied upon by the plaintiff; 
+        - fourthly, that the plaintiff acted in reliance on the false representation; and 
+        - fifthly, that the plaintiff suffered damage which was caused by reliance on the false representation.
+    - Derry v Peek (1889) 14 App Cas 33
+      - ‘... if fraud be proved, the motive of the person guilty of it is immaterial.
+  - INNOCENT MISREPRESENTATION
+    - Redgrave v Hurd (1881) 20 Ch D 1
+      - Where the defendant honestly believed the statement was correct / was not aware that it was false.
+    - Rescission is the only remedy for innocent misrepresentation – no damages.
+    - Innocent misrepresentation is the “default finding”. 
+      - The plaintiff has the onus of proving any fraud or negligence.
+    - Remedy = rescission of the contract.
+- ELEMENTS of Non Est Factum
+  -  Legal instrument (contract, deed, etc) signed by a party;
+  -  Signer unable to read/understand the instrument
+  -  Signer:
+    -  Subjectively mistaken about the legal effect of the instrument; or
+    -  Unable to comprehend the legal effect of the instrument.
+  -  When claiming against innocent 3Ps: the signer was not careless.
+  - Did the signer’s mind “go with the pen”?
+- Two forms of unfair pressure recognised at general law:
+  - 1. Duress (common law)
+    - two elements of duress:
+      - 1. pressure amounting to compulsion of the will of the victim; and
+      - 2. the illegitimacy of the pressure exerted
+  - Duress involves illegitimate pressure amounting to compulsion
+  - 2. Undue influence (equity)
+    - Plaintiff might be capable of looking after own interests, but is subject to (elements of undue influence):
+      - pressure
+      - influence
+      - manipulation
+      - misinformation
+    - such that the plaintiff cannot be said to have exercised free will.
+  - Undue influence involves a skewing of free will but not necessarily through illegitimate means.
+    - Unconscionable conduct involves taking advantage of a vulnerable party; often considered an extension or subset of undue influence.
+- Undue influence + unconscionable conduct
+  - Facts suggest that plaintiff:
+    - was at a special disadvantage vis-a-vis the defendant; AND
+    - influence was applied by the defendant such that the plaintiff did not exercise his or her own free will.
+    - D must show signing is fair, just, and reasonable
+- Undue Influence
+  - Johnson v Buttress (1936) 56 CLR 113
+    - ‘The jurisdiction of a court of equity to set aside gifts [and contracts] inter vivos which have been procured by undue influence is exercised where
+      - 1. undue influence is proved as a fact, or [‘actual undue influence’]
+      - 2. where, undue influence being presumed from the relations existing between the parties, the presumption has not been rebutted.’ [‘presumed undue influence’]
+  - Duress vs Undue influence
+    - The defense of duress exists to protect against contracts that are obtained by some type of threat or coercion. 
+    - The defense of undue influence exists for a more specialized role, to protect against assent obtained by unfair persuasion.
+
+# 
+
+# Week 1: cases and Materials 
+
+# Subject overview diagram
+
+
+
+- Contract formation
+  - Agreement
+  - Consideration - something of value
+    - Consideration is a promise, performance, or forbearance bargained by a promisor in exchange for their promise.
+  - Certainty - intended enforcement
+  - Intention to create legal relations
+- Agreement - offer + acceptance
+  - A contract can be made without an identifiable offer and acceptance, provided the parties have manifested their mutual assent
+  - Acid test
+    - Offer and acceptance cannot be identified
+    - Reasonably shown that the dealings present a “concluded bargain”
+    - Meates v Attorney-General [1983] NZLR
+      - reviewed by Heydon JA in Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA
+        - Must ask 
+          - whether an agreement can be inferred
+          - Whether mutual assent manifested
+          - Whether reasonable position of each party would believe there was a concluded bargain
+  - Offer
+    -  manifestation of willingness to enter into a bargain
+  - Gibson v Manchester City Council 
+    - 1970 Change of government during gibson purchasing freehold title to council housing
+      - Tried to remove this idea, said no binding agreement
+      - Gibson completed an application form, said there was a contract after valuation
+      - Judge upheld gibson as open contract
+      - Appeal - dissent held that it was a negotiating step for contract, owing to the change in the political complexion of the council, never reached fruition.
+      - Words used in valuation to sell are “may be prepared to sell” and not, to accept the offer, 
+        - but “to make formal application to buy” upon the enclosed application form.
+        - “This letter should not be regarded as a firm offer of a mortgage.”
+      - However, gibson after correspondence replied with
+        -  “carry on with the purchase as per my application already in your possession
+  - Carlill v Carbolic Smoke Ball Company [1892] EWCA Civ 1
+    - Defendant created “Carbolic Smoke Ball” - ads 
+      - prevent colds and influenza. 
+        - “£100 reward will be paid by the Carbolic Smoke Ball Company to any person who contracts the influenza after having used the ball three times daily for two weeks according to the printed directions supplied with each ball.”
+      - LINDLEY LJ
+        - when an offer is made, it is necessary in order to make a binding contract,
+          - not only that it should be accepted
+          - but that the acceptance should be notified
+        - This offer is continuous and never revoked, no notification necessary, all elements necessary to form binding contract
+          - However vagueness of language shows that a legal promise was never intended
+        - Judge is interpreting the offer as correct usage + getting influenza or cold or other diseases caused by taking cold within a reasonable time after so using it
+          - distinct inconvenience, not to say a detriment, to any person who so uses the smoke ball. There is effort involved
+        - nudum pactum
+          - No consideration
+      - Bowen LJ
+        - Asks how long afterwards you can claim that you contracted the disease after use, not forever
+        - Contract is not with the whole world, it is an offer to the world, contract is with those who perform 3 balls daily 2 weeks. 
+        - Should not need to notify offerer to accept, if you lose dog and put poster, you don’t need to write to confirm acceptance in searching for dog - conduct
+        - Consideration defined in Selwyn’s Nisi Prius (8th ed), p 47, which is cited and adopted by Tindal CJ, in the case Laythoarp v Bryant (1836) 2 Bing (NC) 735; claim made by the promisor that he was not bound under the former contract would not 
+        - have succeeded had the issue been litigated: Callisher v Bischoffsheim (1870) LR 5 QB 449; Miles v New 
+        - Zealand Alford Estate Co (1886) 32 Ch D 266
+        - once suffered by the plaintiff, with the consent, either express or implied, of the defendant
+          - Inconvenience (using balls) sustained by one party at the request of the other is enough to create a consideration
+          - Defendant received benefit from user 
+- Types of contracts
+  - Formal 
+    - Deed
+    - Contract under seal
+  - Simple
+    - Any legally binding agreement not a deed
+      - Can be
+        - Oral
+        - Written
+        - Oral + written
+      - Can be any complexity
+      - No signature or witnesses necessary
+      - Need consideration
+  - Bilateral
+    - Mutual exchange of promises
+    - Consisting of executory obligations - future
+  - Unilateral
+    - No exchange of promises, it’s a request in exchange for reward
+    - Offerees consideration is executed when contract forms. 
+
+
+  - Invitation to treat: 
+    - An indication by a person that they are open to receiving and considering offers.
+    - Advertisement, don’t have one for every person in the world
+  - Offer: 
+    - A clear statement by the offeror of intention to be bound to certain proposed terms, if the offeree accepts.
+  - Offeree: 
+    - The person to whom an offer is made.
+  - Offeror: 
+    - The person who makes an offer.
+  - Puff: 
+    - Exaggerated sales talk. Not intended to be legally binding.
+  - Shop Displays
+    - Invitation to treat
+    - Customer offers to purchase
+    - Shop agrees to sell
+  - Auctions
+    - Invitation to treat
+    - Bid offer to buy
+  - Tenders
+    - Call for tenders
+      - Invitation to treat
+    - Tender submitted
+      - Offer to accept
+    - Accept tender
+- Termination of Offers
+  - Lapse
+    - Can be expressly stated
+    - Else lapsed after reasonable period - no test
+    -  Conditions/circumstances
+      - Condition not filled - then lapses - such as loan failure
+      - Material price changes
+      - Death often may cause an offer to lapse - but does not automatically close
+        - Was offer personal or could estate carry out
+  - Rejection
+    - Kills the offer
+    - Can be by words or conduct
+    - Failure to respond
+      - Implied rejection or 
+      - Offer lapses
+  - Revocation
+    - Promise to keep offer open
+      - Not enforceable unless
+        - Provided consideration for the promise
+        - Recorded in a formally executed deed
+      - Pay to keep open - options
+      - Unilateral contracts not traditionally cancellable once begun 
+        - Revoked in Mobil Oil
+
+
+- Case Summary (Small)
+    - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+      -  MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125 (High Court of Australia)
+    - Clarify the procedural history of the case.
+      - Appeal from the Supreme Court of Western Australia (found it was an agreement)- High Court 
+    - What the original dispute was
+      - Stamp duty (Stamp Act) purposes determine whether the ticket is an agreement or any memorandum of agreement, SCWA found it was an agreement
+    - Current reason for trial
+      - appeal
+    - Ascertain the material facts
+      - Normal airlines booking stuff, but airlines are allowed to simply cancel and refund but are not liable for failure to carry them, at the booked or scheduled time, or at all (like a train)
+    - State the issue raised by the material facts 
+      - Precedences
+        -  Hood v Anchor Line (Henderson Bros) Ltd [1918] AC 837
+          - whether a part of the ticket which had been issued by the steamship company formed part of the terms on which the actual carriage took place. 
+          - Had express wording to “carry”, different here
+        - Wilkie v London Passenger Transport Board [1947] 1 All ER 258 at 259 per Lord Greene MR
+        - Parker v South Eastern Railway Co (1877) 2 CPD 416 at 426–8 Bramwell L
+          - Judge held in 3 occasions that person had the right to read the conditions on the ticket before being bound by them.
+      - Tests
+        - doctrine of the formation of contracts 
+          - 
+      - Words and Phrases Considered
+        - agreement
+    - What each judge thought
+      - Barwick, CJ
+        - Airlines do not carry obligation or offer obligation to carry intending passengers
+        - the entitlement of the airline company to retain the prepaid fare is dependent on the actual performance of carriage.
+          - If not present but able to take you, may keep funds
+        - Not an agreement
+          - A ticket is just a receipt not a binding agreement until you get on the flight
+        - without the presence of these express provisions and in the absence of an express provision to carry, the ticket would not represent an agreement or a memorandum of agreement to satisfy the relevant portion of the schedule to the Stamp Act 
+      - Stephen, J
+        - Current appeal is whether offer was made and accepted already, or if to be offered later.
+        - Ticket is not the offer, but conditions are available to read before being bound by them on the ticket
+    - Identify the legal reasoning and the ratio of the case.
+      - doctrine of the formation of contracts 
+      - then it comes into existence, then record any existing agreement nor itself be an agreement; 
+      - Acceptance via conduct
+      - it will be no more than a written offer open for acceptance. Hence it is not dutiable as an “agreement or any memorandum of an agreement” for the purposes of the Stamp Act
+      - 
+    - Result
+      - Appeal allowed
+
+- Case Summary (Small)
+    - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+      -  Pharmaceutical Society of Great Britain v Boots Cash Chemists (Southern) Ltd [1953] 1 QB 401 (Court of Appeal)
+    - Clarify the procedural history of the case.
+      - Lord Goddard CJ - Court of Appeal
+    - What the original dispute was
+      - Two customers purchased rugs from pharmacist 
+    - Current reason for trial
+      - Appeal, do they have to sell everything in the store once it goes in the cart, as an offer has been made. 
+      - 
+    - Ascertain the material facts
+      - Pharmacy denied sale to user, State the issue raised by the material facts 
+      - Precedences
+        - Pharmacy and Poisons Act 1933 (UK)
+          - Need pharmacist for certain drugs
+      - Tests
+      - Words and Phrases Considered
+    - What each judge thought
+      - SOMERVELL, L
+        - Pharmacist can deny purchase to customer
+        - Contract not complete, like bookstore, until chosen items are purchased at front counter, with all items available for view
+      - BIRKETT LJ
+        - Shopkeeper does not have to unconditionally sell to anyone in the shop, they can put restrictions
+    - Identify the legal reasoning and the ratio of the case.
+      - Shopkeeper does not have to unconditionally sell to anyone in the shop, they can put restrictions
+    - Result
+      - Appeal dismissed
+# 
+
+- Case Summary (Small)
+    - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+      - Goldsbrough Mort & Co Ltd v Quinn (1910) 10 CLR 674 (High Court of Australia
+    - Clarify the procedural history of the case.
+      - Appeal from the Supreme Court of New South Wales. 
+    - What the original dispute was
+      - 
+    - Current reason for trial
+      - 
+    - Ascertain the material facts
+      - John Thomas Quinn signed a document to sell property, but before contract went through (within one week), John went against contract citing a mistake
+    - State the issue raised by the material facts 
+      - Precedences
+        - Bruner v Moore [1904] 1 Ch 305
+          - settled law that an option for value is not revocable during the period for which it is given
+        - South Wales Miners’ Federation v Glamorgan Coal Co [1905] AC 239 at 253 
+          - Breaking a contract is illegal and cannot offer to pay damages to escape
+      - Tests
+        - 
+      - Words and Phrases Considered
+        - 
+    - What each judge thought
+      - GRIFFITH CJ
+        - argues that in this case, the transaction is not merely an offer but a contract for valuable consideration, specifically to sell the property if the other party binds themselves within the time frame.
+        - concludes that the point raised by Quinn fails, and that a suit for specific performance in respect of the contract may be maintained, thus siding with the appellants.
+      -  O’CONNOR J: 
+        - Also views not an offer but a contract, but simultaneously may be an an option given for valuable consideration which could not be withdrawn,
+      -  ISAACS J: 
+        - Is an option;
+          -  a promise founded on valuable consideration to sell land on stated terms within a given time
+            - until the creation of a contract by acceptance in strict accordance with the stated conditions, could be withdrawn. 
+        - He has parted with the right to alter his mind for the period limited, and he cannot in breach of his contract be heard to say the contrary. 
+        - Current argument that he had not sold to the promisee on option, but only the promise to give an option, which would be absurd
+        -  the arrangement as two separate contracts. The first is a unilateral contract that the offer would last for a week (with the consideration being 5s), and the second is the final contract of sale that was created when the appellants accepted the offer.
+    - Identify the legal reasoning and the ratio of the case.
+      - the offer was irrevocable for the period agreed on, and this led to the creation of a contractual obligation to sell and purchase the land on the stated terms, which merits specific performance.
+    - Result
+      - Appeal sustained
+# 
+
+- Unilateral contracts
+  - Case Summary (Small)
+      - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+        - Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475 (Federal Court of Australia) 
+      - Clarify the procedural history of the case.
+        -  Appeal from Wilcox J. - FCA
+      - What the original dispute was
+        - Petroleum Retail Marketing Franchise Act 1980 
+          - Prevents one-for- one renewal 
+        - s 52 of the Trade Practices Act 1974 (Cth 
+        - Circle of Excellence for performance, 90%+ gets tenure, extra year in program
+        - Management change and Mobil will not grant free renewals, offer discount
+        - Wilcox found in favor of franchise renewals free
+      - Current reason for trial
+        - appeal
+      - Ascertain the material facts
+        - nine-year renewal of their franchise without cost (the “nine-for-six” proposal). 
+        - Simply promising to “find a way” to renew without cost if over 90, is not enough to warrant a contract
+        - providing plausible deniability for nine-for-six system 
+          - “we have more work to do”, 
+          - “where we’re at [499] the moment”, 
+          - “maybe”)
+        - Tear off slip, commitment to qualify for extra tenure
+          - Still likely not enough to give rise to contract
+        - Mobile revoked the offer before the first batch of 6 years was up, & no branch had completed 90% for all years
+        - Unilateral contract
+          - Offer of reward in return fo act
+      - State the issue raised by the material facts 
+        - Precedences
+          - Cheshire & Fifoot, The Law of Contract (2nd ed), pp 137–9; Carter & 
+          - Harland, Contract Law in Australia (3rd ed), pp 67–9; Abbott v Lance (1860) 2 Legge 1283; Daulia Ltd v 
+          - Four Millbank Nominees Ltd [1978] Ch 231; and Veivers v Cordingley [1989] 2 Qd R 278
+        - Words and Phrases Considered
+          - “we have more work to do”, 
+          - “where we’re at [499] the moment”, 
+          - “maybe”)
+          - Find a way
+          - commencing
+      - Identify the legal reasoning and the ratio of the case.
+        - The court found error in the trial judge's decision that Mobil was not at liberty to revoke its supposed offer, particularly since the franchisees did not fulfill the stipulated consideration (attaining 90% or better in Circle of Excellence judgings over six years). 
+      - Result
+        - The court also rejected the specific performance remedy and stated that damages should have been awarded instead, considering the lost opportunity for additional tenure.
+  -  Unilateral contract 
+    - one in which the act of acceptance of the offer is also an executed consideration for the promise offered. 
+    - One way promise (prize)
+  -  ancillary agreement, or ancillary contract,
+    - is any legal agreement established in addition to a pre-existing contract
+- ACCEPTANCE
+  -  Relationship between the offer and acceptance 
+    - To form contract, acceptance must be made in response to the offer. 
+      - Some debate in unilateral contract
+  - Case Summary (Small)
+      - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+        -  The Crown v Clarke (1927) 40 CLR 227 (High Court of Australia)
+      - Clarify the procedural history of the case.
+        - Supreme Court of Western Australia. - HCA
+      - What the original dispute was
+        - Claimed 1000 reward for murder charge info, but dispute is whether he did it to save himself (he was one of the parties charged with murder, but referred to someone else), or to receive the bounty. 
+        - Previous judge said he had not acted on the faith of or in reliance upon the offer made in the proclamation or with any intention of entering into any contract, but rather that he acted to save himself from the unfounded charge of murder. 
+      - Current reason for trial
+        - Crown appealed
+      - Ascertain the material facts
+        - 
+      - State the issue raised by the material facts 
+        - Precedences
+          -  Williams v Carwardine (1833) 4 B & Ad 621
+            - evidentiary force of motive
+          - General Accident Fire and Life Assurance Corp v Robertson [1909] AC 404 at 411
+          - Smith v Chadwick (1882) 20 Ch D 27 at 44,
+        - Tests
+          - 
+        - Words and Phrases Considered
+          - Clarke did not act on the faith of, in reliance upon, the proclamation
+      - What each judge thought
+        - ISAACS AC
+          - Clarke was specifically refuting the evidence against him and not actively targeting the reward when providing information.
+          - No acceptance of contract because he never mentioned or knew of it nor performance, so no contract.
+          - Obligatio = offer + acceptance of contract
+          - But acceptance is essential to contractual obligation, because without it there is no agreement, and in the absence of agreement, actual or imputed, there can be no contract 
+          - The controlling principle, then, is that to establish the consensus without which no true contract can exist, acceptance is as essential as offer,
+        -  HIGGINS J:
+          - Action based on misrepresentation
+            - If the defendant can establish that the plaintiff did not rely on the misrepresentation, the plaintiff fail
+            - Clarke did not act on the faith of, in reliance upon, the proclamation
+      - Identify the legal reasoning and the ratio of the case.
+        - But acceptance is essential to contractual obligation, because without it there is no agreement, and in the absence of agreement, actual or imputed, there can be no contract 
+        - The controlling principle, then, is that to establish the consensus without which no true contract can exist, acceptance is as essential as offer,
+        - Clarke did not act on the faith of, in reliance upon, the proclamation
+      - Result
+        - Appeal allowed
+  - Communication of acceptance 
+    - Silence and acceptance inferred from conduct
+      - Benefit without employment
+    - Case Summary (Small)
+        - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+          - Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523
+        - Clarify the procedural history of the case.
+          -  Appeal from Smart J - SCNSW
+        - What the original dispute was
+          - Empirnall retained architechts
+        - Current reason for trial
+          - appeal
+        - Ascertain the material facts
+          - Empirnall had admitted that the sum claimed was owing under an oral contract
+          - silent acceptance of an offer is generally insufficient to create any contract 
+            - external manifestation of assent to an offer.
+            - After reasonable period, silence as seen as rejection, not assent
+              - However bound if he dispenses with the need to communicate the acceptance of his offer.
+        - State the issue raised by the material facts 
+          - Precedences
+            - Felthouse v Bindley (1862) 11 CB (NS) 869 at 875; 142 ER 1037 at 1040.
+              - Silence alone is not acceptance
+            -  Laurel Race Course Inc v Regal Construction Co Inc 333 A 2d 319 (1975)
+              - Reasonable opportunity to reject, but still takes benefit he accepts the offer after reasonable time
+        - What each judge thought
+          - McHUGH JA:
+            - While silence alone is not an acceptance silence of an offeree in conjunction with the other circumstances of the case may indicate that he has accepted the offer. 
+            - knowing of the terms of the offer and the offeror’s intention to enter into a contract, he has exercised a choice and taken the benefit of the offer
+            - Empirnall relied on Mr Abrahams’ statement that “Eric (Mr Jury - director and major shareholder) does not sign contracts”
+            - However Empirnall has taken the benefit of the work with knowledge of the terms on which it was offered, due to letter sent by Machon that they were doing work
+        - Identify the legal reasoning and the ratio of the case.
+          - whether a reasonable bystander would regard the conduct of the offeree, including his silence, as signalling to the offeror that his offer has been accepted
+          - Nevertheless, the silence of an offeree in conjunction with the other circumstances of the case may indicate that he has accepted the offer. The offeree may be under a duty to communicate his rejection of an offer
+            - But more often than not the offeree will be bound because, knowing of the terms of the offer and the offeror’s intention to enter into a contract, he has exercised a choice and taken the benefit of the offer.
+        - Result
+          - Appeal dismissed
+- Case Summary (Small)
+    - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+      - Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153
+    - Clarify the procedural history of the case.
+      - Hodgson CJ Equity - SCNSW Appeal
+    - What the original dispute was
+      - Brambles, the defendant/ appellant, and the Council, the plaintiff/ respondent, entered into a contract for the defendant to manage the plaintiff’s Solid Waste Disposal Depot
+      - plaintiff sued the defendant in relation to the retained liquid waste fees. 
+        - Plaintiff won
+- Acceptance
+  - What is acceptance
+    - Unqualified assent to the terms of an offer
+  - Who may accept
+    - Must accept with knowledge of offer
+    - Must be meeting of the minds
+    - Motive is the reason for accepting the offer
+    - unconditional acceptance
+      - Subject to signing
+        - Not contract
+      - Deal but service and register before delivery
+        - Counteroffer, not contract
+    - Objective acceptance
+      - Acting as if accepted contract 
+    - Only parties to whom an offer has been made may accept
+      - Includes the world
+      - Must be aware of offer and respond
+  - Time and place
+    - Moment accepted by both parties
+    - Contract is not completed until acceptance of offer is actually communicated to the offerer
+    - Can be subject to jurisdiction of location offer was formed
+- How to accept
+  - Unilateral contracts
+    - May waive requirement that oferre communicate acceptance
+      - Take performance of request act as acceptance
+      - Carlill smoke bombs case
+  - Express
+    - Must communicate to oferrer directly or by authorised person
+  - Silence
+    - Offeror can’t stipulate that silence = acceptance
+      - Felthouse v Bindley
+      - Silence can mean
+        - Acceptance
+        - Rejection
+        - Offer not received
+        - etc
+  - Conduct
+    - While silence is not effective acceptance, offerre may accept by conduct
+    - May accept by conduct in unilateral contracts, and bilateral contracts
+- Form of acceptance
+  - Postal acceptance rule
+    - Acceptance is effective when the letter of acceptance is posted, not when received
+    - Dev. in 19th century
+    - Henthorn v Fraser [1892] 2 Ch 27
+      - Defendant offers to sell property, plaintiff returns to consider
+      - Defendant agrees to sell to third party
+      - Defendant posts revocation of offer
+      - Plaintiff posts acceptance of offer
+      - Plaintiff reads revocation of offer
+      - Revocation must be upon communication, not when sent through post
+    - Letter not received
+      - The Household Fire and Carriage Accident Insurance Co (Ltd) v Grant (1879)
+        - Defendant posted offter to purchase shares
+        - Plaintiff posted acceptance of offer
+        - Letter lost in the mail
+          - Not refecived by defendant
+    - Displacing the postal acceptance rule
+      - Tallerman & Co Pty Ltd v Nathan’s Merchandise (Vic) Pty Ltd (1957)
+        - The more urgent the case, more important that actual communication of acceptance is necessary
+      - Bressan v Squires [1974]
+        - Squires granted an option to Bressan to purchase land
+        - Bressan posted notice of exercise of option
+        - Squires received the notice after lapse by a day
+        - Found that actual notice was not received until after lapse date, not obliged to sell land
+    - Instantaneous communication
+      - Brinkibon Ltd v Stahag Stahlk und Stahl… mbH [1983] 2 AC 34
+      - General rule
+        - General rule of acceptance applies to instant communication
+      - What is instant
+        - Telephone
+          - Aviet v Smith & Searls Pty Ltd (1956) 73 WN (NSW) 274 
+        - Telex
+          - Brinkibon Ltd v Stahag Stahlk und Stahl… mbH [1983] 2 AC 34
+        - Fax
+          - Reese Bros Platics Ltd v Hamon-Sobelco Aust Pty Ltd (1988) 5 BPR 11, 106
+        - email	
+          - Olivaylle Pty Ltd v Flottweg AG (No 4) (2009) 2255 ALR 632
+
+# Week 2: Consideration
+
+- Consideration 
+  - The second element necessary for contract formation is consideration
+- Consideration Essential elements - Bargain theory authority on Consideration
+  - Case: Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424 (Privy Council); (1955) 93 CLR 546 (High Court of Australia)
+  - Jurisdiction: Privy Council; High Court of Australia
+  - Facts: Australian Woollen Mills Pty Ltd (AWM) claimed a unilateral contract arose from the Commonwealth government's wool subsidy scheme. 
+    - The scheme subsidized wool purchases for woollen product manufacturers after World War II to ensure low prices. 
+    - The Commonwealth promised subsidies to manufacturers buying domestic-use wool. 
+    - AWM purchased wool based on this promise but later repaid excess subsidies due to scheme discontinuation.
+  - Procedural History: AWM sued Commonwealth for recovery of repaid subsidies and unpaid subsidies on certain purchases
+  - Issue Raised: Whether the letters from Commonwealth constituted a binding offer to form unilateral contracts with manufacturers like AWM.
+  - Legal Reasoning and Ratio:
+    - The alleged contracts were of the unilateral type, with acceptance through performance.
+    - To establish a contract, the statement must be offered as consideration for an act, with a quid pro quo relationship between the statement and the act.
+    - In cases like these, the presence of an implied or express request by the alleged promisor is essential to determine the existence of an offer.
+    - The intention to create a legally enforceable duty must be present in the offer.
+    - An implied request can provide a useful test for determining a true offer and acceptance for contract formation.
+    - In this case, the letters from the Commonwealth were statements of policy, not contractual offers. The scheme was more administrative than contractual.
+    - The presence of a request does not automatically establish a contract; it depends on the intention to create an obligation.
+    - Consideration must be sufficient, not adequate
+      - (consideration definition).
+      - a contract should be a bargain supported by consideration in the nature of a quid pro quo
+  - Ratio
+    - ratio decidendi of Australian Woollen Mills Pty Ltd v Commonwealth is that the expenditure of money in reliance on an announcement by the government that it would pay a subsidy to a manufacturer on wool purchased and used for local manufacture is not itself sufficient to create a contract to pay the subsidy
+  - Result: The court dismissed AWM's claim, ruling that no binding contracts were constituted, and the Commonwealth's letters were statements of policy rather than contractual offers. The appeal was also dismissed by the Privy Council.
+- Beaton v McDivitt (1987) 13 NSWLR 162
+    - Split 25 acres
+    - Gave quarter land to “someone interested in the form of cultivation known as permaculture to work the block”
+    - Occupied land without payment - per agreement
+    - Dillwyn v Llewelyn - “an exception to the modern requirement that a contract should be a bargain supported by consideration in the nature of a quid pro quo”. (consideration definition).
+    - consideration must be satisfied in the form of a price in return for the promisor’s promise or a quid pro quo. 
+      - duties arising from bargains entered between free parties were to be enforced, not duties deriving from suggested moral obligations such as those deriving from relationships
+    - Private road maintenance is not enough to constitute a bargain between them/contract
+      - Gaining the land was not the purpose of the transaction
+  - Gift and ex post facto consideration 
+    - Not a gift, a license to the land
+  - Thomas v Thomas (1842)
+    - Consideration means something which is of some value in the eye of the law, moving from the plaintiff:
+  -  Currie v Misa (1875) LR 10 Exch 153 at 162
+    - A valuable consideration, in the sense of the law, may consist either in some right, interest, profit, or benefit accruing to one party, or some forbearance, detriment, loss, or responsibility, given, suffered, or undertaken by the other.”
+  - The contract
+    - Three situations
+      - a promise to transfer property subject to the occurrence of an event or condition
+        - promise will not be enforceable even if the event or condition [183] occurs. 
+      - a promise to transfer property after which the promisor allows the promisee to act to his detriment in reliance on the promise.
+        - equity may prevent the promisor insisting on his strict rights and may enforce the promise
+      - where the promise contains an express or implied request by the promisor to do an act or fulfill a condition
+  - Frustration
+    -  subdivision is not a legal impossibility; it is possible that in all the circumstances the council might permit the land to be subdivided to enable the title to lot B to pass to the plaintiff
+  - The duty to co-operate
+    - Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd (1979)
+      - The McDivitts have a contractual duty to do everything necessary on their part to enable the plaintiff to have the benefit of the contract
+  - MAHONEY JA: [175] In my opinion, the transaction between the parties constituted a contract
+    - rezoning was a condition subsequent to the contractual arrangements mad
+      - Rezoning was no a condition of the contract or that, if it was, the contract has been terminated by failure of it.
+- Adequacy OF CONSIDERATION 
+  - adequacy of consideration refers to its intrinsic value
+    - Adequate consideration vs sufficient or good consideration
+  - Woolworths Ltd v Kelly (1991) 22 NSWLR 189
+    - If courts were to entertain disputes concerning the adequacy, or inadequacy, of consideration for a bargain, and if such issues were justiciable, they would lead to litigation prone to open up a vast territory of evidence.
+    - Bargains are too uncertain
+    - Economic freedom from paternalistic courts
+- SUFFICIENCY OF CONSIDERATION 
+  - Past consideration
+    - Past consideration is not considered sufficient consideration. 
+      - Thus, if P performs an apparently gratuitous service for D and D later promises to pay P for that service, D’s promise will not be enforceable unless specifically agreed.
+  -  Roscorla v Thomas (1842) 3 QB 234
+    - The plaintiff bought a horse from the defendant. 
+    - After the sale was made, the defendant promised the plaintiff that the horse was sound and free from vice. 
+      - After the fact not held under warranty - past consideration
+- The existing legal duty rule
+  - General rule
+    - A promise to perform an existing contractual duty is not regarded as sufficient 
+      - Often in one-sided modification of an existing contract
+      - TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955)
+      - Hartley v Ponsonby
+        - Already had a duty to bring ship to destination
+  - Part payment of a debt
+    - The rule in Pinnel’s Case is that a promise to pay part of a debt will not constitute consideration for a promise to accept the payment in satisfaction of the debt.
+    -  if D owes C $10, C’s promise to accept $8 in full settlement of the debt will not, on its own, be contractually binding on C. D will not have provided good consideration for the promise.
+    - Case Summary: Foakes v Beer (1884) 9 App Cas 605 (House of Lords)
+      - Appeal Information: This was an appeal from the Court of Appeal.
+      - Facts:
+        - On 11 August 1875, Beer obtained a judgment against Foakes for a debt amounting to £2 090 19s.
+        - On 21 December 1876, a memorandum of agreement was made and signed by Foakes and Beer.
+        - This agreement specified that if Foakes paid £500 immediately and further installments of £150 on specified dates until the full sum was paid off, Beer would not proceed with the judgment.
+        - By June 1882, Beer took out a summons to proceed on the judgment, leading to a trial on the matter of the debt's status.
+        - It was determined at trial that Foakes had paid all required instalments but Beer claimed unpaid interest.
+        - Cave J found in favour of Foakes, believing Beer could not execute any sum due to the agreement.
+        - The Queen’s Bench Division upheld the decision. However, the Court of Appeal reversed it, favoring Beer's claim for the interest.
+      - Judgment (Earl of Selbourne LC):
+        - [610] Raised doubts about whether the agreement meant waiving the interest Beer was entitled to by law.
+        - [611] Stressed that the agreement could not be legally enforced against Beer unless there was consideration.
+        - The main question was whether paying a lesser amount than the full debt could be considered legal satisfaction for the whole debt.
+        - Referenced the doctrine stated by Sir Edward Coke in Pinnel’s case from 1602. According to this, paying a lesser amount could not satisfy a larger debt.
+        - The doctrine made a distinction between agreements under seal and those not under seal. The former is binding, while the latter requires consideration.
+        - [614] The creditor's benefit from getting part of their money does not serve as legal consideration.
+      - Other Lords (LORD WATSON, LORD FITZGERALD):
+        - Both concurred with Earl of Selbourne LC's conclusions.
+      - LORD BLACKBURN:
+        - [622] Emphasized that many men of business would see value in prompt payment of part of a debt rather than waiting for full payment, especially when there's doubt about the debtor's solvency.
+        - Had reservations about fully agreeing with the majority opinion but did not elucidate his full dissent.
+      - Decision: The appeal was dismissed, upholding the Court of Appeal's decision in favor of Beer.
+- Exceptions to the existing legal duty rule
+  - Williams v Roffey Bros & Nicholls (Contractors)
+    - Court & Date: Court of Appeal, 1991
+    - Parties:
+      - Plaintiff/Appellant: Williams
+      - Defendant/Respondent: Roffey Bros & Nicholls (Contractors) Ltd
+    - Facts:
+      - Roffey Bros held a contract to refurbish 27 flats.
+      - Williams was subcontracted by Roffey Bros for carpentry for £20,000.
+      - Williams faced financial difficulties due to the low agreed price.
+      - To ensure completion and avoid penalties for delay, Roffey Bros orally agreed to pay Williams an extra £10,300, at £575 per flat.
+      - Williams continued work but stopped after seven weeks when he had only been paid £1,500 by the defendants.
+      - Roffey Bros did not pay the outstanding balance.
+      - Roffey Bros then hired other carpenters to finish the work.
+    - Issue:
+      - Was there consideration for Roffey Bros' promise to pay Williams an additional £10,300, at the rate of £575 per completed flat?
+    - Holding:
+      - Yes, there was consideration for the promise.
+    - Reasoning:
+      - The main contention was the traditional legal principle from Stilk v Myrick that performing an existing contractual obligation is not good consideration for a new promise.
+      - It was recognized that the promise to pay more was in both parties' interests.
+      - Roffey Bros derived practical benefits,
+        -  such as ensuring Williams continued his work, avoiding penalties, and avoiding the costs of hiring new carpenters.
+        - Practical benefits means that the benefit of not receiving the full amount is still worth it because they are providing enough of a service to get by
+      - GLIDEWELL LJ outlined a proposition that refined the traditional principle, stating that if a party obtains a benefit from a promise, and it isn't due to duress or fraud, it can be considered good consideration.
+      - Based on these findings, the promise by Roffey Bros was supported by valuable consideration and is enforceable.
+    - Judgment:
+      - The appeal was dismissed. Williams' agreement with Roffey Bros was legally binding and enforceable.
+  - Case Name: Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723 (Supreme Court of New South Wales)
+    - Jurisdiction: Binding in New South Wales.
+    - Procedural History:
+      - Plaintiffs were tenants of a fruit and vegetable shop owned by the defendant.
+      - A larger competing fruit and vegetable shop was introduced in the same shopping center, threatening plaintiffs' ability to pay rent.
+      - Defendant initially promised reduced rent but later sought to withdraw the promise.
+      - Plaintiffs sought a declaration that the reduced rent promise was binding.
+    - Original Dispute:
+      - Plaintiffs' ability to pay rent was threatened due to competition from a larger tenant.
+      - Defendant initially promised reduced rent but later wanted to withdraw this promise.
+    - Current Reason for Trial:
+      - To determine whether the reduced rent promise by the landlord was binding.
+    - Material Facts:
+      - Plaintiffs were tenants of a shop owned by the defendant.
+      - A larger competitor tenant was introduced in the shopping center, endangering plaintiffs' ability to pay rent.
+      - Defendant initially promised to accept reduced rent but later wanted to renege on that promise.
+    - Issue Raised by Material Facts:
+      - Whether the landlord's promise to accept reduced rent was legally binding.
+    - Precedents
+      - "Williams v Roffey" case - discussed the enforceability of modifications to contracts.
+    - Tests: 
+      - Whether there was sufficient consideration for the landlord's promise.
+      - Whether the promise was induced by economic duress or unfair pressure.
+    - Words and Phrases Considered:
+      - Economic duress
+      - Unfair pressure
+      - Practical benefit
+      - Detriment
+      - Consideration
+    - Judges' Opinions:
+      - SANTOW J discussed the application of the "Williams v Roffey" case and debated the concept of consideration, economic duress, and fairness.
+      - Critiqued the traditional notion of consideration and proposed a broader approach based on practical benefit or detriment.
+    - Legal Reasoning and Ratio:
+      - The judge re-examined the principles of consideration and economic duress.
+      - Proposed that practical benefits or detriments could suffice as consideration.
+      - Consideration need not be strictly commensurate with the value exchanged.
+      - Proposed a reformulated approach for determining enforceability based on practical benefits or detriments and fairness.
+    - Result:
+      - The judge concluded that, subject to re-casting the elements of the "Williams v Roffey" case, a practical benefit or detriment could suffice as consideration.
+    - The reduced rent promise was found to be binding based on the practical benefit to the landlord and detriment to the tenants.
+    - The case was decided in favor of the plaintiffs.
+  - Case Summary (Detailed)
+    - Name of the Case and Citation:
+      - Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1
+    - Jurisdiction:
+      - England and Wales (Court of Appeal)
+      - Binding within its jurisdiction and persuasive in many common law jurisdictions globally.
+    - Procedural History:
+      - Williams initially brought the case to the Queen's Bench Division seeking the extra payment as promised by Roffey Bros.
+      - The matter was then appealed to the Court of Appeal.
+    - Original Dispute:
+      - The initial disagreement was concerning the amount payable under a carpentry contract. 
+      - Williams struggled to complete the work at the originally agreed price due to unforeseen financial hardships.
+    - Current Reason for Trial:
+      - The appeal sought to determine whether Roffey Bros' promise to pay extra, despite no new consideration being apparent, was enforceable.
+    - Material Facts:
+      - Williams and Roffey Bros entered into a contract where Williams was to provide carpentry services for a predetermined price.
+      - Due to unforeseen financial constraints, Williams approached Roffey Bros, indicating he could not finish the work at the agreed price.
+      - To avoid the inconvenience and potential additional costs of sourcing a new carpenter, Roffey Bros agreed to pay an additional sum per flat completed.
+      - Roffey Bros, despite witnessing Williams continue his work with the understanding of the new agreement, did not pay the promised additional amounts.
+    - Issue Raised by the Material Facts:
+      - The primary legal question was whether the promise by Roffey Bros to pay more, without any apparent fresh consideration, constituted an enforceable agreement.
+    - Precedences:
+      - The court revisited Stilk v Myrick (1809), where it was ruled that a party's promise to perform a duty they're already contractually obligated to perform doesn't amount to valid consideration.
+    - Tests:
+      - The court explored if Roffey Bros derived a "practical benefit" from the revised terms with Williams, even if Williams was only carrying out his existing duty.
+    - Words and Phrases Considered:
+      - Key terms assessed included "Consideration", "Practical benefit", and "Economic duress".
+    - What Each Judge Thought:
+      - All judges in the Court of Appeal, while noting the principles from Stilk v Myrick, agreed that in modern commerce, if a party receives a practical benefit from varied terms, even if there's no new consideration in the classic sense, that can make the varied terms enforceable. 
+      - They recognized the commercial reality and the practical benefit derived by Roffey Bros in ensuring the continued services of Williams.
+    - Legal Reasoning and Ratio of the Case:
+      - The court emphasized that the doctrine of consideration shouldn't be a tool for injustice. 
+      - If one party derives a practical benefit from varied terms, even if those terms merely ensure the performance of an existing duty, such an agreement can be enforceable. 
+      - The evolution of business practices and the need for commercial efficacy played a role in this decision.
+    - Result:
+      - The Court of Appeal ruled in favor of Williams, holding that Roffey Bros must honor their promise to pay the additional amounts as they derived a genuine practical benefit from the revised agreement. 
+      - The potential inconvenience and additional costs they avoided by not having to find a new carpenter were deemed significant.
+
+  - Re Selectmove Ltd [1995] 1 WLR 474
+    - if the principle from "Williams v Roffey Bros" (i.e., a promise to perform an existing contractual obligation can be good consideration if the promisor gains a practical benefit) were extended to the obligation to make payment, it would essentially negate the principle set in "Foakes v Beer."
+      - Foakes v beer principle: if you owe someone money and they agree to let you pay less to settle the entire debt, that agreement isn't enforceable unless there's something additional given in return.
+    - Court of Appeal can't overrule or sidestep "Foakes v Beer" based on the principles from "Williams v Roffey Bros.
+    - Need higher authority to evaluate
+  - Duty owed to a third party
+    - A promise to perform an act which the promisor is under an existing duty to a third party to perform may constitute good consideration.
+      - A’s promise to B to perform a duty which A is already contractually obliged to perform for C
+        - May = consideration
+  - Pao On v Lau Yiu Long
+    - Pao On v Lau Yiu Long [1980] AC 614
+    - Procedural History:
+    - Original Dispute:
+      - Share transfer transaction dispute between Pao On and Lau Yiu Long over a guarantee provision.
+    - Current Reason for Trial:
+      - Challenge to the validity of a guarantee provision under the threat of canceling an existing agreement.
+    - Material Facts:
+      - Share transfer agreement in question.
+      - Guarantee provision to ensure share price stability.
+      - Threat to cancel a subsidiary agreement unless the guarantee was provided.
+    - Issue Raised by the Material Facts:
+      - The validity of forming a contract (guarantee provision) under commercial pressure or perceived duress.
+    - Precedences:
+      - Williams v Williams [1957] - addressing the issue of consideration.
+    - Tests:
+      - Whether a contract formed under perceived duress or pressure is void/voidable.
+      - Can public policy negate consideration?
+    - Words and Phrases Considered:
+      - "Valid Consideration"
+      - "Duress"
+      - "Commercial Pressure"
+      - "Coercion of Will"
+      - "Public Policy”
+    - What Each Judge Thought:
+    - Legal Reasoning and the Ratio of the Case:
+      - Contracts formed under coercion of will can be considered voidable.
+      - Mere commercial pressure isn’t enough for a contract to be voidable.
+      - Upholding the sanctity of contracts unless they're undermined by specific factors.
+    - Result:
+      - Appeal in favor of Pao On and others was allowed.
+    - Significance & Precedents Set for the Future:
+      - The case of Pao On v Lau Yiu Long is significant for several reasons:
+        - Clarification on Consideration: The case delved into the nuances of valid consideration, specifically examining whether fulfilling a pre-existing duty can serve as valid consideration. 
+          - This establishes a clearer boundary for future commercial transactions.
+        - Duress vs. Commercial Pressure: One of the most impactful outcomes of this case was the distinction it drew between contracts formed under genuine duress (coercion of will) and those formed under mere commercial pressure. 
+          - This ensures that not every aggressive negotiation or hard bargaining situation can be used as grounds to set aside a contract.
+        - Upholding Contract Sanctity: By reinforcing the principle that contracts are to be respected unless there are clear undermining factors, the case sent a strong message about the importance of commercial agreements and the legal system's commitment to upholding them.
+      - Overall, Pao On v Lau Yiu Long sets important precedents for commercial law, especially in situations where the validity of contracts and agreements is under scrutiny due to external pressures or perceived threats. 
+        - It provides valuable guidance for future cases where the distinction between genuine duress and mere commercial pressure is in question.
+-  Wigan v Edwards (1973) 47 ALJR 58
+  - The contract contained no express term that the house had been constructed in a good and businesslike manner nor that it was free from structural defects, nor any other term relating to quality.
+    - Wigan agreed to remedy certain defects, and on 22 April 1969, he signed a document in which he promised to remedy the minor defects listed therein and “any major faults in construction five years from purchase date I will repair”. 
+  - claim made by the promisor that he was not bound under the former contract would not have succeeded had the issue been litigated: 
+    - Callisher v Bischoffsheim (1870) LR 5 QB 449; 
+    - Miles v New Zealand Alford Estate Co (1886) 32 Ch D 266
+      - More persuasive
+- Sixth Interim Report
+  - Recommendations for contracts in UK 1937
+# Week 2: Chapter 5
+
+
+- Intention
+  - The third element of contract formation is that the parties must manifest an intention to create legal relations.
+    - parties may reach a clear and certain agreement that satisfies the consideration requirement, but may not be intended to create legal relations: 
+      - 1. Where an agreement is made in a commercial context, a question may arise whether the parties intend to make an honourable, rather than legal commitment. 
+      - 2. The issue may arise in a social or domestic context. 
+        - An agreement to help a friend to move some furniture in return for dinner involves an exchange of promises, but is clearly not intended to be legally binding. 
+      - An agreement relating to more substantial matters, such as employment or the sale of valuable property, may be intended to attract legal consequences even when it is made with a close relative. 
+      - 3. An issue of intention to contract may arise where an agreement is made between a government and an individual. 
+        - The implementation of government policy may, for example, lead a government to reach an agreement with a particular individual to provide some assistance. 
+        - The fact that the individual is providing something in return for that assistance does not necessarily mean that the parties intend to make a contract.
+      - 4. Where parties reach a preliminary agreement, the question may arise whether the parties intend to be bound immediately, or not until some time in the future when the parties have finalised some outstanding issues or recorded their agreement in a more formal manner.
+  - certain types of agreements are presumed to be intended to be binding, while others are presumed not to be made with such an intention. 
+  - A person denying the enforceability of a commercial agreement has been said to bear the onus of proving that the parties did not intend legal consequences.
+    - Defendant has onus
+  - Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8
+    - considerable caution should be exercised in using presumptions to determine whether the intention to create legal relations requirement is satisfied
+      - Family is not always meant to be unintentional
+      - Not all business is business and not all social is social
+  - Case Name and Citation:
+    - Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8.
+    - Jurisdiction:
+      - High Court of Australia - binding within Australia.
+    - Procedural History:
+      - Archbishop Ermogenous initiated the case seeking employment benefits.
+      - The trial court ruled in favor of the Greek Orthodox Community of SA.
+      - The decision was overturned by the Supreme Court of South Australia.
+      - The matter was then appealed to the High Court.
+    - Original Dispute:
+      - The primary question was whether there existed a contractual relationship between Archbishop Ermogenous and the Greek Orthodox Community of SA Inc that could give rise to employment benefits.
+    - Current Reason for Trial:
+      - The appeal before the High Court was to ascertain if such a contractual relationship was legally recognized.
+    - Material Facts:
+      - Archbishop Ermogenous received an offer of employment which he accepted.
+      - While their relationship was primarily spiritual, there were stipulated duties and compensations, leading to a contention of whether it was contractual.
+    - Issue Raised by the Material Facts:
+      - Does a spiritual calling and relationship exclude the possibility of a legally enforceable contractual relationship?
+    - Precedences:
+      - The case referenced precedents such as Rogers v Booth and Lewery v Salvation Army, which dealt with similar issues.
+    - Tests:
+      - The court looked at the objective intentions of the parties. 
+      - They examined if there was a clear offer, acceptance, and consideration that would make up a valid contract.
+    - Words and Phrases Considered:
+      - "Contractual intention", "spiritual duties", "enforceable rights", "offer", "acceptance", and "consideration".
+    - What Each Judge Thought:
+      - While nuances between judges' opinions might exist, the High Court generally acknowledged that a spiritual relationship doesn't preclude a legal contract. 
+      - They noted that the terms between the Archbishop and the Greek Orthodox Community were more than mere spiritual obligations.
+    - Legal Reasoning and Ratio of the Case:
+      - The Court emphasized that the determination of a contract doesn't rest solely on the nature of the duties (spiritual vs. secular). 
+      - It is about the intention of the parties.
+      - If the terms are clear, providing legal rights and duties, it can be considered a contract even if it's within a religious context.
+    - Result:
+      - The High Court allowed the appeal, meaning they recognized the possibility of a contractual relationship between Archbishop Ermogenous and the Greek Orthodox Community of SA.
+  - COMMERCIAL TRANSACTIONS 
+    - Banque Brussels Lambert v Australian National Industries Case Summary:
+    - Case Name: Banque Brussels Lambert v Australian National Industries (1989) 21 NSWLR 502
+    - Procedural history:
+      - The case has progressed through lower courts where the nature and implications of the "letter of comfort" have been debated. 
+      - It follows the line of cases such as Kleinwort Benson and Edwards v Skyways Ltd that deal with the enforceability of certain contractual terms.
+    - Original dispute:
+      - The dispute initially centered around the interpretation of a "letter of comfort" provided by ANI during financial negotiations.
+    - Current reason for trial:
+      - The court was asked to determine whether the statements made in the "letter of comfort" were legally binding promises or mere representations, and if ANI had indeed breached any such promises.
+    - Material facts:
+      - ANI and Banque Brussels Lambert were involved in a financial negotiation regarding a US$1 million facility.
+      - Upon the bank's insistence, this was increased to a US$5 million facility, contingent upon ANI providing a "letter of comfort" to give assurance of the deal's soundness.
+    - Issue raised by the material facts:
+      - Were the statements made in the "letter of comfort" legally enforceable promises? 
+        - If so, did ANI breach these promises?
+    - Precedences:
+      - The court looked to prior decisions like Edwards v Skyways Ltd, Kleinwort Benson [1988] 1 WLR 799, and Chemco Leasing SpA v Redifusion plc.
+      - These cases provided guidance on when seemingly non-binding terms might be enforced and the intent behind such terms.
+    - Tests:
+      - The court sought to identify:
+        - If the statements in the "letter of comfort" bore any promissory intent.
+        - Whether ANI and Banque Brussels Lambert had an understanding that these terms were binding.
+    - Words and Phrases Considered:
+      - The court scrutinized phrases such as "Letter of comfort," evaluating its typical usage in the financial sector. 
+      - Additionally, terms like "Intention" and "Promise" were analyzed to determine their weight in the given context.
+    - What each judge thought:
+      - While individual opinions might have varied in nuance, the judges largely agreed that commercial transactions should not be nullified based on mere semantics. 
+      - They leaned towards upholding the weight of commercial intent over strict linguistic interpretation.
+    - Legal reasoning and the ratio:
+      - The court's rationale was underpinned by the notion that commercial bargains, especially those involving significant stakes, should be honored. 
+      - If statements within such bargains have a promissory shade, they ought to be seen as binding, barring clear evidence to the contrary.
+    - Result:
+      - The court found ANI liable, holding that certain statements within the "letter of comfort" bore binding intent and that ANI had breached them.
+- DOMESTIC AND SOCIAL AGREEMENTS 
+  -  Balfour v Balfour [1919] 2 KB 571, 57
+    - financial agreements between spouses will not attract legal consequences.
+  - Ermogenous v Greek Orthodox Community of SA Inc [2002] 
+    - no presumption should be made about the enforceability of agreements made in a social or domestic context
+    - Each case will be considered on its own facts, although the nature of the relationship between the parties and the context in which the agreement was made remain important considerations.
+  - Todd v Nicol
+    - intention to create legal relations. 
+      - voyage by the plaintiffs to Australia to reside with the defendant at her home. 
+      - The discourse touches upon various legal principles surrounding contracts, including:
+        - Offer and Acceptance: 
+          - A contract is formed when there's an offer by one party and acceptance by another. 
+          - This offer and acceptance can be explicit or implied from conduct or language.
+        - Consideration: 
+          - For a contract to be binding, there must be something of value exchanged between the parties, known as consideration. 
+          - Consideration can take many forms such as a right, interest, benefit, or even forbearance or responsibility.
+        - Intention: 
+          - The parties must intend the agreement to be legally binding. 
+          - This intention can be explicit or implicit. 
+          - Factors like language used, the situation of the parties, and the surrounding circumstances can indicate the presence or absence of such intention. 
+          - In some situations, legal enforceability is presumed, especially in business arrangements. 
+          - However, in personal or domestic arrangements, such presumption may be doubtful.
+        - Certainty: 
+          - The terms of a contract must be clear. 
+          - If the terms are vague, uncertain, or still subject to negotiation, it might be unenforceable.
+        - License: 
+          - The plaintiffs were given a licence to reside with the defendant. 
+          - The text examines the revocability of this licence and the conditions under which it becomes irrevocable.
+        - Implication of Terms:
+          - Sometimes, terms are not explicitly stated but are implied to make the contract operational according to the intention of the parties. 
+          - The terms must be necessary to the nature of the contract and directly related to its purpose.
+  - GOVERNMENT AGREEMENTS 
+    - Administration of Papua and New Guinea v Leahy 
+      - Commonwealth Department of Agriculture as part of its tick eradication program. 
+        - Assisted by department for spraying cattle for ticks
+        - Plaintiff supplied and paid for other labor 
+        - Department officers were not good, and plaintiff sued for damages for breach of contract
+          - Agreed promises are not enough if the department did not intend to enter into a contract
+          - One judge believes administrative arrangement not contract - social service
+        - Main question: whether the proved and admitted facts, when considered in their setting of time and circumstance, establish a contract, or only an arrangement having no legally binding force
+        -  The arrangements made 
+        - on 7th June 1954 were not contractual and the judgment giving damages for the failure of the Administration, through the two defaulting officers, to give effect to them on its part cannot be sustained
+  - PRELIMINARY AGREEMENTS 
+    - Masters v Cameron 
+    - Case Summary (Small)
+        - Note the name of the case and its citation (Jurisdiction - is it binding or persuasive?)
+          - Masters v Cameron (1954) 91 CLR 35
+        - Clarify the procedural history of the case.
+          -  Appeal from the Supreme Court of Western Australia
+        - What the original dispute was
+          -  Cameron (the respondent) and Mr and Mrs Masters (the appellants) signed a document whereby Cameron agreed to sell and the Masters agreed to buy for £17,500 a certain property owned by Cameron.
+          - The purchasers encountered financial difficulties, denied that they were legally bound to purchase the property, and sought to recover the deposit
+        - Current reason for trial
+          - Is the document on its true construction constitutes a binding contract between the respondent and the appellants, or only a record of terms upon which the signatories were agreed as a basis for the negotiation of a contract
+        - Ascertain the material facts
+          - Plainly enough they were agreed that there should be a sale and purchase, and the parties, the property, the price, and the date for possession were all clearly settled between them.
+        - State the issue raised by the material facts 
+          - Precedences
+            - 
+          - Tests
+            - 
+          - Words and Phrases Considered
+            - “This agreement is made subject to the preparation of a formal contract of sale which shall be acceptable to my [Cameron’s] solicitors on the above terms and conditions”
+              - Subject to contract
+                - Chinnock v Marchioness of Ely (1865) 46 - stipulation as to the contract is a term of the assent, and there is no agreement independent of that 
+                - 
+        - What each judge thought
+          - THE COURT (DIXON CJ, McTIERNAN and KITTO JJ):
+            - 3 classes of contract in this case:
+              - Everything is ready, but want to have the terms restated in a form which will be fuller or more precise but not different in effect. 
+                - Most common
+                - Rossiter v Miller (1878) 3 App Cas 1124,
+                - as soon as the fact is established of the final mutual assent of the parties so that those who draw up the formal agreement have not the power to vary the terms already settled, I think the contract is completed”
+              - Duplicate contract, but made performance of one or more of the terms conditional upon the execution of a formal document.
+                - Niesmann v Collingridge (1921) 29 -
+                - Rich and Starke JJ observed that this did not make the signing of a contract a condition of agreement, but made it a condition of the obligation to pay, and carried a necessary implication that each party would sign a contract in accordance with the terms of agreement. 
+              - Or the intention of the parties is not to make a concluded bargain at all, unless and until they execute a formal contract.
+                - are cases in which the terms of agreement are not intended to have, and therefore do not have, any binding effect of their own
+                - 
+              - 
+        - Identify the legal reasoning and the ratio of the case.
+          - Accordingly the first of the four questions which went to trial should have been answered by saying that no binding contract for the sale and purchase of the property mentioned in the document dated 6 December 1951, was made between [Cameron] and [Masters]
+        - Result
+          - Appeal allowed
+    - Baulkham Hills Private Hospital Pty Ltd v GR Securities Pty Ltd (1986) 40 NSWLR 622,
+      - Fourth case + 3 Masters v Cameron
+        - one in which the parties were content to be bound immediately and exclusively by the terms which they had agreed upon whilst expecting to make a further contract in substitution for the first contract, containing, by consent, additional terms”. 
+  - Six points Practical Benefit
+    - Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723
+    - Musumecis rented a premises in Winadell's shopping centre to run a fruit and vegetable shop.
+    - Winadell lease other premises to a competitor, which caused the Musumecis' into fall.
+    - Musumecis requested to renegotiate the lease.
+    - Winadell promised to reduce the rent by 1/3.
+    - Parties disputed how to calculate the new rent.
+    - Winadell argued its promise was unenforceable because the Musumecis did not provide consideration for it.
+  - Existing Duty owed to third party
+    - Shadwell v Shadwell (1860) 142 ER 62
+      - Uncle promised to pay nephew 150 per year if he married his fiancée.
+      - Nephew married fiancé - Uncle started paying.
+      - Uncle fell behind on payments and died — 
+        - Nephew sued for moneys owing.
+      - Did nephew provide consideration? 
+        - He was already engaged to his fiancée when he completed his Uncle's request.
+    - Pao On v Lau Yiu Long [1980 AC 614
+      - 
+        - 
+      - 
+      - After signing the Subsidiary Agreement, the plaintiffs realized that they were locked into selling 60% of their Fu Chip shares to the defendants in April 1974 regardless of their market value at that time.
+        - Plaintiffs refused to complete the Main Agreement unless the defendants provided a better guarantee.
+      - 
+      - April 1974: Market price of Fu Chip shares was less than $2.50
+        - Plaintiffs sued on the guarantee.
+        - Defendants argued that they had not provided good consideration.
+  - Part Payment of a debt
+    - Even if agreed, cannot legally charge for part of a debt. 
+      - If only paid 75/100 debt, if creditor sue for the rest, they will win
+      - Pinnel's case
+- Intention
+  - Intention to be bound
+  - Shahid v Australasian College of Dermatologists (2008) 168 FCR 46
+    - Dr Shahid applied 5 time unsuccessfully for a training position as a dermatologist.
+  - Each time she appealed:
+    - Paid $1,500 - $5,000 fee
+    - Subject to detailed instructions in the College's Training Manual.
+    - Dr Shahid argued that the parties entered a contract for each appeal that the College breached.
+  - The parties intended to be bound:
+    - Important subject matter.
+    - Opportunity costs.
+    - Businesslike relationship
+    - Detailed terms in forma Training Manual
+    - Expensive fee paid.
+
+# Week 3: Consideration: Certainty, Completeness, and Illusory Contracts
+
+- Intro, Completeness
+  - certainty and completeness 
+    - if the parties have entered into a contract, then it must contain enough terms to function properly, 
+    - and those terms must be expressed adequately clearly so that a court can enforce them.
+  - Introduction
+    - How certain do the terms of an agreement have to be before the law will recognise it to be a legally binding contract?
+      - Difficult (if not impossible) for parties to anticipate and provide for every contingency.
+        - Also can be difficult for parties to articulate themselves so there is only one interpretation and no ambiguity.
+      - Raises issues of sufficiency — what is sufficiently complete and what is sufficiently certain.
+      - It is fact specific — nature of agreement and circumstances in which agreement was made.
+      - Judicial attitudes differ in their opinions as to the degree of certainty and completeness required, and the extent to which the courts should till gaps and resolve ambiguities.
+      - Trend — judges increasingly willing to fill gaps and resolve ambiguities (implied terms).
+  - Certainty aspects
+    - Sufficiently certain
+    - Sufficiently complete
+    - Promise must NOT Illusory
+      - A promise is discretionary - don’t have to do it
+  - Completeness Overview
+    - Parties must have reached agreement on all of its essential terms.
+      - What is an essential term?
+        - A term without which the contract cannot be enforced.
+        - A term which only the parties can supply.
+    - Whether an omission is fatal to contract formation depends on three main factors
+      - 1. How important or essential is the term that is missing?
+        - Meaning of essentiality in this context: Milne v Attorney-General (Tas) (1956) 95 CLR 460
+        - Whether the courts can fill the gaps by applying an objective or reasonable standard.
+      - 2. Have the parties turned their mind to the issue?
+        - Why has the term been left out? Was it deliberately left out or was it by mistake?
+        - Agreements to agree are not enforceable. The court will generally not fill the gap in these circumstances.
+      - 3. Has the agreement been partly executed?
+        - If one of the parties has already performed all or some of the contract, the courts are less likely to find that an agreement is incomplete (Foley v Classique).
+    - Note: A mechanism or formula can be used to set an essential term, and this will not result in a contract being void for want of certainty.
+  - Sufficiently Complete: Essential Terms
+    - For a contract to be sufficiently complete, parties must have reached agreement on all essential terms.
+    - Consider: What is an essential term?
+      - A term without which the contract cannot be enforced.
+      - A term which only the parties can supply.
+    - Milne v Attorney-General (Tas) (1956) 95 CLR 460 upholds this
+  - HOW IMPORTANT / ESSENTIAL IS THE MISSING TERM?
+      - The threshold question is whether the parties have specifically agreed on all the terms that only they can decide.
+      - What matters is whether the court can enforce the contract in the absence of the term in question, without exceeding its role as the interpreter, rather than the author, of the contract.
+      - If the parties have failed to agree on essential terms, the court will refuse to find an enforceable contract.
+    - Depends on nature of the contract and circumstances of the case
+      - The complexity of the contract and the courts understanding of and familiarity with the type of transaction.
+      - The reason why the parties failed to reach agreement on the issue.
+      - Whether the agreement remains wholly executory or has been wholly or partly
+      - performed on one side.
+  - Examples
+    - Lease of land
+      - Essential
+        - The commencement date, 
+        - the rental to be paid, 
+        - parties,
+        - subject matter (description of the land)
+        - Without these terms, the agreement for a lease will not be binding
+    - Sale of land
+      - Essential
+        - the parties,
+        - description of the land 
+        - and the price
+      - Non-essential: 
+        - Settlement date — the court can imply a reasonable settlement date
+    - Sale of goods
+      - Essential: 
+        - the parties 
+        - and description of the goods
+      - Non-essential: 
+        - a failure to stipulate the price may not be fatal (s.13 Goods Act (NSW))
+  - What if one party has already performed all or part of the contract?
+    - The courts are less likely to find an agreement is incomplete if one party has already performed all or some of the contract.
+    - See the case of Foley v Classique Coaches Ltd (1934) 2 KB 1, which illustrates the court's effort to find certain y in a case where there has been some performance.
+  - Foley v Classique Coaches Ltd (1934) 2 KB 1
+    - Foley and Classique Coaches entered into a written agreement on the 11th April 1930, whereby it was agreed that Foley would sell some of his land to Classique for lbs 1,100.00 (Land Agreement)
+    - This Land Agreement was made subject to a condition that the parties would enter into another contract, the Petrol Supply Agreement on the same day, with the following terms:
+      - Foley would sell petrol to Classique at price to be agreed in writing from time to time
+      - The Petrol Agreement was to remain in force during Foley's life and his wife's
+      - Classique would not buy petrol from anyone else
+      - If any dispute arose regarding the subject matter or construction of the Petrol Supply Agreement, the dispute shall be resolved by arbitration in accordance with the Arbitration Act 1889 (UK)
+    - In accordance with the two Agreements, the land was transferred to Classique and they bought petrol from Foley for 3 years. Then Classique wanted to purchase cheaper petrol elsewhere
+    - Held
+      - There was an effective and enforceable contract, although no definite price had been agreed with regard to the future supply of petrol
+      - Key distinction here is that the land had been conveyed and the parties were well into performance of the agreement.
+        - 3 years into agreement
+  - May and Butcher v The King (1934) 2 KB 17
+    - May and Butcher entered into a 12 month contract with the Disposals and Liquidation Commission whereby it was agreed that the Commission would sell Old tentage to May and Butcher but the price would be "agreed upon from time to time" (an agreement to agree).
+      - The relationship soured and the Commission did not want to continue with the arrangement.
+    - HELD:
+      - The price was an essential term and the agreement was void for want of certainty; 
+        - the parties had agreed to reach agreement on the price in the future, so for the court to imply a reasonable price would be inconsistent with the expressed intentions of the parties, which was to set the price themselves,
+    - However, an agreement to agree on an essential term may be enforceable if:
+      - The agreement has been partly performed: Foley v Classique Coaches.
+      - A mechanism / formula is specified to supply a term if the parties are unable to reach agreement.
+  - Completeness: A mechanism or formula can fill the gap
+    - Effective mechanism
+      - Parties may make a valid contract that defers agreement on an essential term by providing an effective mechanism for supplying the term in the event they fail to reach agreement.
+      - See eg, the case of George v Roach (1942) 67 CLR 253: 
+        - George carried on the business of a newsagent and storekeeper. 
+          - He agreed to sell his business to Spencer. 
+          - The contract provided that a valuation of the newspaper agency would be provided by a third party, Mr Solomon, and this valuation would form the basis of the purchase price.
+          - Spencer paid lbs 1,100 on account of the purchase price even though the valuation for not yet taken place. 
+          - Mr Solomon refused to undertake the valuation. 
+          - Mr Spencer had died by then but his wife, Roach (on behalf of his estate to recover the lbs 1,100 because the contract was void for uncertainty.
+    - The High Court held that an agreement was ineffective when part of the purchase price was to be fixed by a nominated valuer who refused to carry out the task.
+  - Effective formula
+    - An alternative is for the parties to agree on a formula for settling an essential term in the event of a dispute
+      - (eg: a base sum and a mathematical formula that incorporates reference to changes in the Consumer Price Index to determine increases in rent each year).
+    - The validity of such a contract will then depend on whether the court regards the formula or standard as sufficiently certain.
+- Certainty
+  - The main purpose of interpreting terms of a contract is to work out what exactly each party has to do to meet the obligations under it. Interpretation is not always easy
+  - Consider the agreements below:
+    - Parties enter into an agreement to build a rear decking. They agree that the "...timber used in the must be of high quality"
+    - Parties enter into an agreement to "supply Coles with fresh eggs"
+  - What do these terms mean?
+  - Court's approach to a particular term that is vague or imprecise
+      - Not a pedantic test — some ambiguity is acceptable:
+        - Council of the Upper Hunter v Aust Chilling and Freezing
+    - Whether an objective standard (where available) can be relied on or implied to save a clause. Courts are often divided as to this approach
+      - Biotechnology v Pace (Note: this case also raises issues of illusory promises)
+      - Whitlock v Brew
+      - Hall v Busst
+      - Meehan v Jones
+    - Uncertainty of meaning is more likely to affect validity if the parties have yet to perform
+    - Agreements to negotiate in good faith are not necessarily too uncertain:
+      - United Group Rail v Rail Corp
+  - Certainty of meaning
+    - Court's approach to a term that is vague or imprecise
+      - The terms must not be vague and imprecise such that the courts cannot attribute sufficiently precise meaning to them.
+      - Courts do not usually take a narrow approach to the requirement of certainty, and will attribute a meaning to the language used by the parties unless it is impossible to do so.
+      - As with incompleteness, uncertainty is more likely to affect a contract that remains wholly executory.
+  - Council of the Upper Hunter County District v Australian Chilling & Freezing (1968) 118 CLR 429
+    - The Council contracted to sell electricity to Australian Chilling and Freezing ("ACF")
+    - Clause 5 of the agreement provided as follows:
+      - It is agreed that during the term of this agreement if the supplier's [Council's] costs shall vary in other respects than has been hereinbefore provided the supplier [Council] shall have the right to vary the maximum demand charge and the energy charge by notice in writing to the purchaser [ACF]
+    - The agreement also provided for arbitration in the event of a dispute between the parties 
+    - Council sought to increase their charges pursuant to clause 5 
+    - ACF argued that clause 5, in particular its reference to supplier's costs varying, was uncertain and unenforceable
+    - language employed by parties was not “so obscure and so incapable of any definite or precise meaning that the court is unable to attribute to the parties any particular contractual intention”, the contract cannot be held to be uncertain to be void or meaningless
+  - Implying Objective Standards
+    - Standards of reasonableness and fairness (and similar concepts) are sometimes employed as terms of a contract expressly by the parties or implied by the courts to make a contract complete. Parties might use terms such as:
+      - “a reasonable price for the goods”
+      - “a fair and equitable price for her services”
+      - “price to be set at fair market value”
+    - These concepts are inherently imprecise but the question is whether they are uncertain.
+    - The courts will endeavour to give those terms meaning in order to uphold a contract.
+    - In some cases, what is reasonable or fair will not be sufficiently certain because it may be impossible to work out what it means.
+  - Whitlock v Brew (1968) 118 CLR 445
+    - What are the facts?
+      - The difficulty that the court had to deal with was what does the term “upon such reasonable terms as commonly govern a lease” in clause 5 actually mean?
+    - Kitto J held:
+      - The expression ‘upon such reasonable terms as commonly govern a lease would have been sufficiently certain had there been an ascertainable set of terms in common use
+    - The result was that there was no consensus between the parties about key terms, such as the term of the lease, the rent
+    - The arbitration clause would assist if there was a dispute as to what terms are reasonable and common to such a lease if such terms actually existed
+    - The arbitration clause did not authorise an arbitrator to force on the purchaser such terms that the arbitrator might think are reasonable and ought commonly govern such a lease because to do so would alter the contract
+    - Court concluded that clause 5 had no contractual effect, which resulted in the whole contract being rendered void
+  - Hall v Busst (1960) 104 CLR 206
+    - Hall and Busst agreed that Hall would purchase Busst’s land and chattels on an island, known as Bedarra Island for £3.157
+    - The agreement provided that:
+      - Hall could not re-sell the land without first obtaining Busst’s consent
+      - Such consent would be obtained by Hall giving notice to Busst of her intention to resell the land and Busst would have the option of repurchasing
+      - Clause 5 stated: “the purchase price shall be the sum of £3.157 4s 0d to which shall be added the value of all additions and improvements to the said property since the date of purchase...and from which shall be subtracted the value of the deficiencies in chattel property and a reasonable sum to cover depreciation of all buildings and property on the land.”
+      - Hall sold the land and chattels to a third party for £8,500 without giving notice to Busst
+      - Busst sued Hall for breach of contract. Hall argued that the price clause in the option was void for uncertainty
+      - The High Court held that the option was not enforceable because the price was uncertain
+    - “the value of all additions and improvements” is not sufficiently certain to give rise to an enforceable contract because there could be no external standard of value of additions and improvements to the island. There was nothing to compare it to, no external standard
+    - “The value of all deficiencies” was uncertain in the ascertainment of the price
+      - No external standard to assess what “depreciation of all other buildings and other property on the land” meant
+  - Certainty & Agreements to negotiate
+    - Contracts sometimes contain clauses as follows:
+      - Parties must ‘negotiate in good faith’ the precise terms of a more comprehensive joint venture agreement
+      - Parties must ‘undertake genuine and good faith negotiations with a view to resolving disputes’
+    - Such concepts such as ‘negotiation’, ‘mediation’ and ‘good faith’ are inherently subjective, but the issue is whether they are enforceable
+      - UK: these agreements cannot be legally binding on the basis that they are too uncertain to enforce
+      - Australia: courts have been a bit more flexible and have tried to give such agreements some meaning, but it depends on the precise terms used. The Court looks for a promise that is sufficiently clear
+  - United Group Rail Services Ltd v Rail Corporation NSW (2009) 74 NSWLR 618
+    - United Group and Rail Corp entered into a contract whereby it was agreed that
+      - United Group would design and build new rolling stock for Rail Corp,.
+    - Clause 35 of the contract provided a dispute resolution clause. 
+      - Part of the clause provided that if the dispute is referred to a senior representative of each party, they must meet and undertaken genuine and good faith negotiations with a view to resolving the dispute or difference.
+    - United Group argued that this clause was too uncertain and was therefore void and unenforceable.
+
+    - Held:
+      - The court held that their task is to give effect to business contracts where there is a meaning capable of being ascribed to a word or term or phrase.
+      - Genuineness and good faith are not empty obligations.
+      - Resolving a dispute ‘requires an honest and genuine attempt to resolve differences by discussion, and if thought to be reasonable and appropriate, by compromise, in the context of showing a faithfulness and fidelity to the existing bargain
+- ILLUSORY PROMISES & CONSEQUENCES OF UNCERTAINTY
+  - Certainty & Illusory promises
+    - A contract will be illusory if a party gives an unfettered discretion as to performance of a promise
+      - What does unfettered mean?
+    - What is the legal status of an illusory promise?
+      - Placer Developments Ltd v Commonwealth (1969) 121 CLR 353
+    - A term will not be illusory where:
+      - A party is given a latitude of choice which does not amount to complete and unfettered discretion
+        - See Meehan v Jones (1982) 149 CLR 571
+      - The discretion relates to the fulfilment of a condition upon which the performance of the contract depends (ie there is no discretion as to the performance of the contract once the condition is satisfied)
+        - See Meehan v Jones (1982) 149 CLR 571
+    - The discretion is exercised by a third party
+      - Godecke v Kirwan (1973) 129 CLR 629
+  - Legal status of an illusory promise
+    - Recognised general principle
+      - Placer Developments Ltd v Commonwealth (1969) 121 CLR 353, 356 (Kitto J):
+        - ‘Wherever words which by themselves constitute a promise are accompanied by words showing that the promisor is to have a discretion or option as to whether he will carry out that which purports to be the promise, the result is that there is no contract on which an action can be brought at all.’
+    - There are two ways of conceptualising this:
+      - No consideration: an illusory promise is no promise at all (recall Australian Woollen Mills case).
+      - Incomplete contract: an essential term has been left to be determined by one party.
+  - Placer Developments Ltd v Commonwealth (1969) 121 CLR 353
+    - Clause 14 of the Agreement stated that if customs duty had to be paid on the imported products and not remitted, “the Commonwealth will pay to the Timber Company a subsidy upon the exportation of these products from the Territory ... of an amount or at a rate determined by the Commonwealth from time to time but the amount of subsidy paid shall not exceed the amount of customs duty paid and not remitted”
+    - Kitto J held:
+      - In this case (with specific reference to clause 14), the Commonwealth’s promise to pay an unspecified sum of money was illusory, since the Commonwealth was expressly given a discretion to determine the amount to be paid.
+      - A promise to pay a governmental subsidy is meaningless in the absence of a specification of some amount or some basis of calculation. 
+        - That promise carries no implication that at least a reasonable subsidy shall be paid, for there is no general standard of reasonableness with respect to the quantum of a subsidy.
+  - A term will not be illusory where:
+    - A party is given a latitude of choice, which does not amount to complete and unfettered discretion
+    - The discretion relates to the fulfilment of a condition upon which the performance of the contract depends, so there is no discretion as to the performance of the contract once the condition is satisfied
+  - Meehan v Jones (1982) 149 CLR 571
+    - The parties entered into a written agreement for the sale of land (an oil refinery) for a price of $800,000.00
+    - The contract was subject to two conditions:
+      - 1. Purchaser or his nominee entering into a satisfactory Agreement or arrangement with Ampol Petroleum Limited for the supply of a satisfactory quantity of crude oil
+      - 2. Purchaser or his nominee receiving approval for finance on satisfactory terms and conditions in an amount sufficient to complete the purchase hereunder;
+      - and should either of the above conditions not be satisfied on or before 31 July 1979 (or such extended time as the
+    - parties may agree upon) then this Contract (other than for the provisions of this Clause) shall be null and void 
+    - On 23 July, Jones sold the land to a 3rd party
+    - On 30 July, Meehan advised Jones that both conditions had been satisfied. Meehan sought specific performance of the contract
+    - The trial judge and the Full Court of the Supreme Court refused specific performance on the basis that the contract was void for uncertainty. 
+      - Meehan then appealed to the High Court
+  - CERTAINTY in Meehan v Jones
+    - Where the words of a condition state that a contract is subject to finance, the question immediately arises whether the test to be applied is a subjective or objective. 
+    - In either case, the purchaser does not have absolute discretion.
+    - The fact that opinions may differ as to which of these two meanings is given to the words of the clause does not mean that the clause is uncertain.
+    - In considering whether the objective / subjective approach applied, the court said that unless a clause of this kind makes a clear indication to the contrary, its natural effect is to leave it to the:
+      - purchaser to be [subjectively] satisfied, not some hypothetical reasonable man.
+      - it may be implied that the purchaser will act honestly in deciding whether or not he is satisfied.
+      - but it is not necessary to imply that the purchase will make reasonable efforts to obtain finance.
+  - ILLUSORY PROMISE in Meehan v Jones
+    - Although there is nothing uncertain about a clause which speaks of [subjective] satisfaction of purchase, could it still be illusory?
+    - There is a well settled principle that when “the promisor is to have a discretion or option as to whether he will carry out that which purports to, be the promise, the result is that there is no contract”
+    - A contract is illusory where one of the parties has a discretion as to whether to perform the contract, but not where one of the parties has a discretion in relation to the fulfilment of a condition on which the contract depends.
+  - Meehan v Jones (1982) (cont’d)
+    - To say that a “subject to finance” or “subject to finance on satisfactory terms and conditions” clause denotes finance which is satisfactory to the purchaser is not to say that he has an absolute or unfettered right to decide what is satisfactory.
+    - With some justification the vendor can claim that the agreement is a binding contract which relieves the purchaser from performance only in the event that, acting honestly, or honestly and reasonably, he is unable to obtain suitable finance.
+    - There is in this formulation no element of uncertainty - the courts are quite capable of deciding whether the purchaser is acting honestly and reasonably.
+    - Because the purchaser must act honestly, or honestly and reasonably, it is not a case where the purchaser has an unfettered discretion as to what constitutes finance on satisfactory terms
+      - – the decision must be reached honestly, or honestly and reasonably.
+      - Just because there is some discretion, does not make it unfettered 
+      - In this case, it is a condition, not a term
+    - Accordingly, the promise is not illusory
+  - Godecke v Kirwan (1973) 129 CLR 629
+    - The parties signed a document headed ‘Offer and Acceptance’ setting out terms they agreed to for the sale and purchase of land. The agreement provided for a promise by the purchaser to execute, if required to do so, a further agreement in accordance with cl.6
+    - Cl. 6 provided that if a formal agreement was required, it would be prepared by the vendor’s solicitors containing “the foregoing and such other covenants and conditions as they may reasonably require”
+    - Kirwan refused to go ahead and transfer the land. He argued the agreement was illusory because they would be bound by the subsequent formal agreement drawn up by solicitors containing other terms and that conferred on them an unfettered discretion
+    - Walsh J: the clause should be construed as limited to permitting the insertion of covenants and conditions not inconsistent with those contained in the offer. It was also limited by a standard of reasonableness, determined objectively so it did not confer an unfettered discretion on the solicitors
+    - What did Gibbs J say?
+  - Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130 (Court of Appeal) - scheme one day… somehow somewhere
+    - Dr Pace was a scientist and he entered into an employment contract with a company called Biotechnology. 
+    - The contract provided that Dr Pace would receive a salary of $36,000 per annum, a company car and an option to participate in the Company’s senior staff equity sharing scheme.
+    - Dr Pace was aware that at the time he accepted the offer of employment the Scheme didn’t exist but the company had plans to introduce it.
+      - When his employment was terminated, he sued the company for damages for its failure to give him the option of participating in the equity sharing scheme.
+    - Relevant issues before the Court:
+      - Was the disputed clause so uncertain that it cannot be enforced?
+    - Was the disputed clause so devoid of meaning and so dependent upon the initiatives and decision of Biotechnology Australia as to be illusory?
+    - Kirby J - Uncertainty
+      - Kirby J made some general observations about the task of courts in trying to resolve uncertainty in contracts.
+        - Every case depends upon its own facts. The meaning of an agreement must be discovered objectively. 
+          - If there is ambiguity or vagueness, regard to extrinsic evidence might give meaning to the term
+        - Courts will try to uphold the agreements and avoid frustrating the wishes of the parties, but only so far as those wishes may be ascertained from the agreement between them
+        - Courts will not uphold agreements where the court is asked to spell out to an unacceptable extent that which the parties have themselves failed to agree; 
+          - clarify that which is too obscure and accept for itself a discretion which the parties by their agreement reserved to one of both of them
+        - Judges will differ in opinion about whether a court can give effect to an uncertain term and there is no objectively right decision in such cases.
+        - The decisions are based on the features of the agreement, the relationship between the parties and relevant external reference points in order to resolve an uncertain term
+    - Application of legal principles to the facts
+      - Was the disputed clause so uncertain of content that it could not be enforced?
+        - ‘It was nonetheless void for uncertainty because the challenged term contained within it too many elements which are uncertain...the bare bones of the promise to establish such a scheme leave too mant decisions to be made for a court to attempt to give content to the promise by substituting its opinion of a fair scheme…
+        - There are too many features of apparent peculiarity in which schemes ... 
+          - to make it safe to conclude that an objectively ascertainable external standard exists.’
+      - The court found that there were too many elements which were uncertain such as:
+        - How many shares in Biotech were to be devoted to the scheme?
+        - What class of shares were to be held by the likes of Pace?
+        - What were the terms of the options upon which the shares would issue?
+        - What rights would attach to the shares?
+        - Upon what terms were they acquired and could they be disposed of?
+      - There were too many gaps to fill in which the parties themselves did not fill, and in this basis the term was unenforceable.
+    - Application of legal principles to the facts
+      - Was the disputed clause so devoid of meaning and so dependent upon the initiatives and decisions of Biotechnology Australia as to be illusory?
+        - ‘The problem for the court is that the term is just too uncertain of content.’
+        - The ‘fulfilment of the term relating to the equity sharing scheme depended upon the decision of one party, namely Biotechnology. 
+        - There was no external standard to fix an “appropriate” or “reasonable” equity participation scheme.’
+        - The ‘existence of other schemes in other companies with other products and other scientists provides no such reference point’
+    - Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130 (Court of Appeal)
+      - McHugh JA (applied similar reasoning to Kirby P):
+        - The promise is too illusory or too vague and uncertain to be enforceable.
+        - The parties recognised that Biotech would decide both the nature of the scheme and the rights of the individuals participating in it.
+        - There is no standard by which a court could determine in any meaningful sense whether such a promise was broken.
+      - Hope JA (dissent):
+        - Biotech was required to give Pace an option on terms which it had honestly arrived at.
+        - The role of staff equity sharing schemes in employment contracts is sufficiently well established to enable courts to apply the concept of reasonableness to them.
+        - The schemes are more complex than bonuses but that merely makes the resolution of the problem more difficult; 
+          - it does not deny the possibility of resolution.
+        - Concluded that the promise was valid - ‘... in my opinion the proper conclusion at this stage of the hearing is that as there was a valid and enforceable contractual promise on the part of Biotech to establish a senior staff equity sharing scheme and that the promise was not unenforceable for uncertainty or as being illusory...’
+  - Consequences of uncertainty
+    - If the terms of an agreement are incomplete, uncertain or illusory, the consequences that can flow include:
+      - The whole agreement is VOID
+        - If the terms of an agreement are incomplete, uncertain or illusory, the courts look at how essential the term is and the intention of the parties in order to determine whether the entire agreement is void.
+    - SEVERANCE – the ineffective term can be severed from the rest of the agreement
+      - The problematic term can be severed from the rest of the agreement, and the remaining terms are able to be performed and enforced.
+      - The court will take into account the essentiality of the term and whether severing it is consistent with the intention of the parties. 
+        - If severing the clause changes the agreement into something the parties did not agree to, the court will not allow that.
+      - Eg: Whitlock v Brew: If the court had severed clause 5 of the contract, it would have turned the sale into something different from what the parties contemplated
+- Formalities
+  - INTRODUCTION
+      - Simple contract
+        - Requires consideration to be enforceable
+        - May be written, oral or both
+        - Requires at least two parties (consideration)
+      - Formal contract: Deeds
+        - Must be in writing and comply with legislation (See: Conveyancing Act 1919 (NSW), s 38
+        - Consideration not required –formalities make the deed binding (“signed, sealed and delivered”)
+        - Can be made by 1 person (“deed poll”)
+    -  Common law does not require contracts to be in writing.
+      - Legislation requires certain contracts to be evidenced in writing.
+      - Examples
+        - Credit contracts (National Credit Code, Pt 2, Div 1)
+        - Home building contracts (Home Building Act 1989 (NSW), ss 7, 7AAA, 10)
+        - Contracts that create or transfer an interest in land (Conveyancing Act 1919 (NSW), ss 23C, 54A)
+    - Consequences for failure to comply
+      - Depends upon the legislation imposing the obligation.
+      - Common outcomes:
+        - Contract void or unenforceable
+        - Offence committed / party liable to punishment
+    - In this subject we look only at contracts that create or transfer an interest in land:
+      - Very common in practice.
+      - Demonstrates the intersection between the law of contract and the law of real property.
+    - CONVEYANCING ACT 1919 (NSW), s 54A
+      - Original obligation to evidence contracts concerning interests in land was the ‘Statute of Frauds’ enacted in 1677.
+        - (Actual title: “An Act for Prevention of Frauds and Perjuries”.)
+      - The current law is Conveyancing Act 1919 (NSW), s 54A.
+      - Judgements sometimes refer to the ‘Statute of Frauds’ 
+        - –cite the Conveyancing Act as your authority.
+    - 54A Contracts for sale etc of land to be in writing
+      - 1) No action or proceedings may be brought upon any contract for the sale or other disposition of land or any interest in land, unless the agreement upon which such action or proceedings is brought, or some memorandum or note thereof, is in writing, and signed by the party to be charged or by some other person thereunto lawfully authorised by the party to be charged.
+    - Continuation
+      - “sale or other disposition of land or any interest in land” –jurisdictional issue
+      - “unless the agreement upon which such action or proceedings is brought, or some memorandum or note thereof, is in writing” 
+        - – evidentiary issue
+      - “signed by the party to be charged or by some other person thereunto lawfully authorised by the party to be charged” 
+        - –evidentiary issue
+      - "No action or proceedings may be brought”
+        -  – legal consequences
+  - SALE OR OTHER DISPOSITION OF LAND OR ANY INTEREST IN LAND”
+    - Section 54A applies when there is a:
+      - sale or other disposition;
+      - Land (itself) or interest in land
+      - → Jurisdictional issue
+  - “SALE OR OTHER DISPOSITION OF LAND OR ANY INTEREST IN LAND”
+    - “Land” = “Real property”
+      - undeveloped land
+      - developed land
+      - apartments in strata titles
+      - Old System title
+      - Torrens title
+    - Technicalities of “real property” will be covered in 70317 Real Property
+  - “Interest in land”
+    - Ownership
+    - Leasehold
+    - Options
+    - Mortgages
+    - Easements
+    - Generally NOT a “mere licence” to use land.
+  - CONVEYANCING ACT 1919 (NSW), s 54A
+    - “Sale or other disposition” suggests that the relevant interest must be pre-existing, but it also includes creation of interest in land.
+    - Example: granting a lease creates an interest in the land.
+      - Disposition includes a conveyance, and also an acknowledgment under section 83 of the Probate and Administration Act 1898, vesting instrument, declaration of trust, disclaimer, release and every other assurance of property by any instrument except a will, and also a release, devise, bequest, or an appointment of property contained in a will; and dispose has a corresponding meaning. (s 7)
+- EVIDENCE IN WRITING
+  - “AGREEMENT ... IS IN WRITING”
+    - A signed contract will be used in most sales and leases.
+      - Example: Contract for the Sale and Purchase of Land 2019 Ed (© Law Society of NSW and the Real Estate Institute of NSW)
+  - “... OR SOME MEMORANDUM OR NOTE THEREOF”
+    - Could include:
+      - An unsigned contract
+    - Correspondence between parties discussing the agreement
+    - Cheques, forms, etc filled out by the parties
+    - Any combination of the above
+  - Cont’d
+    - 1. All the essential terms; and
+    - 2. Signature of the party to be charged must be evidenced in writing.
+    - Essential terms (sale)
+      - Parties
+      - Property
+      - Price
+      - (Other key) Promises
+      - Twynam Pastoral Co Pty Ltd v Anburn Pty Ltd (1989) 6 BPR 13,448, 13,445 (Young J).
+    - Essential terms (lease)
+      - Parties
+      - Property
+      - Rent (Price)
+      - Term (duration)
+      - (Other key) Promises
+  - Cont’d
+    -  Essential terms must be identified in writing with sufficient certainty.
+      - Sometimes a description will suffice when identifying parties and property.
+      - Parol (“extrinsic”) evidence can be used to precisely identify the party/property, so long as the evidence is more than asking the authors what the parties intended.
+  - Identifying the parties
+    - Rosser v Austral Wine & Spirit Co Pty Ltd [1980] VR 313
+      - Guarantee (reqd to be in writing in VIC) expressed in favour of: “each and every member of the Wholesale Spirit Merchants Association of Victoria Wine; and Brandy Producers' Association of Victoria.”
+      - “It thus appears that Lord Blackburn was concerned to point out in Rossiter v Miller that the parties will be sufficiently described in a writing for the purposes of the Statute of Frauds if the description used can be explained by extrinsic evidence without having to resort to evidence to prove the intention of the author.” (The Court, 318)
+      - “Accordingly we think that the respondents are sufficiently described in the instrument of guarantee and that the parol evidence is admissible to prove their identity.” (The Court, 318)
+  - Identifying the property
+    - Ogilvie v Foljambe (1817) 3 Mer 53; 36 ER 21
+      - “The Defendant speaks of “Mr. Ogilvie's house,” and agrees “to give £14,000, for the premises ”; and parol evidence has always been admitted, in such a case, to shew to what house, and to what premises, the treaty related.” (Sir William Grant MR)
+  - Identifying the property
+    - Plant v Bourne [1897] 2 Ch 281
+      - Description: “twenty-four acres of land, freehold, and all appurtenances thereto, at Totmonslow, in the parish of Draycott, in the county of Stafford.”
+        - ‘I think Mr. Plant means he is selling “the twenty-four acres we have been looking at,” or “my twenty-four acres.” 
+        - It is not twenty-four acres of land anywhere in England, but the place, the county, and the parish are all mentioned. ... Assuming that the parol evidence comes up to what has been stated, the result would be this: that Mr. Plant had twenty-four acres lying within the metes and bounds sufficiently defined; and if the fact be ascertained that he had no other twenty-four acres that would answer that description, then there would be simply the laying the contract alongside that fact, and the result will be ascertained — namely, that the twenty-four acres lying within the metes and bounds was the property that was intended to be included in this description.’ (Chitty J, 290)
+  - Identifying the property
+    - Pirie v Saunders (1961) 104 CLR 149
+      - ‘Finally, even if these objections are not properly founded, it will be seen upon examination that there are several reasons why the document could not be regarded as a sufficient note or memorandum. 
+      - In the first place it does not specify the property which is to be leased beyond describing it as "part of Lot B, Princes Highway, Sylvania Heights". 
+      - This alone is, we should think, a fatal objection.’ (The Court)
+  - “SIGNED BY THE PARTY TO BE CHARGED”
+    - “Party to be charged” = party against whom the contract is being enforced
+    - Both signatures are not necessary.
+    - Signature
+      - “Signature” is more than mark at the end of a document.
+      - Courts look for an objective indication by the party to be charged that they acknowledge that a certain document(s) records the entire agreement and that they are bound by it.
+      - A court may accept party’s name on a particular document is a signature under the authenticated signature fiction.
+  - “SIGNED BY THE PARTY TO BE CHARGED”
+    - Authenticated signature fiction
+      - Looking for evidence that the party to be charged has acknowledged a document as recording the finalised agreement.
+    - Durrell v Evans (1862) 1 H & C 174
+      - “... for the cases have decided that it does not signify where the name is placed, if it is put there by the party sought to be charged or some person deputed by him. It may be at the head, in the middle, at the end, or in any part of the document.” 
+      - “If the parties meant the writing to be a memorandum of their contract, it is binding on them.” (Crompton J)
+  - “SIGNED BY THE PARTY TO BE CHARGED
+    - Authenticated signature fiction
+      - Pirie v Saunders (1961) 104 CLR 149
+        - “The principle applied in those cases can, we think, have no application to any document which is not in some way or other recognizable as a note or memorandum of a concluded agreement.”
+        - Neither the existence of the document nor its contents are indicative of the existence of any binding contract.
+        - Perhaps, in other words, it may be said that the enumerated particulars do not appear as a note or memorandum of a subsisting contract as distinct from bare instructions for the preparation of a formal lease.
+  - “SIGNED BY THE PARTY TO BE CHARGED”
+    - Authenticated signature fiction
+      -  Ultimately, whether a party has “signed” or “authenticated” a document is a question of fact.
+      - NOTE: bare fact of a party’s name is not conclusive – just a starting point.
+    - Agency
+      - “... signed by the party to be charged or by some other person thereunto lawfully authorised by the party to be charged.”
+  - TIME OF CREATION
+    - Haydon v McLeod (1901) 27 VLR 395, 402
+    - Heppingstone v Stuart (1910) 12 CLR 126, 131 – 132.
+      - ‘Since the case of Reuss v. Picksley, decided in 1866, it cannot be disputed that a written offer, containing all the terms of a proposed contract, may be accepted verbally, and if it is accepted verbally then there is a complete contract satisfying the Statute of Frauds.’ (Griffith CJ)
+  - ELECTRONIC TRANSACTIONS
+    - Electronic Transactions Act 2000 (NSW)
+    - Section 4 – Simplified outline
+      - 1) The following is a simplified outline of this Act:
+        - (a) For the purposes of a law of this jurisdiction, a transaction is not invalid because it took place by means of one or more electronic communications.
+        - (b) The following requirements imposed under a law of this jurisdiction can generally be met in electronic form:
+          - i. a requirement to give information in writing,
+          - ii. a requirement to provide a signature,
+          - iii. a requirement to produce a document,
+          - iv. a requirement to record information,
+          - v. a requirement to retain a document.
+    - Section 7 – Validity of electronic transactions
+      - (1) For the purposes of a law of this jurisdiction, a transaction is not invalid because it took place wholly or partly by means of one or more electronic communications.
+      - (2) The general rule in subsection (1) does not apply in relation to the validity of a transaction to the extent to which another, more specific, provision of this Part deals with the validity of the transaction.
+  - Section 9 – Signatures
+    - (1) If, under a law of this jurisdiction, the signature of a person is required, that requirement is taken to have been met in relation to an electronic communication if:
+      - (a) a method is used to identify the person and to indicate the person’s intention in respect of the information communicated, and
+      - (b) the method used was either:
+        - (i) as reliable as appropriate for the purpose for which the electronic communication was generated or communicated, in the light of all the circumstances, including any relevant agreement, or
+        - (ii) proven in fact to have fulfilled the functions described in paragraph (a), by itself or together with further evidence, and (c) the person to whom the signature is required to be given consents to that requirement being met by way of the use of the method mentioned in paragraph (a).
+ELECTRONIC TRANSACTIONS
+    - Conveyancing Act 1919 (NSW)
+      - Section 6C – Electronic form documents and signatures
+        - (1) A reference in this Act to a contract or deed includes a reference to an electronic data file containing a contract or deed in an electronic form.
+        - (2) This Act applies to and i	n respect of contracts or deeds in an electronic form in the same way as it applies to other contracts or deeds, subject to any modifications prescribed by this Act or the regulations.
+        - …
+        - (6) If a contract is provided in electronic form, all other documents that are required to be attached to the contract, or provided before completion of the contract, may, despite any other provision in this Act or the regulations, also be provided in electronic form if the document is clearly legible in that form.
+      - Section 54A – Contracts for sale etc of land to be in writing
+        - (1) No action or proceedings may be brought upon any contract for the sale or other disposition of land or any interest in land, unless the agreement upon which such action or proceedings is brought, or some memorandum or note thereof, is in writing, and signed by the party to be charged or by some other person thereunto lawfully authorised by the party to be charged.
+        - …
+        - (4) A contract referred to in subsection (1) is not invalidated or rendered unenforceable only because it has been created in electronic form and electronically signed or attested.
+  - Joinder - multiple documents
+    - Joinder: reading several documents together
+      - Law is prepared to join documents together to complete the picture if there is a link between them that is:
+      - Physical
+      - Temporal; or
+      - Textual
+  - JOINDER: PHYSICAL
+    - Physically attached (glue, sticky tape, staple):
+      - Pang v Bydand Holdings Pty Ltd [2010] NSWCA 175 (1 July 2010)
+        - [18] What man has physically joined the law does not put asunder:... . 
+        - The composite document must be read and construed as a whole. (Handley AJA, Allsop P and McFarlan JA agreeing)
+      - Pearce v Gardner (1897) 1 QB 688, 690
+        - ‘The common sense of the matter seems to me to be that the envelope and the letter within it were sent together and may be taken together; so that the effect is the same as if the name of the plaintiff had been written at the foot or indorsed on the letter.’ (Lord Esher MR)
+  - JOINDER: TEMPORAL / ‘CONTEMPORANEOUS’
+    - Pang v Bydand Holdings Pty Ltd [2010] NSWCA 175 (1 July 2010)
+      - construction of separate instruments executed by the same parties at or about the same time.
+        - ‘When the same parties execute contemporaneously several instruments relating to different parts of the same transaction all must be considered together
+  - JOINDER: TEXTUAL REFERENCES
+    - They may be connected by reference one to the other; but further, "if you can spell out of the document a reference in it to some other transaction, you are at liberty to give evidence as to what that other transaction is, and, if that other transaction contains all the terms in writing, then you get a sufficient memorandum within thestatute by reading the two together"
+    - Timmins v Moreland Street Property Co Ltd [1958] Ch 110, 130
+      - there should be a document signed by the party to be charged, which, while not containing itself all the necessary ingredients of the required memorandum, does contain some reference, expressed or implied, to some other document or transaction. 
+      - Oral agreement to sell land. 
+        - Two documents.
+          - 1. Cheque for £3,900 made out to the seller’s solicitors ‘for and on behalf of’ the purchaser.
+          - 2. Receipt signed by the seller: ‘“Received of Moreland Street Property Co. Ltd. the sum of £3,900 as a deposit for the purchase of 6, 8 and 41, Boundary Street, Shore-ditch (freehold), which I agree to sell at £39,000.’
+      - 
+    - Todrell Pty Ltd v Finch (No 1) [2008] 1 Qd R 540
+      - The basic principle is that where two or more documents are relied upon as together constituting a written memorandum the signed document must refer to another document in such a manner as to incorporate it, or them, so that they can be read together with the signed document.
+      - When the memorandum relied upon consists of connected documents the fact that they are connected must appear from the writings themselves.
+    - Di Biase v Rezek (1971) 1 NSWLR 735, 74
+    - Tonitto v Bassal (1992) 28 NSWLR 564
+      - Two documents:
+        - 1. An option to purchase land signed by the purchasers, but not sellers; and
+        - 2. A letter sent by the solicitor for sellers that referred to the “option” and the “option agreement” (signed by purchasers’ agent).
+      - The letter from the sellers did not refer to the actual option document.
+      - Purchasers wanted to enforce the option: had to link the letter with seller’s signature to the unsigned option.
+    - Documents could be linked in two ways:
+      - 1. “Option” and “option agreement” in the letter were an implied reference to the option document.
+      - 2. “Option” and “option agreement” were references to a transaction: could take evidence on that transaction to identify if other documents related to it existed: 
+        - Harvey v Edwards Dunlop & Co Ltd (1927) 39 CLR 302.
+    - Elias v George Sahely & Co [1983] 1 AC 646
+      - Oral agreement to sell land. Two documents:
+        - 1. Letter from purchaser’s solicitor confirming the contract. 
+          - Enclosed a cheque for the deposit “in respect of the sale and purchase”;
+        - 2. A receipt sent by the solicitor for seller “being deposit on property ... agreed to be sold by George Sahely & Co. B'dos Ltd”.
+- CONSEQUENCES
+  - CONVEYANCING ACT 1919 (NSW), s 54A
+    - 54A Contracts for sale etc of land to be in writing
+      - 1) No action or proceedings may be brought upon any contract for the sale or other disposition of land or any interest in land, unless the agreement upon which such action or proceedings is brought, or some memorandum or note thereof, is in writing, and signed by the party to be charged or by some other person thereunto lawfully authorised by the party to be charged.
+  - “NO ACTION OR PROCEEDINGS MAY BE BROUGHT”
+    - 
+  - VARIATION / TERMINATION
+    -  How may parties vary or terminate a contract that must comply with s 54A to be enforceable?
+      - General rule: parties must enter a second contract that either varies or terminates the existing contract.
+    - Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93
+  - PART PERFORMANCE
+    - If the contract does not comply with Conveyancing Act 1919 (NSW) s 54A(1), then the contract is not enforceable at common law.
+      - The plaintiff may be able to obtain an order of specific performance in equity under the principle of part performance.
+  - Dunton v Dunton 1892 18 VLR 114
+    - Gave allowance to wife while she conducted in a sober manner
+    - Got divorced and he still wanted to enforce his promise
+    - Can only promise not to do something illegal, not legal
+  - Joint consideration
+    - Coulls v Bagots
+# Week 4: Privity
+
+- Privity
+  - Only parties to the contract may sue on it.
+    - a contract cannot confer an enforceable benefit on a non- party, nor can it impose an enforceable burden on a non-party. 
+  - The doctrine of privity is often regarded as having been established by the case of Tweddle v Atkinson (1861) 1 B & S 393
+  - Closely related to the doctrine of consideration.
+  - Dunlop Pneumatic Tyre Company v Selfridge and Company Ltd [1915] AC 847
+  - Coulls v Bagot's Executor and Trustee Co Ltd (1967) 119 CLR 460
+    - Mr Coulls owned land.
+    - Mr Coulls agreed to let a company quarry stone on the land in return for royalty payments.
+    - Mr Coulls and the company negotiated the terms.
+    - The document written by Mrs Coulls and Mr Coulls' direction.
+    - Title said only between Mr Coull and O’neil construction
+      - Did not matter that Mrs Coull signed at bottom, she was not named in the agreement
+  - Lederberger v Mediterranean Olives Financial Pty Ltd (2012) 38 VR 509
+    - [19] Identification of the parties to a contract must be in accordance with the objective theory of contract. 
+  - Third Party Beneficiaries
+    - Johann pays Christian to provide composition lessons to Ludwig.
+    - Benefit of Christian's promise conferred on Ludwig.
+    - Ludwig cannot enforce the contract between Johann and Christian.
+  - Third Party Beneficiary remedies
+    - Third party beneficiary cannot sue on the contract itself.
+    - May avoid the privity rule by suing in another area of the law.
+    - Key 'exceptions':
+      - Agency
+      - Privity.
+- Agency
+  - Agent: 
+    - Person authorised by a principal to enter legal relations with other parties on behalf of the principal.
+  - Principal: 
+    - A person who provide authority to an agent to enter legal relations with other parties on their behalf.
+  - International Harvester Co of Australian Pty Ltd v Carrigan's Hazeldene Pastoral Co (1958) 100 CLR 644
+    - Agency is a word used in the law to connote an authority or capacity in one person to create legal relations between a person occupying the position of principal and third parties.' (The Court)
+  - Himalaya Clauses
+    - 'Himalaya clause'
+      - Clause that protects the carrier and its sub-contractors, employees, etc from liability for damaging the transported goods.
+      - Deems the carrier as an agent of sub-contractors, etc.
+      - Therefore, the sub-contractors are a party to the contract of carriage.
+  - Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd (The "New York Star") (1978) 139 CLR 231
+    - Carrier employed Port Jackson Stevedoring to unload and transport the cartons in Sydney.
+    - Stevedore negligently lost 33 cartons.
+    - Consignee sued the stevedore.
+    - Stevedore relied on cl 2 of the contract between the carrier and Schick.
+  - TRUSTS
+    - A third party to a contract may sue to receive any benefit intended to be conferred on them if they are beneficiary under a trust.
+    - Trustee 
+      - Owns a legal right
+        - Real property or chose in action
+    - Beneficiary
+      - Trustee obliged to manage trust property for their benefit.
+      - Can enforce that obligation in equity
+  - TRIDENT GENERAL INSURANCE CO LTD V MCNIECE BROS PTY LTD
+    - Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107
+      - Trident insured Blue Circle (the 'Assured') against liability for personal injury.
+      - 'Assured' defined as:
+        -  'Blue Circle, all its subsidiary, associated and related companies, all contractors and subcontractors and/or suppliers.'
+      - Blue Circle employed McNiece as a contractor
+      - McNiece was liable for the injury of one its employees.
+      - McNiece sued on the insurance contract between Trident and Blue Circle for indemnity.
+      - Trident argued that McNiece was not a party and could not sue.
+    - McNiece successful but no clear ratio.
+      - 5 of 7 judges found for McNiece but on different bases.
+      - 3 of 7 judges prepared to amend the rules of privity in insurance contracts.
+      - 2 of 7 judges found for McNiece based on trust and unjust enrichment.
+      - 3 of 7 judges expressly preserved the existing rules of privity.
+      - Therefore: classical rules of privity continue to be good law post
+- Express terms
+  - Principles of Australian Contract Law
+    - the constituent parts of a contract that are binding upon the parties and that indicate what the parties need to do in performance of the contract..
+  - Terminology
+    - Term
+      - Warranty
+        - Inessential term
+        - Breach: damages only
+      - Clause
+      - Condition
+        - Essential term
+        - Breach:Damages and choice to terminate
+      - Provision
+      - Covenant
+    - Express
+      - Written 
+      - oral
+    - Implied
+      - Presumed intention
+      - Gap filler
+    - Promissory
+      - Consideration
+      - Why parties enter contract
+      - Remedies for breach
+    - Non-promissory
+      - “Boilerplate terms” | “Fine print”
+      - Procedural/Functional
+    - “Boilerplate terms” | “Fine print”	
+      - Standard terms found in many written contracts.
+      - Comprise a significant proportion of the terms.
+      - Assume importance when things go wrong.
+      - Just as binding as promissory terms.
+    - Contingent conditions
+      -  Stipulate when:
+        -  the primary obligations become performable; or
+        -  the contract ends.
+      -  Example: subject to finance clause.
+      -  No liability if the contingency does / doesn't occur.
+      -  Also known as:
+        -  Condition precedent / subsequent
+        -  Sunset clauses
+  - Choice of Law/Forum
+    -  Identify:
+      -  Which jurisdiction's laws apply to the contract.
+      -  Which jurisdictions courts may hear legal disputes about the contract.
+  - DISPUTE RESOLUTION CLAUSES
+    -  Provide the procedure for managing disputes about the contract.
+    -  May oblige parties to attempt mediation / arbitration before commencing court actions.
+  - ENTIRE AGREEMENT CLAUSES
+    -  Declares that a document(s) comprises the entire agreement.
+    -  Attempts to limit disputes about the contents of a contract.
+    -  Typically engages the parol evidence rule. (To be address in a later video.)
+  - FORCE MAJEURE CLAUSES
+    -  Translation: superior or overwhelming force.
+    -  Provides what happens in the event of unforeseen events that disrupt performance.
+      -  For example: natural disaster, war, civil unrest, epidemic, etc.
+- When is a statement a term of a contract?
+  - General Principles 
+    - Statement: 
+      - Any oral or written precontractual statement
+    - Representor:
+      - Person who makes a statement
+    - Representee:
+      - Person whom a representor makes a statement
+  - Signature
+  - Notice 
+  - Prior dealings
+  - Simple scenario
+    - All express terms in an accepted offer
+  - Contract elements
+    - Puff
+      - Exaggerated sales talk
+    - Representation 
+      - Induce contract
+      - Not intended to be in contract
+      - Representation def
+        - a statement that induces a party to enter into a contract but isn't a contractual promise
+    - Term
+      - Intended to be in contract.
+      - Often promissory.
+      - Term definition
+        - any clause or provision in a contract.
+    - Term
+      - Contractual damages
+      - Specific performance
+    - {Mis}Representations
+      - Rescission
+      - Damages in tort
+      - Statutory damages
+  - Oscar Chess Ltd v Williams [1957] 1 WLR 370
+    - "The intention of the parties can only be deduced from the totality of the evidence."
+      - Would a reasonable person infer there was a warranty
+    - Conduct of the parties, words, and behavior, and what would an intelligent bystander think.
+  - Hospital Products Ltd v United States Surgical Corporation 1984 156 CLR 41
+    - "what must be ascertained is what is to be taken as the intention which reasonable persons would have had if placed in the situation of the parties': Reardon Smith Line v. Hansen-Tangen [[1976]
+    - Time is only one factor, not decisive. 
+  - Five key indications of statements being terms 
+    - Timing
+      - Oceanic Sun Line Special Shipping Company lnc v Fay (1988) 165 CLR 197
+        - 'It was too late after the original contract was made to add conditions which were not incorporated in it. 
+      - Anything before contract is signed is admissable
+    - Language
+      - Oscar Chess Ltd v Williams [1957] 1 WLR 370
+    - Expertise
+      - Expertise of representor may indicate a pre-contractual statement is intended as a term.
+      - Someone in a position to guarantee the truth of a statement more likely to intend contractual liability for it.
+      - Oscar Chess Ltd v Williams [1957] 1 WLR 370
+        - Williams sold a '1948 Morris 10 Saloon' to Oscar Chess for lbs 290.
+        - Williams had represented that the car was a 1948 Model Morris based on registration book.
+        - Car was a 1939 model worth lbs 175.
+        - Did Williams promise that the car was a 1948 model?
+          - Did not have personal knowledge
+          - Was relying on the rego book 
+          - Therefore not likely liable
+    - Importance
+      - No defined meaning:
+        - Necessary for the contract to function.
+        - Objectively important to the representee or representor.
+      - Van Den Esschert v Chappell [1960] WAR 114 
+        - whereby a buyer ask the house seller if the house was affected by termites before signing a contract to purchase a house. 
+    - Form
+      - Statements recorded in writing more likely to be intended to be terms. 
+        - Specially if the form of the document is clearly contractual.
+      - Signature 
+      - Notice
+      - Equuscorp Pty Ltd v Glengallan Investments Pty Lt (2004) 218 CLR 471
+        - Respondents borrowed money from Rural Finance to invest in Equuscorp's project.
+        - Signed formal loan agreements.
+        - Trial judge found that Rural had orally promised 'limited recourse' before the respondents signed. 
+        - Oral promise not in loan documents
+          - Was the oral promise an enforceable term?
+            - collateral agreement (made in consideration of the parties later executing the written agreement)
+            - But that cannot be so here. 
+              - The oral limited recourse terms alleged by the respondents contradict the terms of the written loan agreement.
+  - NON-PROMISSORY TERMS
+    - In some cases, it may not make sense to ask whether the language was 'promissory'.
+    - Rather, the language might be 'contractual' or directed at how the contract should function.
+    - In any event, the general principle applies.
+    - Non-promissory terms often fall within the incorporation by notice / signature cases.
+- The Parol Evidence rule
+  - Parol evidence rule applies to entirely written contracts
+    - parol evidence is any agreement that is not contained within the written contract.
+  - 2 parts
+    - Identification
+      - Goss v Lord Nugent (1833) 110 ER 713
+        - [I]f there be a contract which has been reduced into writing, verbal evidence is not allowed to be given of what passed between the parties, either before the written document was made, or during the time that it was in a state of preparation, so as to add to or subtract from, or in any manner to vary or qualify the written contract
+    - Construction
+      - Codelfa Construction Pty Ltd v State Rail Authority (NSW) (1928) 149 CLR 337
+        -  extrinsic evidence could be used to identify the commercial purpose of the contract and the context in which the contract was made, but not to contradict its express terms.
+  - Policy
+    - Inglis v John Buttery & Co (1878) 3 App cas 552.
+      - whether extrinsic evidence could be used to interpret a provision in the written contract.
+      -  the words of a written contract are to be the primary focus of interpretation and that extrinsic evidence, including the prior negotiations or subsequent conduct of the parties, is generally not admissible to alter, contradict, or add to the terms of the written contract.
+  - Parol evidence definition
+    - The parol evidence rule, which is concerned with the raw material which contracting parties are entitled to put before the courts in interpreting their contract, has been expressed, either separately or together, in three rules.
+      - (1) Where a document exists, other evidence of the terms of the document is not admissible.
+      - (2) Evidence of other terms not included expressly or by reference in the document is not admissible.
+      - (3) Evidence of the drafter’s intended meaning is not admissible.
+- Entire Agreement clause
+  - Entire agreement clause
+    - Literally declares contract contains entire agreement
+    - Inntrepreneur Pub Co (GL) v East Crown Ltd [2000]
+- The Anterior Question
+  - State Rail Auth of NSW v Heath Outdoor Pty Ltd (1986) 7 NSWLR 
+    - Heath permitted to build sign to display advertising for 5 years.
+    - Parties signed a formal contract.
+    - Cl 6: The authority could terminate the agreement for any reason with one month notice.
+    - Heath was concerned about cl 6.
+    - Mr Giles (SRA) said that he could not change the terms.
+    - Heath induced to sign after Mr Giles assured Heath that cl 6:
+      - Did not apply to this type or arrangement; and
+      - Was only used when rent was overdue or in respect of objectionable advertising.
+    - Did the parol evidence rule exclude these assurances?
+  - Anterior question: 
+    - Did the parties intend a document to be a record of their entire agreement?
+    - Court may consider extrinsic evidence to answer this question.
+    - A formal, apparently complete document is evidence that it was intended as the record of the entire agreement.
+    - Nemeth v Bayswater Road Pty Ltd [1988] 2 Qd R 406
+- PAROL EVIDENCE RULE:Summarised
+  - Masterton Homes Pty Ltd v Palm Assets Pty Ltd (2009) 261 ALR 382
+    - ‘The principles that are applicable in deciding whether an agreement that parties have entered is one that is wholly in writing, or partly written and partly oral, include the following: ... 401 [90] (Campbell JA)
+      - ‘(1) When there is a document that on its face appears to be a complete contract, that provides an evidentiary basis for inferring that the document contains the whole of the express contractual terms that bind the parties: ...’ 401 [90] (Campbell JA)
+      - ‘(2) It is open to a party to prove that, even though there is a document that on its face appears to be a complete contract, the parties have agreed orally on terms additional to those contained in the writing: …
+        - Conversely, it is open to a party to prove that the parties have orally agreed that a document should contain the whole of the terms agreed between them: ...’ 401 [90] (Campbell JA)
+      - ‘(3) The parol evidence rule applies only to contracts that are wholly in writing, and thus has no scope to operate until it has first been ascertained that the contract is wholly in writing: ...’ 402 [90] (Campbell JA)
+      - ‘(4) Where a contract is partly written and partly oral, the terms of the contract are to be ascertained from the whole of the circumstances as a matter of fact: ...’
+      - ‘(5) In determining what are the terms of a contract that is partly written and partly oral, surrounding circumstances may be used as an aid to finding what the terms of the contract are: 
+        - ... If it is possible to make a finding about what were the words the parties said to each other, the meaning of those words is ascertained in the light of the surrounding circumstances: ... If it is not possible to make a finding about the particular words that were used (as sometimes happens when a contract is partly written, partly oral and partly inferred from conduct) the surrounding circumstances can be looked at to find what in substance the parties agreed:’ 
+        - Parol evidence rule chart summary
+      - ‘(6) A quite separate type of contractual arrangement to a contract that is partly written and partly oral is where there is a contract wholly in writing and an oral collateral contract: ...’ 
+  - Exceptions
+    - Estoppel
+      - Prevents detrimental reliance
+      - NOT ASSESSED
+    - Collateral contract
+      - Separate related contract
+- Collateral Contracts
+  - Parol evidence rule doesn’t apply verbally
+    - Does apply in written contract
+  - Additional (collateral) clear, contractual promise in respect of a ‘main’ contract.
+    - 2. Promisee provides consideration:
+      - Entry into main contract (or promise to do so). 
+    - 3. Collateral contract is consistent with main contract.
+  - Crown Melbourne Ltd v Cosmopolitan Hotel (Vic) Pty Ltd (2016) 260 CLR 1
+    - it is an objective test – of what a reasonable person in the position of the parties would necessarily have understood to have been intended.’
+  -  J Savage & Sons Pty Ltd v Blakney (1970) 119 CLR 435
+    - Blakey contracted with JJ to construct a boat.
+    - ‘Estimated speed 15 M.P.H.’
+    - Was this statement a term of the contract?
+      - Full Court of Supreme Court of Victoria: intended as a term of a collateral contract.
+      - the entry into the contract to purchase the boat providing the consideration to make the promise effective
+- CERTAINTY AND COMPLETENESS
+  - Crown Melbourne Ltd v Cosmopolitan Hotel (Vic) Pty Ltd (2016) 260 CLR 1
+    - Crown offered to renew leases with Cosmopolitan for 5 years.
+    - Cosmopolitan obliged to refurbish / Crown not obliged to renew.
+    - Cosmopolitan would be ‘looked after at renewal time.’
+    - VCAT: In a collateral contract, Crown promised to offer to renew the lease for another five years on its own terms.
+  - Hoyt’s Pty Ltd v Spencer (1919) 27 CLR 133
+    - Hoyt’s leased premises from Spencer for a term of 4- years.
+    - Clause provided that Spencer could terminate the lease at any time with 4-weeks’ notice.
+    - Spencer promised not to exercise this power without Hoyt’s’ consent.
+    - Enforceable collateral contract?
+      -  a collateral contract cannot impinge on it, or alter its provisions or the rights created by it;
+    - Issacs J held that, despite the absence of the term in the primary written contract, there existed a collateral contract. This collateral contract contained the term which Hoyt’s sought to enforce.
+  - Heilbut, Symons & Co v Buckleton [1913] AC 30
+    - Such collateral contracts, the sole effect of which is to vary or add to the terms of the principal contract, are therefore viewed with suspicion by the law. 
+    - lessening the authority of written contracts by making it possible to vary them by suggesting the existence of verbal collateral agreements relating to the same subject-matter.
+- LEGAL CONSEQUENCES
+  - If promisor breaches their collateral promise
+    - Promisee may sue for damages / specific performance
+    - Promisee may not terminate the main contract
+      - Breach of the collateral contract by the promisor does not affect the validity of the main contract. 
+
+# Week 5: Express terms, Construction
+
+- Topic 3.1.4 Incorporation of terms by signature
+  - When is a statement a term of the contract?
+    - Signature
+    - Prior Notice
+    - dealings
+  - Signature rule
+    - L'Estrange v F Graucob Ltd [1934] 2 KB 394
+      - L'Estrange purchased a cigarette dispensing machine from Graucob.
+      - L'Estrange signed a document headed ‘Sales Agreement’. 
+        - Clause expressly excluded terms being implied into the agreement.
+        - Ordinarily, the Sale of Goods Act would imply a warranty that the machine was fit for purpose.
+      - L'Estrange argued: 
+        - Not bound by the exclusion cläuse because:
+          - Not read the document.
+          - Presented as a mere order form
+      - Signature rule: A party will be bound by the terms contained in a contractual document, which they have signed even if. they have not read the document (L'Estrange affirmed in Toll)
+      - Constructive knowledge 
+        - when someone is legally presumed to know something because they should have known it bc they read document
+      - Actual knowledge
+        - Understanding of something because informed and read or processed
+    - Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219CLR 165
+      - a person who signs a document which is known by that person to contain contractual terms… is bound by those terms, 
+        - and it is immaterial that the person has not read the document.'
+      - Facts
+        - Toll damaged the vaccines while transporting / storing them.
+        - Was cl 6 (exclusion clause) part of the contract?
+        - If in the contract, the term would exclude Toll's liability
+      - Alphapharm argued:
+        - Unaware that a 'Credit application' document would contain terms on conditions of delivery.
+        - Toll had not brought the 'unusual' terms in it to its attention before signing.
+      - In this case:
+        - Document was clearly contractual.
+        - Clear the application form would govern all future transactions.
+        - Terms were not unusual for the industry.
+        - Signer was not rushed to Sign.
+      - Test
+        - Ordinary Meaning: The words used in a contract should be given their natural and ordinary meaning unless such a reading would lead to an absurd result.
+        - Context is Key: The context in which a term is used within the contract and the overall purpose of the contract play a significant role in its interpretation.
+        - Commercial Sense: The interpretation should make commercial sense, especially when interpreting commercial contracts.
+        - Avoiding Unreasonable Results: Interpretations that would lead to an unreasonable result, where the contract is fairly open to another interpretation, should be avoided.
+        - 
+    - Wilton v Farnworth 1948 76 CLR 646
+      - whatever they might be, it was for him to protect himself by abstaining from signing the document until he understood it and was satisfied with it.' 
+  - Timing
+    - Only signatures provided before the contract forms can incorporate terms into the contract.
+    - DJ Hill & co Pty Ltd v Walter H Wright Pty Ltd [1971] VR 749
+      - D J Hill transported Walter H Wright's equipment on 10 occasions.
+      - Procedure:
+        - Contract made by telephone.
+        - Service performed.
+        - Service/Crane request forms signed by Walter.
+      - Forms contained exclusion clauses.
+      - Sept 1966: Walter hired DJ to transport heavy equipment.
+        - Entered the contract per usual routine.
+        - DJ damaged Walter's equipment.
+        - DJ relied on exclusion clauses in signed forms to exclude liability.
+        - Were the exclusion clauses in the contract?
+      - Performance was complete by the time
+  - Avoiding the signature rule
+    - Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219 CLR 165
+      - Exceptions
+        - 'If there is a claim of misrepresentation, or pon est factum, 
+        - Non est factum
+        - Whether a document was intended to affect legal relations 
+        - If tendered as a mere memorandum of a pre-existing contract or a receipt, 
+        - claim fore equitable or statutory relief 
+      - then even in the case of a signed document it may be material to know whether a person who has signed it was given sufficient notice of its contents.' 185 [57] (The Court)
+  - Misrepresentation
+    - Vitiating factor def
+      - Makes entire contract 'voidable'.
+      - If voided (rescinded) then parties must be restored to pre-contractual positions. 
+        - Like a refund.
+      - Contract may not be enforced if voided —
+        - nothing to enforce!
+    - Signature
+      - Certain terms in a signed document not enforceable / part of contract.
+    - Curtis v Chemical Cleaning & Dyeing Co [1951] 1 KB 805
+      - Mrs Curtis delivered wedding dress for dry cleaning.
+      - Chemical Cleaning asked Mrs Curtis to signed a document.
+      - Assistant said that Chemical Cleaning would not be liable for damagae to beads and seauins.
+        - Assistant misled Mrs Curtis about the extent (scope) of the exclusion clause in the signed document.
+      - Exclusion clause was not part of the contract.
+  - NON EST FACTUM / STATUTORY AND EQUITABLE RELIEF
+    - Non est factum
+      - Common law vitiating factor
+    - Equitable
+      - Unconscionable conduct
+      - Undue influence
+      - Third party impropriety
+    - Statutory
+      - Australian Consumer Law
+  - ebay internaftonal AG v Creatlve Festival Entertainment Pt Ltd 2006 170 FCR 450
+    - 'By clicking on the relevant bnuttons and, by the computer bringing up terms needed to purchase a ticket… the whole transaction was in writing, signed and agreed by the parties.
+    - Electronic transactions are signed\
+  - Gonzalez v Agoda co Pte Ltd [2017] NSWSC 1133
+    - Mrs Gonzalez booked online a hotel room in Paris.
+  - Carnival plc v Karpik (Ruby Princess) (2022) 404 ALR 386
+    - Class action b assen ers of the Rub Princess.
+    - Passengers accepted terms of contract by:
+      - Logging into carriers' website.
+      - Adding a tick to 'l accept the passage contract.'
+      - Clicking on 'Proceed' at the end of a page of terms.
+- Topic 3.1.5 Incorporation of terms by notice
+  - Incorporation by notice
+    - Where one party attempts to incorporate written terms brought to the attention of the other into a contract.
+    -  Where the other party has not signed the document.
+
+    - Timing 
+    - Knowledge / Reasonable Notice
+  - TIMING
+    - Term must be brought to the attention of the relevant party before the contract forms.
+    - Sometimes time of formation is a key issue.
+      -  Offer acceptance.
+  - Ticket cases
+    - MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125
+      - Application of 'conventional analysis' to airline ticket
+    - Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163
+      - Application of 'conventional analysis' to machine issued ticket.
+    - 'Conventional analysis' is just a tool of analysis.
+      - Ultimate question: whether a party — through words or conduct — offered to enter a contract on certain terms, with an objective intention to be legally bound on acceptance.
+    - Oceanic Sun Line Special Shipping Company v Fay (1988) 165 CLR 197
+      - Dr and Mrs Fay booked a cruise in Greece with Sun
+      - Line through a travel agent based in Sydney.
+        -  Dr Fay browsed a brochure issued by Sun Line.
+        -  Back page contained information.
+      - Passenger's acceptance of that ticket constitutes agreement of those terms and conditions.’
+      - No Sun Line office in Sydney to obtain the ticket.
+        - Fays received an 'exchange order' when they paid the balance of their booking - to be exchanged for a ticket in
+      - Fays flew to Greece and received their ticket.
+        - Ticket contained cl 13 (Choice of forum clause).
+      - Fay was injured on the cruise.
+        - commenced proceedings against Sun Line in a NSW court.
+      - Sun Line argued that cl 13 obliged Dr Fay to commence proceedings in Greece.
+      - Was cl 13 in the contract?
+      - Held
+        - Contract formed when Fays paid balance of booking and received the exchange order.
+        - 'The better analysis of the transaction is that the defendant was bound to issue a ticket in exchange for the exchange order in performance of a contract of carriage already made 228 (Brennan J)
+    - GENERAL PRINCIPLE
+      -  The timing requirement in 'ticket cases' applies in all notice cases, regardless of medium.
+      -  The 'notice' may be:
+  - Signs / Notices
+    - Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163
+      - 'The terms of the offer are contained in the notice placed on or near the machine stating what is offered for the money. 
+      - The customer is bound by those terms as long as they are sufficiently brought to his notice before-hand, but not otherwise.' 169 (Denning LJ)
+    - Olley v Marlborough Court Ltd [1949] 1 KB 532
+      -  Mr and Mrs Oley stayed at the Marlborough Court Hotel.
+      -  Paid for 1 week's accommodation at reception.
+      - "The proprietors will not hold themselves responsible for articles lost or stolen, unless handed to the manageress for safe custody. 
+        - Valuables should be deposited for safe custody in a sealed package and a receipt obtained.'
+      - Valuables stolen from Ollies' room.
+        - Ollies sued Marlborough Court in negligence.
+      - Notice a term of the contract?
+        - Singleton and Denning LLJ: Contract formed at reception.
+        - Notice of term too late to be incorporated.
+  - NOTICE
+    - Did the incorporating party do enough to bring the term to the attention of the other party?
+    - Objective approach: Would a reasonable person have been aware of the term?
+    - Actual notice not required.
+    - Parker v South Eastern Railway Company [1887] 2 CPD 416
+      -  Parker paid 2 pennies to deposit his bag (worth E24) with the Co.
+      -  Parker received a ticket for payment:
+        -  Face: Opening hours + 'See back'.
+        -  Back: 'The company will not be responsible for any package exceeding the value of lb 10.
+      - Parker's bag was stolen.
+      - Co submitted that the term on the ticket was part of their contract and excluded liability.
+        - Parker gave evidence that:
+          -  He was not aware of terms on the ticket.
+          -  Assumed it was a receipt for payment.
+      - Trial judge directed jury to answer:
+        -  1. Did the plaintiff read or was he aware of the special condition upon which the article was deposited?
+        -  2. Was the plaintiff, under the circumstances, under any obligation... to read or to make himself aware of the condition?
+          - Jury answered 'no' to each question
+      - Real question was did the railway company do enough to indicate the the ticket contained terms - reasonable notice
+    - Notice summarized
+  - REASONABLE NOTICE
+    - Parker v South Eastern Railway Company [1887] 2 CPD 416
+      - 'Whether the plaintiff had any such knowledge or information, or good reason for belief, is a question of fact to be determined by the evidence.' 426 (Baggally LJ)
+        -  'Reasonable' depends upon context.
+          -  Form of document.
+          -  Unusual / onerous terms.
+    - Causer v Browne [1952] VLR 1
+      - Mr Causer delivered his wife's frock to a dry cleaner for cleaning.
+      -  Employee assured Mr Causer that the frock would 'be alright.'
+      -  Employee gave Mr Causer a docket with the price written on it.
+      - Terms are different on ticket, broader exclusion clause
+      - 'CONDITIONS. — Do not lose this receipt as the goods ill not be delivered except upon presentation of same and payment of charges. 
+        - All articles are received and treated entirely at owner's own risk. 
+        - No responsibility is accepted for loss or injury to articles through any cause whatsoever.
+      - Was this term in the contract?
+        - This would have appeared the moment when his attention should have been drawn to any special conditions upon which the defendants relied to exempt themselves from liability for negligence
+    - Oceanic Sun Line Special Shipping Company v Fay (1988) 165 CLR 197
+      -  Brochure issued when cruise booked:
+        -  '(t)he transportation of passengers and baggage ... is governed by the terms and conditions printed on the Passenger Ticket Contract which may be inspected at any Sun Line office.'
+      -  Contract formed when balance paid.
+      -  Reasonable notice of cl 13?
+        -  Not reasonable notice.
+        -  Terms not actually available for inspection.
+        -  Notice of general terms and conditions != sufficient notice of cl 13.
+    - Baltic Shipping co v Dillon (1991) 22 NSWLR 1
+      -  Mrs Dillon booked a cruise.
+      -  Issued a booking form:
+        -  'Contract for carriage for travel as set out herein will be made only at the time of the issuing of tickets and will be subject to the conditions and regulations printed on the tickets. 
+        - These conditions and regulations are available to all passengers at any CTC Cruises offices.'
+      - Mrs Dillon received her tickets 2 months after booking.
+        - Cl 26 (in ticket) limited Baltic's liability for personal injury and property damage.
+      - Cruise ship sank and caused Mrs Dillon personal injury and property damage. 
+      - Baltic relied on cl 26 to limit liability. 
+        - Was it in the contract?
+      - Kirby P: Directing Mrs Dillon to obtain terms from CTC Cruise offices != reasonable notice:
+        -  Obliged Mrs Dillon to seek the terms.
+        -  Unusual terms.
+      - Clause not incorporated.
+  - UNUSUAL / ONEROUS TERMS
+    -  If the notice contains 'unusual' or 'onerous' terms, then the incorporating party must do more to bring them to the attention of the other.
+    -  Cases suggest that reasonable notice of the terms themselves is required, not just notice that a document contains terms generally.
+    - Kerr v Australian Executor Trustees (SA) Ltd [2019] 1279
+      - [279] ... A term may be unusual or onerous where: 
+        - 1. it might not reasonably be expected to be part of the terms of the contract'
+        - 2. it is one "which no one would anticipate in a contract of the type in question"'
+        - 3. it "is more than ordinarily onerous". (Stevenson J)
+    - Oceanic Sun Line Special Shipping Company v Fay (1988) 165 CLR 197
+      - 'In differing circumstances, different steps may be needed to bring an exemption clause to a passenger's notice, especially if the clause is an unusual one.' 229 (Brennan J)
+    -  Interfoto Picture Library Ltd v Stiletto Visual Programmes Ltd [1989] QB 433.
+      - particularly onerous or unusual terms need to be specifically brought to the attention of the signing party to be enforceable. 
+        - If they are buried deep within the contract or aren't clearly highlighted, a court might not enforce them.
+    - Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163
+      - it is so wide and so destructive of rights that the court should not hold any man bound by it unless it is drawn to his attention in the most explicit way. ... In order to give sufficient notice, it would need to be printed in red ink with a red hand pointing to it — or something equally startling.' 170 (Denning LJ)
+  - COMPARISON WITH SIGNATURE
+    - Key difference
+    - Online contracts
+- INCORPORATION BY PRIOR DEALINGS
+  - James v Royal Bank of Scotland [2015} NSWSC 243
+    - [83] The classic case of incorporation by a course of dealings occurs where parties have had numerous contractual dealings over a period of time, with each dealing effected by a separate contract. 
+    - In those circumstances, it may be concluded that the terms stated in those documents should be incorporated into the parties' contracts. McDou all J
+  -  Extended form of incorporation by notice.
+    -  Regularity and uniformity of dealings =
+      -  Knowledge of the terms; and
+      -  Consent to them in contracts of the same type.
+  - Balmain New Ferry Company Ltd v Robertson (1906) 4 CLR 379
+    -  Balmain operated a ferry service between Sydney and Balmain.
+    -  Fares collected by turnstile only at the entrance/exit at Sydney wharf.
+      -  Notice at entrance said that 1 penny must be paid on entry or exit regardless of travel.
+    - Robertson paid 1 penny to enter the Sydney wharf.
+      - Attempted to leave without paying.
+      - Eventually forced his way out, then sued for false imprisonment.
+    - Was the term in the notice a term of the contract?
+      - Robertson had regularly used the service.
+      - Judge held
+        - Having travelled on many occasions ... he must have been aware that the company’s method of conducting theirbusiness was to release the turnstiles only on payment of a penny
+      - Apply regularity and uniformity
+  - REGULARITY AND UNIFORMITY
+    - Henry Kendall and Sons v William Lillico and Sons td [1969] 2 AC 31
+    - [the purchaser] knew that when [the vendor] sold they did so on the terms that they had continuously made known to [the purchaser].
+      - when
+      - [the purchaser] placed an order to buy they did so on the basis and with the knowledge that an acceptance of the order by [the vendor] and their agreement to sell would be on the terms and conditions set out on their contract notes to the extent to which they were applicable.’ 90 (Lord Morris of Borth-y-Guest)
+  - Regularity 
+    -  Question of fact whether dealings were sufficiently 'regular'.
+    -  Long history of frequent dealings is ideal.
+  - Uniformity
+    - Required to prove consent to the term over the course of dealings.
+  - CONTRACTUAL DOCUMENT
+    - The prior dealings should demonstrate that the parties treated any document containing the terms as contractual and intended to be part of the contract(s).
+    - Easier to prove when the document was routinely provided before each transaction.
+    - Documents provided after each transaction are more problematic.
+    - Rinaldi & Patroni Pty Ltd v Precision Mouldings Pty Ltd [1986] WAR 131
+      -  Rinaldi had transported boats to Precision's clients on 9-10 occasions.
+      -  Routine:
+        -  Contract made orally by telephone.
+        -  Boat delivered and price recorded on 'cart note' Rinaldi's client would sign.
+        -  Cart note sent to Precision with invoice for payment.
+      - Face of cart note: 'All goods are accepted subject to conditions on reverse.'
+      - Conditions contained an exclusion clause.
+      - Cart notes delivered after contract performed.
+      - Rinaldi damaged one of Precision's boats during a delivery.
+      - Was the exclusion clause in the contract?
+  - La Rosa v Nudrill Pty Ltd [2013] WASCA 18
+    - [68] It will be a question of fact and degree whether, in a particular case, the parties, by their conduct, have incorporated a term into their contract by a previous course of dealings. 
+    - Each case turns on its own facts and circumstances. … (Buss JA)
+      - Factors of relevance in determining whether the alleged term was incorporated include 
+        - the number of prior dealings, 
+        - how recent they were, 
+        - and the consistency in the prior dealings and the dealing in question 
+          - (for example, the similarity between the subject matter of the dealings and the manner in which the dealings were entered into or concluded).
+  - COMPARISON WITH SIGNATURE AND NOTICE
+    - Incorporation by prior dealings useful when:
+      -  Parties have history of regular and uniform dealings; and
+      - In an individual transaction, an incorporating party cannot show:
+        -  A signed document; or
+        -  That the other party had reasonable notice of a term.
+    -  Allows the court to not apply the general requirement for notice before the contract forms.
+Topic 3.2 Construing the terms
+- Topic 3.2.1 General principles
+  - Maggbury Pty Ltd v Hafele Australia Pty Ltd (2001 ) 210 CLR 181
+    - 'Interpretation of a written contract involves, as Lord Hoffmann has put it: "the ascertainment of the meaning which the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract."' 188 [10] (Gleeson CJ, Gummow and Hayne JJ)
+  - CONSTRUCTION
+    -  'Construction' = 'interpretation' 
+      - Verb
+    -  'Construe def
+      -  'The court construes the contract.'
+  - WHY IS CONSTRUCTION IMPORTANT?
+    -  Construction is necessary to determine:
+      -  The validity of a contract.
+      -  The scope of the parties' obligations.
+      -  Whether/How the contract was/may be discharged.
+      -  Whether any party is liable for failure to perform.
+  - SOURCE OF DISPUTE
+    -  Drafters cannot account for every contingency.
+    -  Parties may not be careful with choice of words.
+    -  Parties may not want to be too prescriptive.
+    -  Parties may trust that 'everything will be alright'.
+    -  Later events may complicate performance, causing dispute about who is responsible for it.
+  - Pacific Carriers Ltd v BNP Paribas (2004) 218 CLR 451
+    - 'The construction of the letters of indemnity is to be determined by what a reasonable person in the position of Pacific would have understood them to mean. 
+    - That requires consideration, not only of the text of the documents, but also the surrounding circumstances known to Pacific and BNP, and the purpose and object of the transaction.' 462 [22] (Gleeson CJ, Gummow, Hayne, Callinan and Heydon JJ)
+  - Electricity Generation Corporation t/as Verve Energy v Woodside Energy Ltd (2014) 251 CLR 640
+    - Both [parties] recognised that this Court has reaffirmed the objective approach to be adopted in determining the rights and liabilities of parties to a contract. 
+    - The meaning of the terms of a commercial contract is to be determined by what a reasonable businessperson would have understood those terms to mean 
+      - 656 [35] (French CJ, Hayne, Crennan and Kiefel JJ)
+  - Mount Bruce Mining Pty Ltd v Wright Prospecting Pty Ltd (2015) 256 CLR 104
+    - Main construction case
+    - 'The rights and liabilities of parties under a provision of a contract are determined objectively, by reference to its text, context (the entire text of the contract as well as any contract, document or statutory provision referred to in the text of the contract) and purpose.' 
+      - 116 [46] (French CJ, Nettle and Gordon JJ)
+    - It may be necessary in determining the proper construction where there is a constructional choice.' 117 [49] (French CJ, Nettle and Gordon JJ)
+      -  Ambiguity and the use of extrinsic evidence.
+    - What is inadmissible is evidence of the parties' statements and actions reflecting their actual intentions and expectations.' 117 [50] (French CJ, Nettle and Gordon JJ)
+      -  If extrinsic evidence may be considered, then it must consist only of facts objectively known to parties.
+    - Put another way, a commercial contract should be construed so as to avoid it "making commercial nonsense or working commercial inconvenience".'117 [51] (French CJ, Nettle and Gordon JJ) 
+      - A 'purposive' approach to construction may help a court to choose one meaning over another or ignore / overwrite literal words.
+    -  Key questions: what would a reasonable person in the position of the parties understand the words to mean?
+      -  Objective assessment I Subjective intent / beliefs irrelevant.
+      -  Context of transaction informs the meaning of the words.
+      -  Objective facts known to both parties may be considered.
+      - Language used
+  -  Most cases involve written commercial contracts.
+  - Exception to parole evidence rule: ambiguity 
+  - Each construed contract ultimately turns on the facts of the case.
+  - Words chosen will depend on context.
+
+- Topic 3.2.2 Extrinsic evidence and the parol evidence rule
+  - Mount Bruce Mining Pty Ltd v Wright Prospecting Pty Ltd (2015) 256 CLR 104
+    - 'In determining the meaning of the terms of a commercial contract, it is necessary to ask what a reasonable businessperson would have understood those terms to mean. 
+    - That inquiry will require consideration of the language used by the parties in the contract, the circumstances addressed by the contract and the commercial purpose or objects to be secured by the contract.' 
+      - 116 [47] (French CJ, Nettle and Gordon JJ)
+  - PAROL EVIDENCE RULE
+    -  Whether a court may consider extrinsic evidence arises when the parol evidence rule applies to a written contract.
+      -  Topic 3.1.2 — The Parol Evidence Rule
+        -  Helps identify the terms; and
+        -  Evidence that may be considered when construing a written contract.
+    - L Schuler AG v Wickman Machine Tool Sales Ltd [1974] AC 235
+      - 'The general rule is that extrinsic evidence is not admissible for the construction of a written contract; the parties' intention must be ascertained, on legal principles of construction, from the words they have used. 
+        - 261 (Lord Wilberforce
+      - It is one and the same principle which excludes evidence of statements, or actions, during negotiations, at the time of the contract, or subsequent to the contract, any of which to the lay mind might at first sight seem to be proper to receive.' 261 (Lord Wilberforce)
+    - The parol evidence rule:
+      -  Gives effect to the parties' intention to record their entire agreement in a certain document.
+      -  Reduces time wasted on considering uncertain and contradictory evidence of pre-contractual negotiations.
+    - Codelfa Construction Pty Ltd v State Rail Authority
+(NSW) (1982) 149 CLR 337
+- 'The point is that [evidence of] such [pre-contractual] statements and actions reveal the terms of the contract which the parties intended or hoped to make. 
+- They are superseded by, and merged in, the contract itself. 
+- The object of the parol evidence rule is to exclude them, the prior oral agreement of the parties being inadmissible in aid of construction 
+  - 352 (Mason J)
+  - AMBIGUITY
+    - Sometimes the language in a document to which the parol evidence rule applies is ambiguous.
+    - If so, the court may consider extrinsic evidence to clarify the meaning.
+    - Codelfa Construction Pty Ltd v State Rail Authority
+(NSW) (1982) 149 CLR 337
+- 'The true rule is that evidence of surrounding circumstances is admissible to assist in the interpretation of the contract if the language is ambiguous or susceptible of more than one meaning. 
+- But it is not admissible to contradict the language of the contract when it has a plain meaning." 352 (Mason J)
+    - Mount Bruce Mining Pty Ltd v Wright Prospecting Pty Ltd (2015) 256 CLR 104
+      - 'These observations are not intended to state any departure from the law as set out in Codelfa Construction Pty Ltd v State Rail Authority of New South Wales and Electricity Generation Corporation v Woodside Energy Ltd.' 
+        - 118 [52] (French CJ, Nettle and Gordon JJ)
+      -  Bell and Gageler JJ also affirmed Mason J's statement: 134 [119].
+    - Mason J's 'true rule'
+      -  The 'surrounding circumstances' may not be considered unless the language in the document itself is ambiguous?
+      -  The court may consider the 'surrounding circumstances' to decide whether the language is ambiguous?
+      -  What does 'ambiguous' mean?
+    - Mainteck Services Pty Ltd v Stein Heurtey SA (2014) 89 NSWLR 633
+      - to say that a legal text is "clear" reflects the outcome of that process of interpretation. 
+      - It means that there is nothing in the context which detracts from the ordinary literal meaning. It cannot mean that context can be put to one side
+        - 654 [77] (Leeming JA)
+  - NEW SOUTH WALES POSITION
+    - Cherry v Steele-Park (2017) 96 NSWLR 548 
+      - 'There is now a deal of authority for the proposition that whether there is in truth a constructional choice available to a written contract cannot be determined without first at least considering evidence of surrounding circumstances.'
+        - 566 [76] (Leeming JA)
+  - Identification of terms
+    - Consider evidence of surrounding circumstances to determine if document intended to record entire agreement.
+  - Construction of terms
+    - Consider evidence of surrounding circumstances to determine if the language is ambiguous.
+  - AMBIGUOUS OR SUSCEPTIBLE OF MORE THAN ONE MEANING’
+  - Gardiner v Agricultural and Rural Finance Pty Ltd [2007] NSWCA 235
+    - [Mason J's] reference in Codelfa at 348 to the proposition that language may not only be "ambiguous" but also "susceptible of more than one meaning" invoked a concept of "ambiguity" extending to any situation in which the scope and applicability of the formulation was, for whatever reason, doubtful.' 
+      - [12] (Spigelman CJ)
+  - Ritter v Keatiey Real Estate Pty Ltd (2013) 116 SASR 53
+    - 'In my view, the Mason J formulation in Codelfa is directed to circumstances in which an exclusively textual analysis of the language of a contract produces uncertainty as to the meaning of the contractual provision.' 75 [53] (Stanley J)
+  - Acorn Consolidated Pty Ltd v Hawkslade Investments Pty Ltd (1999) 21 WAR 425
+    - 'l think the proper approach is to look first to the instrument itself to see whether there is some reasonable basis for the apprehension that the wording of the contract might not necessarily reflect the presumed intention of the parties. 
+    - The English language being what it is, such a reasonable apprehension will generally be apparent "in many, if not most, cases".' 
+      - 425 (Owen J)
+  - Technomin Australia Pty Ltd v Xstrata Nickel Australasia Operations Pty Ltd (2014) 48 WAR 261
+    - "ambiguity" means any situation in which the scope orl applicability of a contract is, for whatever reason, doubtful. 
+    - It is not confined to lexical, grammatical or syntactical ambiguity.' 272 [73] (McLure P)
+  - PATENT AMBIGUITY
+    -  'Patent' v 'latent' ambiguity.
+      - Patent ambiguity
+        -  Language is ambiguous on its face.
+      -  Eg: 
+        -  Words do not have an ordinary meaning.
+        -  Inconsistent use of words.
+    - R W Cameron & Company v L Slutzkin Pty Ltd (1923) 32 CLR 81
+      -  Purchaser entered contract based on sample described as 'matchless No. 2475 goods white voile width 39/40 weight.'
+      -  Contract described goods sold as '200 pieces Matchless 2475 39/40 White Voile.'
+      -  Voile supplied not as good quality as the sample. 
+      -  What did '200 pieces Matchless 2475 39/40 White Voile' mean?
+  - LATENT AMBIGUITY
+    - Latent ambiguity
+      -  When a word used in a contract seem clear but could apply equally to several things.
+    - Hope v RCA Photophone ofAustra1ia Pty Ltd (1937) 59 CLR 348
+      - 'Latent ambiguity exists when a description, evidently meant to apply to only one person or thing, is shown to be equally applicable to more than one person or thing;
+      - EX: my nephew john (2 of them)
+      -  RCA leased 'equipment' to Mr Hope.
+        -  Lease contained an entire agreement clause.
+        -  RCA supplied used equipment to Mr Hope.
+      -  Mr Hope submitted that the equipment should have been new.
+        - Was 'equipment' latently ambiguous, thus the Court could consider extrinsic evidence to construe it?
+  - Summary
+    -  If the parol evidence rule applies, then construction should focus on the text of the document.
+    -  Court may consider extrinsic evidence of surrounding circumstances if the language is 'ambiguous or susceptible of more than one meaning.'
+    -  'Ambiguity' does not seem to be a high threshold.
+  - ADMISSIBLE EXTRINSIC EVIDENCE
+    - Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896
+    - Franklins Pty Ltd v Metcash Trading Ltd (2009) 76 NSWLR 603
+      - the terms of the contract depend upon what a reasonable observer would understand from what was said or written at the time of contracting, in the context in which it was said or written. 
+      - It necessarily follows that subsequent conduct of the parties cannot enter into that exercise.' 682 [322] (Campbell JA)
+  - Conclusion
+    - Realestate.com.au Pty Ltd v Hardingham [2022] HCA 39
+      - . . it is necessary for the court to consider the full range of circumstances, at least as those circumstances existed at the time of the contract. 
+      - In making factual findings of a term or terms of such a contract, the evidence of witnesses as to words written or spoken by the parties (and their knowledge of relevant matters at the time of the contract) must be weighed alongside the objective surrounding facts (which are undisputed or which are established by other objective evidence) and also with the apparent logic of events.' [46] (Gordon J)
+- PROCESS OF CONSTRUING A WRITTEN CONTRACT
+- 
+  - THE TEXT IN CONTEXT
+    - Cherry v Steele-Park (2017) 96 NSWLR 548
+      - the "plain meaning" reflects the primacy of the text of a written contract. 
+      - The starting point and the ending point of the construction of a written commercial contract is the language chosen by the parties to record their bargain.'
+        - 565 [72] (Leeming JA)
+    - Australian Broadcasting Commission v Australasian Performing Right Association Ltd (1973) 129 CLR 99
+      - 'It is trite law that the primary duty of a court in construing a written contract is to endeavour to discover the intention of the parties from the words of the instrument in which the contract is embodied. 
+      - Of course the whole of the instrument has to be considered, since the meaning of any one part of it may be revealed by other parts, and the words of every clause must if possible be construed so as to render them all harmonious onel with another.' 
+        - 109 (Gibbs J)
+  - Harmonious Whole
+    - AFC Holdings Pty Ltd v Shiprock Holdings Pty Ltd (2010) 15 BPR 28,199
+      - 'The general principle is that the words of a contract should be interpreted in a way which gives them an effect rather than a way in which makes them redundant: 
+        - 28200 [13] (Ball J)
+      - (Unanimously approved in XL Insurance Co SE v BNY Trust Company of Australia Limited [2019] NSWCA 215, [72])
+  - NATURAL AND ORDINARY MEANING
+    - Spunwill Pty Ltd v BAB Pty Ltd (1994) 36 NSWLR 290
+      - 'The language of a term is generally assigned its natural and ordinary meaning, read in the light of the contract as a whole but where it is ambiguous surrounding circumstances may be taken into account in assigning the presumed meaning..' 
+        - 299 (Santow J)
+      -  'natural and ordinary' I 'literal' I 'grammatical'
+      -  Words typically do not have a singular meaning.
+  - DICTIONARY DEFINITIONS
+    - TAL Life Ltd v Shuetrim (2016) 91 NSWLR 439
+    - 'Dictionary definitions may assist in identifying the range of possible meanings a word may bear in various contexts, but will not assist in ascertaining the precise meaning the word bears in a particular context.' 
+      - 457-8 [80] (Leeming JA)
+  - PLAIN MEANING
+    - Australian Broadcasting Commission v Australasian Petforming Right Association Ltd (1973) 129 CLR 99
+      - 'If the words used are unambiguous the court must give effect to them, notwithstanding that the result may appear capricious or unreasonable, and notwithstanding that it may be guessed or suspected that the parties intended something different. 
+      - The court has no power to remake or amend a contract for the purpose of avoiding a result which is considered to be inconvenient or unjust.'
+        - 109 (Gibbs J)
+  - AMBIGUOUS OR SUSCEPTIBLE OF MORE THAN ONE MEANING
+    - Australian Broadcasting Commission v Australasian Performing Right Association Ltd (1973) 129 CLR 99
+      - 'On the other hand, if the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust.' 
+        - 109 (Gibbs J)
+  - EXTRINSIC EVIDENCE
+    - Extrinsic evidence may be considered:
+      -  To identify if the language has a 'plain meaning' or is ambiguous or susceptible of more than one meaning.
+      -  To identify the the circumstances addressed by the contract and the commercial purpose or objects to be secured by the contract.
+      -  To resolve any ambiguity.
+    - Case example
+      - Royal Botanic Gardens and Domain Trust v South Sydney City Council (2002) 240 CLR 45
+        -  Trust leased land to the Council to construct and operate an underground carpark for 50 years.
+        -  The Trustees could revise the rent every 3 years according to cl 4(b).
+          - 'additional costs and expenses which they may incur in regard to the surface of the Domain above or in the vicinity of the parking station and the footway and which arise out of the construction operation and maintenance of the parking station by the Lessee.'
+          - The Council argued that cl 4(b) exhaustively listed what the Trustees could consider when revising the rent.
+        - High Court considered surrounding circumstances:
+          -  Legislative background that established the parties.
+          -  History of dealings up until lease executed in 1972.
+        - '(a) the parties to the transaction were two public authorities;
+        - (b) the primary purpose of the transaction was to provide a public facility, not a profit;
+        - (c) the lessee was responsible for the substantial cost of construction of the facility;
+        - (d) the facility was to be constructed under the lessor's land and would not interfere with the continued public enjoyment of that land for its primary object, recreation;
+        - (e) the parties' concern was to protect the lessor from financial disadvantage from the transaction; and
+        - (f) the only financial disadvantage to the lessor which the parties identified related to additional expense which it would or might incur immediately or in the future.' 53 [11]
+          - 'In the deed itself, various of these considerations are directly reflected.' 
+            - 60 [31] (Gleeson CJ, Gaudron, McHugh, Gummow and Hayne JJ).
+          -  Extrinsic evidence confirmed the purpose(s) of the contract: 
+            - Council to construct and provide a public amenity that did not disturb the recreational above-ground space.
+  - SOMETHING MUST HAVE GONE WRONG WITH THE LANGUAGE
+    - DEPARTING FROM THE LITERAL MEANING
+      -  Courts may depart from the literal or plain meaning of words when it is clear that 'something must have gone wrong with the language.'
+    - BROAD AND FAIR INTERPRETATION
+      - Hillas & co Ltd v Arcos Ltd (1932) 147 LT 503
+        - Business men often record the most important agreements in crude and summary fashion; 
+        - modes of expression sufficiently clear to them in the court of their business may appear to those unfamiliar with the business far from complete or precise. 
+        - It is accordingly the duty of the court to construe such documents fairly and broadly, without being too astute or subtle in finding defects
+          - 514 (Lord Wright)
+    - AVOIDING INCONSISTENCY
+    - Australian Broadcasting Commission (ABC) v Australasian Performing Right Association Ltd (1973) 129 CLR 99
+      - 'Further, it will be permissible to depart from the ordinary meaning of the words of one provision so far as is necessary to avoid an inconsistency between that provision and the rest of the instrument.' 
+        - 109 (Gibbs J)
+    - Fitzgerald v Masters (1956) 95 CLR 420
+      -  Fitzgerald entered a contract to sell land to Masters.
+      -  Cl 8: 'The usual conditions of sale in use or approved of by the Real Estate Institute of New South Wales relating to sales by private contract of lands held under the Crown Lands Act shall so far as they are inconsistent herewith be deemed to be embodied herein.'
+      -  Was the contract too uncertain?
+      - 'Words may generally be supplied, omitted or corrected, in an instrument, where it is clearly necessary in order to avoid absurdity or inconsistency.' 
+        - 426-7 (Dixon CJ and Fullagar J)
+  - Ecosse Property Holdings Pty Ltd v Gee Dee Nominees Pty Ltd (2017) 261 CLR 544
+    -  Westmelton wanted to sell land to Mr Morris.
+    -  Local planning laws prohibited the sale.
+    -  19 November 1988: Parties entered a 99-year lease to emulate a sale.
+    -  Mr Morris paid $70,000 lump-sum 'rental' on entry into the lease. 
+      - (ie, like paying a price to purchase the land.)
+    -  Based on a standard-form memo of a farm lease that had been adapted by the parties.
+    -  'The result is that the memorandum of agreement as executed is something of a pastiche.'
+      -  1993: Ecosse property purchased the land from Westmelton (becomes landlord).
+      -  2004: Mr Morris transfers tenancy to Gee Dee (becomes tenant).
+      -  Parties disputed scope of clause 4.
+    -  Ecosse's submission: tenant liable for all rates, taxes, assessments and outgoings whatsoever in respect of the land, irrespective Of whether they were they were levied on the landlord or tenant.
+    -  Gee Dee's submission: tenant liable for all rates, taxes, assessments and outgoings whatsoever in respect of the land levied only on the tenant.
+      -  Poorly drafted lease was ambiguous: surrounding circumstances could be considered.
+      -  How would a reasonable businessperson in the position of the parties have understood cl 4?
+      -  Poor drafting allowed departure from literal meanings to choose an interpretation that further the commercial objects of the agreement.
+  - Language chart
+    - 
+    - 
+  - Miwa Pty Ltd v Siantan Properties Pte Ltd (2010) 15 BPR 29,545
+    - 'It is clear from these authorities that the test of absurdity is not easily satisfied. ... The courts have no mandate to rewrite agreements, so as to depart from the language used by the parties, merely to give a provision an operation which, as it appears to the court, might make more commercial sense• 29549 [18] (Basten JA)
+# Week 6: EXCLUSION CLAUSES
+
+- EXCLUSION CLAUSES
+  - Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+    - My Lords, an exclusion clause is one which excludes or modifies an obligation, whether primary, general secondary or anticipatory secondary, that would otherwise arise under the contract by implication of law.' 850 (Lord Diplock)
+  - 
+
+
+
+
+
+
+
+
+
+
+
+  - Thomas National Transport (Melbourne) Pty Ltd v May & Baker (Australia) Pty Ltd (1966) 115 CLR 353
+    - 'The question is whether the effect of an exception clause in a contract is to absolve a party from liability for the consequences of a breach of duty, or whether its effect is to define substantively the limits of his duty by negativing obligations that the law would otherwise impose and undertakings that it would otherwise imply. 
+      - The answer in any given case may, I think, depend upon the actual words of the contract.' 385 (Windeyer J)
+- ALSO KNOWN AS
+  - 'Exclusion clauses' also known as:
+    -  'Exemption clauses'
+    -  'Exception clauses'
+    -  'Disclaimers'
+  - 'Limitation of liability' or 'limitation' clauses:
+    -  Limit the scope of remedy provided, rather than totally excludes liability.
+- Allocation of risk	
+  - Thomas National Transport (Melbourne) Pty Ltd v May & Baker (Australia) Pty Ltd (1966) 115 CLR 353
+    - 'Lengthy conditions in small type are printed on the back of tickets and similar documents. 
+      - Customers often have little time to read them, yet in a practical sense they must accept them, having no opportunity of rejection or counter-offer. 
+    - This has been often remarked upon ... as a regrettable result of the freedom of contract that the law, as it stands, allows.' 385 (Windeyer J)
+
+
+- HISTORICAL HOSTILITY
+  - Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+    - 'My Lords, the reports are full of cases in which what would appear to be very strained constructions have been placed upon exclusion clauses, mainly in what to-day would be called consumer contracts and contracts of adhesion. 
+    - As Lord Wilberforce has pointed out, any need for this kind of judicial distortion of the English language has been banished by Parliament's having made these kinds of contracts subject to the Unfair Contract Terms Act 1977.'851 (Lord Wilberforce)
+- CONSUMER PROTECTION
+  -  Consumer protection legislation may render 'unfair' exclusion clauses ineffective.
+  -  Australian Consumer Law:
+    - Statutory guarantees may not be excluded (ACL ss 64 and 64A).
+  -  Unfair terms regime (ACL ss 23 — 28).
+- NATURAL AND ORDINARY MEANING
+  - Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+  - 'In commercial contracts negotiated between businessmen capable of looking after their own interests and of deciding how risks inherent in the performance of various kinds of contract can be most economically borne (generally by insurance), it is, in my view, wrong to place a strained construction upon words in an exclusion clause which are clear and fairly susceptible of one meaning only.' 851 (Lord Wilberforce)
+- DARLINGTON FUTURES LTD V DELCO AUSTRALIA PTY LTD (1986) 161 CLR 500
+  - Leading case on construction of exclusion clauses.
+  - Facts
+    -  Delco retained Darlington to trade on the futures market on its behalf.
+      -  Written contract contained:
+      -  Exclusion clause
+      -  Limitation of liability clause.
+    - Darlington five principles for exclusions
+      - Natural and ordinary means
+      - In light of the contract as a whole
+      - Context of the market
+      - Nature and object of the contract
+      - Where appropriate use contra preferentum
+    -  Clause 6 (Exclusion clause):
+      -  'The Client ... acknowledges that the Agent will not be responsible for any loss arising in any way out of any trading activity undertaken on behalf of the Client whether pursuant to this Agreement or not
+    -  Clause 7(c) (Limitation clause):
+      -  'Any liability on the Agent's part ... for damages for or in respect of any claim arising out of or in connection with the relationship established by this agreement or any conduct under it or any orders or instructions given to the Agent by the Client ... shall not in any event (and whether or not such liability results from or involves negligence) exceed one hundred dollars.'
+    - Delco authorised Darlington to enter 'day trading' transactions, that should have been 'closed out' within 24-hour of entering them.
+    -  Darlington breached the contract by not closing out certain transactions within 24 hours.
+      -  Caused Delco loss of $280,000.
+    -  Darlington relied on Cl 6 and 7(c) to exclude/limit liability.
+  -  Clause 6 (Exclusion clause) did not totally exclude liability.
+    -  'The Client ... acknowledges that the Agent will not be responsible for any loss arising in any way out of any trading activity undertaken on behalf of the Client whether pursuant to this Agreement or not .
+  -  Clause 7(c) (Limitation clause) did limit liability.
+    -  'Any liability on the Agent's part ... for damages for or in respect of any claim arising out of or in connection with the relationship established by this agreement or any conduct under it or any orders or instructions given to the Agent by the Client ... shall not in any event (and whether or not such liability results from or involves negligence) exceed one hundred dollars.'
+  - Interpretation
+    - Natural and Ordinary Meaning: Both the sign and the ticket seem to exclude liability quite broadly. The wording covers damages, losses, or injuries and doesn't limit the scope of incidents from which the car park seeks to exclude its liability.
+    - Contra Proferentem: If any ambiguity were found in the clauses, the interpretation should not favor Lodge Carpark.
+    - The court accepted that this clause effectively limited Darlington's liability. 
+      - This meant that any potential damages payable by Darlington to Delco would be capped at $100, even though the actual loss suffered by Delco was significantly more ($280,000).
+- CONTRA PROFERENTUM
+  - 'contra' = against.
+  - proferens' = the party relying on an exclusion clause.
+  - 'contra proferentum' = term will be construed strictly against the party relying on the exclusion clause.
+    - contra preferens
+  - Zhang v ROC Services (NSW) Pty Ltd (2016) 93 NSWLR 561
+    - the rule is one of last resort ... If after ascertaining the literal or grammatical meanings and evaluating them against the text, context and purpose of the contract, there is still real doubt, then a clause is to be construed against the person who drafted it.' 591 [140] (Leeming JIA)
+- EXAMPLES OF CONTRA PROFERENTUM
+  - Darlington represents the modern approach to construing exclusion clauses.
+  - Older cases:
+    -  Contained 'rules' that no longer apply as hard rules.
+    -  Provide examples of how exclusion clauses may be construed contra proferentum.
+- LIMITING THE CAUSE OF ACTION
+  - Donoghue v Stevenson [19321 AC 562
+    - 'The fact that there is a contractual relationship between the parties which may give rise to an action for breach of contract, does not exclude the co-existence of a right of action founded on negligence as between the same parties, independently of the contract, though arising out of the relationship in fact brought about by the contract.' 609 (Lord Macmillan)
+  - White v John Warwick & co Ltd [1953] 1 WLR 1285
+    -  White hired a tricycle from John Warwick.
+    -  Cl 2: 'the owners agree to maintain the machine in working order and conditions .
+    - CI 11: 'Nothing in this agreement shall render the owners liable for any personal injuries to the riders of the machines hired …
+      - John Warwick negligently repaired the tricycle, which injured White.
+    - 2 causes of action:
+      -  Breach of contract (cl 2)
+      -  Negligence (tort)
+      - White sued in both causes of action.
+    - John Warwick: cl 11 excludes liability in both causes of action.
+    - Court held that it excluded liability for breach of contract only.
+    - Language did not clearly exclude liability for tort as well.
+- DEVIATION
+  - Thomas National Transport (Melbourne) Pty Ltd v May & Baker (Australia) Pty Ltd (1966) 115 CLR 353
+    -  May hired TNT to deliver goods from Melbourne to interstate destinations.
+    -  Pay (contractor) picked up the goods from May to deliver to TNT's Melbourne distribution centre.
+    -  Pay arrived after the centre had closed for the day.
+    -  Pay stored the goods in his own garage overnight.
+    -  Garage caught fire and the goods were damaged.
+    -  May sued for breach of contract.
+    - CI 6:
+      - no responsibility will be accepted by the Carrier for any loss of, or damage to, or mis-delivery or non-delivery of goods, parcels, packages, crates or cases, etc., or the contents thereof either in transit or in storage for any reason whatsoever.'
+    - Departed from the way the contract was formed, so cannot hide behind exclusion clause
+- 4 corners
+  - Gibaud v Great Eastern Railway co [1921] 2 KB 426
+    - if you undertake to do a thing in a certain way, or to keep a thing in a certain place, with certain condition protecting it, and have broken the contract by not doing the thing contracted for in the way contracted for, or not keeping the article in the place in which you have contracted to keep it, you cannot rely on the conditions which were only intended to protect you if you carried out the contract in the way in which you had contracted to do it.' 435 (Scrutton LJ)
+  - Sydney Corporation v West (1965) 114 CLR 481
+    -  West parked his car in a carpark operated by Sydney City Council.
+    -  Parties entered a contract of bailment.
+    - The Council gave West a ticket on entry:
+      - Present to attendant to release car.
+      - 'The Council does not accept any responsibility for the loss or damage to any vehicle or for loss of or damage to any article or thing in or upon any vehicle or for any injury to any person however such loss, damage or injury may arise or be caused.'
+    - Rogue:
+      -  Fraudulently obtained a ticket for a non-existent car.
+      -  Stole West's car.
+      -  Used the ticket to exit the carpark with West's car.
+    - If the gate attendant had checked the ticket, would have seen that the licence plate number was incorrect.
+    - West sued for breach of contract.
+      - 'Such a clause contemplates that loss or damage may occur by reason of negligence ... in carrying out the obligations created by the contract. But in our view it has no application to negligence in relation to acts done with respect to a bailor's goods which are neither authorized nor permitted by the contract.' 488 (Barwick CJ and Taylor J)
+- DELIBERATE / FUNDAMENTAL BREACH MAIN PURPOSE ETC
+  - EXCLUSION CLAUSES NOT LIMITED BY FORMER 'RULES'
+    -  Older cases do not provide 'rules' that restrict the scope of exclusion clauses in all cases.
+    -  Post Darlington exclusion clauses may exclude liability for:
+      -  Negligence (+ other legal and equitable liability).
+      -  Acts deviating from / not within the 4 corners of the contract.
+  - Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+    - 'Whether, in addition to negligence, [the exclusion clause] covers other, e.g., deliberate, acts, remains a matter of construction requiring, of course, clear words. I am of opinion that it does, and being free to construe and apply the clause, I must hold that liability is excluded.' 846 (Lord Wilberforce)
+    -  High Court cited this case with approval in Darlington.
+- ACTS DEFEATING THE MAIN PURPOSE OF THE CONTRACT
+  - Nissho Iwai Australia Ltd v Malaysian International Shipping Corporation, Berhad (1989) 167 CLR 219
+    - 'If the happening of a stipulated event will always result in the defeat of the main object of the contract, there will be no scope for holding that that object requires the conclusion that the exempting clause is not applicable to that event. 
+    - But even in cases where the occurrence of the events stipulated in the exemption clause will not always defeat the main object of the contract, the nature of those events may nevertheless give rise to the inference that the clause was intended to apply to those events even when they occur in circumstances which defeat the main object of the contract.' 227
+- TL;DR
+  - Darlington is the leading modern authority on construing exclusion clauses.
+  - Construe exclusion clauses using the ordinary principles of construction.
+  - If the clause is ambiguous, then it may be construed contra proferentum.
+  -  Older cases are examples of how clauses may be read down, not binding rules.
+  -  A clearly drafted exclusion clause may be of wide scope.
+- Implied terms
+  - INTRODUCTION
+    -  Implied terms are as valid as express terms:
+    -  Damages can be awarded for breach.
+    -  Right to terminate may be conferred if the implied term is a condition.
+  - Hart v MacDonald (1910) 10 CLR 417
+    - an implication is as much a part of a contract as any term couched in express words.' (430, Isaacs J)
+  -  Courts cautiously find implied terms as they do not want to rewrite the contract.
+  -  Exception: Legislation may provide that it cannot be contracted out of.
+  - Servcorp WA Pty Ltd v Perron Investments Pty Ltd (2016) 50 WAR 226
+    - 'The requirement that an alleged implied term not 'contradict' any express term plainly includes a direct contradiction. 
+    - However, the requirement has a broader connotation. 
+    - For example, a term cannot be implied if it is apparent, on the face of the document, that the parties adverted to the point in question and either deliberately rejected it or deliberately refrained from dealing with it.' (257, Buss
+  - Hart v MacDonald (1910) 10 CLR 417
+    - '[An entire agreement clause] excludes what is extraneous to the written contract: but it does not in terms exclude implications arising on a fair construction of the agreement itself, and in the absence of definite exclusion, an implication is as much a part of a contract as any term couched in express words.' (430, Isaacs J)
+  - If the court will not find the implied term then there is a gap in the contract.
+    - One party will likely wear the loss / inconvenience.
+    - Contract may fail:
+      -  Uncertain / incomplete
+      -  Frustrated.
+- Terms implied in fact
+  - INTRO
+    - Leading case: BP Refinery (Westernport) Pty Ltd v Shire of Hastings (1977) 180 CLR 266.
+    - 5 criteria aid in identifying implied terms.
+  - NATURE
+    - Codelfa Construction Pty Ltd v State Rail Authority of NSW(1982) 149 CLR 337
+    - with implication the term is one which it is presumed that the parties would have agreed upon had they turned their minds to it — it is not a term that they have actually agreed upon.' 346 (Mason J)
+    - Finding implied terms risks making a court an author.
+    - The court mitigates this risk by:
+      - Viewing implication of terms as part of the process of construction (ie, discerning the parties' intentions from express terms.)
+      - Imposing high barriers to the implication of terms.
+  - NECESSARY FOR BUSINESS EFFICACY
+    - The Moorcock (1889) 14 PD 64
+      - Plaintiff shipowner moored at a jetty of defendant wharf-owner.
+      - Both parties knew that the ship would rest on Thames riverbed at low tide.
+        - Ship was damaged when it rested on hard ridge in the riverbed.
+        - Plaintiff argued that there was an implied term that the ship could safely moor at the jetty at low tide.
+      - Both parties knew that the ship would rest on the riverbed at low tide.
+      - It was obvious that no shipowner would moor at an unsafe jetty.
+        - Only the defendants could discover whether the riverbed was safe and take steps to make it safe.
+      - Therefore, they impliedly promised either that:
+        - It was safe to moor at the jetty; or
+        - That they would warn the plaintiff if it was not safe.
+    - Sekisui Rib Loc Australia Pty Ltd v Rocla Pty Ltd (2012) 291 ALR 140
+      - 'The necessity to give "business efficacy" contemplates a term needed "in order to make the agreement work, or conversely, in order to avoid an unworkable situation".
+      - This is a consideration of what would make the contract workable in a business sense. 
+        - A term may be commercially necessary notwithstanding that the contract can operate without it.' 153 [50] (Sulan J)
+  - REASONABLE AND EQUITABLE
+    - BP Refinery (Westernport) Pty Ltd v Shire of Hastings (1977) 180 CLR 266 
+      - BP (Westernport) entered a rate agreement with the Shire of Hastings for the construction and operation of a refinery in the local government area.
+      - The agreement required significant capital investment by BP (Westernport) and performance of obligations for at least 20 years.
+        - The Council promised reduced rates for at least 40 years.
+      - After a few years, BP (Westernport) was wound up.
+        - Another company in the BP group assumed control of the refinery.
+      - The Council levied the new BP company with full rates.
+        - Council argued that the rates agreement contained an implied term that the contract would terminate if BP (Westernport) ceased occupying the refinery.
+      - The term was not reasonable and equitable:
+        - Council had enjoyed significant economic benefits from the development of the refinery.
+        - Council induced the BP group to invest based on the promised 40-year rate reduction.
+        - Foreseeable that the BP group might restructure in that period.
+        - It made no difference to the Council which of the group operated the refinery.
+  - OBVIOUSNESS AND CLARITY
+    - Shirlaw v Southern Foundries (1926) Ltd [1939] 2 KB 206
+      - Prima facie that which in any contract is left to be implied and need not be expressed is something so obvious that it goes without saying;
+        - so that, if while the parties were making their bargain, an officious bystander were to suggest some express provision for it in the agreement, they would testily suppress him with a common, 'Oh, of course'.' 227 (MacKinnon LJ)
+    - CLARITY
+      - Servcorp WA Pty Ltd v Perron Investments Pty Ltd (2016) 50 WAR 226
+        - 'The requirement that an alleged implied term be capable of clear expression overlaps with the requirement of obviousness. 
+        - A term which is incapable of clear expression is unlikely to be so obvious that "it goes without saying."' 257 [163] (Buss JA)
+- Terms implied in fact: Formal and informal contracts
+  - FORMAL CONTRACTS
+    - Detailed written agreements that appear exhaustive.
+    - Often the result of negotiations and careful consideration of wording.
+    - Often drafted by lawyers.
+    - Often contain entire agreement clauses.
+  - BP Refinery (Westernport) Pty Ltd v Shire of Hastings (1977) 180 CLR 266
+    - for a term to be implied, the following conditions (which may overlap) must be satisfied (BP Refinery Test loosley):
+    - Implied term interpretation construction loosley:
+    - Formal term interpretation construction strictly:
+      - (1) it must be reasonable and equitable; 
+      - (2) it must be necessary to give business efficacy (got to make it work) to the contract, so that no term will be implied if the contract is effective without it; 
+      - (3) it must be so obvious that "it goes without saying"; 
+      - (4) it must be capable of clear expression; 
+      - (5) it must not contradict any express term of the contract.' 282-3 (Lord Simon of Glaisdale for the majority)
+    - Apply the BP Refinery test (all 5 conditions) when implying a term into a formal contract.
+    - The conditions overlap — you may find that you repeat arguments to prove several of them.
+  - INFORMAL AGREEMENTS
+    - Often oral / made in informal circumstances.
+      - Few express terms articulated — 'space' for further terms to be found.
+      - Often minimal negotiation.
+      - Lawyers not involved.
+    - Hawkins v Clayton (1988) 164 CLR 539 
+      - (Subject to Realestate.com.au Pty Ltd v Hardingham [2022] HCA 39.)
+      - January 1970: Ms Brasier executed a will appointing Mr Hawkins as executor and residual beneficiary.
+      - Ms Brasier's solicitor was Clayton Utz.
+        - January 1975: Ms Brasier died.
+        - Clayton Utz didn't attempt to find Mr Hawkins until March 1981.
+        - House had degraded and estate was fined for late lodgement of death duty.
+        - Therefore the value of residuary estate was reduced.
+      - Mr Hawkins (for the Estate) argued that Clayton Utz had breached an implied term of Ms Brasier's retainer contract with the firm imposing a duty to take reasonable care and locate the executor after her death.
+      - Terms inferred based on 'actual' intention:
+        - Will would be kept safe until Ms Brasier's death.
+        - Ms Brasier could request it be delivered to her at any time before her death.
+      -  After her death, the firm was authorised to communicate the contents to any person with an interest in the will.
+    - Byrne v Australian Airlines Ltd (1995) 185 CLR 410
+      - Australian Airlines dismissed bag handlers for stealing.
+      - Employees argued that cl 11 (a) of the Transport Workers (Airlines) Award 1988 was an implied term of their contract.
+      - Cl 11 (a) prohibited 'harsh, unjust or unreasonable' terminations.
+        - Brennan CJ, Dawson and Toohey JJ
+          - Term was not necessary.
+        - McHugh and Gummow JJ
+          - Term was not reasonable and equitable.
+          - Term was not necessary.
+          - Term was not so obvious that it went without saying.
+    - Implied terms in informal contracts post-Byrne:
+      - Identify express terms.
+      - Infer terms parties 'actually' intended but didn't articulate.
+      - Imply terms parties presumably would have agreed to if they had thought about them:
+        - 'necessary for the reasonable or effective operation of the contract.'
+        - BP Refinery criteria relevant but needn't be all satisfied.
+  - Realestate.com.au Pty Ltd v Hardingham (2022) 406 ALR 678
+    - Hardingham: Sub-licence granted by REMA to the agencies permitted them to use the works only to market the relevant properties.
+    - Therefore, Realestate and RP had breached copyright by continuing to use the works.
+    - Contracts between REMA and the agencies were informal oral contracts.
+    - No express terms on the scope of the sub-licence.
+    - Was the limit on the sub-licences an implied term of these contracts?
+    - REMA aware that:
+      - The agencies needed to upload the Works to Realestate.com.au to properly market the properties.
+      - Realestate.com.au required a licence be granted to use the Works as it saw fit, including sub-licencing the works to third parties.
+      - Realestate.com.au and RP Data retained and used provided Works after relevant marketing campaigns.
+  - What to do post-Rea/estate.com.au?
+    - Identify express terms.
+    - Identify objective mutual consent to unexpressed terms by asking what terms a reasonable person in the position of the parties would conclude were intended to be in the contract, based on conduct, context and facts objectively known by the parties.
+    - If necessary, identify further implied terms by flexibly applying BP Refinery.
+- TERMS IMPLIED BY TRADE CUSTOM
+  - Con-Stan Industries of Australia Pty Ltd v Norwich Winterthur Insurance (Australia) Ltd (1986) 160 CLR 226
+    - 'There must be evidence that the custom relied on is so well known and acquiesced in that everyone making a contract in that situation can reasonably be presumed to have imported that term into the contract.' (236, The Court)
+    - Con-Stan entered an insurance contract with Norwich.
+      - Con-Stan paid premiums to a third-party broker operating on behalf of Norwich, which were never passed onto Norwich.
+    - Norwich sued Con-Stan for the unreceived premiums.
+      - Con-Stan argued that the insurance contract contained a term implied by trade custom that an insurer could only claim remiums from the broker.
+  - Topic 4.3 Terms implied by law (Not assessed)
+    - The final basis for implication of terms is when the law itself implies terms into certain classes of contract. The law can imply terms in two ways
+      - First, the common law can imply terms, provided that the implied terms are not inconsistent with the express terms.
+      - Second - and perhaps more commonly these days - legislation can imply terms into contract. Terms implied by legislation often cannot be contracted out of.
+      - doThird, and perhaps most commonly, they can be implied based upon the presumed intention of the parties as evidenced in the express terms.
+# Week 7: Termination by agreement, Breach and repudiation
+
+- Discharge, termination of contract	
+  - A contract may be ended in 3 ways:
+    -  Discharged by full performance
+    -  Terminated before full performance
+      -  By agreement
+      -  Because of breach or repudiation
+      -  Frustrated
+    -  Consent vitiated
+  - The contract is 'terminated' when:
+    -  Termination by agreement
+    -  Termination because of breach or repudiation
+    -  Termination by frustration
+  - Legal effect: parties are released
+  - McDonald v Dennys Lascelles Ltd (1933) 48 CLR 457
+    - the contract is not rescinded as from the beginning. 
+    - This case is significant in Australian contract law regarding the right to terminate a contract for repudiation.
+  - RESCISSION
+    -  The contract is 'rescinded' when a party whose consent was impaired elects to void the contract.
+    -  Rescinding the contract voids everything done under the contract.
+    -  Parties must be restored to their pre-contractual positions.
+- DISCHARGE BY PERFORMANCE
+  -  Most contracts are discharged by being performed.
+    -  Full performance does not make the contract disappear.
+  -  Secondary terms can continue to bind the parties. Eg, confidentiality clauses, dispute resolution clauses, etc.
+  - To assess whether a contract is performed, it must be construed to determine:
+    -  What parties are obliged to do.
+    -  When those obligations must be performed.
+  - Tendered performance is then measured against that proper construction.
+  - DEPENDANT AND CONCURRENT
+    -  Where mutually dependant obligations are performed simultaneously 
+  - SUMMARY
+    -  Most contracts are discharged by performance.
+    -  Construe the contract to work out what the parties must do and when.
+    -  Most contracts consist of dependant obligations.
+    -  If the contract is performed, then it does not disappear.
+- INTRODUCTION TO TERMINATION BY AGREEMENT
+  - Printing and Numerical Registering Co v Sampson (1875) LR 19 Eq 462
+  - INTRODUCTION
+    -  Termination by agreement rests on mutual consent.
+    -  Termination for breach/repudiation: unilateral act of one party in response to failure to perform by the other.
+    -  Frustration: automatic termination by the law in response to a frustrating event.
+    - Termination by agreement can be achieved by:
+      -  Power granted by a term in the contract.
+      -  Expressly or impliedly agreeing to end a contract by entering into another contract.
+        - A contract may also be varied by entering a further agreement.
+  - TERMINATION BY CONTRACTUAL TERM
+    - EXPRESS POWER
+      - Parties can agree to terms conferring a power to terminate.
+        - At will: Contract is immediately terminable at any time.
+        -  With notice: A party provides notice and the contract expires after the agreed notice period. (Eg, employment contracts)
+    - CONTINGENT CONDITIONS
+      - Terms that either automatically terminate — or give the parties the right to terminate — if an identified event does / does not occur.
+      - New Zealand Shipping Co Ltd v Société des Ateliers et Chantiers de France [1919] AC 1
+        - 'It is undoubtedly competent for the two parties to a contract to stipulate by a clause in it that the contract shall be void upon the happening of an event over which neither of the parties shall have any control, cannot bring about, prevent or retard. 
+        - For instance, they may stipulate that if rain should fall on the thirtieth day after the date of the contract, the contract should be void. 
+        - Then if rain did fall on that day the contract would be put to an end by this event, whether the parties so desire or not.' (9, Lord Atkinson)
+      - Meehan v Jones (1982) 149 CLR 571
+    - PROCEDURES
+      - Amann Aviation Pty Limited v Commonwealth of Australia (1990) 22 FCR 527
+    - IMPLIED POWER
+      - Crawford Fitting Co v Sydney Valve & Fittings Pty Ltd (1988) 14 NSWLR 438
+        - 1969: Crawford appoints Sydney as distributor of its products in an informal agreement of indefinite duration.
+        - 1984: Crawford purports to end the agreement by giving 6 months notice.
+        - Question: was 6 months sufficient notice?
+  - TERMINATION BY SUBSEQUENT AGREEMENT
+    - Paal Wilson & Co A/S v Partenreederei Hannah Blumenthal [1983] 1 AC 854
+    - Mutual Release
+      - 
+    - Unilateral Release
+      - 
+  - ACCORD AND SATISFACTION
+    - British Russian Gazette and Trade Outlook Ltd v Associated Newspapers Ltd [1933] 2 KB 616
+    - Example
+      -  Contract for 4 weeks of cleaning: you've paid $200 up front.
+      -  You agree to release me from a fourth week of cleaning in return for my promise to make dinner.
+      -  What is the result of this accord?
+      - Am I immediately released from the cleaning contract and now obliged to make you dinner?
+      - Am I not released from the cleaning contract until I have made you dinner.
+    - ABANDONMENT
+      - Fitzgerald v Masters (1956) 95 CLR 420
+        - 1927: Parties enter contract for the sale of land.
+        - 1931: Purchaser has paid more than half of the purchase price by instalments.
+        - 1932: Purchaser seemingly disappears
+        - 1948: Purchaser re-established contact with seller
+        - 1953: Purchaser sues for specific performance.
+  - VARIATIONS
+    - Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93
+    - CONSIDERATION
+      -  Parties must provide consideration for any variations.
+      -  Can be problematic in cases of unilateral variations.
+      -  The promise to perform a pre-existing legal duty is not good consideration.
+      -  Practical benefit: Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723.
+      -  Recording variation in a deed overcomes problems with consideration.
+    - INCONSISTENT AGREEMENTS
+      - Commissioner of Taxation v Sara Lee Household & Body Care (Australia) Pty Ltd (2000) 201 CLR 520
+- Termination for breach
+  - Vocab
+    - Condition: 
+      - An essential term of the contract. Sometimes called 'essential term'. 
+      - If a promisor breaches a condition, then the promisee may terminate the contract, even if the breach is only trivial.
+    - Essential term: See: 'Condition'.
+    - Intermediate / Inomminate term:
+      - A class of term somewhere in between a condition and warranty. 
+        - Seen as a sub-class or inessential terms. 
+      - If a promisor breaches an intermediate term, then the promisee may terminate the contract only if the breach is serious. 
+      - If the breach is minor, then the promisee may only sue for damages.
+    - Non-terminable breach: 
+      - Breach of a warranty, or only a minor breach of an intermediate term.
+    - Promisee: 
+      - A person to whom a promise is made by a promisor. 
+      - In this topic of breach, the person who may have the right to terminate a contract will be called the 'promisee'. 
+        - They could also be called the 'innocent' party.
+    - Promisor: 
+      - A person who makes a promise. 
+      - In this topic of breach, the person who breaches a term will be called the 'promisor'. 
+      - They called also be called the 'breaching' or 'defaulting' party.
+    - Terminable breach: 
+      - Any breach of a condition, or a serious breach of an intermediate term.
+    - Warranty: 
+      - An inessential term of the contract. 
+      - If a warranty is breached, then the promisee's only remedy is damages. 
+        - They may not terminate the contract.
+  - INTRODUCTION
+    - BREACH
+      - Breach = Failure to properly perform when required.
+      -  ‘Actual’ breach requires:
+        -  Identification of relevant express or implied term(s) imposing obligation(s).
+        -  Construction of relevant term(s) to determine what is required.
+        -  Failure to properly perform when required.
+    - TOTAL / PARTIAL BREACH
+      -  Not necessary to classify a breach as ‘total’ or ‘partial’.
+      -  Relevant issue is whether it a term is breached at all.
+      -  Consequences of breach may be relevant if the term is classed as ‘intermediate’.
+  - ANTICIPATORY BREACH
+    - Where a party by words or conduct indicates either:
+      -  an intention not to perform or
+      -  a complete incapacity to perform 
+    - a promise before that performance falls due.
+    - Foran v Wight (1989) 168 CLR 385
+      - ‘... an announcement by the promisor before the time for performance arrives that he will not perform the promise is an anticipatory breach ... .’ 416 (Brennan J)
+  - TRIPARTITE CLASSIFICATION OF TERMS
+    - Conditions definition
+      - 'Essential' terms
+      - Any breach allows termination
+      - Damages available
+    - Intermediate definition
+      - Serious breach allows termination
+      - No termination for trivial breach
+      - Damages available
+    - Warranty definition
+      - 'Inessential' terms
+      - No termination for breach
+      - Damages available
+    - A terminable breach does not automatically terminate the contract.
+    -  Innocent party may choose to:
+      -  Terminate; or
+      -  Affirm the contract.
+    -  Process of choosing = ‘election’. 
+  - Principal points to note
+    -  Whether an innocent party has a right to terminate depends upon the classification of the term.
+    -  If they have the right, then they may choose to terminate or affirm (See: Election)
+    -  Other remedies (like damages) may be cumulative with the right to terminate
+  - MODIFYING THE COMMON LAW RIGHT TO TERMINATE
+    - Parties may agree to modify the common law rights to terminate for breach.
+      -  For example:
+        -  Allow termination for any breach of any type of term.
+        -  Impose a procedure on how to terminate.
+    - Concut Pty Ltd v Worrell (2000) 75 ALJR 312
+  - CONDITIONS def
+    - Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR (NSW) 632
+      - TEST OF ESSENTIALITY
+        - ‘'The test of essentiality is whether it appears from the general nature of the contract considered as a whole, or from some particular term or terms, that the promise is of such importance to the promisee that he would not have entered into the contract unless he had been assured of a strict ... performance of the promise ... and that this ought to have been apparent to the promisor.' 641-2
+      - Conditions definition
+    - Associated Newspapers Ltd v Bancks (1951) 83 CLR 322
+      - ‘The test was succinctly stated by Jordan CJ in Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR’
+  - DETERMINING INTENTION
+    - Whether the parties intended a term to be a condition requires an objective assessment of their intentions.
+    - Question of construction.
+  - EXPRESS INTENTION
+    - Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR (NSW) 632
+      - Condition definition:
+        - ‘In some cases it is expressly provided that a particular promise is essential to the contract, for example, by a stipulation that it is the basis or of the essence of the contract (Bettini v Gye (1876) 1 QBD 183 at 187) ... ’ 642 (Jordan CJ)
+    - Wickman Machine Tool Sales Ltd v L Schuler AG [1974] AC 235
+  - IMPLIED INTENTION
+    - Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR (NSW) 632
+      - ‘... but in the absence of express provision the question is one of construction for the court, when once the terms of contract have been ascertained: Bentsen v Taylor Sons & Co (No 2) [1893] 2 QB 274 
+    - DTR Nominees Pty Ltd v Mona Homes Pty Ltd (1978) 138 CLR 423
+    - Koompahtoo Local Aboriginal Land Council v Sanpine Pty Ltd (2007) 233 CLR 115
+    - Construing the contract to classify a term requires consideration of:
+      - Language.
+      - Term’s function in the contract as a whole.
+      - Nature of the contract.
+      - Objective of the contract.
+      - Objective surrounding circumstances known to the parties at contract formation.
+    - Also may consider:
+      -  Policy of encouraging contract performance.
+      -  Potential consequences of breach.
+      -  Whether damages are an adequate remedy
+    - Construction
+      - Ankar Pty Ltd v National Westminster Finance (Australia) Ltd (1987) 162 CLR 549
+      - Hongkong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd [1962] 2 QB 26
+    - IMPLIED INTENTION
+      - Koompahtoo Local Aboriginal Land Council v Sanpine Pty Ltd (2007) 233 CLR 115
+        - ‘... the intention that is relevant is the common intention of the parties, at the time of the contract, as to the importance of the relevant terms and as to the consequences of failure to comply with those terms.
+    - CASE EXAMPLES
+      - Luna Park (NSW) Ltd v Tramways Advertising Pty Ltd (1938) 61 CLR 286
+        -  Tramways promised to display boards on trams advertising Luna Park.
+        -  ‘We guarantee that these boards will be on the tracks at least eight hours per day throughout your season.’
+        -  Tramways displayed the boards for an average of 8 hours a day over the season.
+          - NSW District Court: Tramways breached the term by not displaying all boards for a minimum of 8 hours a day, every day.
+          -  High Court: Was the term a condition?
+        -  The term was a condition:
+          -  Strong language: ‘we guarantee ...’
+          -  Luna Park obligated to pay only after Tramways had provided the service.
+          -  Surrounding circumstances: Luna Park had emphasised the continuous exposure during negotiations.
+        - Associated Newspapers Ltd v Bancks (1951) 83 CLR 322
+          -  Associated Newspapers employed Bancks to produce weekly comics for 10 years.
+          -  Associated promised to publish Bancks’ comics on the first page of the comics section of the ‘Sunday Sun and Guardian’.
+          -  For 3 weeks In 1951, Associated published Bancks’ comic on the third page of the comics section.
+          - Bancks terminated the contract for Associated’s breach.
+          -  Was the term a condition?
+          - The term was a condition:
+            -  The parties’ mutual promises were ‘concurrent and corelative’. ie. the principal reasons why both parties entered the contract.
+            -  Continuous, prominent exposure was important to Bancks – he would not have entered the contract unless Associated strictly performed its promise
+  - WARRANTIES
+    - Associated Newspapers Ltd v Bancks (1951) 83 CLR 322
+      - ‘... or a mere warranty or non-essential and subsidiary term the breach of which would entitle the defendant to damages.’ 336 (Dixon, Williams, Webb, Fullagar and Kitto JJ)
+    - Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR (NSW) 632
+      - The question whether a term in a contract is a condition or a warranty, that is, an essential or a non- essential promise, depends upon the intention of the parties as appearing in or from the contract.’ 642 (Jordan CJ)
+      -  Parties may expressly designate a term as a warranty.
+    - No recognised test for a warranty.
+      -  Historically, if a term was not a condition, then it was a warranty.
+    - Bettini v Gye (1876) 1 QBD 183
+  - INTERMEDIATE TERMS
+    - Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR (NSW) 632
+      - ‘The question whether a term in a contract is a condition or a warranty, that is, an essential or a non- essential promise, depends upon the intention of the parties as appearing in or from the contract.’ 642 (Jordan CJ)
+      -  ‘Intention’ = intention existing at contract formation.
+      -  Likely consequences if breach inform the construction process – actual consequences are irrelevant.
+    - 1960s
+      - English courts recognised the ‘intermediate’ term.
+      - Also known as an ‘innominate’ term.
+    - Intermediate Terms
+      - Impose complex or wide scope of obligation.
+      -  May be breached in many ways: trivial to serious.
+      -  No clear intention at formation that the term is a ‘condition’ or ‘warranty’.
+      -  Remedies depend on the actual consequences of a breach.
+    - Hongkong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd (The Hongkong Fir) [1962] 2 QB 26
+      -  Hongkong Fir Shipping (‘Hongkong’) owned a ship called ‘The Hongkong Fir’.
+      -  Hongkong chartered the ship to Kawasaki Kisen Kaisha Ltd (‘Kawasaki’).
+      - Hongkong promised that:
+        -  The ship was ‘in every way fitted for ordinary cargo service.’
+        -  They would maintain the ship in ‘a thoroughly efficient state in hull and machinery during service’.
+      - The ship was not well-maintained.
+        - Kawasaki terminated the charter, alleging that Hongkong had breached it by not providing a seaworthy ship.
+      -  Hongkong counter-sued for damages.
+      - Trial judge found that Hongkong had breached the charter.
+        -  Did the breach give Kawasaki the right to terminate the charter?
+      - ‘... There are, however, many contractual undertakings of a more complex character which cannot be categorised as being “conditions” or “warranties” ...’ 70 (Diplock LJ)
+    - Koompahtoo Local Aboriginal Land Council v Sanpine Pty Ltd (2007) 233 CLR 115
+      -  Koompahtoo and Sanpine entered a joint venture agreement to develop land owned by Koompahtoo.
+      -  Cl 6.2: Sanpine to:
+        -  manage the development project.
+        -  ‘keep proper books, maintain all records and documents, and prepare all tax returns of the joint venture.’
+      -  Cl 16.5(a): ‘Sanpine shall ensure that proper Books are kept so as to permit the affairs of the Joint Venture to be duly assessed. 
+        - Financial records comprised in the Books shall be kept in accordance with generally accepted accounting principles and in such a manner as enables the Venturers to extract from the Books any information in relation to the affairs of the Joint Venture as that Venturer may reasonably require from time to time.
+      - The project failed.
+        -  Administrator took control of Koompahtoo.
+        -  Administrator asked Sanpine for financial records for the joint venture.
+          -  Sanpine unable to provide satisfactory records.
+          -  Administrator terminated the agreement, alleging either repudiation or serious breaches of cl 16.5.
+        - Cl 16.5 = seriously breached intermediate term.
+        -  Assuming that cl 16.5 could be breached in many ways, in this case, Sanpine did not provide the benefit promised (properly kept records to easily ascertain the JV’s financial position).
+          -  Termination justified.
+    - INTERMEDIATE TERMS
+      -  Impose complex or wide scope of obligation.
+      -  May be breached in many ways: trivial to serious.
+      -  No clear intention at formation that the term is a ‘condition’ or ‘warranty’.
+      -  Remedies depend on the actual consequences of a breach:
+      -  Promisee may terminate if the breach = serious.
+      -  If not, only damages.
+    - APPROACH TO CLASSIFICATION
+      - Koompahtoo Local Aboriginal Land Council v Sanpine Pty Ltd (2007) 233 CLR 115
+        - ‘... a right to terminate arises in respect of: 
+          - (1) breach of an essential term; 
+          - (2) breach of a non-essential term causing substantial loss of benefit; or 
+          - (3) repudiation (in the sense of “renunciation”). 
+          - The common thread uniting the three categories is conduct inconsistent with the fundamental postulate of the contractual agreement.’
+      - Bunge Corporation v Tradax Export SA [1981] 1 WLR 711
+
+  - TERMINATION FOR DELAY
+      - 1 consignment (50 bottles)
+      - Deliver: Monday
+    - Classification of time stipulations
+      - Condition
+        - Performance on time is essential.
+        - Slightest delay allows termination.
+        - Damages available.
+      - Warranty
+        - Performance on time is not essential.
+        - No immediate right to terminate if breached.
+        - Notice to complete may be served.
+        - Damages available.
+      - If a time stipulation is a warranty, then the promisor is still obliged to perform by the time stipulated.
+        -  Failure to perform on time = breach of contract.
+        -  Promisor obligated to pay damages for any loss caused by late performance.
+      - Typically, time stipulations are classified as either essential (conditions) or not essential (warranties).
+        -  Little Australian case law on whether time stipulations may be intermediate.
+    - INTERMEDIATE TIME STIPULATIONS?
+      - Bunge Corporation v Tradax Export SA [1981] 1 WLR 711
+      - Cromarty Resources Pty Ltd v Thalanga Copper Mines Pty Ltd [2021] NSWCA 284
+        -  Construction of a time stipulation to pay a royalty within ‘15 Business Days after the end of the month of actual sales’.
+        -  Court held that the time stipulation was not essential.
+        -  Implied that it could be intermediate.
+    - CONSTRUING THE CONTRACT
+      - Whether a time stipulation is a condition or warranty requires construction of the contract.
+      -  Ordinary principles of construction to classify terms apply.
+    - NO TIME STIPULATION
+      - Reid v Moreland Timber Co Pty Ltd (1946) 73 CLR 1
+        - ‘... [a]n implication of a reasonable time when none is expressly limited is, in general, to be made unless there are indications to the contrary ...’ 13 (Dixon J)
+    - Perri v Coolangatta Investments Pty (1982) 149 CLR 537
+      - ‘What is a reasonable time is a question of fact and depends upon the circumstances. Its limit is determined by reference to what is fair to both parties.’ 567-8 (Brennan J)
+    - EXPRESS TIME STIPULATION
+      - Neeta (Epping) Pty Ltd v Phillips (1974) 131 CLR 286
+    - Time is of the essence
+      - Expressly describing a time stipulation is essential is the simplest way to indicate intent that it is a condition.
+      -  Common phrase: ‘Time is of the essence’
+      -  Words to similar effect are just as effective.
+    - Implied essentially
+      - If a time stipulation is not expressly designated as essential, then the context of the contract may impliedly indicate that it is essential.
+      -  Apply ordinary principles of construction.
+    - MERCANTILE CONTRACTS
+      - Bunge Corpn, New York v Tradax Export SA, Panama [1981] 1 WLR 711
+        - ‘... the need for certainty in mercantile contracts is often of great importance and sometimes may well be a determining factor in deciding the true construction of a particular term in such a contract.’
+    - INTERESTS IN LAND
+      - Conveyancing Act 1919 (NSW)
+      - Section 13 – Stipulations not of the essence of contracts
+        - Stipulations in contracts, as to time or otherwise, which would not ... have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all courts the same construction and effect as they would have heretofore received in such court.
+      - Neeta (Epping) Pty Ltd v Phillips (1974) 131 CLR 286
+        - ‘But a contract for the sale of land where there were no special circumstances was not regarded in equity as one in which a condition as to time was an essential condition. 298 (Barwick CJ and Jacobs J)
+      - Shevill v Builders Licencing Board (1982) 149 CLR 620
+        - It is clear that a covenant to pay rent in advance at specified times would not, without more, be a fundamental or essential term having the effect that any failure, however slight, to make payment at the specified times would entitle the lessor to terminate the lease.’ 627 (Gibbs CJ)
+      - CONSTRUING THE CONTRACT
+        - Ultimately, whether a time stipulation is essential will depend upon the construction of the individual contract.
+        - Parties are free to make time stipulations essential, or not, as they like.
+      - NOTICE TO COMPLETE
+        - 
+        - Louinder v Leis (1982) 149 CLR 509
+        - 1. Promisor fails to perform on time.
+        - 2. Promisee serves notice to complete:
+          - a) Identify term(s) to be performed.
+          - b) Provide a reasonable time for the promisor to perform.
+          - c) Indicate that the promisee will terminate the contract if the promisor fails to comply with the notice.
+      - Carrapetta v Rado (2012) 16 BPR 30,997
+      - Laurinda Pty Ltd v Capalaba Park Shopping Centre Pty Ltd (1989) 166 CLR 623
+        - A ‘reasonable time’ to comply with the notice depends upon the all circumstances of the case.
+        -  Relevant considerations:
+          -  What must be done to comply.
+          -  Whether the defaulting promisor had already unreasonably delayed performance.
+          -  Whether the promisee had already insisted on performance.
+      - Promisee may terminate the contract if the defaulting promisor fails to comply with a validly issued notice.
+      -  No right to terminate if the notice is not valid.
+      -  Termination by the promisee after serving an invalid notice could be a repudiation by the promisee.
+      - UNREASONABLE DELAY
+        -  An ‘unreasonable’ delay of performance of an inessential term may demonstrate – or be evidence of – repudiation of the contract by the promisor.
+        -  If the promisor has clearly repudiated the contract, then there is no need to serve a notice to complete.
+- Repudiation
+  - Termination for repudiation
+    - Koompahtoo Local Aboriginal Land Council v Sanpine Pty Limited (2007) 233 CLR 115
+    - Shevill v Builders Licensing Board (1982) 146 CLR 620
+      - [A valid contract] may be repudiated if one party renounces his liabilities under it – if he evinces an intention no longer to be bound by the contract
+    - Laurinda Pty Ltd v Capalaba Park Shopping Centre Pty Ltd (1989) 166 CLR 623
+      - ‘A right in one party to rescind a contract will arise when the other party repudiates a contract generally, but it may also arise when the other party repudiates a term of the contract. 
+      - A right to rescind depends on the importance of the term repudiated.’ (641-642, Brennan J)
+  - REPUDIATION / BREACH COMPARED
+    - Breach 
+      - 1. There must be a breach of a term.
+      - 2. Right to terminate depends upon type of term breached: 
+        - warranty, intermediate, condition.
+    - Repudiation
+      - 1. No need for a breach, but proof of breach is good evidence of repudiation.
+      - 2. Focus on repudiating party’s conduct: 
+        - would a reasonable person conclude that the repudiating party is not prepared to perform the contract as required?
+      - Not mutually exclusive. A breach can also be a repudiation.
+  - Laurinda Pty Ltd v Capalaba Park Shopping Centre Pty Ltd (1989) 166 CLR 623
+    - Would a reasonable person in the shoes of the innocent party clearly infer that the other party would not be bound by the contract 
+      - or would fulfil it only in a manner substantially inconsistent with that party's obligations and in no other way?’
+    - Laurinda agreed to lease a premise from Capalaba.
+      - The parties entered into an agreement to lease.
+      - Capalaba was obliged to provide a lease in registrable form to Laurinda, but no date provided for when that had to be done.
+      - Capalaba avoided providing the lease without proper explanation.
+  - MULTIPLE BREACHES
+    - Carr v JA Berriman Pty Ltd (1953) 89 CLR 327
+      - JA Berriman agreed to build a factory for Carr on Carr’s land.
+    - Carr was obliged to:
+      - Have the land ready by a certain date.
+      - Provide steel to JA for JA to have fabricated. 
+    - Carr failed to do both.
+    - When a second breach occurs, the two combined may have a significance which it might not be legitimate to attach to the first alone.
+  - TERMINATION WITHOUT AUTHORITY
+    - Amann Aviation Pty Ltd v Commonwealth (1990) 52 FCR 527
+      - Amann obliged to have coast-watch service fully operational by 12 September 1987.
+      - Service was not operational by due date – Commonwealth immediately terminated the contract.
+    - Cl 2.24 required Commonwealth to ask Amann to ‘show cause’ before termination.
+  - INCORRECT INTERPRETATION
+    - DTR Nominees Pty Ltd v Mona Homes Pty Ltd (1978) 138 CLR 423
+      - ‘4. The Plan of sub-division, a copy of which is annexed hereto, has been lodged with the Fairfield Municipal Council. ...’
+        - When contract was signed, DTR had submitted a plan different to the plan attached to the contract.
+        - DTR believed it could lodge the plan in 2 stages.
+      - Mona argued that:
+        - 1. DTR had breached special condition 4, which justified termination; and
+        - 2. DTR’s erroneous belief that it could register the plan in 2 stages was a repudiation of the contract.
+      - But there are other cases in which a party, though asserting a wrong view of a contract because he believes it to be correct, is willing to perform the contract according to its tenor.
+      - Outcome:
+        - DTR’s breach did not justify termination.
+        - DTR did not repudiate the contract.
+        - Mona’s wrongful termination was a repudiation.
+        - But DTR could not terminate ...
+    - GOOD SUMMARY
+      - A good summary of the principles can be found in Velik v Steingold [2013] NSWCA 303, [86]
+  - ANTICIPATORY BREACH
+    - Where a party by words or conduct indicates either:
+      -  an intention not to perform or
+      -  a complete incapacity to perform
+    - A promise before that performance falls due.
+    - Foran v Wight (1989) 168 CLR 385
+      - ‘When a promise is an essential term of a contract, an announcement by the promisor before the time for performance arrives that he will not perform the promise is an anticipatory breach amounting to a repudiation of the contract conferring on the promisee a right to [terminate] the contract.’ (416, Brennan J)
+    - Allows a party to terminate immediately on notice that an essential promise will not be performed – Innocent party does not have to wait until breach has occurred.
+    - Or innocent party can choose to wait and see.
+  - TWO FORMS
+    - Express anticipatory breach
+    - Implied anticipatory breach
+  - EXPRESS ANTICIPATORY BREACH
+    - Foran v Wight (1989) 168 CLR 385
+      - The Wights agreed to sell land to the Forans.
+      - Date of settlement was an essential term. 
+      - Wights telephoned 2 days before settlement to advise that they would not be able to settle.
+      - Neither party attempted settlement. 
+      - Forans terminated the contract 2 days after settlement date.
+      - The breach was then anticipatory because it amounted to a refusal by the vendors to perform an essential term of the contract before the time for performance had arrived.’ 
+    - IMPLIED ANTICIPATORY BREACH
+      - Where the defaulting party’s conduct or other circumstances make it clear to the innocent party that the defaulting party will not perform an essential obligation when it is due.
+      - Also known as factual inability or factual impossibility.
+      - Universal Cargo Carriers Corp v Citati [1957] 2 QB 401
+        - Universal agree to transport Citati’s cargo from Basrah to Buenos Aires.
+        - Citati did not have cargo available for loading 3 days before Universal’s ship was due to depart. 
+        - Universal departed – argued that Citati had impliedly committed an anticipatory breach because cargo was not available with enough time to load.
+      - An anticipatory breach must be proved in fact and not in supposition.’
+        - if Mr. Roskill can produce out of the award a finding, that on July 18 the charterer was unable to load a cargo within such a time as would not have frustrated the object of the venture, the owners would be entitled to succeed.’
+    - IMPLIED ANTICIPATORY BREACH
+      - Terminating because of an implied anticipatory breach is risky because the innocent party must prove the factual impossibility. 
+        - If the anticipatory breach is express, the innocent party may act on the express statement without more.
+      - Hochster v De La Tour (1853) 2 E&B 678
+    - SUMMARY
+      - Shevill v Builders Licensing Board (1982) 146 CLR 620
+        - ‘[A valid contract] may be repudiated if one party renounces his liabilities under it – if he evinces an intention no longer to be bound by the contract ... or shows that he intends to fullfil the contract only in a manner substantially inconsistent with his obligations and not in any other way ... . In such a case the innocent party is entitled to accept the repudiation, thereby discharging himself from further performance, and sue for damages.’
+      - Repudiation def
+        - Repudiation of a contract occurs when one party to the contract demonstrates that it is unwilling or unable to fulfill its obligations under that contract.
+      - Repudiation test
+        - The test is whether the party's conduct would convey to a reasonable person, in the position of the other contracting party, renunciation of the contract as a whole (ie. an unwillingness or inability to perform all of that party's obligations) or of a fundamental obligation under it. 
+          - A sufficiently serious failure to perform obligations that are not fundamental may also show an unwillingness or an inability to substantially perform the contract according to its requirements (Koompahtoo).
+# Week 8: Frustration, Misrepresentation
+
+-  'vitiating factors def'
+  - undo the apparent consent of a party to a contract, which gives them the option to 'rescind' the contract.
+- Thus, a contract may be avoided if a party consented to the contract:
+  - Relying on false information provided by the other party; or
+  - Subject to the improper pressure of the other party; or
+  - Where the other party consciously took advantage of the first party.
+- Topic 5.5 Discharge by frustration
+  - DEFINITION
+    - National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675
+      - ‘Frustration of a contract takes place when there supervenes an event (without default of either party) and for which the contract makes no sufficient provision) which so significantly changes the nature (not merely the expense or onerousness) of the outstanding contractual rights and/or obligations from what the parties could reasonably have contemplated
+      - The law declares both parties to be discharged from further performance.’ 
+  - NATURE OF CONTRACTUAL PROMISES
+    - Paradine v Jane (1646) Aleyn 26
+      - when the party by his own contract creates a duty or charge upon himself, he is bound to make it good, if he may, notwithstanding any accident by inevitable necessity, because he might have provided against it by his contract.
+    - ‘Absolute contract’ rule.
+    - To avoid liability for failure to perform:
+      -  Do not make absolute promises.
+      -  Include an exclusion clause.
+      -  Include a force majeure clause.
+    - Taylor v Caldwell (1863) 122 ER 309
+      - where, from the nature of the contract, it appears that the parties must from the beginning have known that it could not be fulfilled unless when the time for the fulfilment of the contract arrived some particular specified thing continued to exist, so that, when entering into the contract, they must have contemplated such continuing existence as the foundation of what was to be done
+  - ELEMENTS of discharge by doctrine of frustration
+    - Supervening event
+    - Radical change to contract
+    - Not caused by the fault of the parties
+    - Unforeseen
+    - Leading Australian case: Codelfa Construction Pty Ltd v State Rail Authority of NSW (1982) 149 CLR 337 (See esp judgement of Mason J)
+      - a frustrating event, in the context of contract law, refers to an unforeseen event that occurs after the formation of a contract and makes it impossible or radically different from what the parties originally contemplated when they entered into the contract.
+  - ROLE OF THE CONTRACT
+    - Davis Contractors Ltd v Fareham Urban District Council [1956] AC 696
+      - ‘The question is whether the contract which they did make is, on its true construction, wide enough to apply to the new situation: if it is not, then it is at an end.’
+    - Relevant questions:
+      -  What was the purpose/foundation of the contract?
+      -  What did the parties promise to do?
+      -  Does the contract account for the supervening event?
+      -  What was the impact of the supervening event on the contract?
+- Radical difference
+  - SUPERVENING EVENT
+
+    - Anything can be a supervening event.
+    - The event does not have to be catastrophic.
+    - Relevant question: what is the effect of the supervening event?
+    - The supervening event must radically impact performance for both parties.
+    - High standard to meet.
+    - Courts are anxious to preserve certainty of contract.
+    - Davis Contractors Ltd v Fareham Urban District Council [1956] AC 696
+      - ‘Frustration is not to be lightly invoked as the dissolvent of a contract.’ (727, Lord Radcliffe)
+    - The Eugenia [1964] 2 QB 226
+      - More likely to be frustration:
+        -  Subject matter destroyed / performance becomes physically or legally impossible.
+        - Less likely to be frustration:
+          - Performance is merely delayed / less profitable.
+  - DESTRUCTION OF SUBJECT MATTER
+    - Taylor v Caldwell (1863) 122 ER 309
+      - Caldwell hired a music hall to Taylor for Taylor to hold concerts.
+      - Music hall burned down before first concert (no one at fault).
+      - Taylor sued Caldwell for failing to provide the music hall.
+      - ‘In the present case, looking at the whole contract, we find that the parties contracted on the basis of the continued existence of the Music Hall at the time when the concerts were to be given; that being essential to their performance
+
+  - CHANGE OF LAW / GOVERNMENT INTERFERENCE
+    - Fibrosa Spolka Akeyjina v Fairbairn Combe Barbour Ltd [1943] AC 32
+      - Contract to manufacture and supply machinery.
+      - Fairbairn in UK – Fibrosa in Poland.
+      - WW2: Poland occupied.
+      - UK parliament: unlawful to supply to occupied territories.
+    - Scanlan's New Neon Ltd v Tooheys Ltd (1943) 67 CLR 169
+      - Scanlan’s leased a neon sign to Tooheys.
+      - Toohey intended to install it on its building and illuminate it at night.
+      - WW2: illumination at night prohibited.
+      - Tooheys argued that the law frustrated the lease.
+      - ‘Several of the contracts were entered into after the outbreak of war with Germany and at a time when it was common knowledge that the impositions of restrictions upon lighting at night was a normal incident of war in countries that were liable to be bombed or shelled.’ (225, Williams J)
+  - FAILURE OF A CONTINGENCY OCCURRING
+    - Krell v Henry [1903] 2 KB 740
+      - Krell hired a room overlooking Pall Mall to Henry.
+      - The contract was a bare agreement to hire.
+      - The room was promoted as perfect to view the King’s coronation procession and only available on the afternoon for which the procession was scheduled.
+      - The procession was cancelled because the King became ill.
+    - Herne Bay Steamboat Co v Hutton [1903] 2 KB 683
+      - Hutton hired a boat from Herne Bay:
+        - For a pleasure cruise; and
+        - To view the King’s review of the Navy.
+      - Hutton communicated his intentions to Herne Bay prior to the contract.
+      - The review of the navy was cancelled because the King became ill.
+      - Hutton argued that the contract was frustrated.
+    - Codelfa Construction Pty Ltd v State Rail Authority (1982) 149 CLR 337
+      - Construction of the Eastern Suburbs (underground) line to Bondi Junction.
+      - Parties assumed that Codelfa could work 24 hrs/day, 6 days/week. 
+        - Completion within 130 weeks.
+      - Legal advice said that working could not be restricted.
+      - Residents obtained injunctions limiting Codelfa’s daily work hours.
+      - Codelfa argued that the injunctions frustrated the contract.
+      - ‘The critical issue then is whether the situation resulting from the grant of the injunction is fundamentally different from the situation contemplated by the contract on its true construction in the light of the surrounding circumstances.’ (360, Mason J (Stephen J agreeing)).
+      - ‘The answer must, I think, be in the affirmative. ... 
+      - Performance by means of a two shift operation, necessitated by the grant of the injunctions, was fundamentally different from that contemplated by the contract.’ (363, Mason J (Stephen J agreeing)).
+    - A contract may be frustrated where a party:
+      -  Dies
+      -  Falls ill/incapacitated
+      -  Imprisoned
+      -  Called up for military or other essential service
+        - Example: Horlock v Beal [1916] 1 AC 486
+- FAULT AND FORESEEABILITY
+  - NOT SELF-INDUCED
+    - Maritime National Fish Ltd v Ocean Trawlers Ltd [1935] AC 524
+      - Maritime had 4 trawlers. It hired a 5th from Ocean Trawlers.
+      - Maritime had applied for 5 licences to operate the trawlers.
+      - Only 3 were granted – Maritime did not allocate one to the trawler hired from Ocean Trawlers and claimed that the contract was frustrated.
+      - ‘The essence of "frustration" is that it should not be due to the act or election of the party.’ (530, Privy Council)
+    - Penrith District Rugby League Football Club Limited v Fittler [1996] NSWSC 523
+      - In my judgment, it would be grossly inequitable if a party could shelter behind the fact that it had brought about the frustrating event in order to avoid what would otherwise have been the consequences of such frustration, namely discharge of the contract at the behest of the other party. 
+      - There is English authority that such an inequitable outcome is not the result. 
+      - Rather, the innocent party may rely upon the circumstances brought about by the other party to the contract as giving rise to frustration.’ (Santow J)
+  - TERM IN CONTRACT
+    - The Eugenia [1964] 2 QB 226
+      - ‘... you have first to construe the contract and see whether the parties have themselves provided for the situation that has arisen. 
+      - If they have provided for it, the contract must govern. There is no frustration.’ (239, Lord Denning MR)
+    - Claude Neon Ltd v Hardie [1970] Qd R 93
+      - Claude installed and hired a neon sign to Hardie for 3 years.
+      - Cl (f) provided that, if Hardie’s tenancy was extinguished, then the hire fee on the remaining period of the hire agreement became due.
+      - Hardie’s building was resumed and demolished – Claude sued for the hire fee for the remaining period.
+      - Hardie argued the hire agreement was frustrated by the resumption and demolition.
+    - Claude Neon Ltd v Hardie [1970] Qd R 93
+      - ‘For the reasons given by my brother Lucas, I agree that this contract has not been discharged by the application of the doctrine of frustration. 
+      - The eventuality of the lessee’s interest in the premises being brought to an end by the compulsory acquisition of the premises is covered in the clear and unambiguous words used in the material part of clause (f) of the conditions annexed to the hiring agreement.’ (98, WB Campbell J)
+  - FORESEEN/FORESEEABLE EVENT NOT COVERED BY CONTRACT
+    - If:
+      - the contract does not provide for the event; and
+      -  the event was:
+        -  foreseen; or
+        -  was not foreseen, but was easily foreseeable then the contract is probably not frustrated.
+      -  Party/Parties assumed the risk of the occurrence of the event.
+    - The Eugenia [1964] 2 QB 226
+      - Charters hired the Eugenia to carry goods from Italy to India.
+      - The charter fee was paid on a monthly basis – time for redelivery was not of the essence.
+      - The parties assumed that the Eugenia was go through the Suez Canal (Egypt).
+      - The parties were aware that there was a risk that the Suez canal could close, but chose not to account for the risk in the contract.
+      - The Suez Canal was closed – the Eugenia had to sail around Africa to get to India.
+    - A foreseeable – but not actually foreseen by the parties – event may not frustrate the contract if it was an obvious risk that was likely to occur.
+    - Davis Contractors Ltd v Fareham Urban District Council [1956] AC 696
+      - Davis agreed to build 78 houses for the Council for a fixed price within 8 months.
+      - Davis had trouble finding resources and skilled labour in post World War 2 England.
+      - Davis took 22 months to build the houses and lost a lot of money.
+      - Davis claimed that the lack of resources and skilled labour frustrated the contract.
+  - LIKELIHOOD OF OCCURRENCE
+    - oOH! Media Roadside Pty Ltd v Diamond Wheels Pty Ltd (2011) 32 VR 255
+      - [73] ... it is important to be precise about the nature and degree of foresight. 
+        - So far as foreseen events are concerned, the parties to a contract may have foreseen an event but not foreseen the nature or extent of it. …
+      - [74] In the case of foreseeable but unforeseen events, the nature and extent of foreseeability is critical. 
+        - Since most events are foreseeable in one sense or another, the parties to a contract will not ordinarily be taken to have assumed the risk of an event occurring during the life of the contract unless the degree of foreseeability of that event is very substantial. (Nettle J)
+- Legal effect
+  - LEGAL EFFECT OF FRUSTRATION
+    - Contract is automatically terminated by the law – No need for either party to elect to terminate.
+    -  Parties are immediately released from further performance.
+    -  Contract not voided.
+    - National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675
+      - ‘... in such case the law declares both parties to be discharged from further performance.’ (700, Lord Simon of Glaisdale)
+  - FRUSTRATED CONTRACTS ACT 1978 (NSW)
+    -  Applies to manage the consequences of a frustrated contract between the parties.
+- Topic 6.1.1 Misrepresentation
+  - VITIATING FACTORS
+    - A vitiating factor is something that occurs at formation that vitiates (undoes, voids) the consent of one party.
+    - Allows a plaintiff to rescind a contract even though all formal elements of formation were present.
+    - Vitiating factors def/examples:
+      -  Misrepresentation (common law and equity)
+      -  Misleading or deceptive conduct (Australian Consumer Law s 18)
+      -  Duress (common law)
+      -  Undue influence (equity)
+      -  Unconscionable conduct (equity)
+      -  Mistake (only unilateral mistake assessed)
+  - MISREPRESENTATION
+    - MISREPRESENTATION def
+      - A statement that is untrue at the time it is made.
+        - If a plaintiff is induced into a contract by a false statement of the defendant, then the plaintiff may rescind the contract.
+      - Policy: Voluntary assumption of legal obligations should be based upon true facts.
+    - DEFINITIONS
+      - ‘Representor’
+        - The person who represents (makes a statement about) something.
+      - ‘Representee’
+        - The person to whom the representor makes the representation.
+      - ‘Representation’
+        - A statement / Something that is communicated.
+        - Representations can be:
+          -  Oral/written/conduct
+          -  Express/implied
+      - Implied representation
+        - A statement additional to any express statements made or derived from conduct.
+        - Implied statements are very important in the context of opinions and statements to the future.
+    - Jennings v Zihali-Kiss (1972) 2 SASR 493
+      - An inspection with the cookers in situ, in my view, constituted a representation by conduct that the cookers were lawfully there.’
+  - ARTICULATE THE MISREPRESENTATION
+    - Articulate the (mis)representation made by the defendant.
+    - Analysis (or pleadings) should:
+      -  Identify the express or implied (mis)representation made by the defendant.
+      -  If relying on an implied representation: explain how the representation is implied by what the defendant said or did.
+      -  Demonstrate how the express or implied (mis)representation is false.
+  - ELEMENTS of misrepresentation
+    - Actionable representation:
+      - 1. False pre-contractual statement of past/present fact (not an opinion or statement that something will happen);
+      - 2. Made by the defendant to induce the plaintiff into the contract;
+      - 3. Which in fact induces the plaintiff into the contract (reliance).
+- PRE-CONTRACTUAL STATEMENT OF PAST/PRESENT FACT
+  - PRE-CONTRACTUAL STATEMENT
+    - Only representation made before the contract is formed are actionable.
+      -  False statements made after formation are irrelevant.
+      -  Statements which become false after the contract is made are irrelevant.
+      - Key issue: Did the plaintiff agreed to a contract on the
+      - basis of false information provided by the defendant?
+  - PAST / PRESENT FACT
+    - Only representations of past or present fact are actionable.
+    - Representation of past/present facts can be distinguished from:
+      -  Mere puffs
+      -  Opinions
+      -  Promises to do something or statements of future intent, or predictions that something will occur.
+      -  Representation of law.
+  - FALSE
+    - Krakowski v Eurolynx Properties Ltd (1995) 183 CLR 563
+      - ‘The sense in which a representation would be understood by a reasonable person in the position of the representee is prima facie the sense relevant to the question whether the representation is false.
+    - Simons v Zartom Investments Pty Ltd [1975] 2 NSWLR 30
+      - ‘An Eight Storey Building Architecturally Designed For Luxury Living—Comprising 16—3 Bedroom and 8—2 Bedroom Units—Featuring ... Lock up Garages—Double Garage for 3 bedroom units”.’ ...
+      - 4. In a “Schedule of Finishes” there was listed: “Garages to each unit—double garage for 3 bedroom.” (32)
+  - PUFFERY
+    - OPINION
+      - Statements that a reasonable person would see as mere expressions of personal belief, rather than statements of fact.
+      - Bisset v Wilkinson [1927] AC 177
+        - ‘In the present case ... the material facts of the transaction, the knowledge of the parties respectively, and their relative positions, the words of representation used, and the actual condition of the subject-matter spoken of, are relevant to the two inquiries necessary to be made: 
+          - What was the meaning of the representation? 
+          - Was it true?’ (183, Privy Council)
+        - the defendants were not justified in regarding anything said by the plaintiff as to the carrying capacity as being anything more than an expression of his opinion on the subject.
+      - Strong, unqualified statements from someone with expertise may be taken as statements of fact.
+      - Honestly held opinions that are incorrect are not actionable.
+      - However, behind the literal statement of opinion may be implied statements of past/present fact, which may be false and actionable.
+        - Express statement 
+          - ‘In my opinion, the land can carry 2,000 sheep.’
+          - Not actionable – clearly just an opinion.
+        - Implied statements of fact made with express statement
+          - ‘‘I honestly believe that the land can carry 2,000 sheep.’
+          - ‘I know facts that reasonably justify my opinion.’
+          - Either may be actionable if false.
+      - Smith v Land & House Property Corp (1884) 28 Ch D 7
+        - Owner of hotel represented to a potential purchaser that the current tenant was ‘most desirable tenant’.
+        - In fact, the tenant irregularly paid rent.
+        - The purchaser agreed to buy the hotel.
+        - The tenant went bankrupt before settlement.
+        - The purchaser submitted that ‘most desirable tenant’ was a misrepresentation.
+        - The owner submitted that the statement was an opinion
+          - But if the facts are not equally well known to both sides, then a statement of opinion by one who knows the facts best involves very often a statement of a material fact, for he impliedly states that he knows facts which justify his opinion.’
+        - amounts at least to an assertion that nothing has occurred in the relations between the landlords and the tenant which can be considered to make the tenant an unsatisfactory one
+  - REPRESENTATIONS THAT SOMETHING WILL OCCUR
+    -  Like opinions, a representation that something will occur is not, of itself, a misrepresentation merely because the thing did not occur.
+    -  A representation that something will happen is neither true nor false at the time the statement is made, because it has not happened yet.
+    - Civil Service Co-operative Society of Victoria Ltd v Blyth (1914) 17 CLR 601
+      - ‘From Blyth's own evidence, therefore, it is plain that what he relied upon was not the representation that there was no power of suspension in the rules, but the assurance that that power would not be put in force. 
+      - That is a representation of an intention and not of an existing fact.’ (Griffith CJ)
+    -  The defendant honestly believes that the thing will occur / honestly has the intention to do the things.
+    - The defendant has reasonable grounds for making the statement.
+      - Express statement
+        - ‘We will use the money raised to expand the business.’
+        - Not actionable – not true or false at time it was made.
+      - Implied statements of fact made with express statement
+        - ‘We honestly intend to use the money to expand the business.’
+        - ‘I know facts that reasonably justify my statement.’
+        - Either may be actionable if false.
+    - Edgington v Fitzmaurice (1885) 29 Ch D 459
+      - ‘1. To enable the society to complete the present alterations and additions to the buildings and to purchase their own horses and vans, whereby a large saving will be effected in the cost of transport.
+      - 2. To further develop the arrangements at present existing for the direct supply of cheap fish from the coast, which are still in their infancy.’
+  - STATEMENTS OF LAW
+    - Statements of law are notionally not actionable.
+    - Justifications for rule:
+      -  Presumption that everyone knows the law.
+      -  Statements of law not made by judges are merely opinions on the law.
+    - David Securities Pty Ltd v Commonwealth Bank of Australia (1992) 175 CLR 353
+      - ‘The identification and acceptance of such a narrow principle is strongly supported by the difficulty and illogicality of seeking to draw a rigid distinction between cases of mistake of law and mistake of fact. The artificiality of this distinction and the numerous exceptions to it lie behind many of the calls for abolition of the traditional rule.’ (374, Mason CJ, Deane, Toohey, Gaudron and McHugh JJ)
+    - Public Trustee v Taylor [1978] VR 289
+      - ‘The learned authors of Spencer Bower and Turner, Actionable Misrepresentation (3rd ed, 1974), p 61, para 42, after stating that it has been held or recognised in several authorities that if the law is fraudulently misstated, the representor would be held liable for misrepresentation, offer as an explanation for this principle that a statement of law implies a representation that the person professing to expound it believes it to be as stated by him.
+  - SILENCE
+    - Caveat emptor: ‘let the buyer beware’.
+      - There is no obligation on parties to volunteer information that may assist the other – there is only an obligation not to mislead.
+    - Smith v Hughes (1871) LR 6 QB 597
+      - ‘The general rule, both of law and equity, in respect to concealment, is that mere silence with regard to a material fact, which there is no legal obligation to divulge, will not avoid a contract, although it operate as an injury to the party from whom it is concealed. 
+    - Half truths
+      - A literally true statement that conveys a false impression is a misrepresentation.
+    - Dimmock v Hallett (1866) LR 2 Ch App 21
+      - The purchaser, therefore, would be led to suppose, as to these farms, that he was purchasing with continuing tenancies at fixed rents, whereas he would, in fact, have to find tenants immediately after the completion of his purchase.’ (Sir GJ Turner LJ)
+    - Changed circumstances
+      - A representation that is true at the time it is made, but which becomes untrue by the time the contract is formed, is a misrepresentation.
+      - Eg: a statement of fact which becomes false; a statement of intent to do something which changes. 
+      - If the defendant becomes aware that the representation has become untrue before the contract is formed they must inform the plaintiff.
+      - The law allows a plaintiff to assume that representations made by a defendant are true up until the contract is formed.
+    - With v O’Flanagan [1936] Ch 575
+      - Jan 1934: Annual takings £2,000 per year (£38.50 per week).
+      - Takings drop to £5 per week.
+      - May 1934: Contract for sale signed.
+    - Jones v Dumbrell [1981] VR 199
+    - Active concealment
+      - Actively taking steps to conceal facts from the plaintiff; not just remaining silent or deciding not to provide information.
+    - Schneider v Heath (1813) 170 ER 1462
+      - ‘ ... it appears here that means were taken fraudulently to conceal the defect in the ship's bottom. 
+      - These must have been known to the captain, who is to be considered the agent of the owners; and he, evidently to prevent their being discovered by persons disposed to bid for her, removed her from the ways, where she lay dry, and kept her afloat in the dock till the sale was over. 
+      - Therefore, consistently with the decided cases upon this subject, I am of opinion that the plaintiff is entitled to recover back his deposit.’ (1463, Mansfield CJ)
+    - Special relationships
+      - Certain legal relationships impose an obligation to
+    - volunteer information and look after the best interests of the other party:
+      -  Contracts uberrimae fidei (‘utmost good faith‘): 
+      - insurance contracts
+      -  Fiduciary relationships
+      -  Contracts of guarantee
+      - See: Davies v London & Provincial Marine Insurance Co (1878) 8 Ch D 469.
+- INDUCEMENT & RELIANCE
+  - REPRESENTATION MADE BY THE DEFENDANT TO THE PLAINTIFF
+    - If a (mis)representation is received and acted upon by someone who is intended to receive the representation, then that is actionable.
+    - Representations can be made:
+      -  Directly to an individual (eg, one-on-one negotiations)
+      -  Directly to an intended class of people / audience (eg, advertising)
+      -  Through an intermediary (eg, a real estate agent on behalf of a seller)
+    - Peek v Gurney (1873) LR 6 HL 377
+    - Commercial Banking Company of Sydney Ltd v RH Brown & Co (1972) 126 CLR 337
+      - ‘The Company has always met its engagements, is trading satisfactorily and we consider that it would be safe for its trade engagements generally.’
+  - INTENDED TO INDUCE / RELIANCE
+    - Gould v Vaggelas (1985) 157 CLR 215
+      - 1. Notwithstanding that a representation is both false and fraudulent, if the plaintiff does not rely upon it, he or she has no case.
+      - 2. If a material representation is made which is calculated to induce the plaintiff to enter into a contract and that person in fact enters into a contract there arises a fair inference of fact that he or she was induced to do so by the representation.
+      - 3. The inference may be rebutted, for example, by showing that the plaintiff, before he or she entered into the contract, either was possessed of actual knowledge or the true facts and knew them to be true or alternatively made it plain that whether, he or she knew the true facts or not, he or she did not rely on the representation.
+      - 4. The representation need not be the sole inducement. 
+        - It is sufficient so long as it plays some part, even if only a minor part, in contributing to the formation of the contract. (Wilson J)
+    - Ways to disprove reliance:
+      - 1. Representee ignored the representation.
+      - 2. Representee knew of the truth prior to the contract.
+      - 3. Representee relied on his/her own inquiries.
+    - Holmes v Jones (1907) 4 CLR 1692
+      - 20 Nov: Letter from Holmes offering to sell land contains misrepresentations about subject land and cattle.
+      - 14 Dec: Report commissioned by Holmes prepared and sent to Holmes. Discloses true facts.
+      - Mid Dec: Holmes makes a fresh offer, this time with correct facts and figures.
+      - Jones makes a counter offer that is accepted.
+      - 3 Jan: Contract signed.
+    - Redgrave v Hurd (1881) 20 Ch D 1
+      - Redgrave represented that the practice made £300 per year.
+      - Hurd inspected some papers which showed that the practice made only £200 per year.
+      - Redgrave provided Hurd with more papers, which he claimed showed where the remaining £100 came from.
+      - Hurd did not inspect those papers.
+        - The person who has made the misrepresentation cannot be heard to say to the party to whom he has made that representation, "You chose to believe me when you might have doubted me, and gone further". 
+        - The representation once made relieves the party from an investigation, even if the opportunity is afforded. 
+- TYPES AND REMEDIES
+  - THREE TYPES
+    - Innocent
+    - Fraudulent
+    - Negligent
+    - The type determines whether damages are available in addition to rescission.
+    - Only fraudulent and innocent assessed in this subject.
+  - FRAUDULENT MISREPRESENTATION / DECEIT
+    - Common law allows rescission for fraudulent misrepresentation.
+    - Remedy
+      - Plaintiff can choose:
+        - 1. Rescission (Restoration to pre-contractual position) or
+        - 2. Damages (Affirm the contract and sue in tort of deceit).
+  - Magill v Magill (2006) 226 CLR 551
+    -  The modern tort of deceit will be established where a plaintiff can
+      - show five elements of deceit: 
+        - first, that the defendant made a false representation; 
+        - secondly, that the defendant made the representation with the knowledge that it was false, or that the defendant was reckless or careless as to whether the representation was false or not
+        - thirdly, that the defendant made the representation with the intention that it be relied upon by the plaintiff; 
+        - fourthly, that the plaintiff acted in reliance on the false representation; and 
+        - fifthly, that the plaintiff suffered damage which was caused by reliance on the false representation.
+    - Derry v Peek (1889) 14 App Cas 33
+      - ‘... if fraud be proved, the motive of the person guilty of it is immaterial.
+  - INNOCENT MISREPRESENTATION
+    - Redgrave v Hurd (1881) 20 Ch D 1
+    - Where the defendant honestly believed the statement was correct / was not aware that it was false.
+    - Rescission is the only remedy – no damages.
+    - Innocent misrepresentation is the “default finding”. 
+      - The plaintiff has the onus of proving any fraud or negligence.
+    - Remedy = rescission of the contract.
+    - A guilty representor can be protected by a term in the contract which excludes liability if misrepresentation = innocent.
+    - Cannot exclude liability for fraudulent misrepresentations.
+    - S Pearson & Son Ltd v Mayor of Dublin [1907] AC 351
+      - ‘Now it seems clear that no one can escape liability for his own fraudulent statements by inserting in a contract a clause that the other party shall not rely upon them. ... 
+      - They contemplate honesty on both sides and protect only against honest mistakes.’ (353-354, Lord Loreburn LC)
+    - Fitzpatrick v Michel (1928) 28 SR (NSW) 285, 289
+      - ‘A jeweller may state that a ring is gold either as an expression of opinion or as a statement of fact. 
+      - The fact that it is or is not gold is an existing fact, and if he knows that it is not, he is guilty of misrepresentation.’ (Ferguson J)
+
+# Week 9 - ACL s 18, Mistake
+
+- MISLEADING OR DECEPTIVE CONDUCT
+  - The Australian Consumer Law (Competition and Consumer Act 2010 (Cth), Sch 2)
+    - Section 18 – Misleading or deceptive conduct
+      - 1) A person must not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.
+  - INTRODUCTION
+    -  Section 18 imposes a statutory norm of conduct on any entity which engages in ‘trade or commerce’: 
+      - not ‘contract law’.
+    -  Section 18 applies in contexts far wider than contract law.
+    -  Despite the wide operation of s 18, we look at it only as an alternative to misrepresentation.
+  - LEGISLATIVE SCHEME
+    - The Australian Consumer Law (Competition and Consumer Act 2010 (Cth), Sch 2)
+      - Section 18 – Misleading or deceptive conduct
+        - 1) A person must not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.
+
+    - Fair Trading Act 1987 (NSW)
+      - Section 28 – Application of the Australian Consumer Law
+        - (1) The Australian Consumer Law text, as in force from time to time:
+          - (a) applies as a law of this jurisdiction, and
+          - (b) as so applying may be referred to as the Australian Consumer Law (NSW), and
+          - (c) as so applying is a part of this Act.
+        - (2) This section has effect subject to sections 29, 30 and 31.
+    - NOTE: only need to cite ACL s 18 in this subject.
+    - Case law
+      - The State/federal divide existed prior to the Competition and Consumer Act 2010 (Cth):
+        -  Trade Practices Act 1974 (Cth) s 52
+        -  Fair Trading Act 1987 (NSW) s 42 – see also the equivalents in other States and Territories.
+      - Old case law on the equivalents of ACL s 18 is good case law.
+      - Note also: Australian Securities and Investments Commission Act 2001 (Cth) s 12DA (Applies to ‘financial services’)
+  - 
+Nature of provision
+Former regime
+Current regime
+Prohibition against misleading or deceptive conduct
+Trade Practices Act 1974 (Cth) (‘TPA’) s 52
+
+Australian Consumer Law (‘ACL’) s 18
+Definition provisions:
+‘engaging in conduct’
+‘involved in’
+TPA ss 4(2), 75B
+
+ACL s 2
+
+Deeming provision:future representations
+TPA s 51A
+
+ACL s 4
+
+Injunctions
+TPA s 80
+ACL s 232
+Damages
+TPA s 82
+ACL s 236
+Other orders
+TPA s 87
+ACL s 237
+Contributory negligence
+
+TPA s 82(1B)
+
+Competition and Consumer Act 2010 (Cth) s 137B
+  - ESTABLISHING LIABILITY
+    - s 18 elements: Plaintiff must prove:
+      - 1. Defendant engaged in ‘misleading or deceptive conduct’.
+      - 2. While in ‘trade or commerce’.
+      - NOTE:
+        -  the plaintiff need not be a ‘consumer’ to sue under s 18;
+        -  Nor does the transaction need to be a ‘consumer’ transaction.
+      - The simplicity of the cause of action has practically made misrepresentation redundant.
+    - s 4 of the Australian Consumer Law 
+      - provides that a representation regarding a future matter is considered misleading if the person making the representation does not have reasonable grounds for doing so, and the onus is on the person making the representation to prove they had reasonable grounds.
+Misrepresentation
+Section 18
+1. False, precontractual statement of past/present fact.
+2. Made by defendant to induce the plaintiff into the contract.
+3. Which in fact induces the plaintiff into the contract. 
+
+Negligent misstatement
+4. Duty of care
+5. Breach of duty (fault) 
+
+Deceit (Fraud) Making a statement:
+6. Knowing to be false; or
+7. Being recklessly indifferent to the truth
+1. Defendant engaged in ‘misleading or deceptive conduct’;
+2. While in ‘trade or commerce’. 
+- No need to prove a representation of past/present fact: just misleading or deceptive ‘conduct’.
+- No need to prove inducement.
+- Damages and other remedies available in all cases, if the plaintiff suffered loss.
+- See range of remedies in ss 236 and 237
+
+    - Section 18 – Misleading or deceptive conduct
+      - 1) A person must not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.
+    - Plaintiff must prove:
+      - 1. Defendant engaged in ‘misleading or deceptive’ ‘conduct’.
+      - 2. While in ‘trade or commerce’.
+- MISLEADING OR DECEPTIVE CONDUCT
+  - CONDUCT
+    - Australian Consumer Law Section 2 – Definitions
+      - trade or commerce means:
+        - (a) trade or commerce within Australia; or
+        - (b) trade or commerce between Australia and places outside Australia;
+        - and includes any business or professional activity (whether or not carried on for profit).
+  - ‘IN TRADE OR COMMERCE’
+    - Concrete Constructions (NSW) Pty Ltd v Nelson (1990) 169 CLR 594
+      - the conduct of a corporation towards persons… with whomit it… has or may have dealings in the course of those activities or transactions which, of their nature, bear a trading or commercial character.’ 
+      - As a matter of language, a prohibition against engaging
+        - in conduct "in trade or commerce" can be construed as encompassing conduct in the course of the myriad of activities which are not, of their nature, of a trading or commercial character but which are undertaken in the course of, or as incidental to, the carrying on of an overall trading or commercial business.
+      - ‘ ...it is plain that [s 18] was not intended to extend to all conduct, regardless of its nature, in which a corporation might engage inthe course of, or for the purposes of, its overall trading or commercial business.
+        - activities or transactions which, of their nature, bear a trading or commercial character.
+        - An internal communication by one employee to another employee in the course of their ordinary activities in and about the construction of a building.
+      - Such conduct includes, of course, promotional activities in relation to, or for the purposes of, the supply of goods or services to actual or potential consumers, be they identified persons or merely an unidentifiable section of the public.
+    - Hearn v O’Rourke (2003) 129 FCR 63
+      - [28] The following propositions emerge from the above extract [from Nelson]:
+        - The phrase "in trade or commerce" has a restrictive operation, in the sense that it narrows the operation of [s 18].
+        - The phrase is capable of both a wider and a narrower interpretation.
+        - The wider interpretation would include "... the myriad of activities which are not, of their nature, of a trading or commercial character but which are undertaken in the course of, or as incidental to, the carrying on of an overall trading or commercial business."
+        - Such an approach would impose an overlay of Commonwealth law upon any area in which a corporation might act in carrying on its trading or commercial activities. ...
+      - The second, and narrower construction is that [s 18] applies only to conduct "... which is itself an aspect or element of activities or transactions which, of their nature, bear a trading or commercial character."
+        - The narrower construction is correct.
+        - The section is concerned with the conduct of a corporation towards persons with whom it has, or may have dealings in the course of its trading activities or transactions which dealings, of their nature, bear a trading or commercial character.
+        - The dividing line between conduct which is in trade or commerce and conduct which is not may be unclear, in which case it may be necessary to identify the features which import a trading or commercial character to an activity which would not, without more, have that character.
+      - The mere driving of a truck or construction of a building is not, without more, in trade or commerce.
+      - To engage in conduct which is divorced from any relevant actual or potential trading or commercial relationship or dealing will not, of itself, constitute conduct "in trade or commerce" for the purposes of the section. (Dowsett J)
+        - The focus must be upon the conduct in question and not upon the range of activities in which a relevant corporation may be engaged. 
+        - In other words, one does not simply identify the conduct in question, note that the relevant corporation is engaged in commercial activity of some kind, then look for a connection between the two.
+          - Because corporations are usually formed to engage in commercial activities, it will rarely be difficult to find such a connection. 
+          - The correct approach is to determine whether or not the relevant conduct can, according to ordinary usage, be described as having occurred in the course of dealings "...which, of their nature, bear a trading or commercial character". 
+    - Ultimately a question of fact.
+    - Note: only the defendant needs to be acting in trade or commerce: not the plaintiff.
+    - Lubidineuse v Bevanere Pty Ltd (1984) 3 FCR 1
+      - ‘In determining whether, in a particular case, that test is met it is relevant to consider inter alia the character of the parties involved – which I assume to include whether they are people who have engaged, or are about to engage, in commercial activities – whether the transaction is motivated by business, as distinct from personal, reasons and whether the person whose conduct is under attack played an active part in the transaction.’ (12, Wilcox J)
+    - Bevanere Pty Ltd v Lubidineuse (1985) 7 FCR 325
+      - ‘The sale of the clinic should not be viewed in isolation from the totality of the appellant's commercial activities
+      - The mere fact that it was the sale of a capital asset did not deprive it of its character as a transaction in trade or commerce.’
+      - But that is not to say that a corporation must engage in multiple transactions of a similar kind for it to be engaged in trade or commerce
+      - In our opinion, the making of the arrangements necessary to dispose of the clinic were part and parcel of the totality of the appellant's activities in trade or commerce.’
+      - But if the transaction is motivated by business, then it may be trade or commerc
+    - Houghton v Arms (2006) 225 CLR 553
+      - while in most cases, the focus would be on the nature of the business of the party making the representation, [s 18] was not so limited; 
+        - in particular, the section did not, in terms, refer to the trade or commerce of any particular corporation
+    - Tobacco Institute of Australia Ltd v Australian Federation of Consumer Organisations Inc (1992) 38 FCR 1
+      - ‘There can be no doubt that a corporation, formed to promote the interests of a particular industry or whose activities are directed at representing members of that industry in promotional activities, acts "in trade or commerce" when conveying representations about that industry's product to the general public.’
+    - Exceptions
+      -  “Private” sales of land not in the course of a business or money-making activity. Eg, sale of a family home.
+      - O’Brien v Smolonogov (1983) 53 ALR 107
+        - ‘But, in our view, there mere use, by a person not acting in the course of carrying on a business, of facilities commonly employed in commercial transactions, cannot transform a dealing which lacks any business character into something done in trade or commerce.’ (114, The Court)
+      - If the defendant was not acting ‘in trade or commerce’, then the plaintiff will need to prove common law misrepresentation.
+    - Shahid v Australasian College of Dermatologists (2008) 168 FCR 46
+      - [182] ... first, that the expression "trade or commerce" should be so read as to include any professional activity; secondly, that a professional activity will only be such as is unequivocally and distinctively characteristic of the carrying on of a profession; but thirdly, that whether the activity should also be such that, when done in the carrying on of a profession, it bears a trading or commercial character is an open question.
+    - Kowalczuk v Accom Finance [2008] NSWCA 343 [351] 
+      - I conclude that the fact that Dalla was engaged in professional activities as a solicitor is not in itself sufficient reason why section [18] cannot apply to him.
+      - The provision by Dalla of legal advice to Kowalczuk was carried out “in trade or commerce”, within the meaning of section [18].
+- MISLEADING OR DECEPTIVE CONDUCT 3
+  - Butcher v Lachlan Elder Realty Pty Ltd (2004) 218 CLR 592
+    - Misleading def, deceptive def, misleading or deceptive defintion, misleading and deceptive def
+    - [111] Condut is misleading or deceptive if it induces or is capable of inducing error. 
+      - In determining whether a contravention of [s 18] has occurred, the task of the court is to examine the relevant course of conduct as a whole. 
+        - It is determined by reference to the alleged conduct in the light of the relevant surrounding facts and circumstances. 
+      - It is an objective question that the court must determine for itself. 
+        - It invites error to look at isolated parts of the corporation's conduct. 
+  - Taco Company of Australia Inc v Taco Bell Pty Ltd (1982) 42 ALR 177
+    - Ordinarily, however, a tendency to cause confusion or uncertainty will not suffice to establish that conduct is of the type described in [s 18].
+  - Campbell v Backoffice Investments Pty Ltd (2009) 238 CLR 304
+    - it involves consideration of a notional cause and effect relationship between the conduct and the state of mind of the relevant person or class of persons.
+  - MISLEADING OR DECEPTIVE’
+    - In dealings between identified individuals, the court will look at all the circumstances of the case:
+    - The nature of the parties (Sophisticated business people dealing at arm’s length? 
+    - A consumer dealing with a corporation? Age, education, experience, etc)
+    - The nature of the transaction (Sale of valuable property? Provision of a highly technical service? Purchase of a toilet brush?)
+    - What was said/communicated in writing and how it was communicated.
+    - What the parties knew about each other / how they presented themselves.
+    - Industry context: prevailing norms or practices within the industry.
+    - etc
+  - Choo v Zhang [2016] NSWCA 193 (5 August 2016)
+    - But in a case where the impugned conduct is said to consist of representations, the question of whether the conduct was misleading or deceptive ordinarily must be determined by what a reasonable person in the position of the representee would have made of the representations, taking into account all relevant circumstances
+  - OPINIONS / STATEMENT OF FUTURE MATTER
+    -  Common law reasoning can apply.
+    -  ie, it can be misleading or deceptive if a defendant gives an opinion or makes a statement of future action when:
+      -  They do not honestly believe the statement; or
+      -  Do not have reasonable grounds for making the statement
+    - Campbell v Backoffice Investments Pty Ltd (2009) 238 CLR 304
+      - Opinions may carry with them one or more implied representations according to the circumstances of the case. 
+        - There will ordinarily be an implied representation that the person offering the opinion actually holds it. 
+      - Other implied representations may be that the opinion is based upon reasonable grounds, which may include the representation that it was formed on the basis of reasonable enquiries.
+  - STATEMENT OF FUTURE MATTER
+    - Wheeler Grace and Pierucci Pty Ltd v Wright (1989) ATPR ¶40-940
+      - Employee induced Wrights into investing in mining operation with a clear, unqualified promise that they would receive a certain return.
+      - Wrights argued that employee impliedly represented that he had reasonable grounds for the promise when he made it, which he did not.
+      - The implied representation was misleading or deceptive conduct.
+        - The fact that the corporation believed or had reasonable grounds for belief that the prediction would be fulfilled, would not answer the question as to whether the conduct was misleading or deceptive conduct in trade or commerce.
+    - Honest belief in and reasonable grounds for saying that something will occur may not prevent the statement being misleading or deceptive.
+      -  For example, if the context requires that the statement be qualified to acknowledge risk.
+  - OPINIONS
+    - Forrest v Australian Securities and Investments Commission (2012) 247 CLR 486
+      - Forrest told an audience of sophisticated investors that Fortescue Metals Group had a ‘binding contract’ with a Chinese company.
+      - Fortescue had not signed a legally binding contract.
+      - Anticipating an ‘opinion’ argument, ASIC argued that Forrest impliedly misrepresented that he had a reasonable ground for making the statement.
+      - It is ultimately unprofitable to attempt to classify the statement according to some taxonomy, no matter whether that taxonomy adopts as its relevant classes fact and opinion, fact and law, or some mixture of these classes. 
+        - It is necessary instead to examine more closely and identify more precisely what it is that the impugned statements conveyed to their audience.
+    - The common law approach may be used, but not necessary.
+      -  Only question: would a reasonable person be misled or deceived by the defendant’s conduct?
+  - STATEMENT OF FUTURE MATTER
+  - Australian Consumer Law Section 4 – Misleading representations with respect to future matters
+    - (1) If:
+      - (a) a person makes a representation with respect to any future matter (including the doing of, or the refusing to do, any act); and
+      - (b) the person does not have reasonable grounds for making the representation; 
+        - the representation is taken, for the purposes of this Schedule, to be misleading.
+    - (2) For the purposes of applying subsection (1) in relation to a proceeding concerning a representation made with respect to a future matter by:
+      - (a) a party to the proceeding; or
+      - (b) any other person; 
+        - the party ... is taken not to have had reasonable grounds for making the representation, unless evidence is adduced to the contrary.
+    - 3) To avoid doubt, subsection (2) does not:
+      - (a) have the effect that, merely because such evidence to the contrary is adduced, the person who made the representation is taken to have had reasonable grounds for making the representation; or
+      - (b) have the effect of placing on any person an onus of proving that the person who made the representation had reasonable grounds for making the representation.
+    - (4) Subsection (1) does not limit by implication the meaning of a reference in this Schedule to:
+      - (a) a misleading representation; or
+      - (b) a representation that is misleading in a material particular; or
+      - (c) conduct that is misleading or is likely or liable to mislead;
+    - and, in particular, does not imply that a representation that a person makes with respect to any future matter is not misleading merely because the person has reasonable grounds for making the representation
+  - SILENCE
+    -  At common law, silence is only a misrepresentation when there is a recognised duty to speak.
+    -  Under s 18, silence is misleading or deceptive in wider circumstances:
+      - Where there is a common law duty to speak.
+      - When the circumstances give right to a ‘reasonable expectation’ that the defendant would disclose something.
+    - Demagogue Pty Ltd v Ramensky (1992) 39 FCR 31
+      - Facts
+        - Ramenskys bought terrace house off the plan.
+        - Only vehicular access to land across land owned by third party.
+        - Discussion and documents did not reveal that the driveway subject to approval by the third party.
+        - Ramenskys argued that the failure to disclose the circumstances of the driveway was misleading or deceptive.
+      - The question is simply whether, having regard to all the relevant circumstances, there has been conduct that is misleading or deceptive or that is likely to mislead or deceive
+      - That context may or may not include facts giving rise to a reasonable expectation, in the circumstances of the case for if particular matters exist they will be disclosed.
+    - Miller & Associates Insurance Broking Pty Ltd v BMW Australia Finance Limited (2010) 241 CLR 357
+      - Consolidated retained Miller to obtain finance for a $4m insurance policy – BMW offered to provide the finance.
+      - BMW required that the policy be ‘assignable and cancellable’ but did not clearly communicate this to Miller.
+      - The policy was not assignable nor cancellable. Miller provided a copy of it to BMW before the money was loaned, but BMW did not read it.
+      - Consolidated defaulted – BMW sued Miller alleging that:
+        - Miller had falsely represented that the policy was assignable and cancellable, when it was not; or
+        - Miller failed to disclose that it was not assignable and cancellable
+      - effect or likely effect of non-disclosure unmediated by antecedent erroneous assumptions or beliefs or high moral expectations held by one person of another which exceed the requirements of the general law and the prohibition imposed by the statute.
+        - s [18] does not require a party to commercial negotiations to volunteer information which will be of assistance to the decision-making of the other party
+  - FAULT
+    - Argy v Blunts & Lane Cove Real Estate Pty Ltd (1990) 26 FCR 112
+      - Argy purchased a house in Longueville with plans to develop it.
+      - Blunts had promoted it as having ‘unlimited development potential’.
+      - Gadens (seller’s lawyer) had used an incomplete s 149 certificate, which omitted a key page that disclosed development restrictions.
+  - PASSING ON INFORMATION
+    - Butcher v Lachlan Elder Realty Pty Ltd (2004) 218 CLR 592
+      - Facts
+        - Lachlan Elder included a misleading survey in a brochure promoting a house for sale.
+        - The brochure was short and contained two disclaimers.
+        - The Butchers relied on the survey to make plans for development of the house.
+        - After contracts exchanged, the Butchers discovered that the survey was inaccurate.
+      - causal link between the impugned conduct and the loss that is claimed.
+      - Character of the particular conduct of the particular agent in relation to the particular purchasers, bearing in mind what matters of fact each knew about the other as a result of the nature of their dealings and the conversations between them, or which each may be taken to have known.
+        - Hence it would have been plain to a reasonable purchaser that the agent was not the source of the information which was said to be misleading.
+  - DISCLAIMERS
+    - Disclaim endorsement of and responsibility for the accuracy of a statement. 
+      - They typically put the onus on the plaintiff to make their own enquiries.
+    - Campbell v Backoffice Investments Pty Ltd (2009) 238 CLR 304
+      - The contemporaneous disclaimer by the person engaging in the impugned conduct is likely to go to the characterisation of the conduct.
+    - Butcher v Lachlan Elder Realty Pty Ltd (2004) 218 CLR 592
+      - If a disclaimer clause has the effect of erasing whatever is misleading in the conduct, the clause will be effective, not by any independent force of its own, but by actually modifying the conduct.
+    - Benlist Pty Limited v Olivetti Australia Pty Limited (1990) ATPR ¶41-043
+      - Brochure:
+        - ‘a great opportunity exists to upgrade the building for a new tenant, owner/occupier or a developer who will strata the building.’
+      - Of course, if the clause actually has the effect or erasing whatever is misleading in the conduct, the clause will be effective, not by any independent force of its own, but by actually modifying the conduct.
+        - the suggestion of the suitability of the building for strata title conversion might continue to influence the mind of a prospective purchaser notwithstanding his awareness of the existence of a disclaimer clause, which did not single out the particular representation, but purported to apply generally to every detail stated in the investment report.
+      - If a disclaimer clause has the effect of erasing whatever is misleading in the conduct, the clause will be effective, not by any independent force of its own, but by actually modifying the conduct. 
+        - However, a formal disclaimer would have this effect only in rare cases
+- MISLEADING OR DECEPTIVE CONDUCT 4
+  - The Australian Consumer Law Section 237 – Compensation orders etc. on application by an injured person or the regulator
+    - (1) A court may:
+      - (a) on application of a person (the injured person) who has suffered, or is likely to suffer, loss or damage because of the conduct of another person that:
+        - (i) was engaged in a contravention of a provision of Chapter 2, 3 or 4; or … make such order or orders as the court thinks appropriate against the person who engaged in the conduct, or a person involved in that conduct.
+  - The Australian Consumer Law Section 236 – Actions for damages
+    - (1) If: 
+      - (a) a person (the claimant) suffers loss or damage because of the conduct of another person; and
+      - (b) the conduct contravened a provision of Chapter 2 or 3; the claimant may recover the amount of the loss or damage by action against that other person, or against any person involved in the contravention.
+    - (2) An action under subsection (1) may be commenced at any time within 6 years after the day on which the cause of action that relates to the conduct accrued.
+  - RELIANCE
+    - Baxter v British Airways plc (1988) 82 ALR 298, 303
+      - The language of [s 18] naturally evokes the question: misled or deceived into what?
+    - Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (1988) 39 FCR 546
+      - ... recovery under [s 18] is founded by the applicant's actual reliance upon the misleading or deceptive conduct
+    - Gould v Vaggelas (1985) 157 CLR 215
+      - 1. Notwithstanding that a representation is both false and fraudulent, if the plaintiff does not rely upon it, he or she has no case.
+      - 2. If a material representation is made which is calculated to induce the plaintiff to enter into a contract and that person in fact enters into a contract there arises a fair inference of fact that he or she was induced to do so by the representation.
+      - 3. The inference may be rebutted, for example, by showing that the plaintiff, before he or she entered into the contract, either was possessed of actual knowledge or the true facts and knew them to be true or alternatively made it plain that whether, he or she knew the true facts or not, he or she did not rely on the representation.
+      - 4. The representation need not be the sole inducement. It is sufficient so long as it plays some part, even if only a minor part, in contributing to the formation of the contract. (Wilson J)
+  - Acknowledgements
+    - A declaration by the plaintiff that they did not rely on any representations or conduct of the defendant.
+    - Campbell v Backoffice Investments Pty Ltd (2009) 238 CLR 304
+      - A subsequent declaration of non-reliance by a person said to have been affected by the conduct is more likely to be relevant to the question of causation
+      - For if a person expressly declares in a contractual document that he or she did not rely upon pre-contractual representations, that declaration may, according to the circumstances, be evidence of non-reliance and of the want of a causal link between the impugned conduct and the loss or damage flowing from entry into the contract. 
+      - The question is not one of law, but of fact.
+    - Oraka Pty Ltd & Anor v Leda Holdings Pty Ltd [1998] ANZ Conv R 577
+  - EXCLUSION CLAUSES
+    -  Exclusion clauses attempt to either exclude the obligation imposed by s 18, or exclude liability for breach of it. Neither is permitted.
+    - Bowler v Hilda Pty Ltd (1998) 80 FCR 191, 207
+      - ... what is now a substantial body of authority ... which holds that exclusionary... clauses cannot override the statutory prohibition against misleading or deceptive conduct or prevent the grant of appropriate statutory relief where loss or damage is, as a matter of fact, caused by a contravention of the statute. (Heerey J)
+    - Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (1988) 39 FCR 546
+  - FIN
+    -  ACL s 18 is pleaded extensively in practice.
+    -  However, common law misrepresentation still exists – used when the defendant’s conduct is not ‘in trade or commerce’.
+- MISTAKE
+  - Mistake can manifest in two ways in contract:
+    -  It can vitiate consent (be a reason to avoid a contract).
+    -  Be a typographical error in a written agreement.
+      -  Remedy is rectification: studied in 71116 Remedies
+    -  In this subject, we look at mistake as a reason to avoid a contract.
+  - MISTAKE AS A VITIATING FACTOR
+    - Mistake is very rarely pleaded and rarely found to void a contract:
+      -  The mistake must be fundamental: it must make the contract unworkable, or it must be unconscionable to enforce it in light of the mistake: Couturier v Hastie (1856) 10 ER 1065
+    - Bell v Lever Bros [1932] AC 161
+      - So the agreement of A and B to purchase a specific article is void if in fact the article had perished before the date of sale. 
+        - In this case, though the parties in fact were agreed about the subject-matter, yet a consent to transfer or take delivery of something not existent is deemed useless, the consent is nullified.’
+    - Often the contract will allocate the risks of any mistake, which can be resolved by construction or implication of terms.
+      -  The mistake must not be due to the fault of the defendant.
+    - McRae v Commonwealth Disposals Commission (1951) 84 CLR 377
+      - the Commission cannot in this case rely on any mistake as avoiding the contract, because any mistake was induced by the serious fault of their own servants, who asserted the existence of a tanker recklessly and without any reasonable ground.
+        - The Commission contracted that a tanker existed in the position specified. 
+          - Since there was no such tanker, there has been a breach of contract, and the plaintiffs are entitled to damages for that breach
+    - Often the mistake can be resolved by operation of other vitiating factors which are easier to prove. 
+      - Esp, misrepresentation or misleading or deceptive conduct.
+      -  Mistake concerns the subjective intentions of the parties, but contract law is premised on how parties objectively manifest their intentions.
+      -  Certainty of contract would be unacceptably disrupted if parties could avoid contracts because of mistakes.
+    - Smith v Hughes (1871) LR 6 QB 597
+      - The rule of law is that stated in Freeman v Cooke. 
+        - If, whatever a man's real intention may be, he so conducts himself that a reasonable man would believe that he was assenting to the terms proposed by the other party, and that other party upon that belief enters into the contract with him, the man thus conducting himself would be equally bound as if he had intended to agree to the other party's terms.’
+    - Three types of mistake:
+      -  Common mistake: both parties make the same mistake.
+      -  Mutual mistake: The parties are at ‘cross purposes’ because both parties have made their own mistake.
+      -  Unilateral mistake: The parties are at ‘cross purposes’ but only one party is mistaken.
+- UNILATERAL MISTAKE
+  - Unilateral mistake exists:
+    - /8956230.
+    -  In equity: Taylor v Johnson (1983) 151 CLR 422
+      -  Contract is voidable.
+  - NON EST FACTUM
+    -  “this is not my deed”
+    -  Allows a plaintiff to avoid a signed legal instrument which is radically different to what the plaintiff thought they had signed.
+    - Petelin v Cullen (1975) 132 CLR 355
+      - first, the injustice of holding a person to a bargain to which he has not brought a consenting mind; and, 
+      - secondly, the necessity of holding a person who signs a document to that document, more particularly so as to protect innocent persons who rely on that signature when there is no reason to doubt its validity which must necessarily be kept within narrow limits”
+    - Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd (2004) 219 CLR 165
+      - Legal instruments of various kinds take their efficacy from signature or execution. 
+      - Such instruments are often signed by people who have not read and understood all their terms, but who are nevertheless committed to those terms by the act of signature or execution. 
+        - It is that commitment which enables third parties to assume the legal efficacy of the instrument. 
+        - To undermine that assumption would cause serious mischief.
+  - ELEMENTS of Non Est Factum
+    - Legal instrument (contract, deed, etc) signed by a party;
+    - Signer unable to read/understand the instrument
+    - Signer:
+      - Subjectively mistaken about the legal effect of the instrument; or
+      - Unable to comprehend the legal effect of the instrument.
+    - When claiming against innocent 3Ps: the signer was not careless.
+    - Did the signer’s mind “go with the pen”?
+  - INABILITY TO READ / UNDERSTAND
+    - Reasons for inability to read/understand:
+      -  Blindness: Saunders v Anglia Building Society [1971] AC 122.
+      -  Illiteracy: Petelin v Cullen (1975) 132 CLR 355.
+      -  Incapacity: Ford v Perpetual Trustees Victoria Limited (2009) 75 NSWLR 42.
+    - Inability can be temporary: Saunders v Anglia Building Society [1971] AC 122.
+    - Must not be due to the fault of the signer.
+  - INABILITY TO READ / UNDERSTAND
+    - Petelin v Cullen (1975) 132 CLR 355
+      - Petelin (illiterate) granted option to Cullen to purchase land owned by Petelin.
+    - Cullen’s agent presented a ‘receipt’ for signing, which was an extension of the option.
+    - Petelin signed believing it was just a receipt for paying $50.
+    - Cullen attempted to enforce the option.
+  - INSTRUMENT RADICALLY DIFFERENT
+    - Saunders v Anglia Building Society [1971] AC 1004
+      - Mrs Gallie believed that she transferred her house to her nephew (Parkin) so that he and his business partner (Lee) could use it as security in their business venture.
+      - She could not read the transfer because her glasses were broken.
+      - In fact, the document transferred the house to Lee.
+      - They used the house as security for a loan from Anglia and defaulted.
+      - Anglia moved to sell the house.
+      - Mrs Gallie argued that the transfer to Lee was void due to non est factum, thus she retained ownership of it.
+    - Gallie v Lee [1969] 2 Ch 17
+      - ‘But what upon the plaintiff's own evidence was the essential character of the document she was intending to execute?
+  - CARELESSNESS
+    - Petelin v Cullen (1975) 132 CLR 355
+      - The insistence that such precautions should be taken as a condition of making out the defence is of fundamental importance when the defence is asserted against an innocent person
+      - It is otherwise when the defence is asserted against the other party to the transaction who is aware of the circumstances in which it came to be executed and who knows (because the document was signed on his representation) or has reason to suspect that it was executed under some misapprehension as to its character.
+        - element of carelessness has no relevance for the present case.
+        - The appellant's belief that the document was a receipt was inspired by the agent's representation 
+    - ‘Reasonable precautions’ will depend upon the facts of the case.
+      - For example:
+        -  Take reasonable steps to verify the contents of an instrument before signing.
+        -  Having a trusted person read/translate the instrument.
+        -  Wearing glasses or other aid if reasonably available.
+      - Ford v Perpetual Trustees Victoria Limited (2009) 75 NSWLR 42
+        - [89] The question of negligence is to be assessed by reference to the circumstances of the signer. (Allsop P and Young JA)
+  - MENTAL INCAPACITY
+    - PT Ltd v Maradona Pty Ltd (1992) 25 NSWLR 643
+      - mental incapacity preventing any understanding at all of the transaction will also mean that there was in truth no signature of the document.
+
+    - Ford v Perpetual Trustees Victoria Limited (2009) 75 NSWLR 42
+      - Mr Ford: intellectually handicapped and practically illiterate.
+      - Mr Ford’s son, Scott, manipulated Mr Ford into obtaining a loan from Perpetual and providing his house as security.
+      - Loan arranged through third party broker, so Perpetual was unaware of Ford’s incapacity.
+      - Ford argued his signature was voided by non est factum.
+    - The totality of the findings are clear that Mr Ford did not know what he was signing, in that he did not understand anything at all about the documents he was signing such that it can be concluded that his mind did not go with his pen.
+      - Here, given the manipulation of Mr Ford by his son, it cannot be concluded that he failed to take any precautions that a person in his position and with his attributes should have. 
+  - TRANSACTION VOID
+    - If non est factum is established, then the transaction is void ab initio (void from the beginning).
+    - A void transaction is of no legal effect.
+    - Rescission def
+      - when a contract is rendered null and void, and so is no longer recognized as legally binding
+      - Vitiating factors
+  - UNILATERAL MISTAKE IN EQUITY
+    - Equity can also void a written contract entered under a mistake about a fundamental term.
+      -  More than mistake is required: it must be unconscionable to hold the mistaken party to the signed document.
+      -  Typically, that requires the non-mistaken party to take steps to ensure the mistaken party does not discover their mistake.
+    - Goldsbrough Mort & Co Ltd v Quinn (1910) 10 CLR 674
+      - Quinn granted an option to sell his land for ‘£1 10s per acre calculated on a freehold basis.’
+      - Quinn was mistaken about how much he would receive.
+      - Argued that the contract was unenforceable due to his mistake.
+    - Taylor v Johnson (1983) 151 CLR 422
+      - Lead case in unilateral mistakes
+      - Mrs Johnson granted an option to sell 10 acres of land to the Taylors, which they exercised.
+      - Mrs Johnson believed that the price was $15,000 per acre. 
+        - The price recorded in both the option and later contract was $15,000 for the entire 10 acres.
+      - Evidence suggested that the Taylors knew Mrs Johnson was mistaken and they actively prevented her from discovering the truth.
+      - It is that a party who has entered into a written contract under a serious mistake about its contents in relation to a fundamental term will be entitled in equity to an order rescinding the contract if the other party is aware
+        - deliberately sets out to ensure that the first party does not become aware of the existence of his mistake or misapprehension
+  - TRANSACTION VOIDABLE
+    - Contract is voidable: the plaintiff may elect to rescind
+# Week 10 - Duress, Undue influence, Unconscionable conduct, Illegality
+
+- Abuse of power
+  - Duress
+    - Contract law is the voluntary assumption of legal liability.
+    - The law will allow a plaintiff to rescind a contract if s/he consent because of unfair pressure.
+    - Two forms of unfair pressure recognised at general law:
+      - 1. Duress (common law)
+      - 2. Undue influence (equity)
+    - The Universe Sentinel [1983] 1 AC 366
+      - ‘The authorities ... reveal two elements in the wrong of duress:
+        - 1. pressure amounting to compulsion of the will of the victim; and
+        - 2. the illegitimacy of the pressure exerted
+      - There must be pressure, the practical effect of which is compulsion or the absence of choice. 
+      - Compulsion is variously described in the authorities as coercion or the vitiation of consent. 
+        - The classic case of duress is, however, not the lack of will to submit but the victim's intentional submission arising from the realisation that there is no other practical choice open to him
+  - Illegitimate pressure
+    - ANZ Banking Group Ltd v Karam (2005) 64 NSWLR 149
+      - [66] The vagueness inherent in the terms “economic duress” and “illegitimate pressure” can be avoided by treating the concept of “duress” as limited to threatened or actual unlawful conduct
+      - Avoid vagueness of ‘economic duress’ and ‘illegitmate pressure’ by treating the concept of “duress” as limited to threatened or actual unlawful conduct. 
+    - DURESS OF PERSON
+      - Barton v Armstrong [1976] AC 104
+        - ‘if A threatens B with death if he does not execute some document and B, who takes A's threats seriously, executes the document it can be only in the most unusual circumstances that there can be any doubt whether the threats operated to induce him to execute the document.’
+      - The classic case of duress encompasses:
+        -  Threatened assaults;
+        -  False imprisonment.
+    - DURESS OF PROPERTY
+      - Threatened interference with the plaintiff’s tangible property (goods). Eg:
+        -  Damage or destruction of property
+        -  Unlawful seizing and detaining, or unlawful refusal to return.
+      - Hawker Pacific Pty Ltd v Helicopter Charter Pty Ltd (1991) 22 NSWLR 298
+        - ‘If circumstances for which the appellant was responsible conveyed the threat to the respondent, then the threat of duress would operate as forcefully as if it were put into words.” (303, Priestley JA)
+    - ECONOMIC DURESS
+      - Threatened unlawful interference with the plaintiff’s financial or other economic interests.
+      - Common issue: 
+        - where is the boundary between ‘illegitimate pressure’ and ‘hard bargaining’?
+      - Barton v Armstrong [1976] AC 104
+        - ‘[An alleged case of duress] involves consideration of what the law regards as voluntary, or its opposite; for in life, including the life of commerce and finance, many acts are done under pressure, sometimes overwhelming pressure, so that one can say that the actor had no choice but to act. 
+        - Absence of choice in this sense does not negate consent in law: for this the pressure must be one of a kind which the law does not regard as legitimate. Thus, out of the various means by which consent may be obtained – advice, persuasion, influence, inducement, representation, commercial pressure - the law has come to select some which it will not accept as a reason for voluntary action: fraud, abuse of relation of confidence, undue influence, duress or coercion.’ (Lord Wilberforce and Lord Simon of Glaisdale (Dissent))
+      - The mere fact that pressure is applied – even overwhelming pressure – or that parties bargain from unequal bargaining positions is not sufficient to amount to duress.
+      - Crescendo Management v Westpac (1988) 19 NSWLR 40
+        - ‘The proper approach in my opinion is to: ask whether any applied pressure induced the victim to enter into the contract and then ask whether that pressure went beyond what the law is prepared to countenance as legitimate? 
+          - Pressure will be illegitimate if it consists of unlawful threats ... But the categories are not closed. 
+        - Even overwhelming pressure, not amounting to unconscionable or unlawful conduct, however, will not necessarily constitute economic duress.’ (McHugh JA)
+      - ANZ Banking Group Ltd v Karam (2005) 64 NSWLR 149
+        - [66] The vagueness inherent in the terms “economic duress” and “illegitimate pressure” can be avoided by treating the concept of “duress” as limited to threatened or actual unlawful conduct. 
+        - The threat or conduct in question need not be directed to the person or property of the victim, narrowly identified, but can be to the legitimate commercial and financial interests of the party. (The Court)
+      - Threats to break a contract
+        - A recognised category of case of economic duress is a threat to breach a contract.
+          - North Ocean Shipping Co Ltd v Hyundai Construction Co Ltd [1979] 1 QB 705 (The Atlantic Baron)
+      - Electricity Generation Corp t/as Verve Energy v Woodside Energy Ltd [2013] WASCA 36 (20 February 2013)
+        - [36] An actual or threatened breach of contract is unlawful conduct for the purposes of the economic duress doctrine: 
+          - Furphy v Nixon (1925) 37 CLR 161; 
+          - Smith v William Charlick Ltd [1924] HCA 13; (1924) 34 CLR 38; 
+          - TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd [1956] SR (NSW) 323. (Buss JA)
+      - Relationship with practical benefit
+        - Practical benefit cases can be invalidated by duress. 
+        - The court will distinguish:	
+          -  Parties who genuinely and in good faith renegotiate terms; from
+          -  Benefits extorted by unlawful threats to break a contract.
+      - Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 747
+        - (v) B's promise is not given as a result of economic duress or fraud or undue influence or unconscionable conduct on the part of A nor is it induced as a result of unfair pressure on the part of A, having regard to the circumstances, then, ... (Santow J
+    - LAWFUL ACT DURESS
+      - Where the plaintiff is coerced by the defendant’s threat to do something lawful to back up an illegitimate demand.
+        - The Universe Sentinel [1983] 1 AC 366
+          - ‘In determining what is legitimate two matters may have to be considered. 
+            - The first is as to the nature of the pressure. 
+            - In many cases this will be decisive, though not in every case. 
+          - And so the second question may have to be considered, namely, the nature of the demand which the pressure is applied to support.’ (401, Lord Scarman)
+          - Duress can, of course, exist even if the threat is one of lawful action: whether it does so depends upon the nature of the demand.
+      - Kaufman v Gerson [1904] 1 KB 591
+        - Facts
+          - Kaufman threatened to report Mrs Gerson’s wife to the French authorities for misappropriating money unless she promised to repay it.
+          - Mrs Gerson agreed to repay.
+          - Kaufman’s conduct was not unlawful in French law. 
+          - Kaufman sued for payment.
+        - ‘what does it matter what particular form of coercion is used, so long as the will is coerced? 
+          - Some persons would be more easily coerced by moral pressure, such as was exercised here, than by the threat of physical violence. 
+          - It seems to me impossible to say that it is not coercion to threaten a wife with the dishonour of her husband and children.’ (597, Collins MR)
+      - Thorne v Kennedy (2017) 263 CLR 85
+        - [71] Of course, so to observe is not necessarily to accept that Karam's rejection of illegitimate pressure by lawful means is doctrinally valid. 
+        - To the contrary, there appears to be much to be said for the view that, rather than persist with a blanket restriction of illegitimate pressure to pressure exerted by unlawful means, it would better accord with equitable principle, and better align with English and American authority, if the test of illegitimate pressure were whether the pressure goes beyond what is reasonably necessary for the protection of legitimate interests ..’ (Nettle J, citations omitted)
+    - CAUSATION / COERCION
+      - Crescendo Management Pty Ltd v Westpac Banking Corporation (1988) 19 NSWLR 40
+        - ‘It is unnecessary, however, for the victim to prove that the illegitimate pressure was the sole reason for him entering into the contract. 
+        - It is sufficient that the illegitimate pressure was one of the reasons for the person entering into the agreement. 
+        - Once the evidence establishes that the pressure exerted on the victim was illegitimate, the onus lies on the person applying the pressure to show that it made no contribution to the victim entering into the agreement: Barton v Armstrong [1976] AC 104.’(McHugh JA)
+      - Coercion
+        -  Coercion is easy to prove in duress of person and duress of property: 
+          - the law vigilantly protects the sanctity of the person and property interests.
+        -  It’s harder to establish causation in economic duress cases, because the plaintiff will always have the option to refuse, seek legal advice, reserve rights, etc.
+        -  The more reasonable options available to the plaintiff, the easier it will be for the defendant to argue that the plaintiff acted voluntarily.
+      - Mason v New South Wales (1959) 102 CLR 108
+        - ‘It is all very well to say in such a case that there was an alternative to payment, namely to carry on as if ss. 12 and 28 had not been passed, resist the resulting prosecutions by pleading the invalidity of the Act, seek protection from the courts by injunction or otherwise in respect of a seizure, and appeal, if necessary to the Privy Council, against any unfavourable decision. 
+          - But the critical question is not whether there was an alternative. 
+          - It is whether the choice made between alternatives was made freely or under pressure.’ (128, Kitto J)
+        - ‘But the loss to be anticipated from the adoption of either of these courses was so serious that any prudent person in their position must have felt strongly impelled to choose the lesser evil: 
+          - to save his business and avoid the recurrent sanctions of the criminal law ... .’ (129, Kitto J)
+    - CAUSATION: EVIDENCE
+      - Pao On v Lau Yiu Long [1980] AC 614
+        - ‘... In determining whether there was a coercion of will such that there was no true consent, it is material to inquire whether the person alleged to have been coerced did or did not protest; whether, at the time he was allegedly coerced into making the contract, he did or did not have an alternative course open to him such as an adequate legal remedy; whether he was independently advised; and whether after entering the contract he took steps to avoid it.’ (636, Lord Scarman)
+      - The Universe Sentinel [1983] 1 AC 366
+        - ‘The victim’s silence will not assist the bully, if the lack of any practicable choice but to submit is proved.’ (Lord Scarman)
+- Undue influence
+  - INTRODUCTION
+    - Common law duress requires the application of illegitimate pressure.
+    -  Equity will relieve a plaintiff of a contract obtained by ‘undue’ influence, which may be less than ‘illegitimate’ pressure.
+    - Allcard v Skinner (1887) 36 Ch D 145
+      - Or is it that it is right and expedient to save them from being victimised by other people? 
+        - In my opinion the doctrine of undue influence is founded upon the second of these two principles.
+      - On the other hand, to protect people from being forced, tricked or misled in any way by others into parting with their property is one of the most legitimate objects of all laws; 
+        - and the equitable doctrine of undue influence has grown out of and been developed by the necessity of grappling with insidious forms of spiritual tyranny and with the infinite varieties of fraud.’
+    - COMPARISON WITH DURESS
+      - Duress is sometimes seen as an extreme form of undue influence.
+      - Whereas:
+        - a victim of duress will be consciously coerced into a contract,
+        - undue influence can be subtle, well-intended and the victim may not be aware of it.
+    - Thorne v Kennedy (2017) 263 CLR 85
+      - “no Court has ever attempted to define undue influence”... the boundaries, particularly between undue influence and duress, are blurred. 
+      - One reason why there is no clear distinction is that undue influence can arise from widely different sources,
+    - 2 FORMS OF UNDUE INFLUENCE
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘The jurisdiction of a court of equity to set aside gifts [and contracts] inter vivos which have been procured by undue influence is exercised where
+          - 1. undue influence is proved as a fact, or [‘actual undue influence’]
+            - Typically a trick (scared out of cookie)
+          - 2. where, undue influence being presumed from the relations existing between the parties, the presumption has not been rebutted.’ [‘presumed undue influence’]
+            - Typically a relational advantage (give brother cookie)
+  - ACTUAL UNDUE INFLUENCE
+    - Actual Undue Influence
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘facts must be proved showing that the transaction was the outcome of such an actual influence over the mind of the [plaintiff] that it cannot be considered his free act.’ (134, Dixon J)
+      - Credit and Commerce International SA v Aboody [1990] 1 QB 923
+        - ‘... we think that a person relying on a plea of actual undue influence must show that:
+          - 1. the other party to the transaction (or someone who induced the transaction for his own benefit) had the capacity to influence the complainant;
+          - 2. the influence was exercised;
+          - 3. its exercise was undue;
+          - 4. its exercise brought about the transaction.’ (Slade LJ)
+    - CAPACITY TO INFLUENCE
+      - Influential relationships are very common, thus the capacity to influence is seldom difficult to establish.
+        - Influential relationships can take infinite forms.
+        - Often there will be unequal bargaining power.
+      - Typically, the relationships involve close, personal relationships of trust, confidence or reliance:
+        -  Spouses
+        -  Family members
+        -  Professionals/clients
+        -  Religious teachers/followers
+    - INFLUENCE IN FACT EXERCISED
+      - ‘Influence’ can take any form:
+      -  Over threats Persistent persuasion.
+        -  Taking advantage of someone at an unusual time or place – esp if they’re distracted or vulnerable.
+        -  Taking advantage of a position of authority.
+        -  Merely being a silent, but forceful, presence in the room.
+      -  Having others apply pressure or persuasion.
+        - Key consideration: the quality of the consent of the plaintiff.
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘facts must be proved showing that the transaction was the outcome of such an actual influence over the mind of the alienor that it cannot be considered his free act.’ (134, Dixon J)
+      - Micarone v Perpetual Trustees (1999) 75 SASR 1
+        - [286] ... the question is not whether, in the literal sense, there was the exercise of an independent and voluntary will, but whether that exercise took place in an environment in which the actors were able to form a proper judgment ... . 
+          - If the conclusion arrived at negates that proposition, actual undue influence is made out
+      - Farmers’ Co-operative Executors & Trustees Ltd v Perks (1989) 52 SASR 399
+        - ‘In my view, the defendant dominated his wife by the constant employment of actual and threatened violence and it is against this background that the events more directly concerned with the transfer of her share in the property fall to be considered.’ (410, Duggan J)
+      - Credit and Commerce International SA v Aboody [1990] 1 QB 923
+        - ‘The mere fact that in order to get his own way he chose deliberately to say nothing as to the risks, rather than to misrepresent them, would not, in our judgment, save his conduct from being unconscionable or absolve him from a charge of actual undue influence, bearing in mind that it was he who invited her to enter into them. 
+          - On the particular facts of this case we think it could fairly be said that Mrs. Aboody's mind was in effect “a mere channel through which the will of [Mr. Aboody] operated: ...’ (969, The Court)
+    - ‘UNDUE’ INFLUENCE
+      - Allcard v Skinner (1887) 36 Ch D 145
+        - The law does not exclude influence. Nay, it recognises influence as natural and right. 
+          - Few, if any, men are gifted with characters enabling them to act, or even think, with complete independence of others, which could not largely exist without destroying the foundations of society.
+        - But the law requires that, influence, however natural and right, shall not be unduly exercised, that is, shall be exercised only in due proportion to the surrounding circumstances and the strength of the person submitted to it.
+        - The more powerful influence or the weaker patient alike evokes a stronger application of the safeguard ...’ (157-158, Kewich J)
+      - Context matters.
+        - Compare:
+          -  Overbearing salesperson dealing with frail, elderly pensioner.
+          -  Overbearing salesperson dealing with educated professional.
+          -  Negotiations between large commercial corporations.
+      - Poosathurdi v Kanappa Chettiar (1919) LR 47 Ind App 1
+        - ‘[Influence] may be used wisely, judiciously and helpfully. 
+        - But... more than mere influence must be proved so as to render influence, in the language of the law, 'undue'. 
+        - It must be established that the person in a position of domination has used that position to obtain unfair advantage for himself.’ (4, Privy Council)
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘... when the transaction is not one of gift but of purchase or other contract, the matters affecting its validity are necessarily somewhat different.
+        - Adequacy of consideration becomes a material question.’ (136, Dixon J)
+      - National Westminster Bank Plc v Morgan [1985] 1 AC 686
+        - ‘There is no substitute in this branch of the law for a “meticulous examination of the facts.’ (Lord Scarman)
+    - CAUSATION
+      - The undue influence must be a cause of the plaintiff agreeing to the contract.
+      - Thorne v Kennedy (2017) 263 CLR 85
+        - [24] ... Where duress, undue influence, or unconscionable conduct is otherwise shown, an inference of the necessary causation or contribution is readily drawn if the particular transaction cannot reasonably be accounted for by “ordinary motives” ... .’ (Kiefel CJ, Bell, Gageler, Keane and Edelman JJ)
+      - Credit and Commerce International SA v Aboody [1990] 1 QB 923
+        - ‘However, in our judgment, ... the jurisdiction exercised by the court in such cases is not essentially of a punitive nature; its purpose is to do justice to the complainant in suitable circumstances giving him or her relief from a disadvantageous transaction. 
+        - We think that, at least in ordinary circumstances, it would not be appropriate for the court to exercise this jurisdiction in a case where the evidence establishes that on balance of probabilities the complainant would have entered into the transaction in any event.’ (971, The Court)
+  - PRESUMED UNDUE INFLUENCE & REMEDY
+    - PRESUMED UNDUE INFLUENCE
+      - Actual undue influence def
+        - The influence must have in fact caused the transaction.
+        - Onus on the plaintiff to prove every element: influence + causation.
+      - Presumed undue influence def
+        -  Plaintiff proves the context of the transaction and raises a presumption that the transaction was procured by undue influence.
+        - Onus then shifts to defendant to disprove undue influence caused the transaction.
+        - Useful if the plaintiff has no or limited evidence on how contract formed.
+        - BUT, if onus discharged then transaction stands.
+    - Many fact scenarios can support a case for both actual and presumed undue influence.
+      - Farmers’ Co-operative Executors & Trustees Ltd v Perks (1989) 52 SASR 399
+        - ‘I am of the view that over the years the defendant achieved an ascendancy over the deceased and I find established as a matter of fact that a special relationship of control and dominance existed.
+        - The relationship which I have found is sufficient, on the authorities, to give rise to a presumption that the deceased transferred her share in the property to the defendant as the result of undue influence on his part. 
+          - There is no doubt in my mind that the presumption has not been rebutted. ... Rather it is my view that the evidence goes further than simply giving rise to the presumption; it establishes a case of actual undue influence.’ (416-417, Duggan J)
+    - 2 CLASSES OF PRESUMED UNDUE INFLUENCE
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘Where certain special relations exist undue influence is presumed 
+        - Wherever the relation between donor and donee is such that the latter is in a position to exercise dominion over the former by reason of the trust and confidence reposed in the latter, the presumption of undue influence is raised
+    - FIDUCIARY RELATIONSHIPS
+      - If the relationship between the parties is fiduciary, then the law will presume undue influence on proof of that relationship without more.
+        - Examples:
+          -  Solicitor to client
+          -  Doctor to patient
+          -  Religious adviser to disciple
+          -  Parent (or person in loco parentis) to child
+          -  Guardian to ward
+          -  Trustee to beneficiary
+          - DOES NOT INCLUDE: Siblings; Child/Parent; Husband/Wife;
+          - Employer/employee; Banker/customer
+      - Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41
+        - ‘The critical feature of these relationships is that the fiduciary undertakes or agrees to act for or on behalf of or in the interests of another person in the exercise of a power or discretion which will affect the interests of that other person in a legal or practical sense. 
+          - The relationship between the parties is therefore one which gives the fiduciary a special opportunity to exercise the power or discretion to the detriment of that other person who is accordingly vulnerable to abuse by the fiduciary of his position.’ (96-97, Mason J)
+    - PRESUMPTION IN FACT
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘The [fiduciary] relations mentioned, however, do not constitute an exhaustive list of the cases in which undue influence will be presumed from personal relations.
+          - Wherever the relation between donor and donee is such that the latter is in a position to exercise dominion over the former by reason of the trust and confidence reposed in the latter, the presumption of undue influence is raised ... .
+        - Facts
+          - Mr Buttress: low intelligence, illiterate, totally dependant on Mrs Johnson in business and finance matters.
+          - Mr Johnson gave away his only real asset to Mrs Johnson during his lifetime.
+          -  Mr Johnson’s estate sought to rescind the transfer by raising a presumption of undue influence.
+        - One occupying such a position falls under a duty in which fiduciary characteristics may be seen.
+      - Tulloch (deceased) v Braybon (No 2) [2010] NSWSC 650 (17 June 2010)
+        - In my opinion, ... more than mere confidence and reciprocal influence is required to establish a “special relationship of influence” from the existence of which undue influence will be presumed unless rebutted; 
+          - for a relationship to be brought within the doctrine, it must go beyond one of mere confidence and influence, to one involving dominion or ascendancy by one over the will of the other, and correlatively dependence and subjection on the part of the other. 
+      - Thorne v Kennedy (2017) 263 CLR 85
+        - [34] ... A presumption ... arises where common experience is that the existence of one fact means that another fact also exists. 
+        - Common experience gives rise to a presumption that a transaction was not the exercise of a person's free will if 
+          - (i) the person is proved to be in a particular relationship, and 
+          - (ii) the transaction is one, commonly involving a "substantial benefit" to another, which cannot be explained by "ordinary motives", or "is not readily explicable by the relationship of the parties".” (Kiefel CJ, Bell, Gageler, Keane and Edelman JJ)
+        - Facts
+          - Ms Thorne: 36 year-old Eastern European woman with few assets. 
+            - Spoke a little Greek and English.
+          - Mr Kennedy: Very wealthy 67 year-old man. 
+            - Lived in Australia.
+          - Ms Thorne told to sign a prenuptial agreement 1 week before the wedding or the wedding would be cancelled.
+          - Ms Thorne advised by lawyer that the agreement was one of the worst and most unfair that she had seen.
+            - Ms Thorne signed the prenuptial.
+          - Ms Thorne signed a postnuptial agreement in the same terms a few days after the wedding.
+            - A lawyer again advised Ms Thorne that she should not sign.
+          - Both times, Mr Kennedy was waiting outside in his car.
+          - Marriage ended four years later.
+    - REBUTTING THE PRESUMPTION
+      - Tulloch (deceased) v Braybon (No 2) [2010] NSWSC 650
+        - [40]... establishing both that the disponor knew and understood what he or she was doing, and that he or she was acting independently of the influence of the dominant party ...
+      - Johnson v Buttress (1936) 56 CLR 113
+        - ‘It must be affirmatively shown by the donee that the gift was ... "the pure, voluntary, well-understood act of the mind" of the donor.” (119, Latham CJ)
+        - ‘In the case of an illiterate or weak-minded person it ill be more difficult for the [defendant] to discharge the prescribed onus of proof than in other cases. 
+          - The burden will be still heavier upon the [defendant] where the [plaintiff] has given him all or practically all of his property ... .’ (120, Latham CJ)
+        - ‘... Further, when the transaction is not one of gift but of purchase or other contract, the matters affecting its validity are necessarily somewhat different. 
+          - Adequacy of consideration becomes a material question.’ (136, Dixon J)
+    - INDEPENDENT ADVICE
+      - Inche Noriah v Shaik Allie Bin Omar [1929] AC 127
+        - It is necessary for the [defendant] to prove that the gift was the result of the free exercise of independent will. 
+          - The most obvious way to prove this is by establishing that the gift was made after the nature and effect of the transaction had been fully explained to the [plaintiff] by some independent and qualified person so completely as to satisfy the Court that the [plaintiff] was acting independently of any influence from the [defendant] and with the full appreciation of what he was doing;
+        - ‘[The independent advice] must be given with a knowledge of all relevant circumstances and must be such as a competent and honest adviser would give if acting solely in the interests of the donor.” (135-136, Privy Council)
+    - Thorne v Kennedy (2017) 263 CLR 85
+      - [59] ... In combination, it was open to the primary judge to conclude that Ms Thorne considered that she had no choice or was powerless other than to enter the agreements. 
+      - In other words, the extent to which she was unable to make "clear, calm or rational decisions" was so significant that she could not aptly be described as a free agent. (Kiefel CJ, Bell, Gageler, Keane and Edelman JJ)
+    - REMEDY
+      - Undue influence will allow the plaintiff to rescind the contract.
+
+  - Unconscionable conduct
+    - INTRODUCTION
+      - 1. Broad sense
+        - Equity is the ‘court of conscience’, hence, many of its principles are directed to preventing unconscionable conduct. 
+        - To obtain relief the plaintiff must show that the defendant’s conduct is ‘unconscionable’. 
+          - Examples:
+            -  Part performance
+            -  Undue influence
+      - 2. Narrow sense: 
+        - Amadio unconscionable conduct
+          - A specific equitable doctrine which applies to specific factual circumstances different from the vitiating factors we have considered so far.
+        - Sometimes also called ‘unconscionability’.
+      - COMMERCIAL BANK OF AUSTRALIA V AMADIO (1983) 151 CLR 447
+        - ‘The jurisdiction is long established as extending generally to circumstances in which
+          - 1. a party to a transaction was under a special disability in dealing with the other party with the consequence that there was an absence of any reasonable degree of equality between them and
+          - 2. that disability was sufficiently evident to the stronger party to make it prima facie unfair or "unconscientious" that he procure, or accept, the weaker party's assent to the impugned transaction in the circumstances in which he procured or accepted it.
+            - Where such circumstances are shown to have existed, an onus is cast upon the stronger party to show that the transaction was fair, just and reasonable: ...’ (474, Deane J)
+        - Mr and Mrs Amadio
+          -  Age: 70s
+          -  Some English literacy, no formal education
+          -  Mr Amadio had owned a business and owned some commercial property
+        - Vincenzo
+          -  ‘Successful’ land-developer.
+          -  Companies were increasingly insolvent and highly likely to default.
+        - Commercial Bank
+          -  Long-term relationship with Vincenzo’s business.
+          -  Selectively dishonouring cheques, but increasingly concerned about recovering debts owed.
+        - Commercial Bank leaves it to Vincenzo to obtain his parents’ consent to be guarantors.
+          -  Vincenzo lies about extent of liability.
+          -  Mr Virgo visits the Amadios with the documents:
+            -  Documents are dense and in legalese.
+            -  He does not explain the transaction.
+            -  Corrects Mr Amadio’s statement about the term of the guarantee.
+          -  Amadios sign.
+        - Evidence of the Amadios’ special disadvantage:
+          -  Lack of English literacy
+          -  Documents in dense legal language
+          -  Obvious mistake about fundamental aspect of guarantee
+          -  No independent advice
+          -  Obvious Amadios about to guarantee a debt unlikely to be repaid
+        - Deane J
+          - wilful ignorance is not to be distinguished in its equitable consequences from knowledge" it was prima facie unfair and "unconscientious" of the bank to proceed to procure their signature on the guarantee/mortgage. 
+          - With that conclusion, the onus is cast upon the bank to show that the transaction was "in point of fact fair, just, and reasonable"
+    - SPECIAL DISADVANTAGE
+      - Blomley v Ryan (1956) 99 CLR 362
+        - ‘The circumstances adversely affecting a party, which may induce a court of equity either to refuse its aid or to set a transaction aside, are of great variety and can hardly be satisfactorily classified. 
+          - Among them are poverty or need of any kind, sickness, age, sex, infirmity of body or mind, drunkenness, illiteracy or lack of education, lack of assistance or explanation where assistance or explanation is necessary. 
+        - The common characteristic seems to be that they have the effect of placing one party at a serious disadvantage vis-a-vis the other.’ (405, Fullagar J)
+      - Australian Competition and Consumer Commission (ACCC) v Samton Holdings Pty Ltd (2002) 117 FCR 301
+        - [48] Under the rubric of unconscionable conduct, equity will:
+          - (i) Set aside a contract or disposition resulting from the knowing exploitation by one party of the special disadvantage of another.
+          - The special disadvantage may be constitutional, deriving from age, illness, poverty, inexperience or lack of education 
+      - Louth v Diprose (1992) 175 CLR 621
+        - it is explicable only on the footing that he was so emotionally dependent upon, and influenced by, the appellant as to disregard entirely his own interests. 
+      - Commercial Bank of Australia v Amadio (1983) 151 CLR 447
+        - I qualify the word "disadvantage" by the adjective "special" in order to disavow any suggestion that the principle applies whenever there is some difference in the bargaining power of the parties and in order to emphasize that the disabling condition or circumstance is one which seriously affects the ability of the innocent party to make a judgment as to his own best interests
+      - Australian Competition and Consumer Commission v CG Berbatis Holdings Pty Ltd (2003) 214 CLR 51
+        - Roberts wanted to sell their business to look after sick daughter.
+          - Roberts needed CG to renew their lease to receive maximum value for the sale.
+          - CG refused to renew the lease unless the Roberts discontinued a claim against it, and released CG from future claims.
+          - Roberts independently advised not to sign the release.
+          - Roberts felt that they had no choice and signed.
+        - Many, perhaps even most, contracts are made between parties of unequal bargaining power, and good conscience does not require parties to contractual negotiations to forfeit their advantages, or neglect their own interests....
+        - [14] Unconscientious exploitation of another's inability, or diminished ability, to conserve his or her own interests is not to be confused with taking advantage of a superior bargaining position.
+      - Undue Influence def: 
+        - Unconscientious exploitation of another's inability, or diminished ability, to conserve his or her own interests
+- KNOWLEDGE
+  - KNOWLEDGE
+    - Once the special disadvantage is established, it is still necessary to demonstrate the unconscionable conduct.
+    - Unconscionable conduct def requires:
+      - 1. The exploiting party was aware of the victim’s special disadvantage; and
+      - 2. Consciously exploited it to obtain a benefit.
+    - Baden v Société Générale pour Favoriser le Développement du Commerce et de l’Industrie en France SA [1993] 1 WLR 509
+      - ‘... knowledge can comprise any one of five different mental states ... : 
+        - (i) actual knowledge;
+        - (ii) wilfully shutting one's eyes to the obvious;
+        - (iii) wilfully and recklessly failing to make such inquiries
+      - as an honest and reasonable man would make; ... (575, Peter Gibson J)
+      - Actual’ or ‘subjective’ knowledge.
+      - ‘Constructive’ or ‘objective’ knowledge.
+        - ‘ ... (iv) knowledge of circumstances which would indicate the facts to an honest and reasonable man;
+        - (v) knowledge of circumstances which would put an honest and reasonable man on inquiry.’ (575-6, Peter Gibson J
+    - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+      - ‘ ... when the other party knows or ought to know of the existence of that condition or circumstance and of its effect on the innocent party.’ (462, Mason J)
+      - ‘It would ... have been plain to any reasonable person, who was prepared to see and to learn, that he was put on inquiry. 
+    - Kakavas v Crown Melbourne Limited (2013) 250 CLR 392
+      - [161] Equitable intervention to deprive a party of the benefit of its bargain on the basis that it was procured by unfair exploitation of the weakness of the other party requires proof of a predatory state of mind. 
+        - Heedlessness of, or indifference to, the best interests of the other party is not sufficient for this purpose. 
+        - The principle is not engaged by mere inadvertence, or even indifference, to the circumstances of the other party to an arm's length commercial transaction. 
+      - Inadvertence, or indifference, falls short of the victimisation or exploitation with which the principle is concerned.
+    - Thorne v Kennedy (2017) 263 CLR 85
+      - 4[38] ... Before there can be a finding of unconscientious taking of advantage, it is also generally necessary that the other party knew or ought to have known of the existence and effect of the special disadvantage. (103, Kiefel CJ, Bell, Gageler, Keane and Edelman JJ)
+    - Stubbings v Jams 2 Pty Ltd (2022) 96 ALJR 271
+      - [45] In Kakavas, this Court approved of the emphasis laid by Mason J in Amadio on the point that:
+        - “... when the other party knows or ought to know of the existence of that condition or circumstance ... ” (281, Kiefel CJ, Keane and Gleeson JJ)
+    - Nitopi v Nitopi [2022] NSWCA 162
+      - [9] In my view, the only way to reconcile Kakavas and Thorne in relation to questions of knowledge is that Kakavas must be understood as standing as authority only for the negative proposition that constructive notice is insufficient but not as standing for the additional proposition that constructive knowledge of a special disadvantage in the sense I have explained is also insufficient. (Bell CJ)
+      - [10] ... Constructive notice, in the sense of being on notice of facts that might lead on inquiry to discovery of the existence of a special disadvantage, is insufficient. (Bell CJ)
+- EXPLOITATION & REMEDY
+  - EXPLOITATION
+    - Thorne v Kennedy (2017) 263 CLR 85
+      - [38] ... The other party must also unconscientiously take advantage of that special disadvantage. 
+      - This has been variously described as requiring “victimisation”, “unconscientious conduct”, or “exploitation”. (106, Kiefel CJ, Bell, Gageler, Keane and Edelman JJ)
+    - Nitopi v Nitopi [2022] NSWCA 162
+      - [28] In Wu v Ling [2016] NSWCA 322 at [14], Leeming JA observed in considering the passage from Kakavas extracted at [23] above that “victimisation in this context is no narrow concept”. 
+      - His Honour was surely correct in so doing. ... were it otherwise, it becomes almost impossible to accommodate statements of high authority to the effect that the passive acceptance or retention of a benefit may, in certain circumstances, be unconscionable and result in a transaction being set aside or a gift successfully impeached. (Bell CJ)
+  - EVIDENCE OF EXPLOITATION
+    - Blomley v Ryan (1956) 99 CLR 362, 405
+      - ‘It does not appear to be essential in all cases that the party at a disadvantage should suffer loss or detriment by the bargain. ... 
+      - But inadequacy of consideration, while never of itself a ground for resisting enforcement, will often be a specially important element in cases of this type. It may be important in either or both of two ways firstly as supporting the inference that a position of disadvantage existed, and secondly as tending to show that an unfair use was made of the occasion.’ (406, Fullagar J)
+    - Kakavas v Crown Melbourne Limited (2013) 250 CLR 392
+      - Kakavas = ‘high roller’ gambler.
+      - Crown encouraged Kakavas to gamble by providing him benefits such as free accommodation etc.
+      - Kakavas lost $20m in 1 year.
+      - Kakavas wanted to void the transactions by arguing that he was addicted to gambling and Crown exploited that disadvantage.
+      - High Court held that he was not at a special disadvantage and Crown had no knowledge.
+      - Gambling transactions are a rare, if not unique, species of economic activity in a civilised community, in that each party sets out openly to inflict harm on the counterparty.
+      - The plaintiff must be able to point to conduct on the part of the defendant, beyond the ordinary conduct of the business, which makes it just to require the defendant to restore the plaintiff to his or her previous position.
+    - Johnson v Smith [2010] NSWCA 306
+      - Mother with dementia gifted $540,000 to son.
+      - Gift was notionally for the purpose of giving the son funds to spend on his mother’s wellbeing if she needed it.
+      - However, he denied any legal obligation to spend it only on his mother.
+      - Was it unconscionable for him to retain the gift unconditionally?
+      - it is the attempt to retain the benefit obtained from the special disadvantage of his mother that is the issue.
+      - This may occur because of the unconscientious use of power arising or existing in the circumstances or (as here) the unconscientious attempt to retain the benefit obtained from the person with the special disadvantage.”
+  - FAIR, JUST AND REASONABLE
+    - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+      - Unconscionable def
+      - Where such [unconscionable conduct is] shown to have existed, an onus is cast upon the stronger party to show that the transaction was fair, just and reasonable ... (473-4, Deane J)
+  - Independent Advice
+    - Proof of independent advice may demonstrate that the plaintiff was not at a disadvantage because someone else was looking after their interests.
+    - However, the effectiveness of the advice will depend upon the facts.
+    - Stubbings v Jams 2 Pty Ltd (2022) 96 ALJR 271
+      - Lawyer (agent for lenders) contrived a system of communication that kept borrowers at a distance so that they would not become aware of any special disadvantages (ie, wilful blindness)
+      - Borrowers obliged to obtain advice and provide signed:
+        - Certificate of Financial Advice; and
+        - Certificate of Legal Advice.
+      - that the certificates were mere “window dressing”.
+        - ... The certificates might also be seen to have been a precautionary artifice designed to prevent an inference that the respondents were wilfully blind to the obvious danger to the appellant.
+      - [49] ... Indeed, one might regard the deployment of such artifices in a context where the lender or its agent deliberately distances itself from evidence that must confirm the dangerous nature of the transaction for the borrower or its guarantor as evidence pointing to an exploitative state of mind on the part of the lender. (282, Kiefel CJ, Keane and Gleeson JJ)
+  - REMEDY for undue influence remedy
+    - Unconscionable conduct will allow the plaintiff to rescind the contract.
+    - There may be other remedies outside of contract law.
+- RELATIONSHIP WITH UNDUE INFLUENCE
+  - RELATIONSHIP WITH UNDUE INFLUENCE
+    - Mason J
+      - ‘...relief on the ground of "unconscionable conduct" is usually taken to refer to the class of case in which a party makes unconscientious use of his superior position or bargaining power to the detriment of a party who suffers from some special disability or is placed in some special situation of disadvantage.’ (461)
+        - ‘Although unconscionable conduct in this narrow sense bears some resemblance to the doctrine of undue influence, there is a difference between the two. 
+        - In the latter the will of the innocent party is not independent and voluntary because it is overborne. 
+      - In the former the will of the innocent party, even if independent and voluntary, is the result of the disadvantageous position in which he is placed and of the other party unconscientiously taking advantage of that position.’
+    - Example
+      -  A customer enters your shop and voluntarily offers to buy a product worth $5 for $100.
+      -  They clearly look incapable of looking after their own interests.
+      -  You passively accept and take their money.
+      -  You have engaged in Amadio unconscionable conduct even if you did not influence the customer’s decision.
+    - Mason J
+      - ‘There is no reason for thinking that the two remedies are mutually exclusive in the sense that only one of them is available in a particular situation to the exclusion of the other.
+    - Thorne v Kennedy (2017) 263 CLR 85
+      - [64] ... . The findings by the primary judge that Ms Thorne was subject to undue influence – powerless, with what she saw as no choice but to enter the agreements – point inevitably to the conclusion that she was subject to a special disadvantage in her entry into the agreements
+  - UNDUE INFLUENCE / UNCONSCIONABLE CONDUCT
+    - Undue Influence def only
+      - Plaintiff might be capable of looking after own interests, but is subject to:
+        - pressure
+        - influence
+        - manipulation
+        - misinformation
+      - such that the plaintiff cannot be said to have exercised free will.
+    - Undue influence + unconscionable conduct
+      - Facts suggest that plaintiff:
+        - was at a special disadvantage vis-a-vis the defendant; AND
+        - influence was applied by the defendant such that the plaintiff did not exercise his or her own free will.
+    - Unconscionable conduct def only
+      - Plaintiff not unduly influenced or pressured into contract, but is unable to look after own interests.
+      - Plaintiff might happily agree to the contract and can be said to exercised own will to agree to the contract
+      - Defendant is opportunistic: 
+        - while not actively influencing plaintiff's decision, defendant takes advantage of the plaintiff's bad choice when it is clear the plaintiff could not look after own interests.
+# Week 11: Third party Impropriety, Elections, Actions for debt
+
+- Third party Impropriety
+  - If A contracts with B because A was unduly influenced by C - and B knew that A was unduly influenced by C - then equity will allow A to rescind the contract with B. 
+    - Equity allows this because, even though B did not engage in undue influence, it is still unconscionable to knowingly profit from someone who was not able to properly consent to the contract.
+  - THIRD PARTY IMPROPRIETY
+    - Bainbrigge v Browne (1881) 18 Ch D 188
+      - ‘The inference of undue influence operates not only "against the person who is able to exercise the influence", but "against ... every person who claimed under him with notice of the equity thereby created, or with notice of the circumstances from which the court infers the equity ...’ (197, Fry LJ
+  - THIRD PARTY ACTUAL UNDUE INFLUENCE
+    - Khan v Khan (2004) 62 NSWLR 229
+      - Facts
+        - Mrs Sadiq and her son orally agreed to sell a newly-built house to Mr and Mrs Khan.
+        - The Khans moved in before settlement but relations with Mrs Sadiq soured.
+        - Mrs Sadiq repudiated the agreement.
+        - Meeting of families called, presided over by local mufti. (Islamic jurist who can advise on religious law.)
+      - The meeting lasted for hours.
+        - Her family and mufti pressured Mrs Sadiq to complete the sale.
+        - The purchasers were present at all times.
+        - Mrs Sadiq was a religious person. The mufti quoted several religious authorities and said that she would be rewarded in the afterlife.
+      - Held
+        - [21] In the ... “third party” case ... evidence must ... show that
+          - 1. [the third party] had influence over [a party to the contract –‘influenced party’];
+          - 2. that [the third party] exercised that influence so that what [the influenced party] did was the result of the influence rather than [the influenced party]’s will; and that
+          - 3. [the other party to the contract] unconscientiously derived a benefit from the conduct of [the influenced party] knowing that that conduct was a result of the influence of [the third party] rather than [the influenced party]’s will. (Barrett J)
+        - The case is one in which Mrs Sadiq, under the religious influence of Mufti Naiem, contracted to dispose of property to [the purchasers] who had notice of that influence and the effect of it upon Mrs Sadiq’s will. 
+          - The bargain under which they received a benefit from Mrs Sadiq is therefore one which equity regards as unconscionable and will not allow to be enforced against Mrs Sadiq.
+  - THIRD PARTY PRESUMED UNDUE INFLUENCE
+    - Bank of NSW v Rogers (1941) 65 CLR 42
+      - Uncle had cared for Miss Rogers for 23 years after her parents were killed.
+      - Uncle faced bankruptcy and owed money to the Bank.
+      - Uncle persuaded Miss Rogers to provide her only substantial asset as security. 
+      - Miss Rogers did not know Uncle faced bankruptcy and was unlikely to recover.
+      - She signed the documents at the Bank but it did not explain the transaction to her.
+    - Facts justify the inference ... that the bank knew that some special relationship existed 
+      - it was for the bank to establish that the security given to it by the respondent was free from any undue influence and was the voluntary and well-understood act of her mind
+    - At no time when the respondent signed any document charging her shares in favour of the bank was she severed from Gardiner's influence. ... 
+    - The question the bank's conscience is fettered against retaining the securities by notice of the relation between Gardiner and the respondent or of the circumstances in which Gardiner procured them.’
+- Wives' equity
+  - In Yerkey v Jones (1939) 63 CLR 649, Dixon J held that equity protects a wife who guarantees the debts of her husband, when the person to whom she provides a guarantee takes that guarantee knowing that she is the wife of the debtor husband.
+    - In Garcia v National Australian Bank (1998) 194 CLR 395, the High Court almost unanimously endorsed this principle as good law.
+  - Garcia v National Australia Bank (1998) 194 CLR 395
+    - Mr and Mrs Garcia were directors of Citizens Gold, a company, in practice, run by Mr Garcia.
+    - 1979: The Garcias grant a mortgage over the family home security ‘all moneys’ owing.
+    - 1987: Mrs Garcia executed personal guarantee in favour of Citizens Gold.
+      - Told by Mr Garcia that there was no risk.
+      - Did not understand that it was covered by the mortgage.
+      - Bank did not explain it to her.
+    - 1988: The Garcias divorce. Mrs Garcia seeks declaration that guarantee is unenforceable.
+  - 1st Class: ACTUAL UNDUE INFLUENCE
+    - Garcia v National Australia Bank (1998) 194 CLR 395
+      - [25] Thus, Dixon J was dealing with two kinds of case. In the former, the case of actual undue influence
+  - 2ND CLASS: WIFE DOES NOT UNDERSTAND
+    - [23] In his reasons for decision in Yerkey v Jones, Dixon J dealt with at least two kinds of circumstances: 
+      - the first in which there is actual undue influence by a husband over a wife and 
+      - the second ... in which there is no undue influence but there is a failure to explain suretyship transaction which the husband seeks to have the wife enter for the immediate economic benefit not of the wife but of the husband, or the circumstances in which her liability may arise. 
+  - Yerkey v Jones begins with the recognition that the surety is a volunteer
+  - VOLUNTEER
+    - Notice of husband/wife relationship sufficient to ground the claim: 
+      - no need for notice of undue influence or other impropriety.
+    - The wife must be a ‘volunteer’
+  - NOTICE OF MARRIAGE RELATIONSHIP
+    - Garcia v National Australia Bank (1998) 194 CLR 395
+      - [40] We consider that the only question of notice that arises is whether the creditor knew at the time of the taking of the guarantee that the surety was then married to the borrower. 
+      - Other questions of notice do not intrude. 
+      - And what makes it unconscionable to enforce it in the second kind of case is the combination of circumstances that
+        - a) in fact the surety did not understand the purport and effect of the transaction;
+        - b) the transaction was voluntary (in the sense that the surety obtained no gain from the contract the performance of which was guaranteed);
+        - c) the lender is to be taken to have understood that, as a wife, the surety may repose trust and confidence in her husband in matters of business and therefore to have understood that the husband may not fully and accurately explain the purport and effect of the transaction to his wife; and yet
+        - d) the lender did not itself take steps to explain the transaction to the wife or find out that a stranger had explained it to her. 
+  - Just wives?
+    - Presently, only wives may seek the protection of the principle.
+- Remedies
+  - Defective performance def
+    - If a binding contract is not performed properly by a defaulting party, then the law can provide the following remedies to the 'innocent' party.
+      - First, if the contract has been seriously breached or repudiated, then the innocent party use the 'self-help' remedy of terminating the contract. We looked at these concepts of termination for breach and repudiation in Module 7. 
+      - Second, the law can order the defaulting party to pay damages in place of performance, or it can order the defaulting party to specifically perform it. 
+  - Impaired consent def
+    - If a party is bound to a contract that they did not properly consent to, then the law provides a remedy in the form of rescission.
+- TERMINATION / RESCISSION
+  - TERMINOLOGY
+    - Terminate def/ Termination def
+      - Used to describe the legal effect of:
+      -  A party’s decision to end a contract because of breach or repudiation.
+      -  A frustrating event.
+    - Rescind def / rescission def
+      - Used to describe the legal effect of a party’s decision to void a contract because of a vitiating factor.
+    - Highfield Property Investments Pty Ltd v Commercial & Residential Developments (SA) Pty Ltd [2012] SASC 165
+      - The word “rescission” is ambiguous. It is sometimes used to encompass not only “rescission” ab initio for misrepresentation but also “rescission” prospectively for breach and sometimes just to refer to “rescission” ab initio for misrepresentation. 
+        - For clarity, I use that term exclusively to denote a rescission which has the effect of avoiding the contract (and actions taken under it) from the outset (eg for misrepresentation) and I use the term “termination” to denote a termination of future performance only (or dissolution) of the contract (eg for breach).
+  - TERMINATION
+    - Parties are released from further performance – contract not voided.
+    -  Rights unconditionally acquired before termination are enforceable.
+    -  Secondary terms intended to survive termination are enforceable. 
+    - McDonald v Dennys Lascelles Ltd (1933) 48 CLR 457
+      - When a party to a simple contract, upon breach by the other contracting party of a condition of the contract, elects to treat the contract as no longer binding upon him, the contract is not rescinded as from the beginning. 
+        - Both parties are discharged from the further performance of the contract, but rights are not divested or discharged which have already been unconditionally acquired. 
+        - Rights and obligations that arise from the partial execution of the contract and causes of action which have accrued from its breach alike continue unaffected.’
+    - Example
+      -  1,000 widgets for $4,000.
+      -  4 instalments: 250 widgets delivered at the beginning of each month.
+      -  $1,000 payable on delivery of an instalment. 
+    - Example
+      -  Seller discharged from delivering third and fourth instalments –
+      - Buyer released from paying for them.
+      -  Buyer keeps first two instalments of widgets (now the owner) –
+        - Seller keeps payments made for first two instalments.
+    - Example
+      -  If buyer had not paid for the second instalment, then seller could sue for it.
+      -  Recall: Right to payment arises in debt for any fully performed divisible obligation prior to termination.
+    - Example
+      -  If seller had breached the contract prior to termination, the buyer can still sue for damages.
+    - Example
+      -  If seller had breached the contract prior to termination, the buyer can still sue for damages.
+      -  Because contract is not voided, seller may be able to rely on:
+        -  Exclusion clause.
+        -  Dispute resolution clause.
+  - SUMMARY
+    -  Parties discharged from further performance.
+    -  Contract remains:
+      -  Rights unconditionally accrued up to termination are enforceable.
+      -  Secondary terms are enforceable.
+    -  Legal effect is the same for:
+      -  Termination for breach.
+      -  Termination for repudiation.
+      -  Frustration.
+  - RESCISSION
+    - Contract is voided from the beginning.
+    -  Parties must be restored to their pre-contractual positions.
+    -  Like a “refund”: property and money returned.
+    - McDonald v Dennys Lascelles Ltd (1933) 48 CLR 457
+      - ‘When a contract is rescinded because of matters which affect its formation, as in the case of fraud, the parties are to be rehabilitated and restored, so far as may be, to the position they occupied before the contract was made..’ (466-467, Dixon J)
+    - Example
+      -  Seller discharged from delivering third and fourth instalments – Buyer released from paying for them.
+      -  Buyer keeps first two instalments of widgets (now the owner) – Seller keeps payments made for first two instalments.
+    - Example
+      -  Parties must be restored to pre-contractual positions:
+        -  Buyer returns widgets delivered in first two instalments.
+        -  Seller refunds payments made for first two instalments
+    - Example
+      -  Rescinding the contract also voids any rights to sue for breaches before the rescission.
+  - SUMMARY
+    - Rescission
+      -  Voids the contract.
+      -  Parties restored to pre-contractual position.
+      -  Applies to: all vitiating factors.
+    - Termination
+      -  Releases parties from further performance – does not void contract.
+      -  Applies to: breach, repudiation, frustration.
+- Election
+  - Election def
+    - If a party has the right to end a contract - whether that is a right to terminate because of the other party's default or a right to rescind because their consent was vitiated - then that party must choose whether to end the contract. 
+    - The process of choosing is called 'election'. 
+  - PART 1 HOW TO ELECT
+    - Election is a general legal principle that applies when a person must choose between legally inconsistent outcomes.
+    - When a contract is voidable due to vitiating conduct, the plaintiff must choose (elect) between two legally inconsistent outcomes:
+      -  Rescind the contract; or
+      -  Affirm (and continue to be bound by) the contract.
+    - Once the choice is unequivocally made, the plaintiff cannot change their mind.
+    - Eg, if a plaintiff has elected to affirm the contract, then rescission or termination is no longer possible.
+  - A binding election requires:
+    - 1. Full knowledge of the ‘material facts’ (ie, at least knowledge of the vitiating conduct; maybe also knowledge of the right to rescind.)
+    - Unequivocal conduct indicating affirmation or rescission/termination
+    - Conduct is judged objectively: 
+      - there is no need for the plaintiff to subjectively intend to elect.
+  - Sargent v ASL Developments Ltd (1974) 131 CLR 634
+    - Term in contract for the sale of land provided a right to terminate if certain planning controls were imposed over the land.
+    - The planning controls were imposed.
+    - Despite this, the sellers continued to perform the contract.
+    - 32 months later, the sellers purported to terminate the contract, relying on the term.
+      - ‘The words or conduct ordinarily required to constitute an election must be unequivocal in the sense that it is consistent only with the exercise of one of the two sets of rights and inconsistent with the exercise of the other ... For an election there need be no actual, subjective intention to elect ... an election is the effect which the law attributes to conduct justifiable only if such an election had been made 
+  - Tropical Traders Ltd v Goonan (1964) 111 CLR 41
+    - Contract for the sale of land provided for payment of the price in instalments over 5 years.
+    - Time was of the essence for payment of the balance on 6 January 1963.
+    - 6 Jan: Purchaser failed to pay and asked for 3 more months.
+    - Seller: ‘The company will not take action under the contract until Monday, 14 January
+  - Tropical Traders Ltd v Goonan (1964) 111 CLR 41
+    - ‘The company will not take action under the contract until Monday, 14 January but this must be regarded as an act of grace on the part of the Company and without prejudice to and in no way varying the Company’s right to strict enforcement of the contract.’
+  - Immer (No 145) Pty Ltd v Uniting Church in Australia Property Trust (NSW) (1993) 182 CLR 26
+    - Sale of air rights subject to Council approval by 1 April 1989.
+    - Approval not granted by 1 April: both parties in a position to terminate.
+    - 26 June: Immer sends settlement documents to the
+    - Trust under mistaken belief that the Council had approve the transfer.
+    - 26 August: Immer terminates the contract.
+      - Were its actions consistent only with an intention to keep the agreement on foot and inconsistent with the exercise of the right to rescind
+    - ‘If a party to a contract, faced with the choice of terminating the contract or keeping it on foot, terminates the contract that party will ordinarily have acted in a way that leaves no doubt as to the choice made.’ (41, Deane, Toohey, Gaudron and McHugh JJ)
+      - ‘... at the heart of election is the idea of confrontation which in turn produces the necessity of making a choice. 
+      - But in a case such as the present one, the choice is not merely one of affirming the agreement; it involves as well the abandonment of the right to rescind.
+    - ‘ ... where the right to rescind is a continuing one, it is not so readily concluded that the party entitled to rescind has abandoned that right completely as opposed to taking no action to exercise the right at the time in question. (42, Deane, Toohey, Gaudron and McHugh JJ)
+  - Car & Universal Finance Co Ltd v Caldwell [1965] 1 QB 525
+    - Rogue induced Caldwell to sell his car with a fraudulent misrepresentation.
+    - Rogue paid with a bad cheque. Took possession of the car and disappeared.
+    - On discovering the fraud, Caldwell enlisted the police and a car association to help him find his car.
+    - Rogue had sold the car to Universal Finance: did Caldwell rescind before this sale?
+- Restrictions on the right to end a contract
+  - Even if a party wants to terminate or rescind a contract, they may find that their right to do so is lost. 
+  - Affirmation
+    - The right to elect presents the relevant party with two inconsistent choices: 
+      - either end the contract (ie, terminate or rescind it) or affirm it and continue performing. 
+      - If the the party elects to affirm the contract, then the right to end it is lost unless a 'fresh' right to end it later accrues.
+  - RESTRICTIONS: AFFIRMATION
+    - The plaintiff must elect to end or affirm a contract when:
+      -  The contract is breach or repudiated.
+      -  Their consent was vitiated.
+      -  A contingency is fulfilled providing a right to terminate.
+      - But sometimes the plaintiff’s choice is restricted.
+    - If seller affirms:
+      -  Right to terminate is surrendered.
+      -  Seller can sue for damages.
+      -  Parties obliged to continue performing
+    - A second breach will create a fresh right to terminate.
+    - Foran v Wight (1989) 168 CLR 385
+      - ‘Although he may do so, the other party does not have to accept the repudiation. 
+      - He may continue to treat the contract as on foot and hold the party guilty of repudiation to the performance of his obligations. 
+      - If those obligations remain unperformed when the time for performance arrives, the anticipatory breach will be converted into an actual breach. 
+      - If the other party keeps the contract alive, he does so not only for his own benefit but also for the benefit of the party guilty of repudiation.
+  - Bowes v Chaleyer (1923) 32 CLR 159
+    - Purchaser agreed to buy 1,800 yards of French tie silks.
+    - Half to be delivered ‘as soon as possible’ – Balance to be delivered in a single delivery within 2 months.
+    - Purchaser repudiated the agreement – Seller affirmed.
+    - Seller delivered the silks in three deliveries.
+    - Purchaser terminated.
+  - Coastal Estates Pty Ltd v Melevende [1965] VR 433
+    - ‘In my opinion, affirmation as a defence to a claim to rescind a contract rests on the principle that having elected to adhere to a contract after discovery of the falsity of the representations inducing it, the right to rescind is lost. 
+    - In other words affirmation is the determination of an election by affirming the contract. 
+    - Affirmation may take the form of an express communication from the representee that he has elected to treat the contract as binding, or conduct of his in relation to the contract or its subject matter from which the proper inference is that he has so elected.’ (452, Adam J)
+  - Termination: RESTRICTIONS: Ready, Willing and Able
+    - Focusing now on the right to terminate for breach or repudiation, the party who has such a right will not be able to terminate the contract if they are not ready, willing and able to perform it.
+    - A plaintiff who wishes to elect for breach or repudiation must be ‘ready, willing and able’ to perform their own obligations at the time of election.
+      - Psaltis v Schultz (1948) 76 CLR 547
+        - ‘To be ready and willing to perform a contract a party must not only be disposed to do the act promised but also have the capacity to do it. 
+        - But the tenor of the promise will show when and how the act is to be performed and it is to that time and mode of performance that the capacity and disposition to fulfil the promise are to be directed.’ (560, Dixon J)
+    - The extent to which the plaintiff must be ready, willing and able to perform depends upon the circumstances.
+      -  Was the plaintiff was due to perform any essential obligations before or at the time of the default?
+      -  Had the plaintiff breached the contract?
+      -  Relationship between the parties.
+    - DTR Nominees Pty Ltd v Mona Homes Pty Ltd (1978) 138 CLR 423
+      - DTR’s incorrectly subdivided land in 2 stages.
+      - Mona purported to terminate for DTR’s incorrect interpretation of the contract, asserting repudiation.
+      - DTR had not repudiated the contract – Mona’s termination was unlawful.
+      - DTR purported to terminate for Mona’s unlawful termination.
+    - Rawson v Hobbes (1961) 107 CLR 466
+      - ‘One must be very careful to see that nothing but a substantial incapacity or definitive resolve or decision against doing in the future what the contract requires is counted as an absence of readiness and willingness.’ (481, Dixon J)
+    - Psaltis v Schultz (1948) 76 CLR 547
+      - It is enough that he is not presently incapacitated from future performance and is not indisposed to do, when the time comes, what the contract requires.
+    - Foran v Wight (1989) 168 CLR 385
+      - Sellers repudiated (anticipatory breach) 2 days before settlement.
+      - Purchasers waited for settlement – neither parties attempted to settle.
+      - Purchasers terminated for actual breach 2 days after settlement.
+      - Sellers argued that plaintiffs were not ready, willing and able at the time the purchasers terminated.
+    - Sharjade Pty Ltd v Commonwealth [2009] NSWCA 373
+      - [68] As a matter of principle, it seems to me that the view of Deane J is preferable. 
+      - If the only question is whether a purported termination is effective to put an end to the contract so as to discharge both parties from future performance, then anticipatory breach by one will justify termination by the other whether or not the latter is ready and willing to perform. 
+      - However, if the latter wants to obtain any relief on the basis of the termination, beyond mere discharge of future obligations, then as part of its cause of action it must prove readiness, willingness and ability. (Hodgson JA, Young JA agreeing at [145])
+      - A further and more difficult question is whether ... a party who is also in breach of the contract ... can terminate despite its own breach. 
+        - The answer is that generally it can, at least unless the obligations breached are interdependent or the breach by the party wishing to terminate has caused the breach that this party wishes to rely on.
+    - Foran v Wight (1989) 168 CLR 385
+      - ‘They were not required to show that upon the day stipulated for settlement they were ready and willing to tender the purchase price. 
+      - They were absolved from the obligation of placing themselves in a position to be able to tender the purchase price upon that day by reason of the representation of the vendors two days earlier.’ (454, Dawson J)
+        - ‘All that the purchasers were required to show was that at the time of the repudiation, that is, at the time they were absolved from future performance, there was not a "substantial incapacity" on their part or a "definitive resolve or decision" against the performance of their obligations.’ (454, Dawson J)
+- Rescission: Restitutio in integrum
+  - RESCISSION: INTERVENING THIRD PARTY
+    - Focusing now on the right to rescind because of a vitiating factor, rescission will not be allowed if the parties cannot be restored to their pre-contractual positions.
+    - Rescission:
+      -  Voids the contract.
+      -  Obliges the parties to restore each other to their pre- contractual positions.
+      - If the parties cannot be restored, then rescission will be denied.
+    - Example
+      - Seller induces purchaser to buy a car with a fraudulent misrepresentation.
+      - Purchaser paints the car a different colour and negligently damages it.
+      - Purchaser discovers fraud.
+    - Rescission may be denied if purchaser cannot return the care in the same condition as it was transferred to them.
+    - Contracts tainted by a vitiating factor are voidable, not void.
+      - Voidable contracts allow title in property to pass, unless and until the contract is rescinded.
+      - If the contract is not rescinded before that title is passed to an innocent third party, then the right to rescind is lost.
+    - On rescission, ownership of property immediately reverts to original owner (plaintiff).
+      - Plaintiff can get property from whomever has possession of it
+- Actions for debt def
+  - When a party (the 'contractor') earns the right to payment for performance of an obligation.
+    - When a contractor earns a right to payment under a contract, the contractor can sue for payment in an action called 'debt'. 
+    - That right to payment exists independently of the contract, hence, if the contract is terminated after a right to payment has accrued, then the contractor can still sue on the debt owing.
+  - ACTIONS FOR DEBT
+    - Contracts typically consist of the provision of goods/services for money.
+    -  A right to payment depends upon proper performance.
+    -  Construe the contract to determine:
+      -  Nature of obligations (entire? Divisible?)
+      -  Level of performance required (exact? Substantial?)
+  - DEBT
+    - Young v Queensland Trustees Ltd (1956) 99 CLR 560
+      - ‘A debt recoverable under an indebitatus count was not and is not now conceived of simply as a cause of action for breach of duty or obligation. 
+      - In other words it is a mistake to regard the liability to pay a debt of a kind formerly recoverable in debt or indebitatus as no more than the result of a breach of contract, a breach which the creditor must affirmatively allege and prove.’ (569, The Court)
+    - GEC Marconi Systems Pty Limited v BHP Information Technology Pty Limited (2003) 128 FCR 1
+      - ‘[o]nce the right to payment has accrued it is enforceable as a debt and that right is not lost notwithstanding that the contract is subsequently terminated because of the default of the party possessing the right to payment’.’ (165, Finn J)
+    - Debt does not accrue until corresponding obligation(s) is/are properly performed.
+    -  Construe contract to determine whether:
+      -  Contract is entire/divisible
+      -  Corresponding obligation(s) must be performed exactly/substantially.
+  - Entire/divisible contracts
+    - When a contractor earns a right to payment depends upon whether the contract is 'entire' or 'divisible'. 
+    - Entire contract def
+      -  All obligations must be performed to earn right to payment.
+    - Divisible contract def
+      -  Contract consists of obligations with payment clearly apportioned to each obligation.
+  - ENTIRE CONTRACTS
+    - Cutter v Powell (1795) 101 ER 795
+      - ‘Ten days after the ship ‘Governor Parry,’ myself master, arrives at Liverpool, I promise to pay to Mr. T. Cutter the sum of thirty guineas, provided he proceeds, continues and does his duty as second mate in the said ship from hence to the port of Liverpool. Kingston, July 31st, 1793.’
+      - Cutter died part way through the voyage.
+      - Estate sued for proportionate share of wages for the work actually done.
+    - Indicia of entire contracts:
+      -  Contract provides for ‘lump sum’ payment on completion of work.
+      -  Not possible to apportion the price to clear and severable obligations.
+      -  Customer receives no benefit unless contract is fully performed.
+    - Pordage v Cole (1669) 85 ER 449
+      - ‘Where the consideration for the payment of money is entire and indivisible, as where the benefit expected by the defendant under the agreement is to result from the enjoyment of every part of the consideration jointly, so that the money payable is neither apportioned by the contract, nor capable of being apportioned by a jury, no action is maintainable, if any part of the consideration has failed; for, being entire, by failing partially, it fails altogether.’ (453)
+  - DIVISIBLE CONTRACTS
+    - Entire contract def
+      -  All obligations must be performed to earn right to payment.
+    - Divisible contract def
+      -  Contract consists of obligations with payment clearly apportioned to each obligation.
+    - Example
+      -  4 divisible obligations to delivery 250 widgets with $1,000 apportioned against each divisible obligation.
+      -  Can be seen as a series of ‘mini contracts’.
+    - Steele v Tardiani (1946) 72 CLR 386
+      - It is true that they were not employed to do a single piece of work under one entire contract so that, until the whole had been substantially performed, they would obtain no right to any payment. 
+      - In that sense, it is not like the contract to build two houses for a single lump sum made by the unsuccessful plaintiff in Sumpter v Hedges [1898] 1 QB 673. 
+    - Indicia of divisible contracts:
+      -  Contract provides for staged payments.
+      -  Possible to apportion the price to clear and severable obligations.
+      -  Customer receives benefit as each divisible obligation is performed.
+    - GEC Marconi Systems Pty Limited v BHP Information Technology Pty Limited (2003) 128 FCR 1 
+      - [704] (iii) The question whether a contract or an obligation is entire or is, in contrast, divisible, is a question of construction: ... Hoenig v Isaacs ... . While building contracts ... have commonly been regarded, prima facie, as entire or “lump sum” contracts ... such contracts commonly provide to the contrary by, for example, apportioning the consideration:
+  - MATTER OF CONSTRUCTION
+    - The contract may provide for full payment after 4th delivery but the contract may still be divisible.
+    - 
+  - LEVEL OF PERFORMANCE
+    - 
+    - Construe the contract - Entire/divisible - Exact/Substantial
+- LEVEL OF PERFORMANCE
+  - EXACT PERFORMANCE
+    - Arcos Ltd v EA Ronaasen & Son [1933] AC 470
+      - If the written contract specifies conditions of weight, measurement and the like, those conditions must be complied with. 
+      - A ton does not mean about a ton, or a yard about a yard. ... If the seller wants a margin he must and in my experience does stipulate for it. ... 
+      - No doubt there may be microscopic deviations which business men and therefore lawyers will ignore. ... 
+    - De minimus non curat lex: The law does not concern itself with trifles
+  - DE MINIMUS NON CURAT LEX
+    - Shipton Anderson and Co v Weil Brothers and Co [1912] 1 KB 574
+      - Purchaser ordered 4,950 imperial tons of wheat (5,029 metric tons).
+      - Seller delivered 5,029.025 metric tons of wheat.
+      - ‘Now the excess quantity is trifling, so trifling that it is quite impossible to suppose that any business man would regard it as in any way affecting the substance of the contract or as making the contract any the more or any the less an advantageous contract to enter into.
+  - SUBSTANTIAL PERFORMANCE def
+    - Requirement for exact performance can lead to harsh outcomes.
+    - Doctrine of substantial performance:
+      -  Allows a contract to sue for payment in respect of ‘substantial’ performance;
+      -  Customer may deduct an amount to fix minor defects and omissions.
+    - Hoenig v Isaacs [1952] 2 All ER 176
+      - Hoenig hire Isaacs to decorate his flat for £750.
+      - Hoenig was obliged to pay ‘as the work proceeds, and balance on completion’.
+      - Isaac sued for the balance on completion of work.
+      - Hoenig refused to pay because a bookshelf and wardrobe door were not properly installed.
+      - ‘This case raises the familiar question: Was entire performance a condition precedent to payment? 
+        - That depends on the true construction of the contract.’ (180, Denning LJ)
+      - ‘It is, of course, always open to the parties by express words to make entire performance a condition precedent.’ (181, Denning LJ)
+      - ‘I think this contract should be regarded as an ordinary lump sum contract. It was substantially performed. 
+        - The contractor is entitled, therefore, to the contract price, less a deduction for the defects.’ (181, Denning LJ)
+    - SUBSTANTIAL PERFORMANCE
+      - Partial perfomance 
+        - Customer is not required to pay.
+      - Substantlal performance
+        - Potentially acceptable depending upon the construction of the contract. 
+        - If acceptable, then the customer must pay but may deduct a sum to remedy minor defects or omissions.
+      - Exact performance / DE MINIMUS NON CURAT LEX
+        - Customer is obliged to pay.
+  - SUBSTANTIAL PERFORMANCE: DIVISIBLE CONTRACTS
+    - Steele v Tardiani (1946) 72 CLR 386
+      - ‘But it can hardly be denied that the consideration which the employees were to give for the remuneration is firewood cut according to contract and, so to speak, only those billets or sticks can be counted which qualify by substantial or reasonable compliance with the specifications. 
+      - In this sense the terms of remuneration are “entire”, or, in other words, each divisible application of the contract is entire and is only satisfied by performance, not partial, but substantially complete.’ (401, Dixon J)
+  - ASSESSING SUBSTANTIAL PERFORMANCE
+    - Cordon v Lesdor [2010] NSWSC 1073
+      - [169] ... Whatever is the test for “substantial completion”, it must at least encompass that the works said to have been completed substantially are reasonably fit for their contemplated occupation and use. (McDougall J)
+    - ACN 002 804 702 (Formerly Brooks Building) v McDonald [2009] NSWSC 610
+      - [110] ... It is relevant to ask what work would need to be done to bring about complete performance; what would be the cost of that work; and what would be the value of that work as a proportion of the contract price? 
+      - But that is not the only enquiry. It is also relevant to ask how significant is the breach and did the owner receive substantially the whole of the benefit which the contract was intended to provide? (White J)
+    - Bolton v Mahadeva [1972] 1 WLR 1009
+      - Bolton agreed to install a central heating system in Mahadeva’s home for £560.
+      - It didn’t heat the home well and emitted unpleasant fumes.
+      - It would have cost £174 to fix: 30% of the contract price.
+        - ‘If a central heating system when installed is such that it does not heat the house adequately and is such, further, that fumes are given out, so as to make living rooms uncomfortable, and if the putting right of those defects is not something which can be done by some slight amendment of the system, then I think that the contract is not substantially performed.’ (1014, Cairns LJ)
+        - ‘It is not merely that so very much of the work was shoddy, but it is the general ineffectiveness of it for its primary purpose that leads me to that conclusion.’ (1015, Sachs LJ)
+
+    - SUMMARY
+      - Entire Contract vs Divisible Contract
+    - 
+- Payments independent of performance
+  - Not all rights to payment depend upon the contractor first performing. 
+    - The parties are free to make payments independent of performance, and such payments are claimable as debts owing at the time(s) provided for in the contract. 
+    - A classic example of this is the deposit.
+  - PAYMENTS INDEPENDENT OF PERFORMANCE
+    -  The right to payment does not have to depend on performance.
+    -  Parties can provide that payments are due at any time.
+    -  If so, the right to sue in debt arises on the arrival of the due date.
+  - DEPOSITS
+    - Howe v Smith (1884) 27 Ch D 89
+      - ‘.. a deposit ... is, according to the ordinary interpretation of business men, a security for the completion of the purchase.’ (98, Bowen LJ)
+    - Bot v Ristevski [1981] VR 120
+      - ‘I prefer to approach the problem by asking whether an unconditional right to recover and retain the deposit arose before the contract was discharged. 
+      - If such a right did arise, it will survive the determination of the contract, and if the money has been paid before discharge the purchaser will not get it back, while if the money has not been paid before discharge the purchaser will be compelled to pay it.’ (124-5, Brooking J)
+  - INSTALMENTS
+    - McDonald v Dennys Lascelles Ltd (1933) 48 CLR 457
+      - Contract for the purchase of land by instalments.
+      - Title transferred on payment of all instalments.
+        - ‘In Reynolds v. Fury, the Full Court of Victoria, after a very full examination of the authorities, decided that instalments of purchase money, which, by the conditions of a contract of sale of land are payable at fixed times before conveyance, become immediately recoverable as debts or liquidated demands, notwithstanding that the sale has not yet been completed by conveyance.’ (476, Dixon J)
+      - ‘When a contract stipulates for payment of part of the purchase money in advance, the purchaser relying only on the vendor’s promise to give him a conveyance, the vendor is entitled to enforce payment before the time has arrived for conveying the land; yet his title to retain the money has been considered not to be absolute but conditional upon the subsequent completion of the contract.’ (477, Dixon J)
+# Week 12: Introduction to remedies, Alternate causes of action (Not assessable)
+
+-  Introduction to damages and specific performance
+  - Damages
+    - As foreshadowed in tutorial discussions, damagesLinks to an external site. are also available for breach of contract. 
+    - They are available for any breach; the right to them does not depend upon the classification of the term. 
+    - So, damages are available for breaches of 'mere' warranties. 
+    - Damages seek to provide a money equivalent of performance in place of the defective performance provided by the defendant.
+  - Specific performance
+    - Damages is the remedy provided by the common law. 
+    - Equity can also provide a remedy: specific performance. 
+    - It is also available to remedy an actual - or threatened - breach of contract.
+- REMEDIES
+  - DAMAGES
+    - GUIDING PRINCIPLE
+      - Robinson v Harmon (1848) 154 ER 363
+        - ‘The rule of the common law is, that where a party sustains a loss by reason of a breach of contract, he is, so far as money can do it, to be placed in the same situation, with respect to damages, as if the contract had been performed.’ (365, Parke B)
+  - EXPECTATION DAMAGES
+    - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+      - ‘The award of damages for breach of contract protects a plaintiff's expectation of receiving the defendant's performance. 
+      - the amount of damages awarded will be commensurate with the plaintiff's expectation, objectively determined, 
+      - That is to say, a plaintiff must prove, on the balance of probabilities, that his or her expectation of a certain outcome, as a result of performance of the contract, had a likelihood of attainment rather than being mere expectation.’
+  - ASSESSMENT OF DAMAGES
+    - Moore v Scenic Tours Pty Ltd [2020] HCA 17
+      - [64] ... a fundamental difference between two components of compensatory damages for breach of contract,
+      - Those components are compensation directly for the performance interest and compensation for consequential losses
+    - Example 1
+      -  Purchaser agrees to buy good for $10,000.
+      -  On date of delivery, purchaser breaches the contract by refusing to take and pay for the good.
+      -  On the date of breach, the market value of the good is $9,000.
+    - Example 1: Assessment
+      -  Expectation interest is compensated by awarding $1,000.
+      -  This puts the seller in the position that they would have been in had the contract been performed.
+    - Example 2
+      -  Purchaser agrees to buy good for $10,000.
+      -  On date of delivery, purchaser breaches the contract by refusing to take and pay for the good.
+      -  On the date of breach, the market value of the good is $9,000.
+      -  Purchaser spends $250 storing the good before selling it.
+    - Example 2: Assessment
+      -  Expectation interest: $1,000; and
+      -  Consequential loss: $250
+      -  This puts the seller in the position that they would have been in had the contract been performed.
+  - CAUSATION
+    - The plaintiff must show that the loss that they are claiming for was caused by the breach of contract.
+    - March v E & MH Stramare (1991) 171 CLR 506
+      - ‘The common law tradition is that what was the cause of a particular occurrence is a question of fact which “must be determined by applying common sense to the facts of each particular case” ...’ (Mason CJ)
+  - REMOTENESS
+    - Even if the plaintiff proves that loss was caused by a breach of contract, then the defendant will not be liable if the loss is too remote.
+    - Test: ‘reasonable contemplation’ test.
+    - Hadley v Baxendale (1854) 156 ER 145
+      - fairly and reasonably be considered arising naturally, that is, according to the usual course of things, from such breach of contract itself, or such as may reasonably be supposed to have been in the contemplation of both parties at the time they made the contract,
+      - If special circumstances under which the contract was actually made were communicated by the plaintiffs to the defendants, and thus known to both parties, the damages resulting from the breach of such a contract, which they would reasonably contemplate, would be the amount of injury which would ordinarily follow from a breach of contract under these special circumstances so known and communicated.
+  - CONCLUSION
+    - The point of damages is to put the plaintiff into the position that they would have been in had the contract been performed.
+    - Other issues can intrude:
+      -  Mitigation.
+      -  Contributory negligence.
+      -  Proportionate liability.
+      - Civil Liability Act 2002 (NSW).
+  - SPECIFIC PERFORMANCE
+    - OVERVIEW
+      -  An order that the defendant actually perform the contract.
+      -  Equitable remedy: discretionary.
+    - Pre-conditions to relief
+      -  Binding and enforceable contract;
+      -  Possible to perform; and
+      -  Damages inadequate.
+  - Damages Inadequate
+    -  Purchase of unique good / land
+    -  Defendant bankrupt.
+    -  Overcome privity.
+    -  Difficult to assess damages.
+  - DISCRETIONARY REASONS AGAINST
+    -  Plaintiff not ready, willing and able.
+    -  Repeated applications to the court.
+    -  Contract of personal services.
+    -  Hardship.
+    -  Laches (prejudicial delay).
+    -  Unconscientious conduct / bad faith (‘unclean hands’)
+-  Other causes of action 
+  - NEGLIGENCE (TORT)
+    - > Negligence:
+      - > Duty of care
+      - > Breach
+      - > Damage
+    - > Duty of care can by imposed by term in a contract.
+    - > Exclusion clauses: cover both causes of action?
+  - NEGLIGENT MISSTATEMENT (NEGLIGENCE)
+    - > Negligent misstatement:
+    - > Reason to rescind.
+    - > Action in tort for damages.
+    - > Or, plaintiff can affirm the contract and sue in tort for damages.
+  - DECEIT (TORT)
+    - Alati v Kruger (1955) 94 CLR 216
+  - BAILMENT
+    - Hobbs v Petersham Transport Co Pty Ltd (1971) 124 CLR 220
+      - ‘A bailment comes into existence upon the delivery of goods of one person, the bailor, into the possession of another person, the bailee, upon a promise, express or implied, that they will be redelivered to the bailor or dealt with in a stipulated way.’ (238, Windeyer J)
+  - Morris v C W Martin & Sons Ltd [1966] 1 QB 716
+    - “Once a man has taken charge of goods as a bailee for reward, it is his duty to take reasonable care to keep them safe: 
+      - and he cannot escape that duty be delegating it to his servant. 
+        - If the goods are lost or damaged, whilst they are in his possession, he is liable unless he can show - and the burden is on him to show - that the loss or damage occurred without any neglect or default or misconduct of himself or of any of the servants to whom he delegated his duty.”
+  - City of Sydney v West (1965) 114 CLR 481
+    - “But in the present case what is important, I think, is to recognize that the evident purpose of the clause is to free the appellant from all the responsibility (for loss and damage) to which otherwise its assumption of the position of bailee would have subjected it. 
+    - The clause is part and parcel of the bargain by which the bailment was created and the reciprocal rights and obligations of the parties as bailor and bailee were regulated. 
+      - The concern of the clause, as read in the setting in which it came to be agreed upon (assuming that it was agreed upon), was with the legal responsibility which the appellant's acceptance of the bailment should entail.”
+  - RESTITUTION
+    - Commissioner of State Revenue (Vict) v Royal Insurance Australia Ltd (1994) 182 CLR 51
+      - “Restitutionary relief ... does not seek to provide compensation for loss. Instead, it operates to restore to the plaintiff what has been transferred from the plaintiff to the defendant whereby the defendant has been unjustly enriched.
+  - MONEY HAD AND RECEIVED
+    - Foran v Wight (1989) 168 CLR 385
+      - ‘Upon rescission, the purchasers were entitled to obtain restitution of the deposit which they had paid. 
+      - Their claim for the return of the deposit was not founded on the rescinded contract. 
+      - Nor did it represent a claim for damages for the vendors' breach of its terms.
+  - QUANTUM MERUIT
+    - 1. The defendant requests a good/service from the plaintiff;
+    - 2. The plaintiff provides the good/performs the service; and
+    - 3. The defendant:
+      - a) Receives an incontrovertible benefit from the good/service; and
+      - b) Freely accepts the good/service.
+    - 4. It’s clear that the plaintiff was not acting gratuitously.
+    - The defendant must pay a ‘reasonable amount’ for the good/service.
+    - Arguable when:
+      - > There is no contract; or
+      - > Any relevant contract is void, unenforceable, discharged, or doesn’t account for the circumstances of the case.
+  - QUANTUM MERUIT
+    - Codelfa Construction Pty Ltd v State Rail Authority of NSW (1982) 149 CLR 337
+  - PROMISSORY ESTOPPEL
+    - Promises are not enforceable at law unless:
+      - > They are recorded in an executed deed; or
+      - > Consideration is provided.
+    - > Detrimental reliance on a promise is insufficient at common law.
+    - > Equity may enforce a promise unsupported by consideration, if it was unconscionable for the promisor to resile from a promise.
+    - Waltons Stores (Interstate) Ltd v Maher (1988) 164 CLR 387
+      - Waltons agreed to lease the Mahers’ land.
+      - The Mahers had to redevelop the land to accommodate Waltons Stores.
+      - The Mahers signed the leased and forwarded it to Waltons stores for signing.
+      - Waltons Stores encouraged the Mahers to commence redevelopment by promising to sign the lease.
+      - Waltons Stores did not sign the lease.
+  - AUSTRALIAN CONSUMER LAW
+    - s 18 Misleading or deceptive conduct
+      - (1) A person must not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.
+    - s 3 Meaning of consumer
+      - Acquiring goods as a consumer
+        - (1) A person is taken to have acquired particular goods as a consumer if, and only if:
+          - (a) the amount paid or payable for the goods, as worked out under subsections (4) to (9), did not exceed:
+            - (i) $40,000; or …
+          - (b) the goods were of a kind ordinarily acquired for personal, domestic or household use or consumption
+  - STATUTORY GUARANTEES
+    - 
+    - 
+    - 
+
+  - UNFAIR TERMS
+    - 
+    - 
+  - CONTRACTS REVIEW ACT 1980 (NSW)
+    - West v AGC (Advances) Ltd (1986) 5 NSWLR 610
+      - “The Contracts Review Act 1980 is revolutionary legislation whose evident purpose is to overcome the common law’s failure to provide a comprehensive doctrinal framework to deal with ‘unjust’ contracts.” (621, McHugh JA)
+    - Perpetual Trustee Co Ltd v Khoshaba [2006] NSWCA 41 [115] ... 
+      - Thus, while equity provides relief against the unconscientious conduct of the defendant, the Act may permit relief in circumstances where the conscience of the defendant is not affected. 
+      - Similarly, a contract, or a provision thereof, may be unjust in circumstances where there was no pre-existing duty owed by, say, a lender to a borrower to act in a particular way. (Basten JA) 
+    - 
+    - 
+

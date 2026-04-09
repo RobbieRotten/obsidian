@@ -1,0 +1,6963 @@
+#tag-notes #tag-tutorial
+
+## Cheat Sheet
+
+- Link
+### Week 2
+
+  - 1. Duress (common law)
+    - two elements of duress:
+      - 1. pressure amounting to compulsion of the will of the victim; and
+      - 2. the illegitimacy of the pressure exerted
+    - Duress involves illegitimate pressure amounting to compulsion
+  - 2. Undue influence (equity)
+    - Plaintiff might be capable of looking after own interests, but is subject to (elements of undue influence):
+      - pressure
+      - influence
+      - manipulation
+      - misinformation
+    - such that the plaintiff cannot be said to have exercised free will.
+    - Undue influence involves a skewing of free will but not necessarily through illegitimate means.
+      - Unconscionable conduct involves taking advantage of a vulnerable party; often considered an extension or subset of undue influence.
+  - Undue influence + unconscionable conduct
+    - Facts suggest that plaintiff:
+      - was at a special disadvantage vis-a-vis the defendant; AND
+      - influence was applied by the defendant such that the plaintiff did not exercise his or her own free will.
+      - D must show signing is fair, just, and reasonable
+  - Undue Influence
+    - Johnson v Buttress (1936) 56 CLR 113
+      - ‘The jurisdiction of a court of equity to set aside gifts [and contracts] inter vivos which have been procured by undue influence is exercised where
+        - 1. undue influence is proved as a fact, or [‘actual undue influence’]
+        - 2. where, undue influence being presumed from the relations existing between the parties, the presumption has not been rebutted.’ [‘presumed undue influence’]
+  - Duress vs Undue influence
+    - The defense of duress exists to protect against contracts that are obtained by some type of threat or coercion. 
+    - The defense of undue influence exists for a more specialized role, to protect against assent obtained by unfair persuasion.
+  - Undue influence vs Unconscionable conduct
+    - Undue influence focuses on the quality of consent to a contract, while unconscionable conduct focuses on the conduct of the stronger party, when one party exploits a special disadvantage of the other.
+  - Promissory Estoppel
+    - Waltons Stores (Interstate) Ltd v Maher [1988] HCA 7; (1988) 164 CLR 387
+  - Eqiuitable Recission
+    - Thorne v Kennedy [2017] HCA 49; (2017) 263 CLR 85
+    - Yerky v Jones (1939) 63 CLR 649
+  - Unconscionability in equity
+    - Commonwealth Bank v Amadio
+      - Relief can be granted when:
+        - One party suffers a special disadvantage affecting their ability to make decisions in their best interest.
+        - The stronger party knows or should have known about this disadvantage.
+        - The stronger party unconscientiously exploits this disadvantage.
+  - Elements of Unconscionable Conduct
+    - See Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+      - Equity may set aside a transaction on the grounds of unconscionability where:
+        -  (1) the weaker party was affected by a special disadvantage; 
+        - (2) the stronger party was aware, or should have been aware, of this disadvantage; and 
+        - (3) the stronger party took advantage of the weaker party’s disadvantage in circumstances where the transaction was not fair, just and reasonable.
+  - Claims are performed in a progressive order
+    - Presumed undue influence (Johnson v Buttress)
+      - Actual undue influence (Johnson v Buttress)
+        - Unconscionable conduct (Amadio)
+### Week 3: Equitable Estoppel
+
+  - Overview of Estoppel
+    - Definition: Prevents a party from acting inconsistently with a prior representation, promise, or assumption relied upon by another party.
+    - Types: Common law estoppel (e.g., by judgment, representation, convention) and equitable estoppel (e.g., promissory, proprietary).
+    - Key principle: To prevent unjust departure from an induced assumption if doing so would cause detriment (Thomson v Palmer (1933), Grundt v Great Boulder (1937)).
+    - Key case: Walton Stores
+  - Common Law Estoppel
+    - Estoppel by Judgment
+      - Res judicata: A decided case cannot be relitigated.
+      - Issue estoppel: Prevents re-arguing a decided issue.
+      - Anshun estoppel: Precludes raising a claim that should have been raised in earlier proceedings.
+    - Estoppel by Representation
+      - Prevents a party from denying a past/present fact they induced another to rely on.
+      - Case: Jorden v Money (1854) – Estoppel by representation is confined to representations of fact, not intention.
+      - Key NSW case: CPB Contractors v Rizzani De Eccher Australia (2017) – Representation must be clear and unequivocal.
+    - Estoppel by Convention
+      - Prevents a party from denying a shared assumption on which both have based their dealings.
+      - Case: Moratic Pty Ltd v Gordon (2007) – Requires mutual reliance and detriment.
+  - Equitable Estoppel
+    - Proprietary Estoppel
+      - Arises when a property owner encourages another to act in reliance on receiving an interest in land.
+      - Two types:
+        - By Encouragement – Owner induces reliance through active encouragement.
+        - By Acquiescence – Owner knowingly allows a mistaken belief.
+      - Case law:
+        - Dillwyn v Llewellyn (1862) – Imperfect gift perfected by reliance.
+        - Giumelli v Giumelli (1999) – Constructive trust imposed to uphold an expectation.
+        - Sidhu v Van Dyke (2014) – Promise must have induced actual reliance.
+        - Kramer v Stone (2023) – NSW Court of Appeal upheld constructive trust for proprietary estoppel.
+    - Promissory Estoppel
+      - Arises when a party promises not to enforce rights, and another party relies on that promise to their detriment.
+      - Key Australian case: Waltons Stores v Maher (1988) – Expanded promissory estoppel to create new legal rights (i.e., can be used as a sword, not just a shield).
+      - Limits in NSW: Saleh v Romanous (2010) – NSW courts do not allow promissory estoppel as a cause of action.
+      - Unsuccessful case example: Crown Melbourne v Cosmopolitan Hotel (2016) – No estoppel as the promise was too vague ("you will be looked after").
+  - Elements of Equitable Estoppel (Kramer v Stone (2023), citing Waltons Stores v Maher (1988)):
+- Assumption – Plaintiff believed a legal relationship existed/would exist.
+- Inducement – Defendant encouraged the assumption.
+- Reliance – Plaintiff acted based on that assumption.
+- Knowledge/Intention – Defendant knew plaintiff would rely.
+- Detriment – Plaintiff suffered loss if assumption is not upheld.
+- Unconscionability – Defendant failed to avoid the detriment.
+    - Common Elements to Prove in Equitable Estoppel:
+      - Representation: Reasonably clear and unambiguous - words and actions must be capable of misleading a reasonable person (Crown Melbourne at [35])
+      - Reliance: ”a significant factor’ ‘a contributing cause’ – actual reliance must be proved by the plaintiff which provides the connection between assumption and detriment.
+      - Detriment: without detriment there is no equity at all (Guest v Guest [2022] UKSC 27 at [10] per Lord Briggs, but need not involve expenditure or be easily quantifiable in monetary terms.
+      - Unconscionability: preventing unconscionable conduct is not resolved by reference to some preconceived formula framed to serve as a ‘universal yardstick’ and takes into account all the circumstances.
+  - Key principle: Unconscionability is the foundation of equitable estoppel (Kramer v Stone (2023)).
+  - Remedies for Equitable Estoppel
+    - Prima facie expectation enforcement (Plimmer v Wellington (1884)).
+    - Proportionality considered – Court can order lesser relief if enforcing expectation is inequitably harsh (Giumelli v Giumelli (1999)).
+    - Constructive trusts may be imposed but avoided if it affects third parties (Sidhu v Van Dyke (2014)).
+Key Distinctions
+Feature
+Promissory Estoppel
+Proprietary Estoppel
+Type of Interest
+Contractual/Commercial
+Property/Land
+Representation
+Future promise not to enforce rights
+Expectation of property rights
+Reliance
+Detrimental reliance on a promise
+Investment in land or work
+Key Cases
+Waltons Stores v Maher
+Dillwyn v Llewellyn, 
+Sidhu v Van Dyke
+Remedy
+Prevent unfair enforcement
+Grant property interest/compensation
+
+Exam Answer Formula for Estoppel
+- Identify the type of estoppel:
+  - Common law estoppel (e.g., estoppel by representation: Jorden v Money (1854)).
+  - Equitable estoppel (Waltons Stores v Maher (1988) 164 CLR 387).
+  - Subtypes: Proprietary estoppel (Sidhu v Van Dyke (2014) 251 CLR 505), promissory estoppel (Commonwealth v Verwayen (1990) 170 CLR 394).
+  - Recent authority: Stone v Kramer (2024) HCA 48 confirms that all equitable estoppel follows the same core elements.
+- Determine if there was a clear representation, assumption, or expectation:
+  - The promise must be "clear and unequivocal" (Legione v Hately (1983) 152 CLR 406 at 440).
+  - A promise of a future proprietary interest = proprietary estoppel (Giumelli v Giumelli (1999) 196 CLR 101).
+  - A promise in a commercial or contractual setting = promissory estoppel (Waltons Stores).
+- Assess reliance – Did the claimant act on the promise/assumption?
+  - Must be reasonable (Sidhu v Van Dyke (2014) 251 CLR 505 at 531 [91]).
+  - Reliance can be financial (e.g., lost opportunities) or personal (e.g., life decisions) (Stone v Kramer).
+- Check detriment – Did reliance cause significant loss?
+  - Detriment = a worse position than before the promise (Giumelli).
+  - Can be financial loss, forgone employment, or personal sacrifices (Sidhu v Van Dyke).
+- Prove unconscionability – Was it unfair for the defendant to resile?
+  - Mere failure to fulfil a promise is not enough (Waltons Stores).
+  - Unconscionability arises when the promisee has suffered detriment, and the promisor fails to act to prevent it (Stone v Kramer).
+- Consider remedies – Constructive trust, compensation, or expectation enforcement:
+  - Expectation enforcement is the default remedy (Plimmer v Wellington (1884) 9 App Cas 699).
+  - Proportional relief may be granted instead (Giumelli).
+  - A constructive trust is available but avoided if it affects third parties (Sidhu v Van Dyke).
+### Week 4: Fiduciary Obligations
+
+  - 1. What Are Fiduciary Duties?
+    - A fiduciary obligation is a legal duty imposed on one party (the fiduciary) to act in the best interests of another (the principal).
+    - Core principle: Undivided loyalty (Beach Petroleum NL v Kennedy (1999) 48 NSWLR 46).
+    - Originates from Equity and is distinct from contract and tort (Norberg v Wynrib [1992] 2 SCR 226).
+    - Why Do They Exist?
+      - Prevent conflicts of interest.
+      - Ensure fiduciaries do not exploit their position of trust for personal gain.
+  - 2. Obligations Imposed on Fiduciaries
+    - Proscriptive (Negative) Duties
+      - No Conflicts Rule
+        - A fiduciary must not place themselves in a position of conflict between:
+          - Duty & personal interest (Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461).
+          - Two competing duties (Farrington v Rowe McBride & Partners [1985] 1 NZLR 83).
+      - No Profits Rule
+        - A fiduciary must not make unauthorised profits from their position (Boardman v Phipps [1967] 2 AC 46).
+    - No Prescriptive (Positive) Duties
+      - Fiduciaries are not required to act in the best interests of the principal (Breen v Williams (1996) 186 CLR 71).
+      - Duties to act arise from contract, tort, or statute, not fiduciary principles (Pilmer v Duke Group Ltd (in liq) (2001) 207 CLR 165).
+  - 3. When Do Fiduciary Duties Arise?
+    - A. Relationships That Automatically Give Rise to Fiduciary Duties ("Established Categories")
+      - Trustee → Beneficiary (Keech v sandord)
+      - Company Director → Company (Furs v Tomkies)
+      - Legal Practitioner → Client (Boardman v Phipps)
+      - Agent → Principal (McKenzie v Mcdonald)
+      - Partners → Each Other (Chan v Zacharia)
+      - Employees?
+        - Senior employees may owe fiduciary duties if they have decision-making power over the employer’s business (Anderson v Canaccord Genuity Financial Ltd [2023] NSWCA 294).
+    - B. Commercial Relationships – Case-by-Case Basis
+      - Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41 – Fiduciary duties are not presumed in commercial settings; courts assess the nature of the relationship.
+      - Factors Indicating a Fiduciary Relationship:
+        - Undertaking to act in another’s interests (Hospital Products).
+        - Power to unilaterally affect another’s rights (United Dominions Corp Ltd v Brian Pty Ltd (1985) 157 CLR 1).Canaccord 
+        - Vulnerability and reliance (Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6).
+  - 4. Determining the Scope of Fiduciary Duties
+    - Fiduciary duties only apply to aspects of the relationship where trust and confidence exist.
+- Clark Boyce v Mouat [1994] 1 AC 428 – A lawyer may not owe fiduciary duties for all matters.
+  - 5. Breach of Fiduciary Duties
+    - A. How Strict Are Fiduciary Duties?
+      - Strict liability – No need to prove intent to defraud (Nocton v Lord Ashburton [1919] AC 492).
+- No requirement for principal to suffer loss (Birtchnell v Equity Trustees (1929) 42 CLR 384).
+- Even if the principal could not have made the profit, the fiduciary must account for it (Warman International Ltd v Dwyer (1995) 182 CLR 544).
+    - B. Role of the Principal’s Consent
+      - Fully informed consent before or after the breach can prevent liability (Queensland Mines Ltd v Hudson (1978) 18 ALR 1).
+  - 6. Remedies for Breach
+    - A. Equitable Remedies
+- Account of Profits
+  - Fiduciary must disgorge any personal gain (Boardman v Phipps).
+- Compensation for Loss
+  - Available even if loss would not meet common law causation rules (Nocton v Lord Ashburton).
+- Proprietary Remedies
+  - Constructive Trusts (Grimaldi v Chameleon Mining).
+  - Equitable Charges, Tracing.
+- Rescission of Contracts
+  - Used in conflicted transactions (Maguire v Makaronis (1997) 188 CLR 449)
+    - B. Remedies Against Third Parties
+      - Knowing Assistance – Third parties who knowingly help a fiduciary breach their duties may be held liable (Grimaldi v Chameleon Mining).
+      - Knowing Receipt – A third party who receives benefits from a breach may be required to return them (Equiticorp Finance Ltd v Bank of New Zealand (1993) 32 NSWLR 50).
+  - 7. Key Cases & Principles
+Case
+Principle Established
+Bray v Ford [1896] AC 44
+Fiduciaries must avoid conflicts and unauthorised profits.
+Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461
+Strict no conflict rule for directors.
+Boardman v Phipps [1967] 2 AC 46
+Fiduciary must account for any profit, even if made in good faith.
+Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134
+No requirement for principal to suffer loss.
+Chan v Zacharia (1984) 154 CLR 178
+Fiduciary liability arises from conflict of interest or improper profit.
+Breen v Williams (1996) 186 CLR 71
+No positive fiduciary duties – obligations are negative (no conflict, no profit).
+United Dominions Corporation Ltd v Brian Pty Ltd (1985) 157 CLR 1
+Fiduciary duties can exist in joint ventures.
+Howard v Commissioner of Taxation (2014) 253 CLR 83
+Fiduciary duties are limited to the scope of the relationship.
+Australian Securities and Investments Commission v Citigroup (2007) 160 FCR 35
+Contract can exclude fiduciary duties.
+Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6
+Third parties may be liable for knowing assistance/receipt.
+Hospital Products Ltd v USSC (1984) 156 CLR 41
+Commercial contracts do not automatically impose fiduciary duties.
+
+  - 8. Summary of Key Takeaway
+    - Fiduciary duties arise in relationships of trust & reliance.
+    - Duties are strict, and good faith is not a defence.
+    - Breach of duty does not require proof of loss.
+    - No conflict, no profit – a fiduciary must not benefit personally without fully informed consent.
+    - Fiduciary obligations can be excluded by contract in commercial relationships.
+    - Equitable remedies (constructive trusts, account of profits) are powerful tools in fiduciary breach cases.
+    - Third parties may be liable if they assist or benefit from a breach.
+  - 9. Exam Problem Step-Through
+    - 1. Identify the Fiduciary Relationship
+      - Step 1.1: Does a Fiduciary Relationship Exist?
+        - Check if the relationship falls within an established category:
+          - Trustee → Beneficiary
+          - Director → Company (Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461)
+          - Legal Practitioner → Client
+          - Agent → Principal
+          - Partners → Each Other (United Dominions Corp Ltd v Brian Pty Ltd (1985) 157 CLR 1)
+          - Senior Employees → Employer (Anderson v Canaccord Genuity Financial Ltd [2023] NSWCA 294)
+        - If not an established category, assess:
+          - Undertaking to act in another’s interest? (Hospital Products Ltd v USSC (1984) 156 CLR 41)
+          - Vulnerability and reliance? (Grimaldi v Chameleon Mining (No 2) [2012] FCAFC 6)
+          - Power to unilaterally affect another’s rights? (United Dominions v Brian)
+        - 💡 Example:
+          - If A is a financial advisor, does A’s role suggest a fiduciary relationship?
+          - If independent contractor with no discretion over client’s assets → No fiduciary duty (ASIC v Citigroup (2007) 160 FCR 35).
+          - If managing assets with control over transactions → Yes, fiduciary duties apply (Daly v Sydney Stock Exchange (1986) 160 CLR 371).
+    - 2. Determine the Scope of the Fiduciary Duty
+      - Step 2.1: Is the Fiduciary’s Conduct Within the Scope of the Duty?
+        - Fiduciary duties only apply to specific aspects of the relationship (Clark Boyce v Mouat [1994] 1 AC 428).
+          - Example: A doctor does not owe fiduciary duties to give medical records (Breen v Williams (1996) 186 CLR 71).
+    - 3. Identify the Breach of Duty
+      - Step 3.1: Has the Fiduciary Breached a Core Obligation?
+        - No Conflicts Rule:
+          - Duty vs Personal Interest (self-dealing) → Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461
+          - Duty vs Duty (serving two principals) → Farrington v Rowe McBride & Partners [1985] 1 NZLR 83
+        - No Profits Rule:
+          - Fiduciary must not profit without consent (Boardman v Phipps [1967] 2 AC 46).
+          - Profits must be accounted for, even if no loss suffered (Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134).
+        - 💡 Example:
+          - Scenario: A company director secures a contract for themselves instead of the company.
+          - The director used their position for personal gain → Breach of no profits rule (Regal (Hastings) Ltd v Gulliver).
+          - Even if the company could not have pursued the opportunity, liability still arises (Warman International Ltd v Dwyer (1995) 182 CLR 544).
+    - 4. Consider the Role of Consent & Defences
+      - Step 4.1: Did the Principal Give Fully Informed Consent?
+        - No breach if the principal gave full, informed consent (Queensland Mines Ltd v Hudson (1978) 18 ALR 1).
+      - Step 4.2: Was the Breach Prevented by a Contractual Exclusion?
+        - Fiduciary duties can be excluded by contract (ASIC v Citigroup (2007) 160 FCR 35).
+        - 💡 Example:
+          - If A’s contract expressly excludes fiduciary duties, A is not liable unless the exclusion is unconscionable.
+    - 5. Remedies for Breach
+      - Step 5.1: What Remedy Should Be Applied?
+        - Account of Profits
+          - Profits made must be returned to the principal (Boardman v Phipps).
+        - Equitable Compensation
+          - No need to prove causation or loss (Nocton v Lord Ashburton [1914] AC 932).
+        - Proprietary Remedies (Constructive Trusts, Equitable Charges, Tracing)
+          - Constructive Trust: If fiduciary obtained property using their position, it belongs to the principal (Grimaldi v Chameleon Mining).
+          - Tracing: If profits have been reinvested, the principal can claim the new assets (Foskett v McKeown [2001] 1 AC 102).
+        - Rescission of Contract
+          - Used where a fiduciary enters into a conflicted transaction (Maguire v Makaronis (1997) 188 CLR 449).
+    - 6. Exam Answer Formula
+      - Step 1: Identify the Fiduciary Relationship
+        - 1.1 Is the relationship in an established fiduciary category?
+        - 1.2 If not, apply Hospital Products factors to determine if a fiduciary duty arises.
+      - Step 2: Scope of Fiduciary Duty
+        - 2.1 Does the alleged conduct fall within the fiduciary’s role?
+        - 2.2 If not, fiduciary duties do not apply (Clark Boyce v Mouat).
+      - Step 3: Breach of Fiduciary Duty
+        - 3.1 Did the fiduciary have a conflict of interest?
+          - Self-dealing? (Aberdeen Railway)
+          - Competing fiduciary duties? (Farrington v Rowe McBride)
+        - 3.2 Did the fiduciary profit from their position?
+          - Was the gain obtained using fiduciary knowledge or opportunity? (Boardman v Phipps)
+        - Was informed consent given? (Queensland Mines v Hudson)
+      - Step 4: Defences
+        - 4.1 Was the principal fully informed and gave consent?
+        - 4.2 Was there a contractual exclusion of fiduciary duties?
+      - Step 5: Remedies
+        - 5.1 Account of profits (Boardman v Phipps)
+        - 5.2 Equitable compensation (Nocton v Lord Ashburton)
+        - 5.3 Constructive trust (Grimaldi v Chameleon Mining)
+        - 5.4 Rescission of contract (Maguire v Makaronis)
+### Week 5: Accessorial Liability
+
+- 1. Fiduciary Duties & Third-Party Liability
+  - A fiduciary owes core duties, including:
+    - 1. Avoiding conflicts of interest.
+    - 2. Avoiding unauthorised or secret profits.
+    - If a fiduciary breaches these duties, they may:
+      - Be held as a constructive trustee of misappropriated property.
+      - Be personally liable to account for profits or compensate for losses.
+    - When can a third party be liable? A third party may be liable where they:
+      - 1. Knowingly receive property misapplied in breach of trust (Knowing Receipt).
+      - 2. Knowingly assist in a dishonest and fraudulent design (Knowing Assistance).
+- 2. Key Case: Barnes v Addy (1874) LR 9 Ch App 244
+  - Lord Selborne established two 'limbs' of third-party liability:
+    - Knowing Receipt – When a third party "receives and becomes chargeable" with trust property.
+    - Knowing Assistance – When a third party "assists with knowledge in a dishonest and fraudulent design" of the fiduciary.
+- 3. When to Pursue a Third Party?
+  - Pursuing a third party is useful when:
+    - The primary wrongdoer is bankrupt or unable to satisfy a claim.
+    - The third party holds specific property that the claimant seeks to recover.
+- 4. Remedies Against a Constructive Trustee
+  - Proprietary Remedy: The property remains held in equity for the beneficiary.
+  - Personal Remedy: The third party must compensate for loss or account for profits.
+- 5. Knowing Receipt Liability
+  - Elements (Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89):
+    - 1. Existence of a trust or fiduciary duty.
+    - 2. Transfer of property in breach of duty. (Robb Evans v European Bank Ltd (2006) 61 NSWLR 75).
+    - 3. Beneficial receipt of property (not merely holding as an agent).
+    - 4. Knowledge that the transfer was in breach of fiduciary duty.
+  - Key Principles:
+    - Knowledge must be at least category 1-3 on the Baden scale (see below).
+    - Information is not trust property (Farah Constructions).
+    - The recipient must receive the property for their own benefit.
+- 6. Knowing Assistance Liability
+  - Elements (Hasler v Singtel (2014) 311 ALR 494):
+    - 1. Fiduciary relationship exists.
+    - 2. Dishonest & fraudulent design by fiduciary.
+    - 3. Knowledge by the third party.
+    - 4. Assistance that "makes a difference" in furthering the breach.
+  - What is a 'Dishonest and Fraudulent Design'?
+    - Objective dishonesty – A transgression of ordinary standards of honest behaviour. (Hasler v Singtel).
+    - No need for subjective awareness of wrongdoing.
+  - What is ‘Assistance’?
+    - Must contribute causally to the breach (Re-Engine Pty Ltd v Fergusson (2007) 209 FLR 1).
+    - Mere passive awareness is not enough.
+- 7. What Constitutes Knowledge? (Baden Scale)
+  - As per Baden v Société Générale [1993] 1 WLR 509:
+    - 1. Actual knowledge.
+    - 2. Deliberate ignorance (wilful blindness).
+    - 3. Wilfully failing to inquire where a reasonable person would.
+    - 4. Knowledge of circumstances indicating a breach. CONSTRUCTIVE KNOWLEDGE
+    - 5. Knowledge of circumstances putting an honest person on notice. NOT FOR ACCESSORIAL LIABILITY
+    - ✅ Levels 1-3 = Actual Knowledge (sufficient for liability).
+    - ❌ Levels 4-5 = Notice (insufficient for accessorial liability).
+  - Key Cases:
+    - Grimaldi v Chameleon Mining (2012) 200 FCR 296 – Confirms knowledge must be actual or wilful blindness.
+    - GP Building Holdings v Voitin [2022] VSCA 210 – Wilful and reckless failure to inquire = knowledge.
+- 8. Key Cases & Applications
+  - 
+Case
+Key Issue
+Decision
+Farah Constructions v Say-Dee (2007)
+Did a third party receive property subject to a fiduciary duty?	
+No, information is not property. Third party not liable.
+Grimaldi v Chameleon Mining (2012)
+Did a third party knowingly receive or assist?	
+Yes, liability for knowing receipt & knowing assistance.
+Ancient Order of Foresters v Lifeplan (2018)
+Extent of knowing assistance liability	
+Knowing assistants liable as if they were fiduciaries.
+Consul Developments v DPC Estates (1975)
+Can a third party be liable without actual knowledge?	
+No, constructive notice is insufficient.
+Hasler v Singtel (2014)
+What is "dishonest and fraudulent design"?	
+Dishonesty is an objective test.
+
+- Exam Answer Formula: Accessorial Liability in Equity
+  - Step 1: Identify the Primary Breach of Duty
+    - Was there a fiduciary duty?
+      - Hospital Products Ltd v United States Surgical Corp (1984) 156 CLR 41 – Fiduciary relationships require trust & confidence.
+    - Was there a breach of duty?
+      - Fiduciary must avoid conflicts of interest and secret profits.
+  - Step 2: Identify the Basis for Third-Party Liability
+    - Knowing Receipt?
+      - Did the third party receive trust property in breach of duty?
+      - Did they beneficially receive the property (Farah Constructions)?
+      - Did they have actual or wilful blindness knowledge (Grimaldi)?
+    - Knowing Assistance?
+      - Did the third party assist a dishonest and fraudulent design (Barnes v Addy)?
+      - Was the assistance causally significant (Harstedt Pty Ltd v Tomanek (2018))?
+  - Step 3: Assess the Third Party’s Knowledge
+    - 1. Apply the Baden Scale:
+      - Categories 1-3 = actual knowledge → liable.
+      - Categories 4-5 = constructive notice → not liable.
+    - 2. Did the third party wilfully ignore clear signs of a breach? (GP Building Holdings).
+  - Step 4: Determine Available Remedies
+    - Constructive Trust?
+      - Where property is still held → Proprietary claim (Westpac v Bell Group).
+    - Personal Liability?
+      - Where property is lost → Equitable compensation or account of profits (Ancient Order of Foresters).
+  - Step 5: Consider Any Defences
+    - Bona fide purchaser for value without notice? (Leeming JA in Fistar).
+    - Did the third party act in good faith, without dishonesty? (Royal Brunei Airlines v Tan).
+  - TL;DR – Summary of Key Points
+    - Barnes v Addy established Knowing Receipt & Knowing Assistance as bases for third-party liability.
+    - Knowing Receipt: Requires a fiduciary breach, beneficial receipt, and actual knowledge.
+    - Knowing Assistance: Requires a dishonest & fraudulent design, actual knowledge, and causative assistance.
+    - Baden Scale: Knowledge must be actual or wilful blindness to impose liability.
+    - Remedies: Proprietary claims (constructive trust) or personal claims (equitable compensation).
+    - Key Cases: Farah Constructions, Grimaldi, Hasler v Singtel, Consul Developments.
+### Week 6: Equity and property
+
+- 1. Types of Property
+  - 1.1 Real Property
+    - Land and interests in land.
+    - Example: Land held under Torrens Title.
+  - 1.2 Personal Property
+    - 1.2.1 Choses in Possession
+      - Tangible items.
+      - Eg: Furniture, laptop, cars.
+    - 1.2.2 Choses in Action
+      - Intangible property rights enforceable only through legal action.
+      - Eg: Debts, shares, contractual rights, royalties.
+      - May be legal or equitable.
+  - Legal Property vs Equitable Propert
+    - Legal property 
+      - refers to property interests that are recognised and enforceable at common law. The legal owner has formal title or registration, and the rights are usually enforceable in a court of law.
+Type of Property
+Legal Owner Is...
+Authority / Example
+Torrens title land
+The person registered as proprietor
+Real Property Act 1900 (NSW), s 42
+Bank account
+The person named on the account
+Common law principle
+Contractual rights
+A party to the contract
+Conveyancing Act 1919 (NSW), s 12 (assignment of legal chose)
+Company shares
+The person registered on the share register
+Corporations Act 2001 (Cth), ss 1070A–B
+Legal debt
+The person to whom the debt is owed
+Norman v FCT (1963) 109 CLR 9
+Possession of goods (choses in possession)
+The person with physical possession
+Common law of bailment/ownership
+
+    - Equitable property 
+      - refers to interests recognised by a court of equity, typically where the legal title is held by another person, but that person is bound by conscience (e.g., as a trustee) to hold it for the benefit of someone else.
+Equitable Property
+Legal Title Holder
+Equitable Interest Holder
+Authority
+Trust property
+Trustee
+Beneficiary
+Paul v Constance [1977]
+Legatee under a will
+Executor
+Beneficiary (before administration)
+Comptroller of Stamps v Howard-Smith (1936) 54 CLR 614
+Interest in a resulting or constructive trust
+Recipient of property
+Person with equitable claim
+Muschinski v Dodds (1985) 160 CLR 583
+Equitable interest in shares held by nominee
+Nominee
+Beneficial owner
+Vandervell v IRC [1967] 2 AC 291
+Sub-trusts
+Original beneficiary
+New beneficiary under sub-trust
+Timpson’s Executors v Yerbury [1936] 1 KB 645
+Equitable mortgage
+Debtor retains title
+Lender has equitable security
+Common practice in unregistered mortgages
+
+- 2. Assignability of Property Rights
+  - 2.1 Non-Assignable Rights (Public Policy)
+    - Right to perform employment contract.
+    - Bare right to litigate.
+    - BUT: Proceeds of litigation can be assigned (Glegg v Bromley [1912] 3 KB 474).
+- 3. Legal vs Equitable Interests
+  - 3.1 Legal Interests
+    - Recognised at common law.
+    - Examples:
+      - Owner on Torrens register.
+      - Registered shareholder.
+      - Named party to a contract.
+  - 3.2 Equitable Interests
+    - Recognised in equity.
+      - Examples:
+        - Beneficiary under trust.
+        - Legatee under a will.
+        - Beneficial owner behind nominee/shareholding.
+- 4. Contracts vs Conveyances
+Contract
+Conveyance
+Promise to do
+Actual transfer of property
+Eg: Sale agreement
+Eg: Assignment
+  - Conveyances include assignments and gifts.
+- 5. Assignment at Law – Conveyancing Act 1919 (NSW) s 12
+  - Applies to legal choses in action.
+    - Requirements:
+      - Clear intention to assign immediately and irrevocably.
+      - Assignment must be absolute.
+      - In writing, signed by assignor.
+      - Notice in writing to debtor.
+- 6. Equitable Assignments of Legal Property
+  - If legal formalities not met, equity may still recognise transfer if:
+    - Assignor has done everything necessary to complete the assignment (Milroy v Lord).
+    - Equity won’t assist a volunteer unless consideration is given.
+  - Corin v Patton (1990)
+    - Equity recognises assignment where:
+      - Donor has done all necessary acts.
+      - Donee is in position to complete legal title.
+- 7. Voluntary Assignment of Equitable Interests
+  - 7.1 Formalities – Conveyancing Act 1919 (NSW) s 23C
+    - s 23C(1)(b): Declarations of trust over land must be manifested and proved in writing.
+    - s 23C(1)(c): Dispositions of existing equitable interests must be in writing signed by disposer.
+  - 7.2 Four Modes (Timpson’s Executors v Yerbury [1936] 1 KB 645)
+    - 1. Direct assignment.
+    - 2. Direction to trustee to hold for third party.
+    - 3. Direction to transfer legal & equitable title to third party.
+    - 4. Declaration of trust over equitable interest.
+  - 7.3 Key Cases:
+    - Grey v IRC [1960] AC 1 – Oral direction to hold for another = disposition ⇒ requires writing (s 23C(1)(c)).
+      - A direction to trustee to hold on trust for another constitutes a disposition of a subsisting equitable interest within s53(1)(c) LPA 1925
+      - Facts
+        - Mr Hunter (settlor) made 6 settlements in favor of his grandchildren
+        - He later transferred substantial blocks of shares to the trustees, which they held on trust for him
+        - He then orally instructed the trustees to hold the shares upon the trusts of the 6 settlements
+        - Documents were executed in confirmation of the oral declaration by Mr Hunter
+    - Vandervell v IRC [1967] 2 AC 291 – Direction to transfer full title effective without separate writing.
+- 8. Future Property
+  - General Rule:
+    - Cannot be assigned at law.
+    - Equity will enforce assignment if for value (Tailby v Official Receiver).
+  - Example Cases:
+    - Norman v FCT (1963) – Gift of future dividends ineffective; interest potentially assignable if presently enforceable.
+    - Shepherd v FCT (1965) – Right to future royalties was a presently existing contractual right.
+  - Distinction:
+    - Tree = Present right (assignable at law).
+    - Fruit = Future property (assignable in equity for value only).
+- 9. Declaration of Trusts
+  - Paul v Constance [1977] – Oral declaration of trust over bank account upheld.
+  - No writing required for personal property; required for land (s 23C(1)(b)).
+- 10. Summary Table of Formalities
+Transaction Type
+Property Type
+Formalities
+Assignment of legal chose
+Personal (e.g. debt)
+s 12 CA: writing + notice
+Declaration of trust over land
+Land
+s 23C(1)(b): writing
+Disposition of equitable interest
+Any
+s 23C(1)(c): writing
+Sub-trust
+Depends
+Writing if land/equitable interest (see debate)
+Assignment of future property
+Any
+Only enforceable in equity for value
+
+-  
+### Week 7: Express Trusts
+
+- What is a Trust?
+  - A trust is not a legal entity but a legal relationship.
+  - A trustee holds legal title to property for the benefit of beneficiaries, who have equitable interests.
+  - Core authority: Commissioner of Taxation v Bamford (2010) 240 CLR 481.
+- Essential Elements of an Express Trust
+  - Trustee: Owes fiduciary duties (Trustee Act 1925 (NSW)).
+  - Trust Property: Identifiable, transferable property.
+  - Object: Identifiable beneficiaries or a charitable purpose.
+  - Equitable Obligation: Annexed to property.
+- Types of Trusts
+  - Fixed Trust	
+    - Beneficiaries’ shares fixed (e.g., "1/4 each to my 4 siblings").
+  - Discretionary Trust	
+    - Trustee has discretion to distribute among a class (e.g., "to those most in need").
+  - Bare Trust	
+    - Trustee holds property with no active duties.
+  - Charitable Trust	
+    - Purpose trust—must satisfy public benefit and charitable purpose.
+  - Unit Trust	
+    - Investment trust: beneficial interests divided into units.
+- Creation of Express Trusts
+  - Declaration: No transfer of legal title (e.g., Paul v Constance [1977] 1 WLR 527).
+  - Transfer: Settlor transfers legal title to trustee (inter vivos or by will).
+  - Direction: Beneficiary directs trustee to hold property for another (Grey v IRC).
+- Express v non-consensual trust
+  - Express = Intentional trust
+  - Non-consensual = Constructive trust, established as a remedy
+- Certainty Requirements (Knight v Knight (1840))
+  - 1. Certainty of Intention
+    - Must intend to create a trust objectively (Byrnes v Kendle (2011) 243 CLR 253).
+    - Subjective intention is irrelevant.
+  - 2. Certainty of Subject Matter
+    - Trust property must be identifiable (e.g., White v Shortall (2006) 68 NSWLR 650).
+    - Reasonable income: acceptable (Re Golay’s Will Trusts [1965] 2 All ER 660).
+  - 3. Certainty of Objects
+    - Must be specific individuals or a valid charitable purpose (Morice v Bishop of Durham (1804) 32 ER 656).
+- Certainty of Objects: Fixed vs Discretionary Trusts
+Trust Type
+Certainty Test
+Case Authority
+Fixed Trust
+List certainty
+West v Weston (1998) 44 NSWLR 657
+Discretionary Trust
+"Any given postulant" test
+McPhail v Doulton [1971] AC 424 (Re Baden No 1)
+
+  - Discretionary trusts valid if it can be said of any individual whether they are or are not within the class (McPhail).
+  - IRC v Broadway Cottages overruled for discretionary trusts.
+- Trust Powers vs Mere (Bare) Powers
+Feature
+Trust Power
+Mere (Bare) Power
+Obligation to Exercise
+Yes – must consider and act
+No – discretionary
+Enforceable by Court?
+Yes
+No (except for fraud/capriciousness)
+Test for Certainty
+“Any given postulant” test
+Same (post-McPhail)
+
+  - Key case: McPhail v Doulton [1971] AC 424
+  - Applied in Re Baden’s Deed Trusts (No 2) [1973] Ch 9 – Sachs, Megaw, and Stamp LJJ gave different interpretations.
+- Administrative Unworkability
+  - Concept: A class so wide that the trust is practically impossible to execute.
+  - E.g., “all residents of Greater London” (hypothetical in McPhail).
+  - Still debated—see Re Baden (No 2).
+- Charitable Trusts
+  - For purposes, not persons (A-G (NSW) v Perpetual Trustee Co Ltd (1940) 63 CLR 209).
+  - Exempt from:
+    - Beneficiary principle
+    - Rule against perpetuities
+  - Must satisfy the public benefit test (Re Compton [1945] Ch 123; Thompson v FCT (1959)).
+- Gifts with Equitable Personal Obligations
+  - Not a trust, but enforceable in equity.
+  - Example: Gill v Gill (1921) 21 SR (NSW) 400 – obligation to house and support sisters.
+- Key Statutory References
+  - Trustee Act 1925 (NSW) – trustee obligations.
+  - Perpetuities Act 1984 (NSW) – 80-year rule.
+  - Charities Act 2013 (Cth) – statutory definition of charity and public benefit.
+- Exam Answer Formula: Express Trusts
+  - Step 1: Has a Trust Relationship Been Created?
+    - A trust is a fiduciary relationship where a person (the trustee) holds legal title to property for the benefit of another (the beneficiary), who holds the equitable interest (Commissioner of Taxation v Bamford (2010) 240 CLR 481, [17]–[20]).
+    - To be a valid express trust, four core elements must be established:
+      - A trustee (a fiduciary with obligations arising from the trust);
+      - Identifiable trust property;
+      - A beneficiary or charitable purpose;
+      - A personal obligation attached to the property to deal with it for another's benefit.
+    - Compare with other relationships:
+      - Agency: Agent may owe fiduciary duties but does not necessarily hold on trust (Walker v Corboy (1990) 19 NSWLR 382).
+      - Debt: Debtor holds no specific property; obligation is to repay (Henry v Hammond [1913] 2 KB 515).
+      - Bailment: Bailee holds possession only, not legal title; no equitable interest arises (common law).
+      - Equitable personal obligation: These arise in equity but do not involve the separation of legal and beneficial title characteristic of trusts.
+  - Step 2: Apply the Three Certainties (Knight v Knight (1840) 3 Beav 148)
+    - 2.1 Certainty of Intention
+      - The intention to create a trust must be assessed objectively — would a reasonable person conclude, from the settlor’s words or conduct, that a trust was intended?
+      - Subjective intention is irrelevant (Byrnes v Kendle (2011) 243 CLR 253, per Heydon and Crennan JJ).
+      - Informal language can suffice if it indicates intention (Paul v Constance [1977] 1 WLR 527) – e.g. “the money is as much yours as mine”.
+      - Precatory words (e.g. “wish”, “hope”) do not create enforceable obligations (Gill v Gill (1921) 21 SR (NSW) 400).
+    - 2.2 Certainty of Subject Matter
+      - The property must be identifiable with precision — either as a discrete item or as a definable part of a whole.
+        - Shares from a homogenous parcel (e.g. 220,000 from 1.5 million) are sufficiently certain (White v Shorthall (2006) 68 NSWLR 650).
+        - Even a general entitlement like “reasonable income” is enforceable if it can be objectively assessed (Re Golay’s Will Trusts [1965] 2 All ER 660).
+    - 2.3 Certainty of Objects (Beneficiaries)
+      - A private trust must be for identifiable persons — not purposes — who can enforce it (Morice v Bishop of Durham (1804) 32 ER 656).
+        - Fixed Trusts: Must satisfy the list certainty test — it must be possible to list all beneficiaries (West v Weston (1998) 44 NSWLR 657).
+        - Discretionary Trusts: Must satisfy the “any given postulant” test — it must be possible to say of any individual whether they are or are not in the class (McPhail v Doulton [1971] AC 424).
+      - In Re Baden’s Deed Trusts (No 2) [1973] Ch 9:
+        - Sachs LJ: Conceptual certainty suffices; evidential uncertainty does not defeat the trust.
+        - Megaw LJ: Trust valid if a substantial number of beneficiaries are certain.
+        - Stamp LJ: Must be able to conclusively decide about each individual.
+      - Limitations:
+        - A class that is administratively unworkable (e.g. “all people in NSW”) will invalidate the trust (McPhail v Doulton [1971] AC 424).
+        - A capricious power (arbitrary or irrational selection criteria) will also fail (Re Manisty’s Settlement [1974] Ch 17).
+  - Step 3: How Was the Trust Created?
+    - 3.1 Declaration of Trust
+      - Where the settlor declares they hold property on trust for another, no transfer is required.
+        - Personal property can be declared orally (Paul v Constance [1977] 1 WLR 527).
+        - For land, the declaration must be in writing (Conveyancing Act 1919 (NSW) s 23C(1)(b)).
+    - 3.2 Transfer on Trust
+      - Where property is transferred to another to hold on trust:
+        - Transfer must comply with formalities (e.g. land registration, share transfer).
+        - A transfer via will vests on death.
+    - 3.3 Direction by Beneficiary
+      - A beneficiary of an existing trust can direct the trustee to hold their equitable interest for another.
+        - Such a disposition of a subsisting equitable interest must be in writing (Grey v IRC [1960] AC 1).
+        - Exception: No writing required where both legal and equitable title are transferred (Vandervell v IRC [1967] 2 AC 291).
+  - Step 4: Is It a Trust Power or Mere Power?
+    - Where the settlor gives discretion to choose among beneficiaries:
+      - If the person must exercise the discretion → trust power (McPhail v Doulton [1971] AC 424).
+      - If the person may exercise it, with a gift over in default → mere power (Re Gulbenkian’s Settlement Trusts [1970] AC 508).
+    - Tests from Re Leek (Dec’d) [1967] 2 All ER 1160:
+      - “Shall” + no gift over = trust power.
+      - “May” + gift over = mere power.
+    - Consequences:
+      - Trust power → must be exercised; court may compel performance.
+      - Mere power → optional; court cannot compel exercise unless bad faith.
+      - Both subject to “is or is not” test for certainty (Re Baden’s Deed Trusts (No 2) [1973] Ch 9).
+  - Step 5: Resulting Trusts – What if the Trust Fails?
+    - If a trust fails due to uncertainty, illegality, or non-constitution:
+      - The property results back to the settlor or testator’s estate (Vandervell v IRC [1967] 2 AC 291).
+      - This operates as a presumption of continued beneficial ownership, particularly in Australian law.
+  - Step 6: Formalities and Constitution
+    - 6.1 Constitution
+      - The trust must be properly constituted — legal title must vest in the trustee.
+      - If the transfer is incomplete, the maxim applies: “Equity will not assist a volunteer” (Milroy v Lord (1862) 4 De G F & J 264).
+      - Exception: Where the donee becomes executor and the gift is perfected (Strong v Bird (1874) LR 18 Eq 315).
+    - 6.2 Formalities
+      - Declaration over land: must be in writing (Conveyancing Act 1919 (NSW) s 23C(1)(b)).
+      - Disposition of existing equitable interest must also be in writing (Grey v IRC [1960] AC 1).
+      - UK LPA 1925 s 53(1)(c) is persuasive authority in NSW.
+  - Step 7: Public Policy, Illegality, and Perpetuity
+    - A trust will fail if it promotes illegality or is contrary to public policy (e.g. restraining marriage).
+    - Must vest within the perpetuity period (Perpetuities Act 1984 (NSW) ss 7–9) → 80 years maximum.
+  - Step 8: Is It a Valid Charitable Trust?
+    - A trust for purposes (not persons) will only be valid if it is charitable.
+    - Key Features:
+      - No need for human beneficiaries (Morice v Bishop of Durham (1804) 32 ER 656).
+      - Must fall within one of the Pemsel categories (Commissioners for Special Purposes of Income Tax v Pemsel [1891] AC 531):
+        - Relief of poverty
+        - Advancement of education
+        - Advancement of religion
+        - Other purposes beneficial to the community
+        - Must satisfy the public benefit test (Re Compton [1945] Ch 123).
+    - Exceptions:
+      - Relief of poverty does not need to satisfy the Compton test (Dingle v Turner [1972] AC 601).
+      - Political purposes are not charitable (Bowman v Secular Society Ltd [1917] AC 406).
+      - But public debate in service of a charitable aim is acceptable (Aid/Watch Inc v Commissioner of Taxation (2010) 241 CLR 539).
+    - Modern Statutory Framework:
+      - Charities Act 2013 (Cth):
+        - s 5: Definition of charity
+        - s 12: Recognised charitable purposes
+        - s 11: Disqualifying purposes (e.g. political party advocacy)
+- Step 9: Example Case – Aboriginal Housing Office v Jacky [2022] NSWSC 918
+    - Trust for Dunghutti Aboriginal families, administered by AHO.
+    - Trust held not to be charitable:
+      - Beneficiaries defined by personal connection (failed Re Compton test).
+      - Purposes included housing and welfare, but not exclusively for poverty relief.
+    - Held to be a valid private discretionary trust, not a charitable trust.
+### Week 8: Trustee Duties, Rights and Liabilities, and Rights of Beneficiaries
+
+- 1. Sources of Trustee Duties and Powers
+  - Trust instrument (e.g. deed of trust)
+  - General equitable principles (fiduciary duties)
+  - Statute:
+    - Trustee Act 1925 (NSW)
+    - Superannuation Industry (Supervision) Act 1993 (Cth)
+    - Corporations Act 2001 (Cth) (Ch 5C – managed investment schemes)
+- 2. Duties vs Powers
+  - Duty = must act or refrain (mandatory)
+  - Power = may act (discretionary)
+- 3. Principal Trustee Duties
+  - Adhere to terms of the trust
+    - Youyang v Minter Ellison (2003) – strict compliance required
+    - Turner v Turner [1984] – honesty is no defence to breach
+    - Subject to:
+      - Court directions (s 63, s 81 Trustee Act)
+      - Saunders v Vautier (if beneficiaries are sui juris + absolutely entitled)
+  - Get in trust assets (debts are paid)
+    - Associated Alloys (2000) – trustee must take control of trust property
+  - Keep trust property separate
+    - Associated Alloys – assets must not be mixed with personal funds
+  - Keep and render accounts
+    - Byrnes v Kendle (2011) – core and ongoing duty
+  - Provide information to beneficiaries
+    - Fixed beneficiaries: Hawkesley v May
+    - Discretionary beneficiaries: No general right – Schmidt v Rosewood, Segelov v EY
+    - Debate on trust documents: proprietary vs discretionary right
+      - Schmidt, Hartigan Nominees, Avanes, McDonald v Ellis, Palmer v Ayres, Rinehart v Rinehart
+  - Exercise due care and skill
+    - Speight v Gaunt (1883) – prudent person standard
+    - s 14A Trustee Act: higher standard for professional trustees
+  - Act impartially
+    - Between beneficiaries and classes (e.g. life tenant vs remainderman)
+    - s 14B(2) Trustee Act
+  - Act personally
+    - No delegation of discretionary powers
+    - Can engage professionals if proper care taken (Speight v Gaunt)
+    - s 64 Trustee Act allows delegation with limits
+  - Invest trust property prudently
+    - Byrnes v Kendle (2011), Cowan v Scargill [1985]
+    - s 14A–14C Trustee Act – duties and relevant investment criteria
+  - Consider exercise of powers
+    - Trustee must periodically consider powers
+    - Re Hay’s Settlement Trusts [1982], Karger v Paul
+- 4. Liability for Breach of Duty
+  - Remedies:
+    - Equitable compensation (for loss)
+    - Account of profits (if profit gained)
+    - Injunction, removal of trustee	
+  - Improper exercise of power:
+    - Wareham v Marsella (2020) – ignorance/inappropriate self-dealing invalidates decision
+  - Excusable breach:
+    - s 85 Trustee Act: honest + reasonable + ought fairly be excused
+  - Exculpation clauses:
+    - Armitage v Nurse [1998] – fraud/dishonesty cannot be excluded
+    - Must still adhere to irreducible core of trustee duties
+- 5. Trustee Rights and Indemnity
+  - Trustee personally liable for trust debts: Vacuum Oil v Wiltshire (1945)
+  - Right of indemnity:
+    - Recoupment – for own outlay
+    - Exoneration – to apply trust assets directly
+    - Carter Holt Harvey (2019) – supported by equitable lien
+    - Must be properly incurred:
+      - Gatsios Holdings, Re Raybould, Nolan v Collie
+    - Limitations:
+      - Fraud or ultra vires conduct is not indemnifiable
+      - Beneficiaries not liable personally (s 100A Trustee Act)
+- 6. Judicial Advice
+  - s 63 Trustee Act: trustee may seek court’s advice
+  - If followed in good faith, trustee protected from liability
+  - Macedonian Orthodox Church v Bishop – wide scope, applies to interpretation, litigation, management
+- 7. Rights of Beneficiaries
+  - Fixed beneficiaries:	
+    - Enforce trust
+    - Compel trustee to act
+    - Demand accounts
+    - Restrain breach
+    - Remove trustee (Miller v Cameron (1936))
+    - Trace misapplied property (Foskett v McKeown [2001], Grimaldi)
+    - Extinguish trust under Saunders v Vautier
+      - All must be sui juris and absolutely entitled
+      - CPT Custodian (2005) – trustee’s indemnity must be satisfied first
+        - All beneficiaries must be sui juris — that is, of legal age and full capacity.
+        - If multiple beneficiaries are involved, each must be sui juris (CPT Custodian).
+        - Beneficiaries must hold an absolute and indefeasible interest — not just a discretionary or contingent one.
+        - In the case of discretionary trusts, the rule can still apply if all objects are sui juris and act collectively and unanimously (Sir Moses Montefiore Jewish Home).
+  - Discretionary beneficiaries:
+    - Limited rights – no entitlement to distribution
+    - May challenge exercise of discretion if bad faith, 	capriciousness, or failure to consider properly (Karger v Paul)
+    - Closer review in super context: Finch v Telstra Super (2010)
+- 🧠 Exam Scaffold – Trustee Duties and Liabilities
+  - 0. Confirm that a Valid Trust Exists – Apply the Three Certainties Test
+    - A trust will only be valid if the three certainties are satisfied:
+      - Certainty of Intention – Did the settlor objectively intend to create a trust (not a mere gift or power)?
+        - Intention is objectively determined from words and conduct, not subjective purpose.
+        - E.g. saying "on trust" or imposing a duty can show intention.
+        - A settlor’s private reasons (e.g. tax avoidance) are irrelevant if clear trust terms exist.
+      - Certainty of Subject Matter – Is the trust property clearly identified and capable of being held on trust?
+        - E.g. specific assets like land, shares, or a bank account can satisfy this.
+      - Certainty of Objects (Beneficiaries) – Are the beneficiaries clearly identifiable or within a defined class?
+        - For fixed trusts → must be possible to draw up a complete list.
+        - For discretionary trusts → must be conceptually certain.
+    - If all three certainties are met, proceed to trustee obligations.
+  - 1. Identify the source of the trustee's duty or power
+    - Trust deed? → express term
+    - Equity? → fiduciary and equitable duties
+    - Statute → Trustee Act 1925 (NSW), esp.:  – s 14A–14C (investment duties)
+      - – s 63 (judicial authorisation)
+      - – s 85 (statutory relief from breach)
+  - 2. Identify the specific duty or power at issue
+    - Examples include:
+      - Duty to obey terms of the trust – must act in accordance with deed
+      - Duty to act personally (no delegation): Speight v Gaunt
+      - Duty to invest prudently – modern trustee investment duty: s 14A Trustee Act; Byrnes v Kendle
+      - Duty to act impartially – especially in discretionary or split-beneficiary trusts: s 14B Trustee Act
+      - Duty to provide information and account to beneficiaries: Schmidt v Rosewood, Hawkesley v May
+      - Fiduciary duties – loyalty, no profit, no conflict
+  - 3. Assess compliance or breach
+    - Has the duty been performed? Or was there a breach?
+    - Did trustee act with proper care? → Prudent person test: Speight v Gaunt
+    - Was power exercised improperly? → Karger v Paul test:
+      - Real and genuine consideration?
+      - In good faith?
+      - Not for improper purpose?
+    - If the trustee failed to act prudently → compare to the prudent person standard:  
+      - – Would an ordinary prudent person have acted this way in managing another’s affairs?
+    - Did the trustee act impartially between beneficiaries?
+  - 4. Consider trustee’s defences or relief
+    - Statutory relief: s 85 Trustee Act — honest + reasonable + fair to excuse
+    - Exculpation clause? (Armitage v Nurse — no protection for fraud, dishonesty, or bad faith.)
+  - 5. Apply appropriate remedies
+    - Compensation for loss: equitable compensation
+    - Profits stripped: account of profits
+    - Restrain breach: injunction
+    - Serious breach: removal (Miller v Cameron)
+    - Improper discretion: decision void → Wareham v Marsella
+  - 6. Check indemnity or reimbursement rights
+    - Is expense "properly incurred"? → Gatsios Holdings, Re Raybould
+      - – Within scope of the trust
+      - – Not tainted by breach or misconduct
+    - Indemnity via:
+      - Recoupment – reimbursement for trustee’s own outlays from trust assets
+      - Exoneration – pay trust creditors directly from trust assets
+    - Equitable lien secures indemnity: Carter Holt Harvey
+  - 7. Assess beneficiary rights
+    - Fixed Beneficiaries (with defined entitlements):
+      - Enforce trust → compel action
+      - Demand accounts → Byrnes v Kendle
+      - Extinguish trust → Saunders v Vautier, CPT Custodian
+      - Trace property → Foskett v McKeown
+    - Discretionary beneficiary:
+      - Challenge bad-faith discretion only → Karger, Finch v Telstra Super
+      - Cannot demand distributions
+      - Can challenge trustee decisions only if:  
+        - – Made in bad faith
+        - – Without genuine consideration
+        - – Or for an improper purpose
+### Week 9: Resulting Trusts
+
+- 1. What is a Resulting Trust?
+  - Definition:
+    - A resulting trust is an equitable inference drawn from facts that indicate no intention to benefit the transferee.
+    - It reallocates the onus of proof to the legal titleholder to disprove that they hold on trust:
+      - Cossey v Bach [1992] 3 NZLR 612, 630 (Fisher J)
+      - Bosanac v Cth [2022] HCA 34 at [105]–[106]
+    - Types:
+      - Presumed Resulting Trusts:
+        - Arise from voluntary transfers or where one party contributes to purchase money but is not named on title.
+      - Automatic Resulting Trusts:
+        - Arise where there is failure to properly dispose of beneficial interest (e.g. failed trust, surplus trust funds).
+- 2. Nature & History
+  - Institutional in nature:
+    - Not remedial – they arise automatically at time of transaction (DKLR Holdings (1982) 149 CLR 431, 463–4).
+  - No need for writing:
+    - Conveyancing Act 1919 (NSW) s 23C(2) – excludes resulting trusts from writing requirement.
+  - Historical origin:
+    - Developed to avoid feudal escheat and reflect informal "uses" – see Bosanac [2022] HCA 34 at [96].
+- 3. Presumed Resulting Trusts – Subtypes
+  - 3.1 Purchase Money Resulting Trust
+    - When: A pays (part of) the purchase price for property registered in B’s name.
+    - Presumption: B holds on trust for A to the extent of A’s contribution.
+    - Leading case: Calverley v Green (1984) 155 CLR 242.
+  - 3.2 Voluntary Transfer Resulting Trust
+    - When: A voluntarily transfers property to B with no consideration.
+    - Presumption: B holds on resulting trust for A unless rebutted.
+    - Statutory exception: Conveyancing Act 1919 (NSW) s 44 (voluntary transfer of land cannot give rise to resulting trust).
+    - Case: Newcastle CC v Kern Land (1997) 42 NSWLR 273 – presumption barred for Torrens land.
+- 4. Core Elements of Presumed Resulting Trust
+  - Legal title held by transferee (B)
+  - Contribution to purchase price or transfer by transferor (A)
+  - Absence of express intention to gift or create beneficial ownership in B
+  - No presumption of advancement applies, or it is rebutted
+  - Presumption can be rebutted by evidence of intention to benefit B
+- 5. Presumption of Advancement
+  - Reverses presumption of resulting trust in limited relationships:
+    - Husband → Wife
+    - Parent → Child
+    - Male fiancé → Female fiancée
+    - Not: Wife → Husband, De Facto, Same-sex partners
+  - Leading authority: Wirth v Wirth (1956) 98 CLR 228; Bosanac [2022] HCA 34 – remains a “weak” presumption.
+  - Effect: Precludes the resulting trust from arising (Soar v Foster (1858) 4 K&J 152).
+  - Can be rebutted by slight evidence of contrary intention (Anderson v McPherson [2012] WASC 19).
+- 6. Rebutting the Presumption
+  - Rebuttal must show an intention to:
+    - Make a gift
+    - Recognise beneficial ownership in transferee
+  - Admissible evidence:
+    - Contemporaneous discussions
+    - Course of conduct
+    - Written agreements (Zhang v Metcalf [2020] NSWCA 228)
+  - Cannot rely solely on uncommunicated subjective intentions
+- 7. Case Examples: Presumed Resulting Trust
+  - 7.1 Calverley v Green (1984) 155 CLR 242
+    - Resulting trust based on contributions: mortgage contributions did not affect beneficial title.
+  - 7.2 Bosanac v Commissioner of Taxation [2022] HCA 34
+    - Presumption of advancement not rebutted
+    - Held: no resulting trust arose in favour of husband.
+  - 7.3 Anderson v McPherson [2012] WASC 19
+    - No presumption of advancement from parents → daughter-in-law
+    - Presumption of resulting trust rebutted on six evidentiary grounds
+  - 7.4 Cummins v Cummins (2006) 227 CLR 278
+    - Property acquired as joint tenants by spouses – held: equal beneficial interests despite unequal contributions.
+  - 7.5 Buffrey v Buffrey (2006) 12 BPR 23,619
+    - Unequal contributions gave rise to a resulting trust – not rebutted.
+    - Presumption of advancement rebutted by husband’s evidence.
+- 8. Illegality & Resulting Trusts
+  - A's illegal purpose in transferring property to B does not necessarily bar resulting trust claim:
+    - Nelson v Nelson (1995) 184 CLR 538
+      - Focus: whether recognising the trust would frustrate the statute's object.
+      - Relevant test: proportionality + necessity.
+- 9. Automatic Resulting Trusts
+  - Arise when:
+    - Express trust fails or is incomplete
+    - Trust purpose is exhausted, but surplus remains
+  - Examples:
+    - Re Abbott Fund [1900] 2 Ch 326 – surplus returned to subscribers
+    - Air Jamaica v Charlton [1999] 1 WLR 1399 – surplus pension funds returned pro rata
+    - Vandervell v IRC [1967] 2 AC 291 – option not effectively disposed of → resulted back
+- 10. Quistclose Trusts
+  - Special-purpose trusts over funds advanced conditionally
+  - Trust arises when:
+    - 1. Money is provided for a specific purpose
+    - 2. Purpose fails or is not carried out
+  - May be seen as:
+    - Two-limbed express trust (Re Australian Elizabethan Theatre Trust (1991) 30 FCR 491)
+    - Resulting trust when purpose fails (Twinsectra v Yardley [2002] 2 AC 164)
+  - Key factors:
+    - Fund held in a separate account
+    - Recipient has no beneficial interest
+    - Intention to create a fiduciary duty
+- Exam Answer Formula: Presumed Resulting Trusts
+  - Step 1: Identify the Nature of the Transaction and Legal/Equitable Title
+    - Determine whether the property was:
+      - Voluntarily transferred by A to B with no consideration (Voluntary Transfer Resulting Trust).
+      - Purchased by A in B’s name, or jointly, using A’s funds (Purchase Money Resulting Trust).
+        - Calverley v Green (1984) 155 CLR 242: The presumption arises where one party contributes to the purchase price but does not receive legal title.
+    - Establish:
+      - Who holds legal title?
+      - Who made direct contributions to the deposit, stamp duty, legal fees, and mortgage liability (not repayments)?
+        - Buffrey v Buffrey (2006) 12 BPR 23,619: A party contributes to the acquisition cost by providing the deposit or borrowing jointly for the purchase, but not by making mortgage repayments later.
+  - Step 2: Determine Whether the Presumption of Resulting Trust Arises
+    - A presumed resulting trust arises where:
+      - 1. A pays (wholly or in part) for property in B’s name, and
+      - 2. There is no contrary evidence of an intention to gift.
+    - Purpose of the presumption:
+      - Allocates burden of proof by inferring a trust in the absence of clear intention (Bosanac v Commissioner of Taxation [2022] HCA 34, [105]).
+    - Objective inquiry:
+      - Courts examine the words and conduct at the time of the transaction, not later conduct (Bosanac, [106]).
+  - Step 3: Assess Whether the Presumption of Advancement Displaces the Resulting Trust
+    - Equity may presume that the legal title holder is intended to take beneficially where:
+      - Husband → Wife (Wirth v Wirth (1956) 98 CLR 228),
+      - Parent → Child (Murless v Franklin (1818) 1 Swan 13),
+      - Male fiancé → Female fiancé.
+    - This presumption:
+      - Precludes a resulting trust from arising, unless rebutted by evidence of a contrary intention (Soar v Foster (1858) 4 K&J 152).
+      - Does not apply to:
+        - Wife → Husband,
+        - De facto couples,
+        - Same-sex couples (Anderson v McPherson (No 2) [2012] WASC 19).
+    - The presumption is “weak” and readily rebutted:
+      - Bosanac, [31]: Courts are more willing to draw inferences from modern arrangements that deviate from traditional gender roles and property norms.
+  - Step 4: Rebutting the Presumptions – Intention and Objective Evidence
+    - The key question:
+      - Did the person contributing to the purchase intend to make a gift?
+      - What was the intention of the donor at the time of the transaction?
+    - Evidence that may rebut the presumption:
+      - Statements made at the time of purchase (Russell v Scott (1936) 55 CLR 440 – a statement that the other party could take the balance if funds remained rebutted the trust),
+      - Pattern of financial separation (Bosanac, [30]),
+      - Written agreements or arrangements indicating equal or unequal beneficial interests (Zhang v Metcalf [2020] NSWCA 228),
+      - Relationship dynamics and obligations (Buffrey v Buffrey – no gift intention found).
+    - The rebuttal must be established by the party who made the financial contribution (Anderson v McPherson, [157] – six objective factors rebutted the presumption).
+  - Step 5: Determine the Beneficial Interests at the Time of the Transaction
+    - A resulting trust arises at the time of acquisition, not later:
+      - DKLR Holding Co (No 2) Pty Ltd v Commissioner of Stamp Duties (NSW) (1982) 149 CLR 431 – the equitable interest arises at the moment of the transaction.
+    - Contributions to mortgage repayments made after purchase do not affect the beneficial interest (though may be relevant in equitable accounting):
+      - Calverley v Green – repayments after acquisition may support equitable relief but do not alter the original share.
+  - Step 6: Consider Illegality and Public Policy Implications (If Applicable)
+    - Where property is transferred for an illegal purpose, a resulting trust may still be recognised unless doing so would undermine the purpose of the statute:
+      - Nelson v Nelson (1995) 184 CLR 538:
+        - Resulting trust upheld despite a false declaration made to obtain a housing benefit loan.
+        - Relief was permitted because denying it would not serve the statute’s public policy goals.
+    - The test:
+      - Does enforcing the resulting trust frustrate the object of the law? If not, it may still be enforced.
+  - Step 7: Confirm Final Allocation of Equitable Title
+    - If presumption not rebutted:
+      - Equitable interests are proportionate to purchase contributions (Calverley v Green).
+    - If presumption rebutted:
+      - Legal title reflects full beneficial ownership (i.e., gift or trust not intended).
+    - Apply adjustments (if necessary) for:
+      - Equitable accounting due to mortgage repayments (Calverley v Green),
+      - Financial support for maintenance, home improvements (Buffrey v Buffrey).
+  - Step 8: If Express Trust Fails – Apply Automatic Resulting Trust
+    - Where an express trust fails or is incomplete, the beneficial interest reverts to the settlor:
+      - Re Abbott Fund [1900] 2 Ch 326 – funds remaining after beneficiaries’ death returned to donors.
+      - Air Jamaica Ltd v Charlton [1999] 1 WLR 1399 – surplus pension contributions returned pro rata.
+    - Principle:
+      - Equity does not allow beneficial interest to remain “in suspense” – it “results back” to the contributor.
+  - Step 9: Consider Quistclose-Type Trust Where Money Is Provided for a Purpose
+    - If A gives B money for a specific purpose, and:
+      - The money is kept separate, and
+      - The purpose fails,
+      - Then B holds it on resulting trust for A.
+    - Barclays Bank v Quistclose Investments Ltd [1970] AC 567:
+      - Money loaned to pay a dividend was held on trust when the purpose failed.
+    - Twinsectra Ltd v Yardley [2002] 2 AC 164:
+      - Trust arises at the time of the transfer – defeasible if the money is used for its purpose.
+    - If not kept separate, or if beneficial interest is transferred, no trust arises:
+      - Coolbrew Pty Ltd v Westpac Banking Corp [2015] NSWCA 135 – no trust due to express provision that funds were held beneficially by recipient.
+      - Raulfs v Fishy Bite Pty Ltd [2012] NSWCA 135 – no trust found where partnership funds were paid into a general account without restrictions.
+### Week 10: Constructive Trusts
+
+- 1. What is a Constructive Trust?
+  - Definition: A trust imposed by operation of law, not intention, where it would be unconscionable or fraudulent in equity for a legal titleholder to deny beneficial ownership to another.
+    - Beatty v Guggenheim Exploration Co (1919) 122 NE 378
+    - Paragon Finance v DB Thakerar [1999] 1 All ER 400 – must distinguish constructive trust from personal liability "as if a trustee"
+  - Types:
+    - Institutional: Arises automatically from the time of conduct (not discretionary)
+    - Remedial: Arises by judicial discretion, typically from date of judgment (Muschinski v Dodds (1985) 160 CLR 583)
+- 2. Key Features
+  - No formalities required: Conveyancing Act 1919 (NSW) s 23C(2)
+  - Distinct from:
+    - Express trust: Based on intention
+    - Resulting trust: Based on failure of intention or presumed intention
+    - Personal remedies: No proprietary remedy (e.g., Paragon Finance)
+- 3. Institutional Constructive Trusts – Categories
+  - 3.1. Common Intention Constructive Trusts
+    - 3.1.1. Legal Test
+    - Allen v Snyder [1977] 2 NSWLR 685; Shepherd v Doolan [2005] NSWSC 42
+      - 1. Common intention (express or inferred)
+      - 2. Detrimental reliance by claimant 
+      - 3. It would be unconscionable to deny the interest
+    - 3.1.2. Evidence of Intention
+      - Direct: promises, agreements
+      - Inferred: financial or substantial contributions to acquisition or mortgage (Green v Green (1989) 17 NSWLR 343)
+      - Mere domestic contributions insufficient (Pettitt v Pettitt [1970] AC 777)
+    - 3.1.3. Quantum of Interest
+      - Based on intention or inference
+      - If unclear: presumption of equality, subject to disproportionality or contributions (Shepherd v Doolan)
+    - 3.1.4. Timing
+      - Arises from date of detrimental reliance (Parsons v McBain (2001) 109 FCR 120)
+  - 3.2. Constructive Trusts Over Stolen or Misappropriated Property
+    - 3.2.1. Legal Principle
+      - Arises immediately upon misappropriation; binds conscience of thief
+      - Black v Freedman (1910) 12 CLR 105
+      - Wambo Coal v Ariff [2007] NSWSC 589: trust arises once recipient knows of mistake or fraud
+    - 3.2.2. Volunteer Recipients
+      - Must return property once aware of fraud (Heperu v Belle (2009) 76 NSWLR 230)
+      - Knowledge converts innocent recipient into constructive trustee
+  - 3.3. Constructive Trusts to Enforce Mutual Wills
+    - Birmingham v Renfrew (1937) 57 CLR 666
+    - Contract between A and B to benefit X may crystallise into a trust over surviving property when the second party dies
+    - Floating obligation → trust upon death (Barns v Barns (2003) 214 CLR 169)
+  - 3.4. Over Contracted Interests in Land
+    - Chang v Registrar of Titles (1976) 137 CLR 177
+    - Specifically enforceable contracts of sale: vendor holds legal title on constructive trust for purchaser
+  - 3.5. Breach of Fiduciary Duty
+    - Fiduciary who acquires benefit holds it on constructive trust
+    - Chan v Zacharia (1984) 154 CLR 178
+    - Bribes:
+      - English law: institutional constructive trust (AG for HK v Reid [1994] 1 AC 324; FHR European Ventures [2015] AC 250)
+      - Australian law: remedial only (Grimaldi v Chameleon Mining (No 2) (2012) 200 FCR 296)
+- 4. Remedial Constructive Trusts – Failure of Joint Endeavour
+  - 4.1. Legal Principle
+    - Recognised in Muschinski v Dodds (1985) 160 CLR 583 per Deane J
+    - Based on unconscionability when:
+      - 1. There is a joint endeavour
+      - 2. That fails without attributable blame
+      - 3. One party would unjustly retain benefit of the other’s contributions
+  - 4.2. Confirmed in:
+    - Baumgartner v Baumgartner (1987) 164 CLR 137
+  - 4.3. Factors:
+    - Relationship ≠ automatic joint endeavour (e.g., Barker v Linklater [2008] 1 Qd R 405)
+    - Contribution must relate to acquisition or improvement
+    - Non-financial contributions relevant (but must impact property value): Brown v George [1999] FCA 285
+    - Contributions given with no intent of benefit, or for joint purpose, are recoverable
+  - 4.4. Limitations:
+    - Relationship breakdown ≠ unconscionability unless one party unjustly benefits
+    - Must be unjust enrichment coupled with joint venture collapse
+    - Cannot be used for “fairness” alone (Deane J in Muschinski)
+- 5. Constructive Trusts as Remedy – Other Settings
+  - 5.1. Proprietary Estoppel
+    - Constructive trust imposed if:
+      - Promise + Reliance + Detriment
+      - Remedy proportionate to detriment
+    - Key Cases:
+      - Giumelli v Giumelli (1999) 196 CLR 101
+      - Sidhu v Van Dyke (2014) 251 CLR 505
+  - 5.2. Family or Commercial Property Disputes
+    - Zhang v Metcalf [2020] NSWCA 228
+      - Resulting trust: Proportionate to financial contributions
+      - Common intention constructive trust rejected due to Deed
+    - Lee v Li [2022] NSWSC 1336
+      - Repeated application of common intention constructive trust in complex familial property context
+- 6. Summary – Institutional v Remedial Constructive Trusts
+Feature
+Institutional
+Remedial
+Timing
+Arises at time of conduct
+From date of judgment
+Discretionary?
+No – arises automatically
+Yes – remedy imposed by court
+Recognition
+UK + Australia
+Australia only
+Examples
+Theft, fraud, common intention
+Failed joint ventures, proprietary estoppel, equitable remedies
+- Week 10 - Exam scaffold
+  - 1. Is the dispute properly before the court?
+    - 1.1. Standing
+      - The plaintiff must have a direct, special interest in the property or relief sought (Australian Conservation Foundation v Commonwealth (1980) 146 CLR 493).
+      - In constructive trust cases, the interest claimed must be proprietary or equitable in nature.
+    - 1.2. Jurisdiction
+      - If equity relief (constructive trust) is sought → NSWSC has original jurisdiction (Supreme Court Act 1970 (NSW) s 23).
+      - If federal jurisdiction arises (e.g., diversity of parties or federal statute): relevant rules apply (e.g., Judiciary Act 1903 (Cth) s 39).
+  - 2. What Type of Constructive Trust is Alleged?
+    - 2.1. Institutional Constructive Trust (Non-Discretionary)
+      - Arises automatically by operation of law from time of facts giving rise to it.
+      - Relevant where:
+        - 2.1.1. Common intention
+        - 2.1.2. Misappropriation (e.g., theft/fraud)
+        - 2.1.3. Mutual wills
+        - 2.1.4. Breach of fiduciary duty
+      - Westdeutsche Landesbank v Islington LBC [1996] AC 669, 714.
+    - 2.2. Remedial Constructive Trust (Discretionary)
+      - Arises from date of judgment.
+      - Available to prevent unconscionable retention of benefit (Muschinski v Dodds (1985) 160 CLR 583; Baumgartner v Baumgartner (1987) 164 CLR 137).
+  - 3. Identify the Grounds and Apply the Relevant Test
+    - 3.1. Common Intention Constructive Trust
+      - 3.1.1. Legal Test
+        - 1. Express or inferred common intention (Allen v Snyder [1977] 2 NSWLR 685).
+        - 2. Detrimental reliance by plaintiff (Green v Green (1989) 17 NSWLR 343).
+        - 3. Unconscionable to deny interest (Shepherd v Doolan [2005] NSWSC 42).
+      - 3.1.2. Application to Facts
+        - Identify any express promises, shared plans, contributions (financial/non-financial).
+        - Contributions to purchase or mortgage repayments may infer intention (Pettitt v Pettitt [1970] AC 777).
+        - Mere domestic contributions insufficient without connection to acquisition (Shepherd v Doolan).
+    - 3.2. Constructive Trust over Misappropriated Property
+      - 3.2.1. Legal Test
+        - Property stolen or acquired by fraud → thief holds on constructive trust for true owner (Black v Freedman (1910) 12 CLR 105).
+        - Innocent volunteer who later gains knowledge → liable from point of knowledge (Heperu v Belle (2009) 76 NSWLR 230).
+      - 3.2.2. Application
+        - Examine whether property was obtained by theft, fraud, or mistake.
+        - Traceability is critical for recovery in equity (Wambo Coal v Ariff (2007) 63 ACSR 429).
+    - 3.3. Constructive Trust to Enforce Mutual Wills
+      - 3.3.1. Legal Test
+        - Where mutual wills agreement is made, survivor holds deceased’s property on constructive trust for intended beneficiary (Birmingham v Renfrew (1937) 57 CLR 666).
+      - 3.3.2. Application
+        - Identify any enforceable contract between testators.
+        - Trust crystallises on death of surviving party (Barns v Barns (2003) 214 CLR 169).
+    - 3.4. Constructive Trust Over Contracted Interests (Sale of Land)
+      - 3.4.1. Legal Test
+        - Vendor holds property on trust for purchaser after receipt of consideration under specifically enforceable contract (Chang v Registrar of Titles (1976) 137 CLR 177).
+    - 3.5. Breach of Fiduciary Duty
+      - 3.5.1. Legal Test
+        - Fiduciary gains benefit in breach of duty → holds on constructive trust (Chan v Zacharia (1984) 154 CLR 178).
+        - Bribes in Australia: discretionary remedial trust (Grimaldi v Chameleon Mining (No 2) (2012) 200 FCR 296).
+    - 3.6. Remedial Constructive Trust – Failure of Joint Endeavour
+      - 3.6.1. Legal Test (Muschinski v Dodds; Baumgartner)
+        - 1. Joint venture or relationship with joint contributions.
+        - 2. Breakdown without attributable blame.
+        - 3. Unconscionable for one to retain benefit.
+      - 3.6.2. Application
+        - Examine:
+          - Pooling of resources (e.g., joint bank accounts, loan repayments)
+          - Contributions to purchase or improvement of property
+          - Was there unjust enrichment at breakdown?
+        - Zhang v Metcalf [2020] NSWCA 228: deed may rebut presumption of trust.
+        - Lee v Li [2022] NSWSC 1336: property traced to actual contributions and agreements.
+  - 4. Timing of Trust Arising
+    - 4.1. Institutional Constructive Trust
+      - Arises at time of relevant events (e.g., detrimental reliance, misappropriation).
+    - 4.2. Remedial Constructive Trust
+      - Arises at date of judgment; court exercises discretion.
+  - 5. Is There a Proprietary Remedy Appropriate?
+    - Proprietary remedy (trust) should be proportional to detriment suffered (Giumelli v Giumelli (1999) 196 CLR 101; Sidhu v Van Dyke (2014) 251 CLR 505).
+    - Court may award monetary compensation if constructive trust inappropriate (e.g., unfair to third parties).
+  - 6. Relief and Final Orders
+    - 6.1. If Constructive Trust Established
+      - Declaration of trust
+      - Order for transfer of property or sale and division of proceeds
+    - 6.2. If Trust Inappropriate
+      - Equitable compensation or money judgment
+      - Equitable lien or charge as alternative remedy
+### Week 11: Money Remedies Account of Profits and Equitable Compensation
+
+- 1. Personal vs Proprietary Remedies
+  - 1.1. Proprietary Remedies: attach to specific property
+    - Constructive Trust:
+      - Property held on trust due to unconscionable retention (e.g., breach of fiduciary duty)
+    - Types:
+      - Institutional CT: arises automatically due to existing circumstances (e.g., breach of duty)
+      - Remedial CT: declared by court to remedy unconscionable conduct (Baumgartner v Baumgartner (1987) 164 CLR 137)
+    - Common Intention Constructive Trust (CICT):
+      - Based on shared intention and detrimental reliance (Muschinski v Dodds (1985) 160 CLR 583)
+    - Equitable Lien:
+      - Right to secure repayment via specific property; can arise from failed joint ventures, improvements to land (Hewett v Court (1983) 149 CLR 639)
+    - Tracing:
+      - Process of identifying misapplied property in its changed form (Foskett v McKeown [2001] 1 AC 102)
+      - Available in equity where fiduciary relationship or breach of trust is established.
+- 2. Personal Remedies
+  - 2.1. Account of Profits: gain-based equitable relief
+    - Purpose: Prevent fiduciary from profiting through breach (Warman v Dwyer (1995) 182 CLR 544)
+    - Nature: Not restitutionary, not compensatory — prophylactic (deterrent)
+    - Availability:
+      - Breach of fiduciary duty, trust, or confidence
+      - Knowing assistance (Ancient Order of Foresters v Lifeplan [2018] HCA 43)
+    - Key Elements:
+      - Net profits only (not punitive)
+      - Onus on defendant to show:
+        - Entitlement to allowance (skill, effort)
+        - Profits outside scope of wrongdoing
+    - Causation: "As a result of" the breach — not strict “but for” (Lifeplan [2018] HCA 43 at [9])
+    - Case Examples:
+      - Warman v Dwyer: Joint venture profit; 2-year account only due to defendant’s own skill/resources
+      - Lifeplan: $14.8M capital value disgorged for business built on breach
+      - Victoria University of Technology v Wilson (2006) 68 IPR 597: Allowance calculated with reference to university policy
+  - 2.2. Equitable Compensation: loss-based relief
+    - Purpose: Restore plaintiff to position absent breach (Nocton v Lord Ashburton [1914] AC 932)
+    - Types:
+      - Substitutive: breach of custodial duty (e.g., unauthorised disposal of trust assets)
+      - Reparative: breach causes independent loss (e.g., bad advice, misuse of power)
+    - Causation:
+      - Flexible; "but for" test applied contextually
+      - No foreseeability/remoteness tests as in common law (Youyang Pty Ltd v Minter Ellison (2003) 212 CLR 484)
+    - Calculation:
+      - Measured at date of judgment (Youyang, at [32])
+    - Strict liability for trust breaches (Re Dawson [1966] 2 NSWR 211)
+    - Key Cases:
+      - Youyang: breach of trust terms — full compensation of $500K
+      - Re Dawson: full restoration required for misapplied funds
+      - O’Halloran v RT Thomas (1998) 45 NSWLR 262: fiduciary caused loss by unauthorised share transfer
+      - Nocton v Ashburton: fiduciary advice breached loyalty despite no fraud
+      - Giller v Procopets (2008) 24 VR 1: emotional distress damages awarded as equitable compensation for breach of confidence
+- 3. Other Equitable Remedies
+  - Declaration: Recognition of rights or obligations
+  - Injunction: Prevents or mandates conduct
+  - Rectification: Corrects documents to reflect true intention
+  - Rescission: Cancels transaction for vitiating factors (misrepresentation, mistake, etc.)
+  - Specific Performance: Enforces positive contractual obligation
+  - Equitable Damages (Lord Cairns Act):
+    - Monetary substitute for injunction or SP
+    - Supreme Court Act 1970 (NSW) s 68
+    - Sandpiper Kooragang Pty Ltd v Fortis Products Pty Ltd [2020] NSWSC 1256
+  - Falsification:
+    - Striking out invalid disbursements, the trustee must restore the account – make good the deficit.
+- 4. Discretionary Bars to Equitable Relief
+  - Clean hands: Claimant must not have acted inequitably
+  - Laches: Unreasonable delay defeats claim
+  - Acquiescence: Knowledge plus inaction
+  - Warman v Dwyer, 559: plaintiff cannot stand by and profit from delay
+  - Keech v Sandford (1726): delay until profitable defeats claim
+- Exam Scaffold Week 11: Money Remedies – Account of Profits & Equitable Compensation (NSW Law)
+  - 1. Account of Profits (Gain-Based Relief)
+    - 1.1. Nature and Purpose
+      - An equitable personal remedy to strip net profits gained through breach of:
+        - Fiduciary duty (Warman v Dwyer (1995) 182 CLR 544)
+        - Trust (Youyang Pty Ltd v Minter Ellison (2003) 212 CLR 484)
+        - Breach of confidence (Giller v Procopets (2008) 24 VR 1)
+        - Knowing assistance (Lifeplan v Foresters [2018] HCA 43)
+      - Prophylactic, not restitutionary: dissuades disloyal conduct (Meinhard v Salmon (1928) 164 NE 545; approved in Warman at 557)
+      - Available even if:
+        - Plaintiff suffers no loss
+        - Plaintiff could not have made the profit
+        - Defendant was not dishonest
+    - 1.2. Calculation
+      - Net profits only (not gross) (Warman v Dwyer at 558)
+      - Defendant bears onus to prove:
+        - Allowance for skill, effort, risk (if not exploiting plaintiff’s assets)
+      - Time period may be limited based on equity (Warman: 2-year profit allowed)
+      - Where business opportunity misused, may not be full profit (Warman at 561)
+    - 1.3. Knowing Assistance
+      - Third parties who assist in dishonest breach may be liable (Barnes v Addy (1874) LR 9 Ch App 244)
+      - Full capital value recoverable where breach causes entire business advantage (Lifeplan [2018] HCA 43 at [115])
+  - 2. Equitable Compensation (Loss-Based Relief)
+    - 2.1. Nature and Basis
+      - Personal monetary remedy to redress loss caused by breach of equitable obligation
+      - Arises from:
+        - Breach of fiduciary duty (Nocton v Ashburton [1914] AC 932)
+        - Trustee breaches – custodial or administrative (Youyang; Re Dawson [1966] 2 NSWR 211)
+        - Breach of confidence (Giller v Procopets)
+        - Other equity obligations (e.g. estoppel: Giumelli v Giumelli (1999) 196 CLR 101)
+    - 2.2. Types of Compensation
+      - Substitutive: restores trust fund to what it should have been (strict liability)
+        - Re Dawson [1966] 2 NSWR 211: breach requires full reinstatement, no causation/remoteness
+      - Reparative: compensates for loss from breach of duty
+        - Nocton v Ashburton: fiduciary advice causing detriment
+        - Causation: common sense, not legal foreseeability (Canson v Boughton (1991) 85 DLR (4th) 129)
+    - 2.3. Causation and Assessment
+      - Time of assessment = time of judgment (Youyang at 500)
+      - Uses “but for” test with no need for foreseeability or remoteness
+      - Cannot be reduced by contributory negligence (Harris v Digital Pulse (2003) 56 NSWLR 298)
+      - Not available: exemplary damages
+  - 3. Election Between Remedies
+    - Plaintiff must elect between account of profits and equitable compensation (mutually exclusive: gain vs loss)
+    - Election must be made before judgment, not necessarily at pleading
+  - 4. Discretionary Considerations (Applicable to Both Remedies)
+    - All equitable remedies are discretionary:
+      - Clean hands: plaintiff misconduct bars relief
+      - Laches: delay defeats claim (Keech v Sandford (1726))
+      - Acquiescence: standing by while breach occurs (Warman at 559)
+    - Court may:
+      - Make allowances for fiduciary skill or capital (Warman)
+      - Impose equitable lien over property to secure amounts owed (Warman)
+  - 5. Proprietary Remedies (For Context)
+    - Constructive Trust (based on unconscionability)
+    - Common Intention Constructive Trust (CICT)
+    - Remedial Constructive Trust (judicial discretion)
+    - Equitable Lien (security over property in debtor's possession)
+    - Tracing (identify property or substitute property via equitable or legal title)
+  - 6. Week 11: Exam Scaffold: Money Remedies – Account of Profits & Equitable Compensation
+    - Step 1: Identify the Equitable Cause of Action
+      - 1.1. Identify the primary equitable breach:
+        - Fiduciary duty (e.g., conflict of interest, misuse of position)
+        - Breach of trust (misapplication of trust funds)
+        - Breach of confidence (misuse of confidential info)
+        - Knowing assistance (Barnes v Addy; Farah Constructions (2007) 230 CLR 89)
+      - 1.2. State the applicable equitable obligation and relationship (e.g., trustee-beneficiary, fiduciary-principal, solicitor-client)
+    - Step 2: Identify the Remedy Sought – Personal or Proprietary?
+      - 2.1. Personal remedies:
+        - Account of Profits – gain-based OR
+        - Equitable Compensation – loss-based
+      - 2.2. Proprietary remedies? (Constructive Trust, Equitable Lien, Tracing)
+        - Note if proprietary relief is claimed and whether it attaches to specific property (Youyang)
+    - Step 3: Apply Rules for Account of Profits (If Claimed)
+      - 3.1. Establish that defendant breached duty and made a profit “as a result” of the breach
+        - Warman v Dwyer (1995) 182 CLR 544
+        - Lifeplan v Foresters [2018] HCA 43
+      - 3.2. Note that:
+        - No dishonesty required
+        - Plaintiff need not show loss
+        - Deterrent rationale (Meinhard v Salmon; Warman)
+      - 3.3. Defendant may argue for deduction of effort, risk, skill
+        - Defendant bears onus of proof (Warman; Lifeplan at [115])
+        - Allowance is discretionary
+      - 3.4. Quantify net profits only (not gross)
+        - Mathematical precision not required – reasonable approximation allowed
+    - Step 4: Apply Rules for Equitable Compensation (If Claimed)
+      - 4.1. Determine whether claim is:
+        - Substitutive (custodial breach – strict liability)
+          - Re Dawson [1966] 2 NSWR 211
+          - Youyang Pty Ltd v Minter Ellison (2003) 212 CLR 484
+        - Reparative (fiduciary, advisory, or other breach)
+          - Nocton v Ashburton [1914] AC 932
+          - Canson Enterprises v Boughton (1991) 85 DLR (4th) 129
+      - 4.2. Causation:
+        - "But for" the breach, would the loss have occurred?
+        - Loss must have a common sense connection to breach
+        - No need to show foreseeability or remoteness
+      - 4.3. Time of assessment: as at date of judgment
+        - Youyang at 500
+      - 4.4. Confirm that:
+        - Contributory negligence is not a defence (Harris v Digital Pulse (2003) 56 NSWLR 298)
+        - Exemplary damages are not available
+        - Full reinstatement is required where trust assets lost (Re Dawson)
+    - Step 5: Election Between Remedies
+      - 5.1. Plaintiff must elect between:
+        - Account of Profits
+        - Equitable Compensation
+          - Election occurs before judgment, not necessarily at pleadings
+      - 5.2. Where defendant profited and plaintiff suffered loss, both may be available, but only one may be awarded
+    - Step 6: Apply Discretionary Considerations
+      - 6.1. Equity acts on conscience – discretionary remedy
+      - 6.2. Consider any bars:
+        - Laches or delay (Keech v Sandford)
+        - Acquiescence – passive acceptance of breach (Warman at 559)
+        - Unclean hands
+      - 6.3. Court may impose terms:
+        - Allowances for fiduciary skill or capital (Warman)
+        - Security via equitable lien (Warman)
+    - Step 7: Final Conclusion
+      - 7.1. Clearly state:
+        - Whether the remedy sought should be granted
+        - Whether any reductions apply
+        - The likely quantum and form of the remedy (account or compensation)
+      - 7.2. Tie back to equitable principles, precedent, and causation
+### Week 12: Tracing
+
+- 1. What is Tracing?
+  - Definition:
+    - ‘Tracing is neither a claim nor a remedy; it is the process by which a claimant shows what has happened to their property, identifies its proceeds, and the persons who handled it, justifying their claim over the proceeds’ (Foskett v McKeown [2001] 1 AC 102, Lord Millett).
+    - Processes:
+      - Following: Track same property, same form.
+      - Tracing: Track proceeds of property into another form.
+      - Claiming: Assert a right over original/substituted property.
+- 2. Substituted Property
+  - Direct substitution:
+    - E.g., $100 trust money → Painting worth $100.
+  - Mixed funds substitution:
+    - Mixed with another innocent party’s funds
+    - Mixed with wrongdoer’s personal funds
+    - Requires unmixing by established tracing rules.
+- 3. Bringing Claims After Tracing
+  - Personal Remedies:
+    - Equitable compensation
+    - Account of profits
+  - Proprietary Remedies:
+    - Constructive trust
+    - Equitable lien
+    - Equitable charge
+  - Key Point:
+    - Both actions possible (no double recovery allowed).
+- 4. Four Key Considerations for Tracing
+  - 1. Who mixed the funds?
+  - 2. Title to the fund? (wrongdoer vs mixed claimants)
+  - 3. Sufficiency of remaining funds.
+  - 4. Value changes and withdrawals post-mixing.
+  - Tracing into Mixed Funds
+- 5. Wrongdoer + Beneficiary: Mixed Fund Rules
+  - 5.1 Re Hallett’s Estate (1880) 13 Ch D 696
+    - Presumption: Trustee spends own money first (not trust funds).
+    - Facts:
+      - Russian bonds sold wrongfully.
+      - Funds mixed in solicitor’s personal account.
+      - Wrongful withdrawals presumed from personal funds.
+    - Rule:
+      - Claim to the remaining balance if not dissipated.
+  - 5.2 Re Oatway [1903] 2 Ch 356
+    - Reverse presumption:
+      - Trust funds presumed preserved in asset purchases.
+    - Facts:
+      - Trust money + own funds mixed.
+      - Used to buy shares; remaining balance dissipated.
+    - Rule:
+      - Beneficiaries entitled to claim the purchased asset via a charge or constructive trust.
+  - 5.3 Lowest Intermediate Balance Rule: Lofts v MacDonald (1974) 3 ALR 404
+    - Rule:
+      - Claim limited to the lowest balance after trust money enters the account.
+    - Facts:
+      - Trust money deposited → account falls to $8.42.
+      - Later deposits not replenishment unless intention shown.
+    - Result:
+      - Plaintiff entitled only to $8.42.
+- 6. Multiple Beneficiaries: Mixed Fund Rules
+  - 6.1 General Approaches
+    - 1. Clayton’s Case (First-in, First-out) – rare (Keefe v Law Society of NSW (1998) 44 NSWLR 451).
+    - 2. Simple Pari Passu – equal pro rata sharing.
+    - 3. Lowest Intermediate Balance Rule – preferable where tracing possible (Caron v Jahani [2020] NSWCA 117).
+  - 6.2 Caron v Jahani [2020] NSWCA 117
+    - Facts:
+      - Courtenay House Ponzi scheme investors.
+      - $60K withdrawal after freezing orders.
+    - Held:
+      - Rejected Clayton’s Case.
+      - Adopted lowest intermediate balance approach:
+      - Early investors bore withdrawal pro-rata.
+      - Later investors unaffected.
+- 7. Tracing into Successful Investments
+  - Scott v Scott (1963) 109 CLR 649:
+    - Mixed funds used to buy house.
+    - Beneficiaries entitled to proportionate share of increased value.
+  - Foskett v McKeown [2001] 1 AC 102:
+    - Trust money paid life insurance premiums.
+    - Beneficiaries entitled to 40% of proceeds under constructive trust.
+    - Rule:
+      - Where trust money partly pays for property, beneficiary may:
+        - Claim a proportionate share, or
+        - Enforce a lien for amount misapplied.
+- 8. Innocent Volunteers: Re Diplock Principles
+  - Re Diplock [1948] Ch 456:
+    - Recoverable:
+      - Traceable property held by innocent volunteer.
+      - Security discharged (modern rule: Boscawen v Bajwa [1996] 1 WLR 328).
+    - Not recoverable:
+      - Money spent on renovations or unsecured debts.
+      - Dissipated money.
+- 9. Defences to Tracing
+  - 1. Property dissipated:
+    - E.g., spent on non-traceable improvements (Re Diplock).
+  - 2. Bona fide purchaser for value without notice (Equity’s Darling):
+    - Akers v Samba Financial Group [2017] UKSC 6
+    - Grimaldi v Chameleon Mining NL (No 2) (2012) 200 FCR 296:
+      - Notice includes constructive notice.
+      - No defence if constructive notice exists.
+  - 3. Change of position defence:
+    - Gertsch v Atsas (1999) 10 BPR 18,431.
+  - 4. Torrens Title Indefeasibility (NSW only):
+    - Fistar v Riverwood Legion and Community Club Ltd (2016) 91 NSWLR 732.
+- Quick Tracing Decision Tree
+  - When Funds are Mixed:
+Situation
+Apply
+Key Case
+Mixed with wrongdoer’s own money
+Presume trustee spent own money first
+Re Hallett’s Estate
+Mixed and asset purchased
+Presume trust funds preserved in asset
+Re Oatway
+Multiple deposits/withdrawals
+Limit to lowest intermediate balance
+Lofts v MacDonald
+Multiple beneficiaries
+Lowest intermediate balance rule preferred
+Caron v Jahani
+- Overview
+  - Step 1: Identify Claim Type
+  - Step 2: Identify What Happened to Property
+  - Step 3: Apply Relevant Tracing Rules + Insert Formulas
+  - Step 4: Remedies
+  - Step 5: Defences
+  - Step 6: Policy/Discretion
+- Week 12:  Exam Tracing Scaffold
+  - Step 0: Cause of Action
+    - Has there been a breach of fiduciary duty, breach of trust, or knowing receipt?
+      - ✔️ If yes, plaintiff may trace into property (Foskett v McKeown).
+      - ✔️ Personal and proprietary remedies available depending on result.
+  - Step 1: Identify the Legal Nature of the Plaintiff’s Claim
+    - Is the plaintiff asserting a proprietary claim over specific property?
+      - Or a personal claim (e.g., compensation, account of profits)?
+    - Distinguish:
+      - Following = same property, same form.
+      - Tracing = proceeds in a different form (Foskett v McKeown [2001] 1 AC 102).
+    - Claim Type:
+      - Proprietary claim (constructive trust, equitable lien)
+      - Personal claim (equitable compensation/account of profits)
+  - Step 2: What Happened to the Property?
+    - Was the property:
+      - Substituted?
+      - Mixed with wrongdoer's funds?
+      - Mixed with multiple beneficiaries?
+      - Given to innocent volunteer?
+    - Key:
+      - Can property (or its proceeds) still be identified?
+  - Step 3: Apply Relevant Tracing Rules
+    - A. Substituted Assets
+      - Plaintiff can trace into substituted assets if identifiable.
+    - B. Mixed Funds (Wrongdoer + Plaintiff)
+      - Rule 1: Presume wrongdoer spent own money first (Re Hallett’s Estate (1880) 13 Ch D 696).
+        - Presume wrongdoer spends their own money first, not trust money.
+        - Formula:
+          - Withdrawals = wrongdoer's funds first
+          - Remaining balance = trust funds assumed preserved.
+        - Beneficiary can claim the remaining balance.
+        - Worked Example:
+          - Trust Money = $100,000
+          - Wrongdoer's Money = $200,000
+          - Account drops to $50,000
+          - Later rises to $300,000
+          - ✅ Claim = $50,000 (lowest point after trust money deposited)
+      - Rule 2: Asset purchased presumed to preserve trust funds (Re Oatway [1903] 2 Ch 356).
+        - Trust funds presumed to be used to buy identifiable assets.
+        - Beneficiary entitled to asset via constructive trust or equitable lien.
+        - Protects trust money where account partly dissipated.
+        - Worked Example:
+          - Trust Money = $100,000
+          - Wrongdoer's Money = $100,000
+          - Asset (property) bought for $200,000
+          - Remaining cash dissipated
+          - ✅ Claim = 50% share of the asset (since trust money = half of purchase price).
+    - C. Tracing into Asset with Mixed Contributions
+      - If trust money mixed with other funds → used to buy asset → beneficiary entitled to a proportionate share.
+        - Scott v Scott (1963); Foskett v McKeown (2001)
+      - Choose either:
+        - Claim proportionate share via constructive trust (if asset appreciated); or
+        - Take equitable lien to recover amount misapplied (if asset depreciated).
+        - Election available to plaintiff — whichever is more favourable.
+      - Formula (Constructive Trust Share):
+        - (Trust Money ÷ Total Purchase Price) × Current Value of Asset
+        - Worked Example:
+          - Trust money: $40,000
+          - Wrongdoer’s own money: $60,000
+          - Asset worth $200,000 now.
+        - ✅ Claim:
+          - (40,000 ÷ 100,000) × 200,000 = $80,000 share of the asset.
+      - Constructive Trust or Lien Formula:
+        - Constructive trust:
+          - Trust Contribution % × Asset’s Current Value 
+        - Equitable lien:
+          - Trust Money Misapplied (fixed amount)
+        - ✅ Rule:
+          - Asset appreciated? → Claim proportionate share (constructive trust).
+          - Asset depreciated? → Prefer equitable lien for fixed sum.
+    - D. Mixed Funds (Multiple Beneficiaries)
+      - Preferred Rule: Lowest intermediate balance rule (Caron v Jahani [2020] NSWCA 117).
+        - Worked Example:
+          - $100,000 trust funds deposited.
+          - Account falls to $20,000 (lowest point).
+          - Account rises again to $300,000.
+          - ✅ Claim = $20,000 only.
+          - Important: Later deposits do not replenish trust money unless specific restitution intention shown.
+        - Claim=Lowest Account Balance after Trust Funds Deposited
+      - Pari Passu Rule (Equal Sharing)
+        - Trust money from multiple beneficiaries = pooled and shared proportionately.
+        - Formula:
+          - All claimants share equally in the mixed fund based on proportionate contributions.
+          - ➡️ Each gets their fair share (even if deposited at different times).
+          - Each Claimant’s Share=(Individual Contribution​/Total Contributions) × Remaining Balance
+        - Clayton’s Case (FIFO): Very rarely applied today (Keefe v Law Society of NSW (1998) 44 NSWLR 451).
+          - Early depositors bear loss first if withdrawals happen.
+          - Later depositors’ funds considered untouched.
+          - ⚠️ Modern Practice:
+            - Rarely applied.
+            - Courts prefer pari passu or lowest intermediate balance unless contract or intention shows FIFO logic.
+          - ➡️ Caron v Jahani [2020] NSWCA 117 rejected Clayton’s Case in favour of fairer rules.
+  - Step 4: Remedies
+    - Proprietary:
+      - Constructive trust (preferable where value increases).
+      - Equitable lien (for amount misapplied).
+    - Personal:
+      - Equitable compensation (for breach of fiduciary duty).
+    - Election: Plaintiff may elect whichever remedy is most advantageous (Foskett v McKeown [2001] 1 AC 102).
+  - Step 5: Defences
+    - Bona fide purchaser for value without notice (BFPFVWN):
+    - (Akers v Samba Financial Group [2017] UKSC 6; Grimaldi v Chameleon Mining (No 2) (2012) 200 FCR 296).
+    - Change of position: (Gertsch v Atsas (1999) 10 BPR 18,431).
+    - Torrens indefeasibility:
+      - (Real Property Act 1900 (NSW); Fistar v Riverwood Legion and Community Club Ltd (2016) 91 NSWLR 732).
+  - Step 6: Policy/Discretion
+    - Tracing aims to vindicate proprietary rights — not correct moral wrongs or unjust enrichment (Foskett v McKeown).
+    - Protect the integrity of trust relationships.
+    - Prevent windfalls to wrongdoers.
+  - Quick review 
+Situation
+Formula
+Key Case
+Mixed with wrongdoer’s money
+Spend wrongdoer's money first
+Re Hallett
+Mixed → asset purchased
+Trust money preserved in asset
+Re Oatway
+Fluctuating account
+Claim lowest intermediate balance
+Lofts v MacDonald
+Multiple beneficiaries
+Pari passu share
+Caron v Jahani
+Constructive trust share (Quistclose/ theft)
+(Trust / Total) × Asset Value
+Foskett v McKeown
+FIFO (rare)
+Earliest deposit used first
+Clayton’s Case
+
+## Week 1: Introduction to Equity & Trusts
+
+- History of Equity
+  - What is ‘Equity def’?
+    - Equity refers to that body of law that derives from the specific jurisdiction established and exercised by the English High Court of Chancery before 1873.
+    - Bridge v Campbell Discount Co Ltd [1962] AC 600, 626.
+  - The Role and Purpose of Equity
+    - “... equity ... qualifies, moderates and reforms the rigour, harshness and edge of the law. [T]he office of equity [is] to support and protect the common law from shifts and crafty contrivances against the justice and the law. Equity therefore does not destroy the law, nor create it, but assists it.”
+    - Dudley v. Dudley (1705) 24 ER 118, 119 (Lord Cowper).
+  - Lets go back to 1066
+    - Norman invasion of England by Normans in 1066 – Battle of Hastings
+    - Introduction of the feudal system and subinfeudation.
+    - Brought increased administration and record keeping – Domesday book.
+    - Local customary law – ‘common law’
+    - Ecclesiastical courts – the role of granting probate and distribution of personal property, cf real property
+    - Until the 13th century (in the mediaeval period) common law judges also exercised discretions, however . . .
+    - Throughout the 14th century the Common Law became more rigid, in its rules and in its procedures and remedies.
+    - Commencement of a common law action via a writ
+    - Inflexibility of the writ system
+      - The application of strict rules
+      - Limited causes of action
+      - Limited remedies
+      - Jurisdiction
+      - corruption
+    - More complainants brought suits to the Chancellor, seeking the King’s intervention in common law matters.
+  - Common Law v Equity/Chancery
+    - Initially Chancery was the Royal secretariat.
+    - An example: See the Petition of Thomas Messendyn the Younger (Sourcebook 1.3.1b).
+  - The Development of the Trust
+    - Grew out of necessity
+  - The formative period . . .
+    - In 1529 Henry VIII appointed Sir Thomas More – a lawyer – as chancellor; gradually lawyers were more often appointed as Chancellors.
+    - Chancery lawyers began developing consistent equitable doctrines.
+    - Chancery courts flourished, at the expense of the Common Law courts.
+    - But we had TWO systems – a person would have to go to CL courts the Chancery.
+    - Tensions came to a head between Lord Chief Justice Sir Edward Coke (Common Law) and the Chancellor Lord Ellesmere (whose actual name was Thomas Egerton)
+    - Resolved in the Earl of Oxford’s Case (1615): King James I sided with Lord Ellesmere and Equity.
+  - Earl of Oxford’s case
+    - Roger Kelke, Master of Magdalene College Cambridge transferred land in Covent Garden to QEI. 
+      - QEI then granted the land to a Benedict Spinola. 
+      - The land was leased to Warren.
+      - Spinola then sold the land to Edward de Vere, the Earl of Oxford. (So Warren was the Earl of Oxford’s tenant.)
+    - The then Master of the College Barnabas Gooch, claiming the first sale to be void by virtue of a statutory impediment, purported to grant a lease to John Smith, who managed to take possession.
+    - Warren sought to evict Smith.
+    - Common Law found for Smith (Sir Edward Coke)
+    - Chancery found for Warren (Lord Ellesmere)
+    - The King James I intervened, finding for Warren (and hence for Chancery).
+    - A bill introduced to Parliament by common lawyers in 1690 attempting to reverse the Earl of Oxford’s Case failed to pass, so the ‘common injunction’ flourished.
+  - Lord Ellesmere:
+    - The Cause why there is a Chancery is, for that Mens Actions are so divers and infinite, That it is impossible to make any general Law which may aptly meet with every particular Act and not fail in some Circumstances.
+    - The Office of the Chancellor is to correct Mens Consciences for Frauds, Breach of Trusts, Wrongs and Oppressions, of what Nature soever they be, and to soften and mollify the Extremity of the Law...’
+    - ‘... when a Judgment is obtained by Oppression, Wrong and a hard Conscience, the Chancellor will frustrate and set it aside, not for any error or Defect in Judgment, but for the hard Conscience of the party...’
+  - Equity’s ‘conscience’
+    - The statement that Equity operated according to good conscience attracted criticism:
+      - “Equity is a roguish thing. For law we have measure... Equity is according to the conscience of him that is Chancellor, and as that is longer or narrower, so is Equity. ‘Tis all one as if they should make the standard for the measure a Chancellor’s foot.” - John Seldon.
+  - Response?
+    - The systematization period (from Lord Nottingham (1673-82) to 1873) when Chancery sought to establish its own body of consistent principle. (See especially Lord Eldon (1801-06).
+    - Today, see Deane J Muschinski v Dodds (1985) 160 CLR 583:
+      - ‘Long before [the] anachronism identifying the Chancellor’s foot as the measure of Chancery relief, undefined notions of ‘justice’ and what was ‘fair’ had given way in the law of Equity to the rule of ordered principle which is of the essence of any coherent system of rational law. 
+      - The mere fact that it would be unjust or unfair in a situation of discord for the owner of a legal estate to assert his ownership against another provides, in itself, no mandate for a judicial declaration that the ownership in whole or in part lies, in Equity, in that other.’
+  - 3. The Judicature Acts
+    - A growing problem (see Jarndyce v Jarndyce in Dickens’ Bleak House):
+    - Common law courts would not recognise purely equitable claims.
+    - Common law courts would not grant equitable remedies (e.g., specific performance).
+    - Common law courts would not recognise equitable defences. 
+    - So the defendant would have to go and seek an injunction in equity, to prevent the plaintiff from enforcing a common law award.
+    - Part-heard suits could not be transferred – so if you started in the wrong place, you had to start over again.
+  - The Common Injunction
+    - It was important the Chancery did not seek to controvert or upset a judgment that was given at common law. 
+    - Rather, it enquired whether, by reason of circumstances that were not taken into account in the judgment, it was against conscience to enforce it.
+      - A brings a CL action against B for ejectment due to non-payment of rent;
+      - B claims that there was an arrangement between A + B to suspend payment of rent;
+      - A claims that there was no consideration = agreement not valid (under CL/Contract Law principles);
+      - B claims that there is an equity that estops A from acting otherwise than the latter agreement;
+      - A seeks to have his legal rights at CL enforced;
+    - But in Equity: the agreement between A and B gives right to an equity 
+    - = B can get “common injunction” = prevent A from bringing proceedings at law which would contradict the estoppel proceedings (if A disobeys = imprisonment for contempt)
+  - A solution: Judicature Act 1873 (UK), s 24
+    - 24(1): gave all branches of the court power to administer equitable remedies;
+    - 24(2) and (3): enabled equitable defences to be pleaded and equitable relief to be given on such defences;
+    - 24(4): required all branches of the court ‘to recognise and take notice of all equitable estates, titles, and rights and all equitable duties and liabilities’.
+    - 24(5): prohibited the use of the “common injunction” within the court (however: the equitable grounds that might have provided the ground for such an injunction prior to the passing of the Act may be relied on by way of defence in the proceedings).
+    - 24(6): provided the Court with a general power to “recognise and give effect to” all legal claims, estates, titles, rights, duties and liabilities existing by the Common Law or by custom or created by Statute.
+  - Judicature Act 1873 s. 25(11):
+    - In cases where ‘there is any conflict or variance between the Rules of Equity and the Rules of the Common Law with reference to the same subject matter . . . the Rules of Equity shall prevail.’
+  - What about in NSW?
+    - Civil procedure in NSW was established by the Charter of Justice in 1824. Equity was administered as a body of law distinct from the Common Law, by a distinct Equity Division of the Supreme Court of NSW.
+    - The Law Reform (Law and Equity) Act 1972 (NSW) amended the Supreme Court Act 1970 (NSW) ss 57-64 to incorporate the elements of the Judicature Act 1873 (UK) ss 24-5.
+  - The Law Reform (Law and Equity) Act s 5 :
+    - ‘In all matters in which there was immediately before the commencement of this Act or is any conflict or variance between the rules of Equity and the rules of Common Law relating to the same matter, the rules of Equity shall prevail.’
+- Fusion Fallacy and Equitable Maxims
+  - The ‘fusion fallacy’?
+    - What did the Judicature legislation achieve?
+      - Merely administrative / procedural simplification?
+      - Or a substantive fusion of the principles of equity and common law – including a mingling of remedies and defences?
+      - And regardless of what the Judicature legislation achieved, can Equity and the Common Law now evolve together as a unified system of principles and remedies?
+  - Procedural only . . .
+    - Lord Ashburner’s “fluvial metaphor” describing the common law and equity as “two streams of jurisdiction [which], though they run in the same channel, run side by side and do not mingle their waters”: Ashburner’s Principles of Equity, (2nd ed., 1933), at p. 18.
+    - Salt v. Cooper (1880) 16 ChD 545, at 549; [1874-80] All ER Rep 1204, per Sir George Jessel MR:
+      - “It has been sometimes inaccurately called ‘the fusion of Law and Equity’; but it was not any fusion, or anything of that kind; it was the vesting in one tribunal the administration of Law and Equity in every cause, action, or dispute which should come before that tribunal. That was the meaning of the Act.”
+    - Felton v. Mulligan (1971) 124 CLR 367 at 392, Windeyer J referred with approval to the statement in the classic text Ashburner on Equity [2nd ed., p.18] (above)
+    - In O’Rourke v. Hoeven [1974] 1 NSWLR 622 at 626, Glass JA said that the effect of the Supreme Court Act 1970 (NSW) was “not a fusion of the two systems of principle but of the Courts which administer the two systems”.
+  - Substantive fusion . . .
+    - In United Scientific Holdings Ltd v. Burnley Borough Council [1978] AC 904 at 924; [1977] 2 All ER 62 at 68, Lord Diplock said:
+      - [T]o perpetuate the dichotomy between rules of equity and rules of common law, which it was a major purpose ... of the Judicature Act 1873 to do away with, is, in my view, conducive of erroneous conclusions to the ways in which the law of England has developed in the last hundred years... The waters of the confluent streams of law and Equity have surely mingled now.
+    - A-G v. Wellington Newspapers Ltd [1988] 1 NZLR 129 [NZ CA] at 172, per Cooke P
+      - As law and Equity are now mingled ... it does not seem to me to matter whether the duty can be classified as equitable or not. 
+      - The full range of remedies deriving historically from either common law or Equity should be available. 
+      - They include injunction, damages and account of profits.
+  - What does substantive fusion look like?
+    - Day v. Mead [1987] 2 NZLR 443 – permitting a defence of contributory negligence in a case of breach of fiduciary duty. 
+      - (In Pilmer v Duke Group (2001) 180 ALR 249 it was said that there are severe conceptual difficulties in accepting contributory negligence as a defence to a claim for equitable compensation for breach of fiduciary duty, because it is the essence of a fiduciary duty that the fiduciary take full responsibility for the best interests of the weaker beneficiary.)
+    - Seager v. Copydex (No 1) [1967] 2 All ER 415: 
+      - An award of common law damages was granted for breach of the equitable duty of confidence.
+    - Digital Pulse v Harris (2002) NSWSC 33: 
+      - An award of exemplary damages was given for breach of fiduciary duty (but this was overturned by majority on appeal): 
+      - Harris v. Digital Pulse [2003] NSWCA 10 .
+  - Equitable Remedies for Breach of Contract??
+    - Attorney-General v Blake [2001] 1 AC 268
+  - The Propositions of Equity
+    - Equity acts against the person
+    - Equity prevents unconscionable conduct.
+    - Equity will only interfere with the rights of third parties in limited situations – that is, where the third party is not a bona fide holder of a legal estate without notice of the plaintiff’s equity.
+    - Equity will usually not allow form to triumph over intention.
+    - Equity takes special care of the weak and the poor.
+    - Equity acts according to principle, not on individual notions of fairness
+  - Responding to Unconscionable Conduct
+    - (i) preventing the exploitation of vulnerability or weakness,
+    - (ii) preventing the abuse of positions of trust or confidence,
+    - (iii) preventing the insistence upon rights in circumstances which make such insistence harsh or oppressive
+    - (iv) preventing the inequitable denial of obligations,
+    - (v) preventing the unjust retention of property,
+  - Maxims of equity
+    - A maxim is not a rule, or even a principle or doctrine. 
+    - It is ‘a summary statement of a broad theme which underlines equitable concepts and principles. 
+    - Its precise scope is necessarily ill-defined and somewhat uncertain.’ - Corin v. Patton (1990) 169 CLR 540 at 557, Mason CJ and McHugh J.
+  - Some examples . . .
+    - Equity will not suffer a wrong without a remedy
+    - Equity follows the law (Paramasivam v Flinn (1998) 90 FCR 489)
+    - He who seeks equity must do equity (note the different meanings of ‘equity’)
+    - He who comes to equity must come with clean hands
+    - Equity aids the vigilant and not the tardy
+    - Equity is equality
+    - Equity will not assist a volunteer (to perfect and imperfect gift)
+    - Equity looks to the intent rather than to the form
+    - Equity looks on that as done which ought to be done
+- Equitable Estates and Interests
+  - Our questions
+    - Property -> Recognised in Equity -> Priorities
+    - Property (when is an interest a property/proprietary interest)
+    - Recognized in Equity (How do property interests arise in Equity)
+  - Characteristics of a property interest . . .
+    - A property right is a right ‘in rem’ – against the ‘world’, and not just against another person (‘in personam’).
+    - The claimant can recover specific property.
+    - The claimant can transfer their interest to another.
+    - The claimant’s remedies in respect of the interest continue against third parties who deal with the interest.
+  - When is it important to have a proprietary right?
+    - Example:
+      - L lent money to B, so that B could buy a house. B also owes money to X, Y and Z.
+      - B cannot repay everyone, and is declared bankrupt.
+      - The house is B’s only asset, and the value of the house is not sufficient to repay all of B’s debts. So who is paid first?
+      - All of B’s personal creditors share ‘pari passu’ (equally, according to their contributions) in B’s property.
+      - But any creditor who can claim a proprietary interest in specific property will be paid out of that specific property first.
+      - If L wants to be paid first out of the proceeds of the house, L must secure a property interest in the house.
+  - How do property interests arise in Equity?
+    - When the owner of a property interest at law is conscience-bound to recognize someone else’s interest in the property…
+    - Equity will find that the claimant has an ‘equitable proprietary interest’.
+  - DKLR Holdings (No 2) v Comr Stamp Duties (1982) 149 CLR 431
+    - 29 Macquarie Ltd owned land.
+    - It transferred the land to DKLR Holdings, to hold only as a trustee for 29 Macquarie.
+    - DKLR claimed that there should be no stamp duty payable on the transfer, because 29 Macquarie had retained the entire equitable, or ‘beneficial’ ownership of the property. It transferred only bare legal title.
+    - The HCA rejected this argument. There is no equitable interest in property until such time as the legal owner of property is obliged to recognize another’s interest in the property. 
+    - When 29 Macquarie Ltd transferred the land, it transferred its entire interest, and its equitable interest arose when DKLR declared itself trustee of the land for 29 Macquarie Ltd.
+    - Brennan J 
+      - an equitable interest is not 'carved out of a legal estate but impressed upon it'
+    - Legal and equitable interest form one absolute interest, not two separate ones
+  - It is nonsense to say that an owner of property owns both the legal and equitable title to property.
+    - There is no ‘equitable title’ until there is a separation of ownership (Aickin J)
+  - Hierarchy of Equitable Interests
+    - Equitable Proprietary Interests
+    - Mere Equity (not a property right...but could be ..) 
+    - Personal Equity (not a property right, and cant be)
+  - Equitable Proprietary Interests
+    - All equitable interests in property are choses in action – intangible rights with respect to property owned by another.
+    - Bind the holder of the legal interest and volunteers, but not a purchaser for good faith without notice. 
+    - Transfer of the legal property to a third party for value without notice (actual, constructive or imputed) of the equitable interest, will destroy the underlying equitable interest.
+    - Created less formally (equitable interests are easier to create, and easier to defeat)
+  - Equitable rights and interests in property
+    - Can be created by the declaration of a trust – so that the trustee holds legal title, and beneficiaries have equitable interests
+    - Can be created by contract – a specifically enforceable contract for the sale of land will create an equitable interest for the purchaser, pending settlement.
+    - Can be created by a contract whereby the legal property owner grants security over the property in exchange for a loan (a charge).
+    - Payment of the purchase price for property in circumstances where Equity will presume a resulting trust creates an equitable interest for the person who paid.
+    - A court may declare a constructive trust over property, which means that the legal owner of property must recognize the equitable interest of the claimant
+  - Examples of equitable proprietary interests
+    - Interest of a partner in assets of a partnership unregistered mortgage will be treated as an equitable mortgage.
+    - The trustee’s right to be indemnified from trust assets in respect of properly incurred trust expenses
+    - A restrictive covenant over land
+    - Future property: Norman v Federal Commissioner of Taxation (1963) 109 CLR 9.
+    - Equitable interests in voluntary assignment of legal property that do not comply with formalities in certain circumstances: Milroy v Lord (1862) 4 De GF&J 264; 45 ER 1185,
+    - Interest of a beneficiary under a trust
+    - By implication of law – e.g. resulting trusts; equitable lien
+    - By operation of law – e.g. where the court orders that property be held on constructive trust.
+  - A ‘mere equity’ . . .
+    - What kind of right does a person have if they have a claim in Equity to set aside property transaction, on the grounds of undue influence, unconscionable dealing, or some other ground recognized in Equity for vitiating a contract?
+    - How does this kind of equitable right rank against equitable proprietary interests?
+    - See Latec Investments v Hotel Terrigal (1965).
+  - Personal Equity/personal right
+    - A personal equity is simply the basic right of access to a court of equity of a plaintiff seeking equitable remedies that are not a proprietary remedy.
+    - Not a proprietary right at all: not an interest in property.
+    - Incapable of assignment/ Does not attach to particular assets
+  - The Right of a Beneficiary under an Unadministered Estate
+    - Will: Succession Act 2006 NSW
+    - Death
+    - Probate: Probate and Administration Act 1898 NSW 
+      - Probate is a court order made by the Supreme Court of NSW which confirms that the will of the deceased is valid and gives permission to the executor to distribute the estate as described in the deceased person's will. 
+      - *at this point the estate is ‘unadministered’
+    - Administration and distribution
+  - When will a person have an equitable interest in property held by another?
+    - Comr of Stamp Duties (Qld) v Livingston (1964) 112 CLR 12
+    - Issue: what was the nature of Mrs C’s interest in the unadministered estate of her late husband?
+    - A testator (T) died in NSW, and his estate held property located in Queensland.
+    - He left 1/3 of his estate to Mrs Coulson (C).
+    - Before T’s estate was administered, C died.
+    - The taxing statute said duty would be charged on “every past or future disposition of property by reason of which any person....shall become beneficially entitled to any property or the income thereof upon the death of any person…”
+    - Did C’s estate include property in Queensland, subject to Qld succession duty?
+    - NO. When C died, all she owned was a ‘chose in action’ against T’s executors to ensure due administration of the estate. 
+      - She did not own any interest in specific property located in Queensland.
+    - “What equity did not do was to recognize or create for residuary legatees a beneficial interest in the assets in the executor’s hands during the course of the administration”
+    - BUT: she did have a right to have the estate properly administered. 
+      - This chose in action was itself a property interest, capable of being transferred to C’s heirs.
+    - “the legatee of a share of residue has no interest in any of the property of the testator until the residue has been ascertained. His right is to have the estate properly administered and applied for his benefit when the administration is complete”
+  - So who owned the property in Queensland?
+    - The executor of T’s estate owned the property, subject to an obligation of a fiduciary nature to duly administer the estate according to the terms of T’s will.
+  - A dispute over priorities in a land holding
+    - Hotel Terrigal defaulted on mortgage to Latec. 
+    - Latec exercised a power of sale and sold to a related party, Southern.
+    - Southern granted a charge over all its assets to MLC.
+    - Southern defaulted on loan to MLC, so MLC claimed the land.
+    - Hotel Terrigal sought to undo the sale to Southern, on the grounds of a fraudulent exercise of Latec’s power of sale.
+  - Alternative analyses.
+    - Kitto J: Hotel Terrigal had a ‘mere equity’ to set the transaction aside, and this ranked below MLC’s equitable interest arising by way of its charge over the property.
+    - Taylor J: Hotel Terrigal’s equity to redeem the property was an equitable property interest, but it was postponed to the later equitable interest because it required a court’s assistance to enforce it, and a court should decline relief where a good faith purchaser’s interest has intervened.
+    - Recall that where there are competing equitable interests in property, the first in time prevails, the equities being equal.
+    - (The bona fide purchaser for value defense applies to later LEGAL interests.)
+- Harris v Digital Pulse (2003) (Confirming that equitable remedies are compensatory, not punitive, and rejecting the use of exemplary damages for breaches of fiduciary duty)
+  - SPIGELMAN CJ
+  - MASON P
+  - HEYDON JA.
+  - The problem 
+    - See Heydon JA [234]-[256] for the facts and findings at first instance.
+    - Digital Pulse Pty Ltd was a small multi-media services company.
+    - Harris and Eden were employed and held senior responsibilities in the company, so they owed both contractual (common law) and equitable (fiduciary) duties to their employer, not to compete with the employer while employed, or make unauthorized use of the employer's property or client connections.
+    - Nevertheless, Harris and Eden set up a rival company ('Juice'), and tried to divert projects away from Digital Pulse to Juice while still employed
+  - At first instance — Palmer J
+    - Harris and Eden had clearly breached their fiduciary duties to Digital Pulse.
+    - The appropriate equitable remedies for a breach of fiduciary duty are either an account of the profits made by the fiduciaries, or equitable compensation for the loss caused to the employer.
+    - But in this case, these remedies produced a 'relatively low monetary recovery' ([240]), because Harris and Eden had not made much from their wrongdoing, nor caused any clearly proven loss to Digital.
+    - So Palmer J decided to award 'exemplary damages', to make sure that Harris and Eden were punished for their consciously dishonest conduct.
+  - The appeal ...
+    - Harris and Eden appealed on the basis that 'exemplary damages' are available only in common law tort claims, and not in equity.
+    - 'The issue before the Court is whether a punitive monetary award can be made in equity.' — Spigelman CJ, [2].
+    - A majority (Spigelman CJ and Heydon JA) upheld their appeal, though for slightly different reasons.
+    - Mason P would have disallowed the appeal.
+  - Spigelman CJ
+    - The terminology of 'exemplary damages' should not be used in Equity, because 'damages' is a common law concept. Speak instead of 'equitable compensation', or 'a monetary award in Equity'.
+    - He explicitly disagrees with Heydon JA's reasons at [3431-[352] on 'The Judicial Creation of Criminal Sanctions'. At [4], he says: 'It is, in my opinion, unnecessary and undesirable to decide this case on the basis that a punitive monetary award can never be awarded in equity. Remedial flexibility is a characteristic of equity jurisprudence.'
+    - [81 Equity is 'not past childbearing' but its 'progeny must be legitimate — by precedent out of principle': Cowcher v Cowcher [19721 1 WLR 425, 430 (Bagnall J).
+    - He also explains that our system of common law, unlike the civilian codes of Europe, is not derived from abstract principles, and maintains distinctions between distinct bodies of doctrine (such as tort and contract): [15]. 
+      - Likewise, common law and Equity remain 'conceptually distinct': [18]
+    - Instead of finding that Equity can never grant a punitive remedy he limits his findings to the circumstances of the case, and finds that Equity should not grant a punitive remedy in a case of fiduciary duty created by contract, where penalties are not permitted: [5]. 
+    - The breach of fiduciary duties by employees is a common scenario; there is nothing novel about the facts that requires development of new principles.
+  - Mason P (in dissent)
+    - The Australian legal system accepts exemplary damages awards in cases of egregious conduct: [113].
+    - Equitable remedies are not only compensatory — see injunctions, specific performance, and account of profits: [120].
+    - The Judicature Act 1873 (UK) did not merge the substantive principles of common law and equity, but that does not 'condemn law and equity to the eternal separation of two parallel lines': [1401. 
+      - Equity (like the common law) had powers to 'adopt and adapt concepts from each other's system well before' that enactment, and nothing in the statute prevents that continued development: [141].
+    - 'Unnecessary barriers of separation' between the two systems (common law and Equity) have been broken down in other jurisdictions with longer experience (US, UK, Canada): [148].
+    - Equity has developed remedies designed for 'deterrence' of certain conduct. 
+      - He challenges the notion that deterrence and punishment are entirely distinct concepts: [164]-[166].
+    - Fiduciary duties are more akin to tortious duties because they are imposed by law rather than by private agreement, so aligning fiduciary principles to contract law is misconceived: [185].
+      - [Compare this to Spigelman CJ's view that, in this particular case, the fiduciary relationships arose only as a consequence of an employment contract.]
+    - Our legal system must be coherent — it is incoherent that a different attitude to remedies should be taken if a case is argued in the tort of deceit, than if the same facts were argued as a contumelious breach of fiduciary duty: 
+      - [1951. 'There is no reason why appropriate assimilation of law and equity should not continue to be achieved through the principles development of Equity so that it comes into line with common law if it thinks fit': [197].
+    - The maxim, 'Equity will not suffer a wrong to be without a remedy' justifies the development of remedies: [205].
+  - Heydon JA
+    - By far the most extensive reasons. He argues:
+    - No Australian, English or Irish case has ever awarded exemplary damages for an equitable wrong: [292].
+    - He analyses cases from other jurisdictions to explain why they do not create reliable authority and ought not to be followed, beginning with New Zealand ([3561-[364]), Canada ([3651-[3821), and the United States ([383]-[393]).
+    - Exemplary damages are also not available for breach of contract: — and the case here concerned breach of an employment contract.
+    - He rejects Mason P's argument that the account of profits remedy is punitive in character: 
+      - It instead addresses unjust enrichment.
+    - He explains (at length) the cases involving allowances to fiduciaries (adjustments to accounts of profits) [311]-[336]. 
+      - His conclusion is 'a denial to a dishonest fiduciary of a share of the profits or of an allowance is not an instance of punishment. It is for the fiduciary to establish that the ordinary rule in relation to an account of profits should not be applied'.: [336].
+    - He rejects the argument that deterrent remedies like account of profits are punitive in the same way as exemplary damages awards: 
+      - (This section is likely to be useful in our future topic on Fiduciary Duties, because it explains the way in which strictly imposed duties such as the 'no conflicts rule' are 'prophylactic', in dissuading fiduciaries from falling into temptation.
+    - He asserts equity's 'abhorrence' of penalties: [338]. 
+      - In a long section (which is specifically rejected by Spigelman CJ and Mason P) he describes Palmer J's findings as the creation of 'criminal' sanctions for breach of fiduciary duty as an impermissible novelty: 
+      - (The other judges reject this argument on the basis that exemplary damages are not criminal sanctions at all, but part of the civil law.)
+    - He addresses the arguments based on 'anomalies' between deceit and breach of fiduciary duty (saying that there is no anomaly) at [398]. 
+      - He says that aggravated and exemplary damages developed in tort because of it close relationship with crime: [399-402].
+    - He deals with the fusion arguments from [353], first by reasserting that the Judicature Acts did not fuse principle, but only joined the courts that administer two systems: [353]
+  - Equity may develop… But only in the High
+    - Heydon JA [435]: But only in the High
+    - Granting exemplary damages for breach of a fiduciary duty 'is a radical change having no justification in traditional thinking, properly understood. 
+      - Whether it is a desirable change is a question outside the proper province of an intermediate appellate court.'
+    - He argues that the change in the law proposed by Palmer J is a policy-based change, and as such should only be made by an 'ultimate' court, i.e. the High Court of Australia.
+  - So where does this leave the 'fusion fallacy'?
+- Textbook
+  - Proprietary remedies def 
+    - A proprietary remedy is directed to property to which the defendant holds title.
+    - There are two proprietary remedies. They are: 
+      - (1) The constructive trust def. 
+        - an order that the defendant hold identified property on trust for the plaintiff. The plaintiff will be entitled to the property in equity, or to a proportionate interest in that property assessed by the court.
+      - 2) The equitable lien def (or charge). 
+        - The lien is a security interest over property. Although it attaches to particular property, the plaintiff does not obtain a share of the property, as is the case with a constructive trust
+    - proprietary remedies vs personal remedies
+      - a plaintiff can make a claim to the property that is the subject-matter of a proprietary remedy.
+      - The property will vest in the plaintiff rather than the trustee in bankruptcy or liquidator, and therefore the defendant's unsecured creditors will not have access to it.
+      - Another advantage of proprietary remedies is that they are enforceable against third parties who have received the property in question from the defendant.
+      - In contrast, a personal remedy is enforceable only against the party against whom the remedy was ordered.
+      - proprietary remedies entitle the plaintiff to claim specific property to which she attaches special value, for which money cannot provide adequate compensation.
+    - The objectives of equitable remedies
+      - Coercion def
+        - Compelling the defendant to behave in a certain way
+        - Specific performance of contractual obligations
+        - Injunctions - act or cease acting
+      - Equitable Compensation def
+        - Compensates a plaintiff for loss caused by the commission of an equitable wrong, such as a breach of trust
+      - Disgorgement def
+        - Equity requires a wrongdoer who has made a profit from breach of an equitable obligation, such as a breach of confidence or fiduciary obligation, to disgorge those profits to the plaintiff.
+        - If the profit is identifiable - for example, as money in a bank account or land - the award of a constructive trust over the property also achieves disgorgement. 
+        - Alternatively, disgorgement can be effected by the award of an account of profits secured by the imposition of an equitable lien over property purchased with the plaintiff's money.
+      - Restitution
+        - Often similar to equitable compensation
+        - Secondary meaning of restoration 
+      - The doctrine of proprietary estoppel def
+        - enables the creation of proprietary interests where a party has r el ied to her detriment on an assumption that she will be granted an interest in or over property to which the party inducing the assumption holds title.
+  - Walsh v Lonsdale (1882) 21 ChD 9
+    - Background 
+      - The plaintiff orally agreed to take a lease of Providence Mill from the defendant for a term of seven years with the rent to be payable in advance. 
+        - At common law, a lease of this duration must be executed by deed but none had been executed. 
+          - Nevertheless, the plaintiff went into possession and paid rent quarterly in arrears. 
+        - The defendant demanded arrears of rent payable in advance. 
+          - When the plaintiff failed to pay, he distrained some of the plaintiff's personal property on the premises. 
+        - The plaintiff claimed damages for illegal distress, as well as orders of specific performance of the lease and an injunction to prevent the defendant from selling off the distrained chattels. 
+        - The relief claimed by the plaintiff depended on whether a valid equitable lease had been created. 
+      - Decision 
+        - The Court of Appeal held that the agreement created an equitable lease for seven years on the application of the maxim that equity considers as done that which ought to be done. 
+        - The agreement was specifically enforceable in equity and entitled the defendant to distrain the plaintiff's chattels since, under the equitable lease, rent was payable in advance
+      - Jessel MR
+        - He has a right to say, 'I have a lease in equity, and you can only re-enter if I have committed such a breach of covenant as would if a lease had been granted have entitled you to re-enter according to the terms of a proper proviso for re-entry.
+    - Hermann v Pitt (1890) 11 LR (NSW) Eq294
+      - Background 
+        - The plaintiffs were trustees of the will of Michael McMahon, who had settled his sheep stations and sheep on trust for his children for their lives, with remainders to his grandchildren. 
+        - Some of the sheep had been sold through the agency of Pitt to the second defendant Mclaughlin, who later resold them, paying some of the proceeds to Pin but retaining the balance. 
+        - The plaintiffs claimed that the sheep had been sold in breach of trust and that the trust estate was entitled to the proceeds of sale received by Mclaughlin. 
+      - Decision 
+        - The Court held that the claim failed, since Mclaughli n was a good faith purchaser of the sheep without actual or constructive notice of the trust.
+      - Owen J
+        - If a person in possession of goods, and purporting to sell as owner, sells to a purchaser for value without notice, and there are no circumstances creating suspicion and putting the purchaser on enquiry, such purchaser will obtain a good title in equity although it be shown that the vendor had no title or a defective title, or a title affected by trusts or equities.
+  - Giumelli v Giumelli [1999] HCA 10; (1999) 196 CLR 101 - 
+    - Gleeson CJ, McHugh, Gummow, and Callinan JJ
+      - In their submissions, the appellants stress the need to limit the measure of equitable relief lest the requirement for consideration to support a contractual promise be outflanked and direct enforcement be given to promises which did not give rise to legal rights. 
+      - However, in Verwayen (1990) 170 CLR 394 at 454, Dawson J, after pointing out that at common law, the role of estoppel was largely as a rule of evidence, stated that in equity its role has been vastly expanded to raise questions of substance. 
+  - Sidhu v Van Dyke [2014] HCA 19; (2014) 251 CLR 505 - 
+    - Background 
+      - The defendant and his wife were joint tenants of a rural property in New South Wales. 
+      - The defendant's brother-in-law and his wife, the plaintiff, occupied a cottage on the property, paying rent to the defendant's wife below market rates. 
+      - The plaintiff and defendant began an affair which led to the defendant's divorce. 
+      - The defendant promised, both orally and in writing, to the plaintiff, who stayed on at the property after her husband left her, that he would have the property subdivided and give the cottage to her. 
+      - Subdivision required the consent of the council, as well as of the defendant's former wife who remained joint tenant. 
+      - The plaintiff repaired and improved the property. 
+      - Relying on the defendant's promise, she did not negotiate a property settlement when she divorced her husband and did not look for employment. 
+      - The plaintiff claimed the benefit of an estoppel based on the defendant's promise. 
+      - The trial judge dismissed her claim on the basis that she had not detrimentally relied upon the defendant's promise, save to a limited degree. 
+      - The New South Wales Court of Appeal found that the plaintiff had relied on the defendant's promise to her detriment, with the burden of proof resting on the defendant to show that there had been no detrimental reliance.
+    - Decision 
+      - The High Court held:
+        - (1) The burden of proof rested on the plaintiff to establish detrimental reliance. 
+          - The burden had been satisfie d on the facts of the case. 
+          - It was not necessary for the conduct of the party estopped to be the sole inducement on the plaintiff to act to her detriment. 
+        - (2) It was no answer to the estoppel claim that the performance of the promise depended on council approval of the subdivision and on the consent of the defendant's ex-wife. 
+          - The categorical nature of the defendant's promise meant that the plaintiff was entitled to expect that the necessary consents would be forthcoming. 
+        - (3) Where the unconscionable conduct takes the form of failing to carry out a promise, the usual relief in estoppel will be to award the plaintiff the value of the promise. The relief awarded by the Court of Appeal - namely, an order of equitable compensation assessed as the value of the cottage at the date of judgment - was appropriate. 
+          - The case was remitted to the trial judge to determine that amount. 
+      - The extract focuses on the High Court's discussion of the measure of relief.
+  - Concurrent equity jurisdiction def is where equitable and common law remedies are both available, but equity provides a superior or alternative remedy (e.g., specific performance instead of damages); 
+  - exclusive jurisdiction def covers rights and remedies that exist only in equity (e.g., trusts, fiduciary duties); 
+  - auxiliary jurisdiction def supports common law claims by providing equitable assistance, such as discovery or injunctions to preserve legal rights.
+## Week 2: Equity and the Law of Obligations
+
+- Undue influence
+  - When will a court of Equity refuse to enforce an otherwise valid contract or gift?
+    - How is common law duress distinguished from undue influence in equity?
+      - When will undue influence be ‘presumed’?
+        - Why does it matter whether undue influence is ‘actual’ or ‘presumed’?
+          - How is ‘undue influence’ distinguished from the equitable doctrine vitiating contracts for ‘unconscionable dealing’?
+  - Common Law Duress
+    - Common law has a stricter /narrower approach to the type of conduct necessary to have a contract set aside for duress.
+      - NSW: Australia & New Zealand Banking Group v Karam (2005) 64 NSWLR 149 (unlawful act)
+  - Equity’s exercise of its jurisdiction to set aside transactions
+    - In Brusewitz v Brown [1923] NZLR 1106 Salmond J observed that, “the mere fact that a transaction is based on an inadequate consideration or is otherwise improvident, unreasonable, or unjust is not in itself any ground on which this Court can set it aside as invalid ... 
+    - The law in general leaves every man at liberty to make such bargains as he chooses ... they are binding on every party to them unless he can prove affirmatively the existence of one of the recognised invalidating circumstances, such as fraud or undue influence.”
+  - What is Undue influence?
+    - Equity permits vitiation of contracts for a broader range of more subtle forms of pressure.
+    - Described as a species of ‘equitable fraud’ 9also breach of fiduciary duty, breach of confidence, unconscionable dealing etc)
+    - Undue influence arises when one person exerts such ascendancy and influence over a weaker person’s decision-making, that the weaker person who relies upon them cannot be taken to have exercised their own free will.
+    - But see the difference of opinion between the majority and Gordon J in Thorne v Kennedy: how important is it to show that the weaker party has not exercised free will?
+  - What is ‘equitable Fraud’?
+    - In Nocton v Ashburton [1914] AC 932 : 
+      - ... when fraud is referred to...in Chancery in describing cases which were within its exclusive jurisdiction, it is a mistake to suppose that an actual intention to cheat must always be proved. 
+      - A man may misconceive the extent of the obligation which a Court of Equity imposes on him. 
+      - His fault is that he has violated, however innocently because of his ignorance, an obligation which he must be taken by the Court to have known, and his conduct has in that sense always been called fraudulent... What it really means in this connection is, not moral fraud in the ordinary sense, but breach of the sort of obligation which is enforced by a Court that from the beginning regarded itself as a Court of conscience.”
+  - Bank of Credit and Commerce International SA v Aboody [1990] 1 QB 923 at 952
+    - English Court of Appeal summarised the categories of undue influence into classes. 
+    - These are:
+      - Class 1: Actual undue influence
+      - Class 2A: Presumed undue influence in recognised relationships of risk;
+      - Class 2B: Presumed undue influence where a relationship of trust and confidence is proven to exist.
+    - Allcard v Skinner (1887) 36 Ch D 145, 171 per Cotton LJ: “The first class of cases may be considered as depending on the principle that no one shall be allowed to retain any benefit arising from his own fraud or wrongful act. 
+      - In the second class of cases the Court interferes, not on the ground that any wrongful act has in fact been committed by the donee, but on the ground of public policy, and to prevent the relations which existed between the parties and the influence arising there from being abused.”
+  - Actual undue influence (Category 1)
+    - Actual undue influence arises where there is no special relationship between the parties to the transaction, or there is no circumstances giving rise to a presumption of undue influence, however it can be shown that one person exercised ascendancy over the other and this influence resulted in the transaction.
+    - In cases of actual undue influence, four matters must be proved. 
+      - These were set out by Dixon J in Johnson v Buttress (1936) 56 CLR 113 at 134:
+        - (a) the other party to the transaction (or someone who induced the transaction for his or her own benefit) has the capacity to influence the complainant;
+        - (b) the influence was exercised;
+        - (c) its exercise was undue; and
+        - (d) its exercise brought about the transaction.
+    - BCCI SA v Aboody [1990] 1 QB 923: A man procured his wife’s signature to security documents, by telling her to do so, deliberately concealing the contents of the documents.
+    - Daniel v Drew [2005] EWCA Civ 507: nephew pressured his aunt, an 85-year old widow to procure her resignation as a trustee
+  - Presumed Undue Influence
+    - Johnson v Buttress (1936) 56 CLR 113, 134 per Dixon J
+      - But the parties may antecedently stand in a relation that gives to one an authority or influence over the other from the abuse of which it is proper that he should be protected. 
+    - When they stand in such a relation, the party in the position of influence cannot maintain his beneficial title to property of substantial value made over to him by the other as a gift, unless he satisfies the court that he took no advantage of the donor, but that the gift was the independent and well-understood act of a man in a position to exercise a free judgment based on information as full as that of the donee.”
+  - Presumed undue influence (Category 2A)
+    - Established relationships –
+      - Examples:
+        - Parent over child (not child over parent: McFarlane v McFarlane [2021] VSC 197
+        - Solicitor over client
+        - Trustee over beneficiary
+        - Doctor over patient: Bar-Mordecai v Hillston [2004] NSWCA 65
+        - Religious leader over adherent to the faith: McCulloch v Fern [2001] NSWSC 406: Allcard v Skinner (1887) 36 Ch D 145
+        - Guardian over ward
+        - Powers of Attorney Act 1988 (Qld) s 87
+    - What are the advantages of establishing a recognized relationship of influence?
+  - Presumed undue influence (Category 2B)
+    - Step 1: Prove that the relationship is one in which one party exerts dominance over the other.
+    - Step 2: Any transaction whereby the weaker party benefits the stronger is now presumed to have been secured by undue influence unless the stronger party proves otherwise.
+      - - requires evidence of relationship of ascendancy/dominion
+      - - does not require evidence of victimisation/ intent
+      - - does not require evidence of a disability or incapacity
+      - - See Johnson v Buttress (1936) 56 CLR 113
+  - Can you see why it matters whether undue influence is presumed?
+    - Consider the burden of proof: 
+      - Who must prove that the transaction was obtained by undue influence?
+  - Presumed Undue Influence - Rebutting the presumption
+    - The defendant must prove that the transaction was:
+      - “the independent and well-understood act of a man in a position to exercise a free judgment based on information as full as that of the donee”: Johnson v. Buttress (1936) 56 CLR 113 at 134 per Dixon J.
+        - (a) Independent (legal) advice: although not a blanket rule
+        - (b) Proving transaction “not improvident” ie there was adequacy of consideration (gifts may be more closely scrutinized)
+  - Consequence of a successful undue influence defence?
+    - RESCISSION OF THE CHALLENGED CONTRACT/GIFT
+  - Third Parties
+    - The transaction will be voidable by Frodo provided that Pippin had NOTICE of the undue influence, or that Gandalf was acting as Pippin’s agent in procuring the transaction
+  - A typical scenario?
+    - The bank guarantee:
+      - 1. Frodo wants to borrow from B (the Bank).
+      - 2. Bank wants security for the loan (e.g. a mortgage over property).
+      - 3. Bilbo is the owner of property.
+      - 4. Frodo procures Bilbo’s consent to giving a guarantee of Frodo’s debts, secured by a mortgage over Bilbo’s property in favour of B.
+      - 5. If Frodo exercised undue influence over Bilbo, the mortgage may be set aside, unless B can establish B had no notice of the undue influence.
+  - Special equity of wives
+    - Yerkey v Jones (1939) 63 CLR 649
+    - Affirmed in Garcia v National Australia Bank Ltd (1998) 194 CLR 395
+    - Since wives are presumed to ‘repose trust and confidence in [their] husbands in matters of business’, a bank taking a voluntary guarantee from a wife to secure her husband’s debts will be hotaken to have notice that she may not have given informed consent.
+  - Often several arguments will be run on the same facts . . .
+    - 1. X exerted undue influence over V.
+    - 2. X took unconscionable advantage of V’s special weakness.
+    - 3. X breached a statutory obligation not to engage in unconscionable conduct.
+      - See Family Law Act 1975 (Cth), s 90KA (family law agreements assessed according to the ‘principles of law and equity . . .’
+      - See also Australian Securities and Investment Commission Act 2001 (Cth) ss 12CA-12CC, considered in ASIC v Kobelt [2019] HCA 18.
+- The doctrine of unconscionable dealing
+  - When will a court of Equity refuse to enforce an otherwise valid contract?
+  - “Unconscionable”
+    - Equity as a court of conscience
+    - Unconscionable conduct as a basis for equitable doctrines:
+      - The fundamental principle upon which equity acts namely that a party having a legal right shall not be permitted to exercise it in such a way that the exercise amounts to unconscionable conduct: 
+        - Legione v Hateley (1983) 152 CLR 406, 444
+    - The specific doctrine of unconscionable dealing:
+      - Unconscionable dealing’ concerns the situation where one party to a transaction is under a ‘special disability’ in dealing with the other, which disability was sufficiently evident to the other to make it prima facie unconscionable for the other to take the benefit of the transaction: 
+        - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447, 474 per Mason J; 
+        - Kakavas v Crown Melbourne Ltd (2013) 250 CLR 392; 
+        - Thorne v Kennedy [2017] HCA 49
+  - Very early case law . . .
+    - On ‘catching bargains’ – typically involving expectant heirs who, in youthful folly – might agree to sell their inheritance at a serious undervalue to cover their debts.
+      - For the principles, see Fry v Lane (1888) 40 Ch D 312.
+    - See ASIC v Kobelt [2019] HCA 18, [280]-[295](Edelman J), for some history of this jurisdiction.
+    - In the 19th century, Equity’s concept of unconscionable dealing was broad, but it narrowed from the mid- 20th century. 
+      - In the earlier cases, conduct that was ‘unreasonable’ and ‘unfair’ was caught.
+  - Key Australian High Court cases . . .
+    - Blomley v Ryan (1956) 99 CLR 362
+    - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+    - Louth v Diprose (1992) 175 CLR 621
+    - Bridgewater v Leahy (1998) 194 CLR 457
+    - Kakavas v Crown Melbourne (2013) 250 CLR 392
+    - Thorne v Kennedy (2017) 263 CLR 85
+    - Stubbings v Jams 2 Pty Ltd [2022] HCA 6
+  - Elements of Unconscionable Conduct
+    - See Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+      - Equity may set aside a transaction on the grounds of unconscionability where:
+      - A relationship exists that places one party at a special disadvantage vis-a-vis the other the party with the advantage has knowledge of the special disadvantage of the other; and
+      - that has been and unconscientious exploitation of the weaker party’s special disadvantage
+  - Turner v Windever [2003] NSWSC 1147 [105] (Austin J)
+    - The weaker party must at the time of entering into the transaction, suffer from a special disadvantage vis-a-vis the stronger party;
+    - the special disadvantage must seriously affect the weaker party’s capacity to judge or protect his or her own  interests;
+    - the stronger party must know of the special disadvantage (or know of facts that would raise the possibility in the mind of any reasonable person);
+
+    - that party must take advantage of the opportunity presented by the disadvantage, and;
+    - the taking of the advantage must have been unconscientious.
+    - See Ward P in Nitopi v Nitopi (2022) 109 NSWLR 390
+  - Inadequacy of Consideration
+    - [I]nadequacy of consideration, while never of itself a ground for resisting enforcement, will often be a specially important element in cases of this type.
+    - It may be important in either or both of two ways — firstly as supporting the inference that a position of disadvantage existed, and secondly as tending to show that an unfair use was made of the occasion: Blomley v Ryan (1956) 99 CLR 362 (Fullager J)
+  - Blomley v Ryan (1956)
+    - Purchaser plies the vendor (a known alcoholic) with rum to procure a contract for sale of his land on terms favourable to the purchaser.
+    - Vendor refuses to complete the contract, and the purchaser sues for specific performance of the contract.
+    - The vendor pleads that the contract was obtained by unconscionable dealing, and succeeds in having the contract rescinded.
+    - See Fullagar J’s reasons (Sourcebook p 156)
+  - What kinds of special disadvantage?
+    - “. . . poverty or need of any kind, sickness, age, sex, infirmity of body or mind, drunkenness, illiteracy or lack of education, lack of assistance or explanation where assistance or explanation is necessary. 
+    - The common characteristic seems to be that they have the effect of placing one party at a serious disadvantage vis-à-vis the other. 
+    - It does not appear to be essential in all cases that the party at a disadvantage should suffer loss or detriment by the bargain.” ( Fullagar J)
+    - See also ACCC v Samton Holdings Pty Ltd (2002) 117 FCR 301, 318
+    - Meiners v Gunn [2020] WASC 18
+  - Commercial Bank of Australia v Amadio
+    - See ‘Leading Cases: CBA v Amadio’ video for a detailed explanation of the case.
+    - What was the special disability?
+      - “The result of the combination of their age, their limited grasp of written English the circumstances in which the bank presented the document to them for their signature, and most importantly, their lack of knowledge and understanding of the contents of the document was that, to adapt the words of Fullagar J... they lacked assistance and advice where assistance and advice were plainly necessary if there were to be any reasonable degree of equality between themselves and the bank” (Mason J)
+  - Cases since Amadio…
+    - Louth v Diprose (1992) - a majority set aside a gift of real estate from a solicitor who was besotted with the woman to whom he gave the gift.
+    - She had created a sense of crisis, and played on his desire to look after her.
+    - But note the strong dissent . . .
+  - Bridgewater v Leahy (1998)
+    - An inter vivos sale of farming land by an uncle to a nephew was set aside after the uncle’s death (by majority).
+    - Why? The estate argued that the nephew had taken advantage (passively) of the uncle’s chauvinistic desire to keep the farm in the family (rather than let city- bound daughters sell it off after his death).
+    - The nephew had agreed to buy the farm, but only at a serious undervalue.
+    - In ASIC v Kobelt, Edelman J described this case as a ‘high water mark’ in the broader view of unconscionability.
+  - Knowledge of the Special Disadvantage
+    - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+    - Kakavas v Crown Melbourne Ltd [2013] HCA 25
+  - Kakavas v Crown Melbourne (2013)
+    - HCA rejected an argument that a casino took unconscientious advantage of a problem gambler, by allowing him to continue to play (and to lose).
+    - The court held that the plaintiff must establish that the defendant acted with a ‘predatory state of mind’; that there had been ‘victimization’ and ‘exploitation’ of the plaintiff. 
+    - It was not enough to show that one commercial party was inadvertent to the best interests of the other.
+      - T]here is little scope for the intervention of equity to undo the result of transactions undertaken on the unmistakable footing that no quarter is asked and none is given by either party to the transaction, at least so long as the transaction has been conducted honestly in accordance with the rules of the game. 
+      - It was not suggested that Crown ran a dishonest game. ... [O]ne is not concerned here with a casino operator preying upon a widowed pensioner who is invited to cash her pension cheque at the casino and to gamble with the proceeds. 
+      - One might sensibly describe that scenario as a case of victimisation. 
+      - One could also speak sensibly of a gambler, who presents at a casino with the cash necessary to play the game, as a victim of the casino, if there are factors in play other than the occurrence of the outcome that was always on the cards. 
+      - For example, the gambler may be evidently intoxicated, or adolescent, or senescent, or simply incompetent. 
+      - But absent additional factors of this nature, it is difficult sensibly to describe the accommodation by an operator of a casino of a patron’s desire to gamble as a case of victimisation. 
+      - That is especially so in the case of the high roller who has the means, should he or she enjoy a run of luck, to hurt the casino.
+  - Thorne v Kennedy (2017)
+    - Question for the court: Should a disadvantageous pre-nuptial agreement be set aside?
+    - What was the special disadvantage of the bride?
+    - How was the husband’s conduct unconscientious?
+    - She did receive independent legal advice that she should NOT sign the agreement because it was highly disadvantageous to her, but she signed anyway. 
+      - Why did this not defeat her claim?
+    - In effect, it was a position of special disadvantage which he created bringing her to this country, keeping her here for many months in a state of belief that he would marry her, allowing preparations for the wedding to proceed, and only then, when she had ceased for all practical purposes to have any other option, subjecting her to the pressure of refusing to marry her unless she agreed to the terms of the first agreement. 
+      - It was thus also a position of special disadvantage of which Mr Kennedy was aware, or at least of which a reasonable person in his position would have conceived a real possibility. (Nettle J)
+      - Underlying the difference in approach is an important point of principle. 
+      - The point of principle concerns the relationship between undue influence and the judgment of the person whose will is said to have been affected. 
+      - In this particular case, Ms Thorne's capacity to make an independent judgment was not affected. 
+        - The primary judge found that Ms Thorne was able to comprehend what she was doing when she signed the agreements, and that she knew and recognised the effect and importance of the advice she was given. 
+        - Moreover, Ms Thorne wanted the marriage to Mr Kennedy to proceed and to prosper. 
+        - She knew and understood that it would proceed only if she accepted the terms proffered. Once she decided to go ahead with the marriage, it was right to say, as the primary judge said, that she had "no choice" except to enter into the agreements. 
+        - No other terms were available. 
+        - But her capacity to make an independent, informed and voluntary judgment about whether to marry on those terms was unaffected and she chose to proceed. 
+        - Her will was not overborne. 
+      - Undue influence does not protect against bad deals. 
+        - Here, the equitable jurisdiction will be engaged if entry into the agreements was "the outcome of such an actual influence over the mind of [Ms Thorne] that it cannot be considered [her] free act"[154] (emphasis added). 
+        - Put another way, when Ms Thorne signed the agreements, was her capacity to make independent judgments impaired so that she was not acting in the free exercise of her independent and voluntary will?
+      - Independent legal advice?
+        - [123] It is not a sufficient response to the conclusion of unconscionable conduct to point to the fact that Ms Thorne received independent legal advice about the two agreements and chose to reject her solicitor's recommendation on each occasion. 
+        - The fact that Ms Thorne was willing to sign both agreements despite being advised that they were "terrible" serves to underscore the extent of the special disadvantage under which Ms Thorne laboured, and to reinforce the conclusion that in these circumstances, which Mr Kennedy had substantially created, it was unconscientious for Mr Kennedy to procure or accept her assent.
+  - Stubbings v Jams 2 Pty Ltd
+    - Background
+      - Stubbings (S) was unemployed, uneducated and clearly naïve in commercial matters
+      - S owned two properties and held about $530K equity in those properties, but he had no income whatsoever.
+      - He was in need of a home, so wanted to buy a ‘little house’.
+      - He fell into the hands of Zourkas, (a ‘consultant’ in the business of introducing potential borrowers to AJ Lawyers). 
+        - AJ Lawyers, (Jeruzalski) were in turn acting for clients (Jams 2) who wanted to invest in mortgages.
+      - The primary judge found that Mr Zourkas played an "important and essential" role in these transactions, in that his involvement ensured that AJ Lawyers never dealt directly with the borrower or guarantor, such as the appellant.
+      - S agreed to borrow over $1m, in the name of a solely owned company, (VBC) to buy a property for a home. He gave a personal guarantee of the loan.
+      - A case for relief against an unconscionable attempt to enforce legal rights is established in this case because Mr Jeruzalski had sufficient appreciation of the appellant's vulnerability, and the disaster awaiting him under the mortgages, that his conduct in procuring the execution of the mortgages is justly described as unconscientious.
+        - Mr Jeruzalski, on behalf of the respondents, had a lively appreciation of the likelihood that the loss of the appellant's equity in his properties would be suffered by reason of his financial naïveté and his lack of means.
+      - The certificates contained nothing to suggest that the appellant had actually turned his attention to the difference between the cost of his existing borrowings with Commonwealth Bank and the proposed loans, or to how he would service the proposed loans.
+    - Facts which made the loan unconscionable. . .
+      - The extortionate fees and the high interest rate would immediately chew up any equity he had in his existing properties, (the first mortgage loan was for a sum of $1,059,000 at an interest rate of 10 per cent per annum and a default rate of 17 per cent per annum. 
+      - The second mortgage loan was for a sum of $133,500 at an interest rate of 18 per cent per annum and a default rate of 25 per cent per annum) and because he had no other means to repay the loan.
+        - This was known to Zourkas, and AJ Lawyers were at least ‘wilfully blind’ to these facts.
+      - The certificates of independent legal and financial advice were not explained by genuinely independent advisors. 
+      - They were artifices to try to shield the lender from responsibility for an obviously exploitative transaction.
+    - Kiefel CJ, Keane and Gleeson JJ
+      - At [38] they cite Kakavas at [20] – it is not enough that the transaction is improvident or risky.
+      - They find S was incapable of understanding the risks involved in the transaction, and AJ Lawyers (and hence its client) had knowledge of that, and exploited that special disadvantage.
+      - Interposing a company to borrow the funds, and requiring the certificates, with ‘bland boilerplate language’, did not negate their actual knowledge of dangerous nature of the transaction for S.
+    - Independent advice
+      - Useless and basic advice and certificates signed that did not amount to true independent advice
+    - Statutory adoption of unconscionable dealing
+      - EG: Competition and Consumer Act 2010 (Cth) Sched 2, ss 20-22; ASIC Act 2001 (Cth) ss 12CA-12CC.
+      - In Stubbings, Gordon J focused on breach of the ASIC Act
+  - Louth v Diprose (1992) 175 CLR 621
+    - Clarify the procedural history of the case.
+      - On her refusal he commenced proceedings in the Supreme Court of South Australia for a declaration that he was beneficially entitled to the land.
+      - An appeal by Louth to the Full Court (Jacobs A.C.J. and Legoe J., Matheson J. dissenting) was dismissed.
+      - She appealed from that Court to the High Court pursuant to special leave.
+    - Ascertain the material facts
+      - Man (Diprose) gave $58,000 to a woman (Louth) he was infatuated with
+      - Woman was largely indifferent to the man
+      - Money used to purchase a house for the woman and her children from a previous marriage
+      - Woman registered as the proprietor of the house
+      - Relationship between parties deteriorated
+      - Man filed a lawsuit to recover the land
+    - Judge found:
+      - Woman created a crisis atmosphere to influence man to provide money for the house
+      - Woman used man’s love and suicide threats to manipulate him
+      - Woman was aware of man’s infatuation and inability to judge his best interests
+    - State the issue raised by the material facts and how the court answered it (the result of the case)
+      - Courts of equity can provide relief in cases of unconscionable dealing.
+    - Relief can be granted if:
+      - One party in the transaction had a special disability that created an imbalance between the two parties, making it difficult for them to deal with each other fairly.
+      - The other party was aware of this special disability, and it would be considered unfair or unconscionable for them to take advantage of the disadvantaged party’s agreement to the transaction.
+      - whether a gift by the respondent to the appellant was open to challenge on the ground of either unconscionable conduct or undue influence.
+    - Identify the reasoning which supported the decision and the ratio of the case.
+      - Court ordered the woman to transfer the house to the man
+      - Full Court of the Supreme Court upheld the findings and dismissed the woman’s appeal
+  - ASIC v Kobelt [2019] HCA 18
+    - ASIC pursued a store owner who ran a credit system for Aboriginal customers in a remote community which involved holding their Centrelink payments for them and allowing them to draw down from their accounts to make purchases
+    - This Photo by Unknown Author is licensed under CC BY-ND
+    - ASIC’s claim . . .
+      - Kobelt’s system was unconscionable within the terms of the ASIC Act 2001 (Cth) ss 12CA-12CC, which adopted and arguably extended the concept of unconscionable conduct ‘within the meaning of the unwritten law’, and allowed
+      - ASIC to pursue penalties, without identifying any individual complainant who had been disadvantaged.
+        - ASIC won at trial in the Federal Court.
+        - Kobelt won an appeal to a full bench.
+        - ASIC appealed to the High Court.
+  - In the High Court
+    - Majority:
+      - Kiefel CJ and Bell J – Kobelt’s ‘book up’ credit arrangements for his outback store were not unconscionable within the meaning of the unwritten law, and therefore were not unconscionable under the statute.
+      - Gageler J – Kobelt’s system did not exploit customers’ vulnerability – therefore was not unconscionable.
+      - Keane J – agreed with Kiefel CJ and Bell J.
+    - In dissent:
+      - Nettle and Gordon JJ – the scheme was unconscionable within the broader terms of the statute.
+      - Edelman J – the scheme was unconscionable in equity and under the statute.
+  - Expressions of the prevailing ‘narrow’ view . . .
+    - Gageler J [92]: Unconscionable conduct is ‘conduct that is so far outside societal norms of acceptable commercial behaviour as to warrant condemnation as conduct that is offensive to conscience’.
+    - Keane J [115]-[118]: Unconscionable conduct involves ‘exploitation’, and ‘predatory intent’, ‘victimization of the vulnerable’. 
+      - And ‘heedlessness of, or indifference to, the best interests of the other party is not sufficient’.
+  - We shall see other manifestations of the concept of ‘unconscionability’ throughout our topics.
+    - Look out for the significance of unconscionable conduct in equitable estoppel, and in constructive trusts.
+  - 1. Duress (common law)
+    - two elements of duress:
+      - 1. pressure amounting to compulsion of the will of the victim; and
+      - 2. the illegitimacy of the pressure exerted
+  - Duress involves illegitimate pressure amounting to compulsion
+  - 2. Undue influence (equity)
+    - Plaintiff might be capable of looking after own interests, but is subject to (elements of undue influence):
+      - pressure
+      - influence
+      - manipulation
+      - misinformation
+    - such that the plaintiff cannot be said to have exercised free will.
+  - Undue influence involves a skewing of free will but not necessarily through illegitimate means.
+    - Unconscionable conduct involves taking advantage of a vulnerable party; often considered an extension or subset of undue influence.
+- Undue influence + unconscionable conduct
+  - Facts suggest that plaintiff:
+    - was at a special disadvantage vis-a-vis the defendant; AND
+    - influence was applied by the defendant such that the plaintiff did not exercise his or her own free will.
+    - D must show signing is fair, just, and reasonable
+- Undue Influence
+  - Johnson v Buttress (1936) 56 CLR 113
+    - ‘The jurisdiction of a court of equity to set aside gifts [and contracts] inter vivos which have been procured by undue influence is exercised where
+      - 1. undue influence is proved as a fact, or [‘actual undue influence’]
+        - 1. The defendant must have a capacity to influence the plaintiff; 
+        - 2. influence must have been exercised; 
+        - 3. the influence must have been undue; and it must result in the plaintiff's entry into the transaction
+      - 2. where, undue influence being presumed from the relations existing between the parties, the presumption has not been rebutted.’ [‘presumed undue influence’]
+    - Old illiterate man (67) - gave property to niece he was dependant. He gave it to her willingly and son disputed on the grounds that the old man did not have capacity to hand it to her.
+      - Found presumed undue influence, even if no wrongdoing was determined
+  - Duress vs Undue influence
+    - The defense of duress exists to protect against contracts that are obtained by some type of threat or coercion. 
+    - The defense of undue influence exists for a more specialized role, to protect against assent obtained by unfair persuasion.
+- Undue influence vs Unconscionable conduct
+  - Undue influence focuses on the quality of consent to a contract, while unconscionable conduct focuses on the conduct of the stronger party, when one party exploits a special disadvantage of the other.
+- Promissory Estoppel
+  - Waltons Stores (Interstate) Ltd v Maher [1988] HCA 7; (1988) 164 CLR 387
+    - Court: High Court of Australia
+    - Judges: Mason CJ, Wilson, Brennan, Deane, and Gaudron JJ
+    - Legal Doctrine: Promissory Estoppel
+  - Background:
+    - Waltons Stores negotiated a lease with the Mahers for land development.
+    - The parties agreed on the essential terms, and Mahers' solicitor sent the signed lease to Waltons for execution.
+    - Relying on Waltons’ representations, Mahers demolished the existing building and began constructing a new one.
+    - Waltons, however, changed its mind and deliberately delayed signing the lease.
+    - By the time Waltons withdrew, 40% of the new building was completed.
+    - Mahers sought specific performance of the lease or damages under the Supreme Court Act 1970 (NSW) s 68.
+  - Issue:
+    - Was Waltons estopped from denying the existence of the lease due to Mahers’ detrimental reliance?
+  - Decision:
+    - High Court ruled in favour of Mahers.
+    - Waltons was estopped from denying the lease because:
+    - They represented that they would sign it (Mason CJ, Wilson & Brennan JJ).
+    - Mahers relied on this assumption and suffered detriment.
+    - Waltons knew Mahers were acting on this assumption and failed to correct it.
+  - Key Judicial Reasoning:
+    - Mason CJ & Wilson J:
+      - Estoppel applies even if there is no pre-existing contractual relationship.
+      - Recognised promissory estoppel beyond contract law.
+    - Brennan J: Set out six elements of equitable estoppel:
+      - 1. Plaintiff assumes or expects a legal relationship will exist.
+      - 2. Defendant induces that assumption.
+      - 3. Plaintiff relies on the assumption.
+      - 4. Defendant knows or intends reliance.
+      - 5. Plaintiff suffers detriment.
+      - 6. Defendant fails to act to prevent detriment.
+    - Deane J:
+      - Estoppel can be used as a cause of action (sword) rather than just a defence (shield).
+      - Supports expanding equitable relief where a party is misled into reliance.
+  - Ratio Decidendi:
+    - Promissory estoppel extends beyond contract law—a non-contractual promise can be enforced if it would be unconscionable to let the promisor withdraw.
+    - Detrimental reliance and unconscionability are key factors in establishing estoppel.
+    - Waltons’ silence while knowing Mahers were acting on an incorrect assumption was unconscionable conduct.
+  - Significance:
+    - Established promissory estoppel as a cause of action (can be used offensively, not just defensively).
+    - Broadened the scope of estoppel beyond contract law, reinforcing equitable intervention in commercial dealings.
+    - Influenced later cases like Commonwealth v Verwayen (1990) 170 CLR 394 on the limits of equitable estoppel.
+- Equity and Voidable Contracts
+  - Equitable Rescission def
+    - unilateral mistake, misrepresentation (even if innocent), duress, undue influence, unconscionability, breach of fiduciary duty, and the failure to explain the nature and effect of a guarantee under Yelkey v Jones (1939) 63 CLR 649 are all flaws in the bargaining process which may result in the contract being set aside.
+  - Thorne v Kennedy [2017] HCA 49; (2017) 263 CLR 85
+    - Court: High Court of Australia
+    - Judges: Kiefel CJ, Bell, Gageler, Keane, Edelman, Nettle, and Gordon JJ
+    - Legal Issues: Undue Influence & Unconscionable Conduct (Pre-Nuptial Agreements)
+    - Background:
+      - Ms Thorne, an assetless woman with insecure Australian migration status, became engaged to Mr Kennedy, a wealthy property developer.
+      - From the outset, Mr Kennedy stated that his fortune would go to his children from a previous marriage.
+      - Less than two weeks before the wedding, Mr Kennedy presented a pre-nuptial agreement, insisting the marriage would not proceed unless signed.
+      - Ms Thorne’s independent solicitor strongly advised against signing, calling it "entirely inappropriate" and the worst she had seen.
+      - Despite this, Ms Thorne signed the agreement due to emotional pressure and fear of losing the relationship.
+      - A post-nuptial agreement, with identical terms, was signed after the wedding.
+      - Upon separation (less than four years later), Ms Thorne was entitled to only $50,000 under the agreements. She sought rescission of the agreements and a financial settlement under the Family Law Act 1975 (Cth).
+    - Legal Issues:
+      - Were the pre-nuptial and post-nuptial agreements vitiated by undue influence or unconscionable conduct under Family Law Act 1975 (Cth) s 90K(1)(b)?
+    - Decision:
+      - The High Court set aside the agreements on the grounds of undue influence and unconscionability.
+      - Overruled the Full Family Court's decision, which found no undue influence or unconscionability.
+    - Key Judicial Reasoning:
+      - 1. Undue Influence (Kiefel CJ, Bell, Gageler, Keane & Edelman JJ)
+        - Undue influence occurs when one party’s will is overborne by another’s, limiting their ability to make a free decision.
+        - Ms Thorne was pressured into signing because:
+          - Mr Kennedy gave her no realistic choice—the wedding would not proceed otherwise.
+          - The agreements were presented just before the wedding, leaving no time for proper reflection.
+          - Her solicitor explicitly advised against signing, yet she felt powerless to refuse.
+          - Her financial dependency and migration status made her vulnerable.
+        - The High Court found that Ms Thorne's judgment was significantly impaired, meaning her decision to sign was not a "free act."
+      - 2. Unconscionable Conduct
+        - A transaction is unconscionable when:
+          - One party is at a special disadvantage (due to vulnerability or dependence).
+          - The other party unconscientiously exploits that disadvantage.
+          - The High Court found that Mr Kennedy took advantage of Ms Thorne’s weaker position.
+        - The agreements were grossly unfair, reinforcing that the transaction was unconscionable.
+      - Dissenting Opinion (Gordon J)
+        - Argued that Ms Thorne’s will was not impaired—she made a conscious choice to marry under Mr Kennedy’s terms.
+        - Found no undue influence, but acknowledged the financial imbalance and unconscionability.
+    - Ratio Decidendi:
+      - Pre-nuptial and post-nuptial agreements can be set aside if signed under undue influence or unconscionable circumstances.
+      - Undue influence does not require unlawful pressure, only that one party’s decision-making ability was compromised.
+      - Unconscionability applies when one party takes advantage of another’s vulnerability, particularly in emotionally charged relationships.
+    - Significance:
+      - Clarified the test for undue influence in family law agreements.
+      - Strengthened protections for vulnerable parties in financial agreements under the Family Law Act.
+      - Confirmed that pre-nuptial agreements are not automatically enforceable if one party lacks true bargaining power.
+  - Unconscionability in Equity
+    - Commercial Bank of Australia Ltd v Amadio [1983] HCA 14; (1983) 151 CLR 447
+      - Court: High Court of Australia
+      - Judges: Gibbs CJ, Mason, Wilson, Deane, and Dawson JJ
+      - Legal Doctrine: Unconscionable Conduct
+      - 1. Procedural History:
+        - The Commercial Bank of Australia sought to enforce a guarantee and mortgage signed by Mr and Mrs Amadio, elderly Italian migrants, over their home.
+        - The Amadios applied for rescission, arguing that the bank had engaged in unconscionable conduct.
+        - The trial judge ruled in favour of the Amadios, finding the guarantee unenforceable due to their misunderstanding of its terms and the bank’s knowledge of their disadvantage.
+        - The bank appealed, and the Full Court of the Supreme Court of South Australia upheld the trial judge’s decision.
+        - The bank then appealed to the High Court of Australia.
+      - 2. Facts:
+        - The Amadios’ son was a builder with a large unauthorised overdraft at the bank.
+        - The bank selectively dishonoured the son’s cheques, keeping him artificially solvent to his creditors while protecting its own interests.
+        - The bank agreed to extend the son’s overdraft if the Amadios signed a guarantee and mortgaged their home as security.
+        - A bank manager visited the Amadios at home, presenting the guarantee documents for signing.
+        - The Amadios believed:
+          - Their liability was capped at $50,000.
+          - The guarantee would last for only six months.
+          - Their son’s business was financially stable.
+        - In reality, the guarantee was unlimited in amount and duration, exposing them to significant financial risk.
+        - The bank knew that the Amadios had been misled by their son but did not correct their misunderstanding.
+        - The son’s business later collapsed, and the bank sought to enforce the guarantee, prompting the Amadios to seek relief.
+      - 3. Issues:
+        - Did the bank engage in unconscionable conduct by enforcing the guarantee despite the Amadios' special disadvantage?
+        - Did the bank owe a duty to disclose the true nature of the guarantee to the Amadios?
+        - Was the guarantee voidable under equity principles?
+      - 4. Decision:
+        - The High Court ruled (4:1) in favour of the Amadios, setting aside the guarantee and mortgage on the basis of unconscionable conduct.
+        - Dawson J dissented, arguing that the trial judge found no evidence of unconscionable conduct and that the findings should not be disturbed.
+      - 5. Judicial Reasoning:
+        - Mason CJ (Leading Judgment on Unconscionable Conduct)
+          - Unconscionable conduct occurs when a stronger party takes unfair advantage of another party’s special disadvantage.
+          - The Amadios were at a special disadvantage because:
+            - Elderly (76 and 71 years old).
+            - Limited command of written English.
+            - No business experience—they relied on their son’s advice.
+            - Misled about the guarantee’s terms.
+            - The bank was aware of their disadvantage but failed to correct their misunderstanding, instead exploiting their situation.
+            - The bank had a duty to ensure the Amadios understood the contract, but it did not do so.
+          - Relief can be granted when:
+            - One party suffers a special disadvantage affecting their ability to make decisions in their best interest.
+            - The stronger party knows or should have known about this disadvantage.
+            - The stronger party unconscientiously exploits this disadvantage.
+        - Deane J (Further Developed the Test for Unconscionable Conduct)
+          - Extended equity’s jurisdiction to relieve against transactions involving unconscionable dealing.
+          - A transaction is unconscionable when:
+          - One party has a special disadvantage (e.g., age, illiteracy, emotional dependence).
+          - The other party knows or ought to know of the disadvantage.
+          - The stronger party exploits the situation by securing an unfair transaction.
+          - The transaction is not fair, just, and reasonable.
+          - The burden shifts to the stronger party to prove that the transaction was fair once a special disadvantage is established.
+        - Gibbs CJ (Duty of Disclosure Approach)
+          - The bank had a duty to disclose the unusual nature of the guarantee, given that it was:
+            - Unlimited in liability.
+            - Unlimited in duration.
+            - Since the bank failed to disclose these unusual features, the Amadios were entitled to rescission.
+        - Dawson J (Dissenting Judgment)
+          - Found no unconscionable conduct by the bank.
+          - Believed that the trial judge’s findings should not be overturned.
+          - Argued that the bank was not responsible for ensuring the Amadios understood the guarantee.
+      - 6. Ratio Decidendi (Legal Principles Established)
+        - Unconscionable conduct occurs when a stronger party takes unfair advantage of another party’s special disadvantage.
+        - A special disadvantage may arise from age, language barriers, lack of education, financial distress, or reliance on another person’s advice.
+        - The stronger party must know or ought to know of the weaker party’s disadvantage.
+        - The burden shifts to the stronger party to prove that the transaction was fair, just, and reasonable.
+      - 7. Significance of the Case:
+        - Expanded the doctrine of unconscionable conduct in Australia.
+        - Established that passive exploitation (not just active pressure) can amount to unconscionability.
+        - Strengthened equity’s role in protecting vulnerable parties in financial transactions.
+        - Influenced later cases, including:
+          - Louth v Diprose (1992) 175 CLR 621 (emotional dependence as special disadvantage).
+          - Kakavas v Crown Melbourne Ltd (2013) 250 CLR 392 (gambling addiction as a situational disadvantage).
+          - Stubbings v Jams 2 Pty Ltd (2022) 399 ALR 409 (asset-based lending and unconscionability).
+      - 8. Related Legal Developments:
+        - (A) Unconscionable Conduct under Statute
+          - Australian Consumer Law s 20 and Australian Securities and Investments Commission Act 2001 (Cth) s 12CA & 12CB prohibit unconscionable conduct.
+          - These provisions extend the principles from Amadio to statutory protections.
+        - (B) Asset-Based Lending
+          - Unconscionable conduct also applies to lending practices, where:
+            - Loans are secured against assets without assessing the borrower’s ability to repay.
+            - The lender deliberately avoids knowledge of the borrower’s circumstances.
+            - Found to be unconscionable in Elkofairi v Permanent Trustee Co Ltd (2002) 11 BPR 20,841 and Stubbings v Jams 2 Pty Ltd (2022) 399 ALR 409.
+        - (C) Guarantor Protections
+          - Banks must ensure guarantors understand their obligations.
+          - If guarantors do not receive independent legal advice, they may have grounds to challenge enforcement.
+          - Courts may assess whether banks have followed the Code of Banking Practice.
+      - 9. Conclusion:
+        - Commercial Bank of Australia v Amadio is a landmark case establishing equitable relief against unconscionable conduct.
+        - The decision strengthened legal protections for individuals in financial transactions, particularly guarantors and vulnerable consumers.
+        - The case remains a leading authority on unconscionable dealing in Australian law.
+## Week 3: Estoppel
+
+- Overview of Estoppel
+  - What does the word mean?
+    - The word ‘estoppel’ describes an entitlement to stop one person from acting inconsistently with a proposition of fact or law.
+      - Derives from the French word, ‘estoupe’
+      - Covers a range of different doctrines at common law and in equity 
+        - ‘because a man’s own act or acceptance stoppeth or closet up his mouth to allege or plead the truth
+  - Overview of Estoppels in Law
+    - Estoppels by Judgment 
+      - Common law:
+        - Res judicata 
+        - Anshun estoppel
+      - Issue estoppel
+    - Estoppel by writing 
+      - Common law estoppel by deed
+    - Estoppels by conduct (in pais)
+      - Common Law estoppels:
+        - By convention
+      - By representation
+        - Equitable Estoppels:
+        - Proprietary Promissory
+  - Estoppels by Conduct (in pais)
+    - Common law estoppels by conduct
+      - Estoppel by convention
+      - Estoppel by representation
+    - Equitable estoppels by conduct
+      - Proprietary estoppel
+        - By acquiescence
+        - By encouragement
+      - Promissory estoppel
+  - Object of estoppels by Conduct (in pais)
+    - The object of estoppel in pais is to prevent an unjust departure by one person from an assumption adopted by another as the basis of some act or omission which, unless the assumption be adhered to, would operate to that other's detriment. Whether a departure by a party from the assumption should be considered unjust and inadmissible depends on the part taken by him in occasioning its adoption by the other party..... But, in each case, he is not bound to adhere to the assumption unless, as a result of adopting it as the basis of action or inaction, the other party will have placed himself in a position of material disadvantage if departure from the assumption be permitted.’
+    - Thomson v Palmer (1933) 49 CLR 507, 547 (Dixon J) (an equity case)
+      - ‘...the real detriment or harm from which the law seeks to give protection is that which would flow from the change of position if the assumption were deserted that led to it.’
+    - Grundt v Great Boulder Pty Gold Mines Ltd (1937) 59 CLR 641, 674-6 (Dixon J) (a common law case)
+  - Grundt v The Great Boulder Proprietary Gold Mines Ltd (1937) 59 CLR 641
+    - The case concerned an agreement in relation to Grundt’s right to mine gold from a specified seam. On 8 May 1935, the mine owner complained to Grundt that he was mining in an area that was not covered by the agreement. Grundt offered to stop all mining until the dispute as to the extent of the seam covered by the agreement could be settled by arbitration. The owner’s representative told him not to do this, but it was still clear that there was a dispute.
+      - The mine owner continued to process all of the ore delivered by G and to account for a half share even though the owner was aware that Grundt was still mining the disputed area.
+      - In August 1936, the owner purported to cancel the agreement. The miners contended that the mine owner was not entitled to cancel or was precluded by its conduct from asserting that the miners were working outside the tribute and from recovering the profits received by them.
+    - The majority (Dixon and McTiernan J) found that there was no estoppel since the owner had always made it clear that it disputed Grundt’s right to the ‘extra’ ore. In other words, there was no representation by the owners nor were the owners misled by them into an assumption that the ‘extra’ ore was covered by the agreement.
+    - Latham CJ, by contrast, thought that estoppel in pais was applicable and Grundt had been induced to rely on their representation to keep mining.
+    - Latham CJ said:
+      - ‘Where a person obtains advantages by relying upon rights which can exist only upon the basis of an assumed state of facts, he is not permitted thereafter to rely upon other rights in relation to the same person which are inconsistent with the existence of the rights formerly asserted.’ (657)
+    - Dixon J said:
+      - ‘The principle upon which estoppel in pais is founded is that the law should not permit an unjust departure by a party from an assumption of fact which he has caused another to adopt or accept for the purpose of their legal relations ... One condition appears always to be indispensable. That other must have so acted or abstained from acting upon the footing of the state of affairs assumed that he would suffer a detriment if the opposite party were afterwards allowed to set up rights against him inconsistent with the assumption.’ (674)
+      - “Before anyone can be estopped, he must have played such a part in the adoption of the assumption that it would be unfair or unjust if he were left free to ignore it’ (675)
+    - Dixon J said:
+      - ‘the basal purpose of the doctrine... is to avoid or prevent a detriment to the party asserting the estoppel by compelling the opposite party to adhere to the assumption upon which the former acted or abstained from acting. This means that the real detriment or harm from which the law seeks to give protection is that which would flow from the change of position if the assumption were deserted that led to it. So long as the assumption is adhered to, the party who altered his situation upon the faith of it cannot complain. His complaint is that when afterwards the other party makes a different state of affairs the basis of an assertion of right against him then, if it is allowed, his own original change of position will operate as a detriment.’
+  - A Brief Look at the forms of Common Law Estoppel
+    - Estoppel by convention
+      - Precludes the defendant from denying an assumption which formed the conventional basis of a relationship between the defendant and plaintiff, where both parties have conducted the relationship on the basis of that assumption and knew or intended the other to do so, and where departure from the assumption would cause detriment: Moratic Pty Ltd v Gordon [2007] NSWSC 5, [32] (Brereton J)
+    - Estoppel by representation
+      - An estoppel which ‘prevents a person who, by a representation of fact, has led another to alter his position, from denying that the fact is as represented’: Discount & Finance Ltd v Gehrig’s NSW Wines Ltd (1940) 430 SR (NSW) 598, 603 (Jordan CJ).
+  - CPB Contractors Pty Ltd v Rizzani De Eccher Australia Pty Ltd [2017] NSWSC 1798 (Ward CJ in Eq)
+    - Estoppel by representation
+      - [332] An estoppel by representation arises “where a person is prevented, as a matter of law, from denying or from asserting, as the case may be, the existence of some fact, irrespectively of whether it really exists” ... its origins lay in the Chancery ... though it was adopted later adopted by the common law and operates identically.
+      - [333] Broadly speaking, to establish such an estoppel there must be an express or implied representation of past or present fact that is communicated to the representee and upon which he or she relies to his or her detriment.The representation must be clear and unequivocal ..
+      - [334] Jorden v Money (1854) 10 ER 868 stands for the proposition that estoppel by representation is confined to representations of fact, not of intention. That authority binds this ... Reflecting this position, one can distinguish between “a representation (of an existing or past fact)” and “a voluntary promise about the speaker’s future conduct” …
+  - Relevance of historical development of estoppel by representation at common law
+    - Some 19th century cases also accepted representations of intention as well as representation of fact: eg Hammersley v de Biel (1844) 12 Cl & F 45; 8 ER 1312.
+    - However, it was restricted to representations of fact in Jorden v Money (1854) 5 HL Cas 184; 10 ER 868 to avoid undermining the doctrine of consideration.
+    - Then also restricted to a rule of evidence – could not be used as a cause of action: Low v Bouverie [1891] 3 Ch 82, 105 (Bowen LJ).
+    - At the time these restrictions were said to apply to all estoppels but were not applied in equity.
+  - Jorden v Money
+    - FACTS: Mr Money borrowed £1,200 from Mrs Jorden’s brother for speculative investment and it was lost.
+      - Mrs Jorden’s brother died and Mrs Jorden became her deceased brother’s executrix. She was entitled to the benefit of a judgment debt entered in favour of the deceased brother.
+      - Money had given a bond to her brother as security for payment of the debt, but Mrs Jorden had on various occasions said that she did not intend to enforce the bond.
+      - In reliance on the belief that this was the case, he gave his prospective parents-in-law an assurance that he was free from the debt of £1,200. Mrs Jorden sought to enforce the bond and Mr Money sought a declaration that Jorden had abandoned the bond.
+    - Unusual history of Jorden v Money
+      - Trial
+        - Sir John Romilly 
+          - found in favour of the scope of estoppel to enforce representations of future intention and found in favour of Mr Money.
+      - Court of Appeal in Chancery
+        - Lord Cranworth and Knight-Bruce LJ
+          - Lord Cranworth allowed the appeal, Knight-Bruce LJ dismissed it.
+          - As a result, the first instance decision was affirmed.
+      - House of Lords
+        - Lords Cranworth, Lord Brougham, Lord St Leonards
+          - Lord Cranworth thus had a second opportunity to decide the case!
+          - Lords Cranworth and Brougham allowed the appeal while Lord St Leonards dissented.
+  - Estoppels by Conduct following Jorden v Money
+    - At Common law: not a cause of action
+      - estoppel by representation - remains evidentiary, restricted to fact.
+      - Alters of establishes the basis on which other causes of action may be brought or defended.
+    - In Equity: can be a cause of action
+      - Equity had long allowed estoppel to be used as a cause of action in relation to non-contractual promises (representations of future intention) in relation to land (proprietary estoppel).
+      - Over time, non-contractual promises that did not relate to land came to be accepted under English law, though only as a defence (shield) not a cause of action (sword) (promissory estoppel).
+      - Under Australian law, in the case of Waltons Stores (Interstate) Ltd v Maher, (1988) 164 CLR 387, the High Court of Australia accepted that in equity, a non-contractual promise that did not relate to granting an interest in land could found a cause of action. This form of promissory estoppel, has been accepted in Australia but not in the United Kingdom.
+  - Support for unifying estoppel by conduct
+    - Under Australian law, in the 1980’s and early 1990’s some support for unifying estoppel by conduct:
+    - In Commonwealth of Australia v Verwayen (1990) 170 CLR 394 Mason CJ suggested at 410-11 that the consistent trend in modern decisions pointed ‘inexorably towards the emergence of one overarching doctrine of estoppel rather than a series of independent rules.’
+    - Mason J favoured the equitable doctrine covering the field.
+    - Deane J referred at 440 to a ‘general doctrine of estoppel by conduct’ ... ‘unified [doctrine of estoppel] which operates consistently in both law and equity.’
+    - Deane J preferred a model based on the common law doctrine which is not a cause of action and establishes a state of affairs.
+  - Still no overarching or general doctrine of estoppel by conduct
+    - However, despite the fact that estoppels by conduct at common law and in equity have the same object - to prevent an unjust departure by one person from an assumption adopted by another as the basis of some act or omission which, unless the assumption be adhered to, would operate to that other's detriment – no general doctrine has emerged.
+    - No consensus as to which model to adopt – common law or equitable.
+      - Different rules still apply.
+  - Recap terminology
+    - ‘Estoppel def’ 
+      - a broad term applied at common law and in equity
+    - ‘Common law estoppels def’ 
+      - include estoppels by judgment, by writing and by conduct
+    - ‘Estoppel by conduct def’ 
+      - is a class that includes common law estoppels by convention and by representation as well as equitable estoppels in the form of proprietary estoppels and promissory estoppel.
+    - ‘Equitable estoppel def’ 
+      - is a broad term for both proprietary  estoppels and promissory estoppel. Under Australian law, they remain separate species of the estoppels but share some common elements.
+- Proprietary Estoppel
+  - Taxonomy of estoppels: example
+    - 
+  - Proprietary estoppel as a form of equitable Estoppel
+    - Silovi v Barbaro (1988) 13 NSWLR 466, 472 (Priestley JA):
+      - ‘Equitable estoppel operates upon representations or promises as to future conduct. This kind of estoppel is itself an equity (a source of legal obligations).
+    - Austotel (1989) 16 NSWLR 582, 610 (Priestley JA).
+      - “For equitable estoppel to operate there must be the creation or encouragement by the defendant in the plaintiff of an assumption that a contract will come into existence OR a promise be performed OR an interest granted to the plaintiff by the defendant, and reliance on that by the plaintiff, in circumstances where departure from the assumption by the defendant would be unconscionable.”
+  - Proprietary estoppel
+    - The term ‘proprietary estoppel’ appears to have first been used by a court in the decision E R Ives Investment Ltd v High [1967] 2 QB 379. The description was found in the text, Snell’s The Principles of Equity, (Sweet & Maxwell Ltd, 26th ed, 1966).
+    - Relates specifically to assumptions induced by the defendant of the grant of an interest in land.
+    - Two ways in which the assumption can be induced
+      - 1. By active encouragement
+      - 2. By passive acquiescence
+- Proprietary Estoppel by Encouragement
+  - Proprietary estoppel by encouragement
+    - Equitable form of estoppel by conduct
+    - Promise-based
+    - Arises where the owner of property has encouraged another to alter their position in the expectation of obtaining a proprietary interest in their land and the other has changed their position to their detriment.
+    - Unlike contract, less stringent certainty requirements for a representation or promise in proprietary estoppel: Flinn v Flinn [1999] 3 VR 712; [1999] VSCA 109, [80], ‘a promise “may be definite in the sense that there is a clear promise to do something even though the something promised is not precisely defined”
+  - Kramer v Stone (2023) 112 NSWLR 564, 582
+    - “The foundation for an estoppel by encouragement, as summarised by Kitto J in Olsson v Dyson (1969) 120 CLR 365 at 378; [1969] HCA 3 by reference to the decision in Dillwyn v Llewellyn, is conduct which induces a change of position for the worse in reliance thereon. In Delaforce v Simpson-Cook (2010) 78 NSWLR 483; [2010] NSWCA 84, Handley AJA at [21] expressed an estoppel by encouragement as one that may arise “when an owner of property has encouraged another to alter his or her position in the expectation of obtaining a proprietary interest and that other, in reliance on the expectation created or encouraged by the property owner, has changed his or her position to [his or her] detriment”.
+  - Elements of Equitable Estoppel: Kramer v Stone (2023) 112 NSWLR 564, 582
+    - The Court referred to Waltons Stores (Interstate) Ltd v Maher (1988) 164 CLR 387, in which Brennan J, established the following elements common to each equitable estoppel doctrine (including proprietary estoppel):
+      - 1. The plaintiff assumed that a particular legal relationship existed, or would exist, between the parties, and that the defendant would not be free to withdraw from this expected legal relationship.
+      - 2. The defendant has induced the plaintiff to adopt that assumption or expectation.
+      - 3. The plaintiff acts or abstains from acting in reliance on the assumption or expectation.
+      - 4. The defendant knew or intended him to do so.
+      - 5. The plaintiff’s action or inaction will occasion detriment if the assumption or expectation is not fulfilled.
+      - 6. The defendant has failed to act to avoid that detriment whether by fulfilling the assumption or expectation or otherwise.
+    - In Waltons Stores Mason CJ and Wilson J noted that an equitable estoppel does not arise through the mere attempt or promise to make a gift to another of a proprietary interest, but that there needs to be “something more” which amounts to unconscionable conduct on behalf of the representor.
+  - Estoppel by Encouragement Cases
+    - Dillwyn v Llewellyn (1862) 4 De GF & J 517
+    - Giumelli v Giumelli (1999) 196 CLR 101
+    - Delaforce v Simpson Cook (2010) 78 NSWLR 483
+    - E Co v Q [2018] NSWSC 442
+    - Sidhu v Van Dyke [2014] 251 CLR 505
+    - Kramer v Stone [2023] NSWCA 270
+  - Dillwyn v Llewellyn (1862) 4 De GF & J 517
+    - Facts: 
+      - Father told his son he was giving him land (but the conveyance was not perfected). The son spent money in building on the land. The father died. The son was successful in claiming that the father’s executors must complete the gift.
+    - Held: 
+      - that Equity will bind the conscience of the donor of property who has made an imperfect gift, where the donor has induced the donee to act on the assumption that the imperfect gift either is effective or will be made effective
+    - Lord Westbury held :
+      - ‘So if A puts B. in possession of a piece of land and tells him, “I give it to you that you may build a house upon it” and B. on the strength of that promise, with the knowledge of A., expends a large sum of money in building a house accordingly, I cannot doubt that the donee acquires a right from the subsequent transaction to call on the donor to perform that contract and complete an imperfect donation which was made.’ (at 522)’
+  - Giumelli v Giumelli (1999) 196 CLR 101
+    - Mr and Mrs G had an orchard property which they farmed with their three sons. They encouraged their son Robert to stay and work on the farm without wages, promising that he would be given part of a block of land Eventually when the son decided to marry someone of whom the parents disapproved, they refused to proceed with the sub-division.
+    - The Full Court ordered a constructive trust over the promised land.
+    - The parents appealed, arguing that it was not open to the Full Court to grant relief that went beyond the reversal of detriment – the ‘minimum equity’, on the basis of Cth v Verwayen..
+    - The High Court did not accept this argument.
+  - Giumelli v Giumelli case summary
+    - Court: 
+      - High Court of Australia
+    - Parties:
+      - Appellant: Giumelli (parents)
+      - Respondent: Robert Giumelli (son)
+    - Procedural History:
+      - The Full Court of the Supreme Court of Western Australia imposed a constructive trust over the disputed property.
+      - The parents appealed to the High Court, arguing the remedy was excessive.
+    - Material Facts:
+      - Robert Giumelli worked on his family’s orchard without wages, relying on his parents' repeated promises that he would receive a portion of the land.
+      - He made life decisions based on this expectation (e.g., forgoing other career opportunities).
+      - After he decided to marry against his parents’ wishes, they refused to transfer the land.
+    - Legal Issue:
+      - Did Robert have an equitable estoppel claim against his parents?
+      - What was the appropriate remedy?
+    - Decision:
+      - The High Court upheld the finding of proprietary estoppel but modified the remedy.
+    - Ratio Decidendi:
+      - A proprietary estoppel claim can arise where a person detrimentally relies on a promise of land ownership.
+      - However, the remedy must be proportionate to the detriment suffered.
+      - A constructive trust should not be imposed if monetary compensation is a sufficient remedy.
+    - Result:
+      - The High Court overturned the constructive trust.
+      - Instead, it ordered the parents to compensate Robert financially, reflecting the value of the promised land.
+    - Significance:
+      - Confirmed that expectation relief is prima facie the remedy in proprietary estoppel.
+      - Reinforced proportionality in equitable remedies—courts will not impose a constructive trust where monetary relief is sufficient.
+      - Limited the impact of proprietary estoppel on third-party rights (e.g., other family members' interests).
+  - Note how estoppel, where established on the facts, serves the aims of Equity in preventing unconscientious insistence on legal rights
+    - In Giumelli the High Court noted at [2] that:
+      - The Full Court so interpreted the circumstances as obliging the appellants, in good conscience, not to retain their beneficial interest in the whole of the Dwellingup property and as requiring them to answer the respondent's equity by bringing about a subdivision of the Promised Lot and conveying the title to it. The equity of the respondent was seen by the Full Court as sufficiently strong as not only to prevent the appellants from insisting upon their strict legal rights but also, in respect of the Promised Lot, to convey it to the respondent.”
+  - Delaforce v Simpson Cook (2010) 78 NSWLR 483
+    - A wife had reasonably relied on a promise that the husband would leave property to her in his will;
+    - She had changed her position by giving up the chance of having the Family Court incorporate the husband’s promise in its enforceable orders;
+    - Prima facie equity would enforce the wife’s expectation based on an unambiguous promise;
+    - There was no reason for the Court to do otherwise than enforce of the wife’s reasonable expectation.
+  - E Co v Q [2018] NSWSC 442
+    - Facts: Q had inherited substantial wealth from his own father and invested in farms. In 2002, he and his sons established a family farming business, to be conducted on his farm properties. The business was to be operated by a company, the first respondent E Co. Each of the sons, the third, fourth and fifth respondents, took a role in the family business, and worked in the business full or part-time until at least 2010.
+    - Between 2009 and 2013, the relationship between the appellant and his sons broke down as a result of it coming to light that Q had for years sexually abused the daughters of two sons. After being convicted and imprisoned for these offences, Q served a notice of termination on E Co, informed A, B and C that he was selling the farms, and wrote a will disinheriting his sons.
+    - His sons and the two companies brought proceedings in which they claimed the benefit of a proprietary estoppel over the farm properties, claiming that Q, by his participation in the creation and implementation of the family business, had encouraged them in the expectation that he would hold the farm properties for use in the family farming business until he died, and then pass them to his sons by will when he died.
+    - The primary judge Ward CJ in Eq upheld their claim, finding that Q had encouraged such an expectation, that the sons had each made “life-changing decisions” in reliance on it, and that they were entitled to have the expectation made good. On appeal Meagher JA, with whom Leeming and Payne JA agreed, rejected the first four grounds of appeal and allowed the appeal on a limited basis, altering the relief granted by the primary judge to the extent of ordering that if the ownership of the farms by the sons was to be accelerated, then it was appropriate that repayment of their $2.123 million book debt ought be similarly accelerated.
+  - Sidhu v Van Dyke [2014] 251 CLR 505
+    - Facts: Mr Sidhu and his wife lived on a property in NSW. Ms Van Dyke rented a cottage on his property. They began an intimate relationship. Mr Sidhu promised Ms Van Dyke that he would subdivide property and convey her a house. Mr Sidhu told her she did not need to pursue a divorce settlement when her marriage ended as she would receive the house and subdivision of the farm. When the relationship ended, he refused to proceed with the subdivision.
+    - Q: Was her conduct in reliance on the representation? Would she have behaved this way anyway, out of love and affection?
+    - Held: She needed to prove only that reliance on the representation was a contributing cause” not the sole inducement
+    - In the respondent's evidence‑in‑chief she had said that:
+      - "As a result of the [appellant's] repeated promise of the Oaks Property to me ... I did not seek or engage in any full time paid work in the 8.5 years between January 1998 and July 2006 ... [I]n the belief that I had a home in the Oaks Property, I chose instead to improve the Oaks and to repay the [appellant] in every way that I could using all the time and energy that I had for what I believed was his generous gift to me ... I also lost the opportunity to obtain a property settlement from my divorce ... [and] the opportunity to purchase a property for my son and me from money from my divorce settlement and salary from a full‑time job."
+    - [69] [The appellant’s] evidence was likely, as a matter of the probabilities of human behaviour, to be true. Indeed, it would be remarkable if the appellant's promises did not have some influence upon the respondent's decision to stay on and work at Burra Station. Upon the breakdown of the respondent's marriage, she was confronted with difficult decisions relating to the course of her life and the care and maintenance of her child. The appellant's promises were objectively likely to have had a significant effect upon the decision‑making of a person in the respondent's position. The appellant's assurances were integral to his proposal to the respondent to put their relationship on a firm long‑term footing. It is unlikely that she would have thrown in her lot with the appellant and exerted herself as she did over a period of eight and a half years if he had not made the promises which he in fact made. To the contrary, it is likely that she would have sought to maximise her own income for the benefit of herself and her infant son by seeking the most gainful form of employment
+    - “[76] But the question here is whether the respondent would have committed to, and remained in, the relationship with the appellant, with all that that entailed in terms of the effect upon the material well‑being of herself and her son, had she not been given the assurances made by the appellant.
+    - [77] This category of equitable estoppel serves to vindicate the expectations of the representee against a party who seeks unconscionably to resile from an expectation he or she has created. The extent to which it is unconscionable of the appellant to seek to resile from the position expressed in his assurances to the respondent may be gauged by reflecting on the likely response of the respondent if the appellant had told her in January 1998: "I am happy for you to remain at Oaks Cottage, but only for so long as it suits me and my wife to have you here; and, while you remain on the property, you must care for it as if you were the owner of the property and do unpaid work on parts of Burra Station other than the property. Until I make the property over to you, you must pay rent sufficient to content my wife. Should you choose to leave, you will leave with nothing in return for the value of your work here."
+  - Kramer v Stone [2023] NSWCA 270; (2023) 112 NSWLR 564
+    - FACTS:
+      - Dr Harry and Dame Leonie owned a hobby farm, and entered into a very informal sharefarming agreement with David Stone, that he would live on and maintain the property, pay half the expenses and keep half the proceeds from farm produce.
+      - First Dr Harry, then Dame Leonie, made representations to the effect that they would leave the farm to David when they died. However Dame Leonie’s will left the farm to her daughter Hilary, and a bequest of $200K to David.
+      - David argued that he had relied to his detriment on the representation that he would inherit the farm. He had worked for 23 years for very little reward, and made no other provision for his retirement on the faith of that expectation.
+      - Robb J held that Dame Leonie ought to have know that hDavid was relying on the representation. Accordingly the estate must convey David the farm, but that David should surrender the $200K bequest. Court of Appeal upheld the order for a constructive trust.
+- Proprietary Estoppel by Acquiescence
+  - Proprietary estoppel by acquiescence
+    - Another equitable form of estoppel by conduct in relation to interests in land.
+    - Not promise-based; rather arises where:
+      - a person improves land in the mistaken assumption that it is their own;
+      - The true owner is aware of the mistake;
+      - Does nothing to disabuse the person of their Mistake.
+  - Ramsden v Dyson (1866) LR 1 HL 129
+    - FACTS: the plaintiff sought to defeat proceedings for their ejectment of property they had stayed on and improved. The facts did not show that there was anything more than a tenancy from year to year.
+    - Per Lord Kingsdown: Where a person improves land in the mistaken assumption that it is his own, and the true owner, being aware of the mistake, deliberately stands by doing nothing to correct the mistaken assumption, equity will prevent the true owner from profiting from the mistake.
+    - Per Lord Cranworth: “If a stranger begins to build on my land supposing it to be his own, and I, perceiving his mistake, abstain from setting him right, and leave him to persevere in his error, a court of equity will not allow me afterwards to assert my title to the land on which he had expended money on the supposition that the land was his own.”
+    - It was held that Equity will bind the conscience of the owner of property who has induced another person to expect that an interest in the property will be conferred upon them.
+  - Meagher JA (Leeming and Payne JJA agreeing) considered the relationship of silence to equitable estoppels in the form of a proprietary estoppel in Q v E Co [2020] NSWCA 220:
+    - “[16] Proprietary estoppel by acquiescence, on the other hand, describes a much narrower principle, and arises “where a person improves land in the mistake assumption that it is his own, the true owner being aware of the mistake and deliberately doing nothing to undeceive the other” per Jordan CJ in NSW Trotting Club Ltd v Council of Municipality of Glebe (1937) 37 SR (NSW) 288 at 308. In such circumstances equity regards it as “fraudulent” for the true owner to set up his existing rights as against the person who has made a mistake as to his legal rights and acted to his detriment on the basis of that mistaken belief: Wilmott v Barber (1880) 15 Ch D 96 at 105-106 (Fry J). See generally Estoppel by Conduct and Election at [11-002], [11-008]. As the author observes, “Estoppels by standing are rare”. The “conduct of the owner which attracts the estoppel is his silence, but it differs from other estoppels by silence because there may be no pre-existing relationship or duty, and no dealings direct or indirect” (at [11-011]). The “improver acts on his mistaken belief and not on any representation by the land owner” (at [11-012]).
+  - Elements of Proprietary estoppel by acquiescence: in E Co v Q [2018] NSWSC 442 at [921] Ward P approved the formulation of Blue J in Carter v Brine (at [327])
+    - The elements of proprietary estoppel by acquiescence are:
+      - 1. the plaintiff forms an assumption that he or she has or will have a proprietary interest in property owned wholly or partly by the defendant (assumption);
+      - 2. the defendant knows that the plaintiff has formed that assumption, it is erroneous and the plaintiff is acting on it but remains silent when the defendant has a duty to inform the plaintiff that the assumption is erroneous (representation by silence);
+      - 3. the conduct of the defendant in remaining silent in that knowledge and in breach of that duty causes or materially contributes to the continuation of that assumption by the plaintiff (reliance);
+      - 4. the defendant takes action in change of his or her position in reliance on that assumption (inducement);
+      - 5. the plaintiff would suffer detriment if the defendant were permitted to depart from the assumption (detriment);
+      - 6. it would in all the circumstances be unconscionable for the defendant to depart from the assumption (unconscionability). (citations omitted)
+  - The knowledge requirement of proprietary estoppel by acquiescence: Kramer v Stone [2023] NSWCA 270; (2023) 112 NSWLR 564(Ward P)
+    - [191] I have referred earlier to the distinction between the two forms of proprietary estoppel – estoppel by encouragement and estoppel by acquiescence – and, in particular, that in the latter it is the defendant’s knowledge of the plaintiff’s reliance on the assumption or expectation that amounts to the relevant inducement or encouragement (i.e., that the acquiescence or standing by without correcting the mistaken belief or expectation is itself an act of encouragement, in the words of White J in Priestley NSWSC).
+  - Is it necessary that the plaintiff make a mistake as to “presently existing rights?”: see E Co v Q [2018] NSWSC 442 at [921]
+    - [926] it was argued for the defendant that the plaintiff’s claim was, in substance, one of estoppel by acquiescence, the consequence being that there was an additional requirement that the plaintiff hold (to the knowledge of the defendant) a mistaken belief as to his legal rights. The trial judge White J (as his Honour then was) considered that “the same basal principles” applied in this regard, irrespective of the precise categorisation of the proprietary estoppel (see Priestley v Priestley [2016] NSWSC 1096 at [109]). His Honour saw “little utility” in distinguishing between the two forms on the facts of that case (see [110]). His Honour considered that the distinction between the doctrines was “not so clear that different principles should apply” and, significantly, that the matter had to be viewed in light of Doueihi (at [110]). His Honour considered that it was not an essential requirement that there be an assumption of a particular legal relationship (relevantly, an assumption that there was an irrevocable promise to leave property by will) (see [116]), concluding (at [117]) that it was: 
+      - …not a sufficient answer to Duncan’s claim to be entitled to [the property] on the principles of proprietary estoppel that he [i.e,. Duncan] did not form the opinion that Gordon would not be free to revoke his 2004 will. ... Duncan did not act on an assumption about his legal rights. Many people do not, but they may still change their position to their detriment by having been induced to adopt an assumption about what the defendant will do for them in circumstances that makes it unconscionable for the defendant to resile from that assumption. ... [my emphasis] 
+      - In other words, in Priestley it was not fatal to a claim (arguably one of estoppel by acquiescence) that the plaintiff’s assumption did not relate to a present legal right (namely, a binding agreement precluding revocation of the will). This conclusion was based, at least in part, on one reading of Doueihi.
+  - Principles in Remedies for Proprietary Estoppel
+    - "the Court must look at the circumstances in each case to decide in what way the equity can be satisfied”: Plimmer v Mayor, &c, of Wellington (1884) 9 App Cas 699 at 714. approved in Giumelli at [10].
+    - Prima facie enforcement of the expectation.
+    - There is no rule of ‘proportionality’ - but where that relief would be ‘inequitably harsh’ some lesser form of relief may be granted.
+    - However, constructive trust may be refused where it would impact third parties: Giumelli, Sidhu.
+    - Before a constructive trust is imposed, the court should first decide whether, having regard to the issues in the litigation, there is an appropriate equitable remedy which falls short of the imposition of a trust
+    - reimbursement of outlay might be sufficient in a case of a relatively small monetary outlay: Sidhu v Van Dyke at [84]
+- Promissory Estoppel
+  - Historical Development of Promissory Estoppel
+    - Central London Property Trust v High Trees House [1947] KB 130
+      - CLPT leased a block of flats to HTHL for 99 years in 1939 for a ground rent of 2500 pounds per year.
+      - During WWII, CLPT agreed to reduce the rent to 1250 pounds (but this agreement was not supported by consideration).
+      - After the war, CLPT raised the rent to 2500 pound and asserted a right to arrears of over 7,000 pounds. CLPT’s argument was that the agreement to reduce the rent was not binding in contract.
+      - Denning LJ held that the arrangement was intended to last only while rental occupancy was low, so the rent should be raised again when the market returned to normal. But there was no entitlement to the arrears.
+      - HTHL was permitted to use estoppel as a ‘shield’ against CLPT’s claim, because HTHL had relied to its detriment on CLPT’s representation that the rent would be reduced.
+      - The statement of intention (ie: ‘I will not require you to pay the full rent’) founded a defensive estoppel which precluded assertion or enforcement of its contractual rights.
+  - Limitations of High Trees promissory estoppel
+    - Operated as a defence only, not a cause of action: a “shield” not a “sword”;
+    - Arose only in the context of an existing legal relationship, and the unconscientious assertion of existing legal rights.
+  - High Trees promissory estoppel accepted by the Australian High Court . . .
+    - Legione v Hately (1983) 152 CLR 406
+      - The Australian High Court accepted in principle that a clear representation made in the context of an existing legal relationship, that one party will not rely on its legal rights, will be binding in circumstances where the other party has relied to its detriment on that representation, and it would be unconscionable for the first party to resile from the representation.
+      - The representor will be estopped from enforcing their EXISTING legal rights.
+      - Note: this form of promissory estoppel is defensive only.
+  - Waltons Stores (Interstate) Ltd v Maher (1988) 164 CLR 387
+    - The Mahers owned a building in Nowra. Waltons Stores negotiated to take a lease of their building, requiring substantial alteration to the building.
+    - Terms were agreed to the point where Waltons’ solicitor said he would get back to the Mahers’ solicitor if there were any amendments but never did. The Mahers (as lessor) forwarded their signed lease for stamping by the other side.
+    - There was some urgency to the work: Waltons wanted it completed over Christmas to open in the new year.
+    - The Mahers began demolition work – to the knowledge of Waltons - but the company had second thoughts and told their solicitor to “go slow” with the contract.
+    - When the rebuild was 40% complete, Waltons said it was not going to proceed
+    - At trial, Kearney J found a common law estoppel based on the belief that exchange had taken place.
+    - On appeal, the Court of Appeal also found a common law estoppel based upon a belief that a contract had been formed.
+    - In the High Court, the majority found for the Mahers on the basis of an expanded form of promissory estoppel arising from the promise by Waltons Stores as prospective lessee that exchange would occur (in the future).
+    - Significance:
+      - Not a promise of a grant of an interest in land (like proprietary estoppel)
+      - No pre-existing legal relationship (like High Trees) used as a cause of action, not merely defence,
+      - Gave rise to new legal rights.
+  - Reasons for judgment - Mason CJ & Wilson J
+    - The Mahers assumed a contract exchange would take place in the future – so there was no representation of an existing fact. Nevertheless, the common thread in promissory and proprietary estoppel in equity justified a remedy for an unconscionable failure to fulfil a promise, where the defendant’s conduct encouraged the plaintiff’s detrimental reliance on the promise. The remedy is reversal of detriment. 
+    - Here, the unconscionable conduct was Waltons creating a sense of urgency, and knowingly failing to disabuse the Mahers of their expectation of an imminent exchange of contracts.
+    - Mason CJ and Wilson J found that mere failure to fulfil a promise does not of itself amount to unconscionable conduct – something more would be required. That may be found in ... (at 404)
+    - “the creation or encouragement by the party estopped in the other party of an assumption that a contract will come into existence or a promise will be performed and that the other party relied on that assumption to his detriment to the knowledge of the first party.”
+  - Reasons for judgment – Brennan J:
+    - The Mahers relied on a promise of future exchange. Brennan J proposed a set of elements that have often been cited in cases since. (at 164 CLR 428-9): The plaintiff must prove:
+      - 1. P assumed that a particular legal relationship existed, or would exist, in circumstances where D would not be free to withdraw.
+      - 2. D induced P to make that assumption.
+      - 3. P acted, or refrained from acting, on the basis of the assumption.
+      - 4. D knew or intended P to do so.
+      - 5. P’s action (or inaction) would cause P detriment if the assumption is not fulfilled.
+      - 6. D failed to avoid that detriment.
+    - And held “This is such a case.” (at 429)
+    - Recent cases confirm these ‘probanda’ are not to be applied in a ‘mechanical fashion’: Doueihi v Construction Technologies Australia Pty Ltd (2016) 92 NSWLR 247 at [166]
+  - Basis in unconscionable conduct:
+    - Per Mason CJ and Wilson J (at 404):
+      - One may therefore discern in the cases a common thread which links them together, namely, the principle that equity will come to the relief of a plaintiff who has acted to his detriment on the basis of a basic assumption in relation to which the other party to the transaction has "played such a part in the adoption of the assumption that it would be unfair or unjust if he were left free to ignore it": per Dixon J. in Grundt, at p 675; see also Thompson, at p 547. Equity comes to the relief of such a plaintiff on the footing that it would be unconscionable conduct on the part of the other party to ignore the assumption.”
+    - Per Brennan J (at 423):
+      - The unconscionable conduct which it is the object of equity to prevent is the failure of a party, who has induced the adoption of the assumption or expectation and who knew or intended that it would be relied on, to fulfil the assumption or expectation or otherwise to avoid the detriment which that failure would occasion. The object of the equity is not to compel the party bound to fulfil the assumption or expectation; it is to avoid the detriment which, if the assumption or expectation goes unfulfilled, will be suffered by the party who has been induced to act or to abstain from acting thereon.
+  - Examples of (relatively rare) successful promissory estoppel cases used as a sword:
+    - Australian Crime Commission v Gray [2003] NSWCA 318: equity enforced a non-contractual promise that if a couple entered a witness protection program that they would be looked after and not financially disadvantaged;
+    - Wright v Hamilton Enterprises [2003] QCA 36 – equity enforced a non-contractual promise by the owner of Hamilton Island that licensees of restaurants and bars on Hamilton Island would have the licence renewed if the licencees complied with terms of licence.
+  - Examples of (more commonly) unsuccessful promissory estoppel cases …
+    - Commercial & General Corporation Pty Ltd v Manassen Holdings Pty Ltd [2021] SASCFC 40
+    - Crown Melbourne Limited v. Cosmopolitan Hotel (Vic) Pty Ltd (2016) 260 CLR 1
+  - Examples of unsuccessful promissory estoppel cases … Crown Melbourne Limited v. Cosmopolitan Hotel (Vic) Pty Ltd (2016) 260 CLR 1
+    - Facts:
+      - The owner of a casino entered into two leases of restaurant premises with commercial tenants. Each lease was for a term of five years with no option to renew, and a condition requiring the tenant to complete a major refurbishment.
+      - After the tenants had executed the leases but before they were delivered to the landlord, a representative of the landlord said to a director of the tenants that, if he spent money to achieve the refurbishment to a high standard, he would be “looked after at renewal time”.
+      - The landlord subsequently gave notice to the tenants requiring them to vacate the premises on the expiration of the five year term. The tenants commenced proceedings alleging that the landlord’s representations amounted to a collateral contract to offer a renewal of the leases for a further five year term, or gave rise to an estoppel which prevented the landlord from denying the existence of an obligation to offer to renew the leases.
+  - Crown Melbourne Limited v. Cosmopolitan Hotel (Vic) Pty Ltd (2016) 260 CLR 1
+    - Held: (French CJ, Kiefel, Bell, Keane and Nettle JJ, Gageler and Gordon JJ not deciding)
+    - The tenants could not make out an estoppel against the landlord. The statement made by the landlord’s representative was not capable of conveying to a reasonable person that the tenants would be offered further five year leases. Further, the tenants had not established that they acted on the basis of an expectation that they would be offered further five year leases.
+    - [39]. In any event, the tenants' case fails at another level. Not only must the representation be such as to be able to create the assumption or expectation in question, it must be shown that that assumption was in fact acted upon. . . the basal purpose of the doctrine of estoppel . . is to avoid a detriment by compelling the party who has created an assumption . . . on which the innocent party has acted, to adhere to it.
+  - Promissory Estoppel in Commercial Dealings
+    - Needs to be “a good reason” why the transaction should be interfered with by the courts: Summer Hill Business v Equititrust [2010] NSWSC 776 per Pembroke J
+    - Courts are wary of interfering with commercial negotiations or dealings, particularly where parties are well resourced, experienced and well advised: Austotel Pty Ltd v Franklins Self-Serve Pty Ltd (1989) 16 NSWLR 582 per Kirby J at 585-6:
+      - “... courts should be careful to conserve relief so that they do not, in commercial matters, substitute lawyerly conscience for the hard-headed decisions of business people ...courts should, in my view, be wary lest they distort the relationships of substantial, well-advised corporations in commercial transactions by subjecting them to the overly tender consciences of judges. Such consciences, as the case show, will typically be refined and sharpened by circumstances arising in quite different relationships where it is more apt to talk of conscience and to provide relief against offence to it.”
+  - Promissory Estoppel in NSW -Saleh v Romanous (2010) 79 NSWLR 453
+    - Vendor had represented that if the property development did not proceed with his brother (the owner of the neighbouring property) that he could “have his money back” and did not have to go through with the contract.
+    - Trial judge found an estoppel and applied Waltons Stores as the basis for return of deposit.
+    - However, in the NSW Court of Appeal per Handley JA, (Giles JA and Sackville AJA agreeing) –
+    - held promissory estoppel limited to restraint on exercise of legal rights (shield not a sword).
+    - rejected use of promissory estoppel to provide positive relief. Made no reference to Waltons Stores in the judgment in relation to promissory estoppel.
+    - Result arguably contradictory to Waltons Stores but binding in NSW. Positive relief not available for promissory estoppel in NSW as a result of this decision. The Court of Appeal has said that lower courts in this State are bound by Saleh: see, for example, Nock v Maddern [2018] NSWCA 239 at [35] (White JA, Leeming JA and Sackville AJA agreeing).
+  - Saleh v Romanous not accepted as limiting promissory estoppel outside NSW, for example:
+    - Commercial & General Corporation Pty Ltd v Manassen Holdings Pty Ltd [2021] SASCFC 40 [166] – [185] (Livesey J, Stanley J agreeing):
+      - “In an appropriate case promissory estoppel can operate as a positive source of legal rights, and the findings made by the trial Judge were open to him. While there is some authority against the trial Judge’s approach, there is ample authority to support it.[130]”
+        - [130] See, eg, Ausotel Pty Ltd v Franklins Selfserve Pty Ltd (1989) 16 NSWLR 582, 610 (Priestly JA); Ashton v Pratt (2015) 88 NSWLR 281, [138] (Bathurst CJ), with whom McColl and Meagher JJA agreed); CPB Contractors Pty Ltd v Rizzani De Eccher Australia Pty Ltd [2017] NSWSC 1798, [339]-[343] (Ward CJ in Eq).”
+  - Common Elements to Prove in Equitable Estoppel:
+    - Representation: Reasonably clear and unambiguous - words and actions must be capable of misleading a reasonable person (Crown Melbourne at [35])
+    - Reliance: ”a significant factor’ ‘a contributing cause’ – actual reliance must be proved by the plaintiff which provides the connection between assumption and detriment.
+    - Detriment: without detriment there is no equity at all (Guest v Guest [2022] UKSC 27 at [10] per Lord Briggs, but need not involve expenditure or be easily quantifiable in monetary terms.
+    - Unconscionability: preventing unconscionable conduct is not resolved by reference to some preconceived formula framed to serve as a ‘universal yardstick’ and takes into account all the circumstances.
+  - Unconscionability in Equitable Estoppel: Kramer v Stone [2023] NSWSCA 270 at [97]-[99] (Ward P (Leeming and Kirk JJA agreeing)
+    - Unconscionability
+      - [97] Finally, as to the element of unconscionability, it does not exist at large (and has been said not to be a “triable issue” as such – see MGL at [17-040] and the authorities cited therein; K Handley, Estoppel by Conduct and Election (2nd ed 2016, Sweet & Maxwell) (Estoppel by Conduct and Election) at [1-027]-[1-032]). 
+      - [98] The question of unconscionability requires an enquiry into the conduct of the relevant representor or promisor; and a conclusion that such conduct was sufficiently unconscionable (see, for example, Australian Securities Commission v Marlborough Gold Mines Ltd (1993) 177 CLR 485 at 506 (Mason CJ, Brennan, Dawson, Toohey and Gaudron JJ); [1993] HCA 15; Trippe Investments Pty Ltd v Henderson Investments Pty Ltd (1992) 106 FLR 214 at 231 (Kearney, Angel and Morling JJ)). The current holistic approach to unconscionability can be seen in the judgment of Allsop P, as his Honour then was, in Delaforce v Simpson-Cook at [3]:
+        - Equity will look at all the relevant circumstances that touch upon the conscionability (or not) of resiling from the encouragement or representation previously made, including the nature and character of the detriment, how it can be cured, its proportionality to the terms and character of the encouragement or representation and the conformity with good conscience of keeping a party to any relevant representation or promise made, even if not contractual in character.
+      - [99] In equitable estoppel in general, the knowledge or intention of the representor or promisor is fundamental in the enquiry as to the unconscionability or otherwise of the representor’s conduct.”
+## Week 4: Fiduciary Obligations
+
+- Fiduciary Obligations
+  - Question we need to ask (and answer):
+    - What are fiduciary duties?
+      - What is their foundation, why do they exist?
+    - What obligations are imposed on the fiduciary”?
+      - Proscriptive (negative) obligations
+      - Comparative jurisdictions
+    - When do they arise? Who is subject to them?
+      - Determined by the type of relationship?
+      - Determined by the particular facts?
+    - How do we determine the scope of the duty?
+      - Is it absolute, or only relevant to certain aspects of the relationship?
+    - How are they breached?
+      - How strict are they? Is conscious wrongdoing required? What is the role of the principal’s consent?
+    - What are the remedies for breach?
+    - Are there any defences to a breach?
+    - What is the role of 3rd parties participating in the breach?
+  - What does ‘fiduciary’ mean?
+    - A fiduciary obligation is a personal obligation ‘invented’ in the courts of Chancery. It comes from the Latin “fiducia”, meaning “Confidence”.
+    - Norberg v Wynrib [1992] 2 SCR 226:
+      - The foundation and ambit of the fiduciary obligation are conceptually distinct from the foundation and ambit of contract and tort. Sometimes the doctrines may overlap in their application, but that does not destroy their conceptual and functional uniqueness.
+      - In negligence and contract the parties are taken to be independent and equal actors, concerned primarily with their own self-interest. 
+      - Consequently, the law seeks a balance between enforcing obligations by awarding compensation and preserving optimum freedom for those involved in the relationship.....The essence of the fiduciary relationship, by contrast, is that one party pledges himself to act in the best interest of the other. ...The fiduciary relationship has trust, not self interest at its core, and when breach occurs, the balance favours the person wronged.
+  - What is a fiduciary obligation?
+    - The essence of fiduciary obligations is that the fiduciary is precluded from acting in any other way than in the interests of the person to whom the duty to so act is owed. In short, the fiduciary obligation is one of ‘undivided loyalty’: Beach Petroleum NL v Kennedy (1999) 48 NSWLR 46–7.
+    - What interests are protected??
+    - The law has not formulated ‘any precise or comprehensive definition of the circumstances in which a person is constituted a fiduciary in his or her relations with another’ Breen v Williams (1995) 186 CLR 71; ALR 273, per Dawson and Toohey JJ.
+    - Hospital Products v USSC (1984) (1984) 156 CLR 41, 96-7 (Mason J)
+      - “The critical feature of these relationships is that the fiduciary undertakes or agrees to act for or on behalf of or in the interests of another person in the exercise of a power or discretion which will affect the interests of that other person in a legal or practical sense.
+      - The relationship between the parties is therefore one which gives the fiduciary a special opportunity to exercise the power or discretion to the detriment of that other person who is accordingly vulnerable to abuse by the fiduciary of his position. The expressions ‘for’, ‘on behalf of’, and ‘in the interests of’ signify that the fiduciary acts in a ‘representative’ character in the exercise of his responsibility.”
+  - What are the benefits of establishing a fiduciary relationship?
+    - To invoke equitable rules of tracing,
+    - To assert a proprietary claim rather than a personal claim (subject to the application of the Personal Property Securities Act 2009),
+    - Allows for a range of equitable remedies, in particular account of profits
+    - Allows you to pursue 3rd parties
+    - It may be easier to maintain a claim for compensation in equity rather than satisfying common law rules of causation and remoteness of damage,
+    - Some defences, such as that that of contributory harm may not be raised by the fiduciary against their principal
+    - To avoid or extend limitation periods.
+  - The Nature of Fiduciary Obligations
+    - Bray v Ford [1896] AC 44 at 51 – 52:
+      - It is an inflexible rule of a Court of Equity that a person in a fiduciary position .....is not, unless otherwise expressly provided, entitled to make a profit; he is not allowed to put himself in a position where his interest and duty conflict. It does not appear to me that this rule is, as has been said, founded upon principles of morality. I regard it rather as based on the consideration that, human nature being what it is, there is a danger, in such circumstances, of the person holding the fiduciary position being swayed by interest rather than by duty, and thus prejudicing those whom he was bound to protect.
+    - Breen v Williams (Gaudron & McHugh JJ)
+      - The law of fiduciary duty rests not so much on morality or conscience as on the acceptance of the implications of the biblical injunction that "(n)o man can serve two masters" (112). Duty and self- interest, like God and Mammon, make inconsistent calls on the faithful. Equity solves the problem in a practical way by insisting that fiduciaries give undivided loyalty to the persons whom they serve.
+  - Elements of the Obligation
+    - The “no conflicts” rule:
+      - No conflict between duty and personal interest.
+      - No conflict between duty and duty.
+    - The “no profits” rule
+      - No unauthorised profits from one’s position of trust.
+    - No positive (‘prescriptive’) duties:
+      - A fiduciary’s obligation “does ... not impose positive legal duties on the fiduciary to act in the interests of the person to whom the duty is owed”: Breen v Williams (1996) 186 CLR 71 at 113.
+      - “Such positive duties are better regulated by contract, tort or other equitable doctrines”: Pilmer v Duke Group Ltd (in liq) (2001) 207 CLR 165 at 198
+  - Which relationships give rise to fiduciary duties?
+    - Presumed categories:
+      - Trustee and beneficiary
+      - Director and Company
+      - Legal practitioner and client
+        - (but note: this applies to true agents. Not everyone whose job title includes the word ‘agent’ is an agent at law.)
+      - Agent and principal
+      - Partner and partner
+      - Employees?
+  - Employees?
+    - SEE Anderson v Canaccord Genuity Financial Ltd [2023] NSWCA 294, [102]-[109], [125]-[170]. Court of Appeal held that employment IS a fiduciary category.
+      - See Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41, 68 (Gibbs CJ), 96-97 (Mason J) 141 (Dawson J), 
+      - John Alexander’s Clubs Pty Ltd v White City Tennis Club Ltd (2010) 241 CLR 1 [84]; 
+      - Harris v Digital Pulse Pty Ltd (2003) 56 NSWLR 298; 
+      - Anderson v Canaccord Genuity Financial [2023] NSWCA 294. 
+      - The extent to which an employee owes fiduciary obligations to the employer in addition to contractual obligations is a question of degree, and depends on the scope of the obligation. Unless the employee is very senior or has a large degree of authority, there is unlikely to be conduct that falls within the scope of the obligation: 
+        - Anderson v Canaccord Genuity Financial [2023] NSWCA 294 [126]
+  - Young ‘On Equity’
+    - [2.280] The chief advantage of a proprietary remedy is that there is property available to meet the claim.....In most cases, a proprietary action will be superior to a personal action. It is for this reason that so many claimants, in cases that are common law actions in negligence or tort, argue that the facts give rise to a fiduciary duty or a trust. As Millett has noted:
+      - ◦[P]laintiffs and their advisors have discovered the apparent advantages of alleging breach of trust or fiduciary duty, with the result that a statement of claim is considered to be seriously deficient if it does not contain inappropriate references to these concepts which are often scattered throughout the pleadings with complete abandon…
+      - Breach of trust or fiduciary duty is widely seen as a magic formula the use of which automatically gives a plaintiff a number of advantages...it enables the plaintiff to claim proprietary relief, and there obtain priority in the defendant’s insolvency or alternatively maintain a claim to profits
+        - (Millett, P Equity’s Place in the Law of Commerce” (1998) 114 Law Quarterly Review 214)
+  - The question in Hospital Products . . .
+    - Black entered into a contract with USSC to distribute products in Australia.
+    - Black then reverse-engineered the USSC products and marketed his products in competition with USSC, in breach of the distributorship agreement.
+    - Black set up HPI to own the new business.
+    - Was Black a fiduciary, or just a contract party? (The majority said he breached a contract.)
+    - Mason J (in dissent) held that he was a fiduciary for the purposes of this complaint, therefore USSC could seek remedies for breach of fiduciary duty against Black and proprietary remedies against HPI as a knowing assistant.
+    - This is the incentive for claiming breach of a fiduciary duty: equitable remedies include account of profits, and equitable remedies can be claimed against third parties.
+  - Fiduciary duties are strict
+    - The fact that there was no intent to defraud on the part of the fiduciary is irrelevant: 
+      - Nocton v Lord Ashburton [1919] AC 492.
+    - The liability of the fiduciary does not depend on establishing that the person to whom fiduciary duties are owed suffered loss or injury: 
+      - Birtchnell v Equity Trustees, Executors and Agency Co Ltd (1929) 42 CLR 384 at 408–9, per Dixon J.
+    - A fiduciary’s liability arises even if the person to whom the duty is owed was unlikely or even unable to have made a profit from an opportunity exploited by the fiduciary: 
+      - Warman International Ltd v Dwyer (1995) 182 CLR 544 at 558.
+  - An example: Boardman v Phipps
+    - Boardman is the solicitor to a trust. John Phipps is residuary legatee.
+    - Boardman and Tom Phipps attend the AGM of a company in their capacity as representatives of the trust which held shares.
+    - They learn information that leads them to believe purchasing a controlling stake will be profitable.
+    - The trust instrument does not permit further investment, and the trustees do not wish to seek court approval for a variation.
+    - The trustees encourage Boardman and Tom to pursue the speculative project with their own funds.
+    - One beneficiary is a senile 83 year old, who cannot give consent to any breach of fiduciary duty.
+    - After considerable investment, time, effort and skill, Boardman makes a profit for the trust, but also for himself.
+    - The residuary legatee of the trust claims Boardman’s profits
+    - Parties:
+      - Appellant: Thomas Boardman (solicitor to the trustees) and Thomas Phipps (beneficiary)
+      - Respondent: John Phipps (beneficiary of the trust)
+    - Procedural History:
+      - John Phipps brought an action against Boardman and Thomas Phipps, claiming that they had breached their fiduciary duties by personally profiting from their position in relation to the trust. The High Court and Court of Appeal ruled in John Phipps’ favour. The case was appealed to the House of Lords, which upheld the decision by a majority.
+    - Facts:
+      - The Phipps Trust held minority shares (8,000 shares) in Lester & Harris Ltd, a textile business.
+      - Boardman (solicitor to the trustees) and Thomas Phipps (a beneficiary) attended a company AGM on behalf of the trust, concluding that the company was poorly managed.
+      - They tried to increase the trust’s influence but were unable to secure a directorship.
+      - Believing the best way to protect the trust’s interests was to gain control of the company, Boardman and Phipps purchased additional shares personally, using confidential information obtained while representing the trust.
+      - Their actions increased the value of the company, benefiting all shareholders, including the trust.
+      - Despite this, John Phipps sued, arguing that the profit they made personally should be held on constructive trust for the beneficiaries, as they had obtained the opportunity using trust information and position.
+    - Legal Issue:
+      - Did Boardman and Thomas Phipps breach their fiduciary duties by making a personal profit using information obtained in their fiduciary capacity, even though their actions benefited the trust?
+    - Decision:
+      - A majority of the House of Lords (3:2) upheld the High Court’s ruling, holding that:
+        - Boardman and Thomas Phipps owed fiduciary duties to the trust.
+        - They used confidential trust information and their position as fiduciaries to gain a personal benefit.
+        - Their actions created a conflict of interest, even though they acted in good faith and benefited the trust.
+        - As a result, they were required to account for their profits, though they were allowed reasonable remuneration for their efforts.
+    - Ratio Decidendi (Legal Principles):
+      - A fiduciary must not profit from their position without full, informed consent from the beneficiaries (Keech v Sandford).
+      - The fiduciary's duty extends beyond preventing harm to the principal—they must avoid even the possibility of conflict between personal interest and duty (Aberdeen Railway Co v Blaikie).
+      - Liability does not depend on bad faith or dishonesty—the mere fact of making a profit in a fiduciary capacity triggers accountability (Regal (Hastings) Ltd v Gulliver).
+      - Confidential information obtained in a fiduciary role can constitute trust property, making its use for personal gain a breach of fiduciary duty.
+      - Whether the trust could have taken advantage of the opportunity is irrelevant—if the fiduciary obtained a benefit due to their position, they must account for it.
+    - Dissenting Opinion (Lord Upjohn & Viscount Dilhorne):
+      - They argued that fiduciary duties should not be applied too rigidly, particularly when the trust had no interest or ability to buy the shares.
+      - They emphasised that the reasonable possibility of conflict should be assessed realistically, not hypothetically.
+    - Significance:
+      - Expanded the scope of fiduciary duties, particularly concerning the use of confidential information.
+      - Established that fiduciary liability arises even when actions are beneficial and made in good faith.
+      - Reinforced the principle that strict equitable rules apply to prevent conflicts of interest, even if no harm is caused.
+      - Frequently cited in corporate law, trust law, and professional ethics to prevent fiduciaries from exploiting their position for personal gain.
+    - Two views . . .
+      - Lord Hodson (in the majority) takes the strict view: Boardman must disgorge profits, less an account for his own expenses and skill, etc.
+        - The strict view is justified by the prophylactic nature of fiduciary duties – it is necessary to discourage fiduciaries from falling into temptation.
+      - Lord Upjohn’s dissent:
+        - Information is not property.
+        - The only restraint on the use of information is if it is confidential, or obtained as a consequence of a fiduciary duty and use would produce a conflict of interest.
+        - The test is whether use would injure the trust. This was not so here, given the benefit to the trust.
+  - The conduct must be within the scope of the fiduciary duty . 
+    - See Chan v Zacharia (1984) 154 CLR 178 per Deane J:
+      - “ . . .the liability to account for a personal benefit or gain obtained or received by use or by reason of a fiduciary position, opportunity or knowledge will not arise in circumstances where it would be unconscionable to assert it or in which . . . there is no possible conflict between personal interest and fiduciary duty and it is plainly in the interest of the person to whom the fiduciary duty is owed that the fiduciary obtain for himself rights or benefits which he is absolutely precluded from seeking or obtaining for the person to whom the fiduciary duty is owed.”
+  - Chan v Zacharia [1984] HCA 36; (1984) 154 CLR 178
+    - Court:
+      - High Court of Australia
+    - Parties:
+      - Appellant: Dr Chan
+      - Respondent: Dr Zacharia
+    - Procedural History:
+      - Dr Zacharia sued Dr Chan, alleging that he had breached his fiduciary duties by acquiring a lease that had been held by their partnership. The High Court upheld the claim.
+    - Facts:
+      - Chan and Zacharia were medical practitioners in a partnership that leased a medical practice premises for three years, with an option to renew for another two years.
+      - The partnership dissolved due to a dispute, and a receiver was appointed to wind it up.
+      - The receiver was unable to secure mutual agreement between the partners to exercise the lease renewal option.
+      - During the option period, Chan personally sought and obtained the renewal of the lease in his own name.
+      - Chan agreed to indemnify the landlord against any legal action that Zacharia might bring in relation to the lease.
+    - Legal Issue:
+      - Did Chan breach his fiduciary duty to Zacharia by securing the lease for himself while the partnership was still being wound up?
+    - Decision:
+      - The High Court held that Chan held the renewed lease on constructive trust for Zacharia, ruling that:
+        - Chan remained bound by fiduciary duties while the partnership was being wound up.
+        - The lease opportunity belonged to the partnership, and Chan improperly diverted it for personal benefit.
+        - Chan’s actions breached both the "conflict of interest" and "unauthorised profit" principles in fiduciary law.
+        - Chan was therefore a constructive trustee of any interest acquired under the new lease for Zacharia.
+    - Ratio Decidendi (Legal Principles):
+      - Justice Deane provided a detailed discussion on fiduciary accountability, explaining two key principles:
+        - Conflict of Interest Rule – A fiduciary must not place themselves in a position where their personal interest conflicts with their duty (Bray v Ford; Aberdeen Railway Co v Blaikie). This ensures they are not influenced by personal gain.
+        - Unauthorised Profit Rule – A fiduciary must account for any benefit or gain obtained due to their position, even if no conflict of interest existed (Regal (Hastings) Ltd v Gulliver; Boardman v Phipps).
+      - The Court emphasised that both principles operate independently:
+        - A fiduciary can be held accountable even if no dishonesty or harm occurred.
+        - The mere possibility of a conflict is enough to trigger liability.
+        - The fiduciary’s use of confidential knowledge or opportunities gained from their role is strictly regulated.
+        - Justice Deane noted that equity must be applied flexibly to prevent it from becoming an instrument of injustice (Barnes v Addy). However, Chan’s actions clearly breached his fiduciary obligations, justifying the application of a constructive trust.
+    - Significance:
+      - Reinforced strict fiduciary obligations in partnerships, especially during dissolution.
+      - Clarified the independent operation of the "conflict" and "profit" rules in fiduciary law.
+      - Established that fiduciary duties continue until all partnership affairs are fully resolved.
+      - Frequently cited in corporate law, partnership law, and fiduciary breach cases in Australia.
+  - Categories are not closed . . .
+    - HOSPITAL PRODUCTS LTD V USSC (1984) 156 CLR 41, 96-7 PER MASON J.
+    - Outside the Presumed relationships . . .
+      - Look for -
+        - an undertaking to fulfil a duty in the interests of another;
+        - the scope for one party to unilaterally exercise a power or discretion that may affect the rights or interests of another; and
+        - a dependency on the part of one party which causes that party to rely upon the other.
+  - Examples – a joint venture?
+    - United Dominions Corporation Ltd v Brian Pty Ltd
+      - Dawson J (157 CLR 1 at 16) :
+        - [I]t is quite clear that a fiduciary relationship may arise during negotiations for a partnership or, for that matter, a joint venture, before any partnership or joint venture agreement has been finally concluded if the parties have acted upon the proposed agreement as they had in this case. Whilst a concluded agreement may establish a relationship of confidence, it is nevertheless the relationship itself which gives rise to fiduciary obligations. That relationship may arise from the circumstances leading to the final agreement as much as from the fact of the final agreement itself.
+  - Anderson v Canaccord Genuity Financial Ltd [2023] NSWCA 294
+    - Mason J in Hospital Products included employment relationships in the list of established categories, so it must be such.
+    - Nevertheless, not all duties owed by employees will be fiduciary duties. One must establish the ‘scope’ of the fiduciary duties by examining the terms of the employment contract.
+  - Which contractual undertakings?
+    - Senior employees often undertake (expressly or implicitly) to serve the best interests of the employer at the exclusion of their own interests when pursuing new business opportunities within the scope of their employment duties.
+    - See for example:
+      - Victoria University of Technology v Wilson [2004] VSC 33;
+      - Warman International v Dwyer (1995) 182 CLR 544
+      - Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd (2018) 265 CLR 1
+  - The difficult cases . . .
+    - Commercial relationships
+    - Adviser and client:
+      - In Pilmer v Duke Group (2001) 207 CLR 165 – an accounting firm was held NOT to owe fiduciary duties to a client in respect of investment advice on a takeover bid.
+      - BUT
+      - In CBA v Smith (1991) 42 FCR 390, a bank manager in a small country town was held to have breached a fiduciary duty to clients when he advised them on a property purchase that involved a conflict of interest.
+  - The main defence?
+    - Fully informed consent of the beneficiary
+    - Either before the breach,
+    - Or ratification afterwards (in the case of company directors’ breaches, by the shareholders in a general meeting).
+  - Remedies
+    - Account of profits.
+      - Note that courts will sometimes make allowances for skill, effort or financial contributions of the fiduciary or others.
+        - Examples: Warman International Ltd v Dwyer; Boardman v Phipps.
+    - Compensation for loss. 
+      - Example: Nocton v Lord Ashburton [1914] AC 932.
+    - Proprietary remedies: 
+      - constructive trusts, equitable charges, tracing.
+    - Rescission of contracts: 
+      - Example: Maguire v Makaronis (1997) 188 CLR 449.
+  - Breen v Williams (1995) 186 CLR 71
+    - Ms Breen was seeking access to medical records which had been prepared by plastic surgeon Dr Williams, who had given her advice and treatment in relation to silicone breast implants that she had received some years before and which, because of silicone leakage were causing her considerable pain.
+    - She was considering legal action, not against Dr Williams but against the manufacturers of the implants. Dr Williams refused to release his records, unless Ms Breen indemnified him against any action that she was considering.
+    - Her challenge was based on 3 claims:
+      - These were
+        - (i) that there is an implied term in doctor-patient contractual relationships which would enable patients to have access to their medical records;
+        - (ii) that patients have a proprietary interest in the information contained within their medical records; and
+        - (iii) that a fiduciary relationship exists between doctors and patients which requires doctors to provide patients with access to their medical records.
+    - Some aspects of the doctor-patient relationship exhibit characteristics that courts have used to find a fiduciary relationship. For example, from the most mundane consultation with a general practitioner through to the most complicated surgical procedure by a specialist surgeon, a patient is invariably dependent upon the advice and treatment of his or her doctor. 
+    - Patients also invariably confide intimate personal details about themselves to their doctors. In some circumstances, the dependency of the patient or the provision of confidential information may make the relationship between a doctor and patient fiduciary in nature. But that does not mean that their relationship would be fiduciary for all purposes. 
+    - As Mason J pointed out in Hospital Products (109), a person may stand in a fiduciary relationship to another for one purpose but not for others. (Gaudron & McHugh JJ)
+    - “patient is entitled to expect the observance of professional standards by the doctor in matters of treatment and advice and is afforded remedies in contract and tort if those standards are not observed and the patient suffers damage.”
+    - Professor Finn says that:
+      - [w]hat must be shown ..is that the actual circumstances of a relationship are such that one party is entitled to expect that the other will act in his interests in and for the purposes of the relationship. 
+      - Ascendancy, influence, vulnerability, trust, confidence or dependence doubtless will be important, only to the extent that they evidence a relationship suggesting that entitlement
+    - Procedural History:
+      - Ms Breen sued in the Equity Division of the Supreme Court of NSW, seeking a declaration that:
+        - She had a proprietary interest in her medical records.
+        - The doctor-patient relationship was fiduciary, entitling her to access her records.
+      - The Supreme Court ruled against Ms Breen.
+      - She appealed to the High Court of Australia, which dismissed the appeal.
+    - Material Facts:
+      - Ms Breen underwent breast implant surgery and later experienced complications.
+      - She sought access to medical records held by Dr Williams to join a US class action against the implant manufacturer.
+      - Dr Williams refused, unless she signed a waiver of liability.
+      - Ms Breen argued she had a right to access the records under fiduciary principles.
+    - Legal Issue:
+      - Does the doctor-patient relationship impose fiduciary duties that require a doctor to grant a patient access to their medical records?
+    - Decision:
+      - The High Court unanimously held that Dr Williams did NOT owe Ms Breen a fiduciary duty to provide access to her medical records.
+    - Ratio Decidendi (Legal Reasoning):
+      - The Doctor-Patient Relationship Is Not a Fiduciary Relationship (Gaudron & McHugh JJ)
+        - Fiduciary relationships require a representative capacity (Hospital Products Ltd v United States Surgical Corporation).
+        - A doctor is not a "representative" of a patient like a trustee, agent, or company director.
+      - Fiduciary Duties in Medicine Are Limited in Scope (Dawson & Toohey JJ)
+        - The doctor-patient relationship is primarily governed by contract and negligence law, not fiduciary principles.
+        - While trust and confidence exist, that alone does not create a fiduciary duty to disclose records.
+      - No Proprietary Interest in Medical Records (Gummow J)
+        - Doctors create and own medical records.
+        - A patient does not have an automatic right to access their medical records unless legislation provides for it.
+    - Law(s)/Statute(s) in Contention:
+      - No statutory right to medical records at the time.
+      - Fiduciary duty principles derived from equity and case law.
+    - Precedents & Key Cases Considered:
+      - Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41 – Fiduciary duties require representative capacity.
+      - Daly v Sydney Stock Exchange Ltd (1986) 160 CLR 371 – Fiduciary obligations must be clearly defined and limited.
+    - Result:
+      - ❌ Appeal dismissed – Dr Williams did not owe a fiduciary duty to grant access to medical records.
+    - Relevance to Modern Law:
+      - Clarifies that the doctor-patient relationship is not inherently fiduciary.
+      - Limits the scope of fiduciary duties in professional relationships.
+      - Affirms that medical records belong to the doctor, not the patient.
+      - Patients can only access records through statutory rights or discovery in litigation.
+  - United Dominions Corporation Ltd v Brian Pty Ltd (1984) 157 CLR 1
+    - Collateralisation Clause: all monies owed by SPL to UDC is secured
+    - 
+    - Dawson J (157 CLR 1 at 16) :
+      - [I]t is quite clear that a fiduciary relationship may arise during negotiations for a partnership or, for that matter, a joint venture, before any partnership or joint venture agreement has been finally concluded if the parties have acted upon the proposed agreement as they had in this case. Whilst a concluded agreement may establish a relationship of confidence, it is nevertheless the relationship itself which gives rise to fiduciary obligations. That relationship may arise from the circumstances leading to the final agreement as much as from the fact of the final agreement itself.
+    - Parties:
+      - Appellant: United Dominions Corporation Ltd (UDC)
+      - Respondent: Brian Pty Ltd (Brian)
+    - Procedural History:
+      - Brian Pty Ltd commenced proceedings against UDC in the Supreme Court of New South Wales, arguing that UDC had breached its fiduciary duties. The matter was ultimately appealed to the High Court of Australia.
+    - Facts:
+      - UDC, Brian, and Security Projects Ltd (SPL) entered into a joint venture to develop a shopping centre, which was financed by loans from UDC.
+      - SPL owned the land on which the shopping centre was built. The agreed shares in the project were:
+        - SPL: 58.4%
+        - UDC: 10%
+        - Brian: 9.2%
+        - Others: 22.4%
+      - Once the shopping centre was developed and sold, profits were to be distributed among participants.
+      - However, without Brian's knowledge or consent, SPL had mortgaged the land to UDC as security for "all moneys" borrowed from UDC, including amounts used for unrelated projects.
+      - When SPL defaulted on the mortgage and went into liquidation, UDC withheld Brian’s financial entitlements and used the surplus proceeds from the sale of the shopping centre to offset debts from other projects.
+      - Brian sued UDC, arguing that the parties were in a fiduciary relationship and that UDC’s conduct amounted to a breach of fiduciary duty.
+    - Legal Issue:
+      - Did a fiduciary relationship exist between Brian and UDC in the joint venture, and if so, did UDC breach its fiduciary duties by relying on the mortgage to deny Brian’s entitlement?
+    - Decision:
+      - The High Court ruled in favour of Brian, holding that:
+        - A fiduciary relationship existed between Brian, UDC, and SPL in the joint venture.
+        - UDC breached its fiduciary duties by obtaining a mortgage over the joint venture property without Brian’s knowledge and using the proceeds to benefit itself at Brian’s expense.
+        - UDC could not rely on the mortgage to deny Brian’s entitlement under the joint venture agreement.
+    - Ratio Decidendi (Legal Principle):
+      - A joint venture may create fiduciary obligations depending on its structure and the nature of obligations undertaken by the parties.
+      - If a joint venture resembles a partnership, fiduciary duties similar to those in partnerships may arise.
+      - Fiduciary obligations arise when joint venturers are associated for a common purpose and rely on mutual trust and confidence.
+      - A party to a joint venture must not seek collateral advantages at the expense of other joint venturers without full disclosure and consent.
+      - UDC's conduct—securing a mortgage without Brian’s knowledge and using proceeds for unrelated debts—was a breach of fiduciary duty.
+    - Significance:
+      - Clarified that fiduciary duties can exist in joint ventures, even if no formal partnership exists.
+      - Established that parties in a joint venture must not exploit their position for personal gain at the expense of co-venturers.
+      - Reinforced fiduciary obligations in commercial dealings, ensuring transparency and fair dealing among joint venture participants.
+      - Frequently cited in Australian equity and commercial law regarding fiduciary duties in business relationships.
+  - The Scope of fiduciary obligations
+    - Once the existence of a relationship that supports fiduciary obligations is recognised, courts move on to determine the scope of the relationship. Only duties that are within the scope of the fiduciary relationship can attract fiduciary obligations. A person may be in a fiduciary position as to some activities, and not as to other activities.
+    - See Clark Boyce v Mouat [1994] 1 AC 428; [1994] 4 All ER 268.
+  - Howard v Federal Commissioner of Taxation (2014) 253 CLR 83 at 100 (French CJ and Keane J)
+    - The scope of the fiduciary duty generally in relation to conflicts of interest must accommodate itself to the particulars of the underlying relationship which give rise to the duty so that it is consistent with and conforms to the scope and limits of that relationship. It is to be ‘moulded according to the nature of the relationship and the facts of the case’. 
+    - By way of example, company directors are frequently shareholders. The decisions they take as directors may therefore affect their personal interests. They do not breach their fiduciary obligations merely because in promoting the interests of the company they are also promoting their own. On the other hand, a decision taken by directors to advantage themselves other than as members of the general body of shareholders would constitute an abuse of fiduciary powers.
+  - Roger Paramasivam v Flynn [1998] FCA 1711
+    - A guardian owes fiduciary duties to their ward: Clay v Clay (2001) 202 CLR 410 
+    - How far does the duty extend?
+    - “what the apparent applicability of the descriptions illustrates is not only the incompleteness but also the imperfection of all the individual formulae which have at various times been suggested as encapsulating fiduciary relationship or duty.”
+  - Fiduciary duties are strict
+    - The fact that there was no intent to defraud on the part of the fiduciary is irrelevant: 
+      - Nocton v Lord Ashburton [1919] AC 492.
+    - The liability of the fiduciary does not depend on establishing that the person to whom fiduciary duties are owed suffered loss or injury: 
+      - Birtchnell v Equity Trustees, Executors and Agency Co Ltd (1929) 42 CLR 384 at 408–9, per Dixon J.
+    - A fiduciary’s liability arises even if the person to whom the duty is owed was unlikely or even unable to have made a profit from an opportunity exploited by the fiduciary:
+      - Warman International Ltd v Dwyer (1995) 182 CLR 544 at 558
+  - An example: Boardman v Phipps
+    - Boardman is the solicitor to a trust. John Phipps is residuary legatee.
+    - Boardman and Tom Phipps attend the AGM of a company in their capacity as representatives of the trust which held shares.
+    - They learn information that leads them to believe purchasing a controlling stake will be profitable.
+    - The trust instrument does not permit further investment, and the trustees do not wish to seek court approval for a variation.
+    - The trustees encourage Boardman and Tom to pursue the speculative project with their own funds.
+    - One trustee 83 year old, lacked capacity to give consent to any breach of fiduciary duty.
+    - After considerable investment, time, effort and skill, Boardman makes a profit for the trust, but also for himself.
+    - The residuary legatee of the trust claims Boardman’s profits.
+  - Two views . . .
+    - Lord Hodson (in the majority) takes the strict view: Boardman must disgorge profits, less an account for his own expenses and skill, etc.
+      - The strict view is justified by the prophylactic nature of fiduciary duties – it is necessary to discourage fiduciaries from falling into temptation.
+    - Lord Upjohn’s dissent:
+      - Information is not property.
+      - The only restraint on the use of information is if it is confidential, or obtained as a consequence of a fiduciary duty and use would produce a conflict of interest.
+      - The test is whether use would injure the trust. This was not so here, given the benefit to the trust.
+  - The Fiduciary Duties
+    - Statement of Principles:
+      - Chan v Zacharia (1984) 154 CLR 178 (Deane J)
+        - The variations between more precise formulations of the principle governing the liability to account are largely the result of the fact that what is conveniently regarded as the one “fundamental rule” embodies two themes. The first is:
+          - that which appropriates for the benefit of the person to whom the fiduciary duty is owed any benefit or gain obtained or received by the fiduciary in circumstances where there existed a conflict of personal interest and fiduciary duty or a significant possibility of such conflict; the objective is to preclude the fiduciary from being swayed by considerations of personal interest.
+        - The second is that which requires the fiduciary to account for any benefit or gain obtained or received by reason of or by use of his fiduciary opportunity or knowledge resulting from it: the objective is to preclude the fiduciary from actually misusing his position for his personal advantage. (my emphasis)
+  - The Conflicts Rule
+    - The conflicts rule prohibits the fiduciary from allowing a conflict of interest and duty, (fiduciary’s personal interests conflict with those of the principal) or duty and duty (where the fiduciary owes duties to two principals, which may conflict)
+      - Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461 at 471
+      - McKenzie v McDonald [1927] VLR 134
+      - Farrington v Rowe McBride & Partners [1985] 1 NZLR 83
+      - Stewart v Layton (1992) 111 ALR 687
+  - Remedies
+    - Equity seeks to restore the principal to the position that would have existed had the fiduciary performed his or her obligations without conflict.
+    - Replace a trustee whose interests clash with those of a beneficiary: 
+      - Monty Financial Services Ltd v Delmo [1996] 1 VR 65
+    - Compensation for loss. 
+      - Example: Nocton v Lord Ashburton [1914] AC 932.
+    - Rescission of contracts: 
+      - Example: Maguire v Makaronis (1997) 188 CLR 449.
+  - The Profits Rule
+    - Chan v Zacharia (Deane J):
+      - Stated comprehensively in terms of the liability to account, the principle of equity is that a person who is under a fiduciary obligation must account to the person to whom the obligation is owed for any benefit or gain (i) which has been obtained or received in circumstances where a conflict or significant possibility of conflict existed between his fiduciary duty and his personal interest in the pursuit or possible receipt of such a benefit or gain or (ii) which was obtained or received by use or by reason of his fiduciary position or of opportunity or knowledge resulting from it.
+    - See Also Boardman v Phipps [1967] 2 AC 46
+  - Remedies
+    - Account of profits.
+      - Note that courts will sometimes make allowances for skill, effort or financial contributions of the fiduciary or others.
+        - Examples: Warman International Ltd v Dwyer; Boardman v Phipps.
+      - Proprietary remedies: constructive trusts, equitable charges, tracing
+  - The main defence?
+    - Fully informed consent of the beneficiary
+    - Either before the breach,
+    - Or ratification afterwards (in the case of company directors’ breaches, by the shareholders in a general meeting).
+    - Queensland Mines v Hudson (1978) 18 ALR 1
+  - Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41; [1984] HCA 64
+    - Court: High Court of Australia
+    - Parties:
+      - Appellant: Hospital Products Ltd (HPL)
+      - Respondents: United States Surgical Corporation (USSC), Surgeons Choice Inc. (SCI), Hospital Products International Pty Ltd (HPI), Alan Richard Blackman, and IRD Engineering Services Pty Ltd
+    - Procedural History
+      - USSC sued HPI and Blackman in the Supreme Court of New South Wales, claiming breaches of contract, breach of fiduciary duty, and misappropriation of business opportunities.
+      - McLelland J (NSW Supreme Court) found in favour of USSC:
+        - HPI breached contractual and fiduciary duties.
+        - Blackman was liable for knowing participation in those breaches.
+        - USSC was entitled to an account of profits and an equitable lien over HPI’s assets.
+      - NSW Court of Appeal upheld these findings but imposed a constructive trust over HPI’s assets.
+      - High Court of Australia (Final Appeal):
+        - Overturned the Court of Appeal’s decision.
+        - Held that HPI did not owe fiduciary duties.
+        - USSC was entitled to damages for breach of contract, but not a constructive trust.
+    - Original Dispute
+      - USSC, a US-based manufacturer of surgical stapling products, appointed Blackman as its exclusive Australian distributor in 1978.
+      - The distributorship agreement:
+        - Required HPI to use best efforts to promote USSC products.
+        - Prohibited HPI from distributing competing products.
+      - Blackman secretly planned to manufacture and sell competing products through HPI while misleading customers into believing they were USSC products.
+      - In December 1979, HPI stopped distributing USSC products and began selling its own, later entering the US market.
+      - HPL later acquired HPI’s assets, leading USSC to seek a constructive trust over HPL’s assets.
+    - Material Facts
+      - USSC marketed its surgical products worldwide through distributors who purchased the products for resale.
+      - Blackman proposed to become USSC’s exclusive distributor in Australia, replacing Downs Surgical (Australia) Pty Ltd.
+      - After securing the distributorship, Blackman, through HPI, executed a dishonest scheme:
+        - Reverse-engineered USSC’s products and secretly developed his own versions.
+        - Marketed the new products as if they were authorised by USSC.
+        - Deferred fulfilling USSC orders to transition customers to HPI’s products.
+        - Hid these activities from USSC while benefiting from USSC’s financial support and market goodwill.
+      - USSC sued, alleging breach of contract, fiduciary duty, and deceptive conduct.
+    - Issue Raised
+      - Did HPI owe fiduciary duties to USSC beyond contractual obligations?
+      - Was USSC entitled to a constructive trust over HPL’s assets?
+      - What was the appropriate remedy—equitable relief or damages?
+    - Law(s)/Statute(s) in Contention
+      - Contract law principles
+      - Fiduciary duty principles
+      - Equitable remedies (constructive trusts, account of profits, equitable lien)
+    - Precedents Considered
+      - Bristol and West Building Society v Mothew [1998] Ch 1 (established fiduciary duties arise only when a party undertakes to act solely for another’s benefit).
+      - Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134 (on the strict nature of fiduciary obligations).
+      - Blyth Chemicals Ltd v Bushnell (1933) 49 CLR 66 (best efforts clause does not necessarily impose a fiduciary duty).
+    - Tests Applied
+      - Test for fiduciary duties:
+        - Did HPI undertake to act exclusively in USSC’s interests?
+        - Did HPI have discretionary power over USSC’s business affairs?
+        - Was USSC in a vulnerable position requiring equitable protection?
+        - Undertaking test
+          - The critical feature of these relationships is that the fiduciary  undertakes or agrees to act for or on behalf of or in the interests of  another person in the exercise of a power or discretion which will affect the interests of that person in a legal or practical sense.
+        - 'Distil the essence' or the characteristics of the relationship approach
+      - Test for constructive trust:
+        - Was there unconscionable retention of property by HPI/HPL?
+        - Was a constructive trust necessary to prevent unjust enrichment?
+    - Judicial Opinions
+      - Majority (Gibbs CJ, Mason, Wilson, Dawson JJ):
+        - ✔ HPI did not owe fiduciary duties—it was a commercial distributor, not an agent or trustee.
+        - ✔ The relationship was contractual, negotiated at arm’s length.
+        - ✔ The best efforts clause did not impose a fiduciary obligation.
+        - ✔ No constructive trust was necessary—USSC was entitled only to contractual damages.
+      - Dissent (Deane J):
+        - ✘ HPI did owe fiduciary duties—USSC relied on HPI to build its market.
+        - ✘ Supported the imposition of a constructive trust over HPL’s assets.
+    - Legal Reasoning
+      - Fiduciary Duties in Commercial Contracts
+        - A commercial distributor is not a fiduciary unless it undertakes to act solely for the supplier’s benefit.
+        - A fiduciary relationship requires one party to be vulnerable—USSC was a sophisticated business, not in a position of special reliance.
+        - A "best efforts" clause does not impose a fiduciary duty—HPI had commercial freedom.
+      - Best Efforts & Contractual Duties
+        - HPI breached its contract by failing to use best efforts to distribute USSC’s products.
+        - HPI’s covert competition was a contractual breach, not an equitable breach.
+      - Constructive Trusts & Equitable Relief
+        - Equitable relief is only available when property is unconscionably retained.
+        - HPI’s actions, while deceptive, did not justify a constructive trust.
+        - Contractual damages were sufficient to compensate USSC.
+    - Ratio Decidendi
+      - ✔ Fiduciary duties do not arise simply because one party places trust in another in a commercial setting.
+      - ✔ A “best efforts” obligation does not transform a commercial distributor into a fiduciary.
+      - ✔ Constructive trusts are only granted in cases of property misappropriation or unconscionable retention—not mere breaches of contract.
+    - Result
+      - ✔ Appeal allowed—High Court overturned the constructive trust order.
+      - ✔ USSC was entitled only to damages against HPI for breach of contract.
+      - ✔ Matter remitted to NSW Supreme Court for damages assessment.
+    - Relevance to Modern Law
+      - Key precedent on fiduciary duties in commercial contracts.
+      - Reinforced that fiduciary obligations must be strictly justified.
+      - Limited the use of constructive trusts in breach of contract cases.
+      - Frequently cited in disputes involving distributors, commercial agreements, and equitable remedies.
+      - This case remains a leading authority on fiduciary duties in Australian contract law.
+  - Horizontal and Vertical fiduciary relationships
+    - The  Hospital Products  test is therefore not apt to determine whether a part  nership imposes fiduciary obligations.
+    - The paradigm of a horizontal commercial relationship which also imposes fiduciary obligations is a business or professional partnership. A partner does not undertake to act exclusively in the interests of the co-partners in matters within the scope of the partnership unless the partnership agreement makes provision for a partner to act as an agent for the others in some matter.
+    - Determining Horizontal fiduciary obligations
+      - The  question will be whether the parties have placed a high degree of mutual trust and confidence in each other in the pursuit of their common goal.
+      - In general terms, the degree of trust that one partner expects of another  will also be expected in any horizontal commercial relationship alleged to be  fiduciary.
+      - United Dominions Corporation Ltd v Brian Pty Ltd
+  - The 'entitlement to expect' approach 
+    - This approach looks to the circumstances of the relationship and asks whether, given these ci rcumstances, the principal is entitled to expect that the putative fiduciary will act in the principal's interests in and for the purposes of the relati onship.
+    - Grimaldi v Chameleon Mining NL (No 2)  [2012] FCAFC 6; (2012) 200 FCR
+      - Directors of a mi ning company had improperly applied company funds towards the acquisition ofvaluable mi ning tenements in Western Australia . The directors had acted in breach of fiduciary duty and of duties they owed under the  Corporations Act 2001 (Cth). 
+      - The directors, and companies they controlled, were also held liable for knowingly receiving money and shares in breach of fiduciary duty and for knowingly assisting breaches of duty. The judgment is extracted here for its statement of principle in relation to the identification of a fiduciary relationship.
+  - Howard v Commissioner of Taxation (Cth) [2014] HCA 21; (2014) 253 CLR 83
+    - Court:
+      - High Court of Australia
+    - Parties:
+      - Appellant: Mr Howard
+      - Respondent: Commissioner of Taxation
+    - Procedural History:
+      - Mr Howard challenged the Commissioner of Taxation's assessment that equitable compensation he received was taxable income. The case was appealed to the High Court of Australia.
+    - Facts:
+      - Mr Howard was a joint venturer in a business project.
+      - Other joint venturers breached their fiduciary duties to him by diverting a business opportunity away from the joint venture.
+      - The Victorian Supreme Court awarded Mr Howard equitable compensation for the lost opportunity.
+      - Disctronics Pty Ltd (an investment company) was also a plaintiff in the proceedings but failed in its claim that the defaulting joint venturers owed it fiduciary duties.
+      - Mr Howard was both a participant in the joint venture and a director of Disctronics.
+      - When filing his tax return, Mr Howard did not declare the compensation as part of his assessable income, arguing that he received it as a trustee for Disctronics due to his role as a director.
+      - The Commissioner of Taxation disagreed, assessing the compensation as personal income and therefore taxable.
+    - Legal Issue:
+      - Was the equitable compensation received by Mr Howard taxable income, or was he holding it in trust for Disctronics due to fiduciary obligations?
+    - Decision:
+      - The High Court ruled in favour of the Commissioner of Taxation, holding that:
+        - Mr Howard received the equitable compensation on his own account, not as a trustee for Disctronics.
+        - There was no fiduciary obligation requiring him to account for the award to Disctronics.
+        - The compensation was personal income and therefore taxable.
+    - Ratio Decidendi (Legal Principles):
+      - Fiduciary duties are not infinitely extensible and must be determined based on the specific nature of the relationship (Chan v Zacharia).
+      - A company director’s fiduciary duty does not necessarily extend to all aspects of their personal business dealings.
+      - A fiduciary cannot profit from their position unless authorised, but merely being a director does not mean all profits must be held in trust for the company.
+      - For a profit to be held on trust, it must have been obtained by reason or by use of the director’s position.
+      - Howard’s compensation arose from his position as a joint venturer, not as a director of Disctronics, so he was not obliged to account for it.
+      - A director's duty to avoid conflicts of interest must be considered within the specific context of their role—broad assertions of fiduciary duties are insufficient (Maguire v Makaronis).
+    - Significance:
+      - Clarified the limits of fiduciary duties, particularly when individuals hold multiple roles in business ventures.
+      - Affirmed that equitable compensation can be taxable income when received on personal account.
+      - Distinguished between personal and corporate fiduciary obligations, reinforcing that not all benefits received by a director are held for the company.
+      - Prevented the misuse of fiduciary principles to avoid tax liability.
+  - Australian Securities and Investments Commission v Citigroup Global Markets Australia Ltd (No 4) (2007) 160 FCR 35
+    - Court:
+      - Federal Court of Australia
+    - Parties:
+      - Applicant: Australian Securities and Investments Commission (ASIC)
+      - Respondent: Citigroup Global Markets Australia Ltd
+    - Procedural History:
+      - ASIC brought proceedings against Citigroup, alleging it had breached section 912A(1) of the Corporations Act 2001 (Cth) by failing to manage conflicts of interest in its advisory role to Toll Holdings. The case depended on whether Citigroup owed fiduciary duties to Toll.
+    - Facts:
+      - Toll Holdings engaged Citigroup’s Investment Banking Division as a financial adviser for its hostile takeover of Patrick Corporation Ltd in 2004.
+      - Citigroup’s Equities Division, which was separated from the advisory division by an information barrier, was simultaneously trading Patrick shares on Citigroup’s own account.
+      - Before the takeover was announced, a Citigroup trader bought over 1 million Patrick shares worth $6 million, causing the Patrick share price to rise.
+      - A breach of the information barrier occurred when a Citigroup adviser informally warned the trader during a cigarette break: “Don’t buy any more shares in Patrick.”
+      - The trader began selling some of the recently acquired Patrick shares, further increasing speculation that a takeover bid was imminent, which caused the Patrick share price to continue rising.
+      - As a result, Toll paid $5.8 billion for Patrick instead of the expected $4 billion.
+      - Toll executives did not take action against Citigroup, despite concerns about Citigroup’s proprietary trading activities.
+      - ASIC sued Citigroup, arguing that it had failed to properly manage conflicts of interest and that it owed fiduciary duties to Toll.
+    - Legal Issue:
+      - Did Citigroup owe fiduciary duties to Toll, and if so, did it breach those duties by trading Patrick shares while advising Toll on the takeover?
+    - Decision:
+      - Justice Jacobson held that Citigroup did not owe fiduciary duties to Toll, ruling that:
+        - The relationship was governed by the mandate letter, which expressly excluded any fiduciary obligations.
+        - Fiduciary duties can be excluded or modified by contract (Chan v Zacharia; Woolworths Ltd v Kelly).
+        - The wording of the mandate letter was clear and unambiguous, stating that Citigroup was acting as an independent contractor and not as a fiduciary.
+        - Although Citigroup’s pre-contractual conduct suggested an advisory relationship with fiduciary characteristics, the express exclusion of fiduciary duties in the contract overrode any implied fiduciary obligations.
+        - There was no legal basis for ASIC to challenge the enforceability of the fiduciary exclusion clause.
+        - Citigroup may still have had statutory obligations under s 912A(1) of the Corporations Act 2001 (Cth), but this did not automatically establish a fiduciary relationship.
+    - Ratio Decidendi (Legal Principles):
+      - Fiduciary duties can be expressly excluded by contract, provided the exclusion is clear and enforceable (Chan v Zacharia; Woolworths Ltd v Kelly).
+      - Pre-contractual conduct may indicate a fiduciary relationship, but a written agreement that explicitly excludes fiduciary duties will generally take precedence.
+      - An investment bank’s advisory role does not inherently create fiduciary duties—whether a fiduciary relationship exists depends on the terms of the contract and the nature of the relationship (Daly v Sydney Stock Exchange; Aequitas Ltd v AEFC).
+      - A party alleging fiduciary duties must prove that the fiduciary undertook to act in the interests of the other party to the exclusion of its own interests.
+    - Significance:
+      - Confirmed that fiduciary duties are not automatically imposed in financial advisory relationships and can be excluded by contract.
+      - Highlighted the importance of clear contractual terms in defining the nature of a business relationship.
+      - Clarified that statutory duties under the Corporations Act do not necessarily create fiduciary duties.
+      - Reinforced the principle that fiduciary obligations require a voluntary assumption of loyalty, which was absent in this case.
+      - Raised concerns about the effectiveness of information barriers (Chinese walls) in preventing conflicts of interest within large financial institutions.
+## Week 5: Accessorial Liability
+
+- Accessorial Liability: Overview
+  - Remember the fiduciary duties . . .
+    - 1. To avoid conflicts of interest.
+    - 2. To avoid unauthorised or secret profits.
+    - A fiduciary in breach of these duties may become a constructive trustee of property obtained as a consequence of the breach;
+    - OR may be liable for a personal obligation, to account for profits, or make equitable compensation for a beneficiary’s loss.
+    - When a third party participates in a fiduciary’s or trustee’s breach, the third party may also become liable to these remedies.
+  - 3rd Part Liability
+    - Principal: I have proven a breach of fiduciary duty and can claim against the fiduciary, but may want to claim against the 3rd party
+    - Fiduciary: I have breached a trustee or fiduciary duty owed to my principal
+    - 3rd Party: I either knowingly received property obtained through breach of trust or fiduciary duty, or I knowingly assisted the fiduciary's dishonest and fraudulent design
+  - Paragon Finance plc v DB Thakerar & Co [1999] 1 All ER 400 at 408-9
+    - Such a person is not in fact a trustee at all, even though he may be liable to account as if he were. He never assumes the position of a trustee, and if he receives the trust property at all it is adversely to the plaintiff by an unlawful transaction which is impugned by the plaintiff. In such a case the expressions ‘constructive trust’ and ‘constructive trustee’ are misleading, for there is no trust and usually no possibility of a proprietary remedy; they are ‘nothing more than a formula for equitable relief’...”
+    - confirmed by Gageler J in Ancient Order of Foresters in Victoria v Lifeplan Australia [2018] HCA 43 at [74]
+  - When will it make sense to pursue a third party?
+    - When the primary wrongdoer is unable to satisfy a claim (perhaps they are bankrupt).
+    - When you want to recover specific property that the primary wrongdoer has passed on to the third party.
+    - . . . So we seek to find that the third party should be held liable as a constructive trustee . . .
+  - What remedies can be sought from a constructive trustee?
+    - Proprietary remedies: Property held by the constructive trustee is held for the beneficiary.
+    - Consequently, the beneficiary has an equitable interest in the property.
+    - Personal remedies: Where a person is held to be a constructive trustee, they will be bound by the duties and responsibilities of a trustee, including the duty to compensate the beneficiary for any loss of trust funds.
+  - Grimaldi …
+    - There are 4 ways a third party may participate in a breach of trust or fiduciary duty:
+      - 1. As a corporate ‘creature’ of the breaching fiduciaries - having full knowledge, so no cause to use Barnes v Addy.
+      - 2. As the agent of a breaching corporate fiduciary (ditto).
+      - 3. As one who induces or procures a breach for one’s own or another’s benefit – that will be primary liability not secondary
+      - 4. As one who deals with a fiduciary who is acting on behalf of a principal. This introduces Barnes v Addy liability.
+  - Accessorial Liability
+    - Barnes v Addy (1874) LR 9 Ch App 244.
+      - Mr Addy stepped down in favour of Mr Barnes
+      - Money was lost. Addy and solicitors were sued for the loss: Issue on appeal was liability of solicitors for assisting Mr Addy transfer executorship to Mr Barnes.
+      - 
+  - In Barnes v Addy (1874) LR 9 Ch App 244: Lord Selborne famously said at 250-251
+    - “[The trustee’s] responsibility may no doubt be extended in equity to others who are not properly trustees, if they are found either making themselves trustees de son tort, or actually participating in any fraudulent conduct of the trustee to the injury of the cestui que trust. But, on the other hand, strangers are not to be made constructive trustees merely because they act as the agents of trustees in transactions within their legal powers, transactions, perhaps of which a Court of Equity may disapprove, unless those agents receive and become chargeable with some part of the trust property, or unless they assist with knowledge in a dishonest and fraudulent design on the part of the trustees.”
+  - Two ‘Limbs’ for third party liability
+    - 1. Receipt with notice: those “who receive and become chargeable with some part of the trust property”;
+    - 2. Knowing assistance: those who “assist with knowledge in a dishonest and fraudulent design on the part of the trustees”.
+  - But what constitutes ‘knowledge’?
+    - The ‘scale’ from Peter Gibson J’s judgment in Baden v Societe Generale pour Favouriser le Developpment du Commerce et de l’Industrie en France SA [1993] 1 WLR 509:
+      - 1. Actual knowledge.
+      - 2. Deliberate ignorance = ‘willful blindness’.
+      - 3. Willfully and recklessly failing to make enquiries that an honest and reasonable person would make.
+      - 4. Knowledge of circumstances that would indicate facts to an honest and reasonable person.
+      - 5. Knowledge of circumstances that would put and honest and reasonable person on notice.
+      - 1-3 = knowledge; 4-5 = notice
+    - Bank of Credit and Commerce International (Overseas) Ltd v Akindele [2001] Ch 437 at 454 Nourse LJ observed that the first 3 are forms of actual knowledge and the last two forms of constructive knowledge.
+    - Grimaldi v Chameleon Mining NL (ACN 098773785) (No 2) (2012) 200 FCR 296
+      - Described the 5 Baden categories as the “zenith of complexity”.
+      - “The first two categories of knowledge require no comment. The third involves such a calculated abstention from inquiry as would disentitle the third party to rely upon lack of actual knowledge of the trustee’s or fiduciary’s wrongdoing. The fourth reflects what seems to have been accepted provisionally by three judges in Consul Developments Pty ltd v DPC Estates Pty ltd (1975) 132 CLR 373 at 398 at 412-13. It is, in essence, an understandable, objective, default rule designed to prevent a third party setting up his or her own ‘moral obtuseness’ as the reason for not recognising an impropriety that would have been apparent to an ordinary person. It is a surrogate of actual knowledge.”
+- Accessorial Liability: Knowing Receipt
+  - Accessory def
+    - Knowing receipt of trust property or knowing assistance in circumventing fiduciary duties
+  - Rationale for 3rd Party Liability
+    - Intervention against a third party who obtains trust property from a trustee in breach of trust is based on the need to protect the proprietary interests of the beneficiaries. Intervention against a third party who obtains some other advantage as a result of a trustee’s breach of trust is based on the need to ensure that the trust receives property which, if it were to be acquired at all, should have been acquired for the trust. Intervention against persons who knowingly assist other fiduciaries to breach their duty is based on the need to deter conduct that directly undermines the ‘high standard’ required of fiduciaries, and on the inequitable character of permitting those persons to retain benefits resulting from their conduct
+      - Zhu v Treasurer of the State of New South Wales (2004) 218 CLR 530 at 571
+  - Knowing receipt: 4 elements
+    - 1. The existence of a trust or fiduciary duty
+    - 2. A transfer of property in breach of trust or fiduciary obligation: Robb Evans of Robb Evans & Associates v European Bank Ltd (2006) 61 NSWLR 75, [160] (Spigelman CJ, Handley & Santow JJA agreeing)
+    - 3. “Beneficial” receipt of legally recognised form of property the subject of fiduciary duty by the defendant: Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89 (not information); Stephens Travel Services International Pty Ltd v Qantas Airways Ltd (1988) 13 NSWLR 331 (when a bank receives “beneficially” – an agent receives ministerially, not beneficially.) Agip (Africa) Ltd v Jackson [1990] Ch 265, 291-2 (Millett J).
+    - 4. Knowledge of the facts amounting to the breach of trust or fiduciary duty.
+  - Knowing Receipt: misapplication of trust property
+    - The need for ‘property’
+    - Includes tangible or intangible property (ie a chose in action)
+    - Extends beyond ‘trust’ property – extends to property held or controlled subject to a fiduciary obligation (eg property under the control of company directors):
+    - Westpac Banking Corporation v Bell Group Ltd (in liq) (No 3) (2012) 270 FLR 1
+    - Information is not property: Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89 - where a trustee or fiduciary provides information to or otherwise assists a third party to acquire property in breach of fiduciary obligation, the new property acquired by the third party is not ‘trust property’ in the broad sense for the purposes of the first limb: Evans, ‘Equity and Trusts’ (5th ed) p 1528.
+  - Farah Constructions Pty Ltd v Say-Dee Pty ltd (2007) 230 CLR 89
+    - DA refused by Council – site too small. 
+    - Mrs Elis and her daughter purchased neighbouring properties 
+    - Say-Dee claimed that Mrs Elias and her daughters held the properties on constructive trust for the joint venture. Were they liable under either limb of Barnes v Addy? Held that Mr Elias had sufficiently disclosed Council’s reasons for refusing the DA, and also invited Say-Dee to join in purchase of neighbouring properties. Re knowing assistance, the High Court confirmed requirement for a ‘dishonest and fraudulent design’, and knowledge within first 4 levels of Baden scale. Third party liability not established.
+    - The knowing receipt claim failed because they had not received any property which was subject to a fiduciary duty. The adjoining land was not trust property. Nor was the information about the council’s decision trust property. While the information regarding the council’s reasons for refusing the application may have been subject to a fiduciary duty, it was public knowledge and not confidential.
+  - ‘Receipt’ of trust property
+    - Must be ‘beneficial receipt’ ie ‘receive and become chargeable’
+    - ‘receipt’ not necessarily ‘retention’ Grimaldi v Chameleon Mining (2012)
+  - Knowledge
+    - The ‘degree’ of knowledge: The Baden scale…
+      - Actual knowledge.
+      - Deliberate ignorance = ‘willful blindness’.
+      - Willfully and recklessly failing to make enquiries that an honest and reasonable person would make.
+      - Knowledge of circumstances that would indicate facts to an honest and reasonable person.
+      - Knowledge of circumstances that would put and honest and reasonable person on notice.
+    - The content of the knowledge: what must the knowledge relate to?
+      - The property was subject to a trust or fiduciary duty;
+      - It was transferred in breach of trust or fiduciary duty.
+  - Heperu Pty Ltd v Belle [2009] NSWCA 252
+    - As in Black v Freedman, she was an innocent volunteer who had received traceable proceeds from a breaching fiduciary.
+    - But unlike the wife in Black, B did not actually receive the funds – she possibly received traceable proceeds from those funds.
+    - So what liability did she have? She had a personal obligation to repay the value of the traceable property in her hands at the time she received notice of the claim. (Note that no proprietary claim had been made in this case.)
+    - She did NOT have to repay the whole of the fund including what had been dissipated. This situation was distinguished from Ministry of Health v Simpson – where it was held there was a personal liability for a volunteer to return the value of all money wrongly paid to them from the administration of a deceased estate. ‘The case is not authority for the wider proposition that equity permits a personal action against a volunteer receiving the traceable proceeds of misappropriated funds’ [134].
+  - GP Building Holdings Pty Ltd and Beiruti v Voitin [2022] VSCA 210
+    - ‘.. She wilfully and recklessly failed to make such inquiries about the source of the $150,000 that an honest and reasonable person would have made in her position. She ought to have known that the  money, ... came from a misuse of the ... trust account.’ [110].
+    - Citing (at [12] Grimaldi (2012) 200 FCR 296, [261]:
+      - ‘The third [Baden category] involves such a calculated abstention from inquiry as would disentitle the third party to rely upon a lack or actual knowledge of the trustee’s or fiduciary’s wrongdoing’.
+    - Citing (at [14] Consul (1975) 132 CLR 373, 412: ‘the defendant has consciously refrained from enquiry for fear lest [they] learn of fraud’.
+  - Leeming JA in Fistar v Riverwood Legion and Community Club Ltd (2016) 91 NSWLR 732
+    - A person who receives trust property, otherwise than as a bona fide purchaser for value without notice, but innocently, and thereafter acquires notice of the trust and deals with it in a manner inconsistent with the trust, will also be liable as a constructive trustee. Although this is similar to [knowing receipt] liability, it is conceptually distinct, because it is the subsequent dealing, rather than the receipt of property, that founds liability.
+- Accessorial Liability: Knowing Assistance
+  - Barnes v Addy liability . . .
+    - Involves personal liability.  
+    - A knowing recipient is made a trustee and is charged with the duties of a trustee: (CT)
+    - A knowing recipient can be liable even if they no longer hold the trust property (Personal Liability of a CT”ee)
+    - A knowing assistant can be liable even if they never held the trust property: (Personal Liability of a CT’ee)
+  - Knowing assistance
+    - 1. A trust or other fiduciary relationship
+    - 2. The defendant (ie 3rd party) must know that a dishonest and fraudulent design is being implemented (by the fiduciary).
+    - 3. The defendant must know that their acts have the effect of assisting the design (assistance should “make a difference: and forward or advance the primary breach or misconduct in some way”). 
+    - The knowledge of the assistant (or accessory) must be of actual facts and not knowledge of mere claims or allegations.
+    - ‘Knowing assistance’ involves complicity in fraud.
+  - Hasler v Singtel (2014) 311 ALR 494
+    - C owed fiduciary duties to Optus and breached those duties: placed personal interests (through Sumo) in conflict with Optus: no informed consent
+    - Curtis: Shadow director
+      - Hasler
+        - Worked for Curtis at Optus: resigned and managed Sumo
+    - Sumo Pty Ltd
+      - Sumo provided warehousing services for Optus equipment: brokered by Almad Pty Ltd
+    - Almad Pty Ltd
+      - Almad charged 20% fee by way of markup
+    - 
+    - Mr Curtis was throughout the period paid a salary by Optus and employed as a senior manager pursuant to a contract which required him to "serve [Optus] faithfully and diligently" and "not [to] act in conflict with [Optus'] best interests". He brought about a position where the company Sumo, of which he was a shadow director, was supplying warehouse services to Optus, not pursuant to any competitive tender, but at prices which (on behalf of Sumo) he set, and which (on behalf of Optus) he approved, with the result that Sumo derived many millions of dollars of revenue. That of itself is sufficient to answer the description of a dishonest and fraudulent design. There is a plain transgression of ordinary standards of honest behaviour. No honest employee would do such a thing without having first obtained the consent of his or her employer. Even if Mr Curtis is to be believed in his evidence that he did not appreciate that there was a conflict of interest, let alone dishonesty, his self-deception does not prevent his conduct from being dishonest. [127]
+  - What is a ‘dishonest and fraudulent design?
+    - Hasler v Singtel (2014) 311 ALR 494 Leeming JA held at 124:
+    - [123] The short point is that Lord Selborne’s formulation avoids the potential for dispute as to the meaning of “fraud” in equity, by requiring that there must also be dishonesty on the part of the fiduciary.
+    - [124] Dishonesty amounts to a transgression of ordinary standards of honest behaviour. It is not necessary to say anything else by way of elaboration, save to confirm that it is not necessary to demonstrate that the person thought about what those standards were. (I have paraphrased Lord Hoffmann’s account in Barlow Clowes International Ltd (in liq) v Eurotrust International Ltd [2006] 1 WLR 1476 ; [2006] 1 All ER 333 at [16].)
+    - [125] No differently from most legal tests, there will be borderline cases (consider the facts in Twinsectra Ltd v Yardley [2002] 2 AC 164 ; [2002] 2 All ER 377). However, as Gleeson CJ once wrote, the existence of twilight does not invalidate the distinction between night and day...
+    - Let it be assumed that a third party knows of the essential facts which, absent fully informed consent, amount to a breach of fiduciary duty which is a dishonest and fraudulent design. If that third party continues to participate in what prima facie amounts to a dishonest and fraudulent breach of fiduciary duty without inquiring whether there is fully informed consent, then the third party is liable. It is not necessary for the plaintiff to take the further step of proving knowledge of the absence of fully informed consent. Once in possession of knowledge of what would otherwise amount to a dishonest breach of duty, an honest and reasonable person in the position of the third party would make inquiries. If there is no other evidence as to the third party's state of mind, the third party will have the requisite knowledge to be rendered liable to account as a constructive trustee.
+  - What is ‘assistance’?
+    - should ‘make a difference’ and forward or advance the primary breach or misconduct in some way.
+    - Mere passive acquiescence in the breach would not be enough assistance must take the form of some activity or conduct over and above mere knowledge of the fiduciary’s breaches
+    - The assistance must also have some causal significance, which is more than minimal ‘for if there is no causative effect and therefore no assistance given: Re-Engine Pty Ltd (in liq) v Fergusson(2007) 209 FLR 1
+      - it may be essential action or simply part of a chain of events
+      - no need to inevitably lead to loss (from Baden)
+      - irrelevant if it is done with intention to make a profit, if in fact it involves a breach of duty
+    - First, there will be assistance where, but for the action or inaction of the third party, the breach of fiduciary duty would not have occurred...
+    - Secondly, there may also be assistance where the third party has facilitated a breach of fiduciary duty that would have occurred in any event. It is difficult to see how, in view of equity’s broad concern with preventing unconscionability, a third party in these circumstances could not be liable under the second limb of Barnes v Addy, even if there is evidence to suggest that the commission of the primary breach was a foregone conclusion: Harstedt Pty Ltd v Tomanek (2018) 55 VR 158.
+    - It seems that if, without the acts of the 3rd party, the breach of duty by the fiduciary could not have occurred or been implemented
+    - The third party need not have acted dishonestly
+  - Knowledge
+    - Royal Brunei Airlines Snd Bhd v Tan [1995] 2 AC 378
+      - Replaced by test of ‘dishonesty’ of the 3rd party
+    - Privy Council held that the assister will be liable even if the primary breach was innocent. This approach not followed in Australia - In Australia this would amount to inducing a breach (outside Barnes v Addy formula)
+  - Consul Development Pty Ltd v DPC Estates Pty Ltd (1975) 132 CLR 373
+    - Mr Walton - solicitor and property developer
+    - Walton’s property development company, DPC Estates
+    - Mr Clowes worked for Walton as a legal clerk and also owned his own company
+    - Mr Grey - worked as property manager for Walton/DCP
+    - Clowes’ company Consul Developments
+    - Mr Grey gave Clowes information about potential properties for sale, saying Waltons could not afford them. Consul Developments then bought the properties for Clowes and Grey.
+  - Questions for the court . . .
+    - Was Clowes (and hence Consul) liable as knowing recipient, or knowing assistant in Grey’s breach of fiduciary duty?
+    - Is liability as an assistant based on the same level of knowledge as recipient liability?
+    - Should the doctrine of constructive notice developed in the law of priorities in land and estates apply in such cases?
+  - In the High Court
+    - Appeal court must stick with facts found by Hope J: Clowes believed Walton was not interested in the properties.
+    - On this basis, there was no actual knowledge – no willful blindness – no knowledge of facts that would indicate any breach of fiduciary duty.
+    - Doctrine of constructive notice did not apply. Information here is not trust property, so this is not a ‘receipt’ case.
+    - It was held that DPC Estates failed to establish sufficient knowledge by Clowes of Grey’s breach of fiduciary duty. DPC’s claim for knowing participation by Clowes in Grey’s breach of fiduciary duty therefore failed to establish liability on the part of Consul; (Grey did not dispute liability) .
+    - 36. In my view the law, as it now stands, did not require Clowes to make any further inquiry once he believed that the Walton Group was not in the market for the properties here in question. He had been told this by Grey and his own knowledge of the Group's financial situation, confirmed by his inquiries, supported the apparent truth of Grey's statement. In that situation a reasonable, honest man would not, in my view, have had knowledge of circumstances telling of breach of fiduciary duty by Grey. This being the furthest extent to which any possible doctrine of constructive notice may go in such a case it follows that the doctrine, even if applicable, cannot impute to Consul the knowledge necessary to render it liable to the plaintiff. (at p413)
+  - Grimaldi v Chameleon Mining NL (ACN 098773785) (No 2) (2012) 287 ALR 22: [2012] FCAFC 6 (Finn, Stone and Perram JJ).
+    - 
+    - ‘Unorthodox steps were taken with little or no regard for corporate forms or for the fiduciary responsibilities of company directors or officers’: [3]. 
+    - Grimaldi was held to be a de facto director of Chameleon – one of the mining companies involved. 
+    - He was held to be guilty of contraventions of fiduciary duties owed to Chameleon (and ss 181 and 182 of the Corporations Act 2001(Cth).
+    - The knowing receipt and assistance aspects of the case concerned claims against other companies associated with Grimaldi that benefited from or participated in Grimaldi’s activities
+  - Outcome:
+    - Murchison was personally liable under both limbs of the rule in Barnes v Addy, having knowingly received
+      - (i) Chameleon’s cheques which ‘in form passed through’ Murchison and then used by Winterfall as part of a mixed fund to pay for Iron Jacks, and
+      - (ii) Chameleon shares which were sold and the proceeds used to help fund Winterfall’s purchase of Iron Jacks.
+    - Murchison was imputed with Grimaldi’s and Barnes’s actual knowledge and found to have also knowingly assisted their breaches of fiduciary duties.
+  - Grimaldi was a claim over new profits
+    - ‘In knowing receipt cases, the recipient can be required to pay compensation for loss arising from the misapplication of trust property, or to account for gains made from it. These liabilities do not depend upon the third party retaining any part of the property received, (or its traceable proceeds) in his or her hands, although, if such property is retained, it must be accounted for specifically.’ [253]
+    - Grimaldi confirms that ‘knowing receipt’ giving rise to the duties of constructive trusteeship, is fault-based. [267].
+    - View expressed that liability will not arise in the case of category 5 constructive notice [268].
+  - Recent NSW Court of Appeal decision
+    - Turner v O’Bryan-Turner [2022] NSWCA 23.
+    - See especially [92]-[150] (White JA)
+  - See how the knowledge test was applied . . 
+    - ‘In asking whether an honest and reasonable [person] would have had knowledge of such breach of duty, the appropriate enquiry is whether an honest and reasonable person in their position would have had such knowledge’. [141]
+    - David and Karl were 18 and 17 respectively at the time of the transfers. They had no HSC level education and were farm labourers. They knew that their mother had obtained and was acting on legal advice, and they knew that the intention was to give effect to their father’s intentions in his will – and that they would bear responsibility of financing their father’s medical care after their mother’s death.
+  - Remedy against Wendy (now deceased) the defaulting fiduciary:
+    - Wendy – as the defaulting fiduciary, was liable to pay equitable compensation for John’s loss. Her executor was liable to meet that claim from her estate (which was now found to be insolvent).
+  - Remedies . . .
+    - The knowing assistant in a breach of fiduciary duty can be liable personally to pay equitable compensation for any loss caused to the person to whom the fiduciary duty was owed.
+    - Or, if they have made a profit from participation in the breach of duty, they may be liable for an account of that profit.
+  - Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd (2018) 265 CLR 1
+    - The intensity of the remedies imposed will vary according to the dishonesty and fraud involved. Those who assist in a dishonest and fraudulent breach may also be liable in the same way as the fiduciary (Gageler J at [70]-[71]). Knowing assistance includes assisting the fiduciary in a dishonest and fraudulent design, and knowledge will be made out when the assistant has knowledge of facts which would indicate the dishonesty to an honest and reasonable person (Gageler J at [71]). A knowing assistant is liable as a “constructive trustee” but this simply means the assistant may be imposed with the same remedies as if he were a fiduciary, principally an account of profits or equitable compensation
+- Barnes v Addy (1874) 9 Ch App 244
+  - Court:
+    - Court of Appeal in Chancery
+  - Judges:
+    - Lord Selborne LC, Sir W. M. James LJ, Sir G. Mellish LJ
+  - Procedural History:
+    - The plaintiffs, children of Henry Norman Barnes and Ann Barnes, sued to recover trust funds misapplied by their father (H.N. Barnes), who had been appointed sole trustee. The claim sought to hold the original trustee (J.W. Addy) and two solicitors (Duffield and Preston) liable as constructive trustees. The Vice-Chancellor dismissed the claim against the solicitors but held Addy's estate liable. The plaintiffs appealed against the dismissal of the solicitors.
+  - Material Facts
+    - The testator, William Addy, had established a trust for his daughters, Ann Barnes and Susan Addy, and their children.
+    - The trust initially had three trustees, but by 1857, J.W. Addy was the sole trustee.
+    - Seeking to retire, Addy appointed H.N. Barnes (Ann Barnes’ husband) as the sole trustee of her family's share, despite legal advice against appointing a sole trustee.
+    - Barnes subsequently misapplied the trust funds and became bankrupt.
+    - Two solicitors were involved:
+      - Duffield (Addy's solicitor) prepared the deed appointing Barnes as trustee and an indemnity deed for Addy.
+      - Preston (Barnes’ solicitor) reviewed the deeds on behalf of Ann Barnes and confirmed her consent.
+    - The plaintiffs alleged that the solicitors were complicit in the breach of trust and should be held liable as constructive trustees.
+  - Legal Issues
+    - 1. When can a third party (a "stranger" to the trust) be held liable as a constructive trustee?
+    - 2. Was there sufficient complicity or dishonesty on the part of the solicitors to impose liability?
+    - 3. Should solicitors be added as defendants merely for costs purposes?
+  - Decision
+    - The appeal was dismissed, affirming the Vice-Chancellor’s ruling that the solicitors were not liable as constructive trustees.
+  - Legal Reasoning
+    - 1. Liability of Third Parties in Breach of Trust (Barnes v Addy Principles)
+      - Lord Selborne LC set out two key grounds on which third parties could be liable as constructive trustees:
+    - (a) Knowing Receipt:
+      - If a third party receives trust property for their own benefit with knowledge of its improper application, they can be liable as a constructive trustee.
+      - Application: Neither solicitor received trust property, so this ground did not apply.
+    - (b) Knowing Assistance:
+      - A third party who knowingly assists in a dishonest and fraudulent breach of trust may be liable.
+      - The test requires actual knowledge of dishonesty, not mere involvement in a legally improper transaction.
+      - Application: The solicitors advised against the appointment of a sole trustee but did not have reason to suspect dishonesty. The court held that assisting in a transaction legally within a trustee’s power does not, by itself, impose liability unless dishonesty is involved.
+      - Thus, the solicitors could not be held liable under either limb of constructive trust liability.
+    - 2. No Constructive Trust Liability for Solicitors
+      - Preston’s Role: He only reviewed and approved the deeds for Barnes and his wife. He explicitly warned Mrs. Barnes of the risks.
+      - Duffield’s Role: He advised against appointing Barnes as sole trustee but ultimately followed Addy’s instructions.
+      - Neither had knowledge of or participation in a dishonest design. The appointment of a sole trustee was not inherently fraudulent, even if it later led to misapplication of funds.
+    - 3. Costs – Discouraging Unwarranted Claims Against Solicitors
+      - The court reaffirmed the principle that solicitors should not be sued solely to recover costs, particularly when they are not primarily responsible for the breach of trust.
+      - The court disapproved of adding solicitors as defendants unless substantial relief could be granted against them.
+    - Ratio Decidendi (Key Legal Principles from Barnes v Addy)
+      - 1. Third parties can only be held liable as constructive trustees if they:
+        - a) Knowingly receive trust property improperly (Knowing Receipt).
+        - b) Knowingly assist in a dishonest and fraudulent breach of trust (Knowing Assistance).
+      - 2. Mere involvement in an imprudent transaction does not establish liability unless dishonesty is shown.
+      - 3. Solicitors and agents are not liable for simply carrying out their professional roles unless they knowingly participate in fraud.
+      - 4. The court discourages suing solicitors simply to obtain costs.
+    - Significance of the Case
+      - Established the "Barnes v Addy" test, which remains the foundation for third-party liability in trust breaches.
+      - Confirmed that honest professional advisers are not liable merely for facilitating a transaction that results in a breach of trust.
+      - Influential in later Australian cases, such as:
+        - Consul Development v DPC Estates (1975) 132 CLR 373 – Applied Barnes v Addy principles in Australia.
+        - Farah Constructions v Say-Dee (2007) 230 CLR 89 – High Court reaffirmed the two-limb test.
+    - Conclusion
+      - J.W. Addy’s estate was held liable for replacing the trust funds.
+      - Barnes misapplied the funds and became bankrupt.
+      - The solicitors (Duffield and Preston) were not liable as they had no knowledge of any dishonest scheme.
+      - The case remains a cornerstone of equity law, defining third-party liability for breaches of trust.
+- Farah Constructions Pty Ltd v Say-Dee Pty Ltd [2007] HCA 22
+  - Court:
+    - High Court of Australia
+  - Judges:
+    - Gleeson CJ, Gummow, Callinan, Heydon, and Crennan JJ
+  - Procedural History:
+    - Say-Dee Pty Ltd brought proceedings in the Supreme Court of New South Wales, alleging that Farah Constructions Pty Ltd had breached fiduciary duties in a joint venture.
+    - Palmer J (Supreme Court) dismissed the cross-claim brought by Say-Dee.
+    - Say-Dee appealed to the NSW Court of Appeal, which found in its favour and imposed constructive trusts over No 13 and No 15 for Say-Dee’s benefit.
+    - Farah Constructions and related parties appealed to the High Court of Australia, arguing that the Court of Appeal erred in its reasoning on fiduciary duties, recipient liability, assistance-based liability, and indefeasibility of title.
+    - The High Court overturned the Court of Appeal’s decision and restored the trial judge’s orders.
+  - Original Dispute:
+    - Farah Constructions and Say-Dee entered a joint venture to redevelop 11 Deane Street, Burwood.
+    - The Council rejected their development application, stating that amalgamation with adjacent properties was necessary for approval.
+    - Mr Elias (controlling Farah) subsequently purchased No 13 and No 15 but did not include Say-Dee in these acquisitions.
+    - Say-Dee alleged that Farah breached its fiduciary duties by failing to disclose opportunities to acquire adjoining properties.
+    - Say-Dee also claimed that Elias’ wife and daughters were liable under Barnes v Addy for knowingly receiving trust property.
+  - Material Facts
+    - Joint Venture Agreement:
+      - Farah and Say-Dee purchased No 11 Deane Street to redevelop it.
+      - Say-Dee contributed $225,000, with the remainder financed by a mortgage.
+    - Council Rejection & Need for Amalgamation:
+      - The Council rejected the development application, citing that No 11 was too small for redevelopment.
+      - Mr Elias was informed that the site needed to be amalgamated with adjoining properties to maximise development potential.
+    - Acquisition of Adjoining Properties:
+      - No 15 and No 20 were purchased by Elias’ family members.
+      - No 13 was later purchased by Lesmint Pty Ltd (a company controlled by Elias).
+      - Elias did not formally offer Say-Dee the opportunity to invest in these properties.
+    - Say-Dee’s Allegations: 
+      - Farah breached its fiduciary duty by failing to disclose the Council’s requirement for amalgamation.
+      - Elias’ wife and daughters were liable as constructive trustees under Barnes v Addy.
+      - The properties should be held on constructive trust for Say-Dee.
+  - Legal Issues
+    - Fiduciary Duties
+      - Did Farah owe a fiduciary duty to Say-Dee requiring disclosure of the opportunity to acquire No 13 and No 15?
+      - Did Farah fail to disclose material information about the Council’s stance on amalgamation?
+    - Knowing Receipt (First Limb of Barnes v Addy)
+      - Did Elias’ wife and daughters receive trust property with knowledge that it was misapplied?
+    - Knowing Assistance (Second Limb of Barnes v Addy)
+      - Did Elias’ wife and daughters knowingly assist in a dishonest and fraudulent breach of trust?
+    - Unjust Enrichment & Constructive Trusts
+      - Should the properties be held on constructive trust for Say-Dee based on principles of unjust enrichment?
+    - Indefeasibility of Title (Real Property Act 1900 (NSW))
+      - Did Elias’ wife and daughters acquire indefeasible title under s 42 of the Real Property Act 1900 (NSW)?
+      - Could an in personam claim or fraud exception override Torrens system indefeasibility?
+    - Appellate Review & Reversal of Trial Judge’s Findings
+      - Did the NSW Court of Appeal err in reversing findings of fact made by the trial judge?
+  - Laws/Statutes in Contention
+    - Barnes v Addy (1874) LR 9 Ch App 244 (constructive trust liability for third parties).
+    - Real Property Act 1900 (NSW), s 42 (indefeasibility of title).
+    - Principles of unjust enrichment and restitutionary liability.
+  - Precedents Considered
+    - Consul Development v DPC Estates (1975) 132 CLR 373 (fiduciary duties and knowing assistance).
+    - Bahr v Nicolay (No 2) (1988) 164 CLR 604 (exceptions to indefeasibility).
+    - Giumelli v Giumelli (1999) 196 CLR 101 (constructive trusts as a remedy).
+  - Judicial Opinions & Legal Reasoning
+    - 1. Fiduciary Duties – No Breach by Farah
+      - The High Court rejected the Court of Appeal’s conclusion that Farah breached its fiduciary duty.
+      - Farah had disclosed the Council’s requirement for amalgamation in substance, if not explicitly.
+      - The trial judge’s findings that Say-Dee was aware of the situation should not have been reversed.
+    - 2. Knowing Receipt – No Liability Under First Limb of Barnes v Addy
+      - The Court of Appeal erred in holding that Elias’ wife and daughters were liable for knowing receipt.
+      - They did not receive trust property or funds belonging to Say-Dee.
+    - 3. Knowing Assistance – No Liability Under Second Limb of Barnes v Addy
+      - There was no "dishonest and fraudulent design" by Farah.
+      - Elias’ family had no knowledge of any fiduciary breach.
+    - 4. Unjust Enrichment – No Basis for Constructive Trusts
+      - The Court of Appeal incorrectly applied unjust enrichment principles to impose constructive trusts.
+      - Constructive trusts should only be imposed where no adequate remedy exists.
+    - 5. Indefeasibility – Title is Protected
+      - Elias’ wife and daughters held indefeasible title under s 42 of the Real Property Act 1900 (NSW).
+      - The Court of Appeal erred in allowing in personam claims without a valid equitable cause of action.
+    - 6. Appellate Review – Errors by the NSW Court of Appeal
+      - The Court of Appeal wrongly reversed the trial judge’s credibility findings.
+      - The High Court restored the trial judge’s findings and overturned the appellate decision.
+  - Result:
+    - Appeal allowed.
+    - NSW Court of Appeal orders set aside.
+    - Trial judge’s decision reinstated.
+    - Say-Dee’s claims dismissed.
+    - Say-Dee ordered to pay Farah’s costs.
+  - Relevance to Modern Law
+    - Clarified fiduciary duties in joint ventures – disclosure obligations depend on actual knowledge of material facts.
+    - Strengthened Barnes v Addy requirements – third-party liability requires knowing involvement in fraud.
+    - Confirmed indefeasibility of title principles – recipients of registered property are protected unless fraud is proven.
+    - Reinforced appellate deference to trial judges – factual findings should not be overturned without clear error.
+- Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd [2018] HCA 43 (10 October 2018)
+  - Procedural History:
+    - Appeal from the Full Court of the Federal Court of Australia
+    - Original trial in the Federal Court of Australia
+  - Original Dispute:
+    - Lifeplan Australia Friendly Society Ltd (Lifeplan) and its subsidiary, Funeral Plan Management Pty Ltd (FPM), alleged that two of their former employees, Mr Woff and Mr Corby, breached their fiduciary duties by assisting a competitor, the Ancient Order of Foresters in Victoria Friendly Society Ltd (Foresters).
+    - Lifeplan sought an account of profits from Foresters, arguing that it knowingly assisted in these breaches.
+  - Reason for Trial:
+    - Lifeplan and FPM sought equitable remedies against Foresters for knowing assistance in breaches of fiduciary duty.
+    - The Federal Court ruled in favour of Lifeplan but declined to order an account of profits against Foresters.
+    - On appeal, the Full Federal Court ordered Foresters to account for $6,558,495 in profits.
+    - Foresters appealed to the High Court of Australia.
+  - Material Facts:
+    - 1. Employment at Lifeplan – Woff and Corby were senior employees at Lifeplan, which operated a funeral fund business.
+    - 2. Breach of Fiduciary Duty – While still employed at Lifeplan, Woff and Corby secretly devised a business plan ("BCP") to assist Foresters in taking Lifeplan’s clients.
+    - 3. Use of Confidential Information – The BCP contained confidential financial and customer data from Lifeplan, which Foresters used to establish its funeral fund business.
+    - 4. Recruitment by Foresters – Woff and Corby left Lifeplan and immediately joined Foresters, implementing the BCP to target Lifeplan’s customers.
+    - 5. Foresters’ Profits – As a result, Foresters’ funeral fund business grew significantly, while Lifeplan’s business declined.
+    - 6. Equitable Claims – Lifeplan alleged that Foresters knowingly assisted in the fiduciary breaches and sought an account of profits.
+  - Issue Raised:
+    - Whether Foresters should be required to account for profits gained from its knowing assistance in Woff and Corby’s dishonest and fraudulent breach of fiduciary duty.
+    - Whether the profits to be accounted for should include anticipated future profits.
+  - Law(s)/Statute(s) in Contention:
+    - Fiduciary duties (equitable principles)
+    - Knowing assistance liability (Barnes v Addy (1874) LR 9 Ch App 244)
+    - Account of profits as an equitable remedy
+    - Corporations Act 2001 (Cth), ss 181, 182, 183 (statutory directors' duties)
+  - Precedents:
+    - Barnes v Addy (1874) LR 9 Ch App 244 – Established that third parties can be held liable for knowingly assisting in a breach of fiduciary duty.
+    - Consul Development Pty Ltd v DPC Estates Pty Ltd (1975) 132 CLR 373 – Confirmed liability for knowing participation in breaches of fiduciary duty.
+    - Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89 – Set out knowledge requirements for "knowing assistance."
+    - Warman International Ltd v Dwyer (1995) 182 CLR 544 – Discussed how profits should be accounted for when businesses are built upon a fiduciary breach.
+  - Tests Applied:
+    - Causation Test: Whether the profits of Foresters' business were sufficiently connected to the fiduciary breach.
+    - Disgorgement Principle: Profits gained through dishonest means must be fully accounted for.
+  - Words and Phrases Considered:
+    - "Account of profits"
+    - "Knowing assistance"
+    - "Material contribution"
+    - "Disgorgement"
+    - "Actual profits vs anticipated profits"
+  - Arguments by Party:
+    - Foresters (Appellant)
+      - Claimed that only profits directly caused by its knowing assistance should be accounted for.
+      - Argued that the Full Federal Court overstated the causal connection between its actions and the profits.
+      - Contended that it should not have to account for future anticipated profits.
+    - Lifeplan (Respondent & Cross-Appellant)
+      - Argued that Foresters should account for the entire business value gained through Woff and Corby’s dishonest scheme.
+      - Contended that equity should not allow a knowing participant in a fiduciary breach to retain any benefit from the wrongdoing.
+  - Judicial Opinions:
+    - Majority Judgment (Kiefel CJ, Keane & Edelman JJ)
+      - Agreed that Foresters knowingly assisted in the breaches and should account for profits.
+      - Emphasised that Foresters’ business expansion was directly linked to the wrongful conduct.
+      - Rejected the argument that Foresters should only account for profits from specific acts of knowing assistance.
+    - Gageler J (Separate Judgment, Concurring in Result)
+      - Focused on causation principles – Foresters’ profits were inseparable from the fiduciary breaches.
+      - Stated that an account of profits is a "prophylactic remedy", meaning it is designed to prevent wrongdoing, not just compensate for loss.
+  - Legal Reasoning:
+    - Foresters knowingly assisted Woff and Corby in breaching their fiduciary duties.
+    - The profits gained were directly linked to the confidential information stolen from Lifeplan.
+    - Equity requires full disgorgement to prevent unjust enrichment.
+    - Future profits could be accounted for, as they were a direct consequence of the breach (consistent with Warman).
+  - Ratio Decidendi:
+    - Knowing assistance in a fiduciary breach creates liability to account for profits, even if the wrongdoer’s own business efforts contributed to the profit.
+    - A wrongdoer cannot argue that they could have earned the same profits lawfully; equity focuses on preventing any benefit from dishonest conduct.
+  - Result:
+    - Appeal dismissed.
+    - Cross-appeal allowed.
+    - Foresters ordered to account for $14,838,063 in profits (increased from $6,558,495).
+    - Costs awarded to Lifeplan.
+  - Relevance to Modern Law:
+    - Clarifies the scope of knowing assistance liability – third parties who knowingly assist in fiduciary breaches will be held accountable for all resulting profits.
+    - Confirms the importance of fiduciary loyalty – employees cannot misuse confidential information for their benefit.
+    - Expands the law on equitable remedies – anticipated profits can be included in an account of profits.
+- Turner v O’Bryan-Turner [2022] NSWCA 24
+  - Court:
+    - New South Wales Court of Appeal
+  - Parties:
+    - Appellant: Owen John Turner (represented by his tutor, Nicholas John Turner)
+    - Respondents: Angelena O’Bryan (executrix of Wendy O’Bryan-Turner’s estate), David Turner, Karl Turner
+  - Procedural History:
+    - This case was an appeal against decisions made by Ward CJ in Eq in the Equity Division of the NSW Supreme Court in three related cases:
+      - Turner v O’Bryan-Turner [2021] NSWSC 5
+      - Turner v O’Bryan-Turner (No 2) [2021] NSWSC 101
+      - Turner v O’Bryan-Turner (No 3) [2021] NSWSC 338
+  - Facts:
+    - John Turner, who suffered from dementia and lacked capacity by mid-2016, owned six farming properties in Trundle, NSW.
+    - His wife, Wendy O’Bryan-Turner, acting under an enduring power of attorney, transferred all of John’s properties to herself and their two sons, David and Karl, without consideration.
+    - Wendy sought legal advice about the transfers, and no solicitor or barrister advised her that she lacked the authority to make the transfers.
+    - The transfers were allegedly done to give effect to John’s will in advance of his death and to prevent his children from a prior marriage, particularly Nicholas (Nick), from making a claim on the estate.
+    - The primary judge found Wendy had breached her fiduciary duty but did not declare a constructive trust or order full equitable compensation, instead fashioning relief that would secure John’s financial needs.
+  - Legal Issues:
+    - 1. Did Wendy’s actions constitute a “dishonest and fraudulent design” under the second limb of Barnes v Addy?
+    - 2. Did David and Karl have sufficient knowledge of the breach to be liable under Barnes v Addy for knowing receipt or knowing assistance?
+    - 3. Should Wendy’s estate be required to return the properties or pay equitable compensation?
+    - 4. Should David and Karl be required to transfer the properties back to John?
+    - 5. Was the primary judge correct in refusing an order for an account of Wendy’s dealings with John’s financial assets?
+  - Decision:
+    - Wendy’s Conduct Not Fraudulent and Dishonest:
+      - The Court of Appeal upheld the primary judge’s finding that Wendy did not act dishonestly, as she had relied on legal advice and believed she was fulfilling John’s wishes.
+    - David and Karl Not Liable Under Barnes v Addy:
+      - The Court agreed with the trial judge that David and Karl did not have the requisite knowledge to be liable for knowing receipt or knowing assistance.
+      - They were young, inexperienced, and had not read Wendy’s power of attorney. An honest and reasonable person in their position would not have known Wendy’s conduct was a breach of fiduciary duty.
+    - Wendy’s Estate Held Liable and Ordered to Return Property:
+      - The Court found that Wendy’s interest in the three properties in which she remained a tenant in common (Woolharinga, Nellyvale, and Sunrise) was held on constructive trust for John.
+      - Angelena O’Bryan (as executrix) was ordered to transfer Wendy’s interest in these properties back to John.
+    - Equitable Compensation Awarded Against Wendy’s Estate:
+      - Wendy’s estate was declared liable to pay equitable compensation of $3.44 million, the value of the properties transferred.
+      - However, the estate was insolvent, making enforcement unlikely.
+    - Refusal to Order an Account Upheld:
+      - The Court did not order an account of Wendy’s dealings with John’s other financial assets, as it would be futile given the insolvency of the estate.
+  - Ratio Decidendi (Legal Principles):
+    - A breach of fiduciary duty by an attorney under a power of attorney does not automatically amount to fraud or dishonesty for the purposes of Barnes v Addy (Farah Constructions v Say-Dee (2007) 230 CLR 89).
+    - Young, inexperienced beneficiaries who receive property in a transaction facilitated by legal advice are not liable for knowing receipt unless they possess actual knowledge or awareness that the transaction was improper.
+    - Proprietary relief (constructive trust) can be ordered against a defaulting fiduciary (Wendy’s estate), but recipients of property (David and Karl) are protected by the principle of indefeasibility under the Real Property Act 1900 (NSW).
+    - Equitable compensation is available against a defaulting fiduciary's estate, even if the estate is insolvent.
+  - Significance:
+    - Clarifies the limits of liability under Barnes v Addy, particularly in relation to knowing receipt and knowing assistance for young, unsophisticated recipients of trust property.
+    - Affirms the principle of indefeasibility under Torrens title land law, protecting innocent third-party recipients of land transferred in breach of fiduciary duty.
+    - Demonstrates the court’s willingness to impose constructive trusts on the estates of defaulting fiduciaries, even when the estate is insolvent.
+    - Shows the courts’ focus on practical relief rather than strictly theoretical equitable remedies, particularly where a plaintiff is elderly or vulnerable.
+  - Final Orders:
+    - Angelena O’Bryan (executrix of Wendy’s estate) must transfer Wendy’s interest in three properties back to John Turner.
+    - Declaration that Wendy’s estate is liable for equitable compensation of $3.44 million.
+    - David and Karl’s liability dismissed (they retain their interests in the properties).
+    - Costs orders against Wendy’s estate, with John ordered to pay David and Karl’s costs.
+
+## Week 6: Equity and property
+
+- Key Property Concepts
+  - Types of property . . .
+    - Real property = Land and interests in land
+    - Personal property —
+      - Choses in possession = tangible things (like the computer you are working on)
+      - Choses in action = property rights that can only be claimed by taking action
+        - Examples: Debts; company shares; assignable contractual rights; royalties.
+  - Some rights are not Property rights that can be assigned
+    - Public Pay
+    - The right to perform an employment contract – cannot be ‘sold’ or transferred to someone else.
+    - Rights to sue someone (a bare right to litigate).
+    - BUT – the proceeds of litigation may be assigned, as a form of ‘future property’: see Glegg v Bromley [1912] 3 KB 474
+  - Legal interests are those property rights recognized at common law
+    - For example, legal ownership of land registered under the Real Property Act is held by the person named on the register as owner.
+    - Legal owner of a bank account is the named account holder.
+    - Legal owner of rights under a contract is the person who is a party to the contract.
+    - Legal owner of company shares is the person named on the share register.
+  - Equitable interests in property are interests recognized by a court of Equity
+    - For example, a beneficiary’s interest in a trust: the trustee holds legal title to the property, and the beneficiary holds an equitable interest.
+    - Note – any kind of property can be held on trust. A person may, for example, have a beneficial interest in company shares, if the shares are registered in the name of a trustee.
+    - A legatee’s interest in a will (a deceased estate): the executor holds legal title, and the legatee has an equitable chose in action to have the estate duly administered.
+  - Distinction between a contract and a conveyance . . .
+    - A contract is an agreement, a promise to do something. 
+    - A conveyance is an immediate transfer of property.
+  - A contract is an agreement; a conveyance is a transfer
+    - Think of the typical real estate transaction.
+      - First there is an exchange of contracts
+      - Then there is a settlement when the title of the property is conveyed from vendor to purchaser.
+  - We are mainly interested in conveyances
+    - Also called ‘assignments’, especially when we are dealing with choses in action (like debts, or shares, or royalties).
+  - What does ‘Assignment’ mean?
+    - Windeyer in Norman v Federal Commissioner of Taxation says:
+      - Assignment means the immediate transfer of an existing proprietary right, vested or contingent, from the assignor to the assignee. Anything that in the eye of the law can be regarded as an existing subject of ownership, whether it be a chose in possession or a chose in action, can today be assigned, unless it be excepted from the general rule on some ground of public policy or by statute.
+  - ‘Disposition’
+    - As to the meaning of ‘disposition’, s. 7(1) Conveyancing Act 1919 NSW stipulates as follows:
+      - ‘Disposition" includes a conveyance, and also an acknowledgment under section 83 of the Probate and Administration Act 1898 , vesting instrument, declaration of trust, disclaimer, release and every other assurance of property by any instrument except a will, and also a release, devise, bequest, or an appointment of property contained in a will;
+    - Means of conveying property interests
+      - Declaration of trust
+      - Gift
+      - Sale
+      - 
+  - The following are NOT Immediate conveyances …
+    - A ‘revocable mandate’ = an instruction to do something that may be revoked.
+    - An agreement to assign a right (some time in the future). Eg, an agreement to give something, or sell something.
+    - A purported conveyance of property that doesn’t exist yet
+      - Eg – ‘I give you the royalties I will receive on my next (as yet unwritten) book ...’
+  - The following lectures focus on purported Conveyances of property
+    - And when Equity will recognize a conveyance, notwithstanding that it has failed at Common Law (usually for want of compliance with some formality, such as writing or registration requirements).
+    - As Plowman J said at first instance in Vandervell v IRC [1966] Ch 261: 
+    - ...a man does not cease to own property simply by saying ‘I don’t want it.” If he tries to give it away the question must always be, has he succeeded in doing so or not.
+- Equitable Assignments of Legal Property
+  - Legal interests are those property rights recognized at common law
+    - For example, legal ownership of land registered under the Real Property Act is held by the person named on the register as owner.
+    - Legal owner of a bank account is the named account holder.
+    - Legal owner of rights under a contract is the person who is a party to the contract.
+    - Legal owner of company shares is the person named on the share register.
+  - Gurindji Elder Vincent Lingiari and then Prime Minister Gough Whitlam
+    - Formalities – depends on the legal property
+  - assigning legal property
+    - Generally, assignment of legal property at law requires completion of certain formalities.
+    - For example: Real Property, requires a memorandum of transfer signed by the vendor, and registration of the transfer with the Land Titles Office
+  - Interests in Real Property: Writing requirements
+    - Conveyancing Act 1919 (NSW) s 23C(1)(a)–(b):
+      - No interest in land can be created or disposed of except by writing signed by the person creating or conveying the same, or by the person’s agent thereunto lawfully authorized in writing, or by will, of by operation of law,
+      - A declaration of trust respecting any land or interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by the person’s will …
+  - Debts and other Choses in action
+    - what are choses in action?
+    - “A chose in action is a personal right of property which can only be claimed or enforced by action and not by taking physical possession.”
+    - Choses in action may be legal or equitable. MGL at [6-005] note that:
+      - Legal choses are those historically enforceable in a court of common law, such as a debt or a bill of exchange, or a contract of insurance, or a share in a company.
+      - Equitable choses are those historically enforceable in a court of equity, such as a legacy in a completely or incompletely administered estate, or a share in a trust fund, or a mortgagor’s equity of redemption, or an equitable mortgage or charge....or a partner’s interest in partnership assets.
+  - Choses in Action
+    - Once upon a time a debt could not be assigned at common law.
+    - So if L (lender) was owed money by B (borrower), and L purported to sell the right to collect the debt to A (assignee), this assignment would not be recognized at Law – but Equity would recognize such an assignment, so long as there was evidence of an Immediate, Irrevocable, Intention to assign.
+  - Assignment at law
+    - Later, the statutes were passed enabling the assignment of debts and other choses in action at Law.
+    - In NSW – see Conveyancing Act 1919 s 12. (Look it up.)
+  - Requirements of s 12
+    - There must be evidence of a clear intention of assignor to make an immediate and irrevocable transfer (not merely to create a temporary charge over property).
+    - It must be absolute, not conditional. The debtor must know who to pay. Partial debts are not covered by s 12.
+    - The assignment must be made in writing signed by the assignor.
+    - Express notice in writing must be given to the debtor.
+  - Choses in action
+    - For this transfer to be effective at law, it would need to comply with s12 CA:
+      - Intention
+      - Absolute
+      - In writing signed by me
+      - Notice to you
+    - 
+  - Application
+    - Section 12 applies to gifts and sales
+    - It applies only to presently existing rights (not to future property).
+    - And remember it does not apply to partial choses in action
+    - Part of a debt can still be assigned in Equity according to the old principle: is there an immediate, irrevocable, intention to assign.
+  - What if the assignor fails to Complete formalities?
+    - When will Equity recognize that the assignment is effective to pass property to the assignee?
+  - Voluntary Assignments of Legal Property in Equity
+    - Milroy v Lord (1862) 45 ER 1185:
+    - For a voluntary settlement (assignment) to be effective, the settlor (assignor) must have done everything which according to the nature of the property was necessary to be done in order to transfer the property and make the settlement (assignment) binding on the settlor.
+    - But what does this mean? What is ‘necessary’?
+  - Anning v Anning (1907)
+    - Isaacs J: nothing short of full completion of the legal requirements set out in the statute will suffice (Equity follows the Law . . .)
+    - Higgins J: the donor must do everything in the donor’s power to comply with legal requirements. Eg: to comply with s 12, the donor must complete the writing requirements AND give notice to the debtor.
+    - Griffiths CJ: The donor must do everything necessary for the donor to do, but other formalities may be completed by others. Eg: the donor must complete writing requirements, but may give the document to the someone else with instructions to give notice to the debtor.
+  - Now we follow Corin v Patton... 
+    - Mason CJ and McHugh J stated the following principle:
+      - ‘If an intending donor of property has done everything which it is necessary for [them] to have done to effect a transfer of legal title, then equity will recognize the gift. So long as the donee has been equipped to achieve the transfer of legal ownership, the gift is complete in equity. “Necessary” used in this sense means necessary to effect a transfer. From the viewpoint of the intending donor, the question is whether what [she] has done is sufficient to enable to legal transfer to be effected without further action on [her] part.’
+    - Facts in Corin v Patton		
+      - A woman on her death bed wanted to sever the joint tenancy in a property owned with her husband, so that she could bequeath her share to her children.
+      - So she executed a memorandum of transfer and gave it to her brother, purporting to make him a trustee of the interest for her, so that this interest would form part of her estate when she died.
+      - BUT – she did not have the certificate of title, nor did she take any steps to procure it before she died. So her brother was not able to register the transfer.
+    - Question for the court . . .
+      - Did Mrs Patton do everything necessary for her to put the transaction beyond recall and arm her brother to complete the transaction himself?
+      - In this case, NO.
+    - Corin v Patton: Deane J
+      - The test [for a voluntary equitable assignment of Torrens title land] is a twofold one. It is whether the donor has done all that is necessary to place the vesting of the legal title within the control of the donee and beyond the recall and intervention of the donor. Once that stage is reached and the gift is complete and effective in equity the equitable interest in the land vests in the donee and, that being so, the donor is bound in conscience to hold the property as trustee for the donee pending the vesting of the legal title.
+  - Voluntary Assignment of legal Choses
+    - Legal choses in action: assigned under s12 CA
+    - What if formalities haven't been complied with? (ie intention/absolute/in writing/notice)
+    - Remember part of a chose in action cannot be assigned at law (only in equity)
+    - What is ‘everything necessary to be done’ so that equity will recognise the assignment?
+    - Although there is still debate, it is generally accepted that if notice to the debtor by the assignee not given, the assignment may still be recognized in equity:
+    - But the statute does not require that the assignor give it – it can be given by the assignee. Until that notice is given, the assignor is bound in equity, even if the assignment is without consideration, because he or she has done all that the law required of them to complete the gift (Anning v Anning (1907) 4 CLR 1049; Olson v Dyson (1969) 120 CLR 365 at 387 -387 per Windeyer J).
+  - Legal Property that CANNOT be assigned at law?
+    - A partial debt – immediate, irrevocable intention to assign
+    - A second principle from Milroy v lord . . .
+      - If a settlement is intended by the assignor to be effected by a particular mode or form (eg, a direct assignment, declaration of trust, or direction to trustee) the court will not give effect to it by applying another form. An imperfect assignment will not, for example, be held to be a declaration of trust.
+      - (Recall the ways of transferring interests in property include declaring oneself a trustee of one’s property for the benefit of another.)
+  - Example of a declaration of trust . . .
+    - Paul v Constance [1977] 1 All ER 195
+    - Constance left his wife and moved in with Paul. He received a compensation pay out and opened a bank account in his own name, saying to Paul, ‘this is as much mine as yours’.
+    - Both C and P operated the account. C died, and his wife claimed the property. P successfully established that C had declared himself a trustee of the bank account for them both.
+    - See that there can be an oral declaration of trust over personal property (a bank account). Recall that a declaration of trust over an interest in land must be manifest in some writing: Conveyancing Act 1919 (NSW) s 23C(1)(b).
+  - Sales are Different from gifts
+    - A sale of an interest raises the maxim: Equity regards as done that which ought to be done.
+    - Where the assignor receives consideration from the assignee, Equity will (generally) recognize that the assignment is effective.
+    - What about Conveyancing Act 1919 (NSW) s 23C? See s 23C(2): ‘This section does not affect the creation or operation of resulting, implied or constructive trusts.’ 
+    - The assignor becomes a constructive trustee of the property for the assignee.
+- Equitable assignments of Equitable property
+  - Equitable interests are those property Rights recognized in equity
+    - For example, the interest of a beneficiary in a trust.
+    - The interest of a beneficial owner of company shares registered in the name of a Nominee.
+    - The interest of a partner in partnership Assets.
+    - The interest of an assignee of property, where the assignment was not effective at law, but is effective in equity.
+  - Relevance?
+    - 
+  - Assigning equitable property
+    - Assignment of equitable property can only be achieved in Equity.
+    - Immediate, irrevocable intention to assign is required AND there are some formalities for certain kinds of transactions.
+  - s23C(1) CA
+    - 23C Instruments required to be in writing
+      - (1) Subject to the provisions of this Act with respect to the creation of interests in land by parol:
+        - (a) no interest in land can be created or disposed of except by writing signed by the person creating or conveying the same, or by the person’s agent thereunto lawfully authorised in writing, or by will, or by operation of law,
+        - (b) a declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by the person’s will,
+        - (c) a disposition of an equitable interest or trust subsisting at the time of the disposition, must be in writing signed by the person disposing of the same or by the person’s will, or by the person’s agent thereunto lawfully authorised in writing.
+    - (2) This section does not affect the creation or operation of resulting, implied, or constructive trusts.
+  - Comments on s23C
+    - Ss(a) is confined to creation and disposition of interests in land, both legal and equitable. 
+    - Does ss(a) apply to declarations of trust? See Department of Social Security v James (1990) 95 ALR 615
+    - Ss(b) declarations of trust only have to be ‘manifested and proved’ by writing
+    - Ss(c ) refers to dispositions of existing (or subsisting) equitable interests. This is applies to equitable interest of in both land and personal property.
+  - Comptroller of stamps (Vic) v Howard-Smith (1936) 54 CLR 614
+    - H-S was a residuary beneficiary of his late wife’s estate (hence he had an equitable chose in action). Prior to grant of probate he wrote a letter to the executor asking that his share of the estate be paid to a list of named recipients.
+      - Comr of Stamps assessed the letter for stamp duty, and H-S contested the assessment.
+    - Held: the letter did not assign his equitable interest, it merely gave an instruction (a revocable mandate) to the executor. The assignment of the property right did not occur until the executor acted upon the instruction. Comr of Stamps assessed the letter for stamp duty, and H-S contested the assessment. H-S was a residuary beneficiary of his late wife’s estate (hence he had an equitable chose in action). Prior to grant of probate he wrote a letter to the executor asking that his share of the estate be paid to a list of named recipients.
+  - Four ways to dispose of an Equitable interest:
+    - In Timpson’s Executors v Yerbury [1936] 1 KB 645 at 664 , Romer J said that that an equitable interest in property could be disposed of by the following four ways:
+      - Assignment;
+      - direction by a beneficiary to a trustee;
+        - a direction to hold trust property for a third party
+        - a direction to transfer trust property in its entirety to a third party
+      - contract to assign an equitable interest; and
+      - declaration of trust of an equitable interest.
+  - Direction by a beneficiary to a trustee
+    - direction by a beneficiary to a trustee;
+    - a direction to hold trust property for a third party
+  - A direction to hold trust property for a third party
+    - The situation envisaged here is where a beneficiary instructs their trustee to hold the equitable interest in property the subject of the trust on trust for a third party and no longer for the beneficiary (ie themselves). The question that arises is whether an oral direction in such circumstances is effective to dispose of the interest. The House of Lords in Grey v Inland Revenue Commissioners [1960] AC 1 ruled that such an oral direction was ineffective to dispose of the equitable interest in the face of the requirement of writing set out in s.23C(1)(c).” 
+    - ((c) a disposition of an equitable interest or trust subsisting at the time of the disposition, must be in writing signed by the person disposing of the same or by the person’s will, or by the person’s agent thereunto lawfully authorised in writing.) 
+  - Is a Direction to trustees to hold on trust for another a ‘disposition’?
+    - Grey v IRC [1960] AC 1 – a direction to a trustee to hold for another IS a disposition of an equitable interest.
+      - H transfers shares to trustees to hold for H.
+      - H then orally directs trustees to hold the shares for grandchildren.
+      - Trustees execute new declarations of trust, citing H’s instructions.
+      - Question: Was Grey’s oral direction successful in disposing of his equitable interest without writing (and hence with no liability to stamp duty)?
+      - NO. It was a ‘disposition’ of a subsisting equitable interest, so failed for want of writing.
+    - The arguments ...
+      - H argued that he didn’t dispose of his equitable interest to his grandchildren: he relinquished his interest so that the Trustees would create new interests.
+      - BUT . . . The court held that this was still a ‘disposition’ for the purposes of writing requirements.
+  - A direction to transfer trust property in its entirety to a third party 
+    - where a beneficiary directs his or her trustee to transfer both the legal and equitable interests in the trust property to the third party so that the third party becomes the absolute owner of the property. 
+    - If the direction to the trustee is oral, there is nothing in s.23C which requires writing in relation to the legal title where the trust property is personal property. The issue that requires analysis is whether such an oral direction is effective in relation to the equitable interest in the personal property. The House of Lords decision in Vandervell v Inland Revenue Commissioners [1967] 2 AC 291 ruled that such an oral declaration was effective and that s.23C(1)(c) did not impose a requirement of writing in relation to such directions relating to trusts of personal property.
+  - Vandervell v IRC [1967] 2 AC 291
+    - NP Bank (NPB) holds shares in Vandervell Products Ltd (VP Ltd) as nominee (on bare trust) for V.
+    - V wants to provide a big tax-free donation to Royal College of Surgeons (RCS).
+    - So V instructs NPB to transfer shares – absolutely – to RCS.
+    - VP Ltd spits out a handsome dividend.
+    - Question: Who pays tax on the dividend?
+      - The IRC said V must – because V retained beneficial ownership of the shares.
+    - The essential issue . . .
+      - Did V need to give a written direction to dispose of V’s equitable interest in the shares?
+      - IRC argued that V always retained the equitable interest in the shares: an oral direction was not effective to dispose of it.
+      - Held: There was no need for separate writing to pass a beneficial interest in the shares. The whole interest in the shares transferred when legal title passed from NPB to RCS. At that point, V had no claim in equity against RCS.
+    - ...where an absolute beneficial owner directs his bare trustee to transfer legal title to another with the express intention that his beneficial entitlement shall be extinguished upon the transfer, and the trustee complies with this direction, the transferee takes the property in question as a unified legal and beneficial estate, without it having been necessary for the original beneficial owner to have complies with section 53(1)(c) in order to extinguish his equitable right.”
+  - The effect of consideration ie a contract to assign an equitable interest
+    - A contract to assign...
+      - The issue here is whether or not a contract to assign an equitable interest in property needs to be in writing depends on the interpretation of the relationship between s23C(1)(c) and s.23C(2). It tells us that “on the ordinary meaning of the words used in s.23C(1)(c), a contract for valuable consideration to assign an equitable interest in property would be a 'disposition' within the meaning of the legislation, and would therefore have to be in writing. However, s 23C(2) effectively dispenses with the requirement of writing in the context of the creation of, inter alia, constructive trusts
+  - Oughtred v IRC.
+    - Mrs O owns 72K shares in Co Pty Ltd outright.
+    - Her husband, leaves 200K shares to his estate: life estate to Mrs O, remainder to son, P.
+    - Mrs O and P agree – orally - to exchange Mrs O’s 72K for P’s remainder. Subsequently they arrange the transfers for consideration of 10 shillings.
+    - Mrs O transfers 72K shares to P. Mrs O and P instruct T to transfer 200K shares to Mrs O.
+    - Was duty payable ad valorem on transfers?
+      - Mrs O and P argued that the value of the shares had already passed under the oral contract – which was not dutiable.
+      - IRC argued that the oral contract failed the requirement of writing, so was ineffective.
+      - Mrs O and P argue that the agreement – being for consideration – gave rise to a constructive trust, whereby P held his remainder on trust for Mrs O.
+    - Resolution
+      - Minority: Radcliffe and Cohen LJ agree with Trial Judge (Upjohn J) that the oral transaction was effective to pass title. No ad valorem duty was payable on the subsequent transfer, because it passed no value. (The value had already been conveyed by the enforceable oral agreement.)
+      - Majority: Denning LJ, Keith LJ and Jenkins LJ: stamp duty was payable. Although there was a constructive trust of the shares, this did not prevent the subsequent transfer of the legal interest from attracting duty according to the statutory scheme’s rules.
+  - Sub-trusts
+    - Imagine: Frank is the legal owner of X property.
+    - Frank declares a trust over X property in favour of Tian, so that Tian now holds an equitable interest in the property.
+    - Imagine now: Tian declares a trust of Tian’s own interest, in favour of Beth.
+    - Question: Does Tian need to put the declaration of sub- trust in writing? 
+    - If the interest is in land, yes - s 23C(1)(b). What if it is personal property? Does s 23C(1)(c) apply?
+  - The debate:
+    - YES:
+      - Conveyancing Act defines a ‘disposition’ to include a declaration of trust.
+      - In Howard-Smith’s case, Dixon J referred to a declaration of trust of an equitable interest as a type of disposition
+      - Radan & Stewart
+    - NO:
+      - Meagher Gummow & Lehane’s Equity: Doctrines and Remedies 5th ed, 2015, 318-19
+      - Denis Ong, Trusts Law in Australia, 3rd ed 2007, 139-140 – argument based on the disparity between  requirements of s 23C(1)(b) and ©
+- Future Property
+  - What if a person purports to give or sell property that doesn’t exist yet?
+    - For example, royalties under a publishing agreement for a book that hasn’t been written yet; interest not yet earned on an investment; dividends not yet declared on company shares or property that hasn’t yet been acquired, and interest under a will where the testator is not yet dead or the estate is unadministered.
+  - This is a very important question for commercial lending . . .
+    - Lenders will often lend money on the security of a charge over the assets of a business, including inventory, book debts, and balances in ban accounts. While the business is solvent, it can trade with these assets. The property interest of the lender does not crystallise until the borrower defaults on the loan, and the charge attaches to whatever assets the business owns at that time. Often these assets will not have been owned at the time the secured loan agreement was made.
+  - Windeyer J in Norman v Federal Commissioner of Taxation
+    - “It is impossible for anyone to own something that does not exist, it is impossible for anyone to make a present gift of such a thing to another person, however sure he may be that it will come into existence and will then be his to give. He can, of course, promise that when the thing is his he will make it over to the intended donee. But in the meantime he may change his mind and when the time comes refuse to carry out his promise even though it were by deed. A court of law could not compel him to perform it. A court of equity would not....things not yet in existence could only be the subject of agreement, not of present disposition. And, in relation to promises and agreements, equity has been faithful to its maxim that it does not come to the aid of volunteers. For equity a deed does not make good a want of consideration” (my emphasis)
+  - Authority:
+    - Tailby v Official Receiver (1888) 13 App Cas 523.
+    - Holroyd v Marshall (1862) 11 ER 999, 1007.
+    - Equity treats a purported assignment of future property for value as an agreement to assign in the future. Equity acts upon the conscience of the assignor who has accepted consideration, and binds them by holding them to be a trustee of the property for the benefit of the assignee as soon as it comes into existence.
+    - Equity regards as done that which ought to be done.
+  - First distinguish between…
+    - A presently existing right (eg, a contractual right to receive royalties) – the TREE
+    - Future property (eg the royalties themselves if and when they are earned) – the FRUIT
+    - Check the wording of the assignment: what was intended?
+      - The presently existing TREE can be assigned at law, and it can be assigned by way of gift.
+      - The FRUIT can only be assigned in Equity for value / consideration. (Equity treats the purported assignment of future property for value as an agreement to assign when the property comes into existence)
+  - Norman v FCT (1963) 109 CLR 9
+    - Norman made a gift to his wife by deed. (This was an income-splitting arrangement.)
+    - He purported to assign all his right, title and interest in and to certain interest to accrue due on a loan that was repayable by the borrower at will; and also all his ‘right title and interest in and to all the dividends’ which might be declared on certain shares he held in public companies.
+    - The majority held the interest and the dividends were ‘mere expectancies’ and could not be assigned without consideration.
+    - Windeyer J held that the interest was a presently existing right to be paid money in the future = a presently existing right.
+    - Windeyer J in Norman v FCT
+      - ‘The distinction between a chose in action, which is an existing legal right, and a mere expectancy or possibility of a future right ...does not, in my view depend on whether or not there is a debt presently recoverable by action because presently due and payable. A legal right to be paid at a future date is, I consider, a present chose in action, at all events when it depends upon an existing contract on the repudiation of which an action could be brought for anticipatory breach
+  - Shepherd v Comr of Taxation (1965) 113 CLR 385
+    - S patented an invention and granted a licence to a manufacturer to produce it, in exchange for royalties.
+    - He purported to assign to members of his family ‘all his right title and interest in’ an amount equal to 90% of the royalty income that may accrue during a period of 3 years.
+    - Barwick CJ (at 393): ‘That a promise might not be fruitful does not make it incapable of assignment. The fact that a present right might be barren should not alter its character as a present right.’ 
+  - How do we assess this kind of problem?
+    - Consider whether the assignor actually has a presently existing right. If there is no right, only mere expectancy, it cannot be assigned at law, and can only be assigned in Equity if consideration is given.
+    - If the assignor does have a presently existing right, ask whether the assignor has purported to assign that right (the tree) or merely the fruit. Look at the words used.
+    - Eg: Compare:
+      - 1. I hereby assign my right under contract dated in the past with Publisher to receive royalties on my biography = presently existing right (tree). (The contract already exists, and I am assigning all my rights under that contract.)
+      - 2. I assign you any royalties I receive in the coming year from that contract = future property (fruit). I have a present right, but I have chosen to assign only the fruit for a period of time, and not the underlying right (the tree) itself.
+  - Summary:
+    - Future property doesn’t exist at law, so cannot be assigned at law
+      - Equity will treat a purported assignment of future property as an agreement to assign when the assignor acquires the property.
+        - Equity will specifically enforce this agreement if it is supported by consideration.
+          - Hence, Equity will recognize a purported assignment of future property for value – but will not enforce a gift of future property.
+- Summary of module 3
+  - This module is about dealings in Property interests
+    - First make sure the interest you are purporting to deal with is, in fact, a property interest.
+    - It might be a purely personal interest that cannot be assigned, eg, an employee’s rights to perform work under an employment contract, or a right to sue someone in tort.
+    - It might be a right that has not arisen yet: ‘future property’. In that case, you can make an agreement to deal with the property when it arises. An agreement supported by consideration will be enforced in Equity.
+  - So first make sure that you are dealing with a presently existing right
+    - The tree – not merely the fruit.
+    - Now – what kind of property are we dealing with?
+      - Real property? 
+        - (Interests in land.)
+      - Personal property? 
+        - Choses in possession, Choses in action.
+    - Remember, a chose in action is an intangible property right that requires action to enforce
+      - Examples: debts, shares, contractual rights.
+    - Second – what kind of interest are we dealing with?
+      - A legal interest (recognized at law)?
+      - An equitable interest?
+      - Example
+        - I hold a legal interest in a company share if I am named on the share register as the owner of that share.
+        - I hold an equitable interest in a company share, if the legal owner of the share holds that share on trust for me.
+        - Equitable interests in property arise when the legal owner is conscience-bound to recognize the interest of someone else in that property.
+    - Third: How am I purporting to deal with this property?
+      - By a direct assignment: ‘I hereby assign my interest to X, now, absolutely.’
+      - By a direction to the trustee: ‘Dear trustee of my beneficial interest:
+        - Please now hold the interest for X instead of for me’ or ‘Dear Trustee, please transfer the entire interest to X.
+        - Is there consideration?? 
+      - By a declaration of a sub-trust: ‘I now declare that I hold my beneficial interest as a trustee for X.
+    - Fourth: Are any formalities required for the transaction to be effective? (Writing, notice, registration)
+      - Consider the type of property, the type of interest in the property, and the type of transaction in determining what formalities, if any, should be followed.
+      - Examples:
+        - A purported assignment of a whole legal chose in action? Comply with Conveyancing Act s 12.
+        - A disposition of a subsisting equitable interest? Comply with Conveyancing Act s 23C(1)(c).
+        - A declaration of a trust over land? Comply with Conveyancing Act s 23C(1)(b).
+  - Note that all these methods involve an immediate transfer of the interest
+    - Distinguish immediate and irrevocable intentions to transfer property from an agreement or instruction to do so some time in the future.
+    - We look to the words used by the property owner to determine which kind of transaction they intended.
+  - Very occasionally, no formalities will be required. . .
+    - Assignment of part of a debt.
+      - So ask: Is there evidence of an irrevocable intention to make an immediate transfer?
+  - Finally – if the formalities have not been followed, will Equity recognize the transfer in any event?
+    - Equity will ask (in the case of a voluntary assignment of legal property capable of being assigned at law): has the donor done everything that the donor must do to put the transaction beyond the donor’s recall, and to arm the recipient to perfect the transfer? If so, equity recognizes the assignee as the new owner in equity.
+  - In the case of a transfer for consideration, equity will recognize that the donor who has received consideration will hold the property on a constructive trust for the assignee.
+- Normal v Federal Commissionor of Taxation [1963] HCA 21
+  - Judges: Dixon CJ, McTiernan, Menzies, Windeyer, Owen JJ
+  - Date: 25 July 1963
+  - Procedural History:
+    - Appeal from an amended income tax assessment under the Income Tax and Social Services Contribution Assessment Act 1936–1958 (Cth). The taxpayer objected to inclusion of interest and dividends as assessable income. The appeal was brought by way of case stated under s 198 of the Act.
+  - Original Dispute:
+    - Whether the taxpayer had effectively assigned certain future income to his wife such that he was no longer liable for tax on it.
+  - Reason for Trial:
+    - To determine the effectiveness of a voluntary equitable assignment of future property (interest and dividends), and whether that excluded the assigned income from the taxpayer’s assessable income under s 44 of the Income Tax Act.
+  - Material Facts:
+    - In December 1956, the taxpayer executed a deed of gift, purporting to assign to his wife:
+      - Interest on a loan to a family-controlled partnership;
+      - Dividends on shares expected to be transferred to him in the future.
+      - The assignment was voluntary (i.e., without consideration).
+    - At the time of assignment:
+      - The interest had not yet accrued, and the dividends were not yet declared.
+      - The taxpayer was not yet the registered owner of the dividend-paying shares.
+  - Issue Raised:
+    - Can a voluntary assignment of future property (i.e., interest and dividends) be effective in equity to transfer income before it arises?
+    - Was the taxpayer required to include the interest and dividend payments in his assessable income?
+  - Law(s)/Statute(s) in Contention:
+    - Income Tax and Social Services Contribution Assessment Act 1936–1958 (Cth), s 44 (taxation of dividends)
+    - Common law and equitable principles governing assignment of future property and choses in action
+  - Precedents Considered:
+    - Tailby v Official Receiver (1888) 13 App Cas 523
+    - In re Ellenborough [1903] 1 Ch 697
+    - Milroy v Lord (1862) 1 De GF & J 264
+    - In re Rose [1952] Ch 499
+    - Brice v Bannister (1878) 3 QBD 569
+    - Walker v Bradford Old Bank Ltd (1884) 12 QBD 511
+  - Tests Applied:
+    - Equitable Assignment Test (voluntary)
+    - Equity will not assist a volunteer: for a future property assignment to be effective in equity, it must be:
+      - For value (Tailby v Official Receiver);
+      - Of property capable of existing at the time of assignment;
+      - Clear in intention and wording.
+    - Chose in Action Test:
+      - A present enforceable legal right is assignable, but a mere expectancy or possibility is not.
+      - Dividends not yet declared are not choses in action—they are contingent upon declaration by directors (Bond v Barrow Haematite Steel Co).
+  - Words and Phrases Considered:
+    - “Chose in action” – A legal right to a debt or other enforceable obligation.
+    - “Future property” – Property not yet in existence or not yet belonging to the assignor.
+    - “Assignment” – A present, irrevocable transfer of an existing proprietary right.
+  - Arguments by Party:
+    - Taxpayer (Norman):
+      - He had assigned both the future interest and dividends to his wife before they accrued or were declared.
+      - Therefore, they were not derived by him and should not be taxed as his income.
+    - Commissioner of Taxation:
+      - The assignment was of future property with no consideration, thus ineffective in equity.
+      - Under s 44, dividends must be assessed to the registered shareholder, which Norman was.
+      - The interest was not an existing right and could not be assigned voluntarily in equity.
+  - Judicial Opinions:
+    - Dixon CJ:
+      - Dividends not yet declared could not be assigned to exclude s 44 application.
+      - The interest was a mere expectancy, not an existing right—thus not effectively assigned.
+    - McTiernan J:
+      - The dividends were not assignable in equity.
+      - However, the interest was derived from a contractually agreed obligation and was part of an existing chose in action; assignment effective.
+    - Menzies J:
+      - Both assignments were ineffective. Interest was too contingent to be a present right.
+    - Windeyer J:
+      - Gave detailed analysis of voluntary assignment law.
+      - Held that dividends were not assignable—they were mere expectancies.
+      - The interest, however, was an existing right assignable in equity even without consideration.
+    - Owen J:
+      - Agreed with Menzies J that both assignments were ineffective.
+  - Legal Reasoning:
+    - The dividends were not in existence at the time of assignment (undeclared), and the taxpayer remained the registered shareholder. Under s 44, dividends must be included in the assessable income of the person who receives them.
+    - The interest was potentially a present enforceable right under an ongoing loan agreement. Where that right exists, equity may recognise a valid assignment—but opinions varied among the judges as to whether the assignment was effective without consideration.
+  - Ratio Decidendi:
+    - A voluntary assignment of future income is ineffective in equity unless the subject matter exists at the time of the assignment.
+    - Undeclared dividends cannot be assigned to avoid s 44 income tax liability.
+    - Future interest may be assignable if it arises from an existing enforceable obligation.
+  - Result:
+    - The High Court held that both sums of money—£450 (interest) and £460 (dividends)—were assessable income of the taxpayer.
+    - Majority: 
+      - Assignments ineffective.
+    - Dissent (McTiernan & Windeyer JJ): 
+      - Assignment of interest effective.
+  - Relevance to Modern Law:
+    - Confirms that voluntary equitable assignments of future property are generally ineffective without consideration.
+    - Reinforces the doctrine of present disposition: equity only recognises assignments that divest the assignor’s rights now, not potentially in the future.
+    - Clarifies the application of s 44 ITAA 1936—dividends are assessable to the registered shareholder, regardless of any private arrangements.
+    - Continues to guide the treatment of gifts of future income and the assignment of choses in action in both equity and tax law.
+- Corin v Patton (1990) 169 CLR 540
+  - Court: High Court of Australia
+  - Procedural History:
+    - Trial: Supreme Court of NSW held joint tenancy was not severed.
+    - NSW Court of Appeal affirmed the decision.
+    - High Court dismissed the appeal.
+  - Original Dispute:
+    - Whether a joint tenancy in Torrens title land was severed when Mrs Patton, before her death, executed and delivered a transfer of her share to her brother (Mr Corin) to hold on trust for her.
+  - Reason for Trial:
+    - The respondent (Mr Patton) claimed full ownership by survivorship. Appellants argued Mrs Patton severed the joint tenancy before death, and therefore her interest passed under her will.
+  - Material Facts:
+    - Mr and Mrs Patton were joint tenants.
+    - Mrs Patton, terminally ill, executed a memorandum of transfer to her brother (Corin) and a deed of trust declaring he would hold the interest on trust for her.
+    - She did not procure the certificate of title from the mortgagee for registration.
+    - The transfer was not registered before her death.
+  - Issue Raised:
+    - Did Mrs Patton sever the joint tenancy in equity by transferring her interest to Mr Corin before death?
+  - Law(s)/Statute(s) in Contention:
+    - Real Property Act 1900 (NSW) s 41: No interest passes until registration.
+    - Conveyancing Act 1919 (NSW) ss 24, 96.
+    - Common law and equitable rules governing imperfect gifts.
+  - Precedents:
+    - Milroy v Lord (1862) 45 ER 1185
+    - Anning v Anning (1907) 4 CLR 1049
+    - Brunker v Perpetual Trustee Co Ltd (1937) 57 CLR 555
+    - Williams v Hensman (1861) 70 ER 862
+    - In re Rose [1952] Ch 499
+    - Burgess v Rawnsley [1975] Ch 429 (rejected by HCA)
+  - Tests:
+    - The donor must do everything necessary on their part to complete the transfer (from Milroy v Lord and In re Rose).
+  - Words and Phrases Considered:
+    - “Equity will not perfect an imperfect gift.”
+    - “Everything necessary to effect a transfer” (interpreted as what the donor must do to arm the donee to register).
+  - Arguments by Party:
+    - Appellant: 
+      - Mrs Patton had done all necessary to effect an equitable transfer.
+    - Respondent:
+      - The transfer was incomplete because she didn’t enable registration.
+  - Judicial Opinions:
+    - Mason CJ & McHugh J (majority):
+      - Mrs Patton did not do everything necessary, as she didn’t authorise or procure the certificate of title for registration.
+      - Therefore, no equitable interest passed, and no severance occurred.
+    - Brennan J (concurring):
+      - Emphasised that equity won’t assist a volunteer where the transfer is incomplete.
+      - The gift was imperfect; Mrs Patton could have revoked it.
+    - Toohey J (concurring):
+      - Focused on Torrens system: without registration, legal title remains unchanged.
+      - Mrs Patton’s death did not change the outcome as the severance attempt failed.
+  - Legal Reasoning:
+    - Equity recognises an interest if the donor has done all that is necessary on their part to complete the transfer.
+    - Here, the certificate of title was with the mortgagee, and Mrs Patton did not authorise its production, nor was the transfer registered.
+    - Therefore, she retained legal and equitable title, and the right of survivorship remained intact.
+  - Ratio Decidendi:
+    - A gift of Torrens title land will only be recognised in equity if the donor has done everything necessary on their part to effect the transfer, including putting the donee in a position to register. Retaining control over the certificate of title prevents equity from recognising an effective transfer.
+  - Result:
+    - Appeal dismissed. Mr Patton succeeded. The joint tenancy was not severed, and the entire property passed to him by right of survivorship.
+  - Relevance to Modern Law:
+    - This case remains the leading Australian authority on:
+      - Severance of joint tenancies under Torrens title;
+      - The rule in Milroy v Lord in the Torrens context;
+      - When equity will recognise an imperfect or incomplete gift;
+      - Clarifies that mere intention or delivery of a transfer is insufficient — control over title documents matters.
+- Shepherd v Federal Commissioner of Taxation (1965) 113 CLR 385
+  - Court: High Court of Australia
+  - Parties: George Frederick Shepherd (Appellant) v Federal Commissioner of Taxation (Respondent)
+  - Procedural History:
+    - Referred to the High Court by a Taxation Board of Review under s 196 of the Income Tax and Social Services Contribution Assessment Act 1936-1957 (Cth) regarding whether royalties assigned via deed poll were assessable income.
+  - Facts:
+    - Shepherd, the holder of patents over improved castors, granted a licence to Cowen to manufacture and sell under those patents, in return for monthly royalties (5% of gross sales). In 1957, Shepherd executed a deed poll assigning 90% of his royalty income (for the following 3 years) to five named individuals (family members), without consideration. The Commissioner assessed the entire amount of royalties (including the 90% transferred) as Shepherd's income for the 1958–59 year. Shepherd objected, arguing he had effectively assigned part of his right to receive royalties, and thus should only be taxed on the remaining 10%.
+  - Legal Issue:
+    - Whether the deed poll constituted an effective equitable assignment of part of a chose in action (right to royalties).
+    - Whether the 90% of royalties paid to others formed part of Shepherd’s assessable income.
+  - Decision:
+    - By majority (Barwick CJ, Kitto J; Owen J dissenting), the Court held:
+      - Yes – There was an effective equitable assignment of part of the right to future royalties.
+      - No – The assigned royalties did not form part of Shepherd’s assessable income.
+  - Ratio Decidendi:
+    - A chose in action (like the right to receive royalties under a contract) can be assigned in equity, even partially and without consideration, provided the intention to assign is clear.
+    - The deed evidenced a present and irrevocable intention to assign a proportion of an existing contractual right, not merely a promise to pay future income.
+    - The income was derived directly by the assignees, not by Shepherd, and thus not assessable to him under s 19 of the Income Tax Assessment Act.
+  - Significance:
+    - Clarified the distinction between assigning a right to income and a mere direction to pay (or covenant to pay) income, especially in the tax context.
+    - Reaffirmed that equitable assignments of choses in action do not require consideration if they are complete and unconditional.
+    - Distinguished from Norman v FCT (1963) 109 CLR 9, where the purported assignment failed as it involved a mere expectancy, not a presently existing right.
+## Week 7: Express Trusts
+
+- TRUSTS
+  - The settlor – is the person who settles property on trust. Typically, a settlor transfers property to a trustee, and names the beneficiaries (or the class of persons entitled to be selected as beneficiaries).
+  - ‘Cestui que trust’ is an old Norman French term (still used in case law) for the beneficiary of a trust.
+  - A testator or testatrix (female) is what we call a deceased person who has left a will bequeathing property to others. 
+    - Many trusts are created by will.
+  - An inter vivos trust is created during the settlor’s lifetime.
+  - A trust is executed where the respective interests of the beneficiaries have been specified in the instrument or declaration creating the trust.
+  - A trust is executory where the settlor has expressed a general intention as to the disposition of the property to beneficiaries, but has not finally determined their respective beneficial interests.
+  - A fixed trust determines with precision the beneficiaries entitlements. So for example, if a settlor settles a parcel of 1000 shares on trust, to be beneficially owned in equal shares by their four siblings, each sibling with be entitled to a one fourth share in the property.
+  - A discretionary trust leaves decisions about the distribution of entitlements to beneficiaries, to the trustee or to some other person with a power to exercise that discretion. So for example, if a settlor settles a parcel of 1000 shares on trust, and instructs the trustee to distribute the dividends on the shares each year to ‘such of my four siblings who are in greatest need’, the trustee is empowered to exercise a discretion as to which of the siblings should receive the dividends, and how much. The class of beneficiaries is certain – it is the four siblings. But the distribution to them is discretionary.
+  - A ‘power of appointment’ is a power to select the recipients of a gift. 
+    - A ‘general power’ is a power to appoint property to anyone, including oneself. 
+    - A ‘special power’ is a power to select recipients from among a specific group or class of persons, not including the donee of the property. 
+    - A ‘hybrid power’ is a power to select anyone in the world except particular individuals or members of a particular class of persons. ‘Intermediate powers’ permit the person holding the power to add to the class of persons who can be selected. Powers of appointment are relevant to the question of whether a settlor has created a trust with sufficiently certain objects (beneficiaries).
+  - A bare trust is one in which the trustee has no active duties to perform. They simply hold title to the property.
+  - A charitable trust is a trust for purposes rather than for persons. The purposes must be charitable within the meaning of the law on charitable trusts.
+  - A ‘unit trust’ is the term generally used for commercial investment trusts, where trustees hold investments on behalf of beneficiaries who are ‘unitholders’. Unit trusts are fixed trusts, and the rights of beneficiaries are usually tradeable. The trust is a very convenient structure for investment schemes. The trustees, as legal owners of the underlying assets, are able to deal with those assets (usually upon the instructions of expert financial and investment managers), according to the powers set out in the trust instrument, for the benefit of the investor beneficiaries.
+- Express trusts: trusts and other relationships, powers
+  - Express Trusts . . .
+    - Trusts originated when property owners wanted to pass property on for the use of their dependants, in a way which avoided various feudal taxes or specific laws restricting who could own property.
+    - Today, they are used in commercial settings, and not only as a tool for family estate planning.
+  - Diagrammatic representation of a trust relationship
+    - Fiduciary duty Blue = legal persons (owners)
+    - Red = property (owned)
+  - Modern uses of a trust
+    - Family trusts/discretionary trust
+    - Protective trusts
+    - Charitable trusts
+    - Superannuation trusts
+    - Trading trusts
+    - Unit trusts
+    - Express trust or arising by operation of law
+    - Trusts used for income splitting
+  - Categorising trusts
+    - 
+    - Trusts chart
+  - What is a trust?
+    - A trust is not a separate legal entity in the way that a corporation is an entity separate from those who participate in it: Commissioner of Taxation v Bamford (2010) 240 CLR 481, [17]-[20].
+    - A trust is a relationship between legal persons, concerning property.
+    - A trust arises when one legal person (the trustee) holds property which the trustee is obliged to use for the benefit of others (the beneficiaries).
+    - The trustee holds legal title to the property. Beneficiaries hold equitable interests.
+    - The trustee owes fiduciary duties to the beneficiaries.
+  - Essential Elements of a Trust
+    - 1. the trustee: fiduciary and owes duties under Trustee Act 1925
+    - 2. the trust property,
+    - 3. the object of the trust (beneficiary or a charitable purpose),
+    - 4. the personal obligation annexed to the property.
+  - How are Express Trusts Created?
+    - By declaration: ‘ I declare I hold this property on trust for B’. There is no transfer of any legal interest, only the creation of a new equitable interest: 
+      - See Paul v Constance [1977] 1 WLR 527(and also note if over land, need to comply with s23C(1)(b))
+    - By transfer of property by a settlor to a trustee, either inter vivos (during life) or by a will, effective on the death of the settlor (testator). Note that if by transfer, property must move from the settlor to the trustee – has it complied with formalities?
+    - By direction – the beneficiary of an existing trust directs the trustee to hold the interest for another (recall Grey v IRC – this is a disposition of a subsisting equitable interest).
+  - Other obligations involving property that are NOT trusts . . .
+    - Bailment: The bailor hands over possession, but not legal ownership of property to the bailee, who owes common law duties in respect of the property. So bailees are not trustees.
+    - Agency: An agent owes fiduciary duties to the principal, but does not necessarily act as an express trustee, even when they receive property in the course of their agency work. It depends upon the agreement between agent and principal. 
+      - See for example Walker v Corboy (1990) 19 NSWLR 382, where the court had to decide whether a farm produce agent was a trustee of the money he received on selling his farmer clients’ produce.
+  - Debt
+    - A debtor is under a personal obligation to repay a creditor.
+    - Without some additional security arrangement, the debtor’s obligation does not attach to specific property.
+    - Unsecured creditors share pari passu in a debtor’s assets upon bankruptcy. They cannot claim priority over specific property.
+  - 19 NSWLR 382, 389 (Clarke JA):
+    - The approach is best evidenced in the oft-quoted statement of Channell J in Henry v Hammond [1913] 2 KB 515 at 521, which reads: “... It is clear that if the terms upon which the person receives the money are that he is bound to keep it separate, either in a bank or elsewhere, and to hand that money so kept as a separate fund to the person entitled to it, then he is a trustee of that money and must hand it over to the person who is his cestui que trust. If on the other hand he is not bound to keep the money separate, but is entitled to mix it with his own money and deal with it as he pleases, and when called upon to hand over an equivalent sum of money, then, in my opinion, he is not a trustee of the money, but merely a debtor”: see Finn, Fiduciary Obligations(1977) at 106..
+  - Gifts under a will
+    - Absolute gift
+    - Property held on trust
+    - Property held subject to a charge
+    - Conditional gift
+    - Gift subject to an equitable personal obligation
+    - See Countess of Bective v FCT (1932) 47 CLR 417
+  - What Obligations are imposed?
+    - Re Gardiner [1971] 2 NSWLR 494: ‘I give devise and bequeath all my estate . . . unto my son Ivor . . . subject to my said son paying the sum of 1000 pounds within two years of my death to my son Albert’.
+    - Gill v Gill (1921) 21 SR (NSW) 400: The testator (who died in 1896) bequeathed his farm, residence and other property to his son ‘on condition that he keep the homestead as a home and provide board and residence for his [unmarried] sisters’. 
+  - Gill v Gill (Harvey J)
+    - ‘In some cases the court may see that what the testator intended was to attach a charge or a trust upon the property, in other cases it may conclude a personal liability alone is intended. The view taken would depend partly on the language used to describe the obligation, partly on the nature of the property given to the obligee, and partly on the nature of the obligation. In cases where the obligation is merely personal in its nature, calling for the personal activity of the obligee, it may be the court could not effectively order specific performance; I see no reason why, in such cases the court should not mould the remedy so as to give a remedy by way of damages for the breach of the quasi contract.’
+    - See also Cobcroft v Bruce [2013] NSWSC 774
+  - In summary…
+    - 1. Precatory words are words of ‘hope’ and do not impose any obligation.
+    - 2. If a transfer is made subject to a binding condition precedent, the transfer will not take place until the condition precedent is satisfied: Re Gardiner (dec’d) [1971] 2 NSWLR 494. If the condition is a condition subsequent the property will be forfeited if the condition is not fulfilled.
+    - 3. If the disposition states that the obligation is to be fulfilled within a time period it is viewed as a condition: Re Gardiner (dec’d) [1971] 2 NSWLR 494 at 498, per Helsham J.
+    - 4. When the obligation is less definite than payment of a sum of money, such as an obligation to ‘support’ or ‘take care’ of a third party, or make sure they ‘want for nothing’ it is likely to be treated as an equitable personal obligation.
+      - See for example the very detailed provisions for living arrangements in Gill v Gill (1921) 21 SR(NSW) 400.
+    - 5. A personal equitable obligation does not create any property right for the third party. Nor will the breach of the obligation cause forfeiture of the gift.
+    - 6. The personal obligation is nevertheless enforceable and breach may give rise to orders of specific performance, injunctions or equitable compensation against the person owing the obligation.
+    - 7. A trust will mean the person receiving the property must hold it for the benefit of someone else.
+  - Trusts and Powers of Appointment
+    - A settlor may settle property on trust with trustees, and give the trustee or some other person a power to choose who should benefit.
+      - 1. General power
+      - 2. Special power
+      - 3. Hybrid power
+      - 4. Intermediate power
+    - We need to ask: : Has the power been given to a person who holds the power as a fiduciary (a trust power) or to a non-fiduciary (someone who exercises a ‘mere’ or ‘bare’ power
+  - Trust power (discretionary trust) or mere power?
+    - A settlor Sam places money on trust with T, and confers a power on Carol to choose ‘such of my children as she considers most worthy’ to receive distributions from the trust. Sam adds: ‘If she chooses none of my children, then the money shall be paid to the Cat Protection Society.’ The gift to the Cat Protection Society is a ‘gift over in default’. This gift indicates that A is not under an obligation to exercise the power, because S has clearly contemplated another means of distributing the money.
+  - How can you tell whether a power is a trust power or a bare power? Re Leek Dec’d [1967] 2 All ER 1160
+    - i. The language of the instructions clearly imposes a duty to select = trust power.
+    - ii. Property is given on trust for such members of a class as donee shall select with no gift over in default = trust power.
+    - iii. Property is given on trust for such members of a class as the donee may select, with a gift over in default = mere power.
+    - iv. No gift over in default is mentioned, but the terms clearly indicate that selection is at the absolute discretion of donee = mere power.
+    - v. Terms are neither manifestly permissive nor mandatory, no gift in default = doubtful
+- Express trusts: Three Certainties
+  - INTENTION 
+  - PROPERTY 
+  - OBJECTS
+  - Certainty of Intention
+    - Associated Alloys Pty Ltd v ACN 001 452 106 Pty Ltd (2000) 202 CLR 588
+      - In the event that the [Buyer] uses the goods/product in some manufacturing or construction process of its own or some third party, then the [Buyer] shall hold such part of the proceeds of such manufacturing or construction process as relates to the goods/product in trust for the [Seller]. Such part shall be deemed to equal in dollar terms the amount owing by the [Buyer] to the [Seller] at the time of the receipt of such proceeds'.
+  - Certainty of intention
+    - Intention to create a trust is assessed objectively: Byrnes v Kendle (2011) 243 CLR 253 –
+    - Kendle owned a house.
+    - He declared a trust of half of the house for his new wife, using very clear language in a deed. He let the house to his son from a previous marriage. The son rarely paid rent.
+    - The couple separated. The wife assigned her interest in the house to her son from a previous marriage.
+    - Her son sued Kendle for the share of the property and rent arrears.
+  - Kendle argued that he never intended to create a trust
+    - Kendle relied on an old authority, Comr of Stamp Duties v Joliffe (1920) 28 CLR 178, where a majority of the HCA held that a man who had opened a bank account ‘in trust for’ his wife, successfully argued that the money was really his own because he had only done it to avoid banking rules precluding him from owning more than one account in his own name.
+    - In Byrnes v Kendle, the HCA rejected this argument.
+  - Per Heydon & Crennan:
+    - [T]he ‘intention’ [to create a trust] is an intention to be extracted from the words used, not a subjective intention which may have existed but which cannot be extracted from those words. This is as true of unilateral declarations of alleged trust as it is of bilateral covenants to create an alleged trust. It is as true of alleged trusts which are not wholly in writing as it is of alleged trusts which are wholly in writing … [S]ubjective intention is irrelevant both to the question of whether a trust exists and to the question of what its terms are.
+  - Certainty of Subject matter
+    - Any kind of property can be held on trust – land, a chattel, a chose in action, or a right under an ordinary contract: White v Shorthall (2006) 68 NSWLR 650, [149].
+    - But the property must be able to be identified with certainty.
+  - Re Golay’s Will Trusts [1965] 2 All ER 660
+    - A gift in a will that the executors must pay a beneficiary a ‘reasonable income’ was challenged as uncertain.
+    - Ungoed-Thomas J held however that, ‘[t]he court is constantly involved in making such objective assessments of what is reasonable and it is not to be deterred from doing so because subjective influences can never be wholly excluded.’
+    - Hence, the property subject to a trust will be held to be uncertain only if the document creating the trust is incapable of having any meaning at all, or is capable of so many meanings that a court cannot establish which meaning is to be preferred over the others.
+  - Shorthall held 1.5 million shares in a company, Unitract.
+    - He gave White a letter stating – ‘this confirms I hold 220,000 Unitract shares in trust for you’ and said he would transfer them absolutely at a later date (when permitted by ASX listing rules).
+    - All shares were identical and had the same CGT status.
+    - He later refused to transfer the shares saying
+      - 1. He had no subjective intention to hold the shares on trust
+      - 2. In any event, the particular shares were impossible to identify with certainty
+  - The whole parcel was held on trust for W and S, and W had a beneficial interest.
+    - A trust of this kind is not analogous to a simple trust, where a single and discrete item of property is held on a bare trust for a single beneficiary. Rather, it is a trust of a fund (the entire shareholding of 1.5 million shares) for two different beneficiaries (the plaintiff and the defendant himself), where powers of management are necessarily involved in the trust (to sell or encumber, within limits that such dealings do not impinge on the plaintiff’s rights), and where duties on the trustee would arise as a matter of law (e.g. to deal with any dividends and capital distributions by distributing them in the appropriate proportions). It is because the trust is construed as being of the entire shareholding that it is not necessary for the plaintiff to be able to point to some particular share and be able to say ‘That share is mine’. . . . . Given the nature of shares in a company, it is perfectly sensible to talk about an individual having a beneficial interest in 222,000 shares out of a parcel of 1.5 million, even if it is not possible to identify individual shares that are held on trust.’ (my emphasis)
+  - Certainty of objects / beneficiaries
+    - Unless it is a valid charitable trust, a trust must be for the benefit of specific persons : Morice v. Bishop of Durham (1804) 32 ER 656.
+    - This is the ‘beneficiary principle’: there must be someone in whose favour the court can decree performance
+  - The Beneficiary principle
+    - Leahy v. Attorney General (NSW) (1959) 101 CLR 611; [1959] AC 457
+      - A gift can be made to persons (including a corporation) but it cannot be made to a purpose or to an object: so also, a trust may be created for the benefit of persons as cestuis que trust but not for a purpose or object unless the purpose or object be charitable. For a purpose or object cannot sue, but, if it be charitable the Attorney – General can sue to enforce it.
+  - Certainty of Object: Fixed Trusts
+    - Fixed trust: “I leave my estate upon trust to be divided equally amongst such of the issue of my four grandparents as are living at the time of my death and have attained the age of 21 years”.
+    - Where the beneficiaries are all to share according to stipulated entitlements – there must be ‘list certainty’. The trustee must be able to draw up a list of all beneficiaries
+  - For a fixed trust . . .
+    - Where a class of beneficiaries is to share the property, ‘the rule will be satisfied if, within a reasonable time . . . the court can be satisfied on the balance of probabilities that the substantial majority of beneficiaries have been ascertained and that no reasonable inquiries could be made which would improve the situation’ – West v Weston (1998) 44 NSWLR 657, Young J.
+  - What if the trust is discretionary?
+    - What if someone has been given a power to select beneficiaries from among a class?
+    - For example: ‘I give my estate to trustees to be held on trust for such of my children and grandchildren that my brother George shall select’.
+    - The class of potential beneficiaries must be certain.
+    - But is it necessary to be able to make a list of every possible recipient for the trust to be valid?
+    - And does it matter whether George holds his power on trust or not?
+  - Bare/mere powers and trust powers
+    - A mere power does not need to be exercised. If it is not exercised the property will go to those entitled in default of an exercise of the power.
+    - Eg: ‘George may select whichever of my children and grandchildren he considers, in his absolute discretion to be most worthy, and if he finds no worthy recipient, the estate should be given to the Cat Protection Society’.
+    - The words ‘may’, ‘absolute discretion’ and the gift over in default to the Cat Protection Society indicate a mere or bare power.
+    - George cannot be compelled to exercise the power, but can be prevented by a court from exercising the power fraudulently (e.g. by taking the money for himself or his own children).
+  - A trust power, however, must be exercised
+    - For example, ‘George shall be required to select beneficiaries from among my children and grandchildren’.
+    - The word ‘shall’, the absence of any gift in default, indicates a trust power is intended.
+    - The holder of the power is a fiduciary in respect of their exercise of the power.
+    - George must periodically consider the exercise of the power, and if he fails to exercise it, a potential beneficiary may ask the court to exercise the power.
+    - So the need for certainty is particularly important where there is a trust power.
+  - Once upon a time English courts distinguished between bare/mere and trust powers
+    - The certainty test for trust powers was list certainty: Re Gestetner (Dec’d) [1953] Ch 672.
+    - And the test for mere/bare powers was ‘criterion certainty’: Re Gulbenkian’s Settlement Trusts [1970] AC 508. (There was a gift over in default, so criterion certainty applied.)
+    - But then a dispute arose over a gift in a will to be held on trust to provide benefits to employees and their dependants. The trustees were given a discretion to select recipients, but this was held to be a trust power: Re Baden’s Deed Trusts; McPhail v Dalton [1971] AC 424
+  - Re Baden’s Deed Trusts; McPhail v. Doulton [1971] AC 424
+    - ‘Clause 9(a): The trustees shall apply the net income of the fund in making at their absolute discretion grants to or for the benefit of any of the officers and employees or ex-officers or ex-employees of the company or to any relatives or dependants of any such persons in such amounts at such times and on such conditions (if any) as they think fit and any such grant may at their discretion be made by payment to the beneficiary or to any institution or person to be applied for his or her benefit ...
+    - ‘Clause 10: all benefits being at the absolute discretion of the trustees, no persons shall have any right title or interest in the fund otherwise than pursuant to the exercise of such discretion. . .’
+  - It was held that ‘criterion certainty’ was necessary . . .
+    - It must be possible to say whether a person is or is not  within the class.
+    - If a trust power is not exercised a court will either replace the trustees, direct representatives of the classes of beneficiaries to propose a scheme for distribution of the property, or exercise the power itself.
+    - Lord Wilberforce also proposed a ‘loose class’ requirement for trust powers, meaning that if the definition of the class was so ‘hopelessly wide’ that the trust was ‘administratively unworkable’ it would fail.
+    - This test has proved challenging to apply. See Re Baden’s Deed Trusts (No 2) [1973] Ch 9.
+  - Re Baden’s Deed Trusts (No 2) [1973] Ch 9
+    - Sachs LJ: It was not necessary to be able to state with certainty that a certain claimant was not within the class. So long as the class is conceptually certain, it becomes ‘a question of fact to be determined on evidence whether any postulant has on inquiry been proved to be within it: if he is not so proved then he is not in it’ (at 20). Even the widest meaning of the word ‘relative’ did not produce uncertainty.
+    - Megaw LJ: ‘[T]he test is satisfied if, as regards at least a substantial number of objects, it can be said with certainty that they fall within the trust’, even if it cannot be proved that others are in or out. So ‘relatives’ is sufficiently certain.
+    - Stamp LJ: The Court must be able to say of any given individual that he or she is, or is not a member of the class in order to satisfy the test. It is not enough that there is one person, or a group of people, whose membership of the class is clear if about others there is significant uncertainty. But the court ought to construe ‘relations’ to mean ‘next of kin’, or ‘nearest blood relations’. Therefore the power was valid.
+  - When will an express trust fail?
+    - For lack of certainty (of intention, property or objects)
+    - Because it is contrary to public policy: ie trusts against the institution of marriage
+    - Because it is for an illegal purpose – courts will not assist persons in carrying out illegal purposes
+    - If it fails to vest within the perpetuities period (which is now 80 years: see Perpetuities Act 1984 (NSW) ss 7-9.
+    - If a trust fails, for uncertainty of objects, the property results back to the settlor / the testator’s estate.
+- Charitable Trusts
+  - Charitable trusts
+    - When will Equity permit the creation of a valid trust for purposes?
+  - What is a ‘charitable trust’?
+    - Attorney-General (NSW) v Perpetual Trustee Co Ltd (1940) 63 CLR 209 at 222, Dixon and Evatt JJ:
+      - “A charitable trust is a trust for a purpose, not for a person. The objects of ordinary trusts are individuals, either named or answering a description, whether presently or at some future time. To dispose of property for the fulfillment of ends considered beneficial to the community is an entirely different thing from creating equitable estates and interests and limiting them to beneficiaries. In this fundamental distinction sufficient reason may be found for many of the differences in treatment of charitable and ordinary trusts.”
+  - What differences?
+    - Charitable trusts can be created only for certain kinds of purposes, articulated in the Preamble to the Elizabethan Statute of Charitable Uses 1601, and more recently in the Charities Act 2013 (Cth) for the purposes of federal law in Australia.
+    - The beneficiary principle does not apply (there is no need for certain people to be objects).
+    - The perpetuities rules do not apply – charitable trusts can last indefinitely.
+    - Supervision: Courts and the Attorney General have powers of supervision. The A-G has standing to bring suits concerning charities
+  - Elizabethan Statute – Charitable purposes
+    - relief of poverty;
+    - care of aged persons and the sick;
+    - care of soldiers and mariners;
+    - advancement of education through universities and schools;
+    - repair of bridges, havens, ports, churches and highways;
+    - care of orphans;
+    - maintenance of prisons;
+    - marriage of poor maids;
+    - support for young tradesmen and persons decayed;
+    - relief or redemption of prisoners or captives; and
+    - relief for poor persons concerning the payment of taxes.
+  - How have these antiquated purposes been interpreted over the centuries?
+    - Largely by analogy. Courts ask: “Is the purpose within the ‘spirit and intendment of the Statute of Elizabeth?”
+  - Comrs for Special Purposes Income Tax v Pemsel [1891] AC 531, 583:
+    - ‘Charity’ in its legal sense comprises four principal divisions:
+      - trusts for the relief of poverty;
+      - trusts for the advancement of education;
+      - trusts for the advancement of religion;
+      - and trusts for other purposes beneficial to the community, not falling under the preceding heads (the ‘Fourth Class’).
+  - The need for ‘public benefit’...
+    - A charitable purpose must benefit the ‘public’, not some special group of persons.
+  - Re Compton [1945] Ch 123, 131 Lord Greene MR:
+    - A gift for “the education of Compton, Powell and Montague children”. 
+    - “...[A] gift under which the beneficiaries are defined by reference to a purely personal relationship to a named propositus cannot on principle be a valid charitable gift. 
+    - And this, I think, must be the case whether the relationship be near or distant, whether it is limited to one generation or is extended to two or three or in perpetuity. 
+    - The inherent vice of the personal element is present however long the chain and the claimant cannot avoid basing his claim on it.”
+  - Exceptions…
+    - The requirement for public benefit does not apply to trusts for the relief of poverty: Dingle v Turner [1972] AC 601 (a gift for pensions for poor employees of a certain company).
+    - Trusts for people from particular geographic locales do not offend the rule, as they can be applied regardless of inherent personal characteristics: Re Tree [1948] Ch 325.
+    - A request by the creator that family members, or others connected by association or contract, be given preference in the administration of the charity, will not necessarily invalidate the trust, so long as it is open to the general public to also benefit: Re Koettgen’s Will Trusts [1954]
+  - Failure to meet the test ... Thompson v FCT (1959)
+    - For schools for the brethren and deceased brethren of the Masonic Order in NSW.
+    - Dixon CJ: The size of the order is irrelevant. It was still a society whose new membership was elected by existing membership, and was not open to the general public. The education becomes a ‘members’ benefit’, not a public benefit.
+  - Other cases failing the public benefit test…
+    - Trusts for the advancement of religion have failed where they have the object of favouring cloistered or contemplative orders who have little contact with the outside world: Gilmour v Coats [1946] AC 426.
+    - Trusts established to stop the practice of vivisection have also failed on the argument that there would be an overall detrimental effect to the public should such experimentation cease: Anti-Vivisection Society v Inland Revenue Commissioners [1948] AC 31.
+  - POLITICAL PURPOSES ARE NOT CHARITABLE
+    - “A trust for the attainment of political objects has always been held invalid, not because it is illegal. . . but because the court has no means of judging whether a proposed change in the law will or will not be for the public benefit” – Bowman v Secular Society Ltd [1917] AC 406.
+    - Re Bushell dec’d [1975] 1 All ER 721 – a fund to “the Socialist Medical Association, the Haldane Society, the Labour Research Department and the Marx Memorial Library and Workers School” to use “for the advancement and propagation of the teaching of socialised medicine”. 
+    - A trust will be deemed to be political when it has the primary purpose of changing the law: Anti-Vivisection Society v Inland Revenue Commissioners [1948] AC 31
+  - But is this so now?
+    - Aid/Watch Incorporated v Commissioner of Taxation of the Commonwealth of Australia (2010) 241 CLR 539
+      - Gift to promote debate about relief of global poverty through foreign aid.
+      - Our very system of government is predicated on debate our policy and law making. So long as the charity is directed to relief of poverty, it succeeds.
+      - So – a desire to work towards law reform does not defeat a charitable purpose, so long as the purpose conforms to the Pemsel categories.
+    - Now we also have the Charities Act 2013 (Cth)
+  - Charities Act 2013 (Cth) – applies to federal statutes
+    - Section 5 defines ‘charity’ as an entity that is a not-for-profit entity in which all of its purposes are:
+      - (i) charitable purposes that are for the public benefit (defined in ss 6-10);
+      - (ii) incidental or ancillary to, and in furtherance or in aid of, the entity’s charitable purposes that are for the public benefit.
+    - None of the entity’s purposes can be a disqualifying purpose (defined in s 11).
+    - Finally, an individual, a political party or a governmental entity cannot also be a charity.
+  - Charitable purposes (section 12):
+    - a. advancing health (see also s 14) ;
+    - b. advancing education;
+    - c. advancing social or public welfare (see also s 15);
+    - d. advancing religion;
+    - e. advancing culture (see also s 16);
+    - f. promoting reconciliation, mutual respect and tolerance between groups of individuals that are in Australia;
+    - g. promoting or protecting human rights (‘human rights’ defined in s 3(1) to accord with Human Rights (Parliamentary Scrutiny) Act 2011);
+    - h. advancing the security or safety of Australia or the Australian public (see also s 17);
+    - i. preventing or relieving the suffering of animals;
+    - j. advancing the natural environment;
+    - k. any other purpose beneficial to the general public that may reasonably be regarded as analogous to, or within the spirit of, any of the purposes mentioned in paras (a) to (j);
+    - l. promoting or opposing a change to any matter established by law, policy or practice in the Commonwealth, a State, a Territory or another country, if:
+      - (i) in the case of promoting a change—the change is in furtherance or in aid of one or more of the purposes mentioned in paragraphs (a) to (k); or
+      - (ii) in the case of opposing a change—the change is in opposition to, or in hindrance of, one or more of the purposes mentioned in those paragraphs.
+  - The main lessons . . .
+    - 1. A gift on trust for the pursuit of a purpose must be charitable, within the legal meaning of that term, or the trust will fail for want of defined objects.
+    - 2. What is relevantly ‘charitable’ is a matter of policy, determined by statutes which have been interpreted by courts.
+    - 3. Once a trust is found to be genuinely charitable, it is not subject to the rule against perpetuities, and can be enforced by the Attorney-General.
+- Aboriginal Housing Office v Jacky [2022] NSWSC 918
+  - 1 WAS IT CHARITABLE - FOR THE PURPOSE OF RELIEVING POVERTY?
+  - 2 WAS IT CHARITABLE IN THE FOURTH CLASS - FOR PUBLIC BENEFIT?
+  - 3 OR WAS IT A PRIVATE TRUST FOR A CERTAIN CLASS OF BENEFICIARIES?
+  - The problem
+    - A trust had been created over a large parcel of land, used for housing:
+      - "The Settlor wishes to establish a trust to benefit members of Dunghutti Aboriginal families and their descendants .. ."
+      - Beneficiaries were defined as "a person who is identified as a member or past member of the Dunghutti Aboriginal Elders Tribal Council; or a member of the Dunghutti Aboriginal families [with some qualifications]'.
+      - But there were also purposes mentioned — largely related to providing housing for beneficiaries.
+  - The Attorney-General's argument .
+    - The trust was for a charitable purpose.
+    - It was either for the relief of poverty among a particular group. Trusts for the relief of poverty do not need to meet the strict Compton test.
+    - OR it was for a public benefit of providing for the welfare of Aboriginal people.
+  - The court's finding .
+    - It was a private trust, for a sufficiently certain class of beneficiaries.
+    - We look to the terms of the trust deed, and construe the terms objectively (using the same principles of construction that apply in contract law: see [73]-[74].
+    - There was no dispute in the case that the criterion certainty test had been met. 
+  - Perpetuity?
+    - There was a clause in the trust deed would terminate either within 21 years of the death of last survivor of beneficiaries living at the time the deed was made, OR 80 years from the date of the deed.
+    - So there was no risk that the trust would fail on the basis of perpetuity.
+  - A useful summary ..
+    - See [34]-[61] for a summary of the law of charitable trusts.
+    - Note the observations on trusts for the relief of poverty. Poverty does not have to mean relief from complete destitution.
+    - And note the explanation of the Compton test.
+  - Court: 
+    - Supreme Court of New South Wales – Equity Division
+  - Parties: 
+    - Aboriginal Housing Office (Plaintiff) v Jacky & Ors (Defendants)
+  - Procedural History: 
+    - Application seeking judicial clarification as to whether the Dunghutti Aboriginal Elders Tribal Council Trust was a charitable trust or a private (discretionary) trust.
+  - Facts:
+    - – In 2001, a discretionary trust deed was executed between the Dunghutti Aboriginal Elders Tribal Council (in liquidation), Aboriginal Housing Office (AHO), and ATSIC (Commonwealth).
+    - – The trust held 192 acres of land near Kempsey (Old Burnt Bridge), originally acquired through ADC to support Aboriginal housing.
+    - – The Deed stated the land was held "for the benefit of the Beneficiaries" – defined as named individuals and their descendants from the Dunghutti community.
+    - – The parties sought clarification on whether this was a trust for charitable purposes (e.g., relief of poverty or other public benefit) or a private trust for identified persons.
+  - Legal Issue:
+    - Whether the Dunghutti Aboriginal Elders Tribal Council Trust qualifies as a charitable trust, particularly under:
+    - – The first Pemsel category (relief of poverty), or
+    - – The fourth Pemsel category (other purposes beneficial to the community).
+  - Decision:
+    - The Court held that the Trust was not a charitable trust, but a private discretionary trust.
+  - Ratio Decidendi:
+    - – A charitable trust is a trust for a purpose, not for identified beneficiaries.
+    - – The language of the deed (especially cl 2.3) explicitly held the trust property "for the benefit of the Beneficiaries", who were identified by personal connection (e.g., being listed or descended from members of the Dunghutti Council).
+    - – The Trust did not solely relieve poverty (cl 3–6 allowed broad discretion for use of property).
+    - – The class of persons did not meet the Compton test — they were not a “section of the public” but a group defined by personal ties, making the trust private, not public.
+    - – Therefore, the Trust failed to meet both the public benefit test and the definitional requirements of a charitable trust.
+  - Significance:
+    - – Clarifies the boundary between charitable and private trusts in NSW, especially where Aboriginal communities or land transfers are involved.
+    - – Reinforces the Compton/Oppenheim test: trusts benefiting persons linked by personal relationships (family or identity) will not meet the public benefit requirement for charity.
+    - – Indicates that intended community benefit is not enough — courts focus on legal structure and drafting.
+    - – Important for public bodies, such as AHO, managing Aboriginal land or community housing, to ensure trust structures comply with charity law if that status is desired.
+- Byrnes v Kendle (2011) 243 CLR 253; [2011] HCA 26.
+  - Court:
+    - High Court of Australia (French CJ, Gummow, Hayne, Heydon, and Crennan JJ)
+  - Parties:
+    - Martin Byrnes (Appellant, assignee of his mother Joan Byrnes' interest)
+    - Clifford Kendle (Respondent, former husband and trustee)
+  - Procedural History:
+    - District Court of SA found a trust existed but dismissed breach of trust claims.
+    - Full Court of the Supreme Court of SA dismissed appeal and cross-appeal.
+    - Special leave granted to appeal to the High Court on trust and breach of duty findings.
+  - Facts:
+    - Mr Kendle and Mrs Byrnes jointly contributed to property (Rachel Street) but Mr Kendle held legal title.
+    - A 1997 Deed declared Kendle held one undivided half interest "upon trust" for Mrs Byrnes.
+    - Kendle let the property to his son who paid almost no rent (2002–2007).
+    - Mrs Byrnes later assigned her interest to her son Martin Byrnes.
+    - Proceedings were brought to enforce trust obligations and seek accounting for unpaid rent.
+  - Legal Issue:
+    - Did the 1997 Deed create an enforceable express trust?
+    - Did Mr Kendle breach his duties as trustee by failing to collect rent?
+    - Did Mrs Byrnes’ alleged acquiescence or consent bar relief?
+  - Decision:
+    - Appeal allowed. The High Court found an express trust existed and that Kendle breached his fiduciary duties as trustee. Mrs Byrnes’ conduct did not constitute consent or acquiescence sufficient to defeat the claim.
+  - Ratio Decidendi:
+    - A clear and unambiguous written declaration of trust cannot be undermined by extrinsic evidence of the settlor’s subjective or "real" intention (cf Jolliffe, disapproved).
+    - Trustees of land have a duty to render the trust property productive (e.g., lease it and collect rent) unless expressly excluded.
+    - A trustee cannot escape liability by claiming to be a "bare trustee" if active duties (e.g., leasing, collecting rent) arise from circumstances.
+    - Consent or acquiescence by a beneficiary requires knowledge and conduct amounting to waiver, which was not proven in this case.
+  - Significance:
+    - Reaffirmed the objective test for intention in trust creation: what is expressed in the deed, not the settlor’s internal belief.
+    - Clarified trustee duties in managing trust property, especially where income is expected.
+    - Limited scope of Commissioner of Stamp Duties (Qld) v Jolliffe to its specific statutory context.
+    - A significant authority on express trusts, trustee duties, and defences to breach of trust in Australian equity.
+- McPhail v Doulton [1971] AC 424
+  - Court:
+    - House of Lords (UK)
+  - Parties:
+    - McPhail (Appellant – executors of the settlor’s estate) 
+    - Doulton (Respondent – trustee under the deed)
+  - Procedural History:
+    - Appeal from the Court of Appeal decision in Re Baden’s Deed Trusts [1969] 1 All ER 1016, which affirmed Goff J’s ruling that the provision in question was a mere power and not a trust. The House of Lords reversed that part of the decision.
+  - Facts:
+    - A trust deed created by Bertram Baden in 1941 provided that trustees "shall apply" income for the benefit of employees, ex-employees, their relatives and dependants. The class was broad and arguably uncertain. The settlor's executors argued the trust failed for uncertainty and should revert to the estate.
+  - Legal Issue:
+    - Did clause 9(a) create a discretionary trust or a mere power?
+    - If it was a trust, what test for certainty of objects applies?
+  - Decision:
+    - The House of Lords held that clause 9(a) created a discretionary trust, not a power.
+    - The "any given postulant" test (from Re Gulbenkian’s Settlement Trusts) applies: the trust is valid if it can be said of any given individual whether they are within or outside the class. The stricter “complete list” test from IRC v Broadway Cottages Trust was overruled for discretionary trusts.
+  - Ratio Decidendi:
+    - A discretionary trust is valid if, for any given individual, it can be determined with certainty whether they are or are not within the class of beneficiaries; a complete list of all beneficiaries is not required.
+  - Significance:
+    - McPhail v Doulton revolutionised the law on certainty of objects in discretionary trusts by aligning the test for discretionary trusts with that for powers. This decision introduced greater flexibility and has been consistently followed in Australian law, including in New South Wales. It was followed and applied in Re Baden’s Deed Trusts (No 2) [1973] Ch 9, which interpreted the "any given postulant" test in practice.
+## Week 8: Trustee Duties, Rights and Liabilities, and Rights of Beneficiaries 
+
+- Lecture 1: Trustee Duties
+  - Sources of the duties and powers of Trustees
+    - 1. The trust instrument (generally a deed)
+    - 2. General equitable doctrines (especially fiduciary law)
+    - 3. Statutes
+      - Trustee Act 1925 (NSW)
+      - Super funds - Superannuation Industry (Supervision) Act 1993 (Cth)
+      - Managed Investment schemes - Corporations Act 2001 (Cth) – Chapter 5C
+  - Duties vs Powers . . .
+    - Duty = positive obligation to act
+      - A duty is something that the trustee must do (or refrain from doing), as a consequence of general law principles or the terms of a trust deed.
+    - Power = authority to act (may be dispositive or administrative).
+      - A power is something that trustee may exercise (or not) as the trustee sees fit.
+  - Principal duties of Trustees: (NB: no one agreed list)
+    - 1. To obey the terms of the trust.
+    - 2. To ‘get in’ trust assets
+    - 3. To keep trust assets separate from the trustees’ own funds.
+    - 4. To keep and render accounts.
+    - 5. To provide information to beneficiaries (depending on the nature of the beneficiary’s interest and the kind of information requested).
+    - 6. To exercise due care and skill that an ‘ordinary prudent person of business’ would exercise in the management of their own affairs.
+    - 7. To act impartially between beneficiaries, or classes.
+    - 8. To act ‘personally’ and not delegate their powers.
+    - 9. To invest trust funds
+    - 10. To consider the exercise of powers
+  - 1. Adhere to the terms of the trust
+    - The primary duty of trustees of an express trust is to adhere to the terms of the trust. see Youyang Pty Ltd v Minter Ellison (2003) 212 CLR 484.
+    - Strict compliance with the trust instrument is required and ignorance is no defence, even where the trustee acts honestly: Turner v Turner [1984] Ch 100
+    - Subject to the rule in Saunders v Vautier which allows beneficiaries who are sui juris and absolutely entitled, to wind up the trust. 
+    - And subject to court directions. The trustee can approach the court for advice (s 63 Trustee Act), or a trustee of a charitable trust can in some cases apply for a cy-pres scheme if the trust purpose frustrated and an alternative exists.
+    - See Trustee Act 1925 (NSW) s 81 – Court power to confer on trustees additional powers if it is advantageous or expedient to do so, e.g., to sell trust property even if the trust deed forbids sale, or excuse breaches (s85)
+  - 2. To get in trust Assets: eg take steps to perfect title
+    - The general principle...is that trustees must have muniments of title, as well as their securities, under their own control.’: Field v Field [1894] 1 Ch 425, 429 (Kekewich J)
+    - ‘...there being a trust, it follows that equity imposes various obligations and duties on the trustee. One of these is the obligation to get in the trust property....’: Associated Alloys Pty Ltd v CAN 001 452 106 Pty Ltd (2000) 202 CLR 588, [34] (Gaudron, McHugh, Gummow and Hayne JJ)
+  - 3. To keep trust assets separate from the trustees’ own funds.
+    - Trust assets must be kept strictly separate from the trustee’s personal assets and bank accounts.
+    - [T]here being a trust, it follows that equity imposes various obligations and duties on the trustee. One of these is the obligation to get in the trust property and keep it distinct from the property of the trustee and from property held on other trusts.’ (Associated Alloys (2000) 202 CLR 588, [34] (Gaudron, McHugh, Gummow and Hayne JJ).
+  - 4. To keep and render accounts.
+    - This is a core duty and cannot be excluded
+    - Byrnes v Kendle (2011) 243 CLR 253, [42]-[43] (Gummow and Hayne JJ): ‘The references to accounting by Mr Kendle as trustee indicate the several senses in which the term "duty to account" may be used, namely, (i) a duty to keep records, (ii) a duty to report to the beneficiaries or to the court concerning the administration of the trust, and (iii) a duty to pay amounts the trustee is obliged to pay to the beneficiaries. ... [A] trustee should gain no advantage by failure to keep proper records and the court will resolve doubts against a trustee who fails to do so.’
+    - Regardless of whether beneficiaries fixed or disretionary
+  - 5. To provide information (other than accounts) to beneficiaries
+    - Two different issues:
+      - a) Do trustees have a duty to provide information about entitlements?
+      - b) Do trustees have a duty to provide other information concerning the trust?
+  - 5(a). information about entitlements
+    - Depends on sort of interest held
+    - Fixed beneficiaries – trustee has a duty to inform:
+      - Hawkesley v May [1956] 1 QB 304
+      - Discretionary? Not clear but in Segelov v Ernst & Young Services Pty Ltd (2015) 89 NSWLR 431 the NSWCA held that the trustee of a discretionary trust established as part of a remuneration package for partners of an accountancy practice did not have to disclose to the wife of a partner that she was nominated as an object of a discretionary trust by her husband.
+  - 5(b). Other information
+    - Trust documents
+      - Is allowing inspection of trust documents discretionary, as part of court’s inherent jurisdiction to supervise trusts, or a proprietary right for beneficiaries with a vested interest?
+      - In Re Londonderry’s Settlement the right of a beneficiary to inspect trust documents was held to arise from the beneficiary’s interest in the trust property. In Schmidt v Rosewood [2003] 2 AC 709 (a discretionary trust case) the Privy Council held the issue not proprietary but discretionary in the court’s inherent jurisdiction to administer trusts
+      - Question is unclear in NSW and conflicting authority.
+        - Hartigan Nominees Pty Ltd v Rydge (1992) 29 NSWLR 405 at 421-422 Kirby J rejected proprietary view
+        - Global Custodians Ltd v Mesh [2002] NSWSC 47 at [83] Young CJ in Eq said that it is misconceived to think of the right of the beneficiary to inspect documents in terms of a proprietary right of the beneficiary, and that all the beneficiary really has is rights against the trustee.
+        - Avanes v Marshall (2007) 68 NSWLR 595 – Gzell J followed Schmidt
+        - McDonald v Ellis (2007) 72 NSWLR 605 – Bryson AJ did not follow Schmidt or Avanes, and held it was a proprietary right that could be asserted by a beneficiary;
+        - In Palmer v Ayres (2017) 259 CLR 478; [2017] HCA 5, Gageler J cited Schmidt v Rosewood Trust Ltd as authority for the jurisdiction of the Court “to compel the provision of information by a trustee”.
+        - Rinehart v Rinehart [2022] NSWCA 66; 402 ALR 345 – NSWCA declined to resolve
+    - Other documents, like correspondence and minutes of meetings?
+      - Hartigan Nominees Pty Ltd v Rydge (1992) 29 NSWLR 405 at 432-33 Mahoney JA – no right to see non-trust documents created by trustee for their own purposes
+      - No right to see documents that would tend to reveal a trustee’s decision-making:
+        - Re Londonderry’s Settlement [1965] Ch 918, 937 (Salmon LJ): “It might indeed well be difficult to persuade any persons to act as trustees were a duty to disclose reasons with all the embarrassment, arguments and quarrels that might ensue...’.
+      - In Murray v Schreuder [2009] [2009] WASC 51 Newnes J observed
+        - “In the case of a non‑discretionary trust, I take the law to be that a beneficiary has a right - subject to exceptions - to inspect trust documents used by the trustee in the administration of the trust. An exception will arise in the case of documents which are private to the trustee that may evidence the reasons that the trustee has made his or her decision or exercised a discretion, in circumstances where disclosure is not required and has not been made by the trustee: Hartigan v Rydge (434, 442, 445); or where the document is the subject of a duty of confidence owed to a third party: see, for example, Hartigan v Rydge (433, 446); Schmidt (734); Morris v Morris (1993) 9 WAR 150, 154; or where disclosure is not in the interests of the beneficiaries as a whole: Rouse v IOOF Australia Trustees Ltd (1999) 73 SASR 484, 499; or where the terms of the trust deed give rise to an express or implied limit on a beneficiary's right of access to trust documents: Hartigan v Rydge (446).”
+  - 6. Duty of care
+    - Subject to the terms of the trust instrument, in the ordinary management of a trust, a trustee must exercise the ‘care, diligence and skill that a prudent person engaged in that profession, business or employment would exercise in managing the affairs of other persons’: Speight v Gaunt (1883) 22 Ch F 727.
+    - In Speight, a trustee employed a stockbroker to invest funds, who stole them. Held that employing a stockbroker was acting with sufficient care
+  - 7. To act impartially
+    - Impartiality required between:
+      - Individual beneficiaries; and
+      - Classes of beneficiaries.
+    - For example: One beneficiary has a life estate, and the other the remainder.
+      - The life tenant has an interest in distributions while she/he is alive, or in the case of real estate used as a home, for expenditure on repairs.
+      - The beneficiary with the remainder has an interest in preserving value in the trust. (See for example the comments of Hoffman J in Nestle v National Westminster Bank plc noted in the Sourcebook at 17.3.8b.)
+    - Duty to act impartially is affirmed in Trustee Act 1925 (NSW) s 14B(2)(a) and (c).
+  - 8. Duty to act ‘personally’
+    - Trustees may not:
+      - delegate their decision-making powers in the exercise of their discretions to others (for example, by deferring to the instructions of some other person);
+      - Fetter their discretion;
+      - Act under dictation of others;
+    - And must act unanimously
+    - But this does not mean that they cannot employ professionals to assist in the performance of their duties, e.g. they may employ brokers to buy and sell investments for them (see Speight v Gaunt (1883) 22 Ch D 727), subject to satisfying their duty of care by engaging qualified professionals whose credentials and honesty they have no reason to suspect.
+    - Also Trustee Act 1925 (NSW) s 64 permits delegation (subject to trust deed) where a trustee will be absent from NSW, and obtains consent from co-trustees.
+    - Speight v Gaunt (1883) 22 Ch D 727
+      - FACTS:
+        - Gaunt, a trustee, employed a stockbroker, Cooke, to invest trust money (ie appointed an agent). Beneficiaries consented to the employment of a stockbroker. Gaunt gave Cooke £15,000 to acquire securities for trust investment purposes. Cooke never acquired the securities but used the £15,000 for his own purposes and was later declared bankrupt. 
+        - On the question of whether it was proper for the trustee to have appointed an agent.
+      - HELD:
+        - ‘a trustee is not bound to do everything himself. A trustee is entitled to employ brokers and solicitors to do that which in the ordinary course of business other people would employ brokers and solicitors to do.’ Speight v Gaunt (1888) 22 Ch D 727, 756 (Lindley LJ).
+    - Byrnes v Kendle (2011) 243 CLR 253: Duty to invest (rent)
+      - Martin Byrnes and his mother, Joan Byrnes, alleged that, between 2002 and 2007, Mrs Byrnes' estranged husband, Clifford Kendle, had committed breaches of trust in relation to a house and land held on trust. The legal title to the property was held by Mr Kendle. However, he had signed an Acknowledgment of Trust in 1997 declaring that he held one undivided half interest in the property as tenant in common upon trust for Mrs Byrnes.
+      - The principal breach of trust alleged against Mr Kendle was that he let the house to his son in 2002 for a weekly rental of $125, collected only $250 rent from him and took no steps to collect any further rent over the ensuing years of his son's occupancy, which was terminated in 2007. Mr Kendle argued that he was not a trustee because he lacked intention to create a trust. He relied upon Commissioner of Stamp Duties (Q) v Jolliffe. The High Court confirmed that the clear terms of the Acknowledgment of Trust constituted Mr Kendle a trustee, for Mrs Byrnes, of an interest as tenant in common with a life interest in his interest if he predeceased her
+  - 9. Duty to invest: Byrnes v Kendle (2011) 243 CLLR 253, at [119] (Heydon and Crennan JJ).
+    - Even if there is no direction in the trust instrument that the trust property be invested, it is the duty of the trustee to invest the trust property subject to the limits permitted by the legislation in force under the proper law of the trust and subject to any limits stated in the trust document. If there are no limits of that kind, a trustee who receives a trust asset, like an executor of a deceased estate, must "lay it out for the benefit of the estate." That is, it is the duty of a trustee to obtain income from the trust property if it is capable of yielding an income. If the property is money, it should be invested at interest or used to purchase income-yielding assets like shares. If the property consists of business assets, it should be employed in a business. If the property is lettable land, it should be let for rent. And if the intended means of gaining an income turn out to be unsatisfactory, those means must be abandoned and others found.’(footnotes omitted)
+  - 9. Statutory duties with respect to investment:
+    - Trustee Act 1925 (NSW) 
+    - See sections 14A, 14B, 14C
+    - Statutory investment duties: 14A Duties of trustee in respect of power of Investment: Standard of care (more expected of Professional trustees) 
+      - This section has effect subject to the instrument (if any) creating the trust.
+      - A trustee must, in exercising a power of investment:
+      - (a) if the trustee’s profession, business or employment is or includes acting as a trustee or investing money on behalf of other persons, exercise the care, diligence and skill that a prudent person engaged in that profession, business or employment would exercise in managing the affairs of other persons, or
+      - (b) if the trustee is not engaged in such a profession, business or employment, exercise the care, diligence and skill that a prudent person would exercise in managing the affairs of other persons.
+      - (3) A trustee must exercise a power of investment in accordance with any provision of the instrument (if any) creating the trust that is binding on the trustee and requires the obtaining of any consent or approval with respect to trust investments.
+      - (4) A trustee must, at least once in each year, review the performance (individually and as a whole) of trust investments.
+    - Statutory Investment duties: 14B Law and equity preserved
+      - (1) Any rules and principles of law or equity that impose a duty on a trustee exercising a power of investment continue to apply except to the extent that they are inconsistent with this or any other Act or the instrument (if any) creating the trust.
+      - (2) Without limiting the generality of subsection (1), a duty imposed by any rules and principles of law or equity includes the following:
+        - (a) a duty to exercise the powers of a trustee in the best interests of all present and future beneficiaries of the trust,
+        - (b) a duty to invest trust funds in investments that are not speculative or hazardous,
+        - (c) a duty to act impartially towards beneficiaries and between different classes of beneficiaries,
+        - (d) a duty to take advice.
+      - (3) Any rules and principles of law or equity that relate to a provision in an instrument creating a trust that purports to exempt, limit the liability of, or indemnify a trustee in respect of a breach of trust, continue to apply.
+      - (4) If a trustee is under a duty to take advice, the reasonable costs of obtaining the advice are payable out of trust funds.
+    - Cowan v Scargill [1985] Ch 270
+      - Concerned a statutory pension (superannuation) fund for mine workers.
+      - The trust committee comprised 5 trustees from the employer (National Coal Board) and 5 from the National Union of Miners (NUM).
+      - The Board wanted to invest in companies associated with South Africa (at that time still an apartheid regime) and the companies were in oil and gas, which was in competition with coal in the energy market. The NUM opposed the investment strategy, in order to put pressure on the regime in South Africa and also to preclude investment in overseas and other energy technologies such as oil and gas, which would be in competition with coal, which was the source of employment of its members.
+      - The trustees were divided and the matter came to court on the question of the investment strategy to be followed by the trustees of the pension scheme.
+      - Sir Robert Megarry VC held that the union appointed trustees would be in breach of duty if they refused to adopt the Coal Board’s investment strategy for the reasons that they cited.
+      - Ch 270, 286-87
+        - The starting point is the duty of trustees to exercise their powers in the best interests of the present and future beneficiaries of the trust, holding the scales impartially between different classes of beneficiaries. This duty of the trustees towards their beneficiaries is paramount. They must, of course, obey the law; but subject to that, they must put the interests of their beneficiaries first. When the purpose of the trust is to provide financial benefits for the beneficiaries, as is usually the case, the best interests of the beneficiaries are normally their best financial interests. In the case of a power of investment, as in the present case, the power must be exercised so as to yield the best return for the beneficiaries, judged in relation to the risks of the investments in question; and the prospects of the yield of income and capital appreciation both have to be considered in judging the return from the investment
+    - What about climate change and ethical investing that might not be in best financial interests?
+      - Statutory investment duties: s 14C Trustee Act 1925 (NSW)
+        - 14C Matters to which trustee is to have regard when exercising power of investment
+          - (1) Without limiting the matters that a trustee may take into account when exercising a power of investment, a trustee must, so far as they are appropriate to the circumstances of the trust, if any, have regard to the following matters:
+            - (a) the purposes of the trust and the needs and circumstances of the beneficiaries,
+            - (b) the desirability of diversifying trust investments,
+            - (c) the nature of, and the risk associated with, existing trust investments and other trust property,
+            - (d) the need to maintain the real value of the capital or income of the trust,
+            - (e) the risk of capital or income loss or depreciation, 
+            - (f) the potential for capital appreciation,
+            - (g) the likely income return and the timing of income return, 
+            - (h) the length of the term of the proposed investment,
+            - (i) the probable duration of the trust,
+            - (j) the liquidity and marketability of the proposed investment during, and on the determination of, the term of the proposed investment,
+            - (k) the aggregate value of the trust estate,
+            - (l) the effect of the proposed investment in relation to the tax liability of the trust,
+            - (m) the likelihood of inflation affecting the value of the proposed investment or other trust property,
+            - (n) the costs (including commissions, fees, charges and duties payable) of making the proposed investment,
+            - (o) the results of a review of existing trust investments in accordance with section 14A (4).
+            - (2) A trustee may, having regard to the size and nature of the trust, do either or both of the following:
+              - (a) obtain and consider independent and impartial advice reasonably required for the investment of trust funds or the management of the investment from a person whom the trustee reasonably believes to be competent to give the advice,
+              - (b) pay out of trust funds the reasonable costs of obtaining the advice.
+            - (3) A trustee is to comply with this section unless expressly forbidden by the instrument (if any) creating the trust
+  - 10. Duty to consider the exercise of Powers:
+    - A trustee cannot ignore power given to it. A trustee is required to consider periodically whether or not to exercise the power, to consider the range of objects of the power, and to consider the appropriateness of individual appointments: Re Hay’s Settlement Trusts [1982] 1 WLR 202 (Megarry V-C)
+    - Excusable breaches of trust
+      - Trustee Act 1925 (NSW) s 85:
+        - (1) Where a trustee is or many be personally liable for any breach of trust, the Court may relieve the trustee either wholly or partly from personal liability from the breach.
+        - (2) The relief may not be given unless it appears to the Court that the trustee has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the direction of the Court in the matter in which the trustee committed the breach.
+          - See also s 90 - Court may take into account investment strategy in action for breach of trust.
+    - Principles relating to the exercise of powers
+      - Narrow grounds of review
+      - Courts won’t compel exercise of discretion
+      - If exercised, must not be exercised improperly
+      - Proper exercise is 
+        - in good faith,
+        - Upon real and genuine consideration,
+        - For the purpose for which given, and
+        - Not for an ulterior purpose.
+    - ‘the Court examines whether the discretion was exercised but does not examine how it was Exercised.’ Karger v Paul [1984] VR 161, 164: (McGarvie J)
+      - Rose Mary Smith died leaving a will by which she appointed her husband and solicitor as executors and trustees of the will. It contained the following provisions:
+      - Cl (3) I give devise and bequeath all my property both real and personal ... to my husband [Alfred Smith] during his lifetime with power to my Trustees in their absolute and unfettered discretion and upon the request of my said husband to pay or transfer the whole or part of the capital of my said estate to the said [Alfred Smith] for his own use absolutely.
+      - Cl (4) Upon the death of my said husband then my said Trustees shall pay or transfer to [Rita Karger] the rest and residue of my Estate for her own use absolutely.
+      - The husband requested the transfer of the property and he and his co-trustee did so. He died leaving the property to another. The residuary beneficiary, Rita, sued the trustee and husband’s Beneficiary. 
+      - Unsuccessful – the discretion was absolute and was not improperly exercised.
+    - Attorney-General for the Commonwealth v Breckler (1999) 197 CLR 83, [7]
+      - (Gleeson CJ, Gaudron, McHugh, Gummow, Hayne and Callinan JJ)
+      - Cited with approval Wilkinson (1998) 79 FCR 469,480:
+        - “Where a trustee exercises a discretion, it may be impugned on a number of different bases, such as that it was exercised in bad faith, arbitrarily, capriciously, wantonly, irresponsibly, mischievously or irrelevantly to any sensible expectation of the settlor, or without giving a real and genuine consideration to the exercise of the discretion. The exercise of a discretion by trustees cannot of course be impugned upon the basis that their decision was unfair or unreasonable or unwise. Where a discretion is expressed to be absolute it may be that bad faith needs to be shown. The soundness of the exercise of a discretion can be examined where reasons have been given, but the test is not fairness or reasonableness.”
+    - However, review of exercise of discretion by superannuation trustees may be given more scrutiny: Finch v Telstra Super Pty Ltd (2010) 242 CLR 254, 272
+      - ‘Superannuation ... is not a matter of mere bounty, or potential enjoyment of another’s benefaction’ .... ‘the decisions of superannuation trustees are not likely to be largely immunized from judicial control without clear contrary language in the relevant trust documents’.
+    - Effect of improper exercise – decision void
+      - Court unlikely to exercise discretion and substitute a new decision
+      - Likely to remit for reconsideration
+      - Or remove trustee and replace with a competent trustee who will exercise properly
+- Trustee Rights and Liabilities
+  - Trustee Liability
+    - A: For Breach of Trust
+      - What remedies are available against a trustee, and what rights does a trustee have to limit or be excused from liability?
+    - B: For Expenses Incurred in the Administration of Trust
+      - What personal and proprietary rights does a trustee have to be indemnified for such expenses incurred?
+  - A: Trustee Liability for Breach of Trust – Defences and Remedies
+    - Recap Principal duties of trustees:
+      - Trustees will be liable for breach of trust for breach of any of the trustee duties considered in Week 8 Lecture 1:
+        - 1. To obey the terms of the trust.
+        - 2. To ‘get in’ trust assets
+        - 3. To keep trust assets separate from the trustees’ own funds.
+        - 4. To keep and render accounts.
+        - 5. To provide information to beneficiaries
+        - 6. To exercise due care and skill.
+        - 7. To act impartially between beneficiaries, or classes.
+        - 8. To act ‘personally’ and not delegate their powers.
+        - 9. To invest trust funds
+        - 10. To consider the exercise of powers
+  - Remedies against a trustee in Breach: designed to Achieve Administration of the trust
+    - A trustee who breaches a fiduciary duty and makes an unauthorized profit can be stripped of profits through an account of profits
+    - If trust property is misapplied and lost, the trustee will be required to restore the trust assets through an award of equitable compensation
+    - Any breach that causes loss (such as a breach of the duty of care and skill) can lead to an award of equitable compensation 
+    - Other non-monetary remedies such as an injunction to restrain a breach
+    - A trustee can be removed by the court for breach of duty or serious failures in performance if in the best interests of the trust
+  - Effect of improper exercise – decision void
+    - Court very unlikely to exercise discretion and substitute a new decision
+    - May remit for reconsideration
+    - Or remove trustee and replace with a competent trustee who will exercise properly
+    - Other remedies
+  - Remedies for Improper Exercise of Power: Wareham v Marsella (2020) 61 VR 262
+    - Mrs Marsella and her daughter Mrs Wareham were trustees of a superannuation fund. The deed required the trustees to pay or apply the death benefit in favour of various classes of persons, including the deceased’s ‘Dependants’ which included Mrs Marsella’s husband.
+    - After Mrs Marsella’s death, the daughter appointed her husband Mr Wareham a co-trustee and they transferred the whole benefit to Mrs Wareham.
+    - The trustee had an ‘absolute and unfettered discretion.’
+    - Mr Marsella challenged the trustees’ decision, seeking an injunction restraining distribution of the fund and an order requiring the applicants to repay any sum already distributed, and for their removal as trustee.
+    - He argued that the trustees did not exercise good faith and real and genuine consideration in relation to the dependants of the deceased, and submitted that the death benefit payment should be set aside
+  - Wareham v Marsella (2020) 61 VR 262
+    - Mr Marsella was successful.
+    - At trial:
+      - McMillan J held that the daughter (and her husband) in their capacity as trustees failed to exercise their discretion with a real and genuine consideration of the interests of the Fund's beneficiaries.
+      - The daughter's behaviour as trustee was criticized at [56] finding that that the distribution of benefits to herself was carried out with '... ignorance of, or insolence toward, her duties,' and at [57] that her conduct was beyond 'mere carelessness' or 'honest blundering’.’
+    - On appeal:
+      - The Victorian Court of Appeal agreed with the trial judge and held at [62]
+      - “On balance, the inference to be drawn from the evidence is that the first defendant acted arbitrarily in distributing the fund, with ignorance of, or insolence toward, her duties. She acted in the context of uncertainty, misapprehensions as to the identity of a beneficiary, her duties as trustee, and her position of conflict. As such, she was not in a position to give real and genuine consideration to the interests of the dependants. This conclusion is supported by the outcome of the exercise of discretion.”
+  - Defences to breach of trust: Liability for breach of trust is strict, but:
+    - Terms of the trust deed may exculpate or limit liability; or -> There may be statutory relief
+  - Exculpation clauses in the trust deed
+    - Most liability for loss or damage can be excluded by specific terms of the trust deed.
+    - Trustee bears onus of establishing that the loss is covered by the exclusion clause.
+    - However, liability for fraud (in the sense of dishonesty, or conscious wrongdoing) cannot be excluded as it would be against public policy: Armitage v Nurse [1998] Ch 241 (Millett LJ)
+    - There is an ‘irreducible core’ of trustee obligations that cannot be excluded, of at least a duty to act honestly and in good faith.
+    - But uncertainty as to what is in the irreducible core – is the duty to adhere to the terms of the trust in it? See Crossman v Sheeahan (2016) 115 ACSR 130, [308] (Ward JA)
+    - Liability to account, or other remedies cannot be excluded
+  - Exculpation clauses - Armitage v Nurse [1998] Ch 241
+    - Facts: 
+      - Paula Armitage who was a beneficiary of a trust alleged that a trustee had committed a breach of trust. Paula's mother was life tenant under the marriage settlement and Paula, who was then aged 17, was entitled inremainder. The settled property consisted largely of land farmed by a company of which her mother and grandmother were a shareholders and directors.
+      - Under the terms of the variation the property subject to the trusts of the marriage settlement was partitioned between Paula and her mother. Since she was under age, her share was directed to be held on the trusts of a settlement.
+      - Paula alleged that the trustees had acted in breach of trust by hiring the family company to farm the land, (as clause 12 of the trust settlement stated that no part of the trust should be applied beneficially towards Paula’s mother and grandmother) and that the trustees had mismanaged the land causing the value to fall.
+      - Clause 15 provided ‘no trustee shall be liable for any loss or damage which may happen to Paula’s fund or any part thereof or the income thereof at any time or from any cause whatsoever unless such loss or damage shall be caused by his own actual fraud.’
+    - Armitage v Nurse [1998] Ch 241 – the irreducible core of trustee obligations cannot be excluded
+      - Held: The trustees were protected by the exculpation clause as there was no evidence of dishonesty or actual fraud. Per Millett LJ:
+      - “... Clause 15 exempts the trustee from liability for loss or damage to the trust property no matter how indolent, imprudent, lacking in diligence, negligent or wilful he may have been, so long as he has not acted dishonestly.”
+      - “...I accept the submission made on behalf of Paula that there is an irreducible core of obligations owed by the trustees to the beneficiaries and enforceable by them which is fundamental to the concept of a trust. If the beneficiaries have no rights enforceable against the trustees there are no trusts. But I do not accept the further submission that these core obligations include the duties of skill and care, prudence and diligence. The duty of the trustees to perform the trusts honestly and in good faith for the benefit of the beneficiaries is the minimum necessary to give substance to the trusts, but in my opinion it is sufficient. As Mr. Hill pertinently pointed out in his able argument, a trustee who relied on the presence of a trustee exemption clause to justify what he proposed to do would thereby lose its protection: he would be acting recklessly in the proper sense of the term.”
+  - Statutory Exculpation or equitable defences
+    - S 59(2) Trustee Act 1925 (NSW): trustee liable only for their own fault, not fault of agents.
+    - S 85 Trustee Act 1925 (NSW): power to relieve a trustee from liability where the trustee has acted honestly and reasonably and ought fairly be excused.
+    - Equitable defences: consent: Spellson v George (1992) 26 NSWLR 666
+    - Acquiescence or release from liability by a beneficiary following breach (where the beneficiary has full knowledge of all the circumstances, his rights and acting without pressure or undue influence.)
+  - B: Liability for Expenses in the Administration of the Trust – Trustee Rights
+    - Trustee has Personal liability for Trust expenses
+      - A trust is not a legal entity. It has no separate legal personality.
+      - Therefore, all contracts entered into, and expenses incurred by a trustee in administering a trust are entered into, and incurred, by the trustee personally.
+      - In Vacuum Oil Company Pty Ltd v Wiltshire (1945) 72 CLR 319 at 324:
+        - “In respect of debts incurred by him in so carrying on the business he is personally liable to the trading creditors – the debts are his debts.”
+      - “Trust creditors” are creditors of the trustee, personally, not the trust.
+  - Trustee’s Right of Indemnity in respect of trust liabilities
+    - Chief Commissioner of Stamp Duties (NSW) v Buckle (1998) 192 CLR 226 at [47]
+      - Court approved the following passage from Scott on Trusts, which described the general characteristics of the two rights of indemnity:
+        - "Where the trustee acting within his powers makes a contract with a third person in the course of the administration of the trust, although the trustee is ordinarily personally liable to the third person on the contract, he is entitled to indemnity out of the trust estate. If he has discharged the liability out of his individual property, he is entitled to reimbursement; if he has not discharged it, he is entitled to apply the trust property in discharging it, that is, he is entitled to exoneration." 
+        - (emphasis added)
+    - Trustee’s right to be indemnified for trust expenses – 2 limbs
+      - Right of recoupment – to recover expenses already paid personally by the trustee (This money becomes part of the trustee’s own property.)
+      - Right of Exoneration – to apply trust assets to pay third party Creditors (power to transfer trust funds to the third party, but these funds do NOT form part of the trustee’s own property )
+    - Sources for the Trustee’s indemnity for expenses:
+      - Statute – s 59 Trustee Act 1925:
+      - 59 Implied indemnity
+        - (1) A trustee shall be chargeable only for money and securities actually received by the trustee, notwithstanding the trustee's signing any receipt for the sake of conformity.
+        - (2) A trustee shall be answerable and accountable only for the trustee's own acts, receipts, neglects, or defaults, and not for those of any other trustee, nor for any banker, broker, or other person with whom any trust moneys or securities may be deposited, nor for the insufficiency or deficiency of any securities, nor for any other loss, unless the same happens through the trustee's own wilful neglect or default.
+        - (3) Nothing in subsections (1) and (2) shall prejudice the provisions of the instrument, if any, creating the trust.
+        - (4) A trustee may reimburse himself or herself, or pay or discharge out of the trust property all expenses incurred in or about execution of the trustee's trusts or powers.
+        - (5) This section applies to trusts created either before or after the commencement of this Act.
+      - Terms of Trust – express terms
+      - equitable principle
+    - Trust creditors can be subrogated to the trustee’s right to be exonerated from trust assets
+      - If a trustee becomes insolvent, the trust creditors can claim to be subrogated to the trustee’s right to be exonerated from trust assets to pay the liability owed by the trustee to the creditor.
+      - If the trustee has a right of exoneration from the trust assets (ie where creditors have not yet been paid), its lien is held for trust creditors only and is not available to its general creditors in insolvency: Carter Holt Harvey Woodproducts Pty Ltd v Commonwealth of Australia (2019) 93 ALJR 807
+    - Carter Holt Harvey Woodproducts Pty Ltd v Commonwealth of Australia (2019) 93 ALJR 807
+      - Under its right of indemnity, the trustee can only use trust assets to pay trust creditors not its own personal creditors
+      - Same in insolvency – trust assets are not distributed to general creditors. Interest in trust assets held subject to equity Of trust creditors to be subrogated to trustee’s right of indemnity
+      - 
+  - What sorts of expenses can the trustee be indemnified for?
+    - The expense must be ‘properly incurred with authority’; Carter Holt Harvey, [24], [40], [44]. Turns on concept of what is “properly incurred.”
+    - Re Raybould [1900] 1 Ch 199: damages payable to a third party for liability for negligence in running a colliery were expenses of the trustee that fell within the scope of the indemnity.
+    - Re Beddoe: “The words ‘properly incurred’ in the ordinary form of order are equivalent to no improperly incurred”. Bowen LJ excluded costs that had been ‘unreasonably incurred’. Did that mean costs must be honestly and reasonably incurred??
+    - Gatsios Holdings v Nick Kritharas Holdings Pty Ltd (in liq): Meagher JA damages for breach of Trade Practices legislation recoverable – only limitation is not fraudulent.
+    - Nolan v Collie: also rejected ‘reasonable’ test – although differed from Gatsios - must be considered in context of duty/power
+    - Gatsios Holdings v Nick Kritharas Holdings (in liq) [2002] NSWCA 29
+      - Nick Kritharas Holdings (NKH) was trustee of a family trust that was involved in the packaging of snack foods.
+      - NKH made certain representations in relation to the business that were held to be in breach of the statutory prohibition against misleading or deceptive conduct in s 18 of the Australian Consumer Law.
+      - NKH was ordered to pay compensation in the sum of $400,000. Claims that NKH had acted fraudulently were rejected.
+      - NKH was replaced as trustee by Gatsios Holdings. NKH subsequently claimed to be entitled to an indemnity from the trust assets for the liability it incurred.
+      - Gatsios Holdings argued that liability for misleading or deceptive conduct was not a proper expense for which the indemnity principle applied.
+      - However, the Court of Appeal held that, on the facts of the case, NKH was entitled to the indemnity.
+      - Spigelman CJ at [8]:
+        - ‘The use of such terminology as conduct being “proper” or “reasonable”, cannot be regarded as a test of when a trustee is entitled to receive indemnity for outgoings incurred [in] the course of execution of the trust. Such terminology generally records a conclusion which has been reached on other grounds. Rather than constituting a statement of the relevant test it is “the end of the inquiry and not the beginning”.’
+      - Meagher JA doubted whether it meant anything more than “non-criminal” or “non-fraudulent”: at [47].
+    - Indemnity Supported by a “lien” over trust assets
+      - The trustee’s right of indemnity in respect of both limbs (recoupment and exoneration) is secured by a lien over the trust assets.
+      - This is an equitable proprietary interest in trust assets.
+      - In Carter Holt Harvey Woodproducts (2019) 93 ALJR 807 the Court was unanimous in its approval of statements in earlier authorities that the trustee’s right of indemnity is supported by an interest that can be described as a lien over trust assets. Bell, Gageler and Nettle JJ observed that it arises “endogenously as an incident of the office of trustee in respect of the trust assets” and it is not comparable to a “synallagmatic security interest over property of another”.
+      - A lien, by its nature, secures payment by the defendant without conferring any rights of ownership over the assets.
+      - The value of the beneficiaries’ interest cannot be calculated until the value of the trustee’s lien is determined.
+      - However, as the High Court made clear in Chief Commissioner of Stamp Duties (NSW) v Buckle, the right is not in the nature of an encumbrance over the trust assets.
+      - Survives removal from office
+  - Does a trustee have rights against beneficiaries personally to recover expenses?
+    - In most jurisdictions other than NSW, beneficiaries can be made to indemnify trustees on the basis that justice requires that they who take the benefit of the trustee’s actions should bear the liability also: Hardoon v Belilios [1901] AC 118, 127.
+    - In Hardoon, the trustee held partly paid shares in a bank for the defendant on trust. The bank went into liquidation and the trustee had to pay the call. The Privy Council held the beneficiary was liable to indemnify the trustee personally.
+    - The rule no longer applies in NSW: s 100A Trustee Act
+  - S 100A Trustee Act 1925 (NSW)
+    - Limitation of liability of beneficiaries in respect of trustees
+    - 100A Limitation of liability of beneficiaries in respect of trustees
+    - (1) The rule of equity known as the rule in Hardoon v Belilios is abolished.
+    - (2) Accordingly, a beneficiary under a trust (whether created before, on or after the commencement day) is not liable to indemnify the trustee or make any other payment to the trustee or any other person for any act, default, obligation or liability of the trustee arising on or after the commencement day unless--(a) the beneficiary has agreed in writing to be liable, or(b) subsection (3) applies.
+    - (3) This section does not prevent a trustee of an investment trust from recovering any amount that a beneficiary under the trust is liable to pay for a right, interest or other entitlement to profits, income or other returns generated by the trust.
+    - (4) To avoid doubt, this section does not affect any liability that a beneficiary under a trust may have in a capacity other than as a beneficiary.
+    - (5) In this section– "commencement day" means the day on which this section commenced. "investment trust" means any trust (however described) created for the purpose of generating profits, income or other returns for its beneficiaries using funds provided by them, and includes a unit trust scheme within the meaning of the Duties Act 1997 .
+  - Trustee’s Right to Advice of the Court
+    - Trustee’s ability to seek the court’s advice
+      - Two sources:
+        - Inherent jurisdiction that is ‘ancient’
+        - Statutory jurisdiction – see eg s 63 [judicial advice], s 70 (appointment of new trustee by court)
+  - Statutory right to seek advice: s 63 Trustee Act 1925 (NSW)
+    - 63 Advice
+      - (1) A trustee may apply to the Court for an opinion advice or direction on any question respecting the management or administration of the trust property, or respecting the interpretation of the trust instrument.
+      - (2) If the trustee acts in accordance with the opinion advice or direction, the trustee shall be deemed, so far as regards the trustee's own responsibility, to have discharged the trustee's duty as trustee in the subject matter of the application, provided that the trustee has not been guilty of any fraud or wilful concealment or misrepresentation in obtaining the opinion advice or direction.
+      - (3) Rules of court may provide for the use, on an application under this section, of a written statement signed by the trustee or the trustee's Australian legal practitioner, or for the use of other material, instead of evidence.
+      - (4) Unless the rules of court otherwise provide, or the Court otherwise directs, it shall not be necessary to serve notice of the application on any person, or to adduce evidence by affidavit or otherwise in support of the application.
+  - Macedonian Orthodox Community Church v Diocesan Bishop (2008) 237 CLR 66
+    - Advice can be sought on:
+      - construction of trust
+      - Whether to commence or defend litigation
+      - Management and administration of the trust
+    - Trustee can apply ex parte
+    - Desirable for a trustee to seek advice before acting, rather than risking breach and seeking to be excused.
+    - If a trustee follows the advice, it will not have committed a breach of trust and expenses will be properly incurred.
+- Rights of Beneficiaries
+  - Rights of Beneficiaries under a Fixed Trust
+    - 1. To compel performance of the trust by the trustee
+    - 2. To remove a trustee: Miller v Cameron (1936) 54 CLR 572; s 70 Trustee Act 1925 (NSW)
+    - 3. To bring proceedings against a third party for loss to the trust (in exceptional circumstances)
+    - 4. To restrain a breach of trust
+    - 5. To accounts
+    - 6. To inspect some trust documents
+    - 7. To information about entitlements
+    - 8. A proprietary claim to recover property or traceable proceeds from third parties
+    - 9. To extinguish the trust: rule in Saunders v Vautier
+  - Beneficiary’s Proprietary right
+    - The beneficiary’s primary right has been described as the right to exclude non-beneficiaries from enjoyment of trust assets” Nolan, ‘Equitable Property’ (2006) 122 LQR 232, 234-235, 256-7 and the infringement of this right generates the right to prevent access to the trust assets. It is this feature that makes it a proprietary right: see Jessica Hudson, ‘Equitable ownership and restitution of misapplied trust property’ (2017) 11 Journal of Equity 245, 252.
+    - In Akers v Samba Financial Group [2017] UKSC 6, Lord Sumption observed at [82] that the beneficiary of a trust has:
+      - “two main legal rights. First, [the beneficiary] had a right to have the trust administered according to its terms. This was a personal right against the trustee ... Secondly, [the beneficiary] had a true proprietary right ... An equitable interest possesses the essential hallmark of any right in rem, namely that it is good against third parties into whose hands the property or its traceable proceeds may have come, subject to the rules of equity for the protection of bona fide purchasers for value without notice.”
+  - A proprietary claim to recover property or traceable proceeds from third parties
+    - Beneficiary’s Proprietary claim
+      - A beneficiary of an express trust has a proprietary claim for restitution of identified property from a third party for return of original property or traceable substitute: Grimaldi v Chameleon Mining NL (No 2) (2012) 200 FCR 296 [251]; Akers v Samba Financial Group [2017] AC 424 {82]-[83] (Lord Sumption).
+      - The plaintiff will need to demonstrate that the property is trust property or substituted form, and not a consequence of lawful transfer (eg investment pursuant to power to invest).
+      - The beneficiary’s proprietary claim may be available to persons who cannot be described as the equitable owner of the property eg discretionary objects or someone permitted standing in respect of a charitable trust.
+      - The claim does not require knowledge or notice by the third party
+      - Defeated if the third party is a bona fide purchaser for value without notice.
+      - Property is restored to the trust.
+    - Foskett v McKeown [2001] 1 AC 102 (HL)
+      - Facts:
+        - Developers paid to Murphy moneys for a property development in Portugal. Murphy used the money to purchase a life policy with Barclays
+        - Life Assurance which he settled on trust for his wife and mother subject to power to appoint to his wife, mother and his children, appointed 9/10 for his 3 children equally.
+        - Murphy took his own life. The insurer paid £1,000,580 to the surviving trustees of the policy. Mrs Murphy was paid her 1/10th share. The children received approximately £1,000,000.
+        - Plaintiffs claimed that approx. 40% of the premiums on the policy have been paid out of their moneys and, having traced their moneys through the policy into the proceeds of the insurance policy, they are entitled to 40% of the policy moneys, further arguing that the children hold this 40% on trust. The children say the purchasers are entitled to nothing, or at most a return of the premium paid out of purchasers funds.
+      - The simplest case is where a trustee wrongfully misappropriates trust property and uses it exclusively to acquire other property for his own benefit. In such a case the beneficiary is entitled at his option either to assert his beneficial ownership of the proceeds or to bring a personal claim against the trustee for breach of trust and enforce an equitable lien or charge on the proceeds to secure restoration of the trust fund. He will normally exercise the option in the way most advantageous to himself. If the traceable proceeds have increased in value and are worth more than the original asset, he will assert his beneficial ownership and obtain the profit for himself.
+      - There is nothing unfair in this. The trustee cannot be permitted to keep any profit resulting from his misappropriation for himself, and his donees cannot obtain a better title than their donor. If the traceable proceeds are worth less than the original asset, it does not usually matter how the beneficiary exercises his option. He will take the whole of the proceeds on either basis. This is why it is not possible to identify the basis on which the claim succeeded in some of the cases. (Lord Millett, p130) “
+      - [in the case of a mixture]
+      - Accordingly, I would state the basic rule as follows. Where a trustee wrongfully uses trust money to provide part of the cost of acquiring an asset, the beneficiary is entitled at his option either to claim a proportionate share of the asset or to enforce a lien upon it to secure his personal claim against the trustee for the amount of the misapplied money. It does not matter whether the trustee mixed the trust money with his own in a single fund before using it to acquire the asset, or made separate payments (whether simultaneously or sequentially) out of the differently owned funds to acquire a single asset. (Lord Millett, p131)
+    - To extinguish the trust: rule in Saunders v Vautier
+      - Rule in Saunders v Vautier (1841) 49 ER 282
+        - A testamentary trust provided that stocks would be held on trust for DV and transferred to him when he turned 25.
+        - “to accumulate the income till the great-nephew attains twenty-five, and then to transfer and pay the stock and accumulated interest to him, his executors, administrators, or assigns”.
+        - Lord Langdale: “I think that principle has been repeatedly acted upon; and where a legacy is directed to accumulate for a certain period, or where the payment is postponed the legatee, if he has an absolute indefeasible interest in the legacy, is not bound to wait until the expiration of that period, but may require payment the moment he is competent to give a valid discharge.” This Photo by Unknown Author is licensed under CC BY-SA
+      - Requirements for the application of the ‘rule’
+        - 1. beneficiary exercising the power must be a person sui juris (ie attained legal majority and of full legal capacity.)
+        - 2. If there are multiple legatees or beneficiaries seeking to extinguish the same trust coordinately, then each legatee or beneficiary must be sui juris: CPT Custodian Pty Ltd v Commissioner of State Revenue (2005) 224 CLR 98, 119 [47] (Gleeson CJ, McHugh, Gummow, Callinan and Heydon JJ).
+        - 3. The beneficiary/ ies must have an absolute (ie immediate interest, and not merely interest of a discretionary object) and indefeasible interest (ie not subject to any competing equitable obligation or interest)
+        - 4. However, where all objects of a discretionary trust are sui juris and all agree to extinguish
+        - the trust, the rule may be applied to discretionary objects: Sir Moses Montefiore Jewish Home v Howell & Co (No 7) Pty Ltd [1984] 2 NSWLR 406, 411 (Kearney J). However, must be collective and unanimous.
+      - CPT Custodian Pty Ltd v Commissioner of State Revenue (2005) 224 CLR 98
+        - Facts:
+          - Case concerned application of land tax to land held by a trustee of a unit trust. CPT (the trustee) and the manager of the trust were entitled to significant fees payable by the unit holders out of the trust fund, as well as to reimbursement of its costs, charges and expenses from the fund.
+          - The beneficial interest in the fund was divided into units, each unit conferring an equal interest in all the property for the time being held by the trustee but no unit conferred any interest in any particular part of the trust fund.
+          - The Commissioner of State Revenue argued that all the unit holders collectively held the beneficial interest in the land owned by the unit trust and, applying the rule in Saunders v Vautier, could terminate the trust and, subject to reimbursing the trustee’s costs, divide the land among themselves. They therefore had rights in the land that attracted land tax.
+        - Held: 
+          - The High Court held that the unit holders did not have an indefeasible equitable interests in the land because the trustees and manager still had a right to remuneration and indemnity from trust assets for those fees.
+          - The unit holders were not the persons in whose favour alone the trust property might be applied by the trustee.
+          - Accordingly, Saunders v Vautier did not apply to this unit trust.
+        - Quotes
+          - “[49] But that approach to the rule in Saunders v Vautier would not meet the case of the Deed considered in this litigation. In the Deed, the Manager covenanted with the Trustee (cl 23.4) to ensure that there were at all times sufficient readily realisable assets of the Trust available for the Trustee to raise the fees to which the Manager and the Trustee were entitled under cll 23.1 and 23.2 respectively ... Put somewhat differently, the unit holders were not the persons in whose favour alone the trust property might be applied by the trustee of the Deed.....
+          - [51] In the present case, the unsatisfied trustees’ right of indemnity was expressed as an actual liability in each of the relevant accounts at each 31 December date and rendered applicable in the sense of the above words of Lord Davey. Until satisfaction of rights of reimbursement or exoneration, it was impossible to say what the trust fund in question was. ”
+    - Partial Extinguishment (eg by one beneficiary, but not all)?
+      - It can be possible but requires:
+        - Interests under a fixed trust;
+        - Divisible property (like shares – not an asset like a house that cannot be severed).
+      - Where the trust property is divisible, equity will consider whether the allowance of a partial extinguishment would nonetheless prejudice other beneficiaries: Beck v Henley (2014) 11 ASTLR 457, 468 [37] (Leeming JA). 
+        - [37] ... the power of some, but not all of the beneficiaries to bring the trust to an end in part (and the correlative liability on the part of the trustees for their office to cease to that extent) is also qualified, and to a greater extent than would be the case if they were unanimous. In addition to the foregoing, as Sugerman J said  ... its exercise is “governed by practical considerations and, in particular, by considerations of convenience of division and of the risk of prejudice to other beneficiaries”. These two considerations may overlap but are distinct.
+    - Beck v Henley [2014] NSWCA 201
+      - Facts: 
+        - A brother and sister were absolutely entitled to a share of trust property which included two of the four voting shares in a private company, Zipor.
+        - One of the beneficiaries (Ami) requested that the Trustee transfer his share to him. 
+        - His sister (Tami) opposed the transfer. Tami argued that she would be prejudiced by this transfer, as holding a controlling share in a company is a more valuable right and dividing the siblings’ shareholding would result in a reduction of her power at Zipor board meetings
+      - Held
+        - No special circumstances prevented the transfer from occurring.
+        - Per Leeming JA:
+          - [84]The au thorities which Tami has invited this Court to review and depart from make it plain that even where there is a loss of value by the splitting of a controlling parcel of shares, something more is required to defeat the Saunders v Vautier power. What is required is an unequal outcome ... Not merely unequal treatment (which is inevitable when the beneficiaries are not unanimous).
+          - [85] In short, the absence of actual prejudice in terms of diminution of value, the mere fact that there is a loss of a measure of control does not prevent Ami from exercising his power.” 
+- Byrnes v Kendle (2011) 243 CLR 253
+  - Procedural History:
+    - Appeal to the High Court of Australia from the Full Court of the Supreme Court of South Australia. The trial judge held a trust existed and that the trustee breached his duty to let the trust property. The Full Court reversed this, finding no such duty. The High Court allowed the appeal and reinstated the trial judge's conclusions.
+  - Original Dispute:
+    - Whether a document titled “Acknowledgment of Trust” signed by the respondent (Kendle) created a valid express trust, and whether the respondent, as trustee, breached any duties by failing to let the property and obtain rent after ceasing to reside in it.
+  - Reason for Trial:
+    - The appellant (Byrnes), assignee of Mrs Byrnes' interest, claimed that a trust had been created and that Mr Kendle had breached his duties by failing to secure rental income after his son (the tenant) failed to pay rent.
+  - Material Facts:
+    - In 1989, Kendle and Mrs Byrnes signed a document acknowledging a trust over jointly owned property.
+    - That property was later sold, and the proceeds used to purchase another property in Rachel Street.
+    - In 1997, Kendle signed another "Acknowledgment of Trust" declaring that he held half of the Rachel Street property on trust for Mrs Byrnes.
+    - The property was let to Kendle’s son, who paid little or no rent.
+    - Mrs Byrnes and then her son (Byrnes) claimed breach of trust for failure to recover rent.
+  - Issue Raised:
+    - Did the 1997 Acknowledgment of Trust create a valid trust?
+    - Was Kendle under a duty, as trustee, to let the property and obtain income?
+    - Did he breach that duty?
+    - Was Mrs Byrnes (or Byrnes) estopped or disentitled from claiming breach due to acquiescence or waiver?
+  - Law(s)/Statute(s) in Contention:
+    - Trustee Act 1936 (SA) s 6 (trustee investment powers)
+    - General principles of express trusts: "three certainties" (certainty of intention, subject matter, and objects)
+  - Precedents:
+    - Kauter v Hilton (1953) 90 CLR 86 – three certainties in trust formation
+    - Commissioner of Stamp Duties (Qld) v Jolliffe (1920) 28 CLR 178 – subjective vs objective intention in trust formation (Isaacs J dissent preferred)
+    - Orr v Ford (1989) 167 CLR 316 – acquiescence in equity
+    - Nelson v Nelson (1995) 184 CLR 538 – illegality and equitable defences
+  - Tests:
+    - Whether the settlor's objective words and conduct demonstrated an intention to create a trust.
+    - Whether a trustee has an implied duty to let income-generating property if the trust instrument is silent.
+    - Whether conduct amounted to waiver, consent, acquiescence, or estoppel.
+  - Words and Phrases Considered:
+    - “Intention to create a trust” – must be objectively ascertained from language used, not from subjective intent.
+    - “Bare trustee” – does not mean absence of duty where a trust relationship exists with lettable assets.
+    - “Investment” – includes letting property for rent (Trustee Act s 6(a)).
+  - Arguments by Party:
+    - Appellants (Byrnes):
+      - The 1997 Acknowledgment clearly established a trust.
+      - Kendle had a duty to collect rent once he vacated the property.
+      - His failure to evict the son or collect rent constituted a breach of trust.
+    - Respondent (Kendle):
+      - Denied trust existed; claimed the arrangement was informal or domestic.
+      - Claimed no legal duty to collect rent or evict son.
+      - Argued Byrnes and Mrs Byrnes had acquiesced or waived their rights.
+  - Judicial Opinions:
+    - French CJ, Gummow, Hayne, Heydon, and Crennan JJ (majority):
+      - Affirmed that trust formation is based on objective intention, citing Conaglen and rejecting the majority view in Jolliffe in favour of Isaacs J’s dissent.
+      - Held that even if the trust instrument was silent, trustees are subject to default duties, including a duty to invest trust property productively.
+      - Letting the property was required unless restricted by the trust instrument or statute (which it was not).
+      - Found that there was no valid acquiescence, consent, or waiver by Mrs Byrnes.
+  - Legal Reasoning:
+    - The 1997 Acknowledgment used clear trust language.
+    - Objective interpretation of the document confirms trust creation.
+    - Trustees have an implied duty to act prudently and obtain income from trust assets.
+    - There was no sufficient evidence that Mrs Byrnes knew of the breaches or had consented.
+    - Equity does not permit a trustee to escape liability based on informal understandings or beneficiary inaction unless full knowledge and waiver are proven.
+  - Ratio Decidendi:
+    - A trust is validly created when the objective language and conduct demonstrate an intention to create a trust—subjective intention is irrelevant unless there's a challenge (e.g., mistake, sham, misrepresentation).
+    - Trustees have a duty to preserve and enhance trust property, including an obligation to let property capable of earning income unless law or instrument restricts that.
+    - Defences like acquiescence, waiver, or estoppel must meet strict evidentiary thresholds, including full knowledge and deliberate conduct by the beneficiary.
+  - Result:
+    - High Court reinstated the trial judge’s findings:
+      - The trust existed.
+      - Kendle breached his duty by failing to let the property and collect rent.
+      - Byrnes was entitled to half the net income the trustee ought to have secured ($11,193.70).
+      - Costs awarded to appellants; Full Court's cost order overturned.
+  - Relevance to Modern Law:
+    - Confirms the primacy of objective intention in trust formation under Australian law.
+    - Clarifies implied duties of trustees (even bare trustees) where income-generating property is involved.
+    - Strengthens Isaacs J’s dissent in Jolliffe as the preferred approach in Australian trust law.
+    - Useful authority on defence
+## Week 9: Resulting Trusts
+
+- Overview and Presumed Resulting Trusts
+  - Nature of the Presumed Resulting Trust
+    - A resulting trust is an inference that allocates the onus of proof
+      - A resulting trust is an inference drawn from facts in the absence of contrary evidence of intention. It then shifts the burden of proof to the other party (the titleholder) to rebut the presumption and demonstrate that they were intended to hold it beneficially - “a convenient starting point.” (Cossey v Bach [1992] 3 NSZSLR 612, 630 (Fisher J))
+    - Bosanac v Commissioner of Taxation [2022] HCA
+      - “[105] The presumption of resulting trust – the standardised inference that allocates the onus of proof – serves the same function as a civil onus of proof and operates to resolve a factual contest when the relevant evidence is "uninformative or truly equivocal". It arises if there be a paucity of evidence as to an intention to declare a trust[139]. ...
+      - [106] As a resulting trust is an inference drawn in the absence of evidence, it is necessary to start with the objective facts. It is a factual inquiry. The question may be framed in these terms: what were the parties' words or conduct at the time of the transaction or so immediately thereafter as to constitute part of the transaction – the objective facts?
+  - Types of resulting trusts
+    - There are two broad classes of resulting trust:
+      - 1. Presumed Resulting Trusts from voluntary transfers of property to another, or purchases of property in the name of another: it is is presumed that the transferor had no intention that the beneficial interest in the property transferred to another would be with the legal title. The presumption that the title holder holds the beneficial interest for the transferor arises by operation of law but can be rebutted, or precluded from arising in some circumstances. Two sub-types of presumed resulting trust:
+        - a) Purchase Money resulting trust: where A provides the purchase money (or part) for property purchased from C and transferred into the name of B (or in joint names of A and B).
+        - b) Voluntary transfer resulting trust: where A transfers legal title in its own property to B for no consideration.
+      - 2. Automatic Resulting Trusts: arise upon either the failure of an express trust to completely dispose of the property of the trust in accordance with the trust, or failure in the constitution of the trust, so that the trustee holds the property on trust for the settlor.
+  - History and Nature of the Resulting Trust
+    - Long history of use
+      - Bosanac v Commissioner of Taxation [2022] HCS 34 (Gordon and Edelman JJ):
+        - “[96] For present purposes, it is enough to recognise that the so‑called presumption of resulting trust developed in feudal times as a way to circumvent forfeiture (because land could only be left to heirs and not by will and if there was no heir it was forfeited ("escheated") to the feudal lord) and to deal with the vicissitudes of war. Between the 15th and 17th centuries a practice developed whereby owners of land conveyed ("feoffed") their land gratuitously to others to the "use" of themselves; these were called "feoffments to the use of the feoffor" – or a "declaration of use". In these conveyances it was not usual to include words of trust or "use" on the face of the conveyance; but the practice was so common that courts of equity began to apply a "presumption" of declaration of use or, as we now refer to it, a "presumption of resulting trust".
+  - Features of a resulting trust
+    - A resulting trust arises at the time of the transaction: DKLR Holding Co (No 2) Pty Ltd v Commissioner of Stamp Duties (NSW) (1982) 149 CLR 431, 463-4 (Aickin J). Accordingly:
+      - The beneficial interest in the property dates from the date of creation (for the purposes of a priority dispute)
+      - Evidence of actual intention subsequent to the trust arising cannot rebut the presumption of intention at the time of creation of the trust;
+      - They are regarded by law as “institutional” – not granted by way of remedy.
+      - The equitable beneficial interest in the property held on resulting trust is a new interest: no equitable interest exists prior to transfer. See Anderson v McPherson (no 2) [2012] WASC 19 per Edelman J.
+      - No writing requirements - recall that Conveyancing Act 1919 (NSW) s 23C(2) provides an exemption from writing requirements for implied, resulting and constructive trusts.
+  - Presumed Resulting Trusts: Purchase in the name of another
+    - Focus on the direct financial contributions – in whole or in part – to the purchase price and incidental costs of purchase.
+    - “Where a person purchases property in the name of another, or in the name of himself and another jointly, the question whether the other person, who provided none of the purchase money, acquires a beneficial interest in the property depends on the intention of the purchaser. 
+    - However, in such a case, unless there is such a relationship between the purchaser and the other person as gives rise to a presumption of advancement, i.e., a presumption that the purchaser intended to give the other a beneficial interest, it is presumed that the purchaser did not intend the other person to take beneficially. In the absence of evidence to rebut that presumption, there arises a resulting trust in favour of the purchaser. Similarly, if the purchase money is provided by two or more persons jointly, and the property is put into the name of one only, there is, in the absence of any such relationship, presumed to be a resulting trust in favour of the other or others.” Calverley v Green (1984) 155 CLR 242, 246 (Gibbs CJ)
+    - Joint purchase of property where title placed in joint names
+    - Calverley v Green (1984) 155 CLR 242
+      - In this case a de facto couple purchased a house in Baulkham Hills as joint tenants (ie property held equally with a right of survivorship so that if one party dies, the property goes to the other). Mr Calverley paid the deposit of $9000 from the sale of his Mt Pritchard property, plus a further $250 = $9250.
+      - Mr Calverley and Ms Green entered into a mortgage for the balance of $18k secured over the property for the balance in joint names. Mr Calverley make all loan repayments.
+      - Upon the breakdown of the relationship, Ms Green sought an order for sale of the house and distribution of the proceeds between them; Mr Calverley cross claimed that Ms Green held her interest on trust for him and sought an order that she transfer her interest to him.
+      - Held: a resulting trust arose in proportions representing contributions to the purchase price of $9250 by Mr Calverley and equal contributions to the balance. It was remitted back to the Supreme Court to determine if any adjustment appropriate in respect of an entitlement to account for mortgage payments in excess of the liability.
+        - “... the evidence negatives an intention on the part of the [male] appellant to confer a beneficial interest on the [female] respondent and it does not reveal that the respondent had an actual intention that the land should be held beneficially by the appellant in any greater proportion than that in which he had  contributed to the purchase price. The appellant may have had an actual intention that he should be beneficially entitled to the whole of the property, but his intention can only affect the question whether a resulting trust arises. In so far as no resulting trust arose in the appellant's favour, a trust could arise in respect of the legal interest of the respondent only if she intended that the appellant should have a beneficial interest greater than that to which the resulting trust entitled him. The result in my opinion is that the evidence is sufficient to rebut a presumption of advancement, but not sufficient to rebut the presumption of a resulting trust.
+        - The extent of the beneficial interests of the respective parties must be determined at the time when the property was purchased and the trust created. 
+        - The fact that the mortgage debt was repaid by the appellant is therefore not relevant in determining the extent of the interests of the parties in the land, although it may be relevant on an equitable accounting between the parties.”
+        - (Gibbs CJ)
+  - What constitutes payment towards “purchase”?
+    - It only applies to financial contributions towards the purchase of the property - includes stamp duty, legal costs etc.
+    - It also recognises the liability under a mortgage to purchase the home: Calverley v Green.
+    - It does not recognise actual repayments of the mortgage instalments as contributions to purchase, although where a resulting trust is found.
+  - Presumption of Advancement
+    - In some circumstances where a resulting trust might otherwise be presumed, equity presumes that the transfer of property or the provision of purchase money is intended to result in the transferee taking legal title without any beneficial interest held for another. The transferee acquires the full bundle of rights of ownership. This is known as the ‘presumption of advancement.’
+    - It derives historically from relationships under which one person was recognised to be under “a natural obligation to provide for” the other: Murless v Franklin (1818) 1 Swan 13; 36 ER 278 (Lord Eldon LC), or where it is presumed that the transferor would want to advance the station in life of the transferee.
+    - In Wirth v Wirth (1956) 98 CLR 228, Dixon CJ stated at 237 that the justification for this presumption was found in ‘the greater prima facie probability of a beneficial interest being intended in the situations to which the presumption has been applied.”
+    - These circumstances are limited: Husband to wife (but NOT wife to husband, NOT same sex couples, NOT de facto couples); parent (or person in loco parentis) to child; male fiancée to female fiancée. 
+    - The presumption of advancement can be rebutted with evidence.
+    - Although described as a “presumption” the better view under Australian law as discussed by Edelman J in Anderson v McPherson (No 2) is that the presumption is not a true presumption but rather, a set of circumstances in which the presumption of a resulting trust does not arise.
+    - In Wirth v Wirth (1956) 98 CLR 228 at 237, Dixon CJ quoted from Sir William Page in Soar v Foster (1858) 4 K&J 152; 70 ER 64, that the effect of the presumption of advancement is ‘to preclude a resulting trust from arising for the purchaser.’
+    - It continues to be part of Australian law although in Bosanac v Commissioner of Taxation [2022] HCS 34, the High Court accepted that the presumption is now a “weak” one.
+  - Bosanac v Commissioner of Taxation [2022] HCA 34, 275 CLR 37
+    - Procedural History:
+      - Appeal to the High Court from the Full Court of the Federal Court. The Commissioner of Taxation sought a declaration that Mr Bosanac held a beneficial interest under a resulting trust in a residential property registered solely in Ms Bosanac's name. The primary judge dismissed the Commissioner’s claim. The Full Court reversed that decision, but the High Court allowed the appeal, reinstating the primary judge's decision.
+    - Original Dispute:
+      - Whether Mr Bosanac, who jointly borrowed money for the purchase of the Dalkeith property held in Ms Bosanac's sole name, had a 50% beneficial interest under a resulting trust.
+    - Material Facts:
+      - Ms and Mr Bosanac married in 1998 and separated in 2012 or 2013.
+      - In 2006, Ms Bosanac contracted to purchase the Dalkeith property for $4.5 million.
+      - The $250,000 deposit was paid from a joint loan account; the remainder was funded through joint borrowings totalling $4.5 million.
+      - Title was registered solely in Ms Bosanac’s name.
+      - The Dalkeith property was used as their matrimonial home.
+      - In 2015, Mr Bosanac moved out of the Dalkeith property.
+      - During their marriage, they acquired significant assets held in their respective individual names.
+      - Mr Bosanac failed to lodge tax returns from 2006–2013 and was later ordered to pay over $9 million in tax debt.
+      - He was declared bankrupt, prompting the Commissioner to pursue equitable claims to enforce against his interests.
+      - As Mr Bosanac was not a registered proprietor, the Commissioner sought a declaration of resulting trust over 50% of the Dalkeith property.
+    - Issue Raised:
+      - Whether the objective circumstances gave rise to a resulting trust in favour of Mr Bosanac, or whether the presumption of advancement rebutted such a trust.
+    - Law(s)/Statute(s) in Contention:
+      - Presumption of resulting trust
+      - Presumption of advancement
+      - Property Law Act 1969 (WA), s 34
+    - Precedents:
+      - Calverley v Green (1984) 155 CLR 242
+      - Nelson v Nelson (1995) 184 CLR 538
+      - Trustees of the Property of Cummins v Cummins (2006) 227 CLR 278
+      - Martin v Martin (1959) 110 CLR 297
+    - Tests:
+      - Whether there was an objective intention to create a trust.
+      - Whether the presumption of advancement applied or was rebutted.
+    - Words and Phrases Considered:
+      - "beneficial interest in property", "presumption of resulting trust", "presumption of advancement", "objective intention to create a trust", "sophisticated businessman"
+    - Arguments by Party
+      - Commissioner of Taxation: Argued that Mr Bosanac did not intend to gift his contributions to Ms Bosanac and that a resulting trust arose. Submitted that the presumption of advancement is outdated, discriminatory, and should be abolished, relying on Cummins.
+      - Ms Bosanac: Denied that a resulting trust arose and asserted that any inference of joint beneficial ownership was rebutted by the presumption of advancement. Emphasised the couple’s consistent history of separate ownership.
+    - Judicial Opinions:
+      - Kiefel CJ & Gleeson J: Reaffirmed that both presumptions are “entrenched landmarks” in Australian property law (*Nelson v Nelson*) but recognised their evidentiary weakness. Found the presumption of advancement was not rebutted and that no intention to create a trust was evident ([30]–[31]).
+      - Gageler J: Agreed with the majority. Noted Mr Bosanac’s status as a "sophisticated businessman" who understood the legal implications of property title, and inferred that he intended the property to be Ms Bosanac’s asset ([72]).
+      - Gordon & Edelman JJ: Concluded that the objective facts were inconsistent with the creation of a trust. Held that the presumption of resulting trust did not arise at all ([121]).
+    - Legal Reasoning:
+      - The High Court emphasised that the creation of a resulting trust turns on the parties' objective intention at the time of acquisition. In this case, the history of separate asset ownership, the lack of any express trust, and the fact that Ms Bosanac was the sole contracting and registered party all pointed to an intention that she be the sole owner. The Court refused to abolish the presumption of advancement and reaffirmed its continuing, albeit limited, role in Australian equity.
+    - Ratio Decidendi:
+      - A resulting trust will not arise where objective evidence establishes no intention to create a trust. The presumption of advancement remains part of Australian law, though it is weak and readily rebutted. Legal title and intention must be evaluated based on all relevant facts.
+    - Result:
+      - Appeal allowed
+        - Orders of the Full Court set aside. The High Court reinstated the Federal Court’s decision dismissing the Commissioner’s application.
+    - Relevance to Modern Law
+      - Reaffirms the relevance and evidentiary frailty of the presumption of advancement.
+      - Clarifies that equitable presumptions yield to clear evidence of contrary intention.
+      - Demonstrates the High Court’s reluctance to reform long-standing doctrines without legislative intervention.
+      - Strengthens the position that financial facilitation by a spouse does not, without more, give rise to a beneficial interest.
+  - In Kite (Trustee), in the matter of Murray (a Bankrupt) v Murray [2023] FCA 198 (Raper J) observed at [221]:
+    - “What is very clear from the High Court’s reasoning [in Bosanac] is that, despite the continued recognition of these presumptions, they may not carry much weight given the numerous ways spouses now deal with property such that inferences contrary to the presumptions may be readily drawn: Bosanac at [31] (per Kiefel CJ and Gleeson J). Such presumptions are weak presumptions, able to be rebutted by slight evidence: Bosanac at [22] (per Kiefel CJ and Gleeson J) and [102]–[110] (per Gordon and Edelman JJ).”
+  - Presumed resulting trusts – presumption of advancement
+    - Joint purchase of property where title placed in joint names
+      - Anderson v McPherson (No 2) [2012] WASC 19
+      - Mr and Mrs Anderson contributed the majority of the purchase price of a property put into their names (as joint tenants for half a share) and the names of their son Troy and his wife Stephannie (as joint tenants for the other half share).
+      - The agreement was that Troy and his wife would make the mortgage repayments and costs attributable to a granny flat for the parents to live in on the property. When Troy and his wife separated, the parents claimed that the share held by Troy and Stephannie as joint tenants was held on resulting trust for them. Stephannie argued that a presumption of advancement arose in her favour.
+      - Held: the share placed in the name of T&S defeated the presumption of a resulting trust, but no presumption of advancement arose towards S as daughter-in-law
+  - Presumed resulting trusts – rebutting presumption
+    - Anderson v McPherson (No 2) [2012] WASC 19 contd
+      - Held: the share placed in the name of Troy and Stephannie was by way of advancement which defeated the presumption of a resulting trust.
+      - “[157] There are six reasons why the presumption of resulting trust has been rebutted in this case. Most of these reasons, on their own, would be sufficient to show that Bruce and Carol intended that Troy and Stephannie should enjoy the full benefit of their legal title to Anstey Road and to rebut the presumption that Troy and Stephannie held their legal title to the Anstey Road property on resulting trust for Bruce and Carol in proportion to the latter's contribution. In combination, these six reasons mean that the conclusion that no resulting trust was intended is irresistible.”
+    - Court’s Analysis of Evidence
+      - Court’s Analysis of Evidence
+        - 1. The CT to the Anstey Road property recorded that title to was held as tenants in common with T$S (as joint tenants of one half share – this agreement to include them on the CT contrased with the manner in which title to another ppty was held.
+        - 2. B's evidence concerning the circumstances in which the shares in the Anstey Road property had been agreed – discussion with RE agent.
+        - 3. Court accepted S's evidence that prior to signing, effect of discussions with parents was reasonably construed by her as meaning that they were all together purchasing the Anstey Road property - B had told S&T that they would be tenants in Baal Street but that his expectation was that eventually Baal Street would be sold so that (1) B&C could set themselves up for retirement, and (2) S&T could buy their own house;
+        - 4. Nature of relationship – even though no finding of presumption of advancement;
+        - 5. The manner in which the agreement carefully divided all the responsibilities concerning the Anstey Road property was much more consistent with an intention that T & S should hold their title for their own benefit than with an intention that they should hold the title for the benefit of B&C.
+        - 6. the parties agreed that Troy and Stephannie would be responsible for the repayment of the ANZ bank loan (distinguished from other property.)
+    - Trustees of the Property of Cummins v Cummins (2006) 227 CLR 278
+      - A married couple bought their home as joint tenants, making unequal contributions to the purchase: Mrs Cummins 76%/ Mr Cummins 24%.
+      - Mr Cummins was made bankrupt by the Tax Office for failure to pay taxes. Mrs Cummins claimed that the home was held on a resulting trust to her as to 76% of the purchase price.
+      - Held: presumption of resulting trust rebutted by the facts and each held an equal 50% share Held that Mrs C had a 50% equitable interest in the house – which meant that Mr C also had a 50% equitable interest available for his creditors and TT in bankruptcy.
+    - Trustees of the Property of Cummins v Cummins (2006) 227 CLR 278
+      - The court focused up the facts that:
+        - Mr and Mrs C were married. Pattern of accident who actually pays for which expenses.
+        - Within a close personal relationship the division of who contributes to the purchase price can be arbitrary
+        - There may be other quid pro quo – e.g. payment of other relationship expenses, which are not purchase price.
+        - The property was a family home not an investment property. The equitable interests would have reflected their actual financial contributions had it been an investment property.
+        - Title taken as joint tenants not tenants in common. Joint tenants are notionally one person in law, which supported the conclusion of equal sharing of beneficial title (also if registered title had been in name of only one spouse).
+    - The presumed resulting trust is no more than a presumption of law which can be rebutted by evidence of a contrary intention by the person supplying the purchase money (or portion thereof).
+    - For example, there may be evidence that the party supplying the purchase money intended to make a gift, or a loan.
+      - Eg Russell v Scott (1936) 55 CLR 440:
+        - Katie Russell opened a bank account in 1932 in joint names of her and her nephew, Percy Russell who was her carer. Her stated purpose was that “Percy would look after her, pay her accounts and any money remaining in that bank would be Percy’s.”
+        - All the money had been supplied by Katie Russell. Percy had another account with a small balance in it in his name only, the funds having come from the joint account.
+        - On her death her beneficiaries under her will claimed the money in the accounts.
+      - HELD: the presumption of resulting trust was rebutted and Percy was entitled to the full ownership of the accounts
+    - Zhang v Metcalf [2020] NSWCA 228	
+      - Ms Zhang and Mr Metcalf were de facto partners. They purchased as tenants in common a factory unit in Alexandria for Mr Metcalf’s business premises for a total acquisition cost of $259,600. They entered into a deed recording their intention to hold the property beneficially in equal shares. 
+      - An apartment in Waterloo (Waterloo property) was purchased as joint tenants “off the plan” for a total acquisition cost of $186,000.
+      - HELD: the presumption of resulting trust in relation to the Alexandria property in the proportion of their contributions to the purchase price was rebutted by direct evidence of their actual intentions to hold the property in equal shares.
+      - The presumption of a resulting trust in relation to the Waterloo property was not rebutted by conduct asserted by Mr Metcalf after its purchase to have altered the parties’ presumed intentions based on their pro-rata contributions to its acquisition cost
+    - Buffrey v Buffrey (2006) 12 BPR 23,619
+      - Mr B received compensation as a result of a workplace injury and bought an investment property paying the majority of the purchase price withthe payout, and the remainder with a mortgage in the names of himself and his wife such that their contributions were 87% (Mr B)/ 13% (Mrs B).
+      - In 2004 Mrs Buffrey was accused by her former employer ORIX of having defrauded it of a large sum of money. ORIX commenced proceedings against her to recover the money and obtained an asset freezing order over their properties, including the Kingsford property. It claimed a right to enforce its judgment against Mrs Buffrey’s assets.
+      - Mr Buffrey sought a declaration that Mrs Buffrey held her interest in the Kingsford property upon resulting trust for him.
+      - the principles per Palmer J at [14]:
+        - (1) one begins with the presumption that the equitable title to the property is at home with the legal title but that presumption, like all evidentiary presumptions, gives way to facts showing the contrary;
+        - (2) where property is held in joint names but the joint tenants have not contributed equally to the cost of acquisition, it is a presumption of equity, not lightly displaced, that the beneficial interests in the property are to be held between the parties upon a resulting trust in proportion to their respective contributions to the acquisition cost;
+        - (3) the presumption of resulting trust may be rebutted by showing that there is a relationship between the parties giving rise to the presumption of advancement so that the party who has contributed less or nothing to the acquisition cost is nevertheless to have an interest in accordance with the legal title;
+        - (4) if a presumption of resulting trust or a presumption of advancement arises where one party has contributed the whole of the acquisition cost of the property but the title to the property is placed in the name of another party:
+          - a) whether either presumption is rebutted depends upon the intention solely of the party who provided the money because the question is whether that person intended to make a gift of an interest in the property to the person who did not contribute to its acquisition;
+          - b) evidence by the person making the payment as to his or her intentions at the time of the transaction is admissible but the Court will treat that evidence with caution as the evidence of an interested party; 
+          - c) the Court is more assisted in determining the subjective intention of the person making the payment by evidence of that person’s contemporaneous statements of intention, subsequent admissions against interest, subsequent dealings with the property, and by evidence of other relevant surrounding circumstances;
+        - (5) If the presumption of advancement arises where joint tenants have made unequal contributions to the acquisition cost:
+          - a) whether the presumption is rebutted depends upon the intention solely of the party who provided the larger contribution because the question is whether that person intended to make a gift conferring equality of interest in the property on a person who did not contribute equally to its acquisition;
+          - b) evidence as to the intention of the person making the larger contribution is admissible and assessed in the same way as in the case where one party has provided the whole of the acquisition cost;
+        - (6) if the presumption of resulting trust arises where the joint tenants have made unequal contributions to the acquisition cost:
+          - a) the presumption may be rebutted by evidence showing that the common intention of the parties at the time of acquisition was for equality of interests despite inequality of contributions;
+          - b) evidence of the subjective and uncommunicated intention of one of the parties is inadmissible as going to prove the common intention;
+          - c) the common intention of the parties may be ascertained from the evidence as to their contemporaneous communicated statements of intention, subsequent admissions against interest, subsequent mutual dealings with the property, and from evidence as to other relevant surrounding circumstances;
+        - (7) for the purposes of the presumptions of both of resulting trust and of advancement:
+          - a) the acquisition cost of property includes the costs, fees and disbursements incidental to its acquisition;
+          - b) a party contributes to acquisition cost by borrowing funds necessary to make up the acquisition cost, whether or not that party subsequently contributes to payment of principal and interest due on the borrowing;
+          - c) parties borrowing jointly in order to make up the acquisition cost are treated as having contributed the borrowed capital in equal shares;
+          - d) a party who does not borrow funds to make up the acquisition cost but who subsequently pays, or contributes to payment of, principal and interest on such a borrowing does not, by that fact alone, make a contribution to acquisition cost.
+        - HELD: A resulting trust arose by reason of their unequal contributions, 87.24% from Mr Buffrey and 12.76% from Mrs Buffrey. This presumption was not rebutted in light of:
+          - Mr Buffrey’s evidence that the lender would not lend to him alone as he was unemployed;
+          - All the equity came from his damages payout;
+          - The parties kept separate finances;
+          - The accounting arrangements for tax purposes by his accountant were not sufficient to rebut the resulting trust.
+          - Presumption of advancement was rebutted by Mr Buffrey’s evidence he did not intend to benefit his wife – this was his investment; she had her superannuation.
+  - Presumed Resulting Trust – voluntary transfer
+    - Different questions arise where A voluntarily transfers property to which A holds title to B, or into their joint names, for which B gives no consideration.
+    - In relation to land, in NSW, s 44 of the Conveyancing Act 1919 (NSW) provides that no use shall be held to result merely from the absence of consideration in a conveyance of land as to which no uses or trusts are therein declared and that every limitation which may be made by way of use operating under the Statute of Uses or the Act may be made by direct conveyance without the intervention of uses.
+    - It has been held that this provision prevents the implication of a resulting trust in relation to a voluntary conveyance of Torrens land: Newcastle City Council v Kern Land Pty Ltd (1997) 42 NSWLR 273, 280-1.
+    - In relation to personalty, the view of the authors of Jacobs is that there is no reason in principle why the resulting trust should apply to voluntary transfers of personalty if not to land. (Jacobs Law of Trusts in Australia (8th ed) at 226, [12-21].
+  - Effect of Illegality on relying on a resulting trust
+    - A question arises as to whether the presumption of a resulting trust applies where A transfers property to B as the legal owner to give effect to an illegal purpose (ie so that the property is not recorded as being in the name of A.)
+    - If the illegal purpose has not been carried out, the presumption will still arise.
+    - If the illegal purpose has been carried out, the claim by A to an equitable interest under a resulting trust will depend upon whether it would be contrary to the policy of the law that has been breached to permit the interest to be recognized.
+    - In other words, equity does not reject the resulting trust from its own doctrines; rather it examines the policy of the law which makes the conduct illegal
+  - Effect of Illegality - Nelson v Nelson (1995) 184 CLR 538
+    - Facts: Mrs Nelson wanted to obtain a Defence Services Homes Act Loan which was a loan with a lower interest rate than that available on the open market. She would be ineligible for this program if she were already a homeowner. To avoid this, Mrs Nelson purchased a home, but registered the title of the property in the names of her children: Elizabeth and Peter. Mrs Nelson subsequently applied for the loan to purchase a second house and falsely declared that she had no financial interest in any real property. The first house was then sold and Mrs Nelson wanted to claim the proceeds from the sale. Elizabeth sought a declaration that her mother held the proceeds on resulting trust for her.
+    - HELD: Mrs Nelson intended that she herself should benefit from the purchase of the first home, despite putting the title into the names of her children. Mrs Nelson’s provision of the purchase money therefore supported a presumption of resulting trust in favour of Mrs Nelson. The court unanimously held that the recognition of the resulting trust was not inconsistent with the policy of the statute (providing she repaid the loan).
+    - “Accordingly, in my opinion, even if a case does not come within one of the four exceptions to the Holman dictum to which I have referred, courts should not refuse to enforce legal or equitable rights simply because they arose out of or were associated with an unlawful purpose unless:
+    - (a) the statute discloses an intention that those rights should be unenforceable in all circumstances; or
+    - (b) 
+      - (i) the sanction of refusing to enforce those rights is not disproportionate to the seriousness of the unlawful conduct;
+      - (ii) the imposition of the sanction is necessary, having regard to the terms of the statute, to protect its objects or policies; and
+      - (iii) the statute does not disclose an intention that the sanctions and remedies contained in the statute are to be the only legal consequences of a breach of the statute or the frustration of its policies”
+  - Conclusion: what is the future of resulting trusts?
+    - In Dullow v Dullow (1985) 3 NSWLR 531, 535-536 Hope JA observed:
+      - “It seems ridiculous that troubles in England at the end of the Middle Ages should be the basis, in the late twentieth century, for making findings of fact, for that is what the presumption essentially involves. Without this background, one would have thought that there could have developed principles which assumed that when land was transferred into the name of a person, whether with or without consideration, and no matter where the consideration came from, that person was presumed to hold both legal and beneficial ownership. This could be disproved and it could be shown that the intention of the person causing the land to be transferred was to have the beneficial ownership.....
+      - However, ... the presumptions are so entrenched that they cannot be discarded by judicial decision. Their reform, which seems to me to be overdue, is a matter for the legislature.”
+    - Yet as confirmed in Bosanac, these presumptions remain part of our law, albeit “weak” presumptions that are readily rebutted by evidence.
+  - Conclusion
+    - Too late to abolish it, but a Weak presumption
+      - Bosanac v Commissioner of Taxation [2022] HCS 34 (Gordon and Edelman JJ):
+        - “[97] As Deane J explained in Calverley v Green, the presumption of resulting trust "evolved in times when a majority of adults laboured under restrictions and disabilities in respect of the ownership and protection of property and when it may have been wrong to assume that the fact that property was caused to be transferred into the legal ownership of a person without any express qualifying limitation was a prima facie indication of an intention that [they] should own it". But as his Honour acknowledged, "[e]ven in those times however, there was much to be said for the view that, except where [it] served the same function as a civil onus of proof and operated to resolve a factual contest in circumstances where the relevant evidence was either uninformative or truly equivocal, the worth of [the] presumption[] was at best debatable".
+        - [98] That statement applies with greater force today. In modern times, the presumption has been applied to personalty as well as realty. Acknowledging that it is too late to abolish it, the presumption of resulting trust should be recognised as a weak presumption given that the circumstances justifying it have changed so much since the foundations of the presumption in the 15th century.”
+- Automatic Resulting Trusts
+  - Imposed by law in two circumstances . . .
+    - Automatic resulting trusts – when an attempt to create an express trust fails, or an attempted disposition of the beneficial interest in property fails, we say that the beneficial interest in the property ‘results back’ to the donor. (The person holding legal title holds on resulting trust for the donor.)
+    - Presumed resulting trusts – when a person contributes to the purchase price of property without acquiring an equivalent legal interest in the property, it is presumed that the contributing party intends to hold an interest in the property in equity. The presumption may be rebutted. And there is no presumption in certain relationships where there is a ‘presumption of advancement’.
+  - Arise when the beneficial interest in property has not been effectively disposed of, even though legal title to property has passed.
+  - Automatic Resulting Trust examples
+    - For example:
+      - if the trust does not comply with requirements for certainty of objects for a class of beneficiaries;
+      - Where the reason for creating the trust no longer exists or where moneys settled on trust for a purpose that is fulfilled leaving a residuary fund with no instructions for how it is to be dealt with;
+      - Where for some reason, property settled on express trust cannot be disposed of;
+      - Where the beneficiary dies before the settlor;
+      - Absence of intention to make a disposition (ie where contract or gift is voidable for unconscionable conduct)
+      - Also been suggested that a recipient of stolen money from a thief holds it on resulting trust for the victim of the theft.
+    - The trustee generally then holds the property on resulting trust for the settlor, or if deceased for the beneficiaries under their will, and if there is no will, for the persons who are entitled in intestacy. This is not a presumption; it follows upon proof of the failure of the trust unless the trust otherwise provides.
+  - Re the Trusts of the Abbott Fund [1900] 2 Ch 326
+    - A testator left a fund for the maintenance of two relatives who were elderly deaf women.
+    - Funds were kept in a separate account ‘The Abbott Fund’.
+    - A list was maintained of subscribers.
+    - However the fund was exhausted and monies were raised by subscription for their ongoing care.
+    - At the time of the death of the survivor there was money remaining.
+    - HELD: that it had to be returned to the subscribers and was held on resulting trust for them. The Court accepted that the donors had not intended their contributions to pass to the estates of the two women. 
+    - The resulting trust responded to that absence of intention to benefit the estates of the two women.
+    - NOTE: there will be no resulting trust where the original trust was a charitable trust and a general charitable intention is found by the court. Then the court will determine an object as near as possible to the original intention by way of cy-pres scheme.
+  - Vandervell v IRC [1967] 2 AC 291
+    - V wants to give money to the Royal College of Surgeons in the most tax effective way possible.
+    - So he transfers a parcel of shares to the RCS, just ahead of a large dividend payment, but on terms requiring the RCS to agree to give an option to repurchase the shares to a trustee company associated with V.
+    - The dividends are paid to the RCS, but the IRC still levies tax on the dividends as property of V.
+    - Why? Because V had not ‘absolutely’ divested himself of the property.
+    - V had failed to identify beneficiaries of the trust over the option. Since the trustee company did not take the option for its own benefit, the beneficial ownership of the option resulted to V as the settlor of the trust.
+  - Re Gillingham Bus Disaster Fund [1958] Ch 300
+    - Memorial fund raised from donations to defray funeral costs and assisted disabled bus crash victims.
+    - What should happen to the surplus? (Crown claimed it as ‘bona vacantia’ – money without an owner.)
+    - Held: Donors had not been shown to have given the money ‘out-and-out’ – so the surplus resulted to the donors. ‘There must be an inquiry for the subscribers to this fund.’
+  - Air Jamaica Ltd v Charlton [1999] 1 WLR 1399
+    - FACTS: 
+      - The airline’s superannuation scheme (or pension scheme as they are known in the UK) was discontinued after the airline was privatised.
+      - After the defined benefits were paid out, a $400 million surplus remained. The Privy Council held that the balance was held on resulting trust for the contributors and that so much that was attributable to the members (living and deceased) should be divided amongst them pro rata.
+    - HELD:
+      - “Prima case the surplus is held on a resulting trust for those who provided it. This sometimes creates a problem of some perplexity. In the present case, however, it does not. Contributions were payable by the members with matching contributions by the company. In the absence of any evidence that this is not what happened in practice, the surplus must be treated as provided as to one half by the company and as to one half by the members.” 
+- So-Called Quistclose Trust Arrangements
+  - Barclays Bank Ltd v Quistclose Investments Ltd [1970] AC 567
+    - Rolls Razor owed Barclays a huge sum, and Barclays had a right of set off in its accounts with RR.
+    - RR had declared a dividend to shareholders, but had no funds to pay it.
+    - Q lent money to RR for the specific purpose of paying the dividend, and paid the money into a specific purpose bank account with Barclays.
+    - RR went into liquidation before paying the dividend.
+    - FACTS:
+      - Quisclose brought an action against Rolls Razor and Barclays claiming that the money had been held by Rolls Razor on trust to pay the dividend and, that trust having failed, it was to be held on trust for Quistclose.
+      - Q claimed that the fund was held on trust for a specific purpose, and – the purpose having failed – now resulted back to Q. 
+      - Barclays sought to apply the positive balance in the dividend account to reduce the indebtedness of Rolls Razor to the bank. However, as it had notice of the trust, B could not keep the funds. 
+      - Held 
+        - that there was a trust in favour of Quistclose when it became impossible to pay the dividend. Lord Wilberforce described this as a primary trust which Rolls Razor held for the shareholders fand when this could not be carried out, a secondary trust for Quistclose. As the bank knew of the circumstances giving rise to the trust, it was bound by the trust. 
+      - Note: In a case like this, the fund must be kept separate, or the trust will fail for uncertainty of property.
+  - Twinsectra v Yardley [2002] 2 AC 164 (HL)
+    - Yardley was a property developer who required bridging finance. Twinsectra agreed to
+    - lend £1 million to Yardley. Yardley’s solicitor was Mr Leach, and Mr Sims was the
+    - solicitor for the lender. Twinsectra paid the funds to Sims, pursuant to terms of an
+    - undertaking to release only for use by Yardley. However, Sims paid funds to Leach
+    - contrary to terms of the undertaking, on being given an assurance by Yardley that the
+    - funds would be used to acquire property. Leach did not take steps to insure funds being
+    - so applied, merely released funds following Yardley’s instructions. £357,720 were used for purposes other than acquisition of property. Yardley did not repay loan and Sims went bankrupt. Yardley’s companies were in administration.
+    - HELD: 
+      - The money had been held by Sims on trust for Twinsectra subject to a power to apply it to Yardley in accordance with the assurances given, and that this trust had been breached by Sims
+    - Resulting Trust Analysis of Quistclose
+      - In Twinsectra Ltd v Yardley [2002] 2 AC 164 at [100] Lord Millett analysed this scenario as an “entirely orthodox” resulting trust from the outset, but defeasible by carrying out the duty or power of the borrower to apply the money for the agreed purpose. His Lordship reasoned that the trust arises when the lender parts with the money on terms that do not exhaust the beneficial interest, being “a default trust which fills the gap when some part of the beneficial interest is undisposed of and prevents it from being “in suspense”. (at [102]).
+  - An alternative analysis
+    - The express trust with two limbs:
+    - Money is placed by Q with RR on trust, for payment to SS, or failing that, for return to Q.
+    - But would this mean that there was an express trust for the shareholders (SS) who were owed the dividend?
+    - They were unable to claim the funds because of RR’s insolvency.
+  - Re Australian Elizabethan Theatre Trusts (1991) 30 FCR 491
+    - Gummow J considered Quistclose, in the context of a case about a donation to AETT on terms stating a preference that certain nominated organisations should be benefited.
+    - Gummow J held that Quistclose identified a ‘two limbed’ express trust – primarily for the intended recipients, and secondarily for the lender.
+    - It ought not be construed as a private purpose trust.
+    - If facts disclose no expression of a trust for primary beneficiaries, there is but one express trust for the lender, subject to a mandate to pay creditors.
+    - There is no new institution in the Quistclose trust. It is an operation of orthodox trust principles upon particular facts.
+    - Gummow J observed that ...in the House of Lords (in Quistclose), Lord Wilberforce said (supra at 580, 582) that a necessary consequence of the mutual intention of Quistclose and Rolls Razor to create arrangements which gave rise to a "primary" trust in favour of those entitled to the dividend was that if the dividend could not be paid for any reason, the money, as a "secondary" trust, was to be returned to Quistclose; the intention was clear to create the secondary trust for the benefit of the lender, to arise if the primary trust, to pay the dividend, could not be carried out.
+    - Gummow J continued: 
+      - “This characterisation of what occurred is indicative of an express trust with two limbs rather than an express trust in favour of the shareholders and a resulting trust in favour of Quistclose which arose by reason of an incomplete disposition by Quistclose of the whole of its interest in the money lent to Rolls Razor. But on either characterisation, Quistclose had a beneficial interest (although not at all relevant times an exclusive beneficial interest) in the money in question. Thus, it was not merely in the position of a lender with the benefit of a promise to repay. Nor was Quistclose a settlor who had fully settled a fund upon other parties and did so not retain for itself a beneficial interest sufficient for it to ensure performance of the trust.”
+    - In Salvo v New Tel Ltd [2005] NSWCA 281, Spigelman CJ and Young CJ in Eq preferred the analysis that an express trust is created (although Handley JA accepted the resulting trust analysis).
+  - Raulfs v Fishy Bite Pty Ltd [2012] NSWCA 135
+    - In 2006, Mrs Raulfs and Mr Ajaka entered into a partnership agreement to run a take-away fish and chip shop. Mrs Raulfs paid $400,000 by way of cash contribution to partnership in exchange for 35% of the assets of Fishy Bite and a share of profts or losses of partnership. The $400K was paid into bank account of Fishy Bite Pty Ltd. Without Mrs Raulf’s consent, Mr Ajaka used the $400,000 to reduce the debt secured over a property at Clovelly of which he and another party were the registered proprietors. 
+    - Consent orders were obtained for winding up the partnership business in October 2008. A receiver was appointed to sell the business. Mrs Raulfs claimed to be entitled to recover the $400,000 with interest on the basis that a Quistclose type trust had been established when the money was paid
+    - HELD (Campbell, Meagher, Barrett JJA)
+      - Cases will always turn on a close examination of the facts.
+      - There was no basis for inferring an objective intention that the $400,000 would be repaid to Mrs Raulfs in any circumstances [52]
+      - No requirement that the funds would be paid into a separate account - funds were paid into operating account. [61] The absence of a requirement to keep the supposed trust property separate is a powerful indication that no trust was intended.
+      - The funds were paid subject to a fiduciary obligation to be used for the purposes of the partnership, but not on trust. [62]
+    - ‘ . . . one needs to analyse an individual fact situation for the purpose of deciding whether there is an intention to create a trust, and if so on what terms. Quistclose recognises that sometimes there can be a trust whose terms are that the trust property is to be paid to particular people and if it is not paid to those people it is to be held for someone else. That is a matter arising from analysis of the facts of the particular case in accordance with well established principles for identifying when there is a trust, not because there is any separate legal institution known as a “Quistclose trust”.’ [2012] NSWCA 135, [51] (Campbell JA).
+  - Coolbrew Pty Ltd v Westpac Banking Corp [2015] NSWCA 135
+    - Coolbrew provided funds to Swift and Crane to be held in an account with Westpac as security for a loan facility.
+    - Swift became indebted to the Tax Commissioner, who claimed the Westpac deposit.
+    - Coolbrew claimed ownership of the account, on a Quistclose trust.
+    - The claim failed because the terms of the deposit clearly stipulated that Swift held the deposit ‘as beneficial owner, free of any interest of a third party’, and Coolbrew had notice of these terms. There was no evidence of any intention to create a trust for Coolbrew at the time the deposit was made.
+    - A loan for a particular purpose does not necessarily create a trust: it may merely create a debt.
+  - What do we need to know?
+    - Quistclose type arrangements can give rise to a trust over property in favour of the person who provided the funds.
+    - If this is intended, it is essential that the recipient must be required to hold the funds in a separate account. If the recipient is permitted to use the funds in their general business dealings, there can be no trust. This is just a loan given for a purpose.
+    - Loans given for specific purposes will not create trusts without evidence of an intention that the recipient of the funds must keep the funds separate, and does not acquire any beneficial interest in the funds.
+  - Young, Croft and Smith, On Equity (2009) Lawbook Co, at [6.1020]
+    - “Cases in this area will often depend on a close analysis of the facts, and in particular, whether the person who provided the money annexed a trust or equitable obligation that it was only to be used for the nominated purpose. The mutual intention of the parties ... will be important. A trust will not necessarily arise just because a lender inquires into the purpose for which a loan is sought and money is paid over for that particular purpose.”
+    - Cited with approval by Campbell JA in Raulfs v Fishy Bite at [49].
+- Calverley v Green (1984) 155 CLR 242
+  - Procedural History:
+    - At first instance, Rath J in the Supreme Court of New South Wales held that the property was put into joint names only to secure financing and that Green had no beneficial interest. On appeal, the NSW Court of Appeal held that both parties were joint beneficial owners. Calverley appealed to the High Court, which allowed the appeal in part.
+  - Original Dispute:
+    - Dispute over the beneficial ownership of property acquired in joint names during a de facto relationship where the financial contributions to the purchase were unequal.
+  - Reason for Trial:
+    - To determine whether Green held her interest in the property on trust for Calverley, and how the beneficial interests in the property should be apportioned given the circumstances of the purchase.
+  - Material Facts:
+    - Calverley and Green were in a de facto relationship for approximately 10 years.
+    - Calverley sold his house and contributed $9,000 from the proceeds toward the deposit on a new property.
+    - An $18,000 mortgage was secured in joint names. Both parties were jointly and severally liable.
+    - Title to the property was taken as joint tenants.
+    - Green made no financial contribution to the deposit or mortgage repayments.
+    - The couple separated, and Green claimed a half interest in the property.
+  - Issue Raised:
+    - Does the presumption of advancement apply in a de facto relationship?
+    - Where property is purchased in joint names with unequal financial contributions, how are beneficial interests determined?
+  - Law(s)/Statute(s) in Contention:
+    - General law principles of resulting trusts and presumption of advancement.
+    - Conveyancing Act 1919 (NSW), Pt IV Div 6 (statutory trust for sale).
+  - Precedents:
+    - Martin v Martin (1959) 110 CLR 297
+    - Wirth v Wirth (1956) 98 CLR 228
+    - Gissing v Gissing [1971] AC 886
+    - Soar v Foster (1858) 4 K & J 152
+    - Pettitt v Pettitt [1970] AC 777
+    - Napier v Public Trustee (WA) (1980) 55 ALJR 1
+  - Tests:
+    - Resulting trust test: 
+      - Whether the contributor of the purchase money intended to retain a beneficial interest.
+    - Presumption of advancement test: 
+      - Whether the relationship between the parties is such that a gift is presumed.
+  - Words and Phrases Considered:
+    - Presumption of advancement: 
+      - A presumption that a transfer was intended as a gift.
+    - Resulting trust: 
+      - A trust presumed where a person contributes to the purchase price but is not on title.
+    - De facto relationship: 
+      - A relationship akin to marriage without formal legal recognition at the time.
+  - Arguments by Party:
+    - Appellant (Calverley): 
+      - Green made no financial contribution; the title was joint solely to facilitate financing; she holds her share on resulting trust for him.
+    - Respondent (Green): 
+      - Legal title reflects beneficial ownership; she is entitled to a half interest.
+  - Judicial Opinions:
+    - Gibbs CJ, Mason, Brennan, Deane JJ (majority):
+      - No presumption of advancement in de facto relationships.
+      - Where joint names are used but contributions are unequal, equity presumes a resulting trust proportionate to contribution.
+      - Green's legal half-interest is rebutted by the lack of intent to give a beneficial interest.
+      - The mortgage loan, being joint, was treated as a joint financial contribution.
+    - Murphy J (dissent):
+      - Rejected traditional presumptions as outdated and inappropriate.
+      - Proposed that legal title should generally reflect beneficial ownership absent contrary evidence.
+      - Advocated for alignment of equity with modern social norms and statutory developments like the Family Law Act 1975 (Cth).
+  - Legal Reasoning:
+    - The High Court reaffirmed that resulting trusts apply where one party contributes more to the purchase price than another and there is no contrary intention.
+    - Presumption of advancement applies only in legally recognised relationships (e.g., husband-wife) and not de facto relationships.
+    - The court distinguished between ownership acquisition and subsequent mortgage payments, holding that only the former determines beneficial ownership unless later agreement modifies that.
+  - Ratio Decidendi:
+    - Where property is acquired in joint names but with unequal contributions, and no presumption of advancement applies, equity presumes a resulting trust arises in favour of the contributors in proportion to their contributions. The presumption of advancement does not apply to de facto relationships.
+  - Result:
+    - Appeal allowed. Matter remitted for further determination of precise contribution ratios if not agreed by the parties. Each party holds a beneficial interest proportionate to their financial contribution.
+  - Relevance to Modern Law:
+    - Calverley v Green remains a leading authority on resulting trusts, particularly in de facto property disputes.
+    - The case confirms that equity does not recognise the presumption of advancement in de facto relationships, distinguishing them from spousal relationships in property law.
+    - The reasoning continues to guide courts in cases of joint title with unequal contributions, particularly under the Torrens system where legal title may not reflect equitable interests.
+    - Precursor to legislative reform in NSW (e.g. Property (Relationships) Act 1984 and Property (Relationships) Legislation Amendment Act 1999) which extended property adjustment rights to de facto partners.
+## Week 10: Constructive Trusts
+
+- Overview and Institutional Constructive Trusts
+  - A Constructive Trust is…
+    - a type of trust that arises by operation of law in circumstances where a court determines that it would be a “fraud” in equity, or “unconscionable”, or against conscience for the holder of the right to deny the trust.
+    - Per Cardozo CJ in Beatty v Guggenheim Exploration Co (1919) 122 NE 378, 380:
+      - When property has been acquired in such circumstances that the holder of the legal title may not in good conscience retain the beneficial interest, equity converts him into a trustee.
+    - Ie defendant as the legal owner of property will be required to hold it for the benefit of the plaintiff.
+  - Here we are not discussing personal liability of a third party to a breach of fiduciary duty “as if a constructive trustee”
+    - Paragon Finance plc v DB Thakerar & Co [1999] 1 All ER 400 at 408-9
+      - “Such a person is not in fact a trustee at all, even though he may be liable to account as if he were. He never assumes the position of a trustee, and if he receives the trust property at all it is adversely to the plaintiff by an unlawful transaction which is impugned by the plaintiff.
+      - In such a case the expressions ‘constructive trust’ and ‘constructive trustee’ are misleading, for there is no trust and usually no possibility of a proprietary remedy; they are ‘nothing more than a formula for equitable relief’...” confirmed by Gageler J in Ancient Order of Foresters in Victoria v Lifeplan Australia [2018] HCA 43 at [74]
+  - Constructive Trusts - overview
+    - A trust imposed by law when it would be inequitable for the defendant to retain title to property.
+      - no writing requirements: s 23C(2) Conveyancing Act 1919 (NSW)
+      - Unlike an express trust as it does not turn on intention of a settlor to create a trust, and unlike a resulting trust which arises in the absence of intention to benefit regardless of whether it would be unconscientious for defendant to retain benefit.
+      - Distinction drawn between ‘institutional’ constructive trusts that arise from the date of the relevant conduct, and ‘remedial’ constructive trusts that are awarded by the court as a remedy, and therefore generally date from the date of judgment.
+      - Recognised in established categories, though categories not closed
+  - Institutional vs remedial constructive trusts
+    - Institutional
+      - Tend to date from conduct that give rise to the trust
+      - Not discretionary – arises by operation of law
+      - Only form recognized under English law
+    - Remedial
+      - Tends to date from date of judgment
+      - Discretionary – one of a range of potential remedies for a court to impose
+      - Recognised under Australian law
+  - Institutional Constructive Trusts
+    - an institutional constructive trust... arises by operation of law as from the date of the circumstances which give rise to it: the function of the court is merely to declare that such trust has arisen in the past’:
+    - Westdeutsche Landesbank Girozentrale v Islington London Borough Council [1996] AC 669,714 (Lord Browne-Wilkinson)
+  - 1. Common intention constructive trusts
+    - A form of constructive trust imposed to recognize that the parties had a common or mutual intention or understanding that the plaintiff will acquire an interest in the property legally owned by the defendant.
+    - Two (or three) criteria:
+      - 1. Evidence of this common intention by the parties (express evidence or inferred by court), and
+      - 2. That the plaintiff has relied to their detriment upon that understanding, in a manner referable to that intention: Shepherd v Doolan [2005] NSWSC 42, [40].
+      - 3. it would be an equitable fraud on the claimant to deny his or her interest in the property (see Imam Ali Islamic Centre v Imam Ali Islamic Centre Inc [2018] VSC 413 at [402]) 
+    - (See Allen v Snyder [1977] 2 NSWLR 685)
+      - Not imposed simply as a matter of what a court thinks is fair in the circumstances: turns on evidence of intention.
+      - Dates from date of acts of detrimental reliance; need not be financial: Green v Green (1989) 17 NSWLR 343.
+  - Allen v Snyder [1977] 2 NSWLR 685
+    - FACTS: 
+      - A man lived with a woman on and off over about 13 years during which time they had initially intended to marry but did not. They initially lived in rental accommodation. In 1966 he acquired a property at her suggestion through the War Services Homes Department, in which they lived until 1974. That scheme did not permit title to be held in the name of a de facto wife. She furnished the home and he made a will leaving it to her. In 1974 he attempted to evict the woman, who remained in the house until 1977 resisting eviction on the basis that the beneficial interest was to be shared equally between them.
+    - HELD: 
+      - Insufficient evidence on the facts of a common intention that she should have a beneficial half share of the property. No evidence that she had made a financial contribution to the purchase or improvement of the property.
+    - Procedural History:
+      - Allen sought possession of a home legally owned by him. Snyder resisted on the basis she had an equitable proprietary interest. Trial judge ordered possession to Allen. Snyder appealed.
+    - Facts:
+      - An unmarried man (Allen) and a married woman (Snyder) lived together intermittently from 1955 to 1974. They initially intended to marry once Snyder was free but did not do so. They lived in a house purchased with Allen's War Service loan, with title solely in his name. Snyder made non-financial contributions (including furnishing the home) and remained living in the house alone after separation. Snyder claimed a beneficial interest based on a common intention trust or imputed trust.
+    - Legal Issue:
+      - Whether a de facto spouse (Snyder) had an equitable proprietary interest in property solely registered in the other’s name based on common intention, contribution, or unconscionability.
+    - Decision:
+      - Appeal dismissed. Court held that Snyder did not have an equitable proprietary interest.
+    - Ratio Decidendi:
+      - A party claiming an equitable interest must establish:
+        - (1) An actually expressed common intention between the parties to share the beneficial ownership (Gissing v Gissing [1971] AC 886).
+        - (2) That it would be unconscionable for the legal owner to deny the interest (Gissing v Gissing; Pettitt v Pettitt [1970] AC 777).
+      - Mere fairness or long cohabitation is insufficient without proof of common intention and detrimental reliance.
+      - Evidence of intention must be objective and outwardly expressed, not merely subjective or inferred after the fact.
+    - Significance:
+      - Clarified the strict evidentiary standard required for de facto spouses to establish beneficial interests in property: clear evidence of common intention and significant contribution.
+      - Confirmed that mere fairness, hardship, or long cohabitation alone does not create proprietary interests.
+      - Highlighted judicial reluctance to impute common intention absent express evidence, rejecting broad discretion based on notions of fairness.
+      - Influential for later Australian cases on constructive and resulting trusts involving domestic relationships.
+    - HELD: per Glass JA:
+      - (1) The Court merely declares the rights of the parties, and has no power to vary them in accordance with considerations of fairness: Pettitt v. Pettitt ....
+      - (4) The common intention to which the Court gives effect may be expressed in such an oral agreement, or it may be inferred from the conduct of the parties: Gissing v. Gissing (15). What is enforced is an actual intention, inferred as a matter of fact: ...not an imputed intention which they never had: ..., but would have had, if they had applied their minds to it...
+      - (8) Proof of expenditure or services for the benefit of the household, or the provision of furniture, is insufficient, standing alone, to show a common intention as to the ownership of  the home: Gissing v. Gissing: ...
+      - (10) A relevant common intention may be inferred from conduct, although it has not been the subject of any express communication between the parties: Gissing v. Gissing (29).”
+  - Green v Green (1989) 17 NSWLR 343
+    - A bigamist persuaded a very young Thai woman to come to Sydney to live with him, on the promise that the house she lived in would be given to her, if she stayed.
+    - There was evidence from his solicitor of this intention.
+    - At one point, he moved her to a different house in Blakehurst, and said: ‘This house will be yours now.’
+    - The woman stayed, despite expressing a desire on several occasions to return to her family. They had two children.
+    - When Green died, his estate was required to recognize her interest in one of the houses. It was held that the house had been held on a constructive trust for them both, as joint tenants, so when he died, she acquired his interest by right of survivorship.
+  - Proving relevant intention
+    - Direct evidence – eg express agreement/ document/ proof of express statement or promise.
+    - Inferred from conduct – eg plaintiff making contributions to the cost of purchase, maintaining
+    - Will not be retrospectively imputed to the parties where they did not have any such intention at the time (even if they could or should have).
+    - need not be that the parties have a specific share of the property. It is sufficient that they intend that the claimant should have a beneficial interest or “some form of proprietary interest”.
+  - Shepherd v Doolan [2005] NSWSC 42 (White J)
+    - [37] The intention may be established in various ways. There may be an agreement between the parties as to how the property should be held. There may be express statements as to their intention. Their intention may be inferred from their conduct. 
+    - The question of what acts demonstrate an agreement or common intention referable to the beneficial enjoyment of the property is one of evidence, not law. (Allen v Snyder at 691; Green v Green at 355). A common intention that a party have a beneficial interest in a property owned by another will not be inferred merely from their joint occupation of property, nor the carrying out of household duties, nor the bringing up of children on the property, nor the doing of repairs, renovations, maintenance, decoration or improvement, nor the provision of furniture. (Pettitt v Pettitt [1970] AC 777 at 805-6, 811, 818, 826; Gissing v Gissing [1971] AC 886 at 900, 910; Burns v Burns [1984] Ch 317 at 326, 328, 342). 
+    - [38] The intention may be inferred from financial contributions, direct or indirect, to the acquisition of property, including the paying off of mortgages, or the payment of expenses which free up funds for that purpose. (Burns v Burns at 328–329; Gissing v Gissing at 900, 902-3, 906-907; Grant v Edwards at 647, 648-9, 653-4, 655; Green v Green at 355). This is a wider enquiry than whether a contribution was made to the purchase money such as to give rise to a presumption of a resulting trust. Whilst both enquiries address the inferences to be drawn as to the parties’ actual intentions, a contribution to the purchase price creates a presumption of beneficial ownership in the proportion which the amount contributed bears to the price. For a “common intention” constructive trust, a contribution, direct or indirect, to the costs of acquisition of the property is a matter from which an intention that the claimant have a beneficial interest in the property might be inferred. There is a difference between a fact from which an inference can be drawn, and a fact from which a rebuttable presumption arises. The significance of the difference will depend upon the strength of the presumption. In the case of the “common intention” constructive trust, there is no presumption that the beneficial interest is in proportion with the contribution to the purchase price.
+  - Shepherd v Doolan [2005] NSWSC 42 (White J)
+    - [39] Other evidence from which conclusions may be drawn about the intentions of the parties include declarations of the parties before or at the time of the transaction or so close in time after the transaction as to constitute a part of it. Subsequent declarations of intention are only admissible against interest. (Calverley v Green (1984) 155 CLR 242 at 262 and 269; Charles Marshall Pty Ltd v Grimsley (1956) 95 CLR 353 at 365; Bryson v Bryant (1992) 29 NSWLR 188 at 215).
+  - Quantum of interest under Common Intention Constructive Trust: Shepherd v Doolan [2005] NSWSC 42 (White J) [41]-[45]
+    - Quantum of the claimant’s beneficial interest will be that which the parties agreed upon or intended, if that can be established
+    - If the evidence does not permit of a finding as to the precise quantum of interest, one starts with the maxim that equality is equity. (Green v Green at 355).
+    - But that standard can and should be departed from where the parties make disproportionate contributions to the acquisition of the property.
+    - non-financial contributions to the acquisition of the property must also be taken into account to determine whether to depart from the presumption of equality
+    - Unlike the presumption of a resulting trust, there is no reason that the beneficial interest cannot change over time. (Green v Green at 356).
+    - continuing but different contributions to the maintenance and improvement of the property do not change proportions unless subsequent evidence of change of intention and detrimental reliance.
+  - Importance of when a common intention constructive trust arises: Parsons v McBain (2001) 109 FCR 120
+    - Two brothers in a transport business which went into insolvency
+    - Wives of two brothers were awarded an interest under a common intention constructive trust in husbands’ homes which arose at the time they made financial contributions.
+    - Their earlier equitable proprietary interests had priority over the interests of creditors in the insolvency
+  - A constructive trust over stolen money
+    - Black v Freedman & Co (1910) 12 CLR 105: equity imposes a constructive trust on stolen money in the hands of a thief (fiduciary or non-fiduciary)
+      - Black, an employee stole money from his employer.
+      - He gave the money to his wife.
+      - He was held to have held the money on constructive trust, so the employer could trace its interest in the property into the hands of his wife (who was a volunteer). 
+    - But when does the trust arise? Immediately (as in the case of an automatic resulting trust)? Or only upon declaration by a court? (See Sourcebook notes on pp 626-7.)
+    - In Wambo Coal Pty Ltd v Ariff & Anor [2007] NSWSC 589; (2007) 63 ACSR 429 at [40]-[41], White J summarised the relevant principles as follows:
+      - "Where property is stolen, the property is trust property in the hands of the thief and can be traced into the hands of a third party who receives the property otherwise than as a bona fide purchaser of the legal estate for value without notice. The property is trust property in the hands of the thief because the thief is bound in conscience to hold the property on behalf of its true owner. Whether the trust is characterised as a resulting trust ( Robb Evans of Robb Evans & Associates v European Bank Ltd (2004) 61 NSWLR 75; [2004] NSWCA 82 at [1-3]-[117]) , or as a constructive trust ( Westdeutsche Landesbank v Islington London Borough Council per Lord Browne-Wilkinson at 716), the trust is of an institutional rather than a remedial character. It arises because the conscience of the thief is bound.
+      - "In the same way, where property is acquired by fraud and there is a complete failure of consideration, the trust arises immediately on the receipt of the property: Orix Australia Corporation Ltd v Moody Kiddell & Partners Pty Ltd [2005] NSWSC 1209 at [155]-[156] and cases cited. So, in Neste Oy v Lloyds Bank plc [1983] 2 Lloyd's Rep 658, referred to with apparent approval in Re Goldcorp Exchange Ltd [1995] 1 AC 74 at 104; [1994] 3 NZLR 385 at 404, where the payee received payment from its principal of moneys which were not impressed with an express trust, but which were to be used in performance of a contract which the payee knew could not take place, the payee held the payment on trust for the payer from the time of its receipt. The circumstances which created the trust in Neste Oy were that the payee knew (as was the fact) that there could be no performance under its contract, so that there was a total failure of consideration for the payment, and the payment could not in conscience be retained. The trust was an institutional trust which attached to the moneys from the time of receipt."
+  - Over mistaken or other payments in the hands of an innocent recipient who acquires knowledge of the lack of entitlement to the funds
+    - The recipient of an unintended payment is prima facie liable to make restitution of it. However, the action for money had and received is a personal action. It leads to a money judgment only.
+    - Where a person makes a mistaken payment, a proprietary remedy in the form of a constructive trust may be recognised over the mistaken payment in the hands of the recipient in equity at least from the time that the recipient has knowledge that the payment was made by mistake: Wambo Coal Pty Ltd v Ariff (2007) 63 ACSR 429
+  - Wambo Coal Pty Ltd v Ariff (2007) 63 ACSR 429 (White J)
+    - Facts: 
+      - Wambo mistakenly paid money to Singleton Earthmoving (instead of a company with a similar name) and did so twice.
+      - Arif was Singleton’s liquidator.
+      - After receiving the first payment, and believing it to be due, he paid the money to himself in fees.
+      - After receiving the second payment, Wambo advised Arif of the mistake. Arif paid the second payment to himself.
+    - Held: 
+      - Arif could keep the first payment, but not the second, because by the time SE received the second payment, Arif was aware of the error. He held that payment on constructive trust.
+      - White J held it would be an “unwarranted windfall” to the general creditors to claim the mistaken payment. (at [42]) 
+      - Liable to account for payments made after he had knowledge of mistaken payment [65]
+    - [42] I do not see why, in principle, a constructive trust arising from the retention of moneys known to have been paid by mistake, and for which there was no consideration, would not arise from the time the payee acquired such knowledge, if the moneys paid could still be identified at the time such knowledge was acquired. Such a trust is as much an institutional trust as a trust imposed on property in the hands of the thief.”
+  - Heperu Pty Limited v Belle (2009) 76 NSWLR 230
+    - FACTS: 
+      - Heperu and other companies provided cheques to a Mr Cincotta for investment. Mr Cincotta misappropriated the cheques and deposited them in an account with Perpetual in his wife’s name (Ms Belle). Funds were then withdrawn and deposited into another account held with Westpac by Ms Belle, and used to pay debts under a mortgage and credit card.
+    - HELD: 
+      - Ms Belle was liable on the basis that she was a volunteer and subsequent to the deposit funds acquired knowledge of the breaches of fiduciary duty by Mr Cincotta.
+    - RATIO: 
+      - a volunteer who receives funds traceable in equity will be liable to restore the value of the benefit received from the time he or she becomes aware of the misappropriation of the property the subject of the trust or fiduciary duty.
+  - Heperu Pty Limited v Belle [2009] NSWCA 252; [2009] NSWCA 252; (2009) 76 NSWLR 230, Allsop P (with whom Campbell JA and Handley AJA agreed)
+    - In Heperu Pty Ltd v Belle at [92], Allsop P summarised the effect of the principle as that:
+      - "a person entirely innocent of a fraud who comes to know that he or she has received and still retains the proceeds of, or taken advantage of, a fraud to which he or she was not party, cannot knowingly seek to retain those proceeds or that advantage, without, in effect, becoming a party to that fraud and liable accordingly…”
+  - To enforce mutual wills
+    - Where parties enter a contract providing for the distribution of property after their deaths and each leaves property to the other such that on their death, it is to be held for X.
+      - A agrees to make a will leaving all A’s property to B, or (if B predeceases A) to C.
+      - B agrees to make a will leaving all B’s property to A, or (if A predeceases B) to C.
+    - If the party to whom the property is left departs from the agreed scheme of mutual wills to leave the property to someone else, equity can compel the party to hold the property on constructive trust for the intended beneficiary: Birmingham v Renfrew (1937) 57 CLR 666
+  - How does this create a constructive trust?
+    - While A and B are still alive, this arrangement creates a contract. They might agree to vary their contract. The contract can be terminated by one giving notice to the other while they are both alive.
+    - If A dies and does not leave property to B (i.e. A changed their mind but did not tell B), then B can enforce the contract against A’s estate. 
+    - If A dies and leaves property to B, but then B dies and does NOT leave the property to C, C can bring a claim in equity. (Not in contract, because C was not a party to the contract between A and B.)  
+  - Birmingham v Renfrew (1937) 57 CLR 666.
+    - In the event that C makes a claim against B’s estate, B’s executor holds the estate on a constructive trust for C.
+    - Note – while B is alive, B is free to use the property. The constructive trust ‘crystallises’ over whatever remains of the property at B’s death.
+    - These principles were discussed in Barns v Barns (2003) 214 CLR 169, see particularly [84]-[85] (Gummow and Hayne JJ).
+    - ‘there is a “floating obligation” over that property which has passed to the survivor; it is suspended during the lifetime of the survivor and “crystallises” into a trust upon the assets of the survivor at death
+  - Over the share of a beneficiary under an enforceable contract for sale
+    - Where parties enter a contract providing for the distribution of property after their deaths and each leaves property to the other such that on their death, it is to be held for X.
+    - If the party to whom the property is left departs from the agreed scheme of mutual wills to leave the property to someone else, equity can compel the party to hold the property on constructive trust for the intended beneficiary: Birmingham v Renfrew (1937) 57 CLR 666
+  - Agreement to assign for consideration
+    - Chang v Registrar of Titles (1976) 137 CLR 177.
+    - Authority for the proposition that where a Vendor of real estate has received consideration from the Purchaser under a specifically enforceable contract of sale, and all that remains to be done is to complete the conveyance of title, the Vendor is said to hold title as a constructive trustee for the purchaser.
+    - (Note that on these facts, the order was not made, because the contract for sale of land in Melbourne was not specifically enforceable. The contract was entered into by Taiwan as vendor, but by the time for completion, the People’s Republic of China was recognised as the owner of the land.)
+  - Breach of Fiduciary duty
+    - Chan v Zacharia (1984) 154 CLR 178
+    - The case where a doctor leaving a partnership renewed the lease of the premises in his own name, and was held to hold the renewed lease on a constructive trust for the former partnership.
+    - Any benefit held by a fiduciary arising from a breach of fiduciary duty is held as a constructive trustee.
+    - What if the breach of duty results in a secret bribe?
+- Constructive Trusts as a Remedy
+  - Remedial constructive trusts:
+    - As a remedy to prevent unconscionable conduct on failure of a joint endeavour: Muschinski v Dodds
+    - As a remedy for proprietary estoppel, undue influence and other equitable obligations
+  - Recap Institutional vs remedial constructive trusts
+    - Institutional
+      - Tend to date from conduct that give rise to the trust
+      - Not discretionary – arises by operation of law
+      - Only form recognized under English law
+    - Remedial
+      - Tends to date from date of judgment
+      - Discretionary – one of a range of potential remedies for a court to impose
+      - Recognised under Australian law
+  - As a remedy to prevent unconscionable conduct on failure of a joint endeavour
+    - It has been long recognised in England that upon the failure of a partnership or joint venture, the partners or joint venturers are entitled to repayment of their contributions subject to a contrary intention or agreement: Atwood v Maude (1868) LR Ch App 369.
+    - In Australia, this principle in relation to joint venturers has evolved into a remedial constructive trust which has particular application in allocating property interests on the failure or breakdown of domestic relationships between persons whose legal interests do not reflect what the court considers consistent with eq principle, and where the circumstances did not fit the requirements of a common intention constructive trust: Muschinski v. Dodds (1985) 160 CLR 583
+  - Muschinski v Dodds (1985) 160 CLR 583
+    - FACTS: 
+      - Mrs Muschinski and Mr Dodds bought a cottage with the intention of building a kit home on it and developing it as an arts and crafts centre.
+      - The land was purchased for $20,000 as tenants in common in equal shares with Mrs Muschinski providing the purchase price. They also placed an order for a prefabricated house. Mrs Muschinski paid a deposit. The intention was that Mr Dodds would contribute later funds from his expected divorce settlement and pay it off, and do the renovation of the cottage and prefabricated house. However, planning permission for the house was refused, they cancelled the order for the house and the relationship broke down.
+      - Mrs Muschinski claimed that she was entitled to the entire beneficial ownership of the land because she had paid the purchase price. It was agreed that she had contributed $25,259.45 to the purchase and improvement of the property, and Mr Dodds had paid $2,549.77.
+    - HELD:
+      - Mason and Deane JJ imposed a constructive trust as at the date of judgment to repay to each party their contributions (approx. 10/11ths to Mrs M, then divide sale proceeds equally. Gibbs CJ would not have imposed a constructive trust – found Mrs Muschinski was entitled to a right of contribution in equity as joint co-debtors secured by a charge.
+      - Deane J drew on principles of partnership to explain basis for constructive trust with three elements. Proven very influential exposition of basis for constructive trust that does not depend on intention at the time of purchase.
+    - “... the principle operates in a case where the substratum of a joint relationship or endeavour is removed without attributable blame and where the benefit of money or other property contributed by one party on the basis and for the purposes of the relationship or endeavour would otherwise be enjoyed by the other party in circumstances in which it was not specifically intended or specially provided that that other party should so enjoy it. The content of the principle is that, in such a case, equity will not permit that other party to assert or retain the benefit of the relevant property to the extent that it would be unconscionable for him so to do: cf. Atwood v. Maude (11), and per Jessel M.R., Lyon v. Tweddell (12). “
+    - “... The circumstances of the present case provide the necessary context for the operation of that general principle of the law of equity. Mrs. Muschinski's payment of the purchase price of the Picton property, which was transferred into the joint names of Mr. Dodds and herself, was made on the basis and for the purposes of their planned venture with respect to the land. 
+      - The substratum of that planned joint endeavour was removed without attributable blame. Mr. Dodds is left as a half-owner of the property in circumstances (i.e., the collapse of the joint endeavour) to which the parties did not advert and in which it was not specifically intended or specially provided that Mr. Dodds should enjoy such a benefit at Mrs. Muschinski's expense. In these circumstances, the operation of the relevant principle is to preclude Mr. Dodds from asserting or retaining, against Mrs. Muschinski, his one-half ownership of the property to the extent that it would be unconscionable for him so to do.’
+    - Deane J:
+      - “The fact that the constructive trust remains predominantly remedial does not, however, mean that it represents a medium for the indulgence of idiosyncratic notions of fairness and justice. As an equitable remedy, it is available only when warranted by established equitable principles or by the legitimate processes of legal reasoning, by analogy, induction and deduction, from the starting point of a proper understanding of the conceptual foundation of such principles (cf., generally, Sir Frank Kitto's Foreword to the 1st ed.
+    - As a result a new form of remedial constructive trust was recognized under Australian law in Muschinski v Dodds (1985) 160 CLR 583 per Deane J.
+      - A constructive trust may be imposed by analogy with failure of a partnership or joint endeavour where there is:
+        - 1. Failure of a joint venture or endeavour (including a relationship);
+        - 2. Plaintiff is not to blame;
+        - 3. Plaintiff must have contributed money or other property which was not otherwise intended to be enjoyed by the defendant (if the venture did not succeed.)
+      - This was confirmed in Baumgartner v Baumgartner (1987) 164 CLR 137.
+  - Baumgartner v Baumgartner (1987) 164 CLR 137
+    - FACTS
+      - Frances and Leo Baumgartner lived as a de facto couple. They lived in a house built on land at Leumeah purchased in Leo’s name using funds from the sale of his unit and a building society loan (in his name only as they would not lend to an unmarried couple). The mortgage payments were made from an account of pooled funds for living expenses including the loan repayments (55/45). The plaintiff did not pay into the account after having their first child.
+      - They separated and she claimed Leo held the title on trust for them as tenants in common which Leo denied.
+    - HELD: 
+      - applying the principles in Muschinksi v Dodds, Mason CJ, Wilson and Deane JJ found she was entitled to a share on the basis of a constructive trust as to 45% as “a remedy to circumvent the unconscionable conduct.” (at 147) The pooling arrangement constituted a joint endeavour to provide accommodation for them and their child. 
+      - Court emphasized role of unconscionability in the unconscionable retention of benefit by Leo if the court did not intervene. The Court made allowances for income by Frances while she didn’t work after the birth of the child and also made allowances for the contribution by Leo of the amount he provided from the sale of his unit.
+  - Summary - remedy to prevent unconscionable conduct on failure of a joint endeavour
+    - Need not be based on actual or inferred intention to create a trust; rather overall relationship taken into account.
+    - Does not require intention to be inferred from the contributions made.
+    - The role for this form of constructive trust has been greatly influenced by statute. Relationship breakdowns are now largely taken care of by statute: marriages under Family Law Act 1975 (Cth) s 79(4), 90SM and de facto relationships under s 3(1) Property (Relationships) Act 1984 (NSW). But there is still may be some scope for it in relation to:
+      - non standard relationships eg carer-patient:
+      - Couples not living together on a genuine domestic basis to constitute a de facto relationship
+      - Parent child or other relationships
+      - Commercial property disputes
+  - Elements of remedy to prevent unconscionable conduct on failure of a joint endeavour contd
+    - (a) Joint relationship or endeavour in which funds are expended to common benefit;
+      - Agreements between the parties, written or oral, may be relevant to determining a joint venture
+      - Absence of agreement is not fatal;
+      - Mere sharing of living arrangements is not a joint endeavour: Barker v Linklater [2008] 1 Qd R 405;
+      - Not limited to domestic context.
+    - (b) Joint relationship has come to an end without attributable blame;
+      - Does not call for a judgment as to whose fault it was that the relationship broke down;
+      - The concept is probably only relevant where the party seeking equity’s intervention is blameworthy: NSW Trustee and Guardian v Togias (2022) 110 NSWLR 86, [146] Baster AJA (Griffiths AHA agreeing);
+      - Generally understood to refer to criminal or reprehensible conduct and does not arise merely from the deterioration of personal relationships.
+    - (c) In must be unconscionable for the benefit provided by one to be retained by the other.
+      - Where the legal owner’s denial of the interest amounts to unconscionable conduct: Baumgartner v Baumgartner (1987) 164 CLR 137, 149 (Mason CJ, Wilson and Deane JJ)
+      - Financial contributions make it easier to establish unconscionability if those interests are denied.
+      - Non-financial contributions (including home-maker contributions) may be considered, including after purchase, but must have actually helped to acquire or improve the property the subject of the trust: Brown v George [1999] FCA 285
+      - It will not be unconscionable where the claimant was given other forms of consideration for the contributions: Hill v Hill [2005] NSWSC 863 per Campbell J (a son had contributed improvements to his mother’s property but she had allowed him to live there for 12 years and guaranteed his business debts.)
+  - As a remedy for proprietary estoppel
+    - The usual remedy in proprietary estoppel will be the value of the expected interest, and a constructive trust will be imposed over the property if the remedy is not disproportionate to the detriment the plaintiff has incurred in relying on the representation made by the defendant, and no discretionary factors which make the proprietary remedy inappropriate
+    - See:
+      - Giumelli v Giumelli (199) 196 CLR 101
+      - Sidhu v Van Dyke (2014) 251 CLR 505
+      - Thorner v Major [2009] 1 WLR 776
+  - Proprietary estoppel
+    - Giumelli v Giumelli (1999) 196 CLR 101
+      - In the earlier decision (from which the parents appealed) an order was made that the Promised Lot of land was held on a constructive trust for Robert, and that they must now convey the land to the son.
+      - The High Court held that this relief was inappropriate given other factors (including that the other son, Steven, now lived on the land and had improved it.) It was held that a sum of money should be awarded instead. 
+      - (at 113) “Before a constructive trust is imposed, the court should first decide whether, having regard to the issues in the litigation, there is an appropriate equitable remedy which falls short of the imposition of a trust..”
+  - As a remedy for breach of fiduciary obligation – the position of bribes…
+    - Under English law, now held under an institutional constructive trust
+      - Lister v Stubbs (1890) 45 Ch D 1
+      - Attorney-General for Hong Kong v Reid [1994] 1 AC 324
+      - FHR European Ventures LLP v Cedar Capital Partners LLC [2014] UKSC 45; [2015] AC 250
+    - Under Australian law, bribes held under a remedial constructive trust
+      - Grimaldi v Chameleon Mining NL (no 2) (2012) 200 FCR 296
+  - Lister & Co v Stubbs (1890) 45 Ch D 1 – An old authority, no longer followed in Australia
+    - L = employer and S = employee
+    - S accepts secret commissions, and then uses the money to make investments.
+    - L seeks to claim the investments, and seeks an injunction preventing S from selling the investments.
+    - Injunction refused, on the basis that L did not have a proprietary interest in the investments, but only a personal claim against S. In other words, S owed L the money as a debt, but did not hold it on trust.
+  - But English law changed with AG for Hong Kong v Reid [1994] 1 AC 324
+    - A crown prosecutor in Hong Kong had received bribes. He invested the money in property in New Zealand which he had now transferred to his wife.
+    - Could the AG for HK place caveats on the title of those properties, to claim repayment of funds to HK?
+      - Yes – the fiduciary who accepts bribes immediately becomes a constructive trustee for the person to whom their duty is owed.
+    - The UK Supreme Court confirmed in FHR European Ventures LLP v Cedar Capital Partners LLC [2015] AC 250 that a constructive trust will be imposed on a bribe accepted by a fiduciary. 
+      - Under English law, this is an institutional trust
+  - Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6 (2012) 200 FCR 296 considered bribes in obiter as the spotter’s fee was not held to be a bribe
+    - At [582] ‘Australian law departs from the law as stated in [AG of HK v Reid] in one important respect. Reid has the constructive trust arising the moment the bribe is received. In Australia, the constructive trust in this setting is a discretionary remedy.’
+    - At [583] ‘There are two additional comments we should make. First, to accept that money bribes can be captured by a constructive trust does not mean that they necessarily will be in all circumstances. As is well accepted, a constructive trust ought not to be imposed if there are other orders capable of doing full justice: see John Alexander’s Clubs at [128] and the cases there footnoted. Such could be the case, for example, where a bribed fiduciary, having profitably invested the bribe, is then bankrupted and, apart from the investment, is hopelessly insolvent. In such a case a lien on that property may well be sufficient to achieve “practical justice” in the circumstances. This said, a constructive trust is likely to be awarded as of course where the bribe still exists in its original, or in a traceable, form, and no third party issue arises.
+- Muschinski v Dodds (1985) 160 CLR 583
+  - Some lessons for us as students of the law…
+    - Some of the most important authorities are not clear majority decisions
+    - Often novel problems require arguing by analogy, and recourse to ‘First principles’
+    - ‘Unconscionability’ is not equivalent to ‘unfairness’. 
+      - More on this in a later presentation.
+  - It all started with the purchase of land …
+    - Muschinski (M) and Dodds (D) bought a parcel of land in Picton with plans to build a home and a craft business.
+    - They debated title arrangements, but ended up deciding (on solicitor’s advice) to put the land in both names as tenants in common – even though M was paying the whole purchase price, and she had expressed some concern about trusting D to put in his share later.
+  - Their relationship broke down . . .
+    - What was left?
+      - A parcel of land with an old cottage
+        - M had paid $25,259
+        - D had paid $2,549.
+        - But AT LAW, they owned it 50:50.
+    - M claimed she owned the whole property
+      - At trial in the NSW Supreme Court –
+        - There was no presumed resulting trust because the evidence of the parties’ intentions rebutted any presumption based on her payment of the whole purchase price of the land.
+  - On appeal to the NSW Court of Appeal
+    - The evidence showed that M had intended to give D an interest that was ‘immediate and unconditional’.
+    - The court could not now adjust the parties’ property interests to reflect was was ‘fair’.
+  - So M appealed to the High Court
+    - Five judgments…
+      - Gibbs CJ – decided on the basis of a right to contribution, but agreed with the orders (not the reasoning) of Deane J.
+      - Mason J – agreed with the reasons and orders of Deane J.
+      - Brennan J – dissented and would have dismissed the appeal (but indicated an alternative approach to this kind of case).
+      - Deane J – decided that M’s case was analogous to a failed joint venture, and made orders for recognizing and returning M’s capital contribution before splitting any surplus 50:50.
+      - Dawson J – agreed with Brennan J.
+  - Gibbs CJ:
+    - Went back to the terms of the sale contract for the land.
+    - Both were jointly liable to pay the price.
+    - Only M had paid it.
+    - So M had a right of contribution for the purchase price from D.
+    - This right could be secured by an equitable charge over the property or its proceeds.
+    - BUT – Deane J’s orders reached the same practical result.
+    - This Photo by Unknown Author is licensed under CC BY-ND
+  - Brennan J:
+    - A person who takes a gift to which a condition is attached incurs an equitable obligation to perform that condition. (Cited Countess of Bective v FCT (1932) 47 CLR 417, 418-419, and Williams v Williams (1897) 2 CH 12, 19).
+    - So when M paid for the land registered in joint names, there was an implied condition that D would also contribute to the property, over time.
+    - Was this condition one that would involve forfeiture of the gift? NO.
+    - It involved only a personal equitable obligation.
+    - M might have sought compensation from D for failing to perform his part of the bargain, but did not frame her claim on that basis. She had no property rights in his interest in the land.
+    - There is no jurisdiction to adjust property rights of parties based only on what is ‘fair’.
+    - It was not unconscionable for D to retain ownership of his interest in the property.
+    - This case was not analogous to a commercial partnership.
+  - Dawson J:
+    - Agreed with Brennan J.
+    - Cited Gill v Gill (1921) 21 SR(NSW) 400 among the authorities for a ‘personal equitable obligation’, giving rise to a right to equitable compensation, but no property interest
+  - Deane J:
+    - There was no express or implied agreement that the parties would hold the property on trust for themselves in shares corresponding to their contributions – so NO RESULTING TRUST.
+    - The contribution argument (see Gibbs CJ) provided no solution, because the parties clearly intended at the time of the land purchase that M would pay the whole price.
+    - There was no express partnership between them – but their relationship and circumstances were analogous to a joint venture
+  - Reasoning by analogy …
+    - Other areas of law permit return of contributions after failure of a joint endeavour.
+    - Examples:
+      - Frustration of contracts – return of contributions on the basis of ‘total failure of consideration’.
+      - Failed partnerships and joint ventures: ‘joint venturers are entitled to a proportionate repayment of their capital contribution to the abortive joint venture’.
+    - These are examples of a ‘more general principle of equity’.
+      - ‘Like most of the traditional doctrines of equity, it operates upon legal entitlement to prevent a person from asserting or exercising a legal right in circumstances where the particular assertion or exercise of it would constitute unconscionable conduct’. [14]
+      - In this case it was unconscionable for D to take the benefit of M’s contribution, in the circumstance of an unforeseen and premature collapse of their joint endeavour.
+      - Importantly, this is an established principle – not just a matter of deciding a ‘fair’ redistribution of property rights.
+  - On the question of constructive trusts …
+    - See Deane J [6] for an explanation of how trusts originated as a remedy.
+    - Constructive trusts are not a ‘medium for the indulgence of idiosyncratic notions of fairness and justice’ [8].
+    - They are available only when warranted by established equitable principle or by the ‘legitimate process of legal reasoning, by analogy, induction and deduction, from the starting point of a proper understanding of the conceptual foundation of such principles’. [8]
+  - Denning MR’s ‘new model’?
+    - Deane J rejected Denning MR’s ‘new model’ proposed ‘whenever justice and good conscience require it’. (See Eves v Eves [1975] 1 WLR 1338, 1341-2; and Hussey v Palmer [1972] 1 WLR 1286.)
+- Lee v Li [2022] NSWSC 1336
+  - Sisters, Jenny and Cheryl, in dispute…
+    - Over ownership of four properties (Arncliffe, Arthur Street, Belmore Street, Mooltan Ave).
+  - Oh what a tangled web…
+    - Jenny arrives in Australia first (in 1996), and builds savings of about $450K.
+    - Sister Cheryl arrives in 2004; parents arrive in 2006, and they all reside together.
+    - In 2010 Cheryl pays $49,500 as the 10% deposit on an apartment off the plan in Arncliffe.
+    - When the time comes to find the $450,000 to settle, the family lean on Jenny to use her life savings to pay up – but without appearing on the title of the property. Jenny maintains that she owns 90% of the property. Cheryl claims it was an interest-free loan.
+  - Arthur Street…
+    - In 2013, Jenny attended an auction, and paid a 10% deposit on a $749,000 property.
+    - In order to raise finance to complete the sale, she was told she had to get Cheryl to agree to a mortgage of Arncliffe, and put Cheryl’s name on the title to Arthur Street.
+    - Neither sister had any intention that Cheryl would contribute to the Arthur Street purchase, and she never did.
+  - Belmore Street…
+    - In 2014, Jenny and Cheryl decided to purchase another property off the plan, and Cheryl indicated that she would contribute by selling property she owned in China.
+    - The deposit was paid from an offset account that was found to be Jenny’s account, but Jenny allowed Cheryl to use the account to deposit and withdraw her own funds.
+    - By the time the Belmore Street settlement took place, Cheryl had decided not to sell her property in China and made no contribution. 
+    - She was in China at the time of settlement, and the property was registered in their names as tenants in common, in shares of 99% (Jenny), 1% (Cheryl).
+  - Mooltan Ave…
+    - In 2014, before Belmore Street settled, they decided to jointly purchase another property (this one a commercial property). The joint offset account funds were used to pay the deposit.
+    - Cheryl originally agreed to contribute by selling her property in China, but by the time the Mooltan Ave property settled, she had changed her mind.
+    - On settlement, the property was registered in Jenny’s name alone.
+  - Cheryl’s claims:
+    - 100% of Arncliffe (J’s funds were only a loan)
+    - 50% of Arthur Street
+    - 50% of Belmore Street
+    - 50% of Mooltan Street.
+  - Jenny’s claims:
+    - 90% of Arncliffe (J’s funds were her share – resulting or common intention constructive trust)
+    - 100% of Arthur Street (C held her share on common intention trust for J)
+    - 99% of Belmore Street (legal ownership reflected equitable ownership)
+    - 100% of Mooltan Street (legal ownership reflected equitable ownership.
+  - Held (by Peden J) . . .
+    - Jenny never intended to lend or give her money to Cheryle, so she owned the 90% of Arncliffe that she paid for, under a common intention or resulting trust.
+    - Since Jenny owned most of Arncliffe, and the joint offset account used for later deposits, Jenny also owned Arthur Street, 99% of Belmore Street, and Mooltan Ave.
+    - Cheryl’s only claim was to 10% of the sale proceeds from Arncliffe, a return of any net deposits made to the joint offset account, and 1% of the sale proceeds from Belmore Street.
+  - Why was Arthur Street held on a common intention constructive trust?
+    - There was evidence that J and C agreed that J would be the only contributor and so C would hold her apparent share on trust for J. (Intention)
+    - J acted to her detriment in accepting sole responsibility for all costs of the property, even though C was on the title. (Detriment)
+    - C knew the true agreed position so it would be unconscionable for C to deny J’s ownership in equity. (Unconscionability)
+- Zhang v Metcalf [2020] NSWCA 228
+  - Zhang and Metcalf purchased two properties in 1994…
+    - Commercial premises in Alexandria for Metcalf’s business
+    - And an apartment ‘off the plan’ in Waterloo as a residence for the family.
+  - The Alexandria factory…
+    - Total acquisition cost = $259,600.
+    - Zhang (Z) contributed $70,000 in cash.
+    - Metcalf (M) contributed $16,000 in cash.
+    - Remaining $173,600 was raised by a loan to M from the CBA, secured by mortgage over the property, given by both Z and M.
+    - Legal ownership of the property was 50:50, as tenants in common.
+    - Z and M entered into a deed, providing that Z would make contributions to repay the loan, but only up to the point that she had contributed half of the total purchase price.
+    - After their relationship broke down in 2002, Z and M continued to reside together, and they continued to own the Alexandria factory.
+    - M sold his business and contributed $120,000 to the CBA account.
+    - The Alexandria factory was rented out, and the rental income was used to service the CBA loan.
+    - Z made other payments totalling $60,000 to this account.
+    - The Alexandria property was sold in 2016 for $1.838 million.
+    - HOW SHOULD THE PROCEEDS BE DIVIDED?
+  - Z claimed a Constructive trust of the Baumgartner type…
+    - Z claimed 71% of the property based on her contributions to the initial purchase price and repayment of loans.
+    - M claimed 50% of the property, on the basis that the legal ownership reflected the parties’ intentions on acquisition, and there was nothing unconscionable in his retaining that interest.
+  - Held (by Slattery J, upheld by Gleeson JA) . . .
+    - There was nothing unconscionable in M retaining his 50% interest, and being required to give an account of the $60,000 contribution Z made after the relationship breakdown.
+    - Why? The Deed indicated an intention to hold the property 50:50.
+    - The Deed protected Z from any obligation to make any greater contribution than M.
+    - Over time, their contributions had been roughly equal (apart from the $60,000), and most of the repayments had come from the rental income in any event.
+  - The court also considered a resulting trust based on initial contributions…
+    - There is no presumption of advancement between defactos ([52]).
+    - The formal Deed made by the parties rebutted any presumption of resulting trust: they clearly intended to share the property equally, and the deed ensured that Z would not need to pay more than half of the costs.
+    - The Deed was made at the time of the purchase or ‘so immediately after it as to constitute part of the transaction’([53]).
+  - The Waterloo apartment
+    - Total acquisition costs for Waterloo apartment = $186,000
+    - Z contributed $66,000 in cash.
+    - Remaining $120,000 was borrowed by Z and M from First Mortgage Corp, secured by a mortgage.
+    - So respective contributions at the time of acquisition was 67.7% (Z) and 32.3% (M).
+    - Legally, the property was held 50:50 as tenants in common. There was no agreement about the ownership of the property at the time or thereafter.
+    - FMC loan was refinanced with NAB in 2002 (when the relationship broke down), and repayment of the NAB loan was made from the joint business account.
+  - Finding…
+    - There was nothing to rebut the presumption of resulting trust in the case of the Waterloo property.
+    - M attempted to rebut with evidence of how the parties had acted after separation (he claimed that his business accounts paid more of the repayments and other family expenses).
+    - But evidence of subsequent conduct is not permissible to rebut or qualify a presumption of resulting trust: [88].
+    - A footnote: M failed to contest the finding that Z contributed a 78% share, so the CA did not overturn that finding – even though the calculations of contribution indicated a 67% share	
+  - Why no application of family law statute?
+    - The parties did not argue for a statutory discretion to be exercised.
+    - Such a claim would have been out of time, given that the relationship broke down in 2002 and no claim was brought until 2016 when the Alexandria factory was sold
+- Muschinski v Dodds (1985) 160 CLR 583
+  - Procedural History:
+    - Supreme Court of NSW (Waddell J): Appellant's claim for sole beneficial ownership dismissed; cross-claim stood over.
+    - NSW Court of Appeal: Appeal dismissed.
+    - High Court of Australia: Appeal allowed (majority: Gibbs CJ, Mason, Deane JJ; Brennan and Dawson JJ dissenting in part).
+  - Material Facts:
+    - In 1976, land purchased jointly by Muschinski and Dodds (tenants in common, equal shares).
+    - Purchase money fully provided by Muschinski from sale of her own house.
+    - Parties planned to restore a cottage and build a prefabricated house for joint living and business (arts and crafts centre).
+    - Dodds promised to contribute financially and with labour.
+    - Relationship and project both ultimately failed.
+    - Dodds made minimal contributions ($2,549) compared to Muschinski ($25,259).
+    - No formal partnership or joint venture agreement was made.
+  - Original Dispute:
+    - Whether Mr Dodds’ half-ownership interest in land held as tenants in common should be held on trust for Mrs Muschinski due to failure of their joint venture.
+  - Reason for Trial:
+    - Mrs Muschinski claimed that because she provided all funds to purchase the property, and the parties’ relationship/joint project failed, Mr Dodds' interest should be held on constructive or resulting trust in her favour.
+  - Issue Raised:
+    - Whether the presumption of a resulting trust arose in favour of Muschinski.
+    - Whether Dodds' interest should be held on a constructive trust due to the failure of the joint venture.
+    - Whether it would be unconscionable for Dodds to retain full beneficial ownership of his half share.
+  - Law(s)/Statute(s) in Contention:
+    - General equitable principles: constructive trusts
+    - Resulting trusts (Calverley v Green (1984) 59 ALJR 111)
+    - Principles of contribution and joint obligations
+  - Precedents:
+    - Calverley v Green (1984) 59 ALJR 111
+    - Wirth v Wirth (1956) 98 CLR 228
+    - Gissing v Gissing [1971] AC 886
+    - Black v Freedman (1910) 12 CLR 105
+  - Tests:
+    - Resulting Trust Test:
+      - If one party pays, presumption of resulting trust unless rebutted by evidence of intention to gift.
+    - Constructive Trust Test:
+      - Whether retention of benefit would be unconscionable given the breakdown of joint endeavour (Muschinski v Dodds principle).
+  - Words and Phrases Considered:
+    - "Constructive trust" (remedial not automatic)
+    - "Joint venture failure"
+    - "Unconscionable retention of benefit"
+  - Arguments by Party:
+    - Muschniski:
+      - Resulting trust arises; Dodds’ interest conditional on fulfilling promises.
+      - Alternatively, constructive trust should arise to prevent unconscionable retention.
+    - Dodds:
+      - Beneficial ownership intended to be immediate and unconditional; no trust or forfeiture arises despite failure of joint plan.
+  - Judicial Opinions:
+    - Gibbs CJ, Mason, Deane JJ (Majority):
+      - No resulting trust: Muschinski intended to confer an immediate beneficial interest.
+      - However, constructive trust arises to adjust property interests proportionate to contributions upon failure of joint venture.
+      - Equity intervenes to prevent unconscionable retention of disproportionate benefit.
+    - Brennan and Dawson JJ (Partial Dissent):
+      - No constructive trust: Dodds' interest not subject to forfeiture.
+      - Mere failure of plans without fault not sufficient to create new proprietary interests.
+      - Remedies limited to personal equitable claims.
+  - Legal Reasoning:
+    - Resulting trust presumption rebutted by evidence of intention to grant immediate beneficial half-share.
+    - Constructive trust imposed because unconscionable for Dodds to retain full benefit given massive disparity in contributions after collapse of the joint project.
+    - Constructive trust based on principle that equity intervenes where there is unjust enrichment resulting from failure of joint endeavour without blame.
+  - Ratio Decidendi:
+    - In a failed joint endeavour where one party contributed significantly more to acquisition/improvement, equity may impose a remedial constructive trust adjusting interests proportionally, even where there was initial intention to confer an immediate beneficial interest.
+  - Result:
+    - Appeal allowed.
+    - Constructive trust declared.
+    - Each party entitled to reimbursement of their respective contributions from the proceeds of sale; remainder divided equally.
+    - Matter stood over for final orders if no agreement reached.
+  - Relevance to Modern Law:
+    - Leading Australian case confirming the remedial constructive trust doctrine in failed joint venture/de facto relationship property disputes.
+    - Clarifies that equity can intervene to prevent unconscionable retention of property even without any fraud, wrongdoing or formal partnership.
+    - Frequently cited in family law, property disputes between cohabitants, and constructive trust cases.
+- Lee v Li [2022] NSWSC 1336; BC202210187 (Peden J)
+  - Procedural History:
+    - Proceedings in the Supreme Court of New South Wales, Equity Division.
+    - Jenny Lee (plaintiff) sued her sister Cheryl Li (defendant) regarding beneficial ownership interests in four Sydney properties.
+    - Cheryl cross-claimed regarding two other properties.
+  - Original Dispute:
+    - Whether legal title accurately reflected the beneficial interests in four properties (Arncliffe, Arthur Street, Belmore Street, Mooltan Avenue).
+    - Central disputes concerned whether arrangements were loans, trusts, or gifts, and ownership of funds held in joint accounts.
+  - Reason for Trial:
+    - Substantial factual disputes concerning property ownership agreements and use of joint accounts.
+    - Application of common intention constructive trust, resulting trust, and joint endeavour constructive trust principles.
+  - Material Facts:
+    - Two sisters jointly engaged in the purchase and financing of several properties using “joint” accounts.
+    - Dispute arose about whether contributions and joint account usage conferred beneficial interests.
+    - Significant credibility findings against Cheryl Li based on her evidence and conduct.
+  - Issue Raised:
+    - Whether Jenny Lee held beneficial interests in the properties notwithstanding legal title.
+    - Whether the parties agreed that Jenny would own 90% of Arncliffe and full ownership of Arthur Street.
+    - Whether Cheryl had any entitlement to Belmore Street and Mooltan Avenue based on use of joint accounts.
+  - Law(s)/Statute(s) in Contention:
+    - Evidence Act 1995 (NSW) (use of evidence, credibility findings)
+    - General Principles of Constructive Trusts (Muschinski v Dodds (1985) 160 CLR 583)
+    - Common Intention Constructive Trust (Green v Green (1989) 17 NSWLR 343; Carruthers v Manning [2001] NSWSC 1130)
+    - Resulting Trust Principles (Calverley v Green (1984) 155 CLR 242)
+  - Precedents:
+    - Baumgartner v Baumgartner (1987) 164 CLR 137 (joint endeavour constructive trust)
+    - Muschinski v Dodds (1985) 160 CLR 583 (joint endeavour constructive trust)
+    - Austin v Keele (1987) 10 NSWLR 283 (detriment and common intention)
+    - Watson v Foxman (1995) 49 NSWLR 315 (credibility and memory issues)
+    - Carruthers v Manning [2001] NSWSC 1130 (common intention constructive trust)
+  - Tests:
+    - Common Intention Constructive Trust Test (Carruthers v Manning [2001] NSWSC 1130; Shepherd v Doolan [2005] NSWSC 42):
+      - Actual agreement or common intention (oral or inferred from conduct)
+      - Detrimental reliance by the claimant
+      - Unconscionability in denying the claimant’s interest.
+    - Resulting Trust Test (Calverley v Green (1984) 155 CLR 242):
+      - Direct financial contribution to purchase price
+      - Presumption that interest is proportional to contribution unless rebutted.
+  - Words and Phrases Considered:
+    - Common Intention: An agreement or understanding between parties about beneficial ownership, either express or inferred.
+    - Joint Bank Account: Presumption of equal ownership rebutted by evidence of intention (West v Mead [2003] NSWSC 161).
+  - Arguments by Party:
+    - Plaintiff (Jenny Lee):
+      - She contributed most of the purchase money.
+      - There was an agreement that she would hold beneficial interests disproportionate to title.
+      - Joint accounts were her personal funds predominantly.
+    - Defendant (Cheryl Li):
+      - Funds advanced were loans.
+      - Registered title reflected beneficial ownership.
+      - Contributions to joint accounts entitled her to co-ownership.
+  - Judicial Opinions:
+    - Peden J preferred Jenny’s evidence over Cheryl’s, noting Cheryl’s argumentative, evasive, and inconsistent testimony.
+    - Joint bank accounts were intended primarily for Jenny’s use.
+    - Agreed common intention for ownership split at Arncliffe and Arthur Street.
+    - No automatic entitlement to joint ownership through mere use of a joint account.
+  - Legal Reasoning:
+    - Common intention existed based on conduct, direct financial contributions, and oral agreements.
+    - Significant reliance placed on credibility and consistency of Jenny’s testimony.
+    - Cheryl’s lack of financial contributions and unreliable evidence negated her claims.
+    - Using joint accounts for convenience did not amount to beneficial entitlement.
+  - Ratio Decidendi:
+    - A common intention constructive trust arose in favour of Jenny Lee regarding Arncliffe (90%) and Arthur Street (100%).
+    - Cheryl Li held only 1% interest in Belmore Street and no interest in Mooltan Avenue.
+    - Ownership of joint account funds determined by parties’ intentions, not default bank rules.
+  - Result:
+    - Judgment in favour of Jenny Lee.
+    - Cheryl entitled only to:
+    - 10% of Arncliffe sale proceeds.
+    - Her deposits into joint accounts.
+    - 1% share in Belmore Street proceeds.
+    - Cross-claim by Cheryl dismissed.
+  - Relevance to Modern Law:
+    - Clarifies the continuing applicability of common intention constructive trusts post-Baumgartner v Baumgartner (1987).
+    - Affirms that use of joint accounts does not confer beneficial ownership absent clear intention.
+    - Highlights judicial reliance on credibility assessments in family property disputes.
+## Week 11: Money Remedies Account of Profits and Equitable Compensation
+
+- Account of Profits/Equitable Compensation
+  - Proprietary Remedies: attaches to specific property
+    - Constructive Trust
+      - Legal title holder to hold property on trust for another: based on Unconscionability
+      - CICT
+      - Institutional CT
+      - Remedial CT
+    - Equitable Lien
+      - a form of security and allows property that may still be in the hands of the debtor to be used to discharge indebtedness.
+    - Tracing is the process by which a claimant who has been deprived of property (‘the original property’) seeks to assert legal or equitable title to other property (‘the target property’) because the target property has, in some way, been acquired from exploitation of the original property.
+  - Other Remedies
+    - Declaration
+    - Injunction
+    - Rectification
+    - Recission
+    - Specific Performance
+  - Personal Remedies: claim for money
+    - Account of Profits (gain-based relief)
+    - Equitable
+    - Compensation (for loss)
+    - Equitable Damages
+  - Account of Profits
+    - Is an equitable remedy for breach of trust, fiduciary obligations, and breach of confidence, and against third parties who may be found liable as accessories for such breaches.
+    - It requires the delinquent fiduciary to account for any benefit or gain acquired from their breach of fiduciary duty.
+    - It is ‘prophylactic’ not ‘restitutionary’, which means that it is ordered to dissuade fiduciaries from breaching their duties by stripping them of any profit made from breach. It is not based on returning the beneficiary’s own property to the beneficiary. (The beneficiary may never have been able to make that profit on their own.)
+    - Not punitive – corrective justice, therefore strips net profits only (does not leave defendant in a worse position).
+    - Irrelevant that plaintiff has not suffered loss, could not have made profit, might have made more,
+    - does not require dishonesty on the part of the defendant
+  - The purpose of an account of profits
+    - to ensure that fiduciaries conduct themselves at a level higher than that trodden by the crowd“: Meinhard v Salmon (1928) 164 NE 545, 564, (approved in
+    - Warman v Dwyer at 557), so to prevent them being swayed by personal interest from misusing the fiduciary position for personal advantage.
+    - Even a windfall gain to the plaintiff is preferable to the profit left in the hands of the errant fiduciary
+  - Warman v Dwyer (1995) 182 CLR 544
+    - FACTS: 
+      - Warman's business included an agency for the distribution of Italian gearboxes. Dwyer was the general manager of Warman’s Qld branch.
+      - In 1986 the Italian manufacturer, Bonfiglioni, offered a joint venture for the assembly of parts in Australia. Warman declined.
+      - Dwyer declined an offer from Warman to buy the Qld agency.
+      - Instead, he incorporated two companies and negotiated with the Italian company for a joint venture and arranged for the existing Qld staff to work there.
+      - Only after this was all in place, in early June 1988, did the Italians cancel the distribution with Warman and Dwyer resigned.
+      - In September 1988, Dwyer’s company executed a joint venture agreement with Bonfiglioni for the assembly and distribution of their gearboxes.
+      - Warman sued Dwyer and his companies for an account of profits. (Warman had also made a loss and accordingly, was required to make an election.)
+      - at 561:
+        - "In the case of a business it might well be inappropriate and inequitable to compel the errant fiduciary to account for the whole of the profit of his conduct of the business or his exploitation of the principal's goodwill over an indefinite period of time. In such a case, it may be appropriate to allow the fiduciary a proportion of the profits depending on the particular circumstances.
+        - That may well be the case when it appears that a significant proportion of an increase in profits has been generated by the skill, efforts property and resources of the fiduciary, the capital he has introduced and the risks he has taken, so long as they are not risks to which the principal's property has been exposed. Then it may be said that the relevant proportion of the increased profits is not the product or consequence of the plaintiff's property but the product of the fiduciary's skill, efforts property and resources."
+      - HELD:
+        - Warman entitled to two years’ profit, reduced
+        - from four years awarded at trial.
+        - Amount secured by equitable lien over Dwyer’s assets.
+        - Why two years only?
+  - Account of Profits: calculation
+    - The calculation is of net profits, so as not to place defendant in a worse position.
+    - Can be ‘extremely difficult in practice’: Warman v Dwyer at 558
+    - Mathematical exactness not required – reasonable approximation acceptable;
+    - Where a business opportunity is exploited, it may be inappropriate to require the fiduciary to account for the whole of the profits, indefinitely;
+    - Allowance may be made for skill, effort and expenses of fiduciary.
+    - Plaintiff must elect between profit and equitable compensation
+    - Defendant bears onus of showing it should not account for full profit
+    - The whole of the profits occurs here
+  - Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd [2018] HCA 43
+    - Account of Profits made by an accessory to a breach of fiduciary duty
+    - FACTS: 
+      - The parties were competitors in the funeral business. Lifeplan controlled approximately 70% of the market.
+      - During 2010, senior employees of Lifeplan, Wolf and Corby, approached Foresters, a competitor, with a proposal to develop a new funeral business at the expense of their employer by entering into a marketing agreement with a new company to be formed by the employees to target the business of Lifeplan.
+      - The employees diverted business opportunities to Foresters in breach of their fiduciary obligations and Foresters made a significant profit.
+      - Foresters argued it only needed to disgorge profits that are the direct result of each of the particular acts by which it committed the equitable wrong of knowing assisting.
+    - Two views on remedies . .
+      - The Full Court of the Federal Court award an account of profits for the first five years of operation of the business. Nettle J in the HCA would have upheld this approach.
+      - The HCA majority held that AOF should account for the total net present value of the business.
+      - ‘Given the facts of the case, there was no principled basis for requiring the appellant to disgorge anything less than the value of the business connections appropriated by it from its participation in the fiduciaries’ disloyalty’.
+      - AOF would not have obtained this business but for its participation in Woff and Corby’s breaches of fiduciary duty.
+    - HELD:
+      - Onus on defendant to show they should not account for full advantage by:
+        - (a) Proving an entitlement to allowance for costs incurred and effort or
+        - (b) Proving the benefit or advantage is beyond scope for which it should account
+      - Forresters failed to discharge onus in light of “compelling correlation” between increased profit and decrease in Lifeplan’s profit.
+      - “Whether a benefit can be said to be obtained “as a result of” knowing participation in a breach of fiduciary duty by another ... is a question of causation or contribution that depends on “a precise examination of the particular facts”..... It is sufficient to show that the profit would not have been made but for the dishonest wrongdoing.” at [9] per Kiefel CJ, Keane and Edelman JJ
+      - Foresters required to account for full capital value of its funeral products business (approx $14.8M).
+      - Foresters was required to account for its profits, including unrealized profits, “as a result of” its knowing participation in the breach by the employees being the full net present value of the business. Plaintiff entitled to profit made ‘as a result of’ knowing participation in fiduciary breach and that phrase not to be read down.
+      - at [115]:
+        - “. . . To require Foresters to account to Lifeplan for the entirety of that net present value could hardly be described as a windfall to Lifeplan. Lifeplan’s own funeral products business, which could be expected to have continued along its previous trajectory had Foresters’ business not expanded, was shown by the evidence to have been decimated
+  - Victoria University of Technology v Wilson (2006) 68 IPR 597
+    - Facts: 
+      - Two academics were approached by a former student with a business opportunity to develop computer software.
+      - Together with the student, they developed a highly successful product but did not obtain the university’s permission for the undertaking and developed the product on the university’s property.
+      - When the university discovered the project, it sued the academics for breach of fiduciary duty, on the basis that the academics had misappropriated an opportunity that came to them in a fiduciary capacity.
+      - The special referee appointed to determine the amount dismissed the evidence of an expert as to how universities usually approached money-making opportunities discovered by employees.
+    - Issue: 
+      - How should the equitable allowance becalculated to reflect the expertise, skill and effort involved in the creation of the software?
+    - Held: 
+      - Starting point for calculation of allowance was the university policy for sharing profits between university and employees.
+      - It seems to me that the starting point ... should have been evidence of the terms that were most likely to have been agreed between the University on the one hand and the [defendants] on the other, assuming that both sides were at arm’s length, properly advised, fully informed and willing ot be reasonable.”
+  - Bars to Relief/ discretionary considerations
+    - All equitable remedies given in the discretion of the court.
+    - Remedies can be given on terms (eg, allowance for care and skill).
+    - The court considers the conduct of all parties: ‘The conduct of the plaintiff may be such as to make it inequitable to order an account. Thus a plaintiff may not stand by and permit the defendant to make profits and then claim an entitlement to those profits.’ Warman v Dwyer, 559.
+    - Other defensive equities may also be engaged: e.g. laches, or acquiescence. In Keech v Sandford (1726) Sel Cas 61; 25 ER 223 the court held that the defendant was not liable to account for the profits of the business because the plaintiff had cynically delayed the action until the business was profitable. 
+    - lack of clean hands may apply.
+- Equitable Compensation
+  - Monetary remedies in Equity
+    - Equitable compensation is another personal remedy.
+      - It is loss-based and is available whether or not the defendant has made a gain from the breach. 
+      - In situations where both an account of profits and equitable compensation are available, the plaintiff must usually elect between the two remedies
+  - Equitable Compensation - Origins
+    - Equitable compensation has its origins in the obligations of accounting parties, such as trustees and fiduciaries, who have a duty to account for property in respect of which they owe obligations: Libertarian Investments Ltd v Hall (2913) 16 HKCFAR 681
+    - An order for an account is available to any principal to see the state of the account.
+    - If the account shows an unauthorised disbursement, the plaintiff can falsify it – seek to have it disallowed. If disallowed, the trustee must restore the account – make good the deficit.
+    - Alternatively, the principal can inquiry as to what was done with the funds, and if the wrongdoer made a profit, the plaintiff can trace into any property purchased with trust funds, or seek its traceable proceeds restored to the trust.
+    - If there is loss to the estate due to a breach of some other duty such as breach of fiduciary duty – ie conduct other than misappropriation, the plaintiff can claim to surcharge the account for the loss occasioned by that wrongful conduct (wilful default) by a payment of equitable compensation
+- Agrigultural Land Management Ltd v Jackson (No 2) (2014) 48 WAR 1 (Edelman J)
+  - FACTS: 
+    - It was found that two directors who were both directors of two different companies,(Agricultural and Bunbury) had breached their equitable fiduciary duties to one of those companies, Agricultural, in the course of a sale of land from B to A. Their duties to Agricultural conflicted with their duties to Bunbury. The court found a breach of fiduciary duty although no order for equitable compensation was made. Edelman J discussed the distinction between the reparative and substitutive measures.
+    - [349] Dr Elliott, whose writing has shone light and brought much clarity to this area of law, has suggested the use of the labels 'substitutive compensation' and 'reparative compensation' to differentiate the two types of claim. The former, based on the common account, describes a claim for the substituted value of the asset dissipated without authority: it demands that the trustee perform his or her duty to maintain the assets or fund. The latter, based on the account on the basis of wilful default, describes a claim for reparation for the loss suffered by breach of duty.[311]
+  - Equitable Compensation – Overview
+    - The approach to equitable compensation will depend upon the type of duty which has been breached.
+    - A personal remedy, monetary award, comparable in ways to common law damages.
+    - The object of the remedy is to compensate the plaintiff for his or her loss as a result of the defendant’s wrong, aiminh to restore the plaintiff as nearly as possible to the position had there been no breach of the equitable obligation: Nocton v Lord Ashburton [1914] AC 932 at 952.
+    - Not dependent on defendant having made gain.
+    - Plaintiff must elect between account of profits and equitable compensation.
+    - may be awarded for any breach of obligation within equity’s exclusive jurisdiction.
+  - Similarities and Differences compared with common law damages:
+    - Both are monetary awards to compensate loss and put the plaintiff back in the position as if the loss or damage had not occurred.
+    - Both may require discounts and allowances to be taken into account in assessing the amount of compensation.
+    - In practice, many cases will get to the same result
+    - Differences to common law damages:
+      - Time of assessment: at common law, generally date of breach, but in equitable compensation, it is generally as at the date of trial: Youyang Pty Ltd v Minter Ellison Morris Fletcher (2003) 212 CLR 484 at 500.
+      - Causation principles differ
+      - In equity, may be granted on terms or conditions: Demetrios v Gikas Dry Cleaning Industries (1991) 22 NSWMR 561, 574.
+      - Equitable compensation is like all equitable remedies, discretionary.
+      - Contributory negligence is not available to reduce equitable compensation under Australian law.
+      - Exemplary damages are not available: Harris v Digital Pulse Pty Ltd (2003) 56 NSWLR 298
+  - Substitutive v Reparative compensation – different causation questions
+    - Equitable compensation can only be calculated in the context of the specific breach.
+      - Where there is a claim for substitutive compensation for trust assets wrongfully paid away, the causation inquiry is simple: the trustee must reinstate the trust account in full as at the date of judgment, to put the plaintiff in the position they would have been in but for the breach.
+      - Where the claim is for reparative compensation for loss from, say a breach of fiduciary duty, further causation questions are important to determine what flows from the loss. The plaintiff must show what on a ‘common sense’ standard that there is a sufficient link between the breach and loss. The ‘but for’ test is still applied but in a way to permit the defendant to demonstrate that some or all of the loss would not have occurred. However, common law concepts of remoteness and foreseeability are not applied.
+  - Equitable Compensation - Calculation
+    - Determined in the context of the type of breach:
+      - Breach of trustee’s custodial duties (substitutive);
+      - Breach of fiduciary duties; (reparative)
+      - Breach of other equitable duties (eg equitable duty of care and skill) (reparative)
+    - When does ‘Equitable Compensation’ arise?
+      - (1) When a custodial trustee is liable to give an account, and the account shows a deficit, the trustee is liable to restore the fund. breach of trust: Re Dawson [1966] 2 NSWLR 211; Youyang Pty Ltd v Minter Ellison (2003) 212 CLR 484; 196 ALR 482. Strictly speaking this is not ‘equitable compensation’ but the duty to account.
+        - Note that in these circumstances, a beneficiary may prefer to trace the missing funds and claim the actual property back (and any proceeds).
+      - (2) When a non-custodial fiduciary breaches their duty in circumstances not involving the subtraction of property from a trust fund but causing some other kind of loss. See Nocton v Ashburton [1914] AC 932.
+  - When a custodial trustee is liable to give an account: paying out trust money without authority
+    - Re Dawson (dec’d) [1966] 2 NSWR 211
+    - Percy Dawson was both a beneficiary and trustee of a deceased estate which held £NZ4700, which was worth £A4700 at the time.
+    - He wanted to transfer this sum to Australia, so gave it (improperly) to an agent, who absconded and was never seen again.
+    - After Percy himself died, the other trustees purported to reduce his share of the estate by an amount to cover the loss plus interest. By this time, currency rate changes meant that £NZ4700 was worth £A5,829.
+  - Re Dawson (dec’d) [1966] 2 NSWR 211
+    - “. . . in equity a defaulting trustee must make good the loss by restoring to the estate the assets of which he deprived it notwithstanding that market values may have increased in the meantime. The obligation to restore to the estate the assets of which he deprived it necessarily connotes that, where a monetary compensation is to be paid in lieu of restoring assets, that compensation is to be assessed by reference to the value of the assets at the date of restoration and not at the date of deprivation.”
+    - -> “if a breach has been committed then the trustee is liable to place thetrust estate in the same position as it would have been in if no breach had been committed. Considerations of causation, foreseeability and remoteness do not readily enter into the matter.”
+    - “. . . in equity a defaulting trustee must make good the loss by restoring to the estate the assets of which he deprived it notwithstanding that market values may have increased in the meantime. The obligation to restore to the estate the assets of which he deprived it necessarily connotes that, where a monetary compensation is to be paid in lieu of restoring assets, that compensation is to be assessed by reference to the value of the assets at the date of restoration and not at the date of deprivation.”
+  - Youyang Pty Ltd v Minter Ellison (2003) 212 CLR 484
+    - The most important duty of trustees is to obey the terms of the trust ([32]).
+    - In 1993 Mr Hayward invested $500,000 in ECCCL through his family company, Youyang.
+    - Minters accepted $500K on a bare trust, upon instructions that it should pay half to a bank (EC Consolidated Capital Pty Ltd, who Minters acted for) and obtain bearer certificates (a very secure investment) and could pay the remaining half for unsecured speculative investments.
+    - Minters paid out the funds, but never obtained the bearer bond (only obtained a ‘certificate of deposit’ which gave no security), so the lender was unsecured. 
+    - Some time later Youyang was asked to move the bank deposit to other investments and it agreed to do so. But in the end, the whole of the investment was lost.
+    - Youyang sued the solicitors seeking a restoration of the whole fund, on the basis that Minters had breached the terms of the trust by failing to obtain the bearer certificate.
+    - Critical issue was that the plaintiff in fact agreed to the release of the bearer certificate after the breach. In other words, the loss may have occurred anyway.
+    - Solicitors to hold on trust for investment and release only after getting bearer deposit security from bank -> ECCL 
+      - Minters released the funds without obtaining security
+      - No security
+    - ECCCL persuaded Y to give instructions to release money anyway, even without security. Solicitors argued it would have been lost anyway. Not accepted by High Court
+    - HELD:
+      - High Court held respondent solicitor liable to restore trust fund.
+        - “[63] Youyang was not provided with the security for which it had bargained. It is not to the point that in addition to the breaches of trust by the solicitors, there may also have been dishonest and discreditable acts by third parties which led to the loss of the funds.”
+    - O’Halloran v RT Thomas & Family Pty Ltd (1998) 45 NSWLR 262
+      - Facts: 
+        - O’Holloran was the managing director of RT Thomas & Family Pty Ltd and also a director of Jeffries Industries Ltd. RT Thomas had shares in Jeffries. In 1994, RT Thomas agreed to sell its Jeffries shares to Bowes and Brown. O’Halloran allowed the Jeffries share register to note the sale without the purchase price had been paid, for personal reasons. By the time the company could rectify the Jeffries register, the value of the shares had dropped.
+      - Held: 
+        - there was a breach of fiduciary duty by O’Halloran and RT Thomas was entitled to be compensated by the director for the loss of value of the shares.
+          - “The approach to causation which has been adopted for the trustee of a traditional trust should be applied to the exercise of this fiduciary power by a company director” (at 278).
+          - Here the custodial duty of trustee and fiduciary treated in the same manner.
+      - Other circumstances where equitable compensation might be awarded
+        - knowing assistance in a breach of fiduciary duty:
+          - Michael Wilson & Partners Ltd v Nicholls [2011] HCA 48;
+        - breach of confidence: 
+          - Giller v Procopets (2008) 24 VR 1; Wilson v Ferguson[2015] WASC 15;
+        - fraud on a power: 
+          - Houghton v Immer (No 155) Pty Ltd (1977) 44 NSWLR 46; and
+        - estoppel: 	
+          - Giumelli v Giumelli (1999) 196 CLR 101; Sidhu v Van Dyke (2014) 251 CLR 505; [2014] HCA 19.
+        - Equitable compensation has also been ordered where rescission is no longer available in cases of undue influence (see Hartigan v International Society for Hare Krishna Consciousness [2002] NSWSC 810) and unconscionable conduct (see Karam v ANZ Banking Group Ltd [2001] NSWSC 709; Truran v Cortorillo [2011] VSC 488; Jones v Jones [2014] QDC 150)
+  - Nocton v Lord Ashburton [1914] AC 932
+    - Facts: 
+      - N was solicitor for A. Both N and A had advanced money to a developer and taken mortgages over the land. A’s security had priority as it was first in time. N advised A to agree to release his security. Developer became insolvent without repaying A.
+    - Held: 
+      - N required to pay equitable compensation to A.
+      - “Courts of Equity had jurisdiction to direct accounts to be taken and in proper cases to order the solicitor to ... make compensation if he had lost (property) by acting in breach of a duty which arose out of his confidential relationship to the man who had trusted him.” per Viscount Haldane LC at 957.
+    - Nocton breached his fiduciary duty not to allow any conflict of interest with his client, and his conduct caused loss to Ashburton. Can you see that Nocton never had custody of any property owned by Lord Ashburton?
+  - Canson Enterprises v Boughton & Co (1991) 85 DLR (4th) 129 per McLachlin J
+    - “The plaintiff’s actual loss as a consequence of the breach is to be assessed with the full benefit of hindsight. Foreseeability is not a concern in assessing compensation, but it is essential that the losses made good are only those which, on a common sense view of causation, were caused by the breach.” at 163.
+      - Quantification depends on:
+      - Identification of the duty breached;
+      - Sufficient connection between the breach and the loss and
+      - Application of the ‘but for’ test to losses sufficiently connected.
+  - Equitable Damages: Monetary awards under Lord Cairns Act
+    - monetary compensation in lieu of a failed application for specific performance or injunction (and so relieve the multiplicity of suits).
+    - “In all cases in which the court of Chancery has jurisdiction to entertain an application for an injunction against a breach of any covenant, contract or agreement, or against the commission or continuance of any wrongful act, or for the specific performance of any covenant, contract or agreement, it shall be lawful for the same court, if it shall think fit, to award damages to the party injured either in addition to or in substitution for such injunction or specific performance, and such damages may be assessed in such manner as the court shall direct.”
+  - Supreme Court Act 1970 (NSW) s 68
+    - Where the Court has power
+      - (a) to grant an injunction against the breach of any covenant, contract or agreement, or against the commission or continuance of any wrongful act; or
+      - (b) to order specific performance of any covenant contract or agreement; the Court may award damages to the party injured either in addition to or in substitution for the injunction or specific performance.
+      - See Sandpiper Kooragang Pty Ltd v Fortis Products Pty Ltd [2020] NSWSC 1256
+  - Giller v Procopets [2004] VSC 113
+    - concerned a claim by a woman for compensation for hurt and distress caused by an act of ‘revenge porn’.
+    - At first instance Gillard J refused an award of damages because the claim was brought for breach of confidence (an equitable claim – there being no tort of ‘invasion of privacy’)
+    - On appeal, equitable compensation was awarded in view of the fact that it was too late for any injunction to avoid the harm already suffered by the plaintiff.
+  - Summary
+    - Monetary awards are available in equity.
+    - Be careful to distinguish between the custodial trustee’s obligation to restore the trust fund, and the duty of a non-custodial fiduciary to pay compensation for loss suffered by their breach of fiduciary duty.
+    - And statutory provisions (following Lord Cairns Act) permit courts to award monetary compensation in lieu of or in addition to injunctions, when grant of the injunction is impractical, or insufficient to do complete equity in the case.
+- Youyang Pty Ltd v Minter Ellison Morris Fletcher [2003] HCA 15
+  - Court:
+    - High Court of Australia
+  - Parties:
+    - Appellant: Youyang Pty Ltd (as trustee of the Bill Hayward Discretionary Trust)
+    - Respondent: Minter Ellison Morris Fletcher (solicitors)
+  - Procedural History:
+    - Supreme Court of NSW (Brownie AJ) found partial breach of trust.
+    - NSW Court of Appeal reversed in favour of Minters.
+    - High Court allowed appeal and reinstated liability with full compensation.
+  - Facts:
+    - Youyang invested $500,000 in ECCCL preference shares.
+    - Minters held the funds on trust, with strict terms requiring the funds be used to purchase a bearer deposit certificate from a prime bank, held for Youyang's benefit.
+    - Minters disbursed the money without obtaining the proper security — instead obtaining a non-bearer certificate held in ECCCL's name — breaching the terms of trust.
+  - Legal Issue:
+    - Whether Minters breached an express trust by disbursing trust funds contrary to the agreed purpose, and whether Youyang was entitled to full compensation for the loss of funds.
+  - Decision:
+    - Appeal allowed. High Court held Minters liable for breach of trust and awarded full compensation of $500,000 plus interest under s 94 of the Supreme Court Act 1970 (NSW).
+  - Ratio Decidendi:
+    - A trustee must adhere strictly to the express terms of the trust (Target Holdings v Redferns [1996] AC 421 applied with distinction).
+    - Misapplication of trust funds, even if partially for the intended purpose, constitutes breach of trust.
+    - The breach caused the loss, as proper security was never provided and the entire investment became unrecoverable.
+    - Causation in equity focuses on whether the loss would have occurred “but for the breach” (see also Re Dawson [1966] 2 NSWR 211).
+  - Significance:
+    - This case affirms the strict equitable obligation on trustees to apply trust funds only in accordance with trust terms. Any deviation, even if seemingly minor or commercially common, attracts full liability. It also confirms that compensation is assessed at the time of judgment, not merely the breach, and that the ‘but for’ test applies in equity to establish causation.
+- Nocton v Lord Ashburton [1914-15] All ER Rep 45; [1914] AC 932 (HL)
+  - Procedural History:
+    - Appeal to the House of Lords from a decision of the Court of Appeal, which had reversed in part the judgment of Neville J at first instance. Neville J dismissed the claim on the basis that fraud was not proved. The Court of Appeal found fraud, but the House of Lords restored the original finding, while upholding equitable relief.
+  - Original Dispute:
+    - Whether a solicitor breached fiduciary duties by inducing his client to release a portion of secured property, thereby enhancing the solicitor’s own financial position, in circumstances that were misleading but not fraudulent in the common law sense.
+  - Reason for Trial:
+    - To determine whether a solicitor who gives misleading advice without fraudulent intent is liable in equity for breach of fiduciary duty and for misrepresentation made in the course of that fiduciary relationship.
+  - Material Facts:
+    - Nocton, a solicitor, advised Lord Ashburton, his client, to release a valuable portion of mortgaged property (Block A) from security.
+    - This action advantaged Nocton by promoting his own financial interests (a £15,000 mortgage in which he was interested).
+    - Nocton failed to disclose the material implications of the release to Lord Ashburton, including how it improved his own security position.
+    - The advice was not found to be fraudulent (i.e., no mens rea), but it was misleading and constituted a breach of fiduciary duty.
+  - Issue Raised:
+    - Can a solicitor be held liable for compensation where the advice given is misleading and results in loss, even though the advice was not given fraudulently?
+  - Law(s)/Statute(s) in Contention:
+    - No specific statute was under contention; the case centred on common law and equitable principles.
+    - Derry v Peek (1889) 14 App Cas 337 (HL) was central to distinguishing fraud from negligence or breach of duty.
+    - Equitable jurisdiction over fiduciaries, particularly legal professionals.
+  - Precedents:
+    - Derry v Peek (1889) 14 App Cas 337 — action in deceit requires proof of fraud (mens rea).
+    - Burrowes v Lock (1805) 10 Ves 470 — trustee liable for misrepresentation within special duty.
+    - Brownlie v Campbell (1880) 5 App Cas 925 — emphasised fiduciary obligations and disclosure.
+    - Slim v Croucher (1860) 1 De G F & J 518 — equity may grant relief for innocent misrepresentation in fiduciary context.	
+    - Bank of Montreal v Stuart [1911] AC 120 — solicitor should avoid acting when personally interested.
+  - Tests:
+    - Action for deceit: false representation made knowingly, or without belief in its truth, or recklessly (from Derry v Peek).
+    - Breach of fiduciary duty: requires a fiduciary relationship, material non-disclosure, and resulting detriment (equitable principles).
+    - Constructive fraud (in equity): arises not from intent but from breach of fiduciary duty or conscience-based obligations.
+  - Words and Phrases Considered:
+    - “Constructive fraud” – breach of equitable duty without mens rea.
+    - “Fiduciary duty” – obligation of utmost good faith and full disclosure.
+    - “Misrepresentation” – false or misleading statement, whether fraudulent or innocent.
+    - “Mens rea” – mental element required for liability in deceit.
+  - Arguments by Party:
+    - Appellant (Nocton): Denied fraudulent intent; claimed client had access to all relevant facts.
+    - Respondent (Lord Ashburton): Alleged misrepresentation and breach of fiduciary duties; claimed loss due to relying on solicitor’s advice.
+  - Judicial Opinions:
+    - Viscount Haldane LC: Distinguished between common law deceit and equitable relief; recognised solicitor’s fiduciary duties; found that breach of such duty gave rise to liability even in the absence of fraud.
+    - Lord Dunedin: Affirmed that equity imposes duties on fiduciaries that may be breached by misleading advice given in good faith.
+    - Lord Shaw: Emphasised the solicitor-client relationship and the necessity for full and frank disclosure; supported relief based on breach of duty rather than deceit.
+    - Lord Parmoor: Agreed that the claim could be sustained on equitable grounds even if fraud was not made out.
+  - Legal Reasoning:
+    - The House of Lords rejected the view that an absence of fraud precludes liability. While deceit requires mens rea, equity provides remedies where a fiduciary breaches their duty of disclosure and loyalty, even if the breach arises from negligence or good faith mistake. The solicitor was under an obligation to fully inform his client of the implications of the release of security, especially given his personal interest.
+  - Ratio Decidendi:
+    - A solicitor in a fiduciary relationship who gives advice that is misleading and materially affects the client’s interests may be liable in equity for breach of duty, even in the absence of fraudulent intent (Nocton v Lord Ashburton [1914-15] All ER Rep 45, 54–55, per Viscount Haldane LC).
+  - Result:
+    - Appeal dismissed; cross-appeal also dismissed. Solicitor held liable in equity for breach of fiduciary duty; fraud not established.
+  - Relevance to Modern Law:
+    - Confirms that equitable remedies are available for breach of fiduciary duty, even where an action for deceit fails.
+    - Clarifies that Derry v Peek applies only to common law actions for deceit, not to equitable actions for breach of duty.
+    - Remains a foundational case in equity, especially in professional negligence and fiduciary obligation contexts.
+    - Frequently cited in Australian law for the principle that fiduciaries must act with full disclosure, including in Breen v Williams (1996) 186 CLR 71 and Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41.
+- Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd (2018) 360 ALR 1; [2018] HCA 43
+  - Procedural History:
+    - Originated in the Federal Court of Australia before Besanko J.
+    - On appeal to the Full Federal Court (Allsop CJ, Middleton and Davies JJ), partial relief granted.
+    - High Court granted special leave to appeal to Foresters and to Lifeplan/FPM on cross-appeal.
+    - High Court dismissed Foresters’ appeal and allowed Lifeplan’s cross-appeal.
+  - Original Dispute:
+    - Alleged breach of fiduciary duty and knowing assistance by Foresters following the defection of Lifeplan’s senior employees, Woff and Corby, who established a competing business with Foresters using confidential information and business connections from Lifeplan.
+  - Reason for Trial:
+    - To determine whether Foresters, as a knowing assistant in a dishonest and fraudulent breach of fiduciary duty by Woff and Corby, was liable to account for profits, and if so, to what extent.
+  - Material Facts
+    - Woff and Corby were senior employees at Lifeplan and had access to confidential financial and business information.
+    - In mid-2010, while still employed, they prepared a Business Concept Plan (BCP) and approached Foresters with it.
+    - The BCP was based on confidential Lifeplan data and proposed a strategy to replicate Lifeplan’s success by targeting its clients.
+    - Foresters knowingly received and used this information, employed Woff and Corby, and implemented the plan, growing its business dramatically.
+    - Lifeplan’s business declined concurrently.
+  - Issue Raised
+    - 1. Whether Foresters was liable to account for profits as a knowing assistant to breaches of fiduciary duty.
+    - 2. Whether Foresters' profits were caused by those breaches.
+    - 3. Whether the proper remedy included the entire value of the business acquired, or limited profits over a defined period.
+    - 4. Whether anticipated profits (net present value of contracts) could be included in the account.
+  - Law(s)/Statute(s) in Contention
+    - Corporations Act 2001 (Cth) ss 181, 182, 183 (statutory duties breached by Woff)
+    - Corporations Act 2001 (Cth) s 1317H (remedies for statutory breaches)
+    - Barnes v Addy (1874) LR 9 Ch App 244 — knowing assistance doctrine
+    - Common law and equitable principles relating to account of profits
+  - Precedents
+    - Warman International Ltd v Dwyer (1995) 182 CLR 544 — limits on profits disgorged and valuation principles
+    - Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89 — knowing assistance and dishonesty standards
+    - Consul Development Pty Ltd v DPC Estates Pty Ltd (1975) 132 CLR 373 — causation and equitable profit
+    - Chan v Zacharia (1984) 154 CLR 178 — conflict and profit rules for fiduciaries
+    - Dart Industries Inc v Decor Corp Pty Ltd (1993) 179 CLR 101 — profits in equity
+    - Murad v Al-Saraj [2005] WTLR 1573 — anticipated vs actual profits
+    - Hospital Products Ltd v United States Surgical Corp (1984) 156 CLR 41 — fiduciary obligations
+  - Tests
+    - Knowing Assistance Test (Barnes v Addy):
+      - Fiduciary duty must be breached dishonestly and fraudulently
+      - Third party must assist with knowledge of the breach
+      - Knowledge judged by the objective standard of an honest and reasonable person (Farah Constructions, at 163–164 [174]–[177])
+    - Causation Test for Account of Profits:
+      - Whether the benefit was obtained "as a result of" the knowing assistance (per Consul, Warman)
+      - Not limited to “but for” or legal causation — a material contribution suffices
+      - Equity applies a “prophylactic” rationale to prevent gains from dishonesty (Jones, 1968 84 LQR 472)
+  - Words and Phrases Considered
+    - "Account of profits", "anticipated profits", "as a result of", "causation", "disgorgement", "knowing assistance", "material contribution", "headstart", "net present value"
+  - Arguments by Party
+    - Foresters:
+      - Profits not directly caused by acts of knowing assistance
+      - Only actual profits should be disgorged, not anticipated profits
+      - The breach did not contribute significantly to long-term business value
+      - Once Woff and Corby left Lifeplan, they were free to compete
+    - Lifeplan/FPM:
+      - Foresters knowingly participated in a fraudulent scheme
+      - The breach enabled the wholesale acquisition of Lifeplan's business connections
+      - The profits were integrally linked to the dishonest conduct
+      - Disgorgement should cover the entire capital value of the business gained
+  - Judicial Opinions
+    - Kiefel CJ, Keane & Edelman JJ (joint):
+      - Foresters was not a passive recipient but an active participant
+      - The benefit — business connections — was a direct result of knowing assistance
+      - The equity remedy is “prophylactic,” and profits gained through dishonesty must be fully disgorged
+      - The full capital value of the appropriated business was recoverable
+    - Gageler J (leading judgment):
+      - Reviewed facts extensively
+      - Rejected Foresters’ narrow causation argument
+      - Found that profits stemmed directly from Foresters’ dishonest participation in a “sudden strike” strategy
+      - Rejected the distinction between actual and anticipated profits where contracts were legally enforceable
+  - Legal Reasoning
+    - 1. A person who knowingly assists in a fiduciary breach must account for any benefit received "as a result" of the participation (Consul, at 397).
+    - 2. Equity does not confine remedy to actual profit; anticipated profits may be recoverable where they arise from enforceable contracts or acquired business advantage (Potton Ltd v Yorkclose Ltd [1990] FSR 11).
+    - 3. The causation standard in equity differs from tort law; it is enough that the breach made a material contribution to the benefit (Warman, at 558).
+    - 4. The deterrent purpose of equitable relief requires full disgorgement unless the wrongdoer proves that profit is beyond the scope of liability (Birtchnell v Equity Trustees (1929) 42 CLR 384 at 398).
+    - 5. Foresters failed to discharge the onus of proving that any portion of profits were due to factors unrelated to the wrongdoing.
+  - Ratio Decidendi
+    - Where a party knowingly assists in dishonest and fraudulent breaches of fiduciary duty that materially contribute to the acquisition of a valuable business opportunity or ongoing profits, equity requires the party to account for the entire value of the benefit, including the anticipated profits, unless they can prove that some portion of the benefit is unrelated to the breach.
+  - Result
+    - High Court dismissed Foresters' appeal
+    - Allowed Lifeplan and FPM's cross-appeal
+    - Ordered Foresters to account in equity for $14,838,063 — the full capital value of the business connections appropriated
+  - Relevance to Modern Law
+    - Clarifies that equity adopts a flexible and purposive approach to causation in account of profits claims
+    - Confirms that anticipated profits may be included in disgorgement remedies where linked to contracts obtained through breach
+    - Reinforces the deterrent and prophylactic nature of fiduciary obligations and knowing assistance
+    - Provides key guidance on calculating equitable remedies for breach of fiduciary duty in commercial settings
+    - Establishes the high evidentiary burden on defendants seeking to limit disgorgement through speculative or incomplete claims of alternative causation or skill-based profit
+## Week 12: Tracing
+
+- Tracing Rules
+  - What is tracing?
+    - Tracing is . . . neither a claim nor a remedy. It is merely the process by which a claimant demonstrates what has happened to his property, identifies its proceeds and the persons who have handled or received them, and justifies his claim that the proceeds can be properly regarded as representing his property.’
+      - Foskett v McKeown [2001] 1 AC 102 (Lord Millett).
+    - 1. ‘Following’ tracks the same property (in the same form) as it passes from person to person.
+    - 2. ‘Tracing’ tracks the proceeds from the original property into another form.
+    - 3. ‘Claiming’ is the legal/ equitable basis for asserting a right to property (either original or substituted form) in the defendant’s hands.
+  - Substituted property that is identified through tracing
+    - The substituted property into which we trace may be a direct substitution – eg $100 of trust money held for A = a painting bought for $100.
+    - The substituted property into which we trace may represent a mixture, for example:
+      - Plaintiff’s money held on trust mixed with another innocent party’s trust funds;
+      - Plaintiff’s money held on trust mixed with the wrongdoing trustee’s own funds.
+      - Mixtures need to be ‘unmixed’ according to rules established in equity.
+  - Claiming – bringing proceedings
+    - Following and tracing are evidential processes which precede the choice of an equitable claim or claims to vindicate the plaintiff’s original proprietary interest depending on what has happened to the property, and the plaintiff’s choice of claim and remedy.
+    - These include seeking:
+      - Claims for personal monetary remedies (eg equitable compensation or an account of profits);
+      - Claims for proprietary remedies (eg constructive trust; an equitable lien; or an equitable charge to secure payment equitable compensation)
+    - It is possible to bring a personal and a proprietary action so long as there is no double recovery
+  - The main issues…
+    - Four main considerations:
+      - The identity of the party mixing the claimant’s funds with other money;
+      - The title to the mixed fund – is it a mixture of the claimant’s funds with the wrongdoer, or mixed claimants?
+      - Sufficiency – is there enough to repay the plaintiff?
+      - What happens after mixing – has the value of the fund increased or decreased and what withdrawals are made
+  - 1. Rules of tracing into a mixed fund between wrongdoer and beneficiary
+    - If the fund represents a mixture of the wrongdoer and a beneficiary, and is now insufficient, and the money is dissipated, there is an irrebuttable presumption that the trustee preserved trust assets in the fund, and spent his own first: Re Hallet’s Estate (1880) 13 Ch D 696 per Jessel MR; approved in Brady v Stapleton (1952) 68 CLR 322.
+    - The trustee is presumed to have acted honestly and expended their own money first.
+  - Re Hallett’s Estate (1880) 13 Ch D 696
+    - Mrs Cotterill entrusted some Russian bonds to H (her solicitor).
+    - H wrongfully sold the bonds and deposited the funds in his own bank account. (ie mixed account)
+    - H continued to operate the account, spending funds.
+    - H became bankrupt. The solicitor was presumed to have acted honestly and spent his own money first.
+    - The running account approach under Clayton’s Case – ‘first in, first out’ would mean that H was held to have dissipated the bond money each time he made withdrawals, and that the remaining money in the account would represent his own later deposits.
+    - Clayton’s case was NOT applied.
+
+Date
+In
+Out
+Balance
+Comment
+1 Jan
+1,000
+
+1,000
+Mr Hallett’s money in his personal
+account
+1 Feb
+3,000
+
+4,000
+Wrongful deposit of proceeds of
+Russian bonds – mixture of Hallett’s
+money and Mrs Cotterill’s
+
+
+2,000
+2,000
+Hallett wrongfully withdraws and
+spends 2,000; dissipated.
+
+
+
+
+Presumed to have spent his own funds first.
+
+  - 2. Rules of tracing into a mixed fund between wrongdoer and beneficiary
+    - If the fund represents a mixture of the wrongdoer and a beneficiary, and is now insufficient and the trustee purchases an asset with mixed funds and then dissipates the funds, the asset is presumed to represent preserved trust funds: Re Oatway [1903] 2 Ch 356.
+  - Re Oatway [1903] 2 Ch 356.
+    - A solicitor paid 3000 pounds from an estate of which he was trustee into his own bank account.
+    - He withdrew 2137 pounds and used it to purchase shares, dissipating the rest.
+    - Held: Joyce J held that the trust assets were preserved in the shares purchased and then he had dissipated his own money (the reverse of Re Hallett’s estate)
+    - Joyce J:
+      - ‘ . . . When the private money of the trustee and that which he held in a fiduciary capacity have been mixed in the same banking account, from which various payments have from time to time been made, then, in order to determine to whom any remaining balance or any investment that may have been paid for out of the account ought to be deemed to belong, the trustee must be debited with all the sums that have been withdrawn and applied to his own use so as to be no longer recoverable . . .’
+      - The only remaining property from the mixed fund was the parcel of shares, so the trust beneficiaries could claim a charge over that parcel to recover the £3000.’
+Date
+In
+Out
+Balance
+Comment
+1 Jan
+1,000
+
+1,000
+Mr Oatway’s money in his personal
+account
+1 Feb
+3,000
+
+4,000
+Wrongful deposit of proceeds of trust
+funds into his account
+
+
+2,137
+1,863
+Oatway wrongfully withdraws and
+spends 2,137 on shares; dissipated the
+rest.
+
+
+1863
+0
+Presumed to have preserved trust
+funds in the asset.
+  - 3. Rules of tracing into a mixed fund between wrongdoer and beneficiary – The lowest intermediate balance rule:
+    - Where the trustee mixes trust money with his own and makes payments in and out of the account, the claimant cannot claim more than the lowest balance after payment of the claimant’s money into the account. This is because money paid in after is not the claimant’s money: Lofts v MacDonald (1974) 3 ALR 404
+    - There is no presumption that the trustee intended to replenish the fund with later deposits.
+    - The plaintiff can only trace into the later deposits if the defendant credits money in with the intention of replacing the claimant’s money inappropriately withdrawn.
+  - Lofts v MacDonald (1974) 3 ALR 404 (Campbell J)
+    - 
+Date
+In
+Out
+Balance
+Comment
+
+$1,600
+
+$1,600
+Builder deposits trust funds into his
+personal account
+
+
+$1,591.58
+$8.42
+Wrongful payment out leaving low balance
+
+$2,816.08
+
+$2,824.50
+Later deposits made not related to
+plaintiff increasing balance
+
+
+
+
+Held $8.42 was the lowest intermediate balance that
+represented plaintiff’s funds. Could not get a lien over later deposit.
+  - 4. Rules of tracing into a mixed fund Between wrongdoer and Multiple beneficiaries
+    - Three possible approaches:
+      - The accounting rule in Clayton’s case of “first in first out”, is rarely applied): Keefe v Law Society of New South Wales (1998) 44 NSWLR 451; RE French Caledonia Travel [2003] NSWSC 1008;
+      - 2. A pari passu approach where all share equally in the balance; or
+      - 3. Pari passu but applying lowest intermediate balance if possible, which recognizes the reality that payments out will have dissipated the earlier deposits first: Caron and Seidlitz v Jahani and McInerney as liquidators of Courtenay House Pty Ltd [2020] NSWCA 117
+  - Tracing when many beneficiaries’ funds have been mixed See Caron and Seidlitz v Jahani and McInerney as liquidators of Courtenay House Pty Ltd [2020] NSWCA 117, [9]-[18] (Bell P)
+    - Investors all deposited funds with Courtenay House (CH) which operated a Ponzi scheme..
+    - The scheme collapsed, and the investors sought a return of their funds.
+    - CH held the funds in a Westpac bank account (i.e. CH was the legal owner of a chose in action against the bank). Since the value in the bank derived from investor deposits, the bank account was subject to an equitable charge to repay investors (on the basis that there was either an express trust, a Quistclose type trust, or a Black v Freedman type constructive trust).
+    - There were some investors depositing before 21 April 2017 when ASIC obtained freezing orders.
+    - Then a withdrawal of $60,000 on 21 April.
+    - Then some investors depositing after 21 April.
+    - Question was the proper approach to distributing the balance between them all.
+  - Different approaches to distribution of the balance
+    - Bell P (Bathurst CJ and Macfarlan JA agreeing) at [146]-[179] rejected the application of Clayton’s case (at [78]-[84]) and discussed two potential approaches to determining the shares of the investors:
+      - 1. Simple pari passu (all beneficiaries share in the fund rateably)
+      - 2. ‘Lowest intermediate balance rule’ or ‘rolling charge’ approach.
+    - Simple pari passu would mean they all share pro rata in the fund, and hence all suffer a reduction as a result of the $60K withdrawal (favours earlier investors)
+    - Lowest intermediate balance means that those who invested prior to 21 April bear the $60,000 withdrawal pro rata, but the later investors received a return of their deposits without sharing any of the loss from the $60,000 withdrawal.
+  - Running Account - Clayton’s Case first in, first out)
+    - In this case, five partners in a firm held money in an account for Clayton (C). One partner (X) died.
+    - C continued to make withdrawals from and deposits to the account.
+    - Then the partnership became insolvent, and the remaining partners could not satisfy C’s claim for a return of his funds.
+    - C sought to recover from X’s estate (on the basis that X was liable at the time of his death for the debts of the partnership).
+    - The ‘first in first out’ rule was applied to establish that any funds in the account at the time of X’s death had already been withdrawn by C.
+  - Jessel MR:
+    - ‘Nothing can be better settled . . . than this, that where a man does an act which may be rightfully performed, he cannot say that that act was intentionally and in fact done wrongly... When we come to apply that principle to the case of a trustee who ha blended trust money with his own . . . he cannot be heard to say that he took away the trust money when he had a right to take away his own money.’
+  - When is the first in, first out method used?
+    - When beneficiaries have clearly contributed funds at different times.
+    - When there is sufficient evidence to show what the lowest intermediate balance was at applicable times.
+    - When the cost of this forensic work will not deplete the whole fund (as would have been the case in Re French Caledonia Travel (2003) 59 NSWLR 361).
+    - When there is no evidence that all parties have contributed funds on the expectation that they will all be pooled (see Courtenay House [89]).
+  - Caron v Jahani – Court held:
+    - The appeal was allowed. The Court ordered that:
+      - 1. The $60,000 withdrawal be deducted pro-rata across all Category E April 21, 2017 investors who were entitled to their investment less:
+        - - Pro-rata share of $60,000 deduction
+        - - Costs
+      - 3. Category F investors (April 24-26 deposits) entitled to their investment less costs
+      - 4. All distributions subject to hotchpot principles
+      - In other words, the lowest intermediate balance rule was applied so that the Post-21 April 2017 Investors did not bear the $60K withdrawal sharing pari passu with all other Category E investors [175]-[176].
+    - Bell P (Bathurst CJ and Macfarlan JA agreeing):
+      - Rejected the application of the rule in Clayton's Case (first in, first out) [78]-[84]
+      - Found that where evidence permits, the "lowest intermediate balance rule" should be applied rather than a simple pari passu distribution [146]-[148]. This approach, as this:
+        - Better reflects the reality of account movements [147]
+        - Allows investors to trace their funds where possible [153]-[156]
+        - Is more consistent with equitable principles [147]
+        - Recognizes that later investors' funds were less dissipated [154]
+        - While this may favour recent investors, found that this follows from proper application of tracing principles [147]-[148].
+      - Held
+        - “The second approach ... treats any given depositor’s share as rateably reduced whenever there is any withdrawal from the fund. It is in that sense a variation of the pari passu approach, but will yield a different outcome depending on the time that individual deposits were made and any subsequent movements in the account. This is called the “lowest intermediate balance” ... The lowest intermediate balance approach is most consistent with the principles or rules of tracing, and has been considered by some judges and commentators as likely to produce the most equitable result, in the sense of a fair distribution between depositors ... 
+        - It will favour more recent depositors as investors over earlier depositors or investors, not by means of a fiction or presumption of the kind animating the rule in Clayton’s Case, but rather by reason of the historical reality that later contributor’s deposits will not have been subject to as much dissipation by the fraudster or defaulting trustee or fiduciary as earlier contributors’ deposits will have been. A practical problem with the lowest intermediate balance approach, however, is that, depending on the number of depositors whose funds have been invested or deposited into a mixed or blended fund and depending on the extent of movements in that fund over time, including withdrawals, enormous complexity may (but will not always) arise in ascertaining the proportionate entitlement of persons with similar equitable claims over the fund.”
+  - 5. Where trust funds withdrawn and invested successfully, the beneficiary is entitled to a proportionate share of asset and increased value:
+    - Scott v Scott (1963) 109 CLR 649 - house purchased with mixed funds – court awarded beneficiaries a proportionate share of value of house secured by a lien over the house. Bens received value as at date of judgment
+    - Foskett v McKeown [2001] 1 AC 102 – court ordered a constructive trust over insurance payment to the value of 2/5’s of the premiums purchased with the trust funds – note the CT entitled the beneficiaries to a proportionate share of the property itself.
+  - Foskett v McKeown [2001] 1 AC 102 (HL)
+    - Investors paid money to Murphy to be held on trust for a development in Portugal. Murphy used the funds to pay 2 of 5 premiums on a life insurance policy over his own life and settled the policy on trust for his wife and mother subject to power to appoint to his wife, mother and his children, later appointing 9/10 for his 3 children equally.
+    - In 1991 Murphy committed suicide and the insurer paid the parties with the children receiving approximately £1,000,000.
+    - Approx. 40% of the premiums on the policy had been paid out of the purchasers’ moneys. The investor/ purchasers then claimed that they were entitled to 40% of the policy moneys, further arguing that the children hold this 40% on trust.
+    - The children argued that the purchasers were entitled to nothing, or at most a return of the premium paid out of purchasers funds.
+    - HELD: a majority of the House of Lords held the investors were entitled to a constructive trust over the proceeds (£400,000 representing 40% of the payments for the policy).
+  - The simplest case is where a trustee wrongfully misappropriates trust property and uses it exclusively to acquire other property for his own benefit. In such a case the beneficiary is entitled at his option either to assert his beneficial ownership of the proceeds or to bring a personal claim against the trustee for breach of trust and enforce an equitable lien or charge on the proceeds to secure restoration of the trust fund. He will normally exercise the option in the way most advantageous to himself. If the traceable proceeds have increased in value and are worth more than the original asset, he will assert his beneficial ownership and obtain the profit for himself. There is nothing unfair in this. The trustee cannot be permitted to keep any profit resulting from his misappropriation for himself…
+    - [in the case of a mixture] Accordingly, I would state the basic rule as follows. Where a trustee wrongfully uses trust money to provide part of the cost of acquiring an asset, the beneficiary is entitled at his option either to claim a proportionate share of the asset or to enforce a lien upon it to secure his personal claim against the trustee for the amount of the misapplied money. It does not matter whether the trustee mixed the trust money with his own in a single fund before using it to acquire the asset, or made separate payments (whether simultaneously or sequentially) out of the differently owned funds to acquire a single asset.’
+  - Scott v Scott (1962) 109 CLR 649
+    - In breach of trust, William Scott sold a house to which his children were entitled as beneficiaries for approximately £1,400, a substantial portion of which (£1,014) he put towards the purchase of a new home for £1,700.
+    - Shortly before his death, William Scott repaid the trust estate the £1,014 he had misappropriated.
+    - The new house had increased in value and was by then worth around £5,450.
+    - The beneficiaries were held to be entitled to a pro rata percentage of the increased value of the house (1014/1700)
+    - (NB: in this case the beneficiaries only sought an account of a share of the profits, but they could probably have claimed a constructive trust).
+    - McTiernan, Taylor and Owen JJ at 660:
+      - “There is, of course, abundant authority for the proposition that if trust moneys have been exclusively used in the purchase of property the beneficiary may elect to take the property itself. There is also authority for the proposition that if trust funds from two different estates are exclusively used by a common trustee in the purchase of land in his name which has increased in value each estate will be held entitled to a proportionate part of the increase ... Why, then, should a trustee who has mixed moneys of his own with trust moneys for the purpose of purchasing lands which have greatly increased in value be held entitled, upon repayment of the trust moneys misapplied, to retain the whole of any profit which has resulted, at least in part, from the misuse of the trust moneys?
+  - 6. Rules of tracing into property transferred to an innocent volunteer
+    - Re Diplock [1948] Ch 456
+      - Caleb Diplock left a huge bequest to be used for ‘charitable and benevolent’ purposes.
+      - Unfortunately ‘benevolent’ does not mean charitable, so his next of kin challenged the will – successfully – after much of the money had been given away.
+      - Where the innocent volunteer recipients still held funds – or held property constituted by the Diplock money – it could be traced.
+      - The following principles were established
+    - Innocent volunteers – Principles from Re Diplock [1948] 1 Ch 465
+      - Moneys spent on alterations and improvements not recoverable;
+      - Payments to discharge unsecured debts not recoverable;
+      - Payments to discharge a secured debt were not recovered in that case but are now regarded as recoverable – claimant stands in shoes of mortgagee in the sense that mortgagee’s rights revived for benefit of claimant: Boscawen v Bajwa [1996] 1 WLR 328, 339.
+      - Money invested in securities: ratable distribution.
+      - Moneys dissipated not recoverable.
+- Defences
+  - Defences to Tracing
+    - 1. Property is untraceable or dissipated (eg in Re Diplock bens could not prove money spent on renovations existed in property;
+    - 2. The recipient is a bona fide purchaser for value without notice (note that the claimant can trace into consideration received by the trustee)
+    - 3. Change of position: Gertsch v Atsas (1999) 10 BPR 18,431: woman received $100K under the forged will of a murder victim and discharged her mortgage, gave up her job and commenced study.
+    - 4. Registration as proprietor of Torrens land without fraud – at least in NSW, the registration confers indefeasibility of title unless one of the exceptions applies (eg in personam claim):
+      - Fistar v Riverwood Legion and Community Club Ltd (2016) 91 NSWLR 732: the NSWCA accepted that if a volunteer has become the registered proprietor of Torrens land without fraud, the volunteer has indefeasible title.
+  - Bona fide purchaser – Equity’s Darling
+    - Consideration
+      - Purchaser must give valuable consideration
+      - Nominal consideration will not suffice, but to be ‘valuable’ the value does not have to equal the market value of the property or interest transferred.
+      - Equity does not assist a ‘volunteer’.
+    - Good faith
+      - The purchase must be in good faith.
+      - Bona fide
+      - Not unconscientiously
+    - Without notice
+      - To take free, the purchaser of the legal interest must acquire their legal title without notice of the existence of the earlier equitable interest.
+    - A bona fide purchaser of a legal estate for value without notice of any prior equitable interest takes the legal estate free from any such interest.
+  - Akers v Samba Financial Group [2017] UKSC 6
+    - In Akers v Samba Financial Group [2017] UKSC 6, Al-Sanea was the registered holders of shares as trust property in various banks. It transferred these shares to the defendant Samba. Question was whether there had been a disposition of the beneficiaries’ rights. Held no disposition.
+    - Lord Sumption observed at [82] that the beneficiary of a trust has:
+      - “two main legal rights. First, [the beneficiary] had a right to have the trust administered according to its terms. This was a personal right against the trustee ... Secondly, [the beneficiary] had a true proprietary right ... An equitable interest possesses the essential hallmark of any right in rem, namely that it is good against third parties into whose hands the property or its traceable proceeds may have come, subject to the rules of equity for the protection of bona fide purchasers for value without notice.”
+    - The position was neatly summarised by Lloyd LJ in Independent Trustee Services Ltd v GP Noble Trustees Ltd (Morris intervening) [2013] Ch 91,para 106:
+    - “a transferee of the legal title to property under a disposition made in breach of trust, or a successor in title to such a person, does not have the beneficial title to the property, which remains held on the original trusts, unless either the transferee, or a successor in title, was a bona fide purchaser for value without notice. The trustee acting in breach of trust can transfer the legal title, but cannot vest the beneficial interest in the property in a bona fide purchaser for value without notice, since he does not own that title and is not acting in a way which enables him, under the trust, to overreach the beneficiaries equitable interest. Despite that inability, the availability of the bona fide purchaser defence means that a transaction in favour of a bona fide purchaser for value without notice is as effective as it would be if he could vest the beneficial title in the purchaser. Thereafter the purchaser can deal with the asset free from any prior claim of the beneficiaries.” [51]-[52] (Lord Mance with whom Lord Neuberger, Lord Sumption, Lod Toulson JJSC and Lord Collins agreed).
+  - Grimaldi v Chameleon Mining NL [NO 2](2012) 200 FCR 296 (FCAFC), [251] (the Court)
+    - The starting point is the proposition that a third party who acquires legal title to trust property as a purchaser in good faith for value and without notice of any breach of trust or prior equitable interest has a defence in equity to any claim for specific restitution of the property or for compensation for its value to restore the trust property: see generally Ford and Lee, Principles of the Law of Trusts [22.10320]-[22.10340]. Importantly notice here extends beyond actual notice and includes constructive notice in its traditional equitable sense. Such constructive notice will attribute notice of a fact to a person who, while lacking knowledge of it, had knowledge of facts which would put a reasonable person on inquiry. .... What requires present note is that a third party who has only this form of notice when receiving trust property in breach of trust cannot avail of the bona fide purchaser defence. In consequence that person will be liable in proprietary, in rem, proceedings to make specific restitution to the “true owner” of such trust property (or its traceable proceeds) as remains in his or her hands. While this type of claim is, potentially, available to be made in Barnes v Addy “knowing receipt” cases, it is a separate and distinct liability. It is, in essence, a claim to priority
+  - Summary…
+    - Tracing is a process . . .
+    - Used to identify the plaintiff’s Property.
+    - The right to trace is lost when the property can no longer be identified.
+    - If tracing is not possible, the plaintiff still has a personal claim to be repaid.
+- Re Hallett’s Estate (1880) 13 Ch D 696
+  - Procedural History:
+    - Appeal from a decision of Fry J in the Chancery Division. The Court of Appeal (Jessel MR, Baggallay LJ, Thesiger LJ) overturned Fry J’s application of the "first in, first out" (Clayton’s Case) rule, allowing tracing into mixed funds.
+  - Original Dispute:
+    - Following the death of solicitor Henry Hallett (who had misappropriated clients' trust assets), claimants (Mrs Cotterell and trustees of Hallett's marriage settlement) sought to recover misapplied trust funds from Hallett’s banking account, where trust and personal funds were mixed.
+  - Reason for Trial:
+    - To determine whether the beneficiaries could trace their trust property into a mixed bank account and whether withdrawals should be presumed to come from personal funds or trust funds.
+  - Material Facts:
+    - Mrs Cotterell entrusted Russian bonds to Hallett for safekeeping and receipt of income.
+    - Hallett sold the bonds without authority and deposited proceeds (trust funds) into his private bank account, mixing them with his own money.
+    - Subsequent withdrawals were made for Hallett’s personal use.
+    - At all times, the balance in the account never fell below the total amount of trust proceeds deposited.
+  - Issue Raised:
+    - Can beneficiaries trace into a mixed fund where trust money has been combined with a trustee's personal money?
+    - Should withdrawals be presumed to dissipate trust money first or the trustee’s personal money first?
+  - Law(s)/Statute(s) in Contention:
+    - Equitable principles of trust law and tracing.
+    - Presumptions governing banking accounts and appropriation of funds (Clayton's Case (1816) 1 Mer 572 distinguished).
+  - Precedents:
+    - Devaynes v Noble (Clayton’s Case) (1816) 1 Mer 572.
+    - Pennell v Deffell (1853) 4 De GM & G 372.
+    - Taylor v Plumer (1815) 3 M&S 562.
+    - Frith v Cartland (1865) 2 Hem & M 417.
+    - Numerous 18th–19th century English tracing and fiduciary duty cases.
+  - Tests:
+    - Tracing test: Whether property or its identifiable proceeds can be traced, even when mixed (per Jessel MR).
+    - Presumption test: Drawings for personal purposes presumed to be from personal funds, not trust funds.
+  - Words and Phrases Considered:
+    - "Following trust property"
+    - "Charge on mixed property"
+    - "Presumption of honesty"
+  - Arguments by Party:
+    - Beneficiaries argued trust funds remained identifiable or recoverable from the mixed account.
+    - Defendants (creditors) argued that early withdrawals should be attributed to trust funds under the first in, first out rule.
+  - Judicial Opinions:
+    - Jessel MR (majority): Equity presumes honesty — a trustee draws his own money first.
+    - Baggallay LJ (concurring): Agreed that trust money remains intact if the balance never falls below the trust amount.
+    - Thesiger LJ (dissenting): Felt bound by authority (Pennell v Deffell) to apply Clayton’s Case rule.
+  - Legal Reasoning:
+    - Trust beneficiaries have a right to trace into mixed property and claim either the property itself (if identifiable) or a charge over the mixed fund.
+    - A trustee cannot be heard to claim he acted wrongfully when he could have acted lawfully — thus, withdrawals are presumed to come from personal funds first.
+    - The outdated rule in Clayton’s Case is inapplicable when it would defeat equitable interests.
+  - Ratio Decidendi:
+    - When a trustee mixes trust and personal funds, any drawings are presumed to come from the trustee’s own money, not trust money.
+    - Trust beneficiaries can trace into mixed funds and claim a charge or lien for the amount of trust money.
+  - Result:
+    - Appeal allowed; beneficiaries could claim the full amount from the remaining bank account balance.
+  - Relevance to Modern Law:
+    - Forms the foundation of modern tracing principles in equity
+    - Continues to be applied in NSW and Australian law (e.g., Foskett v McKeown [2001] 1 AC 102).
+    - Relevant to trustee duties, equitable proprietary claims, and remedies for breach of fiduciary duty.
+    - Confirmed the flexible, evolving nature of equitable remedies.
+- Foskett v McKeown and Others [2000] 5 LRC 664
+  - Procedural History:
+    - Appeal from the Court of Appeal (Sir Richard Scott V-C, Hobhouse LJ (majority), Morritt LJ (dissenting)) to the House of Lords. The Court of Appeal held that the claimants were only entitled to a lien for the stolen amounts. The House of Lords (by majority) reversed this, allowing the purchasers a pro rata proprietary share in the insurance proceeds.
+  - Original Dispute:
+    - Whether beneficiaries of misappropriated trust funds could claim a proportionate proprietary share in life insurance proceeds after their money was used to pay two premiums on the policy — even though the policy payout would have occurred without those two payments.
+  - Reason for Trial:
+    - To determine the appropriate remedy for trust beneficiaries whose funds had been used in breach of trust to pay life insurance premiums — lien vs proportionate ownership.
+  - Material Facts:
+    - Mr Murphy took out a life insurance policy (£1m) for his children and others.
+    - Paid first two premiums from his own funds.
+    - Paid fourth and fifth premiums using trust funds held for land purchasers (the plaintiffs), in breach of trust.
+    - The policy would have paid out the same death benefit even without the fourth and fifth premiums.
+    - Purchasers sought a proprietary share in the £1m death benefit payout after Mr Murphy's suicide.
+  - Issue Raised:
+    - 1. Can trust beneficiaries trace into the insurance proceeds and claim a proportionate proprietary share?
+    - 2. Does it matter that the misappropriated funds did not causally increase the death benefit?
+  - Law(s)/Statute(s) in Contention:
+    - Equitable tracing rules.
+    - Proprietary remedies for breach of trust.
+    - Distinction between tracing and unjust enrichment.
+  - Precedents:
+    - Re Hallett’s Estate; Knatchbull v Hallett (1879) 13 Ch D 696
+    - Re Diplock’s Estate [1948] 2 All ER 318
+    - Scott v Scott (1963) 109 CLR 649
+    - Jones v De Marchant (1916) 28 DLR 561
+    - Edinburgh Corp v Lord Advocate (1879) 4 App Cas 823
+  - Tests:
+    - Tracing Test (equity): Ownership rights persist in misapplied funds and their substitutes (Re Hallett’s Estate).
+    - Mixed Fund Test: In mixed substitutions, beneficiaries can claim either a proportionate share or a lien (per Lord Millett).
+  - Words and Phrases Considered:
+    - "Mixed substitution"
+    - "Tracing into mixed proceeds"
+    - "Confusio" (Roman law analogy)
+  - Arguments by Party:
+    - Purchasers: Entitled to a proportionate share because their trust funds contributed to maintaining the policy.
+    - Children (beneficiaries): No causal link; policy would have paid out regardless of the stolen funds; purchasers should get only a lien for repayment.
+  - Judicial Opinions:
+    - Majority (Lord Browne-Wilkinson, Lord Hoffmann, Lord Millett):
+      - Trust beneficiaries can trace into mixed assets and claim a pro rata proprietary share.
+      - Ownership rights are not discretionary; no unjust enrichment analysis needed.
+    - Dissent (Lord Steyn, Lord Hope of Craighead):
+      - The purchasers' money did not causally contribute to the death benefit.
+      - Purchasers should only have a lien for the amounts stolen.
+  - Legal Reasoning:
+    - The right to trace into mixed assets is a matter of property law, not discretionary fairness.
+    - Mixed substitution does not defeat equitable tracing rights even where trust funds did not cause an increase in asset value.
+    - Allowing the trustee or his donees to retain a windfall would violate the no-profit rule for trustees.
+  - Ratio Decidendi:
+    - Where trust money contributes to acquiring an asset, beneficiaries are entitled to a proportionate share or a lien, even if the trust money did not increase the final value of the asset.
+  - Result:
+    - Appeal allowed; cross-appeal dismissed.
+    - The purchasers were entitled to a proportionate share of the insurance money corresponding to their contributions to the premiums.
+  - Relevance to Modern Law:
+    - Clarified that tracing is about vindicating property rights, not reversing unjust enrichment.
+    - Established mixed substitutions as permitting a choice between pro rata share or lien.
+    - Disapproved Jessel MR’s suggestion in Re Hallett that only a lien would be available in mixed substitutions.
+    - Continues to be a cornerstone in Australian trust law, tracing, and remedies against fiduciaries (NSW Equity students especially must know this case).
+  - 📌 Quick Exam Takeaways:
+    - Tracing ≠ Unjust Enrichment: It protects ownership rights, not fairness or moral enrichment.
+    - Mixed Substitution Rule: Trust money used = beneficiary can claim either a pro rata share or lien (per Lord Millett).
+    - Windfalls: Trustees and their donees cannot keep profits made using misapplied trust funds.
+    - Lien vs Ownership: Ownership (pro rata) preferred where possible unless assets are indivisible.

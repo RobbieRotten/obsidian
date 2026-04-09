@@ -1,0 +1,10 @@
+@use "./base.scss";
+.search-status { margin-top: .5rem; opacity: .8; font-size: .9rem; }
+#sem-results { margin-top: .75rem; list-style: none; padding: 0; }
+#sem-results .search-hit { padding: .5rem .25rem; border-bottom: 1px solid var(--light); }
+.hit-title { font-weight: 600; }
+.hit-where { font-size: .85rem; opacity: .8; margin: .15rem 0; }
+.hit-snippet { font-size: .9rem; opacity: .9; }
+.hit-score { float: right; font-variant-numeric: tabular-nums; opacity: .6; }
+
+// put your custom CSS here!

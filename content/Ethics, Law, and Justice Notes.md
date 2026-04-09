@@ -1,0 +1,1007 @@
+#tag-notes #tag-tutorial
+
+-  Practice teams
+  - Diverse, specialized individuals coordinating to serve clients
+- Reflections on Borthwick
+  - Victim impact statement 
+    - VIS
+    - Used in sentencing
+      - Provide victims with a voice in the hearing
+      - Expression space of impact
+    - Question of whether sentencing court should consider and respond to the interests and concerns of  both the defendant and the victim.
+    - Sentencing Act 1991 (Vic) 
+      - members of the deceased’s family submit VIS providing details of impact loss or damage caused
+        - Used to assist the court in determining sentence.
+  - Three issues for Public in trial
+    - the  contentious nature of the VISs
+    - lack of notice and preparation for the objections 
+    -  treatment of the family victims in the process.
+  - Dawlan 
+    - Making rulings with respect to each part of the statements subject to objection not necessary
+  - Weird trial practices
+    - Typically ask judges to disregard instead of object, but not the case here
+      - Also warn barrister beforehand so they know (very casual)
+        - Didn’t happen
+      - Actually live edited the VIS without family input,
+        - Took so long court adjourned
+        - No justification to what was cut out
+      - Separated defendant and victim families
+    - Courts fixed these issues in May 2011 in ‘practice direction’
+      - Impact on the conduct of plea
+        - Request a preliminary hearing
+      - Did not address inter-personal treatment of victims in the courtroom
+    - Victim family are nonparties
+      - Fairness required the court to respond empathically to their situation and acknowledge their emotional responses to court events.
+    - Conclusion - Opinion
+      - Protect both defendant and accommodate victim both, not just one or another
+      - courts will need to be dynamic,  adaptive, and  reflective
+- Legal Writing
+  - Types of writing
+    - Legal effect
+      - Legislation
+      - Contracts 
+      - deeds
+      - Wills
+    - Legal analysis
+      - Case notes
+      - Legal briefs
+      - Memoranda
+      - Letters of advice
+    - Law Commentary
+      - Journal articles
+      - Books
+      - Legal essays
+  - To write effectively
+    - Understand goal
+    - Know audience of work and whether style is right for the job
+    - Clear, direct, straightforward
+  - Assessment types
+    - Essays
+      - Persuade a user of conclusion
+    - Problem responses or advices
+      - Objectively reasoned prediction of how a court or tribunal would lean
+      - Both sides and anticipate both arguments
+      - Viable position? 
+        - Means discuss both positions
+  -  Specific principles of good legal writing
+    - Precision
+    - Plain English
+      - Remove Jargon and old english
+      - Use correct words (battery rather than assault)
+  - Active Voice
+    - Passive to obscure object
+      - Direct attention away
+    - Use Active to draw attention
+    - Punchier
+  - Short Sentences and Coherent paragraphs
+    - Sentence length must be varied, one or two points.
+  - Buried clause
+    - Tries to elaborate on original point while making original point (combines too much)
+- Legal work
+  - work done by legal practitioners, as barristers and solicitors.
+    - Advise and represent clients
+  - Litigious 
+  - Non-litigious
+  - Skills and duties
+    - Interviewing
+      - Clients and others
+    - Drafting documents 
+      - Letters, litigation pleadings, contracts, submissions, 
+    - negotiating agreements and settlements
+    - lobbying
+    - Making presentations or submissions 
+      - Such as in-court pre-trial or non-trial advocacy, and out-of-court representation
+    - trial advocacy 
+      - introducing evidence, cross-examination, making submissions, and address
+  - Legal Practice
+    - Property
+      - Conveyancing
+    - Commercial
+    - Corporate
+    - Securities
+    - Tax
+    - Family law
+    - Personal injuries
+      - Compensation
+    - Consumer protection
+    - Industrial law
+    - Criminal law
+    - Banking
+    - Etc
+  - Officer of the court
+  - Process of law reform
+    - adversarial system
+    - Political response from public
+    - Evaluation of laws
+      - Government
+    - Law Reform Commissions
+    - Lawyers appointed as Commissioners
+      - These are academic lawyers
+  - Academic lawyer influence on law
+    - Research encourages scrutiny
+      - Shed light on issues with legislation and judicial decisions
+      - Law Foundations (1980s)
+        - Grants for research
+    - Law students they teach affect policy
+- Ethical professional Identity
+  - Values introduced to law curriculum
+    - Service ideal 
+      - Pro bono service
+  - professional identity
+    - ‘relatively stable and enduring constellation of attributes, beliefs,values, motives, and experiences in terms of which people define themselves in a professional role
+  -  areas of knowledge necessary for success in future legal practice:
+    - Technology
+    - Practice Skills 
+      - Including teamwork, collaboration, writing, and drafting skills, interview skills, presentation skills, advocacy/negotiation skills
+    - Business Skills 
+      - Including basic accounting and finance
+    - Project Management
+    - Internationalisation and Cross-Border Practice of Law
+    - Interdisciplinary experience
+      - Including interaction with clients and another profession/ occupation
+    - Resilience, Flexibility, and Ability to Adapt to Change.
+- Regulating˜the Profession in Australia
+  - Professionalism
+    - The body of qualities or features, such as competence, skill, et
+      - characteristic of a profession or professional
+      - possessing special knowledge and skills in a widely recognized body of learning derived from research, education, and training at a high level
+    - Following Guidelines
+      - An ethic of excellence
+      - An ethic of integrity
+        - Accurate, truthful advice - may not be the wanted advice
+        - Saying no to client
+      - Respect for the legal system and rule of law
+      - Respect for other lawyers
+      - Commitment to accountability
+      - Responsibility for the adequate distribution of legal services
+- Six self-management skills
+  - +/- 50% of a person’s happiness is genetically predetermined, 10% external circumstances, 40% personal control
+    - Independent Learning
+      - Control and responsibility for your learning
+      - Help with autonomy
+      - Reduce insecurities as a student
+      - Ensure you needs are met
+      - Planing, monitoring, evaluating, reflecting, decision making skills
+    - Reflective Practice
+    - Using feedback appropriately
+    - Resilience
+    - Hope and Optimism
+    - Mindfulness
+  - Strategies for Independent Learning
+    - Set goals for your learning 
+    - Develop study skills
+    - Reflect
+    - Find your voice
+    - Ask questions
+    - Share ideas and seek mutual support
+- The 21st-Century T-Shaped Lawyer
+  - T-shaped lawyer
+    - Deep legal expertise
+      - Collaborate  across many  disciplines, such as 
+        - technology, business, analytics, and data security. 
+      - Empathetic
+        - Connect ideas across disciplines
+  - Technology and social media
+    - e-discovery, document automation and management, data storage,  practice management software, and  more
+  - Business
+    - Project management
+  - Data analytics
+    - federal court data is stuck behind PACER’s paywall,  state court data is not all available online, and there is little data on settlements.
+  - Data security
+    - Terrible data security at most law firms
+  -  lawyer unfamiliar with computer-assisted legal research may be found negligent if his or her offline research fails to find relevant authority.
+  - Technium
+    - ‘has  grown  its  own  agenda, its own imperative, its own direction’
+- The life of a lawyer
+  - Solicitor
+    - Office based
+    - Legal advice about transactions and disputes
+    - Draft legal documents, conduct legal negotiations
+    - Responsibilities
+      - Interview clients
+      - Provide legal advice
+      - Recommend action
+      - Draft contracts, deeds, trusts, wills, leases, etc/.
+      - Investigations on behalf of the client
+      - Prepare cases for court and arrange witnesses
+      - Trustee, guardian, or executor of a client’s will
+      - Legal research 
+  - Barrister
+    - Legal advice and opinions
+    - Represent clients before courts or tribunals
+    - Sole traders - self employed
+    - Groups of barristers - small offices
+      - chambers
+    - Responsibilities
+      - Argue cases before civil, criminal, and industrial courts
+      - Argue before tribunals and arbitrators
+      - Provide advice and opinions
+      - Confer with instructing solicitors
+      - Draft court documents such as pleadings and affidavits
+      - Draft a range of other legal documents
+      - Conduct legal research 
+  - Thinking like a lawyer
+    - Assume nothing	
+      - It depends
+      - Find every relevant fact, locate every applicable rule, determine every possible issue and consider every conceivable argument before offering their opinion or advice. 
+    - Connect everything
+      - Relationship between rules, facts, and issues
+    - Advocacy
+      - Persuasion more than arguing
+  - Private Practice
+    - Non-gov-owned profit-seeking organizations
+    - Barristers are private practice
+    - Small firm
+      - 5 partners or less 
+      - More responsibility 
+    - Medium firm
+      - 5 to 20 partners
+      - Located in the city or inner suburbs
+      - Wider range of co-workers, more complex legal issues
+      - Sometimes specialisation
+    - Large firm
+      - 20+ partners
+      - Very complex work
+  - In-house counsel
+    - Employed by a large organization 
+  - Public sector
+    - Judiciary 
+    - Employed by government 
+    - Often employed within the Australian Law Reform Commission 
+    - Legal aid
+      - Lawer for broke
+    - Judges associate
+      - Secretary for judge
+  - Community Sector
+    - Community legal centers
+      - Advice and referral for free
+  - Alternative dispute resolution (ADR)
+    - Mediation, arbitration, conciliation, and adjudication
+    - Some lawyers sp ecialise in
+    - Often required before court
+- Being committed to justice
+  - Social justice
+    - Justice for the community as a whole
+  - Source of justice
+    - Divine command
+      - Because religion said so
+    - Natural law
+      - Objective truths, people who do wrong should be punished
+    - Positive law
+      - Justice is the law, and vice versa
+    - Mutual agreement
+      - Whatever the community agrees
+    - Consequentialism
+      - Justice is the decision or action that has the best consequences for community wellbeing
+        - Punished to deter crime
+  - Three principle justices
+    - Distributive Justice
+      - Fair and proper distribution of wealth, resources, and power
+      - Egalitarianism 
+        - Resources are split evenly
+      - Desert theory
+        - Resources are split by need (equity) or by some criteria (race)
+      - Utilitarianism 
+        - Resources are split to maximize average happiness
+    - Procedural Justice
+      - If a person receives a fair hearing or trial (due process)
+      - Australian Security Intelligence Organization (ASIO) 
+        - Australian Security Intelligence Organiszation Act 1979
+          - Same as US Patriot Act
+          - Questioning warrant 
+            - Bring in for questioning 
+            - Held for 28 days, questioning up to 24 hours in blocks of 8 hours
+            - Refusing to answer is up to 5 years prison
+            - No wrongdoing needs to be suspected
+            - Can deny you a lawyer if suspected you will alert someone involved with terrrorism 
+    - Retributive Justice
+      - Proper response by the state to a wrongful act - how to best punish a wrongdoing
+      - Contrasted by restorative justice
+        - Concerned with restoring of healing the victim and reintegrating the offender into the community. 
+  - For Rawls in book A Theory of Justice
+    - Justice requires an impartial distribution of resources and opportunities
+    - Potentially slavery is beneficial to the good of the community, if following strict utilitarianism, you might be a slave yourself
+      - May not always be the best option
+    - His solution
+      - Each person is free to do as they choose if they do not infringe on basic freedoms of others
+      - If there are social and economic inequalities, the should be both to the greatest benefit of the least advantaged and attached to offices and positions open to all under conditions of fair equality and opportunity
+    - Liberties are distributed equally, while social and economic goods are not completely. 
+    - Nozick argues if a car was legitimately sold to you, any redistribution of your vehicle to the greater good is theft, while under Rawls, car owners would pay a tax to support public transportation
+- Ethics, Values, and Professionalism
+  - Ethics
+    - moral philosophy or moral principles adopted as a code or framework of behavior in a particular context
+    - Moral values can differ more or less significantly between cultures, and within particular societies
+    - Choose the values that are meaningful
+      - Answering a practical question - what should I do 
+    - the development of the law has been influenced by ethics, but ethics is not derived from law;
+    - the reasons for significant laws governing human beings and their institutions (criminal laws, laws about the incorporation of business or protecting the environment) are overwhelmingly ethical reasons;
+      - law is commonly a public expression of, and sanction for, the morality of a given society; 
+    - the law should be continually subject to the scrutiny of ethical critique
+  - professional responsibility framework
+    - set of duties owed bythe legal practitioner to each of the client, the court and the administration of justice, and to other practitione
+    - Lawyers first duty is to court and to justice
+    - Leges sine moribus vanae: 
+      - effective laws need the supportof everydaypracticeand belief
+    - Ross different law models
+      - lawyer-control model - the lawyer’s knowledge and training means that they know what is best for the client and expect the client to follow their advice;
+      - client-control model - the lawyer provides the technical advice and the client makes the decisions for the lawyer to carry out, be they ethical or not;
+      - Cooperative model - a largely relational model where the lawyer and client work together, based on communication, discussion and agreementon the decisions to be taken.
+    - Parker and evans four main strands of ethical reasoning
+      - Adversarial advocacy  - the requirement for lawyers to advocate on their client’s behalf within the bounds of the law, regardless of outcome or effect on others;
+      - The responsible lawyer - who accepts that, as an officer of the court, there is also an obligation to facilitate the administration of justice; 
+      - moral activism - taking the opportunity to improve justice through law reform, public interest law, and client counseling; and an ethics of care - 
+        - an approach to practice that is about preserving relationships with clients, between parties, and within communities. 
+    - Professional identity consists of three elements: 
+      - your personal identity;
+      - The role identity (of being a lawyer);
+      - and the social identity of your profession 
+  - Virtue ethics
+    - development of moral character and the virtues that a person should cultivate to lead a good life. 
+  - Deontological ethics
+    - Duty based ethics
+    - individuals have a moral obligation to follow these rules and principles, even if doing so may lead to less favorable outcomes.
+  - Consequentialist ethics
+    - Utilitarianism 
+- Lawyer types
+  - Adversarial advocate
+    - Will fight for client in all circumstances
+  - Responsible lawyer	
+    - Will fight for client unless violating compliance with spirit of law
+  - Improve justice
+  - Ethics of care
+    - Preserving relationships and avoiding harm
+- self-represented litigant(SRL)
+  - More common now 
+- disadvantage of poorer defendants. 
+  - The introduction of mandatory sentencing
+    - Poorer people may need to drive more or earn income from driving
+  - The introduction of Penalty Infringement Notices (PINs) for minor offenses which is widely used throughout Australia,
+    - On-the-spot fines
+      - Traffic and parking infringements, travel infring, offensive behavior (arguing with police, parking, or transit personnel) and other anti-social offenses
+  - A tendency for law enforcement and other agencies to concentrate on lower end offenses
+  - Plea-bargaining 
+    - Lighter sentencing in exchange for admission of lesser guilt
+  - Restorative justice
+    - Reducing return to crime in first-time offenders
+  - Societal ambivalence towards drugs of addiction.
+- Lack of rural and/or cheap translators
+  - Often at person’s own cost
+- Tampa incident 2001
+  - ordered a navy ship to turn away
+  - a merchant vessel which had picked up the survivors of sinking refugee boats at sea
+- Telecommunications(Interception andAccess)Act 1979(Cth
+  - compel internet service providers and telecommunications companies to store customer metadata for the purposes of intelligence gathering and law enforcement for a period of two years
+- STEPS TO ANAYLSE CASE 
+  - Note the name of the case and its citation
+    - THE CASE OF THE SPELUNCEAN EXPLORERS, SUPREME COURT OF NEWGARTH, 4300
+  - Clarify the procedural history of the case. 
+    - Court  of  General Instances  of  the  County  of  Stowfield
+      - Sentenced to hang
+  - Ascertain the material facts
+    - Cave explorers got trapped, difficult to rescue took 32 days
+    - Physicians told stuck that they would not survive
+    - No one would answer whether they would survive if they ate a member of party
+      - Stuck men did eat whetmore (asking questions)
+      - He proposed eating someone and dice
+      - Lost the throw after chickening out (someone threw for him)
+    - Society has law that take life willingly is hanged, but sympathy is allowed
+  - State the issue raised by the material facts and how the court answered it (theresult of the case
+    - Should the men who killed Roger Whetmore hang as law dictates even through a survival situation
+    - N. C.  S. A. ( N. S. ) § 12-A, willfully take the life of Roger Whetmore.
+      - "Whoever  shall  willfully  take  the  life  of  another  shall  be punished by death."
+  - Identify the reasoning which supported the decision and the ratio of the case.
+    - Truepenny C.J
+      - Withheld 
+    - Foster J
+      - The  proposition  that  all  positive  law  is  based  on  the possibility of men's  coexistence
+      - When the assumption that men may live together loses its  truth,  as  it  obviously  did  in  this  extraordinary situation where life only  became  possible  by  the  taking  of  life,  then  the basic premises underlying our whole legal order have lost their meaning and force.
+        - Men were not physically nor mentally bound by law of the nation that they were not apart of at the time (covered by tons of rock and removed from society, state of nature)
+        - They were their own government
+        - 10 construction workers were acceptably killed to save 5, but they cannot kill 1 to save the other 4 voluntarily 
+        - Set aside
+    - Tatting J
+      - If Whetmore shot him, it would be as if a prisoner shot a hangman, not self-defense
+      - Law should be applied in light of its purpose but other precedent shows it also is for
+        - Retribution
+        - Rehabilitation of the wrongdoer
+      - Murder is done willfully, while self-defense is instinctual
+      - Court has held that stealing bread due to hunger is not a valid defense
+        - So how can killing a man be justified
+      - Even if valid, how is the selection process decided (only one afterlife believer should die?)
+      - Laments that the crime charged was murder (little leeway and one result), rather than lesser crime (flesh)
+      - Withdrew
+    - Keen, J
+      - Personally believes they should be pardoned but belives it’s not his place to address Chief Executive, but will follow the law as his job
+      - He is not an advocate, law is law, but knows foster loves hall
+      - It sucks, but changing the law now would make things worse
+      - Affirmed
+    - Handy, J
+      - Was it a unilateral or bilateral bargain in the cave
+      - Did he revoke his offer prior to action taken
+      - 90% of public and 90% of judges want to pardon or token punish, so that’s what it should be
+        - With reason as public is crazy
+      - Chief Justice proposes that court sentences them to be hanged but another branch pardons them to preserve the integrity of law
+      - Not worth courts time and energy, just use common sense 
+      - Set aside
+- Result: Victims were executed
+- Judiciary
+  -  Act of Settlement of 1701
+    - Security of tenure
+    - Office for life except through misbehaviour or incapacity
+  - Robes and judicial wig in courts of record which serve to provide a measure of anonymity and thus of apparent impartiality
+- access to justice
+  - access to legal advice and the courts 
+  - Champerty
+    -  Litigation funding companies(LFC
+    - companies will fund more risky cases, but typically operate on the basis that they are paid an agreed proportion
+  - representative actions
+    - Class action suit, all under one law firm
+    - Section 33C of the FCA Act 1976 (Cth) provides
+      - 7+ people against same person
+      - Same or similar circumstances
+      - Common issue of law or fact
+  - amicus curiae
+    - Friend of the court
+    - Bystanding lawyer, possibly waiting in court for their own case to be called, offers or accepts the role
+- Financial Arrangements for payment of legal services
+  - Billable hours
+    - ten 6 minute increments for each billable hour
+    - Cost disclosure
+      - Estimated cost of service
+    - Cost agreement
+      - Disclose cost 
+      - client’s right to negotiate
+      -  estimate of total legal cost
+      - rate of interest
+      - dispute process
+- Profession
+  - A profession is not, then,an occupation but a means of controlling an occupation
+  - six interrelated values to define professionalism of lawyers 
+    - An ethic of excellence
+    - an ethic of integrity
+    - respect for the legal system and rule of law
+    - a respect for other lawyers
+    - a commitment to accountability
+    - a responsibility for the adequate distribution of legal services
+- Changes to fee restrictions: 
+  - removal of restrictions on advertising was necessary to create openness to competition and allowed firms to attract new clients and create new opportunities.
+- Advertising
+  - Post reforms,  responsible advertising was recognized as beneficial for both the profession and consumers of legal services.
+- New practice structures
+  - genuine incorporation of legal practices
+  - Incorporated legal practices and legal practitioner directors
+    - Multidisciplinary practices that conduct both legal and non-legal activities are permitted
+- Co-regulation
+  - The Uniform Law
+    - uniform regime regulating business practice and professional conduct
+  - overseen by the Legal Services Council and the Commissioner for Uniform Legal Services Regulation.
+- A single national legal services market
+  - Mutual Recognition Acts 
+    - Legal practitioners to engage in those occupations in any part of the nation without the need to requalify. 
+- Legal services market
+  - Law is now a commercial activity rather than a community-oriented profession.
+  -  decline in professionalism, 
+- Competency Standards 
+  - set  out  levels of  competency which  must be demonstrated  by applicants for  admission, under  the  headings of Skills,Values and  Practice  Areas.
+- Cases related to admittance - (Re cases means in the matter of) means court acts in an advisory capacity - Legal Profession Uniform Law (NSW) No 16a of 2014
+  - Re B  [1981] 2 NSWLR 37
+    - Wendy Brown
+    - Activist, lied bail
+    - Protestor 
+  - Failure to disclose
+    - Re Davis
+      - Davis failed to disclose a past charge, b & e 8 years prior to application
+      - disclosure
+    - Re Hampton
+      - Disciplinary finding of inappropriate conduct in previous job
+    - Del Castillo
+      - Tried for murder in ACT, failed to disclose past charges, was advised he did not have to disclose as he was acquitted 
+      - Acquitted disclosure
+    - Re King
+      - Police officer did not fully explain offence 
+        - Material suggested he wasn’t really guilty but pleaded so as to not embarrass the victim
+    - Law Society of Tasmania v Richard
+      - Did not disclose academic misconduct as he believed it erroneous, and was told that he did not need to 
+        - Found to be error-of-judgment
+      - University
+    - Re AJG
+      - Plagiarism in PLT, was admitted by Solicitors’ Board, but denied by Supreme Court
+      - Similar in Re Liveri
+    - Re OG (a lawyer)
+      - Cheated on an assignment, OG passed but did not disclose while GL did, OG struck from roll
+    - Re Application by Saunders
+      - misled  the  court  of  summary  jurisdiction over the facts and  circumstances leading to conviction of austudy payments
+- Conducts, Complaints, and Discipline
+  - Legal Services Commissioner
+    - Created in NSW as watchdog for self-regulating law body 
+  - Complaints besides cost issues typically have a limit of 3 years, unless really obvious reason why longer
+  - Prothonotary (the keeper of the Roll of Lawyers)
+  - Prothonotary of the Supreme Court of New South  Wales v Pangallo
+    - The High Court did not attempt to revisit  the original criminal conviction and confirmed that this  was not the role of disciplinary proceeding some offenses ‘strike at the heart of the justice system’ and conviction of such offenses can provide conclusive evidence of unfitness. 
+      - Bribery
+  - There are two types of events that require compulsory disclosure: 
+    - automatic show cause events 
+      - bankruptcy-related events
+      - convictions for serious or tax offenses
+    - designated show cause events.
+      - non-compliance with conditions on a practicing certificate,
+      - providing unauthorized services,
+      - non-compliance with professional indemnity insurance requirements
+  - Legal practitioners must provide a statement explaining the circumstances of a show cause event and why they still consider themselves to be a fit and proper person to hold a practicing certificate.
+- The Lawyer-Client Relationship - The Retainer
+  - Duty Matrix
+  - Retainer
+    - Agreement for what the lawyer is retained to do
+  - Consequences for Breach of Duty
+    - Civil actions	
+      - Client suits, negligence or breach of contract
+    - Statutory consequences
+      - Disciplinary action
+    - Criminal consequences
+      - Breach of crime legislation
+        - Perjury
+        - Concealing serious indictable offenses 
+  - Initial interview
+    - Goals
+      - Obtain info
+      - Analyses the facts and law
+      - Preliminary advice
+      - Possible options and consequences
+      - Obtains instructions  
+  - Everything must be in email or document form
+  - How Layers behave with different clients
+    - Instructions from an unincorporated association
+      - A football club or similar community organization
+      - Need structure and who can give instructions
+      - Acting as an individual or on behalf of that organization 
+    - Instructions to act for a corporate client
+      - Written authority to act as lawyer, nominating authorized individuals
+      - Status of corporate client
+        - Liquidation 
+        - In receivership or administration
+    - Acting as in-house counsel
+      - same duty to the client/employer as the lawyer in private practice owes to the client.
+      - Even in-house counsel is lawyer to client relation, not employee
+    - Receiving instructions from an insurer 
+      - subrogation principles of insurance
+      - an insured plaintiff or defendant in litigation will be required to transfer control of the action to the insurer. 
+    - Instructions to act for a child 
+      - Direct representative model
+        - Child is the client and instructs lawyer
+        - Sui juris
+          - Not to have the legal capacity to bring the proceedings 
+          - Will often have a tutor, they may be ignored if doing something against client’s best interest
+        - Includes disabled people
+    - The representation of children under the Family Law Act 1975 (Cth)
+      - Parenting orders
+        - Where a child should live, time spent with parents or other parties, allocating responsibilities
+        - Best interest of the child is supreme
+  - Cab Rank Rule
+    - Barrister cannot deny a brief unless beyond skill, capacity, experience, or too much time commitment/bad pay
+      - Cannot decline for moral reasons
+    - Solicitor casn decline for moral reasons
+  - Solicitors lien
+    - Entitled to refuse to hand over any documents or property of the client (including money) in solicitor’s possession
+- Disbursements
+  - Disbursement
+    - Outlays
+      - Expenses paid by a law practice in the course of providing those services. 
+- Duty to Account
+  - a lawyer who receives funds on behalf of a client acts as a “trustee™ of those funds
+  - Must be held in lawyer’s trust account
+    - Full and accurate records to deposits and withdraws
+    - Only client authority can typically handle trust
+    - Externally audited yearly
+  - Lawyer probably not liable for doing as authorized by client, even if professional misconduct
+- Duty to advise
+  - Informing client what the law is
+    - Making sure the client understands the advice
+    - Advising them of available options
+    - Keeping client informed of updates
+      - Must communicate, especially settlement offers 
+  - Schedule 2 to the Legal Profession Uniform Law Application Act 2014 (NSW)
+    - Advice on whether the case can win or not if exempt from refusal to act
+    - Cannot file a claim or defense unless a win is possible
+    - If one does file without a chance, it may be professional misconduct
+  - Uniform Civil Procedure Rules (UCPR) Statement of Claim form
+    - Certification of ‘reasonable prospect of success’
+      - Concerned reasonably on the basis of probable and factual view of the law that the claim has reasonable…
+    - Lemoto vs Able Technical Pty Ltd (Lemoto)
+      - Appellant: Lemoto was solicitor for third responder
+      - Just because he lost does not mean he did not have a reasonable prospect of success
+- Fiduciary Relationship
+  - Relationship of trust, client-lawyer relationship - anticipating the needs of clients (taking preventative or extra measures that were not specifically asked for but would be negligent not to)
+  - Can get into it accidentally
+  - Examples
+    - Teachers and students
+    - Medical professionals
+    - Trustees and lawyers
+    - Board members
+    - Shareholders
+- Competence
+  - Competence
+    - The ability to use the law as a tool to help clients and solve legal issues according to measurable standards
+  - Hawkins v Clayton
+    - Lawyer-client relationship has concurrent liability in contract and in tort. 
+        - Required to avoid a real and foreseeable risk of economic loss being sustained by the client
+      - Curnuck v Nitschke and Montague Mining v Gore
+        - may be a duty to advise beyond agreed retainer tort
+    - standard of care for solicitors
+      - Reasonable and competent degree of skill
+      - Rogers v Whitaker
+        - standard of care for professionals is the objective standard of care and competence, 
+          - Expectation of reasonableness and other opinions, including non-professionals (would client freak out)
+        - Higher if specialist 
+    -  s 5o of the Civil Liability Act 2002 (NSW)
+    - Defense to a claim for professional negligence
+  - Professional indemnity insurance - section 45 
+    - a condition for the issuing of a practicing certificate.
+    - Typically LawCover in NSW
+    - A claim is 
+      - a demand for, or an assertion of a right to, compensation or damages; or
+      - (ii) an intimation of an intention to seek compensation or damage
+    - Indemnification
+      - a legal agreement by one party to hold another party blameless
+  - Two issues cause 80% of claims
+    - poor communication resulting in a lack of common understanding between solicitor and client
+    - Inadequate work processing systems to help solicitors and support staff ensure that a consistently high standard of work is achieved in each and every matter
+  - Advocates’ immunity
+    -  Won’t be sued by client in relation where the work of the lawyer is not only intimately connected with the conduct of the case, but also functionally connected to the judge’s decision.
+- The Lawyer-Client relationship - The Duty of Loyalty
+  - Duty of Loyalty
+    - a duty to act in good faith, a duty of confidentiality (rule 9) and a duty to avoid conflict with the interests of the client.
+  - Good Faith
+    - Fiduciary Law = act in good fath, often beyond retainer wording
+    - Conflict of interest ASCR = rules 10-12
+    - Law Society of New South Wales v Harvey
+      - the duty to act in good faith elements:
+        - the lawyer must not permit their own interests to override those of the client 
+          - the client’s interests are paramount;
+        - the nature of the lawyer's interest must be fully disclosed to the client;
+        - Where a conflict of interest can be avoided, it should be avoided;
+          - where a conflict of interest nevertheless remains, the lawyer should advise the client to obtain independent legal advice,
+          - or consider withdrawing from the transaction; and the lawyer's interests have the potential to abuse the client’s position
+        - Practitioner acts honestly and with diligence
+  - Confidentiality 
+    - Equitable doctrine of confidence protects client prior to the creation of, or in the absence of,a retainer.
+      - Permitted disclosure
+        - the client expressly or impliedly authorises disclosure;
+        - the solicitor is permitted or is compelled by law to disclose;
+        - the solicitor discloses the information in a confidential setting, for the sole purpose of obtaining advice in connection with the solicitor’s legal or ethical obligations
+        - the solicitor discloses the information for the sole purpose of avoiding the probable commission of a serious criminal offense
+        - the solicitor discloses the information for the purpose of preventing
+        - imminent serious physical harm to the client or to another person;or
+        - the information is disclosed to the insurer of the solicitor, law practice or associated entity."
+      - s 316(1) of the Crimes Act 1900 (NSW) provides that it is an offense for a person with knowledge or belief of the commission of a serious indictable offense by another and who has information that may be of material assistance to the apprehension, prosecution or conviction of the offender to fail without reasonable excuse to pass that information on to the police or relevant authorities.
+    - Where a client communicates to a lawyer an intention to breach a court order
+      - advise the client against that course and warn the client of its dangers;
+      - not advise the client how to carry out or conceal that course;
+      - not inform the court or the opponent of the client's intention unless:
+        - (a)the client has authorized the practitioner to do so beforehand;or
+        - (b)the practitioner believes on reasonable grounds that the client's conduct constitutes a threat to any person’s safety."
+    - Esso Australia Resources Ltd v Commissioner of Taxation
+      - Dominant purpose test
+        - Don’t have to disclose if it’s for the dominant purpose of obtaining, or giving, legal advice. 
+        - Does not include fraud or criminal activity
+    - Abrogate
+      - Repeal law/statue
+  - Grant v Downs
+    - defined the extent of legal professional privilege until amendments to the uniform Evidence Acts 1995
+      - Sole purpose test
+        - documents brought into existence for the ‘sole purpose’ of submission to legal advisers for advice or for use in legal proceedings
+      - Esso Australia Resources Ltd v Commissioner of Taxation (Esso).
+        - Found that if information is confidential,
+          - information contained in a verbal or written communication made with the dominant purpose of obtaining, or giving, legal advice.
+        - Then legal professional privilege can resist disclosure
+          - an exception to the general duty on lawyers not to mislead the Court
+    - Evidence Act 1995 (Cth)
+  - Twofold test
+    - communication between in-house counsel and employer
+      - Whether attorney was acting as employee or consul
+      - Can the dominant purpose test be satisfied 
+- Discovery of documents
+  - Documents include digitally store information
+    - Provide evidence to both sides of whatever will be used in court, and who posses them, and why you may not posses it
+  - McCabe v British American Tobacco Australia Services Ltd (McCabe)
+    - Advised client to adopt a “document retention policy” 
+      - Shred certain reports 
+      - Public outrage, used in US JD lawsuit against tobacco
+  - Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015 (Cth)
+    - Could locate the actual communications but not what was said
+    - Could reveal identity of client, lawyers did not like
+  -  Newman v Phillips Fox barriers to act for a former client
+    - breach of a duty of confidence;
+    - breach of a duty of loyalty;and
+    - the court's inherent jurisdiction over the conduct of solicitors as officers of the court”
+  - information barrier arrangement
+    - Organizations prevent the flow of information from one department to the other.
+    - Rebuttal to conflict of interest of one partner or employee knowing info
+    - Successful case	
+      - Tecnicas Reunidas SA v Andrew
+    - Unsuccessful case
+      -  APT Ltd and Optus Networks Pty Ltd
+- The Lawyer’s Duty to the Court and the Proper Administration of Justice
+  - Duty to the court - to act with honesty and candor
+    - Uniform Conduct Rules (Solicitors) r 19.1
+      - a solicitor must not deceive or knowingly or recklessly mislead the court.
+  - Tuckiar v The King
+    - barrister seemed to have formed the view of the client’s guilt and had failed to do all he could to properly defend the matter and represent his client's interests.
+  - If client confesses guilt (if guilty)
+    - Lawyer fights due process, and evidence presented
+    - Cannot lie and suggest someone else committed it
+    - Can fight the technicalities of the law/mitigation
+  - If the client has cheated or falsified documents
+    - Lawyer must refuse to take any further part in the case unless the client authorizes the lawyer to inform the court of the lie or falsification. 
+    - Cannot inform the court without client authority
+  - Universal Music Australia Pty Ltd v Sharman License Holdings Ltd
+    - Expert witness called on behalf of Sharman had allowed material suggested by Sharman’s solicitors to be written into his report
+  - A lawyer will not have breached the duty owed to the client by making an independent judgment as to how the case should be run.
+    - Uniform Conduct Rules (Solicitors) r 17.2
+  - D’orta-ekenaike v Victoria Legal Aid
+    - Finality test
+      - Cannot be tried further
+    - Justified advocates immunity
+  - Maxim saying
+    - The duty of prosecution is to ensure the truth is told
+    - The duty of the defense is to ensure that no untruths are told.
+- Duty to the court - the role of the prosecutor
+  - Typically before 90s, the police have carried out the prosecution of summary matters in the lower courts before magistrates,
+    - while the prosecution of indictable matters in the superior courts is carried out by prosFecutors employed or briefed by the government law offices
+  - post 90s
+    - Independent prosecution services
+      - Office of the Director of Public Prosecutions (DPP)
+      - Prosecuting lawyers referred to as “the crown”
+        - represent the Crown in criminal proceedings and to present evidence and arguments to secure a conviction.
+      - Minister of justice, don’t struggle for conviction like defense struggles
+  - Police prosecutors exist for minor offenses (they are police who prosecute for $ offenses)
+- Liability to third parties
+  -  Hill v Van Erp
+    - solicitor had asked a potential beneficiary’s husband to witness a client's will, rendering the gift to that beneficiary invalid under the relevant Queensland legislation.
+      - It was held that the solicitor was liable to the beneficiary in negligence
+  -  Badenach v Calvert
+    - negligent for failing to advise the client on how to protect his estate against a claim by his daughter 
+      - Left her out of the will
+    - Found that he did not owe a duty to the beneficiary that was not coincident with the interests of the client
+  - McFee v Reilly
+    - Disabled husband provided for son, wife came in and removed son to give to daughters
+    - Son sued and “solicitor owed a duty to the beneficiary to ensure that the wishes of the client (father)were protected”
+  - non-client beneficiary to a will
+    - a solicitor will be liable to a third party where the intention of the client to benefit a third party “was the primary or direct purpose of the legal transaction” but the third party has been denied that benefit because of an act or omission on the part of the solicitor.
+    - It has also been held that:
+      - Where a third party holds a remainder interest in a property in which the solicitor’s client has a life interest, the solicitor may have a duty to that third party;
+      - when acting for a bankrupt client, a solicitor may have a duty of care in relation to information provided to the trustee in bankruptcy;"
+      - And where a solicitor creates a “reasonable expectation” on the part of a third party that the solicitor will act with “reasonable care” toward the interests of the third party,” the solicitor has a duty of care in relation to that third party.
+- The Lawyer's Duty to Other Members of the Profession and to Third Parties
+  - Third parties lawyers  deal with
+    - Expert witnesses
+    - Unrepresented parties
+    - Admin staff of a court or gov department
+    - Service provider
+    - Law firm staff
+  - Forceful and vigorous advocacy
+    - Lawyers must be courteous regardless of current client (don’t burn bridges)
+    - Theres a difference between forceful and vigorous advocacy and discourteous behavior
+      - Some include threats, insults, harassment and derogatory comments
+  - Duty to other lawyers - Negotiation
+    - Have to be fair and honest
+      - Cannot knowingly make a false statement to an opponent in relation to a case (including its compromise)’
+      - Must correct statement if found to be false
+      - Rule 34.1 
+        - Rules for negotiation
+      - Cannot reveal client status (details about current client position), but must not mislead
+  - Duty to other lawyers- undertakings
+    - Undertaking
+      - Promise to do or refrain from doing something
+      - Actually binding, often between lawyers
+      - should never be given lightly
+      - Is enforceable against the lawyer personally
+      - Still bound by undertaking, even if client changes instructions, unless released from it
+      - Employer is held responsible for employee undertakings (includes non-lawyer)
+    - Lawyer's duty to the client overrides the duty owed to a fellow lawyer, except in official court capacity
+    - Law Society of New South Wales v Autore
+      - Lawyer argued that payment of counsel's fees was a personal undertaking, not one of practice’s
+      - Failed, tribunal ruled that ‘failure by a solicitor to honor an undertaking given in a personal capacity, may still amount to professional misconduct’
+    - Undertaking use cases
+      - A solicitor’s payment of bills in order to effect a property settlement
+      - an undertaking given to the lawyer's professional organization to provide documents in response to a complaint
+      - One given to meet another firm’s costs upon the transferring of a file
+  - Duty to other lawyers - not communicating with another lawyer’s client
+    - If both parties are represented, don’t talk to opponent client without asking opponent lawyer
+      - Can only inform client that they did not reply
+  - Duty to other lawyers - not communicating with another lawyer or government authority
+    - Cannot take an unfair advantage of the obvious error of another solicitor or person if you would get an unearned advantage
+    - may be incumbent on a competent lawyer to point out errors which could otherwise lead to delay and increased cost on both sides, or failure of the venture
+  - Duty to other lawyers - complaints against other lawyers
+    - professional courtesy
+      - when instructed by a client to sue another lawyer for negligence, the prospective defendant lawyer should be notified of an intention to bring a claim
+    - bona fide
+      - Intention to deceive
+    - Allegations against another lawyer must be bona fide and on reasonable grounds
+  - Duty to other lawyers - transfer of client (most states)
+    - If a client terminates a lawyer’s engagement before completion of a matter and instructs another lawyer to take over the matter
+      - When the first lawyer receives a direction from the second,the first lawyer should promptly provide to the second all documents and other information necessary to the proper conduct of the matter.
+      - That obligation is, of course, subject to any lien claimed for unpaid costs 
+        - which the second lawyer has an obligation to secure on behalf of the first lawyer.
+      - Where the client terminates the engagement, the lawyer is entitled to retain possession of the documents until any outstanding costs are paid or their payment satisfactorily secured.
+      - Where the lawyer terminates the engagement and there are court proceedings continuing, the lawyer must forward all essential documents to the client or second lawyer(if so directed), 
+        - provided the second lawyer agrees to hold those documents subject to any lien and provides reasonable security or reaches agreement with the first lawyer for payment of outstanding costs.
+      - If any such agreement provides for the first lawyer's costs to be paid from the proceeds of any money received by the second lawyer on behalf of the client, the second lawyer must do all things which are reasonably practicable… to ensure compliance with the agreement
+  - Duty to other lawyers - relationship with counsel
+    - Be nice to counsel (barrister) 
+    - Solicitor briefs and pays barrister, not client (get money from client)
+    - Model Litigant - government dpp
+      - does not take a ‘win at all costs’ approach to litigation,
+      - but adopts an approach that aims to produce a fair resolution of the matter
+      - Avoid litigation and keep litigation to a minimum
+  - The lawyer’s duty to third parties
+    - Uniform Conduct Rules (Solicitors) r 34
+    - Communication with third parties
+      - Lawyers should not make representations asserted as true, but which they know to be untrue.
+        - For example, a lawyer must not assert that they have been instructed to take a particular course of action in the absence of such instructions, or seek payment of costs from the third party when the lawyer knows that there is no entitlement to make such a claim.
+      - The lawyer must not make statements that are designed to mislead or intimidate the third party or that ‘grossly exceed’ the legitimate claims of the client's case. 
+        - This would include, for example, making a grossly exaggerated assertion as to the quantum of a client's claim or remedies available against the third party.
+      - A lawyer must not threaten to commence criminal or disciplinary proceedings against another person if that person fails to satisfy any civil liability(a debt, for example) to the lawyer's client.
+        - You can actually report the person, just can’t threaten to do so
+  - The self-represented litigant
+    - not subject to the ethical constraints applied to lawyers in the conduct of their client’s case.
+    - Counsel may have to assist, even if it hurts client’s case
+  - An abuse of process is the improper or unjust use of the legal system, such as using legal proceedings to harass or intimidate someone, or to gain an advantage in a case
+    - Civility
+      - legal and ethical principles that govern the behavior and conduct of lawyers in their interactions with other legal practitioners, clients, and members of the public.
+  - A Slapp suit
+    - Strategic Lawsuit Against Public Participation
+    - The goal of a SLAPP suit is often to bankrupt or intimidate the defendant.
+      - a type of lawsuit filed by individuals, organizations, or businesses to silence or intimidate critics or opponents who have spoken out on matters of public interest.
+- O'Reilly v Law Society of New South Wales,
+  - where the solicitor had been referring his property clients to a mortgage broking company owned by himself and his wife
+    - 
+- Professional Misconduct
+  - LPUL 297
+- Allinson
+  - Something which would be reasonably regarded as disgraceful or dishonorable by professional brethren of good repute and competency. 
+- The Council of the Law Society of NSW v Ly 2011
+  - Lawyer sign forgery, plainly constitutes professional misconduct
+  - Link
+
+
+Final Exam Prep
+- Cases related to admittance - (Re cases means in the matter of) means court acts in an advisory capacity - Legal Profession Uniform Law (NSW) No 16a of 2014
+  - Re B  [1981] 2 NSWLR 37
+    - Wendy Brown
+    - Activist, lied bail
+    - Protestor 
+  - Failure to disclose
+    - Re Davis
+      - Davis failed to disclose a past charge, b & e 8 years prior to application
+      - disclosure
+    - Re Hampton
+      - Disciplinary finding of inappropriate conduct in previous job
+      - refusal of adm es leading to conviction of austudy payments
+  - Conducts, Complaints, and Discipline
+    - Legal Services Commissioner
+      - Created in NSW as watchdog for self-regulating law body 
+    - Complaints besides cost issues typically have a limit of 3 years, unless really obvious reason why longer
+    - Prothonotary (the keeper of the Roll of Lawyers)
+    - Prothonotary of the Supreme Court of New South  Wales v Pangallo
+      - The High Court did not attempt to revisit  the original criminal conviction and confirmed that this  was not the role of disciplinary proceeding some offenses ‘strike at the heart of the justice system’ and conviction of such offenses can provide conclusive evidence of unfitness. 
+        - Bribery
+    - There are two types of events that require compulsory disclosure: 
+      - automatic show cause events 
+        - bankruptcy-related events
+        - convictions for serious or tax offenses
+      - designated show cause events.
+        - non-compliance with conditions on a practicing certificate,
+        - providing unauthorized services,
+        - non-compliance with professional indemnity insurance requirements
+- Lawyer’s Duties
+  - Duty to disclose
+    - Confidentiality 
+      - Equitable doctrine of confidence protects client prior to the creation of, or in the absence of,a retainer.
+        - Permitted disclosure
+          - the client expressly or impliedly authorises disclosure;
+          - the solicitor is permitted or is compelled by law to disclose;
+          - the solicitor discloses the information in a confidential setting, for the sole purpose of obtaining advice in connection with the solicitor’s legal or ethical obligations
+          - the solicitor discloses the information for the sole purpose of avoiding the probable commission of a serious criminal offense
+          - the solicitor discloses the information for the purpose of preventing
+          - imminent serious physical harm to the client or to another person;or
+          - the information is disclosed to the insurer of the solicitor, law practice or associated entity."
+        - s 316(1) of the Crimes Act 1900 (NSW) provides that it is an offense for a person with knowledge or belief of the commission of a serious indictable offense by another and who has information that may be of material assistance to the apprehension, prosecution or conviction of the offender to fail without reasonable excuse to pass that information on to the police or relevant authorities.
+      - Where a client communicates to a lawyer an intention to breach a court order
+        - advise the client against that course and warn the client of its dangers;
+        - not advise the client how to carry out or conceal that course;
+        - not inform the court or the opponent of the client's intention unless:
+          - (a)the client has authorized the practitioner to do so beforehand;or
+          - (b)the practitioner believes on reasonable grounds that the client's conduct constitutes a threat to any person’s safety."
+      - Esso Australia Resources Ltd v Commissioner of Taxation
+        - Dominant purpose test
+          - Don’t have to disclose if it’s for the dominant purpose of obtaining, or giving, legal advice. 
+          - Does not include fraud or criminal activity
+  - Duty to advise
+    - Informing client what the law is
+      - Making sure the client understands the advice
+      - Advising them of available options
+      - Keeping client informed of updates
+        - Must communicate, especially settlement offers 
+    - Schedule 2 to the Legal Profession Uniform Law Application Act 2014 (NSW)
+      - Advice on whether the case can win or not if exempt from refusal to act
+      - Cannot file a claim or defense unless a win is possible
+      - If one does file without a chance, it may be professional misconduct
+    - Uniform Civil Procedure Rules (UCPR) Statement of Claim form
+      - Certification of ‘reasonable prospect of success’
+        - Concerned reasonably on the basis of probable and factual view of the law that the claim has reasonable…
+      - Lemoto vs Able Technical Pty Ltd (Lemoto)
+        - Appellant: Lemoto was solicitor for third responder
+        - Just because he lost does not mean he did not have a reasonable prospect of success
+  - Duty to Account
+    - a lawyer who receives funds on behalf of a client acts as a “trustee™ of those funds
+    - Must be held in lawyer’s trust account
+      - Full and accurate records to deposits and withdraws
+      - Only client authority can typically handle trust
+      - Externally audited yearly
+    - Lawyer probably not liable for doing as authorized by client, even if professional misconduct
+  - Duty of competence and care
+    - Competence
+      - Competence
+        - The ability to use the law as a tool to help clients and solve legal issues according to measurable standards
+      - Hawkins v Clayton
+        - Lawyer-client relationship has concurrent liability in contract and in tort. 
+            - Required to avoid a real and foreseeable risk of economic loss being sustained by the client
+          - Curnuck v Nitschke and Montague Mining v Gore
+            - may be a duty to advise beyond agreed retainer tort
+        - standard of care for solicitors
+          - Reasonable and competent degree of skill
+          - Rogers v Whitaker
+            - standard of care for professionals is the objective standard of care and competence, 
+              - Expectation of reasonableness and other opinions, including non-professionals (would client freak out)
+            - Higher if specialist 
+        -  s 5o of the Civil Liability Act 2002 (NSW)
+        - Defense to a claim for professional negligence
+  - Duty of loyalty
+    - Fiduciary Relationship
+      - Relationship of trust, client-lawyer relationship - anticipating the needs of clients (taking preventative or extra measures that were not specifically asked for but would be negligent not to)
+      - Can get into it accidentally
+      - Examples
+        - Teachers and students
+        - Medical professionals
+        - Trustees and lawyers
+        - Board members
+        - Shareholders
+    - Duty of Loyalty
+      - a duty to act in good faith, a duty of confidentiality (rule 9) and a duty to avoid conflict with the interests of the client.
+    - Good Faith
+      - Fiduciary Law = act in good fath, often beyond retainer wording
+      - Conflict of interest ASCR = rules 10-12
+      - Law Society of New South Wales v Harvey
+        - the duty to act in good faith elements:
+          - the lawyer must not permit their own interests to override those of the client 
+            - the client’s interests are paramount;
+          - the nature of the lawyer's interest must be fully disclosed to the client;
+          - Where a conflict of interest can be avoided, it should be avoided;
+            - where a conflict of interest nevertheless remains, the lawyer should advise the client to obtain independent legal advice,
+            - or consider withdrawing from the transaction; and the lawyer's interests have the potential to abuse the client’s position
+          - Practitioner acts honestly and with diligence
+  - Duty of confidence - confidentiality
+    - Lake bodies pleasant case
+    -  Newman v Phillips Fox barriers to act for a former client
+      - breach of a duty of confidence;
+      - breach of a duty of loyalty;and
+      - the court's inherent jurisdiction over the conduct of solicitors as officers of the court”
+    - See duty of disclosure
+- ASCR  summary for this exam, other’s not that important
+  - 3 
+    - Paramount duty to the court and the administration of justice
+  - 4
+    - Generic ethic duties
+    - Vague
+  - 9
+    - Confidentiality
+  - 10
+    - Past versus Present clients
+  - 11
+    - Current client opponents
+  - 12
+    - Solicitor benefit
+  - 19
+    - Court tactics and engagement rules
+  - 20
+    - Guilty client tactics

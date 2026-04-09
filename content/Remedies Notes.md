@@ -1,0 +1,5957 @@
+#tag-notes #tag-tutorial
+
+## Cheat Sheet
+
+Applying the Discount rate
+- Checklist
+  - Cause of Action
+    - Identify if claim is in contract, tort, or equity
+    - Determines measure of damages and whether CLA applies
+  - CLA Apply?
+    - Tort → CLA applies (s 5A), unless excluded under s 3B (intentional acts, dust diseases, sexual assault)
+    - Contract → CLA does not apply
+    - Equity → CLA does not apply
+  - Guiding Principle
+    - Where should they have been, and where are they now?
+      - Contract → Expectation damages: as if contract performed (Robinson v Harman (1848))
+      - Tort → Restitutio in integrum: as if wrong had not occurred (Livingstone v Rawyards (1880))
+      - Equity → Restore or preserve specific rights (SP, injunction, account of profits)
+    - Causation
+      - Contract: Breach must be an effective cause (Alexander v Cambridge Credit (1987))
+      - Tort: CLA s 5D →
+        - Factual causation (“but for”)
+        - Scope of liability (risk within scope of duty)
+      - Equity: Guided by causal link between breach and remedy sought
+      - Concurrent liability → Plaintiff may elect contract or tort (Astley v Austrust (1999))
+  - Remoteness
+    - Contract: Reasonable contemplation at time of formation (Hadley v Baxendale (1854))
+    - Tort (CLA s 5D(1)(b)): Reasonably foreseeable, not far-fetched (Wagon Mound (No 2))
+    - Fraud/deceit: All direct loss recoverable (Potts v Miller (1940); Gould v Vaggelas (1985))
+    - Eggshell skull: Defendant takes plaintiff as found (Smith v Leech Brain (1962))
+    - Equity: Flexible, causal connection based
+  - Mitigation
+    - Plaintiff must take reasonable steps to minimise loss
+    - Avoidable losses not recoverable (Burns v MAN Automotive (1986))
+    - Betterment accounted for (Clark v Macourt (2013))
+    - Failure to mitigate reduces damages, but does not bar recovery
+  - Loss of Chance
+    - Damages may reflect probability of lost opportunity
+    - Formula: Value × probability (Sellars v Adelaide Petroleum (1994); Malec v JC Hutton (1990))
+  - Once-and-for-All Rule
+    - Damages awarded as a single lump sum at trial
+    - No reopening for future claims (Bagley v Harnden (1986))
+- Remedies & Heads of Loss – Exam Map (NSW)
+  - 1. Contract
+    - Expectation damages → put plaintiff as if contract performed (Robinson v Harman).
+      - Heads: profit loss, substitute performance cost (Clark v Macourt), consequential loss (Hadley v Baxendale).
+    - Reliance / wasted expenditure → if expectation can’t be proven (McRae; Amann Aviation).
+    - Non-economic loss → usually barred (Addis), unless contract for pleasure (Baltic Shipping; Moore v Scenic Tours).
+    - Physical inconvenience → compensable (Hobbs v London Railway; Godley v Perry).
+    - Limits → mitigation (British Westinghouse), minimum performance rule (Gumland).
+    - Moore v Scenic Tours Ltd (2020) HCA confirmed damages for disappointment/distress in contracts for pleasure/amenity.
+    - Clark v Macourt (2013) HCA also illustrates betterment not always deducted where it flows directly from substitute performance.
+  - 2. Tort – Property Damage
+    - Land/fixtures → rectification if necessary + reasonable (Bellgrove v Eldridge; Tabcorp v Bowen).
+      - If unreasonable → diminution in value (Ruxley v Forsyth).
+    - Chattels → repair cost; if uneconomic → market value (Darbishire v Warran).
+    - Consequential losses → recoverable if foreseeable (Pantalone v Alaouie).
+    - Betterment → credit for “new for old” unless unavoidable (Clark v Macourt).
+    - Tabcorp v Bowen (2009) confirmed strict application of reinstatement principle in building/land cases.
+    - Ruxley v Forsyth (UK HL) is persuasive, but in NSW HCA prefers reinstatement unless disproportionate.
+  - 3. Tort – Trespass to Land
+    - Actionable per se (Plenty v Dillon).
+    - Heads:
+      - General damages (vindication: TCN v Anning).
+      - Nominal (no loss: Lewis v ACT).
+      - Aggravated/exemplary (eg. oppressive conduct: NSW v Ibbett).
+      - Reasonable use fee (mesne profits: LJP Investments; Sydney LHD v Macquarie).
+    - Westfield v Stuckey (2010) HCA (trespass actionable per se; damages can vindicate rights).
+    - mesne profits = reasonable rental value (LJP Investments)
+  - 4. Tort – Economic Loss
+    - Negligent misstatement → restore to pre-reliance position (Shaddock).
+    - Deceit/fraud → all direct loss, not limited by foreseeability (Potts v Miller; Gould v Vaggelas).
+    - Loss of chance → value × probability (Sellars v Adelaide Petroleum; Malec v JC Hutton).
+    - Kenny & Good Pty Ltd v MGICA (1999) 199 CLR 413 – reliance measure in negligent misstatement extended to losses flowing from reliance.
+  - 5. Tort – Personal Injury (CLA Pt 2)
+    - Economic loss:
+      - Earnings cap = 3× AWE (s 12 CLA).
+      - Future loss = “most likely” scenario × contingencies (s 13 CLA; Malec).
+      - 5% discount for lump sums (s 14 CLA).
+    - Gratuitous care (s 15) → ≥6 hrs/wk × 6 months (Griffiths v Kerkemeyer).
+    - Domestic services (s 15B) → only if plaintiff used to provide dependent care.
+    - Superannuation loss (s 15C) → % of earnings lost (Najdovski).
+    - Non-economic loss → pain & suffering etc, capped at % of “most extreme case” (ss 16–17 CLA; Skelton v Collins).
+    - Limits: No exemplary damages (s 21 CLA); no interest on some heads (s 18 CLA).
+    - CSR v Eddy (2005) 226 CLR 1 → confirmed no separate damages for loss of consortium/servitium.
+    - s 13(2) CLA NSW → “most likely scenario” test expressly codified.
+  - 6. Equity
+    - Specific performance → land, unique goods, insolvency risk (Dougan v Ley; GE Capital).
+    - Injunctions → prohibitory, mandatory, quia timet (ABC v Lenah; Redland Bricks; Uber v Howarth).
+    - Equitable compensation → restore equitable right (Youyang).
+    - Account of profits → strip defendant’s gain (Warman v Dwyer).
+    - Damages in lieu → s 68 Supreme Court Act 1970 (NSW).
+    - Harris v Digital Pulse (2003) 56 NSWLR 298 – exemplary damages not available in equity.
+    - Ancient Order of Foresters v Lifeplan (2017) 261 CLR 1 – clarified account of profits can extend to future profits causally connected to the wrong.
+  - Problem-Solving Formula
+    - 1. Cause of Action → Contract (expectation/reliance), Tort (property, PI, econ), Equity (SP, injunction, account).
+    - 2. Head of Loss / Remedy → identify which box you’re in.
+    - 3. Measure → expectation/reliance, rectification/diminution, AWE cap, market v replacement, equitable restoration.
+    - 4. Limits → remoteness (Hadley / CLA s 5D), mitigation (British Westinghouse), caps (CLA ss 12–18), contributory negligence (CLA Pt 1A).
+    - 5. Authority → 1 case or statute per element.
+- Week 3: Common Law Damages
+  - 1. Key Vocabulary
+    - Causation – Defendant’s fault must be a necessary condition or material reason for plaintiff’s loss (Civil Liability Act 2002 (NSW) s 5D(1)(a); March v Stramare). 
+    - Concurrent wrongdoers – Act independently, cause same indivisible loss.
+    - Contributory negligence – Plaintiff’s failure to take reasonable care for own safety contributes to loss (Law Reform (Miscellaneous Provisions) Act 1965 (NSW) s 9; Civil Liability Act s 5R).
+    - Damages – Monetary compensation for legally recognised loss.
+    - Discount rate – Present value adjustment for future loss. 
+    - Joint wrongdoers – Act in concert to cause same harm.
+    - Joint & several liability – Plaintiff may sue one wrongdoer for full amount; wrongdoer can seek contribution.
+    - Mitigation – Plaintiff must act reasonably to limit avoidable loss (British Westinghouse).
+    - Proportionate liability – Apportionment of economic/property loss between multiple wrongdoers (Civil Liability Act Pt 4). 
+    - Remoteness – Whether loss was foreseeable or too unexpected
+      - Contract
+        - Hadley v Baxendale
+      - Tort
+        - The Wagon Mound
+  - 2. Purposes of Damages
+- Compensation – Restore pre-wrong position (Livingstone v Rawyards; Robinson v Harman).
+- Compulsion – Ensure compliance with obligations.
+- Vindication – Recognise legal rights.
+- Punishment – Exemplary damages.
+- Restitution – Strip wrongful gains
+  - 3. Identifying & Valuing Loss
+    - Loss = Pre-wrong position – Post-wrong position. 
+    - Damages = Monetary value of that difference.
+    - Exceptions: Nominal damages (no loss but right infringed), Exemplary damages (punitive).
+  - Head(s) of Damages:
+    - Compensatory (special/general), nominal, aggravated, exemplary.
+    - Contract heads: expectation (loss of profits, cost of substitute performance, consequential loss), reliance/wasted expenditure.
+    - Tort heads: property damage, personal injury (if applicable outside CLA), economic loss.
+  - Guiding Principle (Goal):
+    - Contract → put plaintiff as if the contract had been performed (expectation) (Robinson v Harman).
+    - Tort → put plaintiff as if the wrong had not occurred (Livingstone v Rawyards).
+    - Punitive/vindicatory heads are exceptional (exemplary, nominal).
+  - Measure & Filters:
+    - Loss = pre-wrong position − post-wrong position; subject to causation, remoteness, mitigation.
+    - Contract remoteness (Hadley v Baxendale); Tort remoteness (Wagon Mound (No 2)).
+    - CLA may apply to tort personal injury (Pt 2) but not contract/equity.
+  - 4. Contract vs Tort
+Contract
+Tort
+Enforce promises voluntarily made. Damages put P in position as if contract performed (expectation + reliance loss).
+Enforce obligations not to injure. Damages put P in position as if tort not committed.
+Robinson v Harman
+Livingstone v Rawyards
+
+  - 5. Causation
+    - Common law test – “But for” defendant’s wrong, would loss have occurred? (Barnett; March v Stramare). 
+    - Material contribution – Defendant’s act need not be sole cause; sufficient if materially contributed (Bonnington Castings). 
+    - Multiple sufficient causes – Each wrongful cause can be treated as a cause.
+    - Statutory – Civil Liability Act s 5D(1):
+      - (a) Factual causation – Necessary condition. 
+      - (b) Scope of liability – Appropriate to extend responsibility. 
+      - s 5D(2) – Exceptional cases (Bonnington, Fairchild).
+    - Burden of proof – Plaintiff bears legal burden; evidentiary burden can shift (Berry v CCL).
+  - 6. Scope of Liability
+    - Factors:
+      - Remoteness (see section 8).
+      - Contributory negligence (Law Reform (Miscellaneous Provisions) Act s 9; Civil Liability Act s 5R).
+      - Mitigation (British Westinghouse).
+      - Multiple wrongdoers (Proportionate liability Pt 4 CLA; joint/several liability).
+  - 7. Remoteness Tests
+    - Negligence/nuisance – Loss must be reasonably foreseeable, not far-fetched (The Wagon Mound (No 2)).
+    - Intentional torts – Liability for intended or natural & probable consequences (Palmer-Bruyn v Parsons).
+    - Contract – Loss must be “not unlikely” and within contemplation at time of contract (Hadley v Baxendale). 
+    - Deceit – May recover all loss directly flowing from fraud (Gould v Vaggelas; open question on foreseeability).
+  - 8. Mitigation
+    - Plaintiff must act reasonably to avoid increasing loss once aware of wrong. 
+    - If plaintiff fails → defendant not liable for avoidable loss. 
+    - Defendant bears onus to prove failure.
+  - 9. Contributory Negligence
+    - Plaintiff’s unreasonable self-care failure that caused loss. 
+    - Apportionment – Court reduces damages “just and equitable” (Law Reform (Miscellaneous Provisions) Act s 9; CLA s 5R). 
+    - Applies in tort/negligence and concurrent contractual duties of care.
+  - 10. Proportionate Liability
+    - Applies to economic loss/property damage from failure to take reasonable care (CLA Pt 4).
+    - Apportionment between concurrent wrongdoers. 
+    - Fraud/intentional harm → excluded from proportionate liability.
+  - 11. Types of Damages 
+    - Nominal – Vindicatory, no compensable loss (Lewis v ACT).  
+    - Contemptuous – Symbolic disapproval. 
+    - Ordinary – Compensatory (special/general). 
+    - Special damages – Quantifiable up to trial date (Paff v Speed).
+    - General damages – Non-economic/speculative (pain, suffering). 
+    - Aggravated – Compensate injured feelings. 
+    - Exemplary – Punitive. 
+  - 12. Common Law Damages – Flowchart Exam Formula
+    - 1. Identify Cause of Action
+      - Is it actionable per se (trespass, breach of contract) → damages may be nominal without loss. 
+      - Or damage-based (negligence, deceit) → must prove loss.
+      - Does the CLA apply (s 5A)
+    - 2. Establish Causation
+      - 2.1 Factual Causation
+        - Apply “but for” test (Barnett; March v Stramare; CLA s 5D(1)(a)).
+        - If multiple causes:
+          - Material contribution sufficient (Bonnington Castings). 
+          - Multiple sufficient causes → each is a cause.
+      - 2.2 Legal Burden
+        - Plaintiff bears legal burden; evidentiary burden may shift (Berry v CCL). 
+    - 3. Scope of Liability 
+      - Is it appropriate to extend liability? (CLA s 5D(1)(b)). 
+      - Apply filters: 
+        - Remoteness – see section 4. 
+        - Contributory negligence (Law Reform (Miscellaneous Provisions) Act s 9; CLA s 5R). 
+        - Mitigation (British Westinghouse). 
+        - Multiple wrongdoers (Joint/several; proportionate liability Pt 4 CLA). 
+    - 4. Remoteness 
+      - Negligence/nuisance – reasonably foreseeable, not far-fetched (Wagon Mound (No 2)). 
+      - Intentional torts – intended or natural & probable consequences (Palmer-Bruyn v Parsons). 
+      - Contract – “not unlikely” and within contemplation at time of contract (Hadley v Baxendale). 
+      - Deceit – all loss directly flowing from fraud (Gould v Vaggelas). 
+      - Eggshell skull – take victim as found (Smith v Leech Brain). 
+    - 5. Contributory Negligence 
+      - Did plaintiff fail to take reasonable care for own safety? 
+      - If yes → apportion “just and equitable” reduction (s 9 LR(MP)A; s 5R CLA). 
+    - 6. Mitigation 
+      - Did plaintiff act reasonably to limit avoidable loss after wrong? 
+      - If no → deduct avoidable loss (British Westinghouse). 
+      - Onus: defendant to prove. 
+    - 7. Multiple Wrongdoers 
+      - Joint wrongdoers – act in concert; joint & several liability. 
+      - Concurrent wrongdoers – act independently but cause indivisible loss; proportionate liability applies if Pt 4 CLA triggers (economic/property loss; not intentional). 
+    - 8. Assessment of Damages 	
+      - Measure: Pre-wrong position – post-wrong position (Livingstone v Rawyards; Robinson v Harman). 
+      - Type: 
+        - Nominal (Lewis v ACT) – right infringed, no loss. 
+        - Contemptuous – symbolic disapproval. 
+        - Compensatory – special (Paff v Speed) + general. 
+        - Aggravated – for hurt feelings. 
+        - Exemplary – punitive deterrence. 
+      - Date of assessment: Usually at trial unless justice requires otherwise. 
+      - Once-and-for-all rule: Lump sum; no reopening. 
+      - Apply discount rate for future loss. 
+    - 9. Conclusion 
+      - State amount with reasoning tied to each filter above.  
+- Week 4: Damages
+  - 1. Core Concepts & Vocabulary
+    - Discount rate: A percentage applied to calculate the present day value of loss that will occur in the future.
+    - Earning capacity: The plaintiff's ability to generate income.
+    - Economic loss: Actual out of pocket expenses incurred - or that will be incurred - to meet the reasonable needs of an injured plaintiff. For example, medical costs, therapy costs, the cost of modifying the home or office, etc. 
+    - Griffiths v Kerkemeyer damages: Damages awarded to compensate the need for medical or nursing care, which is met gratuitously by third parties.
+    - Injured feelings: Unpleasant emotions - such as distress, anxiety, anger, humiliation - but which do not rise to a diagnosable psychiatric condition. Not considered an 'injury' at common law.
+    - Non-economic loss: A form of compensable loss caused by the injury which has no economic value. Consists of damages for pain and suffering, loss of amenities of life, disfigurement and loss of expectation of life.
+    - Personal injury: Physical harm, such as bleeding, wounding, bruising, broken bones, disease, etc or other physical impairment. Mental injury amounting to a diagnosable psychiatric condition.
+    - Aggravated damages: Damages awarded to compensate injured feelings caused by the cruel or humiliating way the defendant treated the plaintiff.
+    - Exemplary damages: Damages awarded to punish the defendant.
+  - 2. Definition of Personal Injury 
+      - Physical injury or recognisable psychiatric injury (Tame v NSW). 
+      - Excludes mere distress/anxiety (Baltic Shipping; Ibbett).
+  - 3. Heads of Loss
+    - Economic loss: 
+      - Past: Special damages (actual costs to trial date). 
+      - Future: General damages (expected costs). 
+      - Loss of earning capacity (CSR v Eddy, Sharman v Evans). 
+      - Gratuitous care (Griffiths v Kerkemeyer, Van Gervan v Fenton). 
+      - Fund management costs (Nominal Defendant v Gardikiotis, Gray v Richards). 
+      - Loss of capacity to provide domestic services – only under CLA s 15B (no common law post-CSR v Eddy).
+      - Superannuation (usually 11% of net earnings).
+    - Non-economic loss:
+      - Pain & suffering. 
+      - Loss of amenities of life (Skelton v Collins).
+      - Loss of expectation of life. 
+      - Disfigurement. 
+      - Principles: Reasonableness; avoid “perfect” compensation (Sharman v Evans).
+  - Head(s) of Damages: • Economic loss (past/future earning capacity, medical/care, fund management, super). • Non-economic loss (pain, suffering, amenities, disfigurement, expectation of life). • Aggravated/Exemplary (rare; subject to statutory limits).
+  - Guiding Principle (Goal): • Reasonable needs compensation to restore function and provide for future contingencies; avoid over-compensation (Sharman v Evans). • Personal injury damages are compensatory, not punitive.
+  - Measure & Filters: • Reasonableness of expenses; vicissitudes; buffers for uncertainty; market-rate valuation for gratuitous care (Griffiths; Van Gervan). • If claim falls under CLA Pt 2, apply statutory caps/thresholds and interest limits.
+  - 
+  - 4. Key Principles
+    - Reasonable needs test for medical/care costs (Sharman v Evans). 
+    - Gratuitous services valued at market cost, not actual expense (Van Gervan v Fenton). 
+    - Earning capacity damages require proof of capacity lost + economic impact (Husher v Husher). 
+    - Past loss – based on actual earnings less post-injury earnings. 
+    - Future loss – based on baseline likely career path (Nominal Defendant v Livaja). 
+    - Vicissitudes – adjust up or down; 15% conventional (Bresatz v Przibilla). 
+    - Buffers when future loss is speculative (Pollard v Baulderstone). 
+    - Lost years claim possible (Sharman v Evans).
+  - 5. Aggravated & Exemplary Damages 
+    - Aggravated – Compensatory; for humiliation/distress caused by manner of wrong (Lamb v Cotogno). 
+    - Exemplary – Punitive; “conscious wrongdoing in contumelious disregard” (Gray v Motor Accidents Commission). 
+    - Not available for negligence personal injury under CLA s 21.
+  - 6. Exam Application Order
+    - 1. Identify physical/psychiatric injury.
+    - 2. Classify loss: economic vs non-economic.
+    - 3. For economic loss – break into past/future; apply Griffiths, fund management, superannuation, vicissitudes.
+    - 4. For non-economic – consider pain & suffering, loss of amenities, loss of expectation of life.
+    - 5. Check aggravated/exemplary eligibility.
+    - 6. Quantify using reasonable needs & contingencies.
+  - 7. Personal Injury Damages – Exam Flowchart
+    - 1. Identify Personal Injury 
+      - Definition:
+        - Physical harm or recognised psychiatric injury (Tame v NSW, Ibbett).
+        - Excludes “injured feelings” (Baltic Shipping).
+      - Check CLA application: 
+        - CLA Pt 2 usually applies in NSW; s 3B exclusions for intentional acts.
+    - 2. Classify Loss 
+      - Economic loss (pecuniary) 
+      - Non-economic loss (non-pecuniary) 
+      - Aggravated/Exemplary damages (if available – CLA s 21 limitation). 
+    - 3. Economic Loss
+      - A. Past loss (Special Damages)
+        - Medical/hospital/nursing costs, travel, home modifications, equipment (CSR v Eddy, [31]). 
+        - Reasonableness test (Sharman v Evans, “cost vs benefit”). 
+        - Griffiths v Kerkemeyer – Gratuitous care; value = market cost (Van Gervan v Fenton). 
+        - Fund management costs (Nominal Defendant v Gardikiotis, Gray v Richards). 
+        - Superannuation – generally 11% of net earnings (Najdovski v Crnojlovic).
+      - B. Future loss (General Damages)
+        - Loss of earning capacity:
+          - Prove capacity lost + economic impact (Husher v Husher).
+          - Baseline vs post-injury income (Nominal Defendant v Livaja).
+          - Adjust for contingencies/vicissitudes (15% conventional) (Bresatz v Przibilla, Allianz v Cervantes).
+        - Buffers for speculative loss (Pollard v Baulderstone).
+        - Lost years claim: deduct living expenses (Sharman v Evans).
+        - Loss of capacity to provide domestic services – CLA s 15B only (no common law after CSR v Eddy).
+    - 4. Non-Economic Loss
+      - Pain & suffering, loss of amenities, disfigurement, loss of expectation of life (Skelton v Collins, CSR v Eddy).
+      - Judicial discretion; “no perfect compensation” (Sharman v Evans).
+    - 5. Aggravated & Exemplary Damages
+      - Aggravated – compensatory for humiliation/distress (Lamb v Cotogno). 
+      - Exemplary – punitive for “conscious wrongdoing in contumelious disregard” (Gray v Motor Accidents Commission). 
+      - Not available for negligence personal injury under CLA s 21.
+    - 6. Calculation Order in Problem Question 
+      - 1. Confirm injury type (physical/psychiatric).
+      - 2. Apply CLA or common law depending on s 3B.
+      - 3. Separate economic and non-economic losses.
+      - 4. For economic loss:
+        - Calculate past → add superannuation, care, management costs. 
+        - Calculate future → baseline income – post-injury income; adjust for contingencies; apply buffer/lost years if relevant.
+      - 5. For non-economic: apply reasonableness & case principles. 
+      - 6. Check aggravated/exemplary eligibility. 
+      - 7. Sum total; apply any statutory thresholds or caps.
+  - Identify the loss
+  - Does CLA Apply
+  - What is the cause of action
+  - Causation
+  - Remoteness
+  - Liability
+  - Contributory Negligence
+  - Revues
+- Week 5: Personal injury under the Civil Liability Act
+  - Head(s) of Damages (CLA Pt 2): • Economic loss (ss 12–14), gratuitous care (s 15), domestic services (s 15B), superannuation (s 15C), non-economic loss (ss 16–17A).
+  - Guiding Principle (Goal): • Statutory compensatory scheme with caps, thresholds, and structured assessment (s 13 “most likely” future; s 14 discount; ss 16–17A calibrated non-economic loss).
+  - Measure & Filters: • Earnings cap (s 12), discount (s 14), no interest on NEL/ss 15/15B (s 18), collateral benefits rules. • s 3B exclusions determine whether common law or CLA applies.
+  - 1. Framework
+    - Any claim for damages consists of 3 ‘building blocks’:
+      - 1. Causation 
+      - 2. Scope of liability 
+      - 3. Assessment
+        - a) Personal injury (Common law),  aggravated and exemplary damages: 
+        - b) Personal injury (CLA),  collateral benefits,  possibilities,  interest & tax. 
+        - c) Property damage, trespass to land, economic torts.
+        - d) Breach of contract
+  - 2. Damages Claims
+    - Always structure answer by:
+      - Causation – Did D’s conduct cause P’s injury? (s 5D, March v Stramare)
+      - Scope of liability – Is it appropriate to impose liability? Foreseeability, remoteness, novus actus. (Wagon Mound (No 1))
+      - Assessment – Which regime?
+        - (a) Common law
+        - (b) CLA Pt 2 (personal injury)
+        - (c) Property torts
+        - (d) Breach of contract
+  - 3. When CLA Applies
+    - CLA s 11A(2): Applies regardless of whether claim is in tort, contract, or statute.
+    - CLA s 3B(1)(a): Excludes claims for intentional torts or sexual assault (except s 15B & s 18(1)(c)).
+    - CLA Pt 2 applies to personal injury damages unless excluded under s 3B.
+  - 4 Assessment of Economic Loss
+    - Past & Future Economic Loss (CLA ss 12–14)
+      - s 12: Cap on earnings = 3× average weekly earnings (AWE). Any income above cap is disregarded. (Tuohey v Freemasons Hospital (2012) 37 VR 180)
+      - s 13(1): Must prove that assumptions about future loss reflect most likely future but for injury. (Amoud v Al Batat [2009] NSWCA 333)
+      - s 13(2): Damages adjusted for chance that future event would or wouldn’t have occurred. (Nominal Defendant v Lane [2004] NSWCA 405; Malec v JC Hutton (1990) 169 CLR 638)
+      - s 14: Apply 5% discount rate to present value of future economic loss.
+  - 5. Heads of Loss (CLA Pt 2)
+    - 1. Economic Loss
+      - Past/future earning capacity – s 12
+        - Cap: 3x AWE. Ignore excess above cap. (Tuohey v Freemasons Hospital)
+      - Future economic loss – s 13 
+        - Must prove “most likely” but-for scenario + apply vicissitudes % adjustment (Malec v Hutton)
+        - Court must state assumptions + adjustment (IAG v Mares 5-step test).
+      - Discount rate – s 14 = 5% for lump sums.
+    - 2. Gratuitous Attendant Care Services (CLA s 15)
+      - Threshold test: 
+        - Services must be ≥ 6 hrs/week AND ≥ 6 consecutive months. 
+        - Must arise solely due to the injury. 
+        - Not payable if claimant is liable to pay for services. 
+      - s 15(4)–(5): Cap: 
+        - < 40 hrs/week → hourly cap = 1/40 of AWE. 
+        - ≥ 40 hrs/week → cap = full AWE per week. 
+      - No interest payable on GACS (CLA s 18(1)(b)).
+    - 3. Loss of Capacity to Provide Domestic Services (CLA s 15B)
+      - Plaintiff must have previously provided domestic care to a dependant.
+      - Dependants must be unable to provide for themselves.
+      - Test: ≥ 6 hrs/week for ≥ 6 months (actual or expected).
+      - Damages capped at same rate as GACS (CLA s 15(5)).
+      - No double recovery if GACS claim also includes care for dependants (s 15B(10)).
+    - 4. Superannuation Loss – s 15C
+      - Damages = % of earnings lost × super guarantee rate.
+      - Based on earnings that form the basis of s 12 economic loss.
+      - Najdovski v Crnojlovic: calculated on statutory minimum % of gross earnings.
+    - 5. Non-Economic Loss (CLA ss 16–17A)
+      - s 16: Max = indexed amount (currently over $750,000+). 
+      - Three steps: 
+        - 1. Assess injury as % of “a most extreme case”. 
+        - 2. Refer to current max amount. 
+        - 3. Multiply % × max amount.
+      - No interest available on non-economic loss (s 18(1)(a)). 
+      - Courts may refer to prior awards (s 17A). 
+      - Case law: 
+        - Matthews v Dean (1990) 
+        - Southgate v Waterford (1990) 
+        - Manning v State of NSW [2005] NSWSC 958
+  - 6. Collateral Benefits 
+    - General Rule (National Insurance Co v Espagne (1961) 105 CLR 569):
+      - No deduction if from a pre-existing contract or gratuitous bounty.
+    - Workers comp & Medicare often must be repaid.
+    - Sick pay (e.g. Graham v Baker (1961) 106 CLR 340):
+      - No loss if employer continues paying wages  
+  - 7. Interest on Damages (CLA s 18; CPA s 100)
+    - CLA s 18(1): No interest on: 
+      - Non-economic loss (a) 
+      - GACS (b) 
+      - Loss of capacity to provide domestic services (c 
+    - CPA s 100: Interest allowed on past economic loss (e.g. out-of-pocket expenses, lost wages). 
+    - Haines v Bendall (1991) 172 CLR 60:
+      - Interest is compensatory for delay between cause of action and judgment.
+  - 8. Case Anchors 
+    - CSR v Eddy – Griffiths v Kerkemeyer only covers P’s needs, not domestic capacity. 
+    - Moore v Scenic Tours – distress ≠ “injury” unless diagnosable psychiatric harm. 
+    - Sellars v Adelaide Petroleum – lost chance valued by probability. 
+    - Pollard v Baulderstone – “buffer” damages allowed when future loss uncertain. 
+    - Thatcher v Charles – most serious injury ≠ necessarily most extreme; depends on impact on P.
+    - Malec v JC Hutton Pty Ltd (1990) 169 CLR 638Adjustment to account for a pre-existing condition.
+    - Haines v Bendall (1991) 172 CLR 60 ➤ The purpose of interest. Explanation: This case discusses the rationale for awarding interest on damages, focusing on compensating for the loss of use of money over time.
+    - Sellars v Adelaide Petroleum NL (1994) 179 CLR 332 ➤ Loss of opportunity to pursue a commercial opportunity. Explanation: Sellars is authority for awarding damages for loss of a commercial opportunity based on probability analysis.
+    - Civil Procedure Act 2005 (NSW) s 100 ➤ The general statutory power to order interest on damages. Explanation: Section 100 grants courts discretion to award interest on damages (excluding exemplary or punitive damages).
+    - Civil Liability Act 2002 (NSW) s 18 ➤ Restricts the recovery of interest in certain awards of personal injury damages. Explanation: Section 18 limits pre-judgment interest on non-economic losses in personal injury cases.
+  - 10. Loss of Commercial Opportunity
+    - Recoverable if opportunity had discernible, non-negligible value.
+    - Damages = full value × probability. 
+    - Sellars v Adelaide Petroleum NL (1994) 179 CLR 332
+  - Exam Flowchart: Personal Injury under CLA (NSW)
+    - STEP 1 – Identify Type of Claim
+      - Is this a claim for damages? 
+        - Yes → Go to Step 2
+        - No → Out of scope
+    - STEP 2 – Building Blocks
+      - 1. Causation →  (CLA s 5D; March v Stramare)
+        - Factual causation (but for test; exceptions for indeterminate causes) 
+        - Scope of liability (is it appropriate to impose liability?)
+      - 2. Scope of Liability →
+        -  foreseeability, 
+        - Remoteness
+        - Novus actus interveniens
+      - 3. Assessment → depends on type of harm (common law vs CLA modifications)
+    - STEP 3 – Does CLA Apply? (s 11A + s 3B)
+      - CLA Pt 2 applies to personal injury damages unless excluded by s 3B
+        - Excluded = intentional acts, sexual assault (except ss 15B, 18(1))
+      - If excluded → use common law rules.
+    - STEP 4 – Identify “Injury” (s 11)
+      - Personal injury = physical or psychiatric illness (recognisable condition)
+      - NOT mere distress/disappointment (Moore v Scenic Tours)
+    - STEP 5 – Heads of Loss
+      - A. Economic Loss
+        - s 12 – Earnings Cap: Damages capped at 3× AWE (Tuohey v Freemasons Hospital)
+        - s 13 – Future Loss: Must prove “most likely” but-for earnings scenario
+          - Adjust for contingencies/vicissitudes (standard 15%)
+          - Malec v JC Hutton; IAG Ltd v Mares
+        - s 14 – Discount Rate: Future loss lump sum discounted at 5%
+      - B. Gratuitous Services (s 15, s 15B)
+        - Attendant care s 15 – GACS (Griffiths v Kerkemeyer equivalent):
+          - Threshold: ≥ 6 hrs/week, ≥ 6 months
+          - Services must:
+            - Be necessary due to injury
+            - Not otherwise be provided
+          - Cap:
+            - <40 hrs/week → 1/40 AWE hourly rate
+            - ≥40 hrs/week → AWE weekly cap
+          - No interest available (s 18(1)(b))
+        - Domestic services (s 15B)
+          - Prior provision to dependants
+          - Dependants must be unable to self-care
+          - Threshold: ≥ 6 hrs/week × 6 months
+          - Cap same as s 15
+          - No double recovery with s 15 (CSR v Eddy)
+          - No interest (s 18(1)(c))
+      - C Superannuation Loss (s 15C)
+        - Based on % of lost earnings (SG rate) (Najdovski v Crnojlovic)
+      - D. Non-Economic Loss (s 16–17)
+        - Step 1: Assess % of "a most extreme case" (Matthews v Dean; Manning v State of NSW)
+        - Step 2: Multiply by indexed cap (~$750k)
+        - Step 3: Result = damages for non-economic loss
+        - No interest allowed (s 18(1)(a))
+        - s 17A: Courts may refer to previous awards
+    - STEP 6 – Adjustments
+      - Default deduction = 15% unless varied by evidence
+        - (Nominal Defendant v Lane)
+      - Collateral benefits → apply National Insurance v Espagne test:	
+        - Not deducted: Gifts, insurance, charity (National Insurance Co v Espagne)
+        - Deducted: Statutory benefits (e.g., workers’ comp, Medicare, Centrelink)
+        - Sick pay: Deduct if it replaces income (Graham v Baker)
+    - STEP 7 – Add Interest & Consider Tax
+      - CLA s 18 – Interest NOT allowed on:
+        - (a) Non-economic loss 
+        - (b) GACS 
+        - (c) Domestic services
+      - 7.2 CPA s 100 – Interest allowed on:
+        - Past economic loss
+        - Rate = RBA cash rate + 4%
+        - Haines v Bendall: Interest is compensatory
+    - STEP 8: Assess Loss of Opportunity / Chance
+      - 8.1 Apply value × probability approach
+        - Sellars v Adelaide Petroleum
+        - Malec v JC Hutton (hypotheticals + future possibilities = % adjustment)
+  - Practical Use in Exam:
+    - When faced with a fact scenario:
+      - 1. Spot: is it a personal injury damages claim?
+      - 2. Apply s 11A / s 3B to see if CLA applies.
+      - 3. Walk through causation → scope → assessment.
+      - 4. For assessment, plug into economic / non-economic / services heads.
+      - 5. Apply caps, thresholds, contingencies, collateral benefits.
+      - 6. Conclude with final damages calculation (if needed).
+    - Interest under CLA
+Head of Damage
+Interest?
+Authority
+Past economic loss
+✅
+CLA s 18(2), CPA s 100
+Non-economic loss
+❌
+CLA s 18(1)(a)
+GACS
+❌
+CLA s 18(1)(b)
+Domestic services
+❌
+CLA s 18(1)(c)
+Superannuation loss
+✅
+CPA s 100 (not excluded under s 18)
+- Week 6: Property Damages and Interests
+  - Tutorial Link
+  -  Key Vocabulary 
+    - Chattel = tangible personal property not affixed to land.
+    - Real property = land + fixtures.
+    - Betterment = plaintiff can’t recover “new for old” unless unavoidable.
+    - Reasonable use fee = mesne profits for unauthorised use of property.
+    - Trespass = direct interference with exclusive possession (land/chattels).
+    - Diminution in value = the decrease in the market value of property as a result of damage, used as an alternative measure to rectification cost when repair is unreasonable or disproportionate (Ruxley v Forsyth [1996] AC 344).
+  - 📌 Property Damage (Contract & Tort)
+    - Guiding principle: compensate to position as if no breach/wrong (Robinson v Harman; Livingstone v Rawyards).
+  - Head(s) of Damages/Relief:
+    - Land/fixtures: cost of rectification (preferred) or diminution in value (Bellgrove; Tabcorp; Ruxley).
+    - Chattels: repair cost or market value if uneconomic to repair (Darbishire).
+    - Trespass: nominal, general (vindication), aggravated/exemplary (rare), reasonable use fee/mesne profits.
+    - Consequential economic loss (if not too remote).
+  - Guiding Principle (Goal)
+    - Restore proprietary position as if no wrong/breach; reinstatement is preferred where necessary and reasonable; avoid windfalls (Livingstone; Bellgrove; Tabcorp).
+  - Measure & Filters:
+    - Reasonableness of reinstatement; mitigation; betterment adjustments unless unavoidable; mesne profits at market rental; foreseeability for consequential loss.
+  - Land/Fixtures (Contract)
+    - Default = rectification cost.
+    - Bellgrove v Eldridge → must be necessary + reasonable.
+    - Tabcorp v Bowen → reasonableness test narrow; financial equivalence ≠ enough.
+    - Ruxley v Forsyth → where rectification disproportionate → award “loss of amenity.”
+  - Land/Fixtures (Tort)
+    - Same rule applies: rectification if reasonable.
+    - Evans v Balog → reinstatement reasonable to restore family home.
+    - Pantalone v Alaouie → reasonableness = balance of benefits v cost.
+  - Chattels	
+    - Default = repair cost.
+    - If repair > market value → only market value (Darbishire v Warran).
+    - Exception for unique items (Beaumont v Cahir → horse).
+  - 📌 Consequential & Non-Economic Loss
+    - Consequential loss recoverable if caused & not too remote (Gagner v Canturi).
+    - Non-economic loss: pain, suffering, inconvenience.
+      - Campbelltown CC v Mackay → psychiatric injury possible.
+  - 📌 Mitigation & Betterment
+    - Duty to mitigate loss.
+    - Clark v Macourt → can’t recover avoided losses.
+    - Harbutt’s Plasticine → “new for old” allowed if unavoidable.
+    - Hoad v Scone Motors → damages = net detriment, not windfall.
+  - 📌 Trespass
+    - Actionable per se (no damage needed).
+    - Heads of Damage:
+      - General (vindication of rights): Plenty v Dillon, TCN v Anning.
+      - Nominal: if no loss (Lewis v ACT).
+      - Aggravated/Exemplary: eg. NSW v Ibbett.
+      - Reasonable use fee (mesne profits): market rent for unauthorised use (LJP Investments; Sydney LHD v Macquarie).
+      - Property damage
+      - Loss of profits
+      - Interest
+  - 📌 Economic Loss: Deceit & Negligent Misstatement
+    - Deceit: difference between price paid & real value.
+      - Toteff v Antonas, Potts v Miller, Twycross v Grant.
+    - Negligent misstatement: restore pre-statement position.
+      - Shaddock v Parramatta CC.
+    - Modern overlay: ACL s 18 (misleading/deceptive conduct).
+  - Week 6 Problem-Question Flowchart (with citations)
+    - 1. Property Damage (Contract & Tort)
+      - Step 1: Identify the type of property
+        - Land/fixtures? → Apply Bellgrove v Eldridge (1954) 90 CLR 613: cost of rectification unless unreasonable.
+        - Chattels? → Default = cost of repair/replacement (Darbishire v Warran [1963] 3 All ER 310).
+      - Step 2: Apply test
+        - Rectification cost awarded if necessary + reasonable (Bellgrove v Eldridge; Tabcorp).
+        - Even if disproportionate, courts may still allow (Evans v Balog [1976] 1 NSWLR 36; Tabcorp Holdings Ltd v Bowen Investments (2009) 236 CLR 272).
+        - Exception: where unreasonable/technical breach → diminution in value instead (Ruxley Electronics [1994] 1 WLR 650).
+      - Step 3: Consider plaintiff’s conduct
+        - Intention to repair usually irrelevant (Bellgrove; Westpoint [2007] NSWCA 253).
+        - Actual rectification cost is powerful evidence of reasonableness (Hyder Consulting [2001] NSWCA 313).
+      - Step 4: Consider consequential losses
+        - Recoverable if caused + not too remote (Pantalone v Alaouie (1989) 18 NSWLR 119).
+      - Step 5: Betterment?
+        - If replacement = “new for old,” account for benefit unless necessary to mitigate (Clark v Macourt (2013) 253 CLR 1; Harbutt’s Plasticine [1970] 1 QB 447).
+    - 2. Trespass to Land
+      - Step 1: Actionable per se (Plenty v Dillon (1991) 171 CLR 635).
+      - Step 2: Damages options
+        - General damages to vindicate rights (Plenty v Dillon; TCN Channel Nine v Anning (2002) 54 NSWLR 333).
+        - Nominal damages if no real loss (Lewis v ACT (2020) 381 ALR 375).
+        - Aggravated/exemplary damages if oppressive conduct (NSW v Ibbett (2005) 65 NSWLR 168).
+        - Reasonable use fee (mesne profits) → market rent for period of unauthorised use (LJP Investments v Chia (1989) 24 NSWLR 499; Sydney Local Health District v Macquarie [2020] NSWCA 274).
+- Step 3: Apply to facts → ask:
+  - Was there direct interference with exclusive possession?
+  - If yes → award appropriate damages category above.
+    - 3. Economic Loss (Misstatement / Deceit)
+      - Step 1: Cause of action
+        - Deceit (fraudulent misrep).
+        - Negligent misstatement (duty of care; L Shaddock v Parramatta CC (1981) 150 CLR 225).
+      - Step 2: Measure of damages
+        - General principle = restore to position had misstatement not been made (Livingstone v Rawyards (1880) 5 App Cas 25).
+        - Deceit: “out-of-pocket” loss → difference between price paid and real value (Toteff v Antonas (1952) 87 CLR 647; Potts v Miller (1940) 64 CLR 282).
+        - Negligent misstatement: same compensatory test, but must be foreseeable (Shaddock).
+      - Step 3: Exclude extrinsic causes of loss
+        - Only losses inherent in the misrepresented thing recoverable (Potts v Miller).
+      - Step 4: Apply
+        - Did the misstatement/deceit induce reliance?
+        - What is plaintiff’s actual loss vs what they would have had absent reliance?
+  - Exam Answer Formula: Property Damages & Interests
+    - Step 1: Identify the Type of Property
+      - Land/fixtures → apply rectification vs diminution rules.
+      - Chattels → market value vs repair cost.
+      - Trespass → damages for vindication, reasonable use fee, etc.
+    - Step 2: Contractual Property Damage
+      - Rule: Damages = position if contract performed (Robinson v Harman (1848) 1 Ex 850).
+      - Rectification test: Work must be necessary + reasonable (Bellgrove v Eldridge (1954) 90 CLR 613).
+      - Exception (unreasonable repairs): Diminution in value (Ruxley Electronics v Forsyth [1996] AC 344).
+      - Modern approach: Rectification is preferred unless clearly disproportionate (Tabcorp v Bowen Investments (2009) 236 CLR 272).
+    - Step 3: Tortious Property Damage (Trespass, Negligence, Nuisance)
+      - Principle: Compensate, not fulfil expectations (Livingstone v Rawyards Coal (1880) 5 App Cas 25).
+      - Apply Bellgrove test in tort → reinstatement if reasonable.
+        - Evans v Balog [1976] 1 NSWLR 36 → reinstatement reasonable where family home destroyed.
+        - Pantalone v Alaouie (1989) 18 NSWLR 119 → balance cost to D vs benefit to P.
+    - Step 4: Chattels
+      - Default: Market value at time of loss (Darbishire v Warran [1963] 3 All ER 310).
+      - Exception: If rare/unique → repair/replacement cost reasonable (Beaumont v Cahir [2004] ACTSC 97).
+      - Destroyed/disappeared: Replacement cost only.
+    - Step 5: Mitigation & Betterment
+      - Rule: Must mitigate + account for betterment.
+        - Clark v Macourt (2013) 253 CLR 1 → avoidable vs avoided losses.
+        - Harbutt’s Plasticine [1970] 1 QB 447 → new-for-old allowed if necessary to mitigate.
+        - Hoad v Scone Motors [1977] 1 NSWLR 88 → damages = net detriment from accelerated replacement.
+    - Step 6: Trespass to Land
+      - Causation:  Palmer Bruyn & Parker Pty Ltd v Parsons
+      - Actionable per se (Plenty v Dillon (1991) 171 CLR 635).
+      - Damages available:
+        - General damages to vindicate rights (TCN Channel Nine v Anning (2002) 54 NSWLR 333).
+        - Nominal damages if no actual loss (Lewis v ACT (2020) 381 ALR 375).
+        - Aggravated/exemplary if oppressive (NSW v Ibbett (2005) 65 NSWLR 168).
+        - Reasonable use fee (“mesne profits”) → LJP Investments v Chia (1989) 24 NSWLR 499; Sydney Local Health District v Macquarie [2020] NSWCA 274.
+    - Step 7: Economic Loss from Misstatements
+      - Deceit (fraud): Out-of-pocket loss.
+        - Toteff v Antonas (1952) 87 CLR 647 → price paid − real value.
+        - Potts v Miller (1940) 64 CLR 282 → exclude extrinsic/supervening causes.
+      - Negligent misstatement: Restore to pre-reliance position.
+        - Shaddock v Parramatta CC (1981) 150 CLR 225 → includes acquisition + holding costs.
+      - Principle: Livingstone v Rawyards Coal (1880) → restore to position pre-wrong.
+- Week 7: Breach of Contract
+  - Tutorial Link
+  - 1. Guiding Principle: Expectation Interest
+    - Robinson v Harman (1848) 154 ER 363: Damages place plaintiff “in the same situation … as if the contract had been performed” (expectation interest).
+    - Commonwealth v Amann Aviation (1992) 174 CLR 64: Plaintiff must prove expectation loss on balance of probabilities. Protects profits/value expected, not subjective hopes.
+  - Head(s) of Damages:
+    - Expectation (lost profits/benefit; cost of substitute performance), reliance (wasted expenditure), consequential loss; limited non-economic loss (contracts for pleasure).
+    - No aggravated/exemplary for mere breach (Addis).
+  - Guiding Principle (Goal):
+    - Put plaintiff as if performance occurred (Robinson v Harman); uphold bargain (pacta sunt servanda).
+  - Measure & Filters:
+    - Remoteness (Hadley), mitigation (British Westinghouse), minimum performance (Gumland), contingencies (Amann), substitute performance at breach (Clark v Macourt).
+  - 2. Expectation Damages
+    - Sale of Goods Act 1923 (NSW)
+      - s 52: Buyer breach → damages = market value v contract price.
+      - s 53: Seller breach (non-delivery) → damages = contract price v market price.
+      - s 54: Warranty breach → damages = difference in value at delivery.
+    - Joseph & Co v Harvest Grain (1996) 39 NSWLR 722: Consequential re-sale losses recoverable if in parties’ contemplation at contract (s 53(2)).
+    - Ng v Filmlock (2014) 88 NSWLR 146: Sale of land → damages = difference between contract price and market value at breach.
+    - Radford v De Froberville [1978] 1 All ER 33: Plaintiff entitled to cost of substitute performance, even if eccentric, provided genuine loss (pacta sunt servanda).
+    - Clark v Macourt (2013) 253 CLR 1: Measure = cost of substitute performance at date of breach.
+  - 3. Loss of Profits / Opportunities
+    - Amann Aviation (1992) 174 CLR 64: Expectation damages = expenses + net profits.
+    - Chaplin v Hicks [1911] 2 KB 786: Loss of opportunity compensable even if uncertain; damages not defeated by uncertainty.
+  - 4. Reliance Damages / Wasted Expenditure
+    - Used where expectation cannot be proven.
+    - McRae v Commonwealth Disposals Commission (1951) 84 CLR 377: Expenditure wasted because subject matter (ship) never existed; recoverable.
+    - Amann Aviation (1992) 174 CLR 64: Presumption that reliance expenditure would have been recouped; burden shifts to defendant to rebut.
+  - 5. Property Damage / Services
+    - Bellgrove v Eldridge (1954) 90 CLR 613: Rectification costs recoverable if necessary and reasonable.
+    - Applies in contract and tort.
+    - If unreasonable, only diminution in value awarded.
+  - 6. Non-Economic Loss
+    - Hamlin v Great Northern Railway (1856) 156 ER 1261: No damages for distress/disappointment in contract generally.
+    - Addis v Gramophone [1909] AC 488: No aggravated/exemplary damages for breach of contract.
+    - Baltic Shipping v Dillon (1993) 176 CLR 344: Exception – damages for disappointment if the object of the contract was pleasure/relaxation.
+    - Moore v Scenic Tours [2020] HCA 18: Disappointment/distress compensable if pleasure/relaxation was a contractual purpose.
+    - Insight Vacations v Young (2010) 78 NSWLR 641: Distress damages merge into “personal injury damages” if tied to physical injury (Civil Liability Act Pt 2).
+  - 7. Personal Injury & Physical Inconvenience in Contract
+    - Godley v Perry [1960] 1 All ER 36: Pain and suffering damages recoverable in contract if physical injury caused.
+    - Hobbs v London Railway (1875) LR 10 QB 111: Physical inconvenience compensable (walking miles in rain).
+  - 8. Limits on Contractual Damages
+    - Mitigation & Betterment
+      - British Westinghouse [1912] AC 673: Plaintiff must give credit for benefits from mitigation (“better” replacement machines offset loss).
+      - Clark v Macourt (2013) 253 CLR 1: No betterment discount unless defendant proves actual financial gain from replacement.
+    - Minimum Performance Rule
+      - Gumland v Duffy Bros (2008) 234 CLR 237: Damages assessed on least burdensome mode of performance available to defendant.
+      - The Mihalis Angelos [1971] 1 QB 164: If defendant could have validly terminated, assume it would have.
+      - TCN Channel 9 v Hayden (1989) 16 NSWLR 130: Facts may show defendant unlikely to exercise termination right; damages not always cut down.
+    - Negative Contingencies
+      - Amann Aviation (1992) 174 CLR 64: Must weigh contingencies reducing loss (renewal unlikely).
+    - Novus Actus Interveniens
+      - Lambert v Lewis [1982] AC 225: Break in causation where third party negligence, not original breach, caused damage.
+  - 9. Contributory Negligence
+    - Law Reform (Miscellaneous Provisions) Act 1965 (NSW) s 9: Contributory negligence reduces damages if contract duty overlaps with tort duty of care.
+  - Exam Checklist – Breach of Contract Damages
+    - 1. Identify breach + termination
+      - Repudiation? (Conduct showing unwillingness to perform).
+      - Right to terminate? Yes → damages claim arises.
+    - 2. Purpose of damages
+      - Put plaintiff in position as if contract performed (Robinson v Harman (1848) 154 ER 363).
+      - Expectation interest = lost profits/benefit (Amann Aviation (1992) 174 CLR 64).
+      - Reliance/wasted expenditure if expectation can’t be proven (McRae (1951) 84 CLR 377).
+      - No exemplary/aggravated damages (Addis [1909] AC 488).
+    - 3. Tests
+      - Causation: But-for test + common sense.
+      - Remoteness: Loss must arise naturally or be in contemplation (Hadley v Baxendale (1854) 9 Exch 341).
+      - Special knowledge: communicated? (Victoria Laundry [1949] 2 KB 528).
+      - Mitigation: plaintiff must act reasonably (British Westinghouse [1912] AC 673).
+      - Minimum performance rule: least onerous obligation (Gumland (2008) 234 CLR 237; Mihalis Angelos [1971] 1 QB 164).
+    - 4. Heads of loss
+      - Cost of substitute performance – recover difference (Clark v Macourt (2013) 253 CLR 1).
+      - Consequential losses – eg hotel costs, inconvenience (Hobbs (1875) LR 10 QB 111).
+      - Physical injury – compensable (Godley v Perry [1960] 1 All ER 36).
+      - Lost profit/value – compare contract expectation with actual outcome; subject to remoteness/mitigation (Joseph v Harvest Grain (1996) 39 NSWLR 722
+    - 5. Policy limits
+      - No damages for hurt feelings, humiliation (Hamlin (1856) 156 ER 1261).
+      - Only compensatory damages awarded.
+    - ✅ Structure your exam answer:
+- State purpose of damages.
+- Apply causation/remoteness/mitigation.
+- Quantify each head of loss with authority.
+- Defences/limits.
+- Conclude total recoverable sum.
+- Week 8: Equitable Remedies & Equitable Defences
+  - Tutorial link
+  - 1. Introduction to Equitable Remedies
+    - Equitable remedies are discretionary: They are not available as of right and depend on all the circumstances of the case (Corin v Patton (1990) 169 CLR 540).
+    - Equity acts as a court of conscience, focusing on the conduct of the plaintiff and whether relief would be unconscientious.
+    - Equitable relief may be tailored to the justice of the case, unlike common law remedies which are typically fixed.
+  - Head(s) of Remedy (not “damages”):
+    - Specific performance, injunctions (prohibitory, mandatory, quia timet), equitable compensation, account of profits, damages in lieu (SCA s 68).
+    - Ancillary allowances (e.g., equitable allowance on accounts).
+  - Guiding Principle (Goal):
+    - Preserve or restore the equitable/rightful position; do what is practically just; relief is discretionary and conditioned by conscience (clean hands, laches, hardship).
+  - Measure & Filters:
+    - Adequacy of damages; feasibility/clarity of orders; readiness/willingness; maxims/defences; tailor relief; damages in lieu where SP/injunction inappropriate.
+  - 2. Equitable Maxims and Defences
+    - 2.1. Clean Hands
+      - A plaintiff must come to equity with clean hands:
+        - Misconduct must be directly related to the remedy sought (Dering v Earl of Winchelsea (1787) 29 ER 1184).
+        - Relief may be denied if the plaintiff acted unconscientiously during proceedings (Krakowski v Eurolynx Properties (1995) 183 CLR 563).
+    - 2.2. One Who Seeks Equity Must Do Equity
+      - Plaintiff must be willing to comply with equitable obligations imposed by the court (Chen v Marcolongo (2009) 260 ALR 353).
+      - Relief may be conditioned on repayment or restitution (Maguire v Makaronis (1997) 188 CLR 449).
+    - 2.3. Laches (Delay)
+      - Delay may bar equitable relief if:
+        - It causes prejudice or uncertainty to the defendant (Fysh v Page (1956) 96 CLR 233);
+        - The nature of the claim makes delay particularly detrimental (Lamshed v Lamshed (1963) 109 CLR 440).
+- 2.4. Hardship
+  - Relief may be refused where enforcement would cause oppression or injustice, beyond mere inconvenience:
+    - Must show hardship outweighs benefit to plaintiff (IGA Distribution v King & Taylor [2002] VSC 440; Patel v Ali [1984] Ch 283).
+  - 3. Specific Performance
+    - 3.1. Nature of the Remedy
+      - Discretionary remedy requiring actual performance of contractual obligations.
+      - Equity's auxiliary jurisdiction (protecting legal rights).
+    - 3.2. Preconditions to Relief
+      - Enforceable contract: Legal, certain, and supported by consideration.
+      - Damages inadequate: Relief granted only where damages insufficient.
+    - 3.3. When Will Relief Be Refused?
+      - Void/voidable contract: No basis for equitable enforcement.
+      - Impossibility/futility: No relief if the contract can’t be carried out (Brunner v Greenslade [1971] Ch 993).
+      - Adequate damages: Commercial cases where goods/services are readily available (Wilson v Northampton (1874) LR 9 Ch App 279).
+    - 3.4. Examples of Inadequacy of Damages
+      - Land contracts: Land is unique (Dougan v Ley (1946) 71 CLR 142).
+      - Custom/rare goods: Cannot be easily replaced (Dougan v Ley).
+      - Reputational loss or goodwill (Evans Marshall v Bertola [1973] 1 WLR 349).
+      - Defendant’s insolvency (GE Capital v Rocks Excavations [2003] NSWSC 99).
+    - 3.5. Discretionary Bars
+      - Repeated supervision: Court will not enforce ongoing obligations (JC Williamson v Lukey (1931) 45 CLR 282).
+      - Ambiguity: Contracts must be certain in all terms (Labraga v Pomfret [2005] NSWSC 973).
+      - Personal services: Typically not enforced (Gillespie v Whiteoak [1989] 1 Qd 284).
+      - Mutuality: Both parties must be bound equally (JC Williamson).
+      - Readiness and willingness: Plaintiff must be prepared to perform essential obligations (Mehmet v Benson (1965) 113 CLR 295).
+      - Hardship: As above, can prevent enforcement (Patel v Ali [1984] Ch 283).
+      - Equitable defences: Clean hands, laches, etc.
+  - 4. Part Performance
+    - Equity may enforce a land contract not in writing (s 54A Conveyancing Act 1919 (NSW)) if:
+      - 1. Valid oral contract affecting land;
+      - 2. Plaintiff has partially performed;
+      - 3. Defendant stood by and allowed reliance;
+      - 4. Defendant seeks to deny enforceability based on lack of writing.
+    - Khouri v Khoury (2006) 66 NSWLR 241: Part performance allows access to equitable remedies (not damages).
+  - 5. Injunctions
+    - 5.1. Nature of Remedy
+      - Court order compelling or restraining actions:
+        - Prohibitory: Stop doing something.
+        - Mandatory: Do something (enforcing or restorative).
+        - Quia timet: Prevent anticipated wrongs.
+      - Supreme Court Act 1970 (NSW) s 66 empowers injunctions for apprehended breaches.
+    - 5.2. Preconditions for Relief
+      - Protects a recognised legal right.
+      - Damages must be inadequate (Irving v Emu (1909) 26 WN (NSW) 137).
+      - Relief must not be futile, impossible, or unclear (Redland Bricks Ltd v Morris [1970] AC 652).
+    - 5.3. Mandatory Injunctions
+      - Higher threshold: Must show strong probability of future damage, inadequacy of damages, and clarity in required action (Redland Bricks).
+    - 5.4. Injunction in Contract
+      - Can enforce negative promises even when positive obligations are not enforceable (JC Williamson v Lukey).
+      - Positive obligations may be enforced through mandatory injunctions but are rare due to supervision and hardship concerns.
+    - 5.5. Quia Timet Injunctions
+      - Pre-emptive relief based on likelihood of future harm.
+      - Requirements:
+        - 1. Imminent threat;
+        - 2. Substantial damage likely;
+        - 3. Legal right under threat;
+        - 4. Damages inadequate
+      - Uber BV v Howarth [2017] NSWSC 54: Injunction upheld to prevent ongoing tort of intimidation.
+  - Problem Question Flowchart
+    - Step 1: Identify Remedy Sought
+      - Is it contractual? → consider specific performance.
+      - Is it to restrain or compel behaviour? → consider injunction (prohibitory / mandatory / quia timet).
+    - Step 2: Preconditions
+      - 1. Is there a recognised legal right?
+        - Contract valid & enforceable? (certainty, consideration, legality)
+        - Part performance exception? (Khouri v Khoury)
+      - 2. Are damages inadequate?
+        - Land → always inadequate (Dougan v Ley)
+        - Unique/custom goods or rights → inadequate (Evans Marshall)
+        - Defendant insolvent → inadequate (GE Capital)
+      - 3. Is relief possible & certain?
+        - Not impossible or futile (Brunner v Greenslade)
+        - Must be clear in fact (Redland Bricks)
+    - Step 3: Remedy-Specific Considerations
+      - Specific Performance
+        - Void/voidable contract → no SP
+        - Personal service contract? → barred (JC Williamson)
+        - Requires constant supervision? → likely refused (Sentinel Countrywide)
+      - Injunction
+        - Protecting legal right? (ABC v Lenah Game Meats)
+        - Negative promise? → injunction likely (JC Williamson)
+        - Mandatory? → stricter test: strong probability of grave harm + damages inadequate (Redland Bricks)
+        - Quia timet? → imminent wrong + substantial damage (Uber v Howarth)
+    - Step 4: Equitable Defences / Maxims
+      - Clean hands → misconduct directly related? (Krakowski v Eurolynx)
+      - Do equity → plaintiff must return benefits (Maguire v Makaronis)
+      - Laches → unreasonable delay + prejudice? (Lamshed v Lamshed)
+      - Hardship → would order cause oppression/injustice? (Patel v Ali)
+    - Step 5: Discretionary Factors
+      - Ready, willing, able to perform? (Mehmet v Benson)
+      - Mutuality of obligations? (JC Williamson)
+      - Ambiguity in contract? (Labraga v Pomfret)
+      - Any overlapping doctrines (waiver, estoppel, election)
+    - Step 6: Conclusion
+      - If all preconditions met + no equitable defence applies → likely remedy granted.
+      - If discretionary bar applies → court may refuse or tailor relief.
+      - Tailor orders narrowly:
+        - Specific performance of land sale with refund conditions.
+        - Prohibitory injunction limited to scope of breach.
+        - Mandatory injunction only if strong case for necessity.
+-  Week 9: Equitable Remedies
+  - Tutorial link
+  - Head(s) of Remedy (not “damages”) 
+    - Specific performance, injunctions (prohibitory, mandatory, quia timet), equitable compensation, account of profits, damages in lieu (SCA s 68).
+    - Ancillary allowances (e.g., equitable allowance on accounts).
+  - Guiding Principle (Goal):
+    - Preserve or restore the equitable/rightful position; do what is practically just; relief is discretionary and conditioned by conscience (clean hands, laches, hardship).
+  - Measure & Filters:
+    - Adequacy of damages; feasibility/clarity of orders; readiness/willingness; maxims/defences; tailor relief; damages in lieu where SP/injunction inappropriate.
+  - 1. Key Vocabulary and Core Concepts
+    - 1.1 Auxiliary jurisdiction (equity)
+      - Equity acts to support legal rights by providing equitable relief for legal wrongs (e.g., SP/injunction for breach of contract) (general principle; Supreme Court Act 1970 (NSW) s 66; Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd (2001) 208 CLR 199, 226–7 [60] (Gaudron J))
+    - 1.2 Primary jurisdiction (equity)
+      - Equity protects interests recognised only in equity (e.g., trust beneficiaries). Not examined here (covered in Equity & Trusts).
+    - 1.3 Discretionary character of equitable relief
+      - All circumstances relevant; conscience-based; plaintiff’s conduct closely scrutinised (Corin v Patton (1990) 169 CLR 540, 557 (Mason CJ, McHugh J)).
+    - 1.4 Clean hands
+      - Relief may be refused for misconduct with immediate and necessary relation to the equity sued for (Dering v Earl of Winchelsea (1787) 29 ER 1184, 1186 (Eyre CB)).
+    - 1.5 Doing equity
+      - Plaintiff may be required to meet conditions that ensure practical justice before relief (e.g., refund benefits) (Chen v Marcolongo (2009) 260 ALR 353, 413–14 [318]–[320] (Young JA); Maguire v Makaronis (1997) 188 CLR 449, 475)
+    - 1.6 Laches
+      - Unreasonable delay prejudicing the defendant may bar relief (Fysh v Page (1956) 96 CLR 233, 243; Lamshed v Lamshed (1963) 109 CLR 440 (Kitto J)).
+    - 1.7 Hardship
+      - Relief may be refused where enforcement would be oppressive and disproportionate (Patel v Ali [1984] Ch 283, 288; IGA Distribution Pty Ltd v King & Taylor Pty Ltd [2002] VSC 440, [243] (Nettle J)).
+    - 1.8 Injunctions
+      - Court order to do or refrain from doing acts: prohibitory, mandatory (enforcing/restorative), quia timet (anticipatory). Auxiliary to legal rights in tort/contract (Supreme Court Act 1970 (NSW) s 66; Lenah (2001) 208 CLR 199; Victoria Park Racing v Taylor (1937) 58 CLR 479).
+    - 1.9 Specific performance (SP)
+      - Order compelling contractual performance; auxiliary, discretionary; generally where damages inadequate (Wilson v Northampton & Banbury Railway (1874) LR 9 Ch App 279, 284 (Lord Selborne); Dougan v Ley (1946) 71 CLR 142).
+  - 2. Introduction to Equitable Remedies and Defences
+    - 2.1 General features 
+      - Discretionary; tailored relief; not granted where futile or unjust; court avoids unconscientious outcomes (Corin v Patton (1990) 169 CLR 540, 557 
+    - 2.2 Effect of equitable defences 
+      - Defences (clean hands, laches, hardship, “do equity”) may bar or condition relief; defendant remains liable at law if equitable relief is refused (auxiliary character).
+  - 3. Equitable Maxims / Defences
+    - 3.1 Clean hands 
+      - Misconduct must relate to relief sought (not general depravity) (Dering (1787) 29 ER 1184, 1186). 
+      - Rescission/SP may be refused for unconscientious conduct during proceedings (Krakowski v Eurolynx Properties Ltd (1995) 183 CLR 563, 583–4 
+    - 3.2 Doing equity 
+      - Court imposes terms ensuring practical justice (e.g., repayment) (Chen v Marcolongo (2009) 260 ALR 353, 413–14 [318]–[320]; Vadasz v Pioneer Concrete (1995) 184 CLR 102, 112–13 
+    - 3.3 Laches 
+      - Consider prejudice, change of position, third-party interests; mere delay insufficient; promptness required especially after outright denial of contract (Fysh (1956) 96 CLR 233, 243; Lamshed (1963) 109 CLR 440 (Kitto J) 
+    - 3.4 Hardship 
+      - Must amount to oppression outweighing plaintiff’s detriment; improvidence alone insufficient; supervening circumstances may justify refusal (IGA Distribution [2002] VSC 440, [243]; Patel v Ali [1984] Ch 283, 288 
+    - 3.5 Overlap 
+      - May intersect with estoppel, waiver, election (context dependent).
+  - 4. Specific Performance (SP)
+    - 4.1 Nature and availability
+      - Purely contractual; auxiliary; discretionary (JC Williamson Ltd v Lukey (1931) 45 CLR 282, 297–8 (Dixon J)).
+    - 4.2 Preconditions to relief
+      - (1) Enforceable contract (certainty, legality, consideration)
+      - (2) Performance not impossible/futile
+      - (3) Damages inadequate (auxiliary principle) (Wilson LR 9 Ch App 279, 284).
+    - 4.3 Enforceable contract
+      - Void/unenforceable/voidable contracts defeat SP (subject to part performance).
+      - Consideration: nominal consideration may negate discretion; equity looks to substance (Costin v Costin [1995] ANZ ConvR 289 (Santow J); Corin v Patton (1990) 169 CLR 540, 577 (Deane J)).	
+    - 4.4 Voidable contract
+      - If defendant may rescind for vitiation, SP ordinarily refused as futile/unclean hands.
+    - 4.5 Impossibility / futility
+      - Equity does nothing in vain; orders must “work” (Brunner v Greenslade [1971] Ch 993, 1005–6 (Megarry J)).
+    - 4.6 When damages are inadequate (illustrations)
+      - Land: unique; SP to purchaser or vendor (Dougan v Ley (1946) 71 CLR 142, 150 (Dixon J)).
+      - Unique goods/licences/rights: taxi licence attached to chattel (Dougan 71 CLR 142, 149 (Dixon J)).
+      - Insolvency risk: damages inadequate if defendant impecunious (GE Capital v Rocks Excavations [2003] NSWSC 99, [61] (Young CJ in Eq)).
+      - Loss difficult to quantify: goodwill/reputation (Evans Marshall v Bertola [1973] 1 WLR 349, 379 (Sachs LJ)).
+      - Privity work-around: administrator obtains SP to secure annuity structure (Beswick v Beswick [1968] AC 58, 102–3 (Lord Pearce)).
+    - 4.7 Further discretionary limits
+      - Repeated applications / supervision: SP unsuitable if ongoing court management likely (JC Williamson 45 CLR 282, 292–3 (Starke J), 297–8 (Dixon J)); nuance: supervision per se is not fatal—problem is serial compliance rulings (Sentinel Countrywide Retail Ltd v PC Emerald (Qld) Pty Ltd [2015] QSC 348, [11] (Applegarth J)).
+      - Ambiguity/uncertainty: terms must be certain (Labraga v Pomfret [2005] NSWSC 973, [87]).
+      - Personal services: generally refused (JC Williamson 45 CLR 282, 292–3, 297–8); but obligations not requiring personal skill may be enforceable (Gillespie v Whiteoak [1989] 1 Qd R 284, 288 (Carter J)).
+      - Mutuality: court must secure reciprocal performance (JC Williamson 45 CLR 282, 298 (Dixon J)).
+      - Readiness, willingness, ability: substance, not technical perfection; breach of inessential term does not bar SP where time not essential (Mehmet v Benson (1965) 113 CLR 295, 307–8 (Barwick CJ)).
+      - Hardship / maxims: may refuse for clean hands, laches, hardship (Patel v Ali [1984] Ch 283).
+    - 4.8 Part performance (land contracts not compliant with writing)
+      - Elements 	
+        - (1) proved oral contract for interest in land; 
+        - (2) plaintiff acts in reliance; 
+        - (3) defendant encourages/allows reliance; 
+        - (4) defendant seeks to rely on Conveyancing Act 1919 (NSW) s 54A (and s 23C) to defeat enforcement; 
+      - remedy is SP (Khouri v Khoury (2006) 66 NSWLR 241, 248–9 [31] (Bryson JA)).
+  - 5. Injunctions (Auxiliary Jurisdiction)
+    - 5.1 Statutory power
+      - Supreme Court Act 1970 (NSW) s 66(1)–(4): power to restrain threatened/apprehended breach or injury; interlocutory relief where just or convenient.
+    - 5.2 Preconditions (auxiliary)
+      - Protect a recognised right (legal/equitable/statutory) (Lenah (2001) 208 CLR 199, 226–7 [60]; Victoria Park (1937) 58 CLR 479).
+      - Damages inadequate (difficulty quantification, insolvency risk, irreparable harm, likely repetition) (Irving v Emu & Prospect Gravel (1909) 26 WN (NSW) 137, 137 (Street J)).
+      - Not futile/impossible; order must be clear (Redland Bricks Ltd v Morris [1970] AC 652, 666 (Lord Upjohn)).
+      - Discretionary factors akin to SP (hardship, laches, clean hands; supervision concerns).
+    - 5.3 Property context
+      - Prima facie injunction for trespass/nuisance to land; but trivial harm may defeat relief (Lord v McMahon [2015] NSWSC 1619, [168]–[169] (Slattery J)).
+    - 5.4 Types
+      - Prohibitory: restrains acts.
+      - Mandatory: compels acts.
+        - Enforcing: compels positive performance (rare; supervision/hardship concerns).
+        - Restorative: restores status quo (e.g., remove structures, repair land) (Redland Bricks [1970] AC 652, 665–6).
+      - Quia timet: anticipatory; requires strong likelihood of imminent substantial harm; past infringements assist (Proctor v Bayley (1889) 42 Ch D 390, 398–400; Uber BV v Howarth [2017] NSWSC 54, [194]–[199] (Slattery J)).
+    - 5.5 Contractual injunctions
+      - Negative promises readily enforced; substance over form (negative duty may be expressed positively) (JC Williamson 45 CLR 282, 298–9 (Dixon J)). 
+      - Mandatory injunctions may indirectly produce performance where direct SP inappropriate; classic restraint from performing elsewhere (Lumley v Wagner (1852) 1 DM & G 604, 619 (Lord St Leonards LC)). 
+      - Court will not grant injunction to compel what could not be ordered by SP (personal services/constant supervision).
+  - 6. Interlocutory Injunctions (Procedure & Test)
+    - 6.1 Power and undertaking
+      - Supreme Court Act 1970 (NSW) s 66(4): interlocutory injunction where just or convenient.
+      - Undertaking as to damages ordinarily required from plaintiff.
+    - 6.2 Test (Australia)
+      - Serious question to be tried and balance of convenience (including adequacy of damages and maintenance of status quo) (Beecham Group Ltd v Bristol Laboratories Pty Ltd (1968) 118 CLR 618, 622–3).
+      - Consider public interest and practical enforceability.
+  - 7. Monetary Relief in Equity (Heads of Monetary Relief)
+    - 7.1 Equitable compensation
+      - Compensatory monetary award for breach of equitable obligation (e.g., trustee/ fiduciary/ equitable wrong); causation principles are equity-specific and protective of the equitable right (Maguire v Makaronis (1997) 188 CLR 449, 466–7; Youyang Pty Ltd v Minter Ellison Morris Fletcher (2003) 212 CLR 484, 500–3).
+    - 7.2 Account of profits
+      - Disgorgement of gains wrongfully made (commonly for fiduciary breach or conscious assistance) (general principle; HCA authority includes Warman International Ltd v Dwyer (1995) 182 CLR 544, 561–62 (discretion and allowance)).
+    - 7.3 Damages in addition to or in substitution for SP/injunction (Lord Cairns’ Act)
+      - Court may award damages where SP/injunction is sought but inappropriate: Supreme Court Act 1970 (NSW) s 68 (statutory analogue of Lord Cairns’ Act). 
+      - Used to “monetise” what equitable relief would have protected (e.g., loss measured at date of trial in some contexts; discretionary).
+    - 7.4 Equitable allowance/”user” principles
+      - Allowances may be made to avoid oppression when ordering account/mandatory relief (e.g., for skill and effort) (Warman (1995) 182 CLR 544, 561–2).
+  - 8. Practical Checklist — Discretionary Factors (Both SP and Injunctions)
+    - 8.1 Against granting relief
+      - Unclean hands (connected misconduct) (Dering).
+      - Plaintiff must “do equity” (conditions such as restitution) (Chen; Maguire).
+      - Laches / prejudicial delay (Fysh; Lamshed).
+      - Hardship/oppression (Patel; IGA Distribution).
+      - Need for constant supervision / repeated compliance rulings (JC Williamson; Sentinel).
+      - Ambiguity/uncertainty of obligation (Labraga).
+      - Futility/impossibility (Brunner; Redland Bricks for clarity).
+      - Personal services / mutuality issues (JC Williamson).
+      - Plaintiff not ready, willing and able (substance) (Mehmet).
+  - 9. Common Fact Patterns & Authorities
+    - 9.1 Sale of land
+      - Damages usually inadequate → SP presumptively suitable (Dougan 71 CLR 142).
+    - 9.2 Unique or scarce assets/licences
+      - SP or injunction where market substitute unavailable (Dougan 71 CLR 142).
+    - 9.3 Ongoing nuisance/trespass
+      - Prohibitory injunction presumptive; restorative mandatory injunction if needed to fix harm, with caution and clarity (Lord v McMahon; Redland Bricks).
+    - 9.4 Employment/personal services
+      - SP refused; negative covenants may be restrained (JC Williamson; Lumley).
+    - 9.5 Threatened wrongs / protests / intimidation
+      - Quia timet injunction available upon proof of imminent harm and inadequacy of damages (Uber v Howarth [2017] NSWSC 54, [194]–[199]).
+  - 10. Exam Answer Formulae (Step-by-Step)
+    - 10.1 Specific Performance
+      - 1. Identify legal right and remedy sought
+        - 1.1 Contract exists: certainty, consideration, capacity, legality (cite facts + Labraga; Costin; Conveyancing Act 1919 (NSW) s 54A if land/writing issue).
+        - 1.2 If writing deficient, assess part performance (elements) and remedy (SP) (Khouri (2006) 66 NSWLR 241, 248–9 [31]).
+      - 2. Preconditions to SP
+        - 2.1 Not void/voidable/futile (vitiation → futility/unclean hands).
+        - 2.2 No impossibility/futility (order must “work”) (Brunner [1971] Ch 993, 1005–6).
+        - 2.3 Damages inadequate (explain why: uniqueness, quantification difficulty, insolvency risk) (Dougan; Evans Marshall; GE Capital).
+      - 3. Discretionary factors
+        - 3.1 Clean hands (connected misconduct) (Dering).
+        - 3.2 Do equity (conditions: repayment/allowance) (Chen; Maguire) 
+        - 3.3 Laches (delay + prejudice) (Fysh; Lamshed) 
+        - 3.4 Supervision/ambiguity/personal services/mutuality (JC Williamson; Sentinel; Labraga). 
+        - 3.5 Hardship balancing (Patel; IGA Distribution).
+      - 4. Plaintiff’s readiness, willingness, ability
+        - 4.1 Substantive readiness; inessential breaches do not bar SP if time not essential (Mehmet 113 CLR 295, 307–8).
+      - 5. Relief and term 
+        - 5.1 Frame decree precisely; include ancillary orders (e.g., time for completion, accounting, adjustments) 
+        - 5.2 Consider substitutionary damages under Supreme Court Act 1970 (NSW) s 68 if SP refused.
+    - 10.2 Injunction (Final)
+      - Identify right and wrong
+        - 1.1 Right protected (legal/equitable/statutory) (Lenah; s 66).
+        - 1.2 Nature of infringement (actual/threatened; quia timet) (Proctor; Uber v Howarth).
+      - Adequacy of damages
+        - 2.1 Explain inadequacy (irreparable harm; repetition; quantification difficulty; defendant’s solvency) (Irving; Lord v McMahon).
+      - Suitability and clarity of order
+        - 3.1 Prohibitory vs mandatory; restorative vs enforcing; clarity and feasibility (Redland Bricks).
+      - Discretionary factors
+        - 4.1 Clean hands; do equity; laches; hardship; supervision; personal services (Dering; Chen; Patel; JC Williamson).
+      - Frame relief
+        - 5.1 Draft precise terms; consider undertakings; if in contract, ensure not compelling what SP would refuse.
+        - 5.2 If injunction inappropriate, consider s 68 damages in lieu.
+    - 10.3 Interlocutory Injunction 
+      - Serious question to be tried (Beecham 118 CLR 618, 622–3).
+        - 1.1 Identify arguable right and arguable infringement. 
+      - Balance of convenience
+        - 2.1 Adequacy of damages; maintenance of status quo; public interest; practicality of enforcement. 2.2 Undertaking as to damages (plaintiff to give).
+      - Draft limited, clear interim orders with return date (s 66(4)).
+    - 10.4 Equitable Monetary Relief (if pleaded in the alternative)
+      - Equitable compensation
+        - 1.1 Identify equitable duty and breach; causation consistent with protecting equitable right (Youyang 212 CLR 484, 500–3; Maguire 188 CLR 449, 466–7).
+      - Account of profits
+        - 2.1 Identify gain from wrongful conduct; address allowances (Warman 182 CLR 544, 561–2).
+      - Damages in lieu
+        - 3.1 If injunction/SP inappropriate, seek s 68 damages; articulate measure corresponding to lost equitable protection. 
+  - 11. Quick Authority Map (for fast recall)
+    - Maxims/defences: Dering (clean hands); Chen/Maguire (do equity); Fysh/Lamshed (laches); Patel/IGA Distribution (hardship).
+    - SP core: Wilson (principle); Dougan (land/unique goods); Mehmet (readiness); JC Williamson (supervision/personal services/mutuality); Labraga (certainty).
+    - Writing/land: Conveyancing Act s 54A, s 23C; Khouri.
+    - Injunctions: Supreme Court Act s 66; Lenah; Victoria Park; Irving (adequacy); Lord v McMahon (land); Redland Bricks (mandatory/restorative/clarity); Lumley (negative covenant).
+    - Interlocutory: Beecham.
+    - Quia timet: Proctor v Bayley; Uber v Howarth.
+    - Monetary in equity: Supreme Court Act s 68 (damages in lieu); Youyang (equitable compensation); Warman (account).
+  - 12. One-Page Issue Spotter (apply in problem questions)
+    - What right is the plaintiff protecting (contract/tort/property)?
+    - Which remedy best preserves that right (SP; prohibitory; mandatory; quia timet)?
+    - Why are damages inadequate (uniqueness, quantification, repetition, insolvency, irreparable harm)?
+    - Can an order be crafted that “works” with clear terms (no futility/supervision problems)?
+    - Any discretionary bars (hands, laches, hardship, readiness, mutuality, personal services)?
+    - If equity refuses, what substitute (damages in lieu under s 68; equitable compensation; account)?
+    - Interlocutory? Apply Beecham + undertaking; maintain status quo.
+- Week 10: Rescission
+  - Tutorial link
+  - 1. Core Vocabulary
+    - Ab initio: “from the beginning.” If rescission is elected, the transaction is void ab initio and unwound (title re-vests; money accounted) (general principle).
+    - Rescission: Remedy (legal or equitable) that avoids a legal act and restores parties (undoes the bargain).
+    - Restitutio in integrum: Restoration to the pre-transaction position; at law requires precise restoration; in equity substantial restoration suffices (Alati v Kruger (1955) 94 CLR 216).
+    - Void vs Voidable: Vitiating factors render a transaction voidable (choice to avoid) rather than void (automatic nullity).
+  - Head(s) of Remedy:
+    - Rescission (status remedy: avoids transaction ab initio), with accounts/allowances/interest and possible pecuniary substitution.
+    - Rectification (rewrites instrument to reflect true intention); not damages.
+  - Guiding Principle (Goal):
+    - Rescission: unwind and restore status quo ante (substantial restitutio in equity).
+    - Rectification: align writing with objective common intention; prevent unconscientious reliance on erroneous text.
+  - Measure & Filters:
+    - Rescission: substantial restoration via accounts for use/benefits, deterioration, improvements, interest; proceeds accounting; third-party rights; election/affirmation; laches (Alati; Brown v Smitt; Erlanger; Re Metropolitan Coal; Quek; Sargent; Lindsay Petroleum).
+    - Rectification: written instrument + common/unilateral mistake + clear and convincing proof; protect third-party reliance; avoid imposing new bargain (Simic; Franklins; Carlenka; Leibler).
+  - 2. Rescission — Availability & Effect
+    - Who/when:
+      - Contracts induced by misrepresentation (innocent/fraudulent/negligent), duress, undue influence, unconscionable conduct (incl Garcia); also mistake, breach of fiduciary duty; not limited to contracts (gifts etc) (Alati v Kruger (1955) 94 CLR 216; Vadasz v Pioneer Concrete (SA) Pty Ltd (1995) 184 CLR 102).
+    - Effect of rescission:
+      - Election to rescind makes the transaction void ab initio; title re-vests; money and benefits accounted; parties restored to status quo ante (Alati v Kruger (1955) 94 CLR 216).
+  - 3. Restitutio in Integrum — Common Law vs Equity
+    - At common law:
+      - Available for fraud and duress; requires precise restitutio; rarely available if there’s part performance/use or subject matter changed (Hunt v Silk (1804) 102 ER 1142; O’Sullivan et al, Law of Rescission [18.25]).
+    - In equity:
+      - Requires only substantial restitutio; court can do what is practically just by:
+        - Taking accounts of profits/benefits; allowances for deterioration/improvements; pecuniary substitution for items not returnable; on-terms adjustments (Alati v Kruger (1955) 94 CLR 216; Spence v Crawford [1939] 3 All ER 271).
+      - Fraud: equity can include indemnity for loss directly caused by fraud (Nadinic v Drinkwater [2017] NSWCA 114 at [35] endorsing Newbigging v Adam (1886) 34 Ch D 582).
+  - 4. Accounting on Rescission — What Gets Adjusted?
+    - Only rights/obligations under the rescinded contract are restored; no collateral losses (claim deceit for those) (Brown v Smitt (1924) 34 CLR 160 at 165–66).
+    - Improvements/deterioration:
+      - If property remains in substance the same, equity adjusts with money compensation:
+        - Allow necessary repairs (Edwards v McLeay (1818) per Brown v Smitt (1924) 34 CLR 160 at 165).
+        - Allowance for permanent improvements where just; not for mere tastes/personal enjoyment; none after notice of defect (Brown v Smitt (1924) 34 CLR 160 at 164–66).
+    - Use/benefits:
+      - Must account for use and benefits (dividends, rents) derived (Erlanger v New Sombrero Phosphate Co (1878) 3 App Cas 1218 at 1278; Spence v Crawford [1939] 3 All ER 271 at 284).
+    - Services contracts: 
+      - Partial performance not an absolute bar in equity; court may order money adjustments to achieve practical justice (Atlantic Lines (‘The Lucy’) [1983] 1 Lloyd’s LR 188 at 202; O’Sullivan v Management Agency [1985] 1 QB 428 at 458, 466–69). 
+    - Money & interest: 
+      - Repayment of purchase price with interest to restore position (Alati v Kruger (1955) 94 CLR 216 at 226; Re Metropolitan Coal Consumers’ Association [1892] 3 Ch 1 at 17).
+  - 5. Substitutive/Proceeds-Based Restoration 
+    - Proceeds: If property disposed, account for net proceeds with interest (Quek v Beggs (1990) 5 BPR 11,761; New Sombrero (1877) 5 Ch D 7 at 125–26). 
+    - Pecuniary rescission: Court may order money in place of property where just, especially where defendant received money/advantage (Hartigan v ISKCON [2002] NSWSC 810 at [98]); less likely where plaintiff asks defendant to accept money in place of property (Alati v Kruger (1955) 94 CLR 216 at 224).
+  - 6. Partial Rescission & Limits 
+    - General rule: No rescission in part at common law—must rescind in toto (Sheffield Nickel v Charwin (1877) 2 QBD 214). 
+    - Equity: May mould relief or impose conditions; in unconscionability, may limit setting aside to prevent unwarranted benefit (Amadio (1983) 151 CLR 447 (Deane J); Vadasz (1995) 184 CLR 102). 
+    - English approach: Rejects “equitable engineering” to craft a new bargain (De Molestina v Ponton [2001] EWHC 521 [6.2]); Australian courts rarely grant true “partial rescission.”
+  -  7. Election, Affirmation & Bars 
+    - Election: Plaintiff must choose to rescind or affirm; unequivocal conduct counts; knowledge/freedom from influence required; once affirmed, rescission barred (Sargent v ASL Developments (1974) 131 CLR 634 at 646). 
+    - Delay/Laches/Hardship/Unclean hands: Discretionary bars; length of delay and prejudicial acts matter (Lindsay Petroleum v Hurd (1874) LR 5 PC 221 at 239–40; Lagunas Nitrate [1899] 2 Ch 392 at 434). 
+    - Restitution impossible: If restoration not possible, rescission may be refused or conditioned; focus is restoring defendant too (Spence v Crawford [1939] 3 All ER 271 at 279, 288; Hulton v Hulton [1919] 1 KB 813 at 825). 
+    - Performed contracts induced by innocent misrepresentation: Seddon v North Eastern Salt [1905] 1 Ch 326 (orthodoxy); queried in Baird v BCE (1996) 40 NSWLR 374.
+  -  8. Rescission vs Damages 
+    - Mutual inconsistency: Rescission treats contract as if never existed; expectation damages for breach are inconsistent with rescission. Tort damages (e.g., deceit) may be available for fraud (Seddon [1905] 1 Ch 326; Alati v Kruger (1955) 94 CLR 216).
+  - 9. Rectification — Overview & Rationale
+    - What it is: Equitable remedy to correct a written instrument so it reflects the parties’ true (objective) common intention where the writing, by mistake, fails to do so (Simic v NSW Land and Housing Corp (2016) 260 CLR 85 at [103]–[104]). 
+    - Rationale: Unconscientious to insist on the document contrary to known common intention (Franklins v Metcash (2009) 76 NSWLR 603 at [444] (Campbell JA)).
+  - 10. Rectification — Threshold & Proof
+    - Instrument: There must be a written instrument capable of correction (lease, signed contract, deed poll, trust deed; not oral contract or share registry entry).
+    - Standard of proof: Clear and convincing proof of both (i) the objective common intention at execution, and (ii) the disconformity caused by mistake (Simic (2016) 260 CLR 85; Franklins v Metcash (2009) 76 NSWLR 603 at [444], [459]). 
+    - Policy caution: Courts take great care to protect reliance on written records and avoid imposing a bargain not made (Franklins v Metcash (2009) 76 NSWLR 603 at [459] 
+  - 11. Rectification — Kinds of Mistake 
+    - Common mistake: 
+      - Elements:
+        - Parties shared the same objective common intention up to execution (Simic (2016) 260 CLR 85 at [103]–[104]). 
+        - Writing does not reflect that intention by mistake. 
+        - Intention is sufficiently clear/specific to express. 
+        - Content or legal effect errors are rectifiable (Club Cape Schanck (2001) 3 VR 526 at [39]; Carlenka (1995) 41 NSWLR 329 at 345). 
+        - Textual errors (names/numbers) classic cases (Simic (2016) 260 CLR 85). 
+    - Unilateral mistake: 
+      - No common intention required if the non-mistaken party knew of the other’s mistake and unconscientiously let it proceed (Leibler v Air NZ (No 2) [1999] 1 VR 1 at [70]; cf Taylor v Johnson (1983) 151 CLR 422 (rescission)). 
+      - Applied cautiously because it can force a party into terms they did not truly accept.
+  -  12. What Can/Can’t Be Rectified
+    - Can: Lease; signed contract; deed poll (unilateral instrument expressing maker’s intention); trust deed (Pukallus v Cameron (1982) 180 CLR 447; Franklins v Metcash (2009) 76 NSWLR 603). 
+    - Cannot: Oral contracts (nothing written to correct); share registry (corrected by statute/administrative means, not equitable rectification).
+  - 13. Exam Answer Formula (Issue–Rule–Application–Relief)
+    - Identify remedy sought
+      - 1.1. Rescission (legal/equitable?) or 
+      - 1.2 Rectification (equitable).
+    - For Rescission
+      - 2.1. Ground: 
+        - Equity
+          - (Alati (1955) 94 CLR 216; Vadasz (1995) 184 CLR 102).
+            - misrep
+            - Duress
+            - undue influence
+            - unconscionable
+            - Mistake
+            - fiduciary breach
+        - Common law
+          - Duress
+          - Fraud
+      - 2.2. Has the plaintiff affirmed? 
+        - Election = knowledge + unequivocal conduct inconsistent with rescission 
+        - If affirmed → rescission barred (Sargent v ASL Developments (1974) 131 CLR 634 at 646)
+      - 2.3. Can restitutio in integrum be achieved?
+        - At common law → requires precise restoration (rarely available if partial performance/changes) (Hunt v Silk (1804) 102 ER 1142)
+        - In equity → requires only substantial restoration; court can adjust (Alati v Kruger (1955) 94 CLR 216)
+        - Equitable adjustments: 
+          - Account for use/benefits (Erlanger v New Sombrero (1878) 3 App Cas 1218) 
+          - Deduct deterioration/improvements/repairs (Brown v Smitt (1924) 34 CLR 160) 
+          - Add interest (Re Metropolitan Coal [1892] 3 Ch 1) 
+          - Substitute proceeds/money for lost property (Quek v Beggs (1990) 5 BPR 11,761; Hartigan v ISKCON [2002] NSWSC 810)
+      - 2.4 Any bars or discretionary factors?
+        - Laches / delay (Lindsay Petroleum v Hurd (1874) LR 5 PC 221) 
+        - Impossibility of restoration (Spence v Crawford [1939] 3 All ER 271) 
+        - Hardship / inequity 
+        - Third-party rights
+      - 2.5 Orders available?
+        - Rescission ab initio 
+        - Return of property/money 
+        - Accounts of profits 
+        - Interest 
+        - Rescission on terms
+    - Step 3. If Rectification
+      - 3.1 Is there a written instrument? 
+        - Lease / contract / deed / trust deed (cannot rectify oral contracts or share registers)
+      - 3.2 Type of mistake? 
+        - Common mistake: (Simic v NSW Land & Housing (2016) 260 CLR 85; Franklins v Metcash (2009) 76 NSWLR 603) 
+          - Objective common intention at execution 
+          - Written document fails to reflect that intention 
+          - Clear & convincing proof required
+        - Unilateral mistake: (Leibler v Air NZ (No 2) [1999] 1 VR 1 at [70])
+          - One party mistaken 
+          - Other knew & remained silent = unconscientious 
+          - Rectification allowed with convincing proof
+      - 3.3 Scope of mistake? (Club Cape Schanck (2001) 3 VR 526 at [39]; Carlenka (1995) 41 NSWLR 329 at 345)
+        - Error in text (names, numbers, words) 
+        - Error in legal effect (instrument fails to achieve intended effect)
+      - 3.4 Any discretionary limits? (Franklins v Metcash (2009) 76 NSWLR 603 at [459])
+        - Protect reliance on documents 
+        - Protect innocent third parties 
+        - Avoid imposing a new bargain
+      - 3.5 Orders available? 
+        - Rectify wording to match common intention 
+        - Ancillary relief (accounts/adjustments if needed)
+  - 14. Quick Case Anchors (one-liners) 
+    - Alati v Kruger (1955) 94 CLR 216: Equity can rescind despite imperfect restoration; court does what is practically just. 
+    - Brown v Smitt (1924) 34 CLR 160: Restore only rights/obligations under the contract; adjust for improvements/deterioration. 
+    - Spence v Crawford [1939] 3 All ER 271: Fraud → broader indemnity; restoration focuses on avoiding unjust enrichment. 
+    - Vadasz v Pioneer (1995) 184 CLR 102: Unconscionability; relief on terms/partial to prevent windfalls.
+    - Sargent v ASL (1974) 131 CLR 634: Election by conduct; affirmation bars rescission. 
+    - Simic (2016) 260 CLR 85: Leading HCA on rectification; objective common intention; clear and convincing proof. 
+    - Franklins v Metcash (2009) 76 NSWLR 603: Rationale for rectification; proof standard; caution. 
+    - Carlenka (1995) 41 NSWLR 329: Rectification for mistake as to legal effect.
+- Week 11: Australian Consumer Law (ACL): s 18, s 236, s 237 (NSW focus)
+  - Tutorial Link
+  - 1. Key Vocabulary & Statutes
+    - Australian Consumer Law (ACL): Sch 2 to the Competition and Consumer Act 2010 (Cth) (“CCA”). s 18 (misleading/deceptive conduct); s 236 (damages); s 237 (other orders).
+    - Fair Trading Act 1987 (NSW): Applies ACL as State law concurrently with federal law.
+    - Contributory Negligence: Possible apportionment where P’s failure to take reasonable care caused loss (contract/tort analogies; statutory where available).
+    - Proportionate Liability: Statutory apportionment for economic loss/property damage caused by negligence or s 18 M/D conduct (CCA Pt VIA Div 2: ss 87CB–CD; Civil Liability Act 2002 (NSW) Pt 4: s 34).
+    - Rule in Potts v Miller: Deceit measure—price paid − real value at acquisition (adaptable under s 236): Potts v Miller (1940) 64 CLR 282.
+    - Heads of Remedy (ACL): s 236 (damages) and s 237 (compensatory/preventive/remedial orders).
+  - 2. Guiding Principles (Goal of the Remedy)
+    - Compensation: Identify the loss caused by the contravention and compensate it (not punitive): Marks v GIO (1998) 196 CLR 494; I & L Securities v HTW (2002) 210 CLR 109.
+    - Causation = statutory, fact-specific: ACL adopts common-sense causation (not rigid common law templates): Wardley (1992) 175 CLR 514; Henville v Walker (2001) 206 CLR 459.
+    - Flexibility: Do not force contract/tort analogies; start with statute’s text/purpose: Marks v GIO (1998) 196 CLR 494; Murphy v Overton (2004) 216 CLR 388.
+  - 3. Liability & Causation under s  
+    - 3.1 Text
+      - s 236(1): If claimant suffers loss/damage because of conduct contravening Ch 2 or 3 (incl s 18), may recover the amount of loss/damage from contravener or person involved.
+      - Limitations: 6 years from accrual (s 236(2)).
+    - 3.2 Causation test (fact and law)
+      - Common-sense, practical causation (incl multiple sufficient causes): Wardley (1992) 175 CLR 514; March v Stramare (1991) 171 CLR 506; Henville (2001) 206 CLR 459 at [106] (McHugh J).
+      - Material contribution suffices; intervening act rare: Henville at [106], [129], [156].
+      - Indivisible loss: one material cause → liable for all indivisible loss: Henville.
+      - Divisible loss: only the portion actually caused: Henjo Investments (1988) 39 FCR 546; Collins v Henjo (1987) ATPR ¶40-822.
+    - 3.3 Reliance as causation
+      - Reliance is the usual path from contravention to loss: Wardley; Baxter v British Airways (1988) 82 ALR 298.
+      - Actual reliance may be inferred; need not be sole inducement: Gould v Vaggelas (1985) 157 CLR 215; Henjo 39 FCR 546.
+      - Non-reliance clauses: evidentiary only; causation remains a question of fact: Campbell v Backoffice (2009) 238 CLR 304 at [31].
+      - Non-disclosure can cause loss (hypothetical “what would P have done”): Smith v Noss [2006] NSWCA 37 at [25].
+    - 3.4 Scope of liability (remoteness/mitigation folded into causation)
+      - Treat remoteness/measure through statutory construction and causation: Elna v International Computers (No 2) (1987) 16 FCR 410 at 418–9 (Gummow J); Henville at [166] (Hayne J).
+      - Statutory purpose guides causation: Travel Compensation Fund v Tambree (2005) 224 CLR 627 at [30], [45].
+  - 4. Contributory Negligence & Proportionate Liability
+    - 4.1 Contributory negligence (Federal)
+      - CCA s 137B: If s 236 claim for economic loss/property damage caused partly by P’s failure to take reasonable care, and D neither intended nor fraudulently caused the loss → reduce to a just and equitable extent. Compare culpability and causal potency: Merost v CPT [2014] FCA 97 at [138]–[139] (Pennington; Podrebersek).
+      - No automatic CN: extreme self-protection failures may negate causation; ordinarily does not: Argy v Blunts (1990) 26 FCR 112.
+    - 4.2 Contributory negligence (NSW ACL)
+      - No s 137B equivalent when ACL applies as NSW law (Fair Trading Act route). (Flag forum risk choice).
+    - 4.3 Proportionate liability
+      - Federal (CCA Pt VIA Div 2): s 87CB (application to s 236 economic loss/property damage from s 18); s 87CD (limit D’s liability to just share).
+      - NSW (CLA Pt 4 s 34): applies to economic loss/property damage from failure to take reasonable care and to ACL (NSW) s 18 claims.
+  - 5. Assessment of Damages under s 236
+    - 5.1 Core method
+      - Compare P’s actual position with position had there been no contravention: Marks v GIO (1998) 196 CLR 494 at [53]; Gates v City Mutual (1986) 160 CLR 1.
+      - Tort-style logic commonly fits (out-of-pocket; consequential), but do not rigidly import common law measures: Marks at [38], [41]; I & L Securities v HTW (2002) 210 CLR 109.
+    - 5.2 Potts/Kizbeau line (acquisitions)
+      - Acquisition loss: price paid − real value at acquisition (prove by contemporaneous facts; later events admissible only if inherent to the asset): Kizbeau (1995) 184 CLR 281; Potts v Miller (1940) 64 CLR 282.
+      - Trading/consequential loss: recover if caused; cut off for failure to mitigate; deduct losses due to P’s unpopular changes: Henjo (1988) 39 FCR 546.
+    - 5.3 Expectational burdens (Murphy)
+      - Loss may include heavier ongoing obligations than represented (continuing revenue burden): Murphy v Overton (2004) 216 CLR 388 at [44]–[67]. Use with caution—fact-specific.
+    - 5.4 Heads of loss (prima facie)
+      - Economic loss (capital and revenue; avoid double recovery): Murphy at [50].
+      - Property damage possible under s 18 claims: Clambake v Tipperary (No 3) (2009) 77 ATR 242 (fire loss).
+      - Loss of chance (value × probability): Sellars v Adelaide Petroleum (1994) 179 CLR 332.
+      - Interest: generally available (CPA 2005 (NSW) s 100; FCA Act s 51A); compensatory: Haines v Bendall (1991) 172 CLR 60.
+    - 5.5 Personal injury limits
+      - Federal: CCA s 137C bars s 236 recovery for PI/death (with tobacco exception). “Personal injury” requires recognised psychiatric illness (CCA s 4).
+      - NSW: FTA s 74(4) excludes PI/death where ACL contraventions in Parts 2-1, 3-1, 4-1.
+      - Non-economic/injured feelings may be compensable under s 236/237 on facts (non-PI): Kuzmanovski (2010) 270 ALR 65 (aff’d 195 FCR 234).
+      - Exemplary damages: not available—ACL remedies are compensatory; aggravated damages may be awarded for hurt feelings linked to s 18 on authority, subject to PI exclusions: Collings Construction (1998) 43 NSWLR 131; Shahid (2008) 168 FCR 46.
+  - 6. s 237 “Other Orders” (Overview)
+    - Prevent, reduce, or compensate for loss/damage; can mould relief (flexible, equitable-like), including rescission, variation, refund, etc (pair with s 236 where apt): Marks v GIO (1998) 196 CLR 494.
+  - 7. Exam Answer Formula 
+    - 1. Identify Cause of Action and Forum
+      - 1.1 Is there misleading or deceptive conduct (ACL s 18)?
+        - If yes → consider remedies under s 236 (damages) and/or s 237 (other orders).
+        - If no → ACL remedies unavailable; move to other causes of action.
+      - 1.2 Which law applies?
+        - Federal path – ACL as Commonwealth law via Competition and Consumer Act 2010 (Cth).
+          - – Applies s 137B (contributory negligence), ss 87CB–CD (proportionate liability), and s 137C (personal injury limit).
+        - NSW path – ACL applied through Fair Trading Act 1987 (NSW).
+          - No s 137B equivalent
+          - Civil Liability Act 2002 (NSW) Pt 4 s 34 may apply for proportionate liability.
+    - 2. Causation and Reliance – “Because of” (s 236)
+      - 2.1 Test for causation 
+        - Apply a common-sense, practical causation test (Wardley Australia Ltd v WA (1992) 175 CLR 514). 
+        - “Material contribution” suffices; multiple causes can coexist (Henville v Walker (2001) 206 CLR 459 [106] 
+      - 2.2 Reliance
+        - Usually shown by proof that the plaintiff acted on the misrepresentation (Gould v Vaggelas (1985) 157 CLR 215).  
+        - Non-reliance or disclaimer clauses are evidentiary only, not conclusive (Campbell v Backoffice (2009) 238 CLR 304 [31] 
+      - 2.3 Type of loss and causal division 
+        - Indivisible loss – if defendant’s conduct is one cause, they are liable for all (Henville). 
+        - Divisible loss – apportion to conduct actually causing loss (Henjo Investments (1988) 39 FCR 546 
+      - 2.4 Mitigation 
+        - Loss following the plaintiff’s failure to act reasonably is not caused by the defendant (Henjo).
+    - 3. Heads of Loss and Measure
+      - 3.1 Acquisition / out-of-pocket loss 
+        - Measure: price paid minus real value at acquisition (Kizbeau Pty Ltd v WG & B Pty Ltd (1995) 184 CLR 281; Potts v Miller (1940) 64 CLR 282). 
+        - Later events may illuminate value but not alter measure.
+      - 3.2 Consequential / trading loss 
+        - Recover if caused by contravention. 
+        - Avoid double counting; interest may be added (Murphy v Overton Investments (2004) 216 CLR 388 [50]; Haines v Bendall (1991) 172 CLR 60).
+      - 3.3 Loss of chance 
+        - Value = expected benefit × probability of occurrence (Sellars v Adelaide Petroleum (1994) 179 CLR 332 
+      - 3.4 Personal injury or death?
+        - Federal: barred under CCA s 137C (except tobacco cases). 
+        - NSW: excluded by FTA s 74(4).
+    - 4. Defences and Reductions
+      - 4.1 Contributory negligence 
+        - Federal – s 137B allows reduction for economic or property loss where plaintiff failed to take reasonable care (no reduction if intent or fraud).
+        - NSW – no s 137B; argue failure to take care as part of causation analysis.
+      - 4.2 Proportionate liability 
+        - Federal – ss 87CB–CD: applies to economic or property loss under s 18. 
+        - NSW – Civil Liability Act 2002 (NSW) s 34: applies to s 18 and negligence for economic/property loss.
+      - 4.3 Intervening acts / scope of liability
+        - Evaluate based on the statutory purpose and context (Travel Compensation Fund v Tambree (2005) 224 CLR 627).
+    - 5. Relief and Orders
+      - 5.1 Damages under s 236 
+        - Recover the sum equal to the loss caused by the contravention. 
+        - Includes capital, revenue, opportunity, or interest losses. 
+        - Compensatory only – not punitive.
+      - 5.2 Other orders under s 237
+        - Used to compensate, prevent, or reduce loss. 
+        - May include rescission, variation, or other practical remedies. 
+        - Must avoid double recovery with s 236 damages.
+      - 5.3 Limits on damages
+        - No exemplary damages.
+        - Aggravated damages may be available for distress or vexation, subject to statutory personal injury exclusions.
+    - Overall Process Summary
+      - Confirm contravention (s 18).
+      - Select forum (Federal vs NSW).
+      - Apply causation and reliance test.
+      - Identify type and measure of loss.
+      - Account for defences (CN, PL, intervening act).
+      - Apply appropriate relief (s 236 damages or s 237 order).
+  - 8. Quick Case Anchors (One-liners)
+    - Wardley (1992) 175 CLR 514: ACL uses common-sense causation; reliance suffices.
+    - Henville (2001) 206 CLR 459: Material contribution; indivisible loss → full recovery.
+    - Henjo (1988) 39 FCR 546: Divisible loss; mitigation limits period.
+    - Marks v GIO (1998) 196 CLR 494: Compare actual vs no-contravention; avoid rigid analogies.
+    - Kizbeau (1995) 184 CLR 281; Potts (1940) 64 CLR 282: Price − true value at acquisition; later facts only to prove value.
+    - Murphy (2004) 216 CLR 388: Continuing burden loss; multiple heads possible; avoid double recovery.
+    - Campbell v Backoffice (2009) 238 CLR 304: Non-reliance clause is evidence, not a rule.
+    - Tambree (2005) 224 CLR 627: Purpose-based causation analysis.
+    - CCA s 137B (Fed CN), CCA ss 87CB–87CD (PL), CCA s 137C (PI limit); CLA (NSW) s 34 (PL NSW); FTA (NSW) s 74(4) (PI limit).
+  - Heads of Damages & Goal (Header for your exam scripts)
+    - Head(s) of Damages (ACL s 236): 
+      - Economic (capital/revenue), property damage, loss of chance, interest; 
+      - no exemplary; 
+      - aggravated possible on facts (PI limits apply).
+    - Guiding Principle: 
+      - Compensate loss caused by s 18 contravention; 
+      - measure by comparing actual position with position absent contravention; 
+      - deploy common-sense causation; 
+      - fold remoteness/mitigation into causation (Marks; Wardley; Henville).
+  - Cheat Cheat sheet
+    - Australian Consumer Law s 236
+      - What test of causation applies to a claim for damages under ACL s 236?
+      - Is there a test of remoteness in a claim for damages under ACL s 236?
+      - What role do mitigation, contributory negligence and proportionate liability play under ACL s 236?
+      - How does the court approach an assessment of damages under ACL s 236?
+      - What kinds of loss are compensable under ACL s 236?
+- Week 12: ACL s 237
+  - Tutorial Link
+  - 1. Orientation & Vocabulary
+    - 1.1 Australian Consumer Law (ACL): Sch 2 to Competition and Consumer Act 2010 (Cth) (CCA). Liability for misleading or deceptive conduct (s 18); private remedies s 236 (damages) and s 237 (compensation/other orders).
+    - 1.2 s 237 “compensation orders etc.”: Discretionary remedial power on application by an “injured person” (or regulator) to compensate or prevent/reduce loss “because of” contravening conduct (ACL s 237(1)–(2)).
+    - 1.3 Avoidance order: ACL label for rescission-type order (declaring contract void/void ab initio): s 243(a).
+    - 1.4 Remedial palette expanded by s 243: non-exhaustive menu of orders available under ss 237, 238, 239.
+  - 2. Statutory Text — What s 237 Does
+    - 2.1 Trigger & standing
+      - On application by injured person (or regulator), where the person has suffered or is likely to suffer loss or damage because of contravening conduct (ACL s 237(1)(a)).
+      - Orders may be made against the contravener or a person involved (ACL s 237(1)).
+    - 2.2 Remedial objective
+      - Orders must compensate in whole or part or prevent/reduce loss likely to be suffered (ACL s 237(2)(a)–(b))
+    - 2.3 Key features
+      - Discretionary (“may make such order or orders as the court thinks appropriate”: ACL s 237(1)).
+      - Gain-fulfilment remedies are not the aim: no expectation/performance orders, no “reasonable fee” damages, no exemplary damages—object is compensation/prevention (cf Gates v City Mutual Life Assurance Society Ltd (1986) 160 CLR 1, 12–13).
+  - 3. s 243 — Illustrative (Non-Exhaustive) Orders
+    - 3.1 Contract control (ACL s 243(a)–(c))
+      - Avoidance: declare all/part of contract or collateral arrangement void, including void ab initio or from a specified date (ACL s 243(a)(i)–(ii)).
+      - Variation: vary contract/arrangement, including retrospective effect from a specified date (ACL s 243(b)(i)–(ii)).
+      - Refusal to enforce provisions (ACL s 243(c)).
+    - 3.2 Monetary/restorative (ACL s 243(d)–(g))
+      - Refund/return property (ACL s 243(d)).
+      - Pay amount of loss/damage (ACL s 243(e)). 
+      - Repair/supply parts at respondent’s expense (goods) (ACL s 243(f)). 
+      - Supply services at respondent’s expense (ACL s 243(g)).
+    - 3.3 Interests in land 
+      - Execute instrument to vary/terminate prior instrument (ACL s 243(h)).
+  - 4. Causation, Loss & “Likely Loss” (s 237 vs s 236)
+    - 4.1 Causation requirement
+      - Both s 236 and s 237 demand a causal connection (“because of” = common-sense causation) between contravention and loss/likely loss (Marks v GIO Australia Holdings Ltd (1998) 196 CLR 494, 506–8 [38] (McHugh, Hayne & Callinan JJ); Wardley Australia Ltd v WA (1992) 175 CLR 514).
+    - 4.2 Actual loss (s 236) vs likely loss (s 237) 
+      - s 236: must prove amount of actual loss (compensatory assessment; deceit/negligent misstatement analogies) (Gates (1986) 160 CLR 1, 12–14). 
+      - s 237: can act where loss is “likely to be suffered”—meaning a real chance or possibility, not >50% probability (Marks (1998) 196 CLR 494, 501–2 [22] (Gaudron J)).
+    - 4.3 Demagogue and later refinement
+      - Demagogue Pty Ltd v Ramensky (1992) 39 FCR 31: “loss or damage” under s 237 can include detriment of being bound to a misled contract (Black CJ 32–33; Gummow J 43; Cooper J 47). 
+      - Marks cautions: the bare fact of a different contract is not of itself loss; there must be some loss/value difference now or in future (1998) 196 CLR 494, 507–8 [55]–[56]. 
+      - Modern position: detriment in being bound may suffice for s 237 if the court is satisfied there is (at least) likely loss in the sense of a real risk; s 237 foundation affirmed in Harvard Nominees Pty Ltd v Tiller (2020) 385 ALR 595, 617–18 [77] (FCAFC).
+    - 4.4 Contingent liabilities
+      - Purely isolated contingent obligations typically not “loss” for s 236, but may ground s 237 “likely loss” (Wardley (1992) 175 CLR 514, 543 (Deane J), applied to ACL text).
+  - 5. Discretion & Equitable Guidance
+    - 5.1 Wide discretion; remedial “smorgasbord”
+      - s 237 = “passport to extensive relief”; court should scan the table to select the most appropriate order (Akron Securities Ltd v Iliffe (1997) 41 NSWLR 353, 364 (Mason P)).
+    - 5.2 Equitable principles guide (not bind) the discretion 
+      - Rescission principles give “safe guidance” (Munchies Management Pty Ltd v Belperio (1988) 58 FCR 274, 289; Marks (1998) 196 CLR 494, 528 [116] (Gummow J)). 
+      - Restitutio in integrum is a central consideration for avoidance (Bullabidgee Pty Ltd v McCleary [2011] NSWCA 259, [60]). 
+      - Delay/affirmation/adequacy of damages may defeat avoidance (Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (1988) 39 FCR 546). 
+      - Fraud vs innocence of misrepresentation may affect remedy selection (Munchies (1988) 58 FCR 274, 289).
+    - 5.3 Plaintiff conduct & alternative remedies 
+      - Court may weigh plaintiff’s contribution, availability of s 236 damages, and frame terms (Reg Russell & Sons Pty Ltd v Buxton Meats Pty Ltd (1994) ATP (Digest) 46-127, 53,614 (Ipp JA)).
+  - 6. Avoidance (s 243(a)) — Rescission-Type Orders
+    - 6.1 Principles
+      - Possible to declare contract void (including void ab initio) where appropriate to undo the misled transaction (ACL s 243(a)).
+      - Equitable guidance: restitutio, delay, affirmation, adequacy of damages (Henjo (1988) 39 FCR 546; Bullabidgee [2011] NSWCA 259, [60]–[61]).
+      - Affirmation is not necessarily fatal, but is relevant to discretion (Bullabidgee [2010] NSWSC 345, [57] (Brereton J); [2011] NSWCA 259, [61]).
+    - 6.2 Exam tip: If restitution impracticable or damages adequate, prefer monetary/variation orders.
+  - 7. Variation (s 243(b)) — Tailoring the Bargain
+    - 7.1 Use cases 
+      - Prevent future loss or properly compensate where avoidance is too blunt (Kizbeau Pty Ltd v W G & B Pty Ltd (1995) 184 CLR 281 — damages were augmented by varying rent provisions to achieve fair compensation). 
+    - 7.2 Cautions
+      - Vary only so far as necessary to compensate; avoid imposing a regime the parties would not have struck (Allied Westralian Finance Ltd v Wenpac Pty Ltd (1992) ATPR ¶46-082 (Murray J)).
+      - Generally undesirable to force ongoing hostile relationships (McPhillips v Ampol Petroleum (Vic) Pty Ltd (1990) ATPR ¶41-014, 51257 (Woodward J)).
+  - 8. Monetary Orders (s 243(d), (e)) — How They Sit With s 236
+    - 8.1 Tools
+      - Refund/return property (s 243(d)); pay amount of loss/damage (s 243(e)). 
+    - 8.2 Relationship with s 236
+      - s 236: typically a lump-sum for actual loss to date (compensatory).
+      - s 237 + s 243: allow combinations (money + structural orders) and can address likely future loss (prevention/reduction).
+      - Practice: many courts still prefer s 236 damages where they adequately compensate; use s 237 to supplement or tailor.
+  - 9. Coercive / Performance-Like Orders (within s 237 / s 243)
+    - 9.1 Availability
+      - Court may order repairs, supply of services, or execution of land instruments (ACL s 243(f)–(h)).
+      - Specific-performance-like relief is rare as damages/avoidance usually suffice (Milchas Investments Pty Ltd v Larkin (1989) 96 FLR 464, 477 (Young J)).
+    - 9.2 Exam tip: Only pursue where clearly necessary to compensate/prevent loss and workable.
+  - 10. Quick Case Map (s 237 Toolkit)
+    - Causation / likely loss: Marks v GIO (1998) 196 CLR 494; Wardley (1992) 175 CLR 514.
+    - Being bound as detriment: Demagogue (1992) 39 FCR 31; refined by Marks; affirmed foundation in Harvard Nominees (2020) 385 ALR 595, 617–18 [77].
+    - Discretion breadth: Akron v Iliffe (1997) 41 NSWLR 353, 364.
+    - Equity guidance / fraud relevance: Munchies (1988) 58 FCR 274, 289; Marks (1998) 196 CLR 494, 528 [116].
+    - Avoidance boundaries: Henjo (1988) 39 FCR 546; Bullabidgee [2011] NSWCA 259.
+    - Variation limits: Kizbeau (1995) 184 CLR 281; Wenpac (1992) ATPR ¶46-082; McPhillips (1990) ATPR ¶41-014.
+  - 11. Exam Answer Formula — ACL s 237 (with s 243 options)
+    - Purpose 
+      - ACL Sch 2 to CCA 2010 (Cth). 
+      - s 237 gives discretionary remedial power to compensate or prevent loss caused by a contravention (usually s 18). 
+      - Compensatory only: no exemplary, punitive, or expectation-fulfilment (Marks v GIO (1998) 196 CLR 494; Akron v Iliffe (1997) 41 NSWLR 353, 364).
+    - Step 1. Contravention & Standing
+      - 1.1 D contravened ACL Ch 2 (e.g. s 18 misleading conduct).
+      - 1.2 P = “injured person” who suffered or is likely to suffer loss “because of” that conduct (ACL s 237(1)(a)) 
+      - 1.3 Orders can be made against contravener or person involved (s 237(1)).
+    - Step 2. Causation & Type of Loss
+      - 2.1 Causation: “because of” = common-sense causation (Marks [38]; Wardley (1992) 175 CLR 514) 
+      - 2.2 Likely loss = real chance, not >50% (Marks (Gaudron J) [22]) 
+      - 2.3 Recoverable loss:
+        - Economic (capital/revenue) (Kizbeau (1995) 184 CLR 281).  
+        - Property damage (CCA s 137B).
+        - Loss of commercial opportunity (Sellars (1994) 179 CLR 332).
+        - Contingent/future loss if real (Wardley). 
+        - “Bound by contract” detriment (Demagogue (1992) 39 FCR 31; Harvard Nominees (2020) 385 ALR 595 [77]).
+        - ✗ No personal injury or distress (CCA s 137C).
+    - Step 3. Choose Remedy Path (ACL s 243 options)
+      - 3.1 Avoidance – s 243(a)
+        - Declare contract void/void ab initio. 
+        - Only if restitutio feasible, no delay or affirmation.
+        - Guided by equity (Henjo (1988) 39 FCR 546; Bullabidgee [2011] NSWCA 259 [60]).
+      - 3.2 Variation – s 243(b)
+        - Alter contract to prevent future loss or complete compensation.
+        - Avoid artificial bargain; vary only as needed (Kizbeau; Wenpac (1992) ATPR ¶46-082).
+      - 3.3 Monetary – s 243(d),(e)
+        - Refund money / return property / pay amount of loss.
+        - May combine with structural orders.
+        - Can cover actual and likely loss; avoid duplication with s 236 damages (Marks).
+      - 3.4 Other – s 243(f)–(h)
+        - Repairs, services, or execution of land instruments.
+        - Rare; only where directly compensatory (Milchas (1989) 96 FLR 464, 477)).
+    - Step 4. Exercise of Discretion
+      - 4.1 Very broad — “remedial smorgasbord” (Akron 364).
+      - 4.2 Equity provides guidance, not limits (Munchies (1988) 58 FCR 274, 289; Marks [116]).
+      - 4.3 Factors:
+        - P’s conduct (delay, affirmation).
+        - Adequacy of s 236 damages.
+        - Fraud vs innocent misrep.
+        - Causal strength & P’s contribution (Reg Russell & Sons v Buxton Meats (1994) ATP Digest 46-127).
+      - 4.4 Court’s task: “do justice between the parties” (Mister Figgins (1981) 36 ALR 23, 56).
+    - Step 5. Drafting the Order
+      - 5.1 Specify type, scope, and effective date (ACL s 243(a)(ii),(b)(ii)).
+      - 5.2 Ensure order compensates or prevents/reduces loss (s 237(2)).
+      - 5.3 Combine monetary + structural orders only if they collectively achieve that object.
+    - Step 6. Interaction with s 236
+      - 6.1 s 236 = damages for actual loss measured by difference between actual and counterfactual positions (Gates (1986) 160 CLR 1; Marks (1998) 196 CLR 494).
+      - 6.2 s 237 = broader, includes future or likely loss and structural remedies.
+      - 6.3 Avoid double recovery; elect or sequence logically.
+    - Step 7. One-Line Exam Header
+      - Head of Remedy (ACL s 237):
+        - Court’s discretionary power to make any order (ACL s 243) to compensate or prevent/reduce loss suffered or likely to be suffered “because of” a contravention (e.g. s 18).
+        - Objects: restoration, prevention, justice — not punishment or expectation enforcement.
+        - Remedies: avoidance, variation, monetary, refund/return, repair/service, land orders.
+        - Guided by equity; flexible, compensatory focus.
+  - 12. One-Line Header (for your exam script)
+    - Head(s) of Remedy & Goal (ACL s 237)
+      - Discretionary compensation/prevention orders for loss suffered or likely “because of” contravention; select from avoidance, variation, refusal to enforce, refund/restore, pay, repair/services, land instruments (ACL ss 237, 243); apply equitable guidance (restitutio, delay, affirmation, adequacy of damages), but do justice via the widest appropriate order(s) (Akron; Henjo; Bullabidgee; Kizbeau).
+- Week  13: Unjust Enrichment
+  - Tutorial link
+  - 1. Core Concepts & Vocabulary
+    - Unjust Enrichment: Legal concept where a person unjustly benefits at another's expense. A plaintiff may seek restitution to reverse that enrichment.
+    - Restitution: Remedy to restore to the plaintiff the benefit unjustly retained by the defendant (Royal Insurance (1994) 182 CLR 51).
+    - Quantum Meruit: Restitutionary cause of action to recover the value of services rendered (Pavey & Matthews (1987) 162 CLR 221).
+    - Quantum Valebat: Same as quantum meruit but for goods provided.
+    - Money Had and Received: Common law action to recover money paid under mistake, duress, illegality, or total failure of consideration.
+    - Total Failure of Consideration: Claim arises when the basis or purpose of a payment completely fails (Baltic Shipping (1993) 176 CLR 344).
+  - 2. Nature of Unjust Enrichment
+    - 2.1 Definition & Nature
+      - Defined in Royal Insurance (1994) 182 CLR 51: Restitution arises to restore what was transferred without justification.
+      - Not a freestanding cause of action — must be pleaded via recognised categories (Equuscorp (2012) 246 CLR 498).
+      - Historically derived from “quasi-contract” (Moses v Macferlan (1760) 97 ER 676).
+    - 2.2 Relationship with Other Doctrines
+      - Damages: Compensate for loss.
+      - Rescission: Equitable remedy restoring parties to pre-contractual positions.
+      - Restitution: Focus on reversing gain to defendant, not loss to plaintiff.
+  - 3. Preconditions for Restitution
+    - 3.1 General Test (Redland City Council v Kozik (2024) 98 ALJR 544 at [180])
+      - 1. Has the defendant been benefited?
+      - 2. Was the benefit at the plaintiff’s expense?
+      - 3. Is the enrichment unjust (qualifying factor)?
+      - 4. Are there any defences?
+  - 4. Categories of Unjust Enrichment Claims
+    - 4.1 Money Had and Received
+      - 4.1.1 Elements (from David Securities (1992) 175 CLR 353 and Equuscorp (2012) 246 CLR 498)
+        - Enrichment due to a qualifying factor:
+          - Mistake (e.g. mistaken payment) 
+          - Duress (payment under illegitimate pressure) 
+          - Illegality (payment under unlawful arrangement) 
+          - Total failure of consideration (only this is examinable)
+    - 4.2 Total Failure of Consideration 
+      - 4.2.1 Meaning of ‘Consideration’ 
+        - In restitution: broader than contract; refers to basis or purpose of the payment (Roxborough (2001) 208 CLR 516). 
+        - Failure = performance not provided OR purpose fails (Redland City Council v Kozik (2024) 98 ALJR 544). 
+      - 4.2.2 Total vs Partial Failure 
+        - Total: No substantial benefit received (Baltic Shipping (1993) 176 CLR 344). 
+        - Partial: Any meaningful benefit denies restitution (David Securities (1992) 175 CLR 353).
+      - 4.2.3 Divisible Contracts 
+        - Possible to recover for divisible component that fails (Fibrosa [1943] AC 32). 
+      - 4.2.4 Application 
+        - Roxborough (2001): Restitution of licence fees paid under unconstitutional law. 
+        - Chillingworth v Esche [1923] 1 Ch 97: Restitution when contract never formed. 
+        - Rowland v Divall [1923] 2 KB 500: No title transferred = total failure. 
+        - McDonald v Dennys Lascelles (1933) 48 CLR 457: Instalments recoverable after failure of title transfer.
+    -  4.3 Quantum Meruit / Quantum Valebat
+      - 4.3.1 Elements (common law restitution)
+        - 1. Defendant requested the work/service (Lumbers v W Cook Builders (2008) 232 CLR 635).
+        - 2. Plaintiff provided the good/service.
+        - 3. Defendant:
+          - Received incontrovertible benefit (Cadorange (1990) 20 NSWLR 26).
+          - Freely accepted the benefit (Steele v Tardiani (1946) 72 CLR 386).
+        - 4. Plaintiff did not act gratuitously (Brenner [1993] 2 VR 221).
+      -  4.3.2 Contractual Contexts
+        - No contract / unenforceable: Restitution possible (e.g. Pavey & Matthews (1987) 162 CLR 221).
+        - Terminated for breach: Innocent party may elect to sue on quantum meruit (Mann v Paterson (2019) 267 CLR 560 at [215]).
+        - Defaulting party: Rare; must show benefit accepted and no contradiction with contract (Sumpter v Hedges [1898] 1 QB 673).
+      - 4.3.3 Limit on Recovery 
+        - Fair value should not exceed contract price (Mann v Paterson (2019) at [215]).
+    - 4.4 Necessitous Intervention
+      - 4.4.1 Elements
+        - 1. Pre-existing relationship.
+        - 2. Intervention necessary.
+        - 3. No opportunity to communicate with defendant.
+        - 4. Good faith.
+      - Lumbers v W Cook Builders (2008): Generally no claim unless criteria met.
+      - Great Northern Railway Co v Swaffield (1874): Recognised origin of the doctrine.
+  - 5. Contractual Impact on Restitution 
+    - 5.1 Active Contracts
+      - Active contract bars inconsistent restitution (Trimis v Mina [1999] NSWCA 140 at [54]).
+    - 5.2 Deposits
+      - Forfeited if payer defaults (Howe v Smith (1884) 27 Ch D 89). 
+      - Refundable if seller defaults and contract not performed.
+    - 5.3 Alternative Remedies
+      - Cannot claim both damages and restitution for the same breach (Baltic Shipping (1993) 176 CLR 344 at 359). 
+      - Must elect one.
+  - 6. Key Cases Summary Table
+Case
+Principle
+Pavey & Matthews (1987)
+Quantum meruit lies outside contract if contract is void/unenforceable.
+Royal Insurance (1994)
+Restitution restores unjust benefit, not compensates for loss.
+Baltic Shipping (1993)
+Partial performance defeats claim for total failure of consideration.
+Roxborough (2001)
+Total failure of consideration = payment for purpose that fails.
+Mann v Paterson (2019)
+Quantum meruit lies post-termination for uncompleted stages, but capped.
+Trimis v Mina (1999)
+Restitution not available if inconsistent with subsisting contract.
+
+  - Week 12 Exam Formula – Unjust Enrichment
+    - 1. Identify Cause of Action and Forum
+      - 1.1 What is the claim?
+        - Common law restitutionary action, not equity.
+        - Possible causes of action:
+          - Money had and received (e.g. mistake, duress, illegality, total failure of consideration)
+          - Quantum meruit / valebat (reasonable value of services/goods)
+          - Necessitous intervention (exceptional).
+          - (Moses v Macferlan (1760) 97 ER 676, 678; Pavey & Matthews Pty Ltd v Paul (1987) 162 CLR 221.)
+      - 1.2 Unjust enrichment itself is not a cause of action.
+        - It describes a group of cases where the law requires restitution. 
+          - (Equuscorp Pty Ltd v Haxton (2012) 246 CLR 498, 517 [30]; 
+          - Mann v Paterson Constructions Pty Ltd (2019) 267 CLR 560, 649 [213].)
+      - 1.3 Purpose of the remedy:
+        - Restores unjust gain, not compensates for loss. 
+          - (Commissioner of State Revenue (Vic) v Royal Insurance Australia Ltd (1994) 182 CLR 51, 71, 74, 75.)
+    - 2. Threshold Test – “Unjust Enrichment” Framework
+      - Apply the 4-step inquiry (Redland City Council v Kozik (2024) 98 ALJR 544, 578 [180]):
+        - 1. Has D received a benefit?
+        - 2. Was it at P’s expense?
+        - 3. Is the enrichment unjust (vitiating factor such as mistake, duress, illegality, total failure of consideration)?
+        - 4. Are there any defences (e.g. contract, change of position, election)?
+    - 3. Contract Screen
+      - 3.1 Is there a valid, subsisting contract covering the subject matter?
+        - If yes → restitution barred (cannot contradict contract). (Trimis v Mina [1999] NSWCA 140 [54].)
+        - If no (void, unenforceable, terminated) → restitution may proceed.
+          - (Pavey & Matthews (1987) 162 CLR 221, 227; 
+          - McDonald v Dennys Lascelles (1933) 48 CLR 457, 466–7.)
+      - 3.2 If terminated for breach:
+        - Restitution may lie for uncompleted divisible stages, capped by contract price.
+          - (Mann v Paterson (2019) 267 CLR 560, 654–5 [215].)
+    - 4. Path A – Money Had and Received (Total Failure of Consideration)
+      - 4.1 Elements:
+        - 1. P paid money to D on a shared basis/purpose (objective).
+        - 2. That basis failed totally.
+          - (Roxborough v Rothmans of Pall Mall Australia Ltd (2001) 208 CLR 516, 525 [16]; 
+          - Redland v Kozik (2024) 98 ALJR 544, 579–80 [183], [185].)
+      - 4.2 ‘Total’ failure:
+        - Any substantial performance defeats claim. (Baltic Shipping Co v Dillon (1993) 176 CLR 344, 350–1.)
+        - Partial failure recoverable only for divisible part. (Fibrosa Spolka Akcyjna v Fairbairn Lawson Combe Barbour Ltd [1943] AC 32, 77.)
+      - 4.3 Examples:
+        - Unconstitutional tax purpose fails → restitution allowed (Roxborough).
+        - No contract formed → deposit recoverable (Chillingworth v Esche [1923] 1 Ch 97).
+        - No title transferred → total failure (Rowland v Divall [1923] 2 KB 500).
+      - 4.4 Fault and election:
+        - Payer’s breach does not bar claim; 
+        - payee may counterclaim damages (McDonald (1933) 48 CLR 457, 479). 
+        - Cannot claim both contract damages and restitution (Baltic Shipping (1993) 176 CLR 344, 359).
+      - Remedy: Restitution of payment corresponding to failed basis.
+    - 5. Path B – Quantum Meruit / Valebat
+      - 5.1 Elements:
+        - 1. D requested or knowingly accepted P’s work/goods;
+        - 2. D obtained an incontrovertible benefit;
+        - 3. Benefit was freely accepted;
+        - 4. P did not act gratuitously.
+        - Cases
+          - (Steele v Tardiani (1946) 72 CLR 386, 402, 405; 
+          - Brenner v First Artists’ Management Pty Ltd [1993] 2 VR 221, 260–1; 
+          - Cadorange Pty Ltd (In Liq) v Tanga Holdings Pty Ltd (1990) 20 NSWLR 26, 35.)
+      - 5.2 Contract interaction:
+        - Enforceable contract: restitution barred.
+        - Terminated for repudiation: restitution for uncompleted stages, capped at contract price 
+          - (Mann v Paterson (2019) 267 CLR 560, 654–5 [215]).
+        - Defaulting contractor: claim fails absent clear free acceptan 
+          - Sumpter v Hedges [1898] 1 QB 673, 676.
+        - Remedy: Reasonable remuneration = market value (contract price is evidence).
+    - 6. Path C – Necessitous Intervention
+      - 6.1 Elements (strict):
+        - 1. Pre-existing relationship;
+        - 2. Intervention necessary;
+        - 3. No opportunity to communicate;
+        - 4. Good faith.
+        - Cases
+          - (Great Northern Railway Co v Swaffield (1874) LR 9 Ex 132; 
+          - Lumbers v W Cook Builders Pty Ltd (in liq) (2008) 232 CLR 635, 680–1 [80].)
+        - Policy: Cannot impose benefits on others without consent 
+          - (Falcke v Scottish Imperial Insurance Co (1886) 34 Ch D 234).
+    - 7. Defences and Bars
+      - 7.1 Contractual bar – active contract governs obligations 
+        - (Trimis [1999] NSWCA 140 [54]).
+      - 7.2 Agreed forfeiture / deposits – enforce according to terms 
+        - (Howe v Smith (1884) 27 Ch D 89, 101).
+      - 7.3 Change of position / illegality – equitable defences where available 
+        - (Equuscorp (2012) 246 CLR 498).
+      - 7.4 Election – must choose between restitution and contract damages 
+        - (Baltic Shipping (1993) 176 CLR 344, 359).
+    - 8. Remedies
+      - 8.1 Money had and received: Repayment of the unjust enrichment (failed basis).
+      - 8.2 Quantum meruit/valebat: Reasonable remuneration (capped at contract price if terminated).
+      - 8.3 No double recovery: One restitutionary or compensatory award only. 
+        - (Baltic Shipping (1993) 176 CLR 344, 359.)
+    - 9. Overall Process Summary
+      - 1. Identify restitutionary cause (money had and received / quantum meruit).
+      - 2. Apply 4-step unjust enrichment test (benefit, expense, unjust, defence).
+      - 3. Screen for existing or inconsistent contract (Trimis).
+      - 4. Apply path-specific elements (failure of basis or benefit accepted).
+      - 5. Apply limits (fault, divisibility, contract price).
+      - 6. Elect and quantify remedy (repayment or reasonable value).
+  - Head(s) of Restitution & Goal (Header for Exam Scripts)
+    - Head(s) of Restitution:
+      - Money had and received 
+        - (e.g. mistake, duress, illegality, total failure of consideration);
+      - Quantum meruit / valebat 
+        - (reasonable value of services/goods conferred);
+      - Necessitous intervention 
+        - (exceptional).
+      - Remedy = Restitution 
+        - (repayment or value of benefit conferred), not damages.
+      - No exemplary or aggravated awards — gain-stripping, not compensation.
+  - Guiding Principle:
+    - Purpose / Orientation
+      - Reverse defendant’s unjust enrichment at plaintiff’s expense; restore the transferred benefit, not compensate loss 
+        - (Commissioner of State Revenue (Vic) v Royal Insurance Australia Ltd (1994) 182 CLR 51, 71, 74–5).
+    - Measure
+      - Value of enrichment (gain-based), not plaintiff’s loss (Royal Insurance (1994) 182 CLR 51, 71, 74–5).
+    - Method (4-Step Inquiry)
+      - (1) Benefit to D; 
+      - (2) At P’s expense; 
+      - (3) Unjust factor (within a recognised category); 
+      - (4) No defence (Redland City Council v Kozik (2024) 98 ALJR 544, 578 [180]).
+    - Contract Interface
+      - Subsisting contract bars inconsistent restitution (Trimis v Mina [1999] NSWCA 140, [54]).
+      - If terminated for repudiation, restitution for uncompleted divisible stages is prima facie capped by the contract price/part (Mann v Paterson Constructions Pty Ltd (2019) 267 CLR 560, 654–5 [215]).
+    - Election / No Double Recovery
+      - Cannot recover both contractual damages and restitution of the same consideration (Baltic Shipping Co v Dillon (1993) 176 CLR 344, 359).
+## Week 1-2: Introduction to Remedies
+
+- WHAT IS A REMEDY?
+  - Remedy definition
+    - 1. Something that cures or relieves a bodily disorder; a healing medicine, application or treatment;
+    - 2. Something that corrects or removes an evil of any kind.
+    - 3. Law. Legal redress: the legal means of enforcing a right or redressing a wrong.
+      - (Macquarie English Dictionary, 4th ed)
+    - ubi ius ibi Remedium -> “wherever there is a right, there is a remedy”
+  - 
+- FUNCTION
+  - Function: What do the remedies achieve?
+  - Well known that ‘damages’ are ‘compensation’.
+  - Remedies: 
+    - Achieve other purposes, and
+    - Take a variety of forms.
+  - Types
+    - Compensation 
+    - Compulsion
+    - Vindication
+    - Punishment 
+    - Restitution
+  - COMPENSATION
+    - Reversing loss or damage that has occurred or will occur.
+    - Cash
+    - Common law
+      - Damages usual remedy for common law (legal) wrongs.
+    - Equity
+      - Equitable compensation may be awarded in equity for equitable wrongs.
+    - Statute
+      - Damages a common remedy for statutory wrongs.
+  - COMPULSION
+    - When a court orders a defendant to:
+      - perform an obligation.
+      - refrain from committing a wrong.
+      - Repair loss or damage.
+    - Useful when damages will not properly compensate a plaintiff.
+    - Specific performance | Injunctions
+  - VINDICATION
+    - Public recognition and affirmation of legal rights
+    - Declaration
+      - Declaration by the court of a wrong committed or other state of affairs.
+      - Usually sought with other remedies.
+    - Nominal damages
+      - Token amount awarded to recognise legal wrong when no loss or damage caused.
+    - Vindicatory damages
+      - Substantial damages awarded for the infringement of the plaintiff’s legal right.
+      - No loss required.
+      - Generally not available in Australian private law.
+  - PUNISHMENT
+    - The infliction or imposition of a penalty as retribution for certain wrongs.
+      - Exemplary damages.
+      - Paid to punish the defendant rather than compensate the plaintiff.
+  - RESTITUTION
+    - Overlap with compensation.
+    - Compensation vs Restitution
+      - What loss or damage did the defendant cause the plaintiff? Vs  What did the defendant wrongfully gain from the plaintiff?
+    - Restitutionary remedies exist at common law and in equity.
+    - Equity
+      - Account of profits.
+    - Common law
+      - Based on the principle of ‘unjust enrichment’.
+      - If a plaintiff transfers value to the defendant, may the defendant retain the value? Or must it transfer it back to the plaintiff?
+- JURISDICTION
+  - Jurisdiction
+    - Legislation
+      - Parliament is sovereign
+      - Overrides common law and equity.
+    - Equity
+      - When common law conflicts with equity, equity prevails.
+      - Subject to legislation.
+    - Common law
+      - Default rules unless displaced by equity or legislation.
+  - COMMON LAW
+    - Developed and applied by the courts of common law (King’s Bench, Common Pleas, Exchequer)
+    - Limited remedies: usually just damages.
+    - Consequence: damages are a legal right. Not subject to discretion of the court.
+    - Common law actions and remedies became too rigid.
+  - EQUITY
+    - Common law rules sometimes led to unfair outcomes.
+    - Dissatisfied litigants would ask the Lord Chancellor to provide alternative relief.
+    - Chancellor not bound by common law rules.
+    - Decision informed by religious authority and based on “conscience”.
+    - Court of Chancery evolved.
+    - Remedies were practical and flexible: specific performance, injunctions, account of profits, rescission on terms, etc.
+    - Equitable remedies are discretionary.
+    - Consequence: the conduct of the defendant scrutinised and remedies are not granted as of right.
+    - law.uts.edu.au
+    - Exclusive
+      - Principles that developed separately from the common law.
+      - These equitable rights are not recognised by the common law (eg, trusts).
+    - Auxiliary
+      - Principles that developed as a supplement or an alternative to the rigid rules of the common law.
+    - Equity as we know it today developed in the 19th Century.
+    - Equity and the common law administered by separate courts.
+    - Judicature Acts 1873-5 (UK).
+    - Single High Court of Justice and Court of Appeal.
+    - Uniform system of pleading and procedure.
+    - Rules of common law and principles of equity could be applied in a single proceeding.
+  - JUDICATURE ACTS
+    - The Judicature Acts fused the administration of the principles into a single court.
+    - They did not fuse the rules of common law and equity into a single civil code.
+      - ‘... the two streams of jurisdiction, though they run in the same channel, run side by side and do not mingle their waters.’
+      - (W Ashburner, Principles of Equity, 2nd ed, Butterworths, London 1933 p18)
+    - Common law
+      - Settled legal rules > Just outcome in most cases.
+      - Remedy = Damages
+    - Equity
+      - Settled principles and remedies in exclusive and auxiliary jurisdictions.
+      - Equitable remedies could be awarded in common law cases from time to time.
+    - STAGNATION OF THE GENERAL LAW
+      - Late 19th century: Equity was as formalised as the common law.
+      - Chancery famously lampooned by
+        - Charles Dickens in Bleak House.
+      - 20th Century: Parliaments more actively passed legislation to address the failures of the general law to adapt to modern life
+  - STATUTE
+    - Flexible and better allow for individualised outcomes not possible at general law:
+      - Damages.
+      - Equitable-like remedies.
+      - Orders not possible at general law.
+      - General law remedies guide the courts’ approach to statutory remedies.
+  - HISTORY MATTERS
+    - The source of the remedy will determine:
+      - 1. When it is available; and
+      - 2. How it will be applied
+    - You must be aware of the differences between the jurisdictions and properly apply them.
+  - LEGAL SOURCE
+    - Attorney General v Blake [2001] 1 AC 268
+      - ‘Considered as a matter of principle, it is difficult to see why equity required the wrongdoer to account for all his profits in these cases, whereas the common law's response was to require a wrongdoer merely to pay a reasonable fee for use of another's land or goods. In all these cases rights of property were infringed. This difference in remedial response appears to have arisen simply as an accident of history.’ 280 (Lord Nicholls)
+- THEORETICAL
+  - Monism
+    - Remedy inseparable from cause of action.
+    - Negligence -> Damages -> Livingston v Rawyards Coal Co 
+    - Deceit -> Damages -> Gould v Vaggellas 
+    - Breach of contract -> Damages -> Robinson v Harmon
+    - Evidence of monism
+      - No single code of rules that governs assessment of damages irrespective of cause of action.
+      - Tendency to apply cases relevant to the cause of action.
+      - Negligence, deceit and nuisance: proof of loss establishes both liability and assessment of damages.
+  - Dualism
+    - Remedy separable and separate from cause of action.
+    - Breach of contract
+      - Damages
+      - Injunction
+      - Specific performance
+    - Evidence of dualism
+      - In tort and contract, the court may choose to grant an equitable remedy – not limited to damages.
+      - Statute provides a ‘smorgasbord’ of choice.
+      - Litigation practice: hearings can be heard in two parts: liability, then remedy.
+      - ‘Remedies’ is often a separate subject in law schools.
+  - ALTERNATIVE | CUMULATIVE
+    - REMEDIES: A COMPLEX WEB
+      - Remedies is a complex subject that requires understanding of
+        - how the general law and statute interact, and
+        - their histories.
+    - Alternative
+      - One remedy chosen to the exclusion of an inconsistent other.
+    - Cumulative
+      - Several complimentary remedies granted at once.
+    - Alati v Kruger (1955) 94 CLR 216
+      - Seller induced a purchaser to purchase a fruit and vegetable business by fraudulently misrepresenting the weekly takings of the business.
+      - Fraudulent misrepresentation became a term of the contract of sale.
+      - Purchaser discovered the truth after completion and sought rescission of the contract.
+      - Breach of contract
+        - Affirm contract (Keep business).
+        - Damages assessed on contractual basis.
+      - Deceit 
+        - Affirm contract (Keep business).
+        - Damages assessed on tortious basis.
+      - Rescission
+        - Void contract.
+        - Restored to precontractual position.
+      - If decided today include
+        - Australian Consumer Law s 236
+          - Affirm contract (Keep business)
+          - Damages assessed on statutory basis.
+        - Australian Consumer Law s 237
+          - Void contract. 
+          - Restored to precontractual position.
+          - Damages for any further outstanding loss,
+    - Tang Man Sit v Capacious Investments Ltd [1996] AC 514
+      - ‘Faced with alternative and inconsistent remedies a plaintiff must choose, or elect, between them. He cannot have both. ... He is required to choose when, but not before, judgment is given in his favour and the judge is asked to make orders against the defendant.
+      - A plaintiff is not required to make his choice when he launches his proceedings. He may claim one remedy initially, and then by amendment of his writ and his pleadings abandon that claim in favour of the other. He may claim both remedies, as alternatives. But he must make up his mind when judgment is being entered against the defendant.’ 521 (Privy Council)
+## Week 3: Common law damages
+
+- Key Vocabulary
+  - Causation: 
+    - Causation focuses on the question of whether the defendant's fault, as a matter of fact and law, was a necessary condition or material reason why the plaintiff suffered loss.
+  - Concurrent wrongdoers: 
+    - Concurrent wrongdoers act independently of each other, but their wrongs cause the plaintiff the same indivisible loss.
+  - Contributory negligence: 
+    - Contributory negligence concerns whether the plaintiff's failure to take reasonable care to prevent obvious harm was a cause of their loss. In certain causes of action, it can be a reason to apportion damages and reduce the defendant's liability.
+  - Damages: 
+    - A sum of money that the defendant is ordered to pay the plaintiff to compensate the plaintiff for the consequences of the defendant's legal wrong.
+  - Discount rate: 
+    - A percentage applied to calculate the present day value of loss that will occur in the future.  
+  - Joint wrongdoers: 
+    - Joint wrongdoers act in concert - or 'jointly' - to cause the plaintiff certain indivisible harm.
+  - Joint and several liability: 
+    - Joint or concurrent wrongdoers share joint and several liability. This allows the plaintiff to sue just one wrongdoer and obtain full compensation from them. That sued wrongdoer may seek contributions from the other wrongdoers.
+  - Mitigation: 
+    - When a plaintiff has become aware of the defendant's wrong, then the plaintiff is obliged to act reasonably to mitigate the loss. That is, the plaintiff should prevent easily avoidable loss from occurring. If the plaintiff fails to do this, then the defendant will not be liable for loss caused by the plaintiff's failure to mitigate.
+  - Proportionate liability: 
+    - A statutorily imposed apportionment scheme which allows the Court to apportion damages between multiple wrongdoers, when at least one has caused the plaintiff property damage or economic loss by negligence or misleading or deceptive conduct.
+  - Remoteness: 
+    - Remoteness assumes that the defendant caused the plaintiff's loss but asks whether the loss being claimed was unexpected or unforeseen and, therefore, too 'remote' for the defendant to be held liable.
+- Damages in contract and tort
+  - PURPOSE OF DAMAGES
+    - Compensation 
+    - Compulsion
+    - Vindication
+    - Punishment 
+    - Restitution
+  - Generally, the defendant must have caused the plaintiff some legally recognised form or loss or damage to be eligible for damages.
+    - No loss or damage = no damages.
+    - Notable exceptions:
+    - Exemplary damages.
+    - Nominal damages.
+  - IDENTIFYING THE LOSS
+    - Pre-Wrong
+      - Loss = difference between pre- and post- wrong positions.
+    - Post-wrong
+      - Damages = $ value of that difference.
+  - COMPENSATION
+    - Compensation = sufficient damages to reverse the loss or damage not punish the plaintiff.
+      - Pre-wrong + wrong = Post-wrong
+      - Post-wrong + Money = Pre-wrong
+  - PROCESS
+    - What was the relevant wrong (cause of action)?
+    - What loss or damage did the wrong cause?
+    - Should the defendant be liable for all the loss caused by their wrong?
+    - How much should the defendant pay to reverse the loss or damage within the defendant’s scope of liability?
+  - JURISDICTION
+    - Damages 
+      - Statute
+      - Equity
+      - Common law
+        - Torts
+        - Breach of contract
+    - COMMON LAW
+      - Damages awarded by the common law are a legal remedy for infringement of legal rights.
+      - Plaintiff has a right to damages if the defendant’s legal wrong has caused loss or damage.
+      - Not a discretionary remedy like equitable remedies
+    - TORT AND CONTRACT
+      - The cause of action helps us identify the position the plaintiff would have been in but for the wrong.
+      - Contract
+        - Enforcement of legally binding promises voluntarily made by consenting parties.
+      - Tort
+        - Involuntarily imposed legal obligations not to injure others
+    - CONTRACT
+      - Robinson v Harmon (1848) 154 ER 363
+        - ‘The rule of the common law is, that where a party sustains a loss by reason of a breach of contract, he is, so far as money can do it, to be placed in the same situation, with respect to damages, as if the contract had been performed.’ 365 (Parke B)
+    - TORT
+      - Livingstone v Rawyards Coal Co (1880) 5 App Cas 25
+        - ‘ ... where an injury is to be compensated by damages, in settling the sum of money to be given for reparation of damages you should as nearly as possible get at that sum of money which will put the party who has been injured, or who has suffered, in the same position as he would have been in if he had not sustained the wrong for which he is now getting his compensation.’ 39 (Lord Blackburn)
+    - CONTRACT
+      - Gates v City Mutual Life Assurance Society Ltd (1986) 160 CLR 1
+        - ‘In contract, damages are awarded with the object of placing the plaintiff in the position in which he would have been had the contract been performed – he is entitled to damages for loss of bargain (expectation loss) and damage suffered, including expenditure incurred, in reliance on the contract (reliance loss). ... ’ 11–2 (Mason, Wilson and Dawson JJ)
+    - TORT
+      - Gates v City Mutual Life Assurance Society Ltd (1986) 160 CLR 1
+        - ‘... In tort, on the other hand, damages are awarded with the object of placing the plaintiff in the position in which he would have been had the tort not been committed (similar to reliance loss).’ 11–2 (Mason, Wilson and Dawson JJ)
+    - CONTRACT / TORT
+      - Despite the different approaches, the principles of assessment of damages in tort and contract often overlap:
+        - Disappointed expectations can be compensated in tort.
+        - Consequential loss is compensable in contract.
+      - Common to see ‘tort’ cases cited in ‘contract’ cases and vice versa
+      - There is not one unified code of rules that apply to damages in both tort and contract, so it’s necessary to consider them separately.
+      - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+        - ‘While the general principle is the same in both contract and tort, the rules governing its application in the two areas may differ in some circumstances. Those differences are largely the result of historical considerations in that they reflect distinctions between causes of action rather than reasoned development or exegesis of the law ... They are of diminishing significance for most purposes ... Nonetheless, the stage has not been reached where they can be ignored ...’ 116 (Deane J)
+- The counterfactual and burden of proof
+  - THE COUNTERFACTUAL
+    - A hypothetical scenario where the defendant didn’t commit the relevant wrong.
+    - > Counterfactual reasoning: 
+      - Court infers from the evidence what would have happened if the defendant hadn’t committed their wrong.
+    - Example | Negligence
+      - Civil Liability Act 2002 (NSW)
+        - Section 5B – General principles
+          - (1) A person is not negligent in failing to take precautions against a risk of harm unless— 
+          - …
+            - c) in the circumstances, a reasonable person in the person’s position would have taken those precautions.
+        - Section 5D – Causation
+          - (1) A determination that negligence caused particular harm comprises the following elements—
+            - a) that the negligence was a necessary condition of the occurrence of the harm (factual causation), and…
+      - The counterfactual
+        - Counterfactual reasoning may also be used to:
+        - Identify whether the plaintiff suffered loss or damage, and
+        - Assess the value of that loss or damage
+    - Lewis v Australian Capital Territory (2020) 271 CLR 192
+      - Mr Lewis sentenced to 12 months periodic detention.
+      - Breached conditions by failing to report > 2 times.
+      - Legislation obligated the Sentence Administration Board to:
+        - Hold an inquiry, and
+        - Imprison him full time to the end of his term.
+      - Mr Lewis committed to full time custody for 82 days.
+      - Mr Lewis alleged that he was falsely imprisoned because the Board did not accord him natural justice when it held its inquiry
+      - Refshauge J
+        - Agreed that Mr Lewis was falsely imprisoned due to not being accorded natural justice.
+        - Awarded nominal damages.
+        - Mr Lewis would have been lawfully imprisoned  therefore had not suffered any loss or damage.
+      - ACTCA: Agreed with Refshauge J.
+        - Mr Lewis appealed to the High Court arguing that he should have been awarded substantial damages for the bare fact of his false imprisonment.
+      - HCA: Dismissed Mr Lewis’s appeal.
+        - (Edelman J)
+          - The general principle upon which compensatory damages are assessed is extremely well established. ... As it is usually stated, the principle is that “the injured party should receive compensation in a sum which, so far as money can do, will put that party in the same position as he or she would have been in if the contract had been performed or the tort had not been committed”.’ 239 [139] 
+        - (Gordon J)
+          - ‘Separate from apportionment or allocation of legal responsibility, it is necessary to identify loss in order to award compensatory damages. It is that inquiry which involves the use of a counterfactual. The counterfactual is the position the plaintiff would have been in had the tort not been committed.’ 218 [69] 
+        - (Gageler J)
+          - ‘The correct approach is to look to the position that Mr Lewis would have been in had the Board not in fact conducted the inquiry that it did and had the Board not in fact gone on to make the order on which the Chief Executive in fact acted. Notwithstanding the inherently hypothetical nature of that counterfactual inquiry, the inquiry necessarily proceeds by drawing inferences from known facts to find the counterfactual position on the balance of probabilities.’ 209 [35] 
+        - (Kiefel CJ and Keane J)
+          - ‘As was said by Kirby J in Ruddock v Taylor, “the principal function of the tort [of false imprisonment] is to provide a remedy for ‘injury to liberty’ ... Damages are awarded to vindicate personal liberty”. It is the interference with the right to liberty that is vindicated by the cause of action, and there must be a “reasonable proportion between the amount awarded and the loss sustained” as a result of the tort. An award of damages “must not exceed the amount appropriate to compensate the plaintiff for any relevant harm he or she has suffered”.’
+      - All judges: If Mr Lewis had not been falsely imprisoned then he would have been lawfully imprisoned as mandated by the legislation.
+      - Therefore, he could not prove any substantial loss of liberty.
+      - Nominal damages awarded to recognise the State’s liability.
+  - BURDEN OF PROOF
+    - LEGAL BURDEN
+      - The plaintiff must prove:
+        - The defendant’s liability, and
+        - The value of their loss on the balance of probabilities.
+      - ‘Legal burden’ or ‘legal onus’
+      - The plaintiff proves:
+        - What has happened (the facts)
+      - (If necessary) what would have happened (the counterfactual). 
+        - on the balance of probabilities
+      - Proving the facts and any relevant counterfactuals should prove:
+        - The defendant’s liability.
+        - The loss or damage.
+        - (If necessary) That the defendant’s wrong caused the loss or damage and is within their scope of liability
+        - The value of the loss or damage.
+      - In some cases, the plaintiff must prove:
+        - What will happen
+        - What would have happened into the future after the trial.
+      - Common in serious personal injury claims
+    - EVIDENTIARY BURDEN
+      - Under the common law accusatorial system, the duty of a party to adduce evidence sufficient to raise something as a genuine issue. To discharge the evidential burden the judge will have to be satisfied that the evidence, if accepted, could persuade a reasonable fact-finder on that issue to the requisite standard. Failure to discharge the evidential burden will cause the judge to decide against the party who bears it without the need to call upon the other side.’ (LexisNexis Concise Australian Legal Dictionary, edited by Ray Finkelstein, and David Hamer, LexisNexis Butterworths, 2020.)
+      - Berry v CCL Secure Pty Ltd (2020) 271 CLR 151
+        - ‘The practical burden of introducing evidence the so- called “evidentiary onus” is a different matter. In the pre- trial and trial processes that lead up to a court ultimately having to determine whether a plaintiff has discharged the legal onus of proof by inferences drawn from the whole of the evidence, the practical burden of introducing evidence can and often does shift. ...’ 188 [66] (Gageler and Edelman JJ)
+        - ‘... Whether, and if so how and to what extent, an evidentiary onus might shift from a plaintiff during the conduct of an action depends in large measure on how the plaintiff chooses to formulate the loss or damage claimed to have been suffered, and on how the parties thereafter choose to join issue on the questions of connection with the contravention and quantum that arise in respect of the chosen formulation. Much, in other words, depends on the pleadings.’ 188 [66] (Gageler and Edelman JJ)
+      - Berry v CCL Secure Limited (2020) 271 CLR 161
+        - 2006: CCL (‘Securency’) appointed Dr Berry & GSC as sole agents to promote the sale of polymer notes to the Nigerian government.
+        - Agreement:
+          - Securency pay 15% commission on net sales.
+          - Terminate on 30 June 2008.
+          - Automatically renew for 2 years every 2 years unless terminated under a termination clause.
+  - BURDEN OF PROOF
+    - Berry v CCL Secure Limited (2020) 271 CLR 161
+      - Agreement:
+        - Cl 2.6: Securency could terminate at any time with 60 days’ notice. 
+        - Cl 3.2: Either party could terminate with 30 days’ notice after 30 June 2008.
+      - Early 2008: Securency decided to deceive Dr Berry into terminating the agency agreement to avoid paying commissions.
+      - 24 February 2008: Securency convinced Dr Berry to sign a termination agreement by fraudulently stating that it was necessary to establish a partnership agreement.
+      - Securency allowed Dr Berry to continue to believe that he was the agent of Securency.
+      - 2009: Dr Berry discovers the deception.
+      - Dr Berry sued Securency for a breach of Australian Consumer Law s 18.
+      - Claim: the financial value of the commissions that he would have earned unto to at least 29 November 2010
+      - Securency: It would have validly terminated the agency agreement if it had not deceived Dr Berry.
+      - FCA:
+        - Securency would not have lawfully terminated the agency agreement.
+        - Awarded Dr Berry $50m damages representing commissions paid up to the date of the trial
+      - FCAFC:
+        - Securency would have lawfully terminated the agency agreement by 30 June 2008.
+        - Damages reduced to $1.2m.
+      - HCA:
+        - Decision of FCAFC reversed.
+        - Awarded $27m damages.
+      - 169 [28] (Bell, Keane and Nettle JJ)
+        - ‘As claimants under s [236] of the [ACL], Dr Berry and GSC generally bore the legal burden of establishing the existence and amount of the loss or damage that they suffered by Securency's misleading or deceptive conduct in contravention of s [18] of the [ACL]. That entailed establishing the net “value or worth of the rights and benefits” that they surrendered upon Dr Berry signing the termination letter.’
+        - ‘... if it appeared certain that Securency would not have lawfully terminated the Agency Agreement until sometime after 24 February 2008 when commissions would have become payable, one would have to conclude that Dr Berry and GSC had suffered loss or damage in an amount dependent on the time for which the Agency Agreement would have thus continued before lawful termination and the commissions payable under the Agency Agreement during that period.’ 
+        - ‘... assuming counterfactually that, if Securency had not tricked Dr Berry into signing the termination letter, it appeared certain that Securency would have given notice lawfully terminating the Agency Agreement on 24 February 2008, one would have to conclude that Dr Berry and GSC did not suffer any loss or damage by reason of signing the termination letter: for, on that hypothesis, they would have been no worse off by signing the letter than they would have been if they had not signed it.’ 
+      - 170-1 [31] (Bell, Keane and Nettle JJ)
+        - ‘... where a claimant is induced by deceit to enter into a transaction, the claimant is entitled to recover by way of damages the actual damage “directly” flowing from the fraudulent inducement ... There is nothing, however, ... which suggests that a wrongdoer will not be heard to set up a lawful means alternative while retaining the benefits of its wrong or if considerations that justified the wrong at all feature in the calculus that the wrongdoer would otherwise have undertaken.’ 
+      - 169 [29] (Bell, Keane and Nettle JJ)
+        - ‘While a claimant bears the legal burden of establishing the amount of its loss or damage, the nature and circumstances of the wrongdoer's conduct may support an inference or presumption that shifts the evidentiary burden.’
+      - 178 [39] (Bell, Keane and Nettle JJ)
+        - ‘... where, as here, it is established on the balance of probabilities that a wrongdoer purposely chose to achieve a certain result by means of a calculated deceit, the natural inference is that the wrongdoer was not and would not have been prepared to bring about that result by lawful means.’
+      - 176-7 [39] (Bell, Keane and Nettle JJ)
+        - ‘... in the absence of contrary evidence, it may be inferred that the reason for engaging in the fraud was sufficient to dissuade the fraudster from proceeding by lawful means. The evidential burden thereupon shifts to the fraudster to adduce evidence sufficient to establish that, if it had not acted as it did, it would have been prepared to bring about the same result by lawful means. And in the absence of such evidence, it is fair to infer that there was not a realistic possibility of that occurring.’
+      - Securency failed to adduce evidence that displaced the inference that it would not have lawfully terminated the agency agreement if it had not deceived Dr Berry.
+      - Trial judge accepted evidence showing that it benefitted Securency to maintain an appearance that the agreement was continuing.
+      - Therefore, Dr Berry proved on the balance of probabilities that the agreement would have continued until 29 November 2010 if Securency had not deceived him.
+      - Awarded $27m representing the commissions that he would have earned to that date
+  - SUMMARY
+    - The plaintiff must prove:
+      - The defendant’s liability (inc causation, scope of liability), and
+      - The value of their loss on the balance of probabilities (the ‘legal burden’).
+      - The ‘evidentiary burden’ may shift depending on:
+        - The pleadings
+        - The contested issues, and
+        - Any legal inferences or presumptions.
+    - Mills v Walsh [2022] NSWCA 255
+      - ‘Where a defendant alleges that the plaintiff would, but for the misrepresentation, have entered into another transaction on different terms which would have resulted in a loss, the defendant raises a speculative and hypothetical issue on which it bears the onus of proof, and in respect of which it will usually be impossible to adduce persuasive evidence.’ [115] (Brereton J, Bell CJ agreeing)
+  - NO AND ALTERNATIVE TRANSACTIONS
+    - Deceit, negligent misstatement and misleading and deceptive conduct: often involve a plaintiff induced into a detrimental transaction.
+    - Wyzenbeek v Australasian Marine Imports Pty Ltd (in liq) (2019) 272 FCR 373
+      - 396 [89] (Rares, Burley and Anastassiou JJ)
+        - ‘In a “no transaction” case the claimant asserts that he, she or it would not have entered into the transaction and, so, should be granted relief on the basis of being restored to the position that would have existed if there had not been any transaction.’
+        - ‘In a “different [or ‘alternative’] transaction” case, the claimant asserts that he, she or it would have acted differently, had the true position been revealed, and hypothesises on a factual scenario of what would have occurred on which basis the claimant seeks relief.’
+        - ‘Thus in a “different transaction” case, the claimant is not seeking to be restored to his, her or its original position, but to a hypothetical one based on the postulated difference.’
+    - Plaintiff bears the legal burden of proving that:
+      - they would not have entered the transaction, and
+      - (if alleged) that they would have entered the more beneficial transaction.
+      - Not necessary to classify a claim as either.
+      - Both are convenient labels to describe certain types of claims
+- Other general principles
+  - DATE OF ASSESSMENT
+    - Johnson v Perez (1988) 166 CLR 351
+      - ‘There is a general rule that damages for torts or breach of contract are assessed as at the date of breach or when the cause of action arises. ...’ 355-6 (Mason CJ)
+      - ‘But this rule is not universal; it must give way in particular cases to solutions best adapted to giving an injured plaintiff that amount in damages which will most fairly compensate him for the wrong he has suffered. ... .’ 355- 6 (Mason CJ)
+        - Date of judgement = common alternative date for assessment.
+      - The date of assessment determines which party... bears the risk of changing prices during the inevitable delay between the injury and the delivery of judgment. If an early date is used for assessment (the date of the injury for example) in an inflationary economy or where goods of the kind injured are appreciating, it is the plaintiff's position which is eroded. If a later date such as the date of judgment is used, it is the defendant who is exposed.’ 355-6 (Mason CJ)
+  - Breach of Contract
+    - Seller fails to deliver goods on time.
+    - Cause of action accrues moment contract is breached.
+    - Prima facie measure of loss = The market cost on the delivery date of purchasing a replacement good
+  - TORT
+    - Defendant tortiously damages the plaintiff’s property.
+    - Prima facie measure of loss = The market cost of repairing or replacing the damaged property on the date of the tort
+  - DATE OF ASSESSMENT
+    - Cost of repair at date of tort = $5,000
+    - Plaintiff not repaired car by date of judgement.
+    - Cost of repair at date of judgement = $6,000
+    - Assessing damages at date of tort will not fully compensate the plaintiff.
+    - Johnson v Perez (1988) 166 CLR 351
+      - ‘True it is that legal interest may be awarded from the date of breach, but this is often too low to remedy the effects of inflation and the loss of the use of the money.’ 357 (Mason CJ)
+      - 356 (Mason CJ)
+        - ‘One established exception to the general rule relates to the assessment of damages for personal injury. The award for permanent disability takes into account the fall in the value of money since the accident. ... By choosing the date of judgment for assessment in these cases, courts have insulated plaintiffs from inflation.’ 
+        - ‘... the preference for an early date is motivated ... by concerns about mitigation. This requirement of mitigation can in turn be explained in part by notions of fairness to the party at fault. Once the injured party learns of the breach, he can minimize the loss for which the other will be required to compensate by immediately purchasing a replacement.’
+    - Gagner Pty Ltd trading as Indochine Cafe v Canturi Corporati Pty Ltd [2009] NSWCA 413
+      - [51] The certainty of that principle concerning the time as at which damages are assessed has now been eroded. ...
+      - [54] ... even though a cause of action for breach of contract has accrued at the time the breach occurs, it cannot now be said that there is an accrued right at that time to receive any particular sum of damages. That is because it must await the trial to decide what is the most appropriate way, in light of events then known, to give effect to the compensatory principle of damages. (Campbell JA, Macfarlan JA and Sackville AJA agreeing)
+  - ONCE AND FOR ALL
+    - The plaintiff has one chance to plead their case.
+    - Once an award is made, it is final and completely disposes of the cause of action.
+    - Lim Poh Choo v Camden and Islington Area Health Authority [1980] AC 174
+      - ‘The award, which covers past, present and future injury and loss, must, under our law, be of a lump sum assessed at the conclusion of the legal process. The award is final; it is not susceptible to review as the future unfolds, substituting fact for estimate.’ 183 (Lord Scarman)
+  - IMPRECISION & FLEXIBILITY
+    - Assessment of damages may involve putting a $ value on things that have no economic value.
+    - Examples:
+      - Non-economic loss: pain and suffering, loss of amenities, etc.
+      - Future loss.
+    - Consider the many scenarios possible in a personal injury claim:
+      - Arguably, it is easier to assess loss that has accrued between the wrong and the trial.
+    - Assessment of likelihood of loss accruing after the trial depends upon the quality of the evidence and prediction.
+    - How long will the plaintiff live?
+    - What will be the cost of medical treatment in 10 years time?
+    - What would have been the earning capacity of an 8-year-old plaintiff?
+    - Lim Poh Choo v Camden and Islington Area Health Authority [1980] AC 174
+      - ‘The course of the litigation illustrates, with devastating clarity, the insuperable problems implicit in a system of compensation for personal injuries which ... can yield only a lump sum assessed by the court at the time of judgment. ... Knowledge of the future being denied to mankind, so much of the award as is to be attributed to future loss and suffering (in many cases the major part of the award) will almost surely be wrong. There is really only one certainty: the future will prove the award to be either too high or too low.’ 182-3 (Lord Scarman)
+    - Fink v Fink (1946) 74 CLR 127
+      - ‘Where there has been an actual loss of some sort, the common law does not permit difficulties of estimating the loss in money to defeat the only remedy it provided for breach of contract,* an award of damages.’ 143 (Dixon and McTiernan JJ)
+      - * Tort could be added here as well.
+  - Flexibility
+    - Wenham v Ella (1972) 127 CLR 454
+      - ‘In my opinion the error that is contained in the argument for the appellants consists in treating rules which constitute useful guidance in the ascertainment of damages as rigid rules of universal application, instead of treating them as prima facie rules which may be displaced or modified whenever it is necessary to do so in order to achieve a result which provides reasonable compensation for a breach of contract* without imposing a liability upon the other party exceeding that which he could fairly be regarded as having contemplated and been willing to accept.’ 466 (Walsh J)
+      - * Tort could be added here as well.
+- Kinds of damages
+  - Types of damages
+    - Nominal 
+    - Contemptuous
+    - Ordinary
+    - Aggravated 
+    - Exemplary
+  - NOMINAL DAMAGES
+    - New South Wales v Stevens (2012) 82 NSWLR 106
+      - ‘Critically, nominal damages are not “real damages” and, in particular, they are vindicatory, not compensatory. They are awarded because the plaintiff has established the liability issue ... but has not established that any damages flowed from that breach. ...’ 102 [26] (McColl JA, Ward JA agreeing at 106 [40])
+      - ‘In Australia, the amounts awarded as nominal damages have not been uniform, but have always been minimal: see, for example, Luna Park (one shilling); Motium v Arrow Electronics ($100).’ 119 [68] (Sackville AJA, Ward JA agreeing at 106 [40])
+    - Likely to be awarded only in causes actionable per se given that ‘loss or damage’ is the gist of some torts.
+    - Example
+      - Seller fails to deliver purchased good on delivery date.
+      - Purchaser could buy a replacement good on that day for less than they had agreed to pay to defaulting seller.
+      - Contract breached but the purchaser has not suffered any loss.
+      - Breach of contract is actionable per se: the plaintiff could sue for nominal damages
+    - Lewis v Australian Capital Territory (2020) 271 CLR 192
+      - ‘Absent loss or injury, there is nothing to compensate. If Mr Lewis had not sustained the wrong of unlawful imprisonment, he would have been lawfully imprisoned. He is entitled to an award of nominal damages, vindicatory in nature, to mark that “there [was] an infraction of a legal right”. He is not entitled to substantial compensatory damages because he suffered no loss or injury.’ 226-7 [96] (Gordon J)
+  - CONTEMPTUOUS DAMAGES
+    - Palmer v McGowan (No 5) (2022) 404 ALR 621 
+      - ‘A distinction has sometimes been drawn between “nominal damages” and “contemptuous damages” or “derisory damages”, connoting damages in the amount of the lowest coin of the realm. Two key points of distinction between nominal damages and contemptuous damages appear to be: first, that contemptuous  damages may be awarded in respect of any tort, whether actionable per se or not, and secondly, contemptuous damages are tantamount to an expression of disapproval of, or contempt for, the plaintiff: ...’ 728 [505] (Lee J)
+    - Habib v Nationwide News Pty Ltd (No 2) [2010] NSWCA 291 
+      - ‘... it is by no means apparent that the primary judge’s award of $5,000 damages was contemptuous or derisory. The authorities which refer to such damages tend to refer to amounts of one shilling ... a farthing ... or a halfpenny ... A comparable amount in Australia would be $1.’ [44] (Hodgson, Tobias and McColl JJA)
+  - ORDINARY DAMAGES
+    - Substantial compensation for proved loss.
+    - Compare the actual position of the plaintiff after the wrong with the position they would have been in had the wrong not occurred.
+    - Multiple “heads” of loss may be claimed.
+  - SPECIAL / GENERAL DAMAGES
+    - Damages
+      - Nominal
+      - Ordinary
+        - Special
+        - General
+    - Civil Liability Act: “economic” and “non-economic”
+  - SPECIAL DAMAGES
+    - Paff v Speed (1961) 105 CLR 549 
+      - ‘“Special damages” are awarded in such cases in respect of monetary loss actually suffered and expenditure actually incurred. Their two characteristics are (1) that they are assessed only up to the date of verdict, and (2) that they are capable of precise arithmetical calculation or at least of being estimated with a close approximation to accuracy. The familiar examples are medical and surgical fees paid or payable, ambulance and hospital expenses, and loss of income.’ 558–9 (Fullagar J)
+  - GENERAL DAMAGES
+    - Paff v Speed (1961) 105 CLR 549 
+      - ‘“General damages” on the other hand, are, of their very nature, incapable of mathematical calculation, and (although the expression is apt to be misleading) commonly very much "at large". They are at large in the sense that a jury has, in serious cases, a wide discretion in assessing them. Also general damages may be assessed not with reference to any limited period, but with reference to an indefinite future.’ 558–9 (Fullagar J)
+    - ‘At large’
+      - Incapable of precise calculation (no economic value / speculative)
+      - Range of possible assessments available.
+    - Trial judge / jury has wide range of discretion to assess.
+    - Russell v J Hargreaves & Sons Pty Ltd [1957] St R Qd 440
+      - ‘Even when ... the damages awarded are much lower than we ourselves would have thought proper, that consideration alone is not enough. If the judge has made an erroneous application of principle, has allowed extraneous considerations to influence his assessment, has mistaken the facts or the evidence or has otherwise taken a wrong course in the process of making his estimate, that will, it is almost needless to say, be a ground for interfering with his determination of the amount of damages. But if no such element appears to have affected the assessment by the judge we ought to allow his judgment to stand unless we are of opinion that the disparity between what we think an appropriate amount and what has been fixed is so extreme that the assessment must be considered unreasonable.’ 443-4 (Barwick CJ and McTiernan J)
+    - ‘General damages’ can be used in several senses.
+      - Trespass
+        - ‘General damages’ awarded for the infringement of a legal interest.
+      - Personal injury
+        - ‘General damages’ awarded for pain and suffering, loss of amenities, etc.
+        - ‘Buffers’ awarded for loss of earning capacity.
+  - AGGRAVATED AND EXEMPLARY DAMAGES
+    - Aggravated
+      - Compensation for injured feelings
+    - Exemplary
+      - Punishment
+- Loss or damage
+  - GENERAL AND SPECIAL DAMAGE
+    - Ratcliffe v Evans [1892] 2 QB 524
+      -  528 (Bowen LJ for the Court)
+        - ‘At times (both in the law of tort and of contract) [‘special damage’]  is employed to denote that damage arising out of the special circumstances of the case which, if properly pleaded, may be superadded to the general damage which the law implies in every breach of contract and every infringement of an absolute right: … In all such cases the law presumes that some damage will flow in the ordinary course of things from the mere invasion of the plaintiff's rights, and calls it general damage.’
+        - ‘Special damage in such a context means the particular damage (beyond the general damage), which results from the particular circumstances of the case ... . But where no actual and positive right (apart from the damage done) has been disturbed, it is the damage done that is the wrong; and the expression “special damage,” when used of this damage, denotes the actual and temporal loss which has, in fact, occurred.’
+  - SPECIAL DAMAGE
+    - ‘Special damage’ = ‘factual damage’.
+    - Physical / mental injury | Injured feelings | Property damage | Economic loss
+    - Subject to doctrines of causation, remoteness, etc (‘scope of liability doctrines’)
+    - Ashby v White (1703) 92 ER 126.
+      - 137 (Holt CJ)
+        - ‘... but surely every injury imports a damage, because though it does not cost the party one farthing, and it is impossible to prove the contrary; for a damage is not  merely pecuniary, but an injury imports a damage, when a man is thereby hindered of his right. ...’ 137 (Holt CJ)
+        - ‘... So if a man gives another a cuff on the ear, though it cost him nothing, no not so much as a little diachylon, yet he shall have his action, for it is a personal injury. So a man shall have an action against another for riding over his land, though it do him no damage; for it is an invasion of his property, and the other has no right to come there. ’
+  - TRESPASSES
+    - Plenty v Dillon (1991) 171 CLR 635
+      - ‘... once a plaintiff obtains a verdict in an action of trespass, he or she is entitled to an award of damages. ... True it is that the entry itself caused no damage to the appellant's land. But the purpose of an action for trespass to land is not merely to compensate the plaintiff for damage to the land. That action also serves the purpose of vindicating the plaintiff's right to the exclusive use and occupation of his or her land. ’ 654-5 (Gaudron and McHugh JJ)
+    - Damage = damage to the legal interest itself.
+      - Actionable per se.
+      - General damages may be awarded for general damage.
+      - Not subject to scope of liability doctrines.
+    - Special (or ‘factual’) damage consequent from the general damage also claimable.
+      - Subject to scope of liability doctrines.
+  - DAMAGE IS THE GIST OF THE ACTION	
+    - Some torts provide compensation for loss or damage caused by fault, rather than to protect a legal interest.
+    - Damage is the ‘gist’ of:
+      - Negligence, and
+      - Deceit.
+      - No liability unless special damage is caused by the fault.
+    - Subject to scope of liability doctrines.
+  - BREACH OF CONTRACT
+    - Law of contract protects a promisee’s legal interest in the promisor performing their promises.
+    - Breach of contract does not always cause special damage.
+    - Breach of contract is actionable per se.
+      - Promisee entitled to damages worth the value of the expectation interest in the unperformed promise
+    - Moore v Scenic Tours Pty Ltd (2020) 268 CLR 326
+      - ‘Where contract damages provide compensation directly based on the performance interest, that component of the award is  concerned with loss in any real or factual sense. The compensation for the performance interest, “by the value of the promised performance”, appears “as a ‘loss’ only by reference to an unstated ought”. ... A promisee might also suffer true, consequential, loss from a breach of contract. These consequential losses might include economic (financial) losses to the promisee to the extent that they go beyond the value of the promised performance and are within the boundaries of legal responsibility.’ 349 [65] – [66] (Edelman J)
+  - PERSONAL INJURY
+    - Physical | Mental
+    - Needs created 	
+      - Medical expenses
+      - Domestic care
+    - Loss of earning capacity
+    - Non-economic loss
+      - Pain and suffering
+      - Loss of amenities
+      - Disfigurement
+      - Shortened lifespan
+  - PROPERTY DAMAGE AND PURE ECONOMIC LOSS
+    - Pure economic loss | Property
+      - Has market value
+    - Pure economic loss
+      - expenses incurred
+      - profits or income lost or foregone
+      - lost or diminished value in investments
+    - Property
+      - physical damage to tangible property
+      - stolen property
+      - property not received in the condition as promised
+  - NON-ECONOMIC LOSS
+    - Compensable loss without economic value.
+    - Usually synonymous with ‘general damage’ – ‘general damages’ awarded for non-economic loss.
+    - Whether and what types of economic loss is compensable will depend on the cause of action
+    - Typesd
+      - Legal interests
+      - Pain and suffering
+      - Injured feelings
+      - Reputation
+      - Physical discomfort
+      - Loss of dignity
+  - CONSEQUENTIAL LOSS
+    - ‘Consequential loss’ doesn’t have a particular legal meaning.
+    - Convenient label to describe:
+      - All consequences of a legal wrong, or
+      - Loss beyond the immediate and obvious loss or damage caused by a wrong.
+    - Perhaps synonymous with ‘special damage’.
+    - Examples
+      - Trespass to land
+        - Primary loss
+          - Infringement of right to exclusive possession.
+        - Consequential loss
+          - Property damage
+          - Injured feelings
+      - Breach of contract
+        - Primary loss
+          - Value of unperformed promise
+        - Consequential loss
+          - Economic loss
+          - Non-economic loss
+          - Personal injury
+      - Negligence
+        - Consequential loss
+          - Personal injury
+          - Economic loss
+          - Property damage
+  - CAUSE OF ACTION
+    - Each cause of action may compensate pure economic loss, property damage and non-economic loss
+    - Compensable:
+      - Needs created 
+      - Earning capacity 
+      - Pain and suffering 
+      - Property damage
+    - Compensable loss or damage in one cause of action may not be compensable in another.
+      - Example
+        - I wear a Michael Myers mask and run at you with a kitchen knife as a joke.
+        -  ᾒᾒ
+        - Prank = negligent act.
+        - No cause of action in negligence.
+        - Injured feelings ≠ ‘loss or damage’ in negligence.
+    - Injured feelings = ‘loss or damage’ in trespass (assault).
+      - General damages for infringing your interest in maintaining bodily integrity.
+      - Aggravated damages for fear and distress.
+    - Exemplary damages if conduct warranted punishment
+  - COMPENSATION
+    - Haines v Bendall (1991) 172 CLR 60
+      - ‘The settled principle governing the assessment of compensatory damages, whether in actions of tort or contract, is that the injured party should receive compensation in a sum which, so far as money can do, will put that party in the same position as he or she would have been in if the contract had been performed or the tort had not been committed: ... Compensation is the cardinal concept. It is the “one principle that is absolutely firm, and which must control all else” ... Cognate with this concept is the rule ... that a plaintiff cannot recover more than he or she has lost.’ 63 (Mason CJ, Dawson, Toohey and Gaudron JJ)
+- Introduction to CAUSATION
+  -  Any claim for damages consists of 3 ‘building blocks’:
+    - 1. Causation
+    - 2. Scope of liability
+    - 3. Assessment
+  - Lewis v Australian Capital Territory [2020] HCA 26
+    - [151] Causation is a concept that establishes a link between a physical event and a physical outcome. Where a claim is brought for compensation for loss, the causal question asks whether the defendant's wrongful act was necessary for the loss: "did the defendant's act make a difference" to that outcome? (Edelman J) 
+  - For any claim for damages, the plaintiff must prove:
+    - 1. Loss/damage; and
+    - 2. The defendant’s wrong caused the loss/damage.
+  - Negligence / nuisance / deceit
+    - Loss/damage is the gist of the action.
+    - Establishing the cause of action will establish the right to damages.
+  - Contract / trespass
+    - Breach of contract, trespass, etc do not require proof of loss/damage to be actionable: ‘actionable per se’.
+    - Right to damages is a separate question from the cause of action.
+    - Failure to demonstrate loss/damage caused by the wrong will result in an award of nominal damages only
+  - Ruddock v Taylor (2003) 58 NSWLR 269
+    - [85] As Professor Jane Stapelton has explained in her article ‘Cause-in- Fact and the Scope of Liability for Consequences’ (2003) 119 LQR 388, there are two fundamental questions involved in the determination of causation in tort.
+    - [86] The first relates to the factual aspect of causation, namely, the aspect that is concerned with whether the negligent conduct in question played a part in bringing about the harm, the subject of the claim. Professor Stapelton argues (at 389) that this inquiry involves determining whether there was, on the part the defendant, “historical involvement in [the plaintiff] suffering actionable damage”. (Ipp JA)
+    - [87] The second aspect concerns “the ‘appropriate’ scope of liability for the consequences of tortious conduct” (Stapelton op cit at 411). In other words, the ultimate question to be answered when addressing the second aspect is a normative one, namely, whether the defendant ought to be held liable to pay damages for that harm. This inquiry may involve normative issues of a general kind, or issues such as whether the so-called evidentiary gap should be bridged (in the sense explained in Bonnington Castings Ltd v Wardlaw [1956] AC 613), whether the defendant materially increased the risk (in the sense explained in Fairchild v Glenhaven Funeral Services Ltd [2003] 1 AC 32), and whether the damage claimed is too remote. (Ipp JA)
+  - Causation
+    - Common law
+    - Civil Liability Act 2002 (NSW)
+- Causation at common law
+  - Lewis v Australian Capital Territory [2020] HCA 26
+    - [152] ... In exceptional cases, a defendant can be held responsible for a loss if their actions materially contributed to a loss which would have occurred in any event. ... In order to include these exceptional cases within the test for the required link this Court has sometimes described the link required for imposition of responsibility as requiring the act to have "caused or materially contributed" to the loss. (Edelman J)
+  - ‘BUT FOR’ TEST
+    - Classic test of causation in both tort and contract.
+      - ‘But for the defendant’s wrong, would the plaintiff have suffered the loss?”
+      - ‘Would the plaintiff have suffered the loss irrespective of the defendant’s wrong?’
+    - If the answer is ‘yes’, then causation is not proven because the loss would have happened anyway.
+    - If the answer is ‘no’, then a prima facie causation is proved.
+    - March v Stramare (E & MH) Pty Ltd (1991) 171 CLR 506
+      - ‘...the "but for" test, applied as a negative criterion of causation, has an important role to play in the resolution of the question.’ (515-6, Mason CJ)
+  - Lewis v Australian Capital Territory [2020] HCA 26
+    - [151] ... If the loss would not otherwise have occurred then, subject to other legal issues including remoteness of damage, it is easy to see why the defendant should be responsible for the loss. Conversely, if the defendant's act made no difference to the outcome, because "but for" the act of the defendant the loss would have occurred lawfully, then the defendant's act was not a cause of the loss and the defendant's responsibility for that loss becomes more difficult to justify. (Edelman J)
+  - Barnett v Chelsea & Kensington Hospital [1969] 1 QB 428
+    - ‘The deceased attended at the casualty department at five or 10 minutes past eight in the morning. If the casualty officer had got up and dressed and come to see the three men and examined them and decided to admit them, the deceased ... could not have been in bed in a ward before 11 a.m. ... an intravenous drip would not have been set up before 12 noon, and if potassium loss was suspected it could not have been discovered until 12.30 p.m.’
+    - ‘... there was no chance of B.A.L. being administered before the death of the deceased. 
+    - For those reasons, I find that the plaintiff has failed to establish, on the balance of probabilities, that the defendants' negligence caused the death of the deceased.’ (438-9, Neild J
+  - March v Stramare (E & MH) Pty Ltd (1991) 171 CLR 506
+    - (523, Deane J)
+      - ‘Thirdly, the mere fact that something constitutes an essential condition (in the "but for" sense) of an occurrence does not mean that, for the purposes of ascribing responsibility or fault, it is properly to be seen as a "cause" of that occurrence as a matter of either ordinary language or common sense. Thus, it could not, as a matter of ordinary language, be said that the fact that a person had a head was a "cause" of his being decapitated by a negligently wielded sword notwithstanding that possession of a head is an essential precondition of decapitation. Again, the mere fact that a person makes a gift of money to another is not, in any real sense, a "cause" of the damage sustained by that other person when his agent negligently loses the money notwithstanding that the loss would not have occurred "but for" the original gift.’ 
+    - (515, Mason CJ)
+      - ‘The common law tradition is that what was the cause of a particular occurrence is a question of fact which “must be determined by applying common sense to the facts of each particular case” ...’
+      - ‘For the purposes of the law of negligence, the question of causation arises in the context of the attribution of fault or responsibility: whether an identified negligent act or omission of the defendant was so connected with the plaintiff's loss or injury that, as a matter of ordinary common sense and experience, it should be regarded as a cause of it.’ (522, Deane J)
+  - MATERIAL CAUSE
+    - The defendant’s wrong does not have to be:
+      - The sole cause of the plaintiff’s loss; nor
+      - sufficient of itself to cause the harm.
+    - When there are multiple causes of loss, the common law asks whether, as a matter of “common sense”, the defendant’s wrong was a material cause of the loss.
+    - Insufficient (of itself) but necessary condition.
+    - One of several concurrent sufficient causes.
+    - Materially contributes to loss, even if the loss would have occurred anyway
+    - Zanner v Zanner (2010) 79 NSWLR 702
+      - [11] .. the notion of cause at common law can incorporate “materially contributed to” in a way which would satisfy the “but for” test. Some factors which are only contributing factors can give a positive “but for” answer. Both the driver who goes through the red light and the driver with whom he collides who is not paying attention contribute to the accident. If either episode of neglect had not occurred the accident would not have occurred. ... However, material contributions ... have been taken to be causes in the past (notwithstanding failure to pass the ”but for” test) such as in Bonnington Castings Ltd v Wardlaw [1956] AC 613 ... (Allsop P)
+  - NECESSARY CONDITION
+    - March v Stramare (E & MH) Pty Ltd (1991) 171 CLR 506
+      - Plaintiff injured in car crash.
+      - Two causes:
+        - 1. Defendant’s negligently parked vehicle.
+        - 2. Plaintiff’s driving his own vehicle while intoxicated and at high speed.
+      - Did the defendant cause the plaintiff’s loss? Or did the plaintiff cause his own loss?
+      - (518-9, Mason CJ)
+        - ‘As a matter of both logic and common sense, it makes no sense to regard the negligence of the plaintiff or a third party as a superseding cause or novus actus interveniens when the defendant's wrongful conduct has generated the very risk of injury resulting from the negligence of the plaintiff or a third party and that injury occurs in the ordinary course of things. In such a situation, the defendant's negligence satisfies the "but for" test and is properly to be regarded as a cause of the consequence because there is no reason in common sense, logic or policy for refusing to so regard it.’ 
+  - MULTIPLE SUFFICIENT CAUSES
+    - The but for test breaks down when multiple sufficient causes of the plaintiff’s loss occur: ‘causal overdetermination’.
+    - Example
+      - D1 and D2 shoot P simultaneously with a gun: each shot of itself would have killed P.
+      - D1 and D2 can argue that if they had not shot P, then P would have died anyway; therefore, factual causation not established.
+    - Stapley v Gypsum Mines Ltd [1953] AC 663
+      - “The question (of 'what caused an accident from the point of view of legal liability') must be determined by applying common sense to the facts of each particular case. One may find that as a matter of history several people have been at fault and that if any one of them had acted properly the accident would not have happened, but that does not mean that the accident must be regarded as having been caused by the faults of all of them. One must discriminate between those faults which must be discarded as being too remote and those which must not. Sometimes it is proper to discard all but one and to regard that one as the sole cause, but in other cases it is proper to regard two or more as having jointly caused the accident. I doubt whether any test can be applied generally.” (681, Lord Reid)
+    - Elayoubi v Zipser [2008] NSWCA 335
+      - [57] ... If the negligence of two tortfeasors each contributes to the indivisible harm suffered by the victim, each is liable for the harm suffered. If neither were negligent, no harm would have been caused. If either one were negligent and the other not, in each case the negligence would have caused the harm. But a conclusion that if both were negligent and the harm eventuated, neither was responsible for that harm, invites a question as to whether the reasoning process has gone awry. (The Court)
+    - When the other sufficient cause is not wrongful:
+      - The defendant’s wrong may not be a cause of the loss; 
+      - Or
+      - As a matter of ‘common sense’ the defendant’s wrong may be a material cause of the loss, but the loss may be outside of the defendant’s scope of liability.
+  - MATERIAL CONTRIBUTION
+    - Limitation of evidence
+      - The plaintiff must prove that it was more probable than not that the defendant’s wrong was caused the plaintiff’s loss.
+      - Sometimes the state of knowledge/science at the time of the trial cannot determine whether the defendant’s wrong was the probable cause of the plaintiff’s loss.
+      - The common law can make a policy decision to find causation despite the limitations of the evidence.
+    - Bonnington Casting v Wardlaw [1956] AC 613
+      - ‘In my judgment, the employee must in all cases prove his case by the ordinary standard of proof in civil actions: he must make it appear at least that on a balance of probabilities the breach of duty caused or materially contributed to his injury.’ (620, Lord Reid)
+      - Plaintiff developed pneumoconiosis from exposure to silica dust.
+      - The dust came from two sources:
+        - 1. Pneumatic hammers (most of the exposure / not due to defendant’s negligence)
+        - 2. Swing grinders (some of the exposure / due to defendant’s negligence)
+      - Not possible to establish the extent to which – if at all – the defendant’s negligence caused the pneumoconiosis.
+      - Defendant liable for all the harm even though it was not possible to apportion the harm between the different sources of exposure.
+      -  (621, Lord Reid)
+        - “The medical evidence was that pneumoconiosis is caused by a gradual accumulation in the lungs of minute particles of silica inhaled over a period of years. That means, I think, that the disease is caused by the whole of the noxious material inhaled and, if that material comes from two sources, it cannot be wholly attributed to material from one source or the other. I am in agreement with much of the Lord President's opinion in this case, but I cannot agree that the question is: which was the most probable source of the respondent's disease, the dust from the pneumatic hammers or the dust from the swing grinders? It appears to me that the source of his disease was the dust from both sources, and the real question is whether the dust from the swing grinders materially contributed to the disease. What is a material contribution must be a question of degree. A contribution which comes within the exception de minimis non curat lex is not material, but I think that any contribution which does not fall within that exception must be material.”
+  - INCREASE OF RISK OF HARM
+    - Proof of mere increase in risk does not establish causation.
+    - The plaintiff must show that it was more probable than  not that the defendant’s wrong caused the plaintiff’s loss.
+    - Sometimes a plaintiff can only prove an increase in risk because of the limitations of science and evidence available.
+    - In exceptional cases, the court may relax the requirement to show that the defendant’s negligence was the probable cause of the loss.
+    - Amaca Pty Ltd v Booth (2001) 246 CLR 36
+      - (Heydon J)
+        - [93] Mesothelioma ... is very commonly caused by inhaling asbestos fibres, though perhaps not always. It can be caused by very brief intense exposures whether occupational, domestic or recreational, and by lower- level environmental exposures – sometimes after exposures which are very short – a day – or very slight. On the other hand, many people can have heavy and sustained exposures to even the most dangerous types of asbestos without suffering the disease. This phenomenon, like much else about the disease, is something which scientists have found difficult to explain. The disease has a latency period of at least 10 years, and sometimes much longer – as long as 75 years. The disease is often not diagnosed until many years after exposure to asbestos. It is therefore difficult for plaintiffs suffering from mesothelioma to establish the facts necessary for success in negligence actions. In particular it can be difficult for them to establish that the conduct of a given defendant caused the disease. 
+    - Fairchild v Glenhaven Funeral Services Ltd [2003] 1 AC 32
+      - The plaintiff developed mesothelioma after exposure to asbestos while working for two employers.
+      - The evidence could not show whether it was caused by:
+        - 1. Exposure to asbestos while working for the first employer;
+        - 2. Exposure to asbestos while working for the second employer; or
+        - 3. Cumulative exposure.
+      - All the plaintiff could prove was that they had materially increased the risk of him developing mesothelioma.
+      - Causation established.
+      - (Lord Nicholls of Birkenhead)
+        - [40] The present appeals are another example of such circumstances, where good policy reasons exist for departing from the usual threshold 'but for' test of causal connection. Inhalation of asbestos dust carries a risk of mesothelioma. That is one of the very risks from which an employer's duty of care is intended to protect employees. Tragically, each claimant acquired this fatal disease from wrongful exposure to asbestos dust in the course of his employment. A former employee's inability to identify which particular period of wrongful exposure brought about the onset of his disease ought not, in all justice, to preclude recovery of compensation.” 
+        - [43] ... considerable restraint is called for in any relaxation of the threshold 'but for' test of causal connection. The principle applied on these appeals is emphatically not intended to lead to such a relaxation whenever a plaintiff has difficulty, perhaps understandable difficulty, in discharging the burden of proof resting on him. Unless closely confined in its application this principle could become a source of injustice to defendants. There must be good reason for departing from the normal threshold 'but for' test. The reason must be sufficiently weighty to justify depriving the defendant of the protection this test normally and rightly affords him, and it must be plain and obvious that this is so. Policy questions will loom large when a court has to decide whether the difficulties of proof confronting the plaintiff justify taking this exceptional course.
+  - CONTRACT
+    - The same common law tests apply (but for/material cause/common sense).
+    - Alexander v Cambridge Credit Corporation (1987) 9 NSWLR 310
+      - In 1971, Auditor negligently failed to discover that CCC was insolvent.
+      - If CCC had been wound up in 1971 it would have had $10m in losses.
+      - CCC continued to trade for another 3 years: losses increased to $155m.
+      - Auditor sued for causing loss of $145m
+      - No causation established.
+      - (351, McHugh JA)
+        - “... the issue of causation is to be resolved in general by simply applying the “but for” test in a practical commonsense way. I say in general because in the case of damage caused by the simultaneous operation of two separate and independent events each of which alone was sufficient to cause the damage, the “but for” test is plainly inadequate. And there may be other cases where the rationale of the “but for” rule may require a more elaborate formulation to be applied to the facts of those cases. Rules relating to causation and remoteness are to be liberally construed and not applied so rigidly as to cause injustice ... The ultimate question is always whether the breach “causally contributed” to the damage.”
+  - DECEIT
+    - Magill v Magill (2006) 226 CLR 551
+      - (Gummow, Kirby and Crennan JJ)
+        - [114] The modern tort of deceit will be established where a plaintiff can show five elements: 
+          - first, that the defendant made a false representation; 
+          - secondly, that the defendant made the representation with the knowledge that it was false, or that the defendant was reckless or careless as to whether the representation was false or not; 
+          - thirdly, that the defendant made the representation with the intention that it be relied upon by the plaintiff; 
+          - fourthly, that the plaintiff acted in reliance on the false representation; and 
+          - fifthly, that the plaintiff suffered damage which was caused by reliance on the false representation. 
+        - Generally, the elements of the tort have been found to exist in cases which concern pecuniary loss flowing from a false inducement and the need to satisfy each element has always been strictly enforced, because fraud is such a serious allegation.
+    - Toteff v Antonas (1952) 87 CLR 647
+      - “Now quite clearly the defendant’s fraudulent inducement in the present case operated upon the entire purchase. The plaintiff may correctly say that but for the defendant’s fraud he would not have bought the business or any of the component items and would not have parted with £2,200 of his money or any portion of that sum.
+      - It is nothing to the point that in the contract he was content to attribute £1,750 of that sum to plant and £250 to stock and it is nothing to the point that the misrepresentations were not as to the value, considered as separate items, of the plant and stock.
+      - It is nothing to the point because notwithstanding that fact, what the plaintiff got was worth in all only £900 and what he gave under the influence of the fraudulent inducement was £2,200.” (651, Dixon J)
+    - Edgington v Fitzmaurice (1885) 29 Ch D 459
+      - “Then the question remains — Did this misstatement contribute to induce the plaintiff to advance his money. Mr Davey’s argument has not convinced me that they did not. He contended that the plaintiff admits that he would not have taken the debentures unless he had thought they would give him a charge on the property, and therefore he was induced to take them by his own mistake, and the misstatement in the circular was not material. But such misstatement was material if it was actively present to his mind when he decided to advance his money. The real question is, what was the state of the plaintiff’s mind, and if his mind was disturbed by the misstatement of the defendants, and such disturbance was in part the cause of what he did, the mere fact of his also making a mistake himself could make no difference. It resolves itself into a mere question of fact.”
+      - (483, Bowen LJ)
+  - SUMMARY
+    - The plaintiff must prove on the balance of probabilities that the defendant’s wrong was a necessary condition of the occurrence of the plaintiff’s loss, or materially contributed to it.
+    - The usual test of causation is the ‘but for’ test.
+    - The defendant’s wrong need not be the only or sufficient cause of the loss; it is sufficient if it is a necessary but insufficient cause (‘material cause’).
+    - When there are multiple causes, the court asks whether as a matter of ‘common sense’ the defendant’s wrong was a material cause of the loss.
+    - In exceptional cases at the limits of scientific/medical knowledge, the common law may find causation even if the plaintiff cannot prove that the defendant’s wrong is the probable cause of the plaintiff’s loss.
+    - The test is the same across all common law causes of action unless displaced by legislation.
+- Causation under the Civil Liability Act
+  - CIVIL LIABILITY ACT
+    - Civil Liability Act was a major reform of the law of negligence.
+    - It applies to most claims for loss caused by ‘negligence’ irrespective of the cause of action pleaded.
+    - Generally speaking, intentional acts of harm and breaches of contract not involving a promise to take reasonable care are not subject to the Civil Liability Act.
+    - Section 3B lists other key types of claims not subject to the Civil Liability Act
+  - SECTION 5D
+    - Civil Liability Act 2002 (NSW)
+    - Section 5A – Application of Part
+      - (1) This Part applies to any claim for damages for harm resulting from negligence, regardless of whether the claim is brought in tort, in contract, under statute or otherwise.
+      - (2) This Part does not apply to civil liability that is excluded from the operation of this Part by section 3B.
+    - Section 5D – General principles
+      - (1) A determination that negligence caused particular harm comprises the following elements:
+      - (a) that the negligence was a necessary condition of the occurrence of the harm (factual causation), and
+      - (b) that it is appropriate for the scope of the negligent person’s liability to extend to the harm so caused (scope of liability).
+    - Adeels Palace Pty Ltd v Moubarak (2009) 239 CLR 420
+      - [42] Section 5D(1) of that Act divides the determination of whether negligence caused particular harm into two elements: factual causation and scope of liability.
+      - [43] Dividing the issue of causation in this way expresses the relevant questions in a way that may differ from what was said by Mason CJ, in March v Stramare (E & M H) Pty Ltd, to be the common law's approach to causation. The references in March v Stramare to causation being "ultimately a matter of common sense" were evidently intended to disapprove the proposition "that value judgment has, or should have, no part to play in resolving causation as an issue of fact". By contrast, s 5D(1) treats factual causation and scope of liability as separate and distinct issues. (The Court)
+      - [44] It is not necessary to examine whether or to what extent the approach to causation described in March v Stramare might lead to a conclusion about factual causation different from the conclusion that should be reached by applying s 5D(1). It is sufficient to observe that, in cases where the Civil Liability Act or equivalent statutes are engaged, it is the applicable statutory provision that must be applied.
+  - SECTION 5D(1)(A) FACTUAL CAUSATION
+    - Strong v Woolworths Limited (2012) 246 CLR 182
+      - (French CJ, Gummow, Crennan and Bell JJ)
+        - [20] Under the statute, factual causation requires proof that the defendant's negligence was a necessary condition of the occurrence of the particular harm. A necessary condition is a condition that must be present for the occurrence of the harm. However, there may be more than one set of conditions necessary for the occurrence of particular harm and it follows that a defendant's negligent act or omission which is necessary to complete a set of conditions that are jointly sufficient to account for the occurrence of the harm will meet the test of factual causation within s 5D(1)(a). In such a case, the defendant's conduct may be described as contributing to the occurrence of the harm. 
+    - Adeels Palace Pty Ltd v Moubarak (2009) 239 CLR 420
+      - (French CJ, Gummow, Hayne, Heydon and Crennan JJ)
+        - [53] In the present case, in contrast, the "but for" test of factual causation was not established. It was not shown to be more probable than not that, but for the absence of security personnel (whether at the door or even on the floor of the restaurant), the shootings would not have taken place. That is, the absence of security personnel at Adeels Palace on the night the plaintiffs were shot was not a necessary condition of their being shot. Because the absence of security personnel was not a necessary condition of the occurrence of the harm to either plaintiff, s 5D(1) was not satisfied.
+  - SECTION 5D(2) EXCEPTIONAL CASES
+    - Civil Liability Act 2002 (NSW)
+      - Section 5D – General principles 
+        - (2) In determining in an exceptional case, in accordance with established principles, whether negligence that cannot be established as a necessary condition of the occurrence of harm should be accepted as establishing factual causation, the court is to consider (amongst other relevant things) whether or not and why responsibility for the harm should be imposed on the negligent party.
+      - Provides scope for the court to apply a lesser standard of causation as contemplated by Bonnington Casting v Wardlaw [1956] AC 613 and Fairchild v Glenhaven Funeral Services Ltd [2003] 1 AC 32. 
+      - Not yet tested in Australian law.
+    - Strong v Woolworths Limited (2012) 246 CLR 182
+      - (French CJ, Gummow, Crennan and Bell JJ)
+        - [28] As earlier noted, the limitations of the "but for" analysis of factual causation include cases in which there is more than one sufficient condition for the occurrence of the plaintiff's injury. At common law, each sufficient condition may be treated as an independent cause of the plaintiff's injury. The Ipp Report noted the conceptual difficulty of accommodating cases of this description within a "but for" analysis, but made no recommendation because the common law rules for resolving cases of "causal over-determination" were generally considered to be satisfactory and fair. How such cases are accommodated under the scheme of s 5D does not call for present consideration
+  - SUMMARY
+    - CAUSATION: CIVIL LIABILITY ACT
+      - If the plaintiff’s cause of action requires proof of negligence to establish liability, then causation is resolved under Civil Liability Act, s 5D(1) or (2).
+      - Section 5D(1)(a) addresses factual causation, which requires the plaintiff to prove that the defendant’s wrong was a necessary condition of the loss.
+      - If the plaintiff cannot satisfy s 5D(1)(a), then the court may nonetheless find factual causation under s 5D(2) in accordance with “established principles” – however, this section has not yet been tested.
+- SCOPE OF LIABILITY: Introduction
+  - Even if the defendant in fact caused the plaintiff’s loss, should the defendant be liable? ie, was the loss caused within the defendant’s scope of liability?
+  - Should the defendant be held liable when:
+    - The plaintiff’s loss would have occurred anyway due to another sufficient cause?
+    - The loss caused was extraordinary or unforeseeable?
+    - The plaintiff partly caused the loss by their own negligence or failure to act reasonably when the loss occurred?
+    - The loss was partly caused by other wrongdoers?
+  - Common law
+    - The plaintiff’s loss would have occurred anyway due to another sufficient cause? [Causation: “common sense”]
+    - The loss caused was extraordinary or unforeseeable? [Remoteness]
+    - The plaintiff partly caused the loss by their own negligence [Contributory negligence] or failure to act reasonably when the loss occurred? [Mitigation]
+    - The loss was partly caused by other wrongdoers? [Proportionate liability]
+  - Civil Liability Act
+    - The plaintiff’s loss would have occurred anyway due to another sufficient cause? [Causation: “common sense”] [CLA 5D(1)(b)]
+    - The loss caused was extraordinary or unforeseeable? [Remoteness] [CLA s 5D(1)(b)]
+    - The plaintiff partly caused the loss by their own negligence [Contributory negligence] [Law Reform (Miscellaneous Provisions) Act 1965] or failure to act reasonably when the loss occurred? [Mitigation] [CLA s 5D(2)]
+    - The loss was partly caused by other wrongdoers? [Contribution / proportionate liability] [Law Reform (Miscellaneous Provisions) Act 1946; CLA Pt 4]
+- MULTIPLE CAUSES
+  - MULTIPLE CAUSES
+    - If multiple causes have caused the plaintiff’s loss, then the other causes may:
+      - Reduce/eliminate
+      - Increase
+      - Have no effect
+    - on the defendant’s liability. 
+    - Each case turns on its own facts. It is difficult to predict the effect of other causes on the defendant’s liability.
+  - NOVUS ACTUS INTERVENIENS
+    - An event which follows and overwhelms the defendant’s wrong, such that the court holds that the novus actus interveniens is the ‘real’ cause of the plaintiff’s loss: defendant is exonerated.
+    - The supervening cause “breaks the chain of causation” between the defendant’s wrong and the plaintiff’s loss.
+  - Mahony v J Kruschich (Demolitions) Pty Ltd (1985) 156 CLR 522
+    - ‘A line marking the boundary of the damage for which a tortfeasor is liable in negligence may be drawn either because the relevant injury is not reasonably foreseeable or because the chain of causation is broken by a novus actus interveniens: ... But it must be possible to draw such a line clearly before a liability for damage that would not have occurred but for the wrongful act or omission of a tortfeasor and that is reasonably foreseeable by him is treated as the result of a second tortfeasor's negligence alone: ... Whether such a line can and should be drawn is very much a matter of fact and degree.’ (528, The Court)
+  - March v Stramare (E & MH) Pty Ltd (1991) 171 CLR 506
+    - “As a matter of both logic and common sense, it makes no sense to regard the negligence of the plaintiff or a third party as a superseding cause or novus actus interveniens when the defendant's wrongful conduct has generated the very risk of injury resulting from the negligence of the plaintiff or a third party and that injury occurs in the ordinary course of things. In such a situation, the defendant's negligence satisfies the "but for" test and is properly to be regarded as a cause of the consequence because there is no reason in common sense, logic or policy for refusing to so regard it.” (518-9, Mason CJ)
+  - The novus actus interveniens must be:
+    - 1. Unforeseen/extraordinary/coincidence; or
+    - 2. Where the plaintiff or a third party acts unreasonably but voluntarily.
+    - M’Kew v Holland & Hannen & Cubitts (Scotland) Ltd 1970 SC (HL) 20
+      - March v E & MH Stramare (1991) 171 CLR 506 
+        - “[The worker in McKew’s] action was adjudged to be unreasonable and to sever the chain of causation. The decision may be explained by reference to a value judgment that it would be unjust to hold the defendant legally responsible for an injury which, though it could be traced back to the defendant’s wrongful conduct, was the immediate result of unreasonable action on the part of the plaintiff. But in truth the decision proceeded from a conclusion that the plaintiff’s injury was the consequence of his independent and unreasonable action. (Mason CJ)
+    - Mahony v J Kruschich (Demolitions) Pty Ltd (1985) 156 CLR 522
+      -  (529, The Court) 	
+        - “When an injury is exacerbated by medical treatment, however, the exacerbation may easily be regarded as a foreseeable consequence for which the first tortfeasor is liable. Provided the plaintiff acts reasonably in seeking or accepting the treatment, negligence in the administration of the treatment need not be regarded as a novus actus interveniens which relieves the first tortfeasor of liability for the plaintiff's subsequent condition. The original injury can be regarded as carrying some risk that medical treatment might be negligently given: ... It may be the very kind of thing which is likely to happen as a result of the first tortfeasor's negligence.”
+      - (530, The Court)
+        - “However, in the ordinary case where efficient medical services are available to an injured plaintiff, the original injury does not carry the risk of medical treatment or advice that is “inexcusably bad” (Martin v Isbard), or “completely outside the bounds of what any reputable medical practitioner might prescribe” (Lawrie v. Meggitt) or “so obviously unnecessary or improper that it is in the nature of a gratuitous aggravation of the injury” (South Australian Stevedoring Co. Ltd. v. Holbertson) or “extravagant from the point of view of medical practice or hospital routine”: Hart and Honore, Causation in the Law (1959), p 169. In such a case, it is proper to regard the exacerbation of a plaintiff's condition as resulting solely from the grossly negligent medical treatment or advice, and the fact that the plaintiff acted reasonably in seeking and accepting the treatment or in following the advice will not make the original tortfeasor liable for that exacerbation.”
+    - Contract
+      - Novus actus interveniens can also be argued in contract
+      - Alexander v Cambridge Credit Corporation (1987) 9 NSWLR 310
+        - “So if, contrary to my view, there was a causal connection between the breach of contract and the loss of $145,000,000, then, by reason of the novus actus interveniens, the auditors are not responsible for that loss. The package of [economic and market] factors, together with the investment and borrowing decisions of the directors of Cambridge after 1971, were, in a practical sense, the sole cause of the loss of $145,000,000.” (362, McHugh JA)
+  - SUBSEQUENT INDEPENDENT CAUSE
+    - If the defendant’s wrong pre-empts a later event that would have caused the same loss, then the defendant’s liability may be limited to the period between the defendant’s wrong and the later event.
+    - DNM Mining Pty Ltd v Barwick [2004] NSWCA 137 (17 May 2004)
+      - DNM negligently injured Barwick which caused him to lose the capacity to work in a mine.
+      - Barwick found employment earning less on a farm.
+      - Barwick was then injured in an unrelated car accident which would have caused him to lose the capacity to work in a mine.
+      - Should DNM have to pay for lost capacity after the car accident?
+      - (Giles JA, Santow JA and Windeyer J agreeing)
+        - [39] ... Since the court acts on facts rather than speculation where it can, if prior to the hearing there has been an event which would independently have caused loss in whole or part of the lost earning capacity, that event must be taken into account in determining the duration or extent of the exercise of the lost earning capacity and so in arriving at the plaintiff’s damages.
+      - Reducing scope of liability on account of pre-emptive causation assumes that the later event was independent of the defendant’s wrong.
+      - In NSW, it doesn’t matter if the later independent event is wrongful or not.
+      - [44] In my opinion, if it was fact rather than contingency that the respondent’s earning capacity as a miner would wholly or partially have been lost from the independent event of the car accident, that was to be taken into account in arriving at his damages. It is not necessary to decide whether Baker v Willoughby is good law so far as it stands for a different result where the later independent event is tortious. (Giles JA, Santow JA and Windeyer J agreeing)
+  - CIVIL LIABILITY ACT S 5D(1)(B)
+    - Section 5D – General principles
+      - 1) A determination that negligence caused particular harm comprises the following elements:
+        - a) that the negligence was a necessary condition of the occurrence of the harm (factual causation), and 
+        - b) that it is appropriate for the scope of the negligent person’s liability to extend to the harm so caused (scope of liability).
+- REMOTENESS
+  - REMOTENESS
+    - Chapman v Hearse (1961) 106 CLR 112
+      - ‘... there is no occasion to consider reasonable foreseeability on the part of the particular wrongdoer unless and until it appears that the negligent act or omission alleged has, in fact, caused the damage complained of. As we understand the term "reasonably foreseeable" is not, in itself, a test of "causation"; it marks the limits beyond which a wrongdoer will not be held responsible for damage resulting from his wrongful act.’ (122, The Court)
+    - Remoteness limits the liability of the defendant to loss that is relevant/direct/foreseeable, even if the defendant caused more extensive loss.
+    - Whereas the tests for causation are the same across causes of action, the tests for remoteness vary between causes of action.
+  - TORT
+    - Distinguish between:
+      - Negligence / nuisance
+      - Intentional torts (Trespasses)
+      - Deceit
+    - Torts involving intentional acts, fraud or malice have wider scope of remoteness than torts involving innocent or merely negligent wrongs.
+  - NEGLIGENCE / NUISANCE
+    - Overseas Tankship (UK) Ltd v Morts Dock & Engineering Co Ltd (The Wagon Mound) [1961] AC 388
+      - (422-423, Viscount Simonds)
+        - “For it does not seem consonant with current ideas of justice or morality that for an act of negligence, however slight or venial, which results in some trivial foreseeable damage the actor should be liable for all consequences however unforeseeable and however grave, so long as they can be said to be “direct.” It is a principle of civil liability ... that a man must be considered to be responsible for the probable consequences of his act. To demand more of him is too harsh a rule, to demand less is to ignore that civilised order requires the observance of a minimum standard of behaviour.” 
+      - (640, Lord Reid)
+        - “In their Lordships' judgment the similarities between nuisance and other forms of tort to which The Wagon Mound (No. 1) ... applies far outweigh any differences ... . It is not sufficient that the injury suffered by the respondents' vessels was the direct result of the nuisance if that injury was in the relevant sense unforeseeable.”
+      - (643-644, Lord Reid)
+        - “If a real risk is one which would occur to the mind of a reasonable man in the position of the defendant’s servant and which he would not brush aside as far-fetched and if the criterion is to be what that reasonable man would have done in the circumstances, then surely he would not neglect such a risk if action to eliminate it presented no difficulty, involved no disadvantage, and required no expense.”
+    - Wyong Shire Council v Shirt (1980) 146 CLR 40 
+      - “... this Court would be well advised to accept that the law upon the point was correctly stated and applied by the Judicial Committee in The "Wagon Mound" (No. 2.).”
+      - “A risk of injury which is quite unlikely to occur ... may nevertheless be plainly foreseeable. Consequently, when we speak of a risk of injury as being "foreseeable" we are not making any statement as to the probability or improbability of its occurrence, save that we are implicitly asserting that the risk is not one that is far-fetched or fanciful.” (47, Mason J).
+  - INTENTIONAL TORTS (TRESPASS)
+    - Trespass to land/goods
+    - Trespass to person (assault/battery/false imprisonment)
+    - Intentional torts require proof that the defendant intentionally did the trespassing act
+    - Palmer-Bruyn and Parker Pty Ltd v Parsons (2001) 208 CLR 388
+      - [13] ... As a matter of principle, this being an intentional tort, if relevant harm was intended, or was the natural and probable consequence of the respondent's act, then it is difficult to see why foreseeability should operate as an independent factor limiting the respondent's liability for damage. I agree with the reasons of Gummow J on that question. (Gleeson CJ)
+      - [78] ... It is difficult to see why a person who "wilfully and intentionally" causes damage to the plaintiff by maliciously publishing a false statement should be able to escape liability on the basis that a "reasonable person" would not have foreseen the damage. Such a person is manifestly not a reasonable person. Thus it was said by the High Court of Ontario that "[t]he limitation devices of foresight and remoteness are not applicable to intentional torts, as they are in negligence law”.” (Gummow J)
+    - The ‘natural and probable’ test is accepted as wider than “reasonable foreseeability” – or at least is not limited foreseeability. 
+    - It seems fair that a defendant should be liable for any loss that is intended, even if it was unlikely to occur. 
+    - Query how much wider ‘natural and probable’ is than ‘reasonably foreseeable’.
+      - Palmer-Bruyn and Parker Pty Ltd v Parsons (2001) 208 CLR 388
+        - [79] ... It may be, as was said in [Mayfair Ltd v Pears [1987] 1 NZLR 459] case, that "consequences that are direct and natural are generally foreseeable“ ... (Gleeson CJ)
+    - TCN Channel Nine Pty Ltd v Anning (2002) 54 NSWLR 333
+      - TV crew for A Current Affair trespassed onto the plaintiff’s land demanding an interview.
+      - The plaintiff’s claim for damages included a claim for “mental trauma”.
+      - The claim for mental trauma was too remote because it was not a natural or probable result of the trespass.
+      - (Allsop P)
+        - [104] What is a natural and probable consequence arising from a trespass to land must depend on all the circumstances of a case. It is essentially a question of fact. ... 
+        - [107] A video camera, however damaging it may prove on occasions, is not a cobra, although there may be circumstances in which the stalker analogy is apt. Humiliation, injured feelings and affront to indignity may be a natural and probable consequence of intrusion by the media on private property.
+        - Such damage is compensable as aggravated damages. Such damage is different in kind to mental trauma. In my opinion, mental trauma – or indeed any form of personal injury – does not flow ‘naturally’ and ‘probably’ from a trespass to land committed in the way the Appellant acted, in all of the circumstances of this case.
+  - DECEIT
+    - Gould v Vaggelas (1984) 157 CLR 215
+      - “There is a passage in the judgment of Lord Denning M.R. in Doyle v. Olby Ltd ... which appears to suggest that in an action for damages for deceit the defendant is liable for all the actual damages directly flowing from the fraud whether they were foreseeable or not. Lord Denning M.R. said, at p.167: "The defendant is bound to make reparation for all the actual damages directly flowing from the fraudulent inducement. ... All such damages can be recovered: and it does not lie in the mouth of the fraudulent person to say that they could not reasonably have been foreseen." ... It is unnecessary for present purposes to consider whether damages for deceit can be recovered even if they were not reasonably foreseeable, and I would leave open that important question.” (223-224, Gibbs CJ)
+  - CONTRACT
+    - The scope of remoteness in contract is shaped by the responsibility that the defendant voluntarily assumes.
+    - Hadley v Baxendale (1854) 156 ER 145
+      - The plaintiff hired the defendant to transport the plaintiff’s crankshaft for repair.
+      - Unknown to the defendant’s the plaintiff’s had no other crankshaft that could be used while their crankshaft was being repaired.
+      - In breach of contract, the defendant was late returning the crankshaft.
+      - The plaintiff sued for lost profits for the period that the crankshaft was late.
+      - The loss claimed was too remote.
+    - (151, Alderman B)
+      - “... the damages which the other party ought to receive in respect of such a breach should be such as may fairly and reasonably be considered arising naturally, that is, according to the usual course of things, from such breach of contract itself, or such as may reasonably be supposed to have been in the contemplation of both parties at the time they made the contract, as the probable result of the breach of it. If special circumstances under which the contract was actually made were communicated by the plaintiffs to the defendants, and thus known to both parties, the damages resulting from the breach of such a contract, which they would reasonably contemplate, would be the amount of injury which would ordinarily follow from a breach of contract under these special circumstances so known and communicated". (151, Alderman B)
+
+    - The two ‘heads’ of Hadley v Baxendale:
+      - 1. Loss that would flow naturally, according to the usual course of things, from a breach, or such as may reasonably be supposed to have been in the contemplation of both parties at the time they made the contract (ie, the presumed knowledge of the parties).
+      - 2. Special circumstances known to plaintiff of particular damage that would result from breach and communicated to defendant (ie, the actual knowledge of the parties, which liability the defendant accepts).
+    - Victoria Laundry (Windsor) Ltd v Newman Industries Limited [1949] 2 KB 528
+      - “Here, no doubt, the learned judge had in mind the particularly lucrative dyeing contracts to which the plaintiffs looked forward ...
+      - We agree that in order that the plaintiffs should recover specifically and as such the profits expected on these contracts, the defendants would have had to know, at the time of their agreement with the plaintiffs, of the prospect and terms of such contracts. We also agree that they did not in fact know these things. It does not, however, follow that the plaintiffs are precluded from recovering some general (and perhaps conjectural) sum for loss of business in respect of dyeing contracts to be reasonably expected, any more than in respect of laundering contracts to be reasonably expected.” (543, The Court)
+    - Koufos v C Czarnikow [1969] AC 350
+      - “The crucial question is whether, on the information available to the defendant when the contract was made, he should, or the reasonable man in his position would, have realised that such loss was sufficiently likely to result from the breach of contract to make it proper to hold that the loss flowed naturally from the breach or that loss of that kind should have been within his contemplation.” (385, Lord Reid)
+    - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+      - “It is now accepted that this is the statement of a single principle and that its application may depend on the degree of relevant knowledge possessed by the defendant in the particular case: C. Czarnikow Ltd. v. Koufos ...” (92, Mason CJ and Dawson J)
+  - CONTRACT AND NEGLIGENCE COMPARED
+    - Koufos v C Czarnikow [1969] AC 350
+      - “The modern rule in tort is quite different and it imposes a much wider liability. The defendant will be liable for any type of damage which is reasonably foreseeable as liable to happen even in the most unusual case, unless the risk is so small that a reasonable man would in the whole circumstances feel justified in neglecting it. And there is good reason for the difference. In contract, if one party wishes to protect himself against a risk which to the other party would appear unusual, he can direct the other party's attention to it before the contract is made, and I need not stop to consider in what circumstances the other party will then be held to have accepted responsibility in that event. But in tort there is no opportunity for the injured party to protect himself in that way, and the tortfeasor cannot reasonably complain if he has to pay for some very unusual but nevertheless foreseeable damage which results from his wrongdoing.” (386-387, Lord Reid)
+      - 
+Action
+Scope of foreseeability
+Likelihood Of occurrence
+Contract
+Loss that would flow naturally, according to
+the usual course of things, from a breach, or
+such as may reasonably be supposed to
+have been in the contemplation of both
+parties at the time they made the contract.
+Not unlikely
+to occur
+Contract
+Special circumstances known to plaintiff of
+particular damage that would result from
+breach and communicated to defendant.
+Not unlikely
+to occur
+Negligence
+Any damage that is reasonably foreseeable.
+Not far
+fetched or
+fanciful
+  - KIND OF LOSS
+    - The damage that is foreseeable need not be foreseen with particularity. It is sufficient if:
+      - kind of loss, and
+      - the general manner in which it occurs
+    - is foreseen.
+    - Hughes v Lord Advocate [1963] AC 837
+      - Paraffin lamps negligently left by an uncovered manhole.
+      - Children sustained major burn injuries when the lamp was dropped into the manhole and created a large explosion. 
+      - It was sufficient that ‘burn damage’ was foreseeable.
+    - Alexander v Cambridge Credit Corporation (1987) 9 NSWLR 310
+      - “The parties need not contemplate the degree or extent of the loss or damage suffered ... Nor need they contemplate the precise details of the events giving rise to the loss. It is sufficient that they contemplate the kind or type of loss or damage suffered.” (365-366, McHugh JA)
+    - At what level of generality does one define a “kind” of loss?
+  - MANNER IN WHICH LOSS OCCURS
+    - Doughty v Turner Manufacturing [1964] 1 QB 518
+      - “On broader grounds, however, it would be quite unrealistic to describe this accident as a variant of the perils from splashing. The cause of the accident, to quote Lord Reid's words, was “the intrusion of a new and unexpected factor.” There was an eruption due to chemical changes underneath the surface of the liquid as opposed to a splash caused by displacement from bodies falling on to its surface. In my judgment, the reasoning in Hughes v. Lord Advocate cannot be extended far enough to cover this case.” (527, Lord Pearce)
+  - EGG SHELL SKULL
+    - An exception to the “reasonable foreseeability” test.
+    - The defendant takes their victim as they find them.
+    - If:
+      - A person of normal fortitude would have been injured; 
+      - And
+      - the victim has a rare sensitivity to the damage caused by the defendant’s wrong, such that they suffer much greater loss than an ordinary person would; then
+      - it does not matter that the victim’s sensitivity is rare/unforeseeable.
+    - Smith v Leech Brain & Co [1962] 2 QB 405
+      - The defendant negligently burned the plaintiff on the plaintiff’s lip.
+      - The burn activated an underlying condition which developed into cancer.
+      - “The test is not whether these employers could reasonably have foreseen that a burn would cause cancer and that he would die. The question is whether these employers could reasonably foresee the type of injury he suffered, namely, the burn. What, in the particular case, is the amount of damage which he suffers as a result of that burn, depends upon the characteristics and constitution of the victim.” (415, Lord Parker CJ)
+    - Consequential mental harm
+      - If mental harm is a foreseeable consequence of physical injury, then the defendant will be liable for the full extent of mental harm caused.
+      - Nader v Urban Transit Authority (NSW) (1985) 2 NSWLR 501
+        - “... it is not open to doubt that a psychiatric illness of some kind is reasonably foreseeable as a consequence of physical injury.” (503-4, Samuels JA)
+        - “The rule of the “egg shell skull cases” should not be confined to the physical or constitutional characteristics of the particular individual. ... I think that the defendant must take the plaintiff with all his weaknesses, beliefs and reactions as well as his capacities and attributes, physical, social and economic. If the result of an accident is that a ten year old boy reacts to his parents' concern over his injuries and develops an hysterical condition, no reason of justice, morality or entrenched principle appears to me to prevent his recovery of compensation.” (536-7, McHugh J)
+    - Pure mental harm
+      - If the claim is for pure mental harm (nervous shock) then the plaintiff must prove that a person of normal fortitude would have suffered some kind of mental harm.
+      - Tame v New South Wales (2002) 21 CLR 317
+        - [117] ... the egg-shell skull rule goes to quantification of damages once duty, breach and some damage are established. ... It operates in the field of nervous shock in the same way that it operates in other areas of the law. Once the plaintiff establishes that a person of normal fortitude would have suffered psychiatric illness as the result of the defendant's action, the defendant must take the plaintiff as he or she is. The defendant's liability extends to all the psychiatric damage suffered by the plaintiff even though its extent is greater than that which would be sustained by a person of normal fortitude. (McHugh J)
+  - CIVIL LIABILITY ACT
+    - Section 5D – General principles
+      - (1) A determination that negligence caused particular harm comprises the following elements:
+        - (a) that the negligence was a necessary condition of the occurrence of the harm (factual causation), and
+        - (b) that it is appropriate for the scope of the negligent person’s liability to extend to the harm so caused (scope of liability).
+    - Monaghan Surveyors Pty Ltd v Stratford Glen-Avon Pty Ltd [2012] NSWCA 94 (17 April 2012)
+      - [73] Although the purpose of s 5D(1)(b) and (2) is to focus on what may, succinctly, be identified as policy issues, there is no suggestion that the content of the principles is uniform, rather than varying according to the circumstances. Nor is there any suggestion that they will not vary according to the cause of action. ... (Basten JA, McColl and Young JJA agreeing)
+    - Astley v Austrust Ltd (1999) 197 CLR 1
+      - [161] ... In many cases there will in practice be little difference between the quantum of damages in tort and in contract. In a case of dual liability, the proper approach may simply be to give the plaintiff (if there is a relevant difference) the benefit of the greater of the two measures of damages in a particular case on the basis that the plaintiff should be entitled (without double counting) to such damages as flow from any breach of duty (in contract and tort) that the plaintiff is able to prove. ... (Callinan J)
+    - Monaghan Surveyors Pty Ltd v Stratford Glen-Avon Pty Ltd [2012] NSWCA 94 (17 April 2012)
+      - [101] Although it may be accepted that the principles for assessing damage under tort and contract are not identical, and may in some circumstances give rise to differing outcomes, that result should be carefully scrutinised to see why the law is imposing liability in tort in circumstances where liability would not arise under the contractual arrangement between the parties. … (Basten JA, McColl and Young JJA agreeing)
+  - SUMMARY
+    - REMOTENESS
+      - Remoteness is a key way the defendant’s scope of liability is determined.
+      - Unlike causation, the remoteness tests vary between causes of action.
+      - If the Civil Liability Act applies, remoteness is dealt with under s 5D(1)(b).
+- MITIGATION
+  - MITIGATION
+    - An obligation on the plaintiff to act reasonably to prevent losses from increasing.
+    - Examples
+      - A purchaser should obtain an alternative good if the seller fails to deliver.
+      - A plaintiff should seek medical attention if negligently injured by the defendant.
+    - The defendant will not be liable for any damage incurred that could have been avoided by reasonable action by the plaintiff.
+    - British Westinghouse Manufacturing Co Ltd v Underground Electrical Railways Co of London Ltd [1912] AC 673
+      - “The fundamental basis is thus compensation for pecuniary loss naturally flowing from the breach; but this first principle is qualified by a second, which imposes on a plaintiff the duty of taking all reasonable steps to mitigate the loss consequent on the breach, and debars him from claiming any part of the damage which is due to his neglect to take such steps. ...
+      - ... this second principle does not impose on the plaintiff an obligation to take any step which a reasonable and prudent man would not ordinarily take in the course of his business. But when in the course of his business he has taken action arising out of the transaction, which action has diminished his loss, the effect in actual diminution of the loss he has suffered may be taken into account even though there was no duty on him to act.” (689, Viscount Haldane LC)
+    - If the plaintiff acts reasonably and the losses increase, then the defendant will still be liable.
+    - Simonius Vischer & Co v Holt & Thompson [1979] 2 NSWLR 322
+      - Decision not to sell wool futures purchased without authority was reasonable in the circumstances. 
+      - Defendant liable for losses that increased as a result of the decision not to sell.
+    - Banco de Portugal v Waterlow & Sons Ltd [1932] AC 452
+      - “Where the sufferer from a breach of contract finds himself in consequence of that breach placed in a position of embarrassment the measures which he may be driven to adopt in order to extricate himself ought not to be weighed in nice scales at the instance of the party whose breach of contract has occasioned the difficulty. It is often easy after an emergency has passed to criticize the steps which have been taken to meet it, but such criticism does not come well from those who have themselves created the emergency. The law is satisfied if the party placed in a difficult situation by reason of the breach of a duty owed to him has acted reasonably in the adoption of remedial measures, and he will not be held disentitled to recover the cost of such measures merely because the party in breach can suggest that other measures less burdensome to him might have been taken.” (506, Lord Macmillan)
+  - What would a reasonable person in the position of the plaintiff have done?
+    - Glavonjic v Foster [1979] VR 536
+      - Refusal to undertake somewhat risky surgery after an accident held not to be a failure to mitigate.
+      - “... the test of reasonableness is one to be achieved by considering what a reasonable man would have done assuming he was faced by all the circumstances of the case as they presented themselves to the plaintiff. Though one might properly exclude the peculiar reservations of a neurotic person, it is appropriate to take into consideration a mental condition such as an anxiety state where that was itself related to the injuries and was caused or contributed to by the accident in question.” (Gobbo J)
+  - ONUS
+    - The onus is on the defendant to:
+      - Raise mitigation as an issue; and
+      - Prove the failure to mitigate.
+  - Summary
+    - Once the plaintiff is aware of the wrong, the plaintiff should pursue reasonable options to stop the loss from increasing.
+    - If the plaintiff fails to mitigate loss, the defendant will not be liable for that loss.
+    - The plaintiff is judged in the context of what is reasonable at the time of the wrong, not with the benefit of hindsight.
+    - The law will presume that the plaintiff has mitigated their loss: the onus is on the defendant to put it in issue.
+- Contributory negligence
+  - CONTRIBUTORY NEGLIGENCE
+    - Where the plaintiff caused some of their loss by failing to take reasonable care of their own interests.
+    - Tort: negligence & nuisance
+    - Historically, proof of contributory negligence was a complete defence to a claim in negligence or nuisance.
+    - It is now possible for a court to apportion liability under legislation.
+  - NEGLIGENCE / NUISANCE
+    - Law Reform (Miscellaneous Provisions) Act 1965 (NSW)
+      - Section 8 – Definitions
+      - In this Part:
+        - claimant—see section 9(1).
+        - contributory negligence—see section 9(1). 
+        - court, in relation to any claim, means the court by or before which the claim falls to be determined.
+        - damage includes loss of life and personal injury.
+        - wrong means an act or omission that:
+          - (a) gives rise to a liability in tort in respect of which a defence of contributory negligence is available at common law, or
+          - (b) amounts to a breach of a contractual duty of care that is concurrent and co-extensive with a duty of care in tort.
+      - Section 9 – Apportionment of liability in cases of contributory negligence
+        - (1) If a person (the claimant) suffers damage as the result partly of the claimant’s failure to take reasonable care (contributory negligence) and partly of the wrong of any other person:
+          - (a) a claim in respect of the damage is not defeated by reason of the contributory negligence of the claimant, and
+          - (b) the damages recoverable in respect of the wrong are to be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage.
+        - (2) Subsection (1) does not operate to defeat any defence arising under a contract.
+        - (3) If any contract or enactment providing for the limitation of liability is applicable to the claim, the amount of damages recoverable by the claimant by virtue of subsection (1) is not to exceed the maximum limit so applicable.
+    - Contributory negligence concerns the plaintiff’s failure to take care of their own interests. Typical examples include:
+      - Plaintiff was intoxicated
+      - Plaintiff failed to keep a lookout for hazards
+      - Plaintiff failed to wear safety equipment/seatbelt/follow instructions, etc
+    - Civil Liability Act 2002 (NSW)
+      - Section 5R – Standard of contributory negligence
+        - (1) The principles that are applicable in determining whether a person has been negligent also apply in determining whether the person who suffered harm has been contributorily negligent in failing to take precautions against the risk of that harm.
+        - (2) For that purpose:
+          - (a) the standard of care required of the person who suffered harm is that of a reasonable person in the position of that person, and
+          - (b) the matter is to be determined on the basis of what that person knew or ought to have known at the time.
+      - Boral Bricks Pty Ltd v Cosmidis (No 2) [2014] NSWCA 139 (7 May 2014)
+        - [47] The correct legal question in determining the issue of contributory negligence in accordance with s 5R is “whether a reasonable person in the position of the [plaintiff], i.e. having the knowledge which the [plaintiff] had or ought to have had, was negligent” (McColl JA)
+      - Law Reform (Miscellaneous Provisions) Act 1965 (NSW)
+        - Section 9 – Apportionment of liability in cases of contributory negligence
+          - (1) If a person (the claimant) suffers damage as the result partly of the claimant’s failure to take reasonable care (contributory negligence) and partly of the wrong of any other person:
+      - Coles Supermarkets Australia Pty Ltd v Bridge [2018] NSWCA 183 
+        - [31] Secondly, it was necessary for Coles to establish that the lack of attention by Mr Bridge causally contributed to the damage suffered by him. ... Because Part 1A of the Civil Liability Act applied, s 5R is also relevant, and requires questions of culpability to be assessed by reference to ss 5B and 5C: ... Divergent views have been expressed as to whether s 5D is applicable to the determination of causal contribution for contributory negligence, or whether the “common sense” approach in March v E & M H Stramare Pty Ltd ... applies ... In Verryt v Schoupp it was conceded that the primary judge had erred in addressing “scope of liability” under s 5D(1)(b) for the purposes of contributory negligence ... In many and probably most cases, nothing will turn on this. In the present appeal, no submissions were made on the point, and because for the reasons which follow it is not necessary to resolve the point, it would be inappropriate to do so. (Leeming and Payne JJA)
+  - APPORTIONMENT
+    - Apportionment of liability between the plaintiff and defendant requires an assessment of to what extent both the plaintiff and the defendant deviated from respective duties of care.
+      - Defendant’s duty: the duty to the plaintiff to take care to prevent harm to the plaintiff.
+      - Plaintiff’s duty: the duty to him/herself to act reasonably to avoid harm (ie, personal responsibility)
+    - Podrebersek v Australian Iron and Steel Pty Ltd (1985) 59 ALR 529
+      - "... a comparison both of culpability, i.e. of the degree of departure from the standard of care of the reasonable man (Pennington v Norris (1956) 96 CLR 10 at 16) and of the relative importance of the acts of the parties in causing the damage: Stapley v Gypsum Mines Ltd [1953] AC 663 at 682; Smith v McIntyre [1958] Tas SR 36 at 42-49 and Broadhurst v Millman [1976] VR 208 at 219 and cases there cited. It is the whole conduct of each negligent party in relation to the circumstances of the accident which must be subjected to comparative examination.”” (532–3, The Court)
+    - Recent case law on contributory negligence under the Civil Liability Act has emphasised the equal importance of personal responsibility.
+    - There mere fact that the defendant was engaged in the more dangerous activity does not automatically equate to a greater proportion of the responsibility.
+    - Boral Bricks Pty Ltd v Cosmidis (No 2) (2014) 86 NSWLR 393
+      - [99] ... On the other hand, applying the general principles in s 5B(2) one could approach the matter differently. Thus, the probability that harm would occur if care were not taken and the likely seriousness of the harm would operate differentially with respect to the driver of the forklift and the pedestrian, but with the same result. That is, no distinction is made between the fact that from one perspective the driver is in control of a vehicle that could cause serious harm to a pedestrian, whilst from the perspective of the pedestrian, it was the likelihood of serious harm which was to be considered. If the plaintiff were aware, or ought to have been aware, of the presence of a large forklift operating in the area and if the forklift driver were aware, or should have been aware, of the likely presence of pedestrians, and if each were equally careless, liability should be shared equally.
+      - [100] A purposive approach to the operation of s 5R (and s 5B) requires that this approach be adopted. ... (Basten JA; Emmett JA agreeing)
+  - NEGLIGENCE
+    - Some legislation deems certain conduct to be contributory negligence:
+      - Civil Liability Act, s 50 (No recovery where person intoxicated)
+      - Motor Accidents Compensation Act 1999 (NSW), s 138 (intoxication, failure to wear seatbelts/helmets)
+  - CONTRACT
+    - Contributory negligence does not apply to claims in contract, unless the breach of contract is a breach of duty of care that is “concurrent and co-extensive with a duty of care in tort”: Law Reform (Miscellaneous Provisions) Act 1965, s 8.
+    - If the plaintiff had been negligent, then there may be scope to argue that:
+      - the loss is too remote.
+      - the contributory negligence is a novus actus interveniens.
+  - RELATIONSHIP WITH MITIGATION
+    - Contributory negligence 
+      - Plaintiff’s failure to act reasonably to protect own interests, which is a cause of his/her loss.
+      - Precedes mitigation
+    - Mitigation
+      - Duty to act reasonably to reduce or eliminate loss once the plaintiff is aware of the wrong
+  - SUMMARY
+    - Law Reform (Miscellaneous Provisions) Act 1965 (NSW) allows a court to apportion damages for contributory negligence when:
+      - The ‘defence’ is available at common law for the relevant wrong (negligence, nuisance); and
+      - The wrong is a breach of a contractual duty of care which is concurrent and coextensive with a common law duty of care.
+    - Apportionment is not available in any other case.
+    - To apportion the court will consider all the circumstances of the case, esp the culpability of the parties.
+    - Contributory negligence applies before principle of mitigation.
+- PROPORTIONATE LIABILITY
+  - JOINT AND SEVERAL LIABILITY
+    - MULTIPLE TORTFEASORS
+      - Joint tortfeasors act in concert to cause the same loss.
+      - Several concurrent tortfeasors act independently of each other, but cause the same loss.
+      - Successive tortfeasors, act independently of each other and cause their own, separate loss.
+      - Where joint or concurrent tortfeasors cause the same loss, then the tortfeasors are jointly and severally liable:
+        - The plaintiff can sue any one and receive full compensation from one tortfeasor (ie, sue the tortfeasor with the ‘deepest pockets’).
+        - The sued tortfeasor can seek a contribution from the other tortfeasors (Law Reform (Miscellaneous Provisions) Act 1946 (NSW) s 5(1)(c).
+      - However, now see Civil Liability Act 2002 (NSW), Part 4.
+  - PROPORTIONATE LIABILITY
+    - Civil Liability Act 2002 (NSW)
+      - Section 34 – Application of Part
+        - (1) This Part applies to the following claims (apportionable claims):
+          - (a) a claim for economic loss or damage to property in an action for damages (whether in contract, tort or otherwise) arising from a failure to take reasonable care, but not including any claim arising out of personal injury,
+          - (b) a claim for economic loss or damage to property in an action for damages under the Fair Trading Act 1987 for a contravention of section 42 of that Act (as in force before its repeal by the Fair Trading Amendment (Australian Consumer Law) Act 2010) or under the Australian Consumer Law (NSW) for a contravention of section 18 of that Law.
+          - …
+        - (2) In this Part, a concurrent wrongdoer, in relation to a claim, is a person who is one of two or more persons whose acts or omissions (or act or omission) caused, independently of each other or jointly, the damage or loss that is the subject of the claim.
+      - 34A Certain concurrent wrongdoers not to have benefit of apportionment
+        - (1) Nothing in this Part operates to limit the liability of a concurrent wrongdoer (an excluded concurrent wrongdoer) in proceedings involving an apportionable claim if:
+          - (a) the concurrent wrongdoer intended to cause the economic loss or damage to property that is the subject of the claim, or
+          - (b) the concurrent wrongdoer fraudulently caused the economic loss or damage to property that is the subject of the claim, or
+          - (c) the civil liability of the concurrent wrongdoer was otherwise of a kind excluded from the operation of this Part by section 3B.
+        - (2) The liability of an excluded concurrent wrongdoer is to be determined in accordance with the legal rules, if any, that (apart from this Part) are relevant.
+        - (3) The liability of any other concurrent wrongdoer who is not an excluded concurrent wrongdoer is to be determined in accordance with the provisions of this Part.
+      - Hunt & Hunt Lawyers v Mitchell Morgan Nominees (2013) 247 CLR 656
+        - (French CJ, Hayne and Kiefel JJ)
+          - [10] Part 4 of the Civil Liability Act represents a departure from the regime of liability for negligence at common law (solidary liability), where liability may be joint or several but each wrongdoer can be treated as the effective cause and therefore bear the whole loss. Under that regime, a plaintiff can sue and recover his or her loss from one wrongdoer, leaving that wrongdoer to seek contribution from other wrongdoers. The risk that any of the other wrongdoers will be insolvent or otherwise unable to meet a claim for contribution lies with the defendant sued. By comparison, under a regime of proportionate liability, liability is apportioned to each wrongdoer according to the court's assessment of the extent of their responsibility. It is therefore necessary that the plaintiff sue all of the wrongdoers in order to recover the total loss and, of course, the risk that one of them may be insolvent shifts to the plaintiff. 
+          - [19] Section 34(2) poses two questions for the court: what is the damage or loss that is the subject of the claim? Is there a person, other than the defendant, whose acts or omissions also caused that damage or loss?
+          - …
+          - [28] The nature of Mitchell Morgan's economic interest is much the same. The harm it suffered is that it is unable to recover the sums advanced. That is its loss or damage for the purposes of s 34(2). Mitchell Morgan's plea that it continues to suffer loss and damage is explicable on the basis that it continues to be unable to recover those sums.
+          - [45] The law's recognition that concurrent and successive tortious acts may each be a cause of a plaintiff's loss or damage is reflected in the proposition that a plaintiff must establish that his or her loss or damage is "caused or materially contributed to" by a defendant's wrongful conduct. It is enough for liability that a wrongdoer's conduct be one cause. The relevant enquiry is whether the particular contravention was a cause, in the sense that it materially contributed to the loss. Material contribution has been said to require only that the act or omission of a wrongdoer play some part in contributing to the loss.
+          - [58] So far as concerns Hunt & Hunt, it is clearly appropriate that its negligence be adjudged a cause and that it be held liable for Mitchell Morgan's damage. However, it is not consistent with the policy of Pt 4 that Hunt & Hunt be held wholly responsible for the damage, when regard is had to the part played by the fraudsters' conduct. Consistent with that policy, Mitchell Morgan should not recover from Hunt & Hunt any more than that for which Hunt & Hunt is responsible, as found by the primary judge.
+        - Loss: inability to recover loan (economic loss).
+        - Two causes of loss:
+          - Rogues (fraud / bankrupt)
+          - Hunt & Hunt (negligence / insured $$$)
+        - Options for Mitchell Morgan:
+          - Sue rogues for all loss & leave rogues to seek contribution from Hunt & Hunt. Rogues were fraudulent, therefore not subject to CLA Pt 4 however rogues were bankrupt.
+          - Sue Hunt & Hunt however CLA Pt 4 limited their liability to their proportionate share in causing the loss.
+    - Civil Liability Act 2002 (NSW)
+      - 35 Proportionate liability for apportionable claims
+        - (1) In any proceedings involving an apportionable claim:
+          - (a) the liability of a defendant who is a concurrent wrongdoer in relation to that claim is limited to an amount reflecting that proportion of the damage or loss claimed that the court considers just having regard to the extent of the defendant’s responsibility for the damage or loss, and
+          - (b) the court may give judgment against the defendant for not more than that amount.
+        - … 
+        - (3) In apportioning responsibility between defendants in the proceedings:
+          - (a) the court is to exclude that proportion of the damage or loss in relation to which the plaintiff is contributorily negligent under any relevant law, and
+          - (b) the court may have regard to the comparative responsibility of any concurrent wrongdoer who is not a party to the proceedings.
+        - (4) This section applies in proceedings involving an apportionable claim whether or not all concurrent wrongdoers are parties to the proceedings. …
+    - Mitchell Morgan Nominees Pty Ltd v Vella [2011] NSWCA 390 (15 December 2011)
+      - (Giles JA)
+        - [83] The terms of s 35(1)(a), “that the court considers just having regard to the extent of the defendant’s responsibility for the damage or loss”, reflect the terms of s 5(2) of the 1946 Act, “as may be found by the court to be just and equitable having regard to the extent of that person’s responsibility for the damage”. The accepted application of the latter terms “involves a comparison both of culpability, ie of the degree of departure from the standard of care of the reasonable man ... and of the relative importance of the acts of the parties in causing the damage ...”, and there must be a comparative examination of “the whole conduct of each negligent party in relation to the circumstances of the accident”: Podrebersek v Australian Iron & Steel Pty Ltd at 494 (citations omitted); see also (for example) Wynbergen v Hoyts Corporation Pty Ltd (1997) 72 ALJR 65 and Vinidex Tubemakers Pty Ltd v Thiess Contractors Pty Ltd [2000] NSWCA 67.
+        - [84] The approach to s 5(2) of the 1946 Act may need to be modified for s 35 of the Civil Liability Act, first because of s 35(3) and secondly because there may not be occasion for comparison of culpability in the sense of departure from the standard of care of the reasonable man – as in the present case, where Messrs Caradonna and Flammia were fraudulent rather than negligent. Comparison of culpability in the sense of negligence is not meaningful. Comparison of culpability in the sense of moral delinquency invites a non-legal standard, but the statutory standard of "responsibility" permits regard to the nature of the relevant conduct. Once one goes beyond comparative negligence the field is greatly widened and the circumstances can be very varied, but where there is an intentional wrong the responsibility of the wrongdoer for the damage or loss deliberately brought about will be likely to exceed that of the negligent wrongdoer. 
+    - Civil Liability Act 2002 (NSW)
+      - 34 Application of part
+      - …
+      - (4) For the purposes of this Part it does not matter that a concurrent wrongdoer is insolvent, is being wound up or has ceased to exist or died.
+      - 35 Proportionate liability for apportionable claims 
+        - (1) In any proceedings involving an apportionable claim:
+          - …
+          - (b) the court may give judgment against the defendant for not more than that amount.
+        - (3) In apportioning responsibility between defendants in the proceedings:
+          - (a) the court is to exclude that proportion of the damage or loss in relation to which the plaintiff is contributorily negligent under any relevant law, and
+          - (b) the court may have regard to the comparative responsibility of any concurrent wrongdoer who is not a party to the proceedings.
+  - SUMMARY
+    - If:
+      - ‘Concurrent wrongdoers’ have jointly or independently caused the plaintiff economic loss or property damage.
+      - Any wrongdoer who caused that loss by negligence need only pay their proportionate share of the loss.
+      - Any wrongdoer who intended the loss or acted fraudulently cannot rely on proportionate liability.
+      - Loss is apportioned between concurrent wrongdoers similarly to apportionment under contributory negligence.
+  - GENERAL PRINCIPLES
+    - Any claim for damages consists of 3 ‘building blocks’:
+      - 1. Causation 
+      - 2. Scope of liability 
+      - 3. Assessment: next
+## Week 4: Damages
+
+- Personal injury at common law
+  - Key vocabulary in this topic
+    - Discount rate: A percentage applied to calculate the present day value of loss that will occur in the future.
+    - Earning capacity: The plaintiff's ability to generate income.
+    - Economic loss: Actual out of pocket expenses incurred - or that will be incurred - to meet the reasonable needs of an injured plaintiff. For example, medical costs, therapy costs, the cost of modifying the home or office, etc. 
+    - Griffiths v Kerkemeyer damages: Damages awarded to compensate the need for medical or nursing care, which is met gratuitously by third parties.
+    - Injured feelings: Unpleasant emotions - such as distress, anxiety, anger, humiliation - but which do not rise to a diagnosable psychiatric condition. Not considered an 'injury' at common law.
+    - Non-economic loss: A form of compensable loss caused by the injury which has no economic value. Consists of damages for pain and suffering, loss of amenities of life, disfigurement and loss of expectation of life.
+    - Personal injury: Physical harm, such as bleeding, wounding, bruising, broken bones, disease, etc or other physical impairment. Mental injury amounting to a diagnosable psychiatric condition.
+    - Vicissitudes of life: Usually, a deduction off an award of damages for lost future earning capacity, to reflect the likelihood that - even if the plaintiff were not injured - the 'vicissitudes of life' might have prevented the plaintiff from fully realising his or her earning capacity.
+- Introduction
+  - Overview
+    - 1. Causation 
+    - 2. Scope of liability 
+    - 3. Assessment
+  - PERSONAL INJURY
+    - Personal injury damages can be awarded for tort and breach of contract. 
+    - Most personal injury claims are made in tort.
+    - Most claims will be governed by the Civil Liability Act 2002 (NSW) Part 2: covered next week.
+  - DEFINITION
+    - Common law
+    - Personal injury consists of:
+      - physical injury
+      - 'recognisable psychiatric injury' (Tame v NSW (2002) 211 CLR 317)
+      - but not mere transient emotional responses (disappointment, distress, anxiety, etc – ‘injured feelings’).
+  - MENTAL INJURY
+    - New South Wales v Ibbett (2005) 65 NSWLR 168
+      - [21] The concept of “personal injury” is reasonably well established in Australian legal practice. It has rarely, if ever, been used to refer to harm to reputation, deprivation of liberty, or to injured feelings such as outrage, humiliation, indignity and insult or to mental suffering, such as grief, anxiety and distress, not involving a recognised psychological condition. (See, for example, Baltic Shipping Co v Dillon (1993) 176 CLR 344 at 359–363.) An award for the emotional harm involved in apprehension of personal violence would not generally be regarded as an award for “personal injury damages”. (Spigelman CJ)
+    - Baltic Shipping Co v Dillon (1993) 176 CLR 344
+      - ‘Pain and suffering is a well-known common law head of damage recoverable in actions for damages for personal injury, whether awarded for tortious conduct or conduct which constitutes a breach of statutory duty. And, in some circumstances at least, a plaintiff can recover damages for injury to his or her feelings caused by tortious conduct; assault, false imprisonment, malicious prosecution and defamation are causes of action in which a plaintiff may recover damages on that score.’ (359-60, Mason CJ)
+  - HEADS OF LOSS
+    - Personal injury
+      - Actual financial (economic) loss
+      - Non economic loss
+      - Loss of earning capacity
+- Economic loss
+  - CSR Limited v Eddy (2005) 226 CLR 1
+    - [31] actual financial loss, for example, ambulance charges; charges for medical, hospital and professional nursing services; travel and accommodation expenses incurred in obtaining those services; the costs of rehabilitation needs, special clothing and special equipment; the costs of modifying houses; the costs of funds management; and the costs of professionally supplied home maintenance services. It is not necessary for the costs actually to have been incurred by the time of the trial, but it is necessary that they will be incurred. (Gleeson CJ, Gummow and Heydon JJ) 
+    - Claims for actual, identified, specific financial loss = special damages 
+    - Claims for future, potential losses = general damages
+  - Sharman v Evans (1977) 138 CLR 563
+    - (Gibbs and Stephen JJ; Jacobs J agreeing)
+      - The appropriate criterion must be that such expenses as the plaintiff may reasonably incur should be recoverable from the defendant; as Barwick CJ put it in Arthur Robinson (Grafton) Pty Ltd v Carter “The question here is not what are the ideal requirements but what are the reasonable requirements of the respondent” ... The touchstone of reasonableness in the case of the cost of providing nursing and medical care for the plaintiff in the future is, no doubt, cost matched against health benefits to the plaintiff. If cost is very great and benefits to health slight or speculative the cost-involving treatment will clearly be unreasonable, the more so if there is available an alternative and relatively inexpensive mode of treatment, affording equal or only slightly lesser benefits. 
+      - When the factors are more evenly balanced no intuitive answer presents itself and the real difficulty of attempting to weigh against each other two incomparables, financial cost against relative health benefits to the plaintiff, becomes manifest. 
+    - (Barwick CJ)
+      - “For all that the medical advisers might think that there was some psychological benefit in allowing the respondent to have the satisfaction of being in her mother's house for some periods, I think the disturbance and the upset both of the initial transfer of the respondent and particularly of her re-transfer could far outweigh any other advantage which has been supposed.” 
+  - GRIFFITHS V KERKEMEYER DAMAGES
+    - Griffiths v Kerkemeyer (1977) 139 CLR 161
+      - Plaintiff made quadriplegic by the defendant’s negligence.
+      - Family provided gratuitous care.
+      - Plaintiff sued for compensation for the need for care caused by the negligence.
+    - (Mason J)
+      - “... the old view based on the proposition that a plaintiff is not entitled to recover from the defendant the services provided to him unless he can show that he is under a legal liability to pay for them, is no longer acceptable. That view proceeded upon the footing that the relevant loss was the legal liability to pay for the service. It is now recognized that the true loss is the loss of capacity which occasions the need for the service. In consequence the existence of a legal liability to pay is not the dominant consideration.” 
+      - Although there has been a suggestion in some of the cases, notably Allen v Waters & Co, Schneider v Eisovitch and Cunningham v Harrison, that a plaintiff should hold that part of the damages awarded as is referable to services provided gratuitously in trust for the person providing the services, it is a suggestion which is unacceptable. There is no foundation for the erection of a trust. The theory on which the plaintiff is permitted to recover is that the damages are awarded as compensation for his loss, whether he is under a legal liability or other obligation to pay for the services or not.’ 
+    - Van Gervan v Fenton (1992) 175 CLR 327
+      - (Mason CJ, Toohey and McHugh JJ)
+        - “Once it is recognised that it is the need for the services which gives the plaintiff the right to an award of damages, it follows that the damages which he or she receives are not determined by reference to the actual cost to the plaintiff of having them provided or by reference to the income foregone by the provider of the services. As Stephen J pointed out in Griffiths … the principle ... “is concerned not with what outlays of money the plaintiff will in fact incur as a consequence of his injuries but with the objective monetary 'value' of his loss”. Because the market cost of services is ordinarily the reasonable and objective value of the need for those services, the market cost, as a general rule, is the amount which the defendant must pay as damages …”
+      - (338, Mason CJ, Toohey and McHugh JJ)
+        - “In a case such as the present, therefore, it is necessary to determine two questions:
+          - (a) What are the services required to satisfy the plaintiff's need resulting from the defendant's wrong?
+            - [This includes consideration of duration of service.]
+          - (b) What is the value of those services?” 
+      - (Mason CJ, Toohey and McHugh JJ)
+        - “In this case, the appellant's need is essentially for constant care and attention. No doubt some of the services which are now needed by the appellant were provided for him by his wife before the accident. But with great respect to those judges who have taken the contrary view ... no allowance in favour of the respondent can be made for such matters. ... If the defendant has created the need for the services, that person is not entitled to have the damages reduced because, before the accident, the plaintiff elected to pay for similar services or had the benefit of having them performed gratuitously. By the tort, the defendant has transformed the choice of the plaintiff to pay for such services or to have them done voluntarily into the need for the plaintiff to have those services performed for him or her.”
+    - Kars v Kars (1996) 187 CLR 354 
+      - “1. The starting point to explain our conclusion is a clear recollection of the principle that the Court is not concerned, as such, to quantify a plaintiff's loss or even to explore the moral or legal obligations to a care provider. It is, as has been repeatedly stated, to provide the injured plaintiff with damages as compensation for his or her need, as established by the evidence. The fact that a defendant fulfils the function of providing services does not, as such, decrease in the slightest the plaintiff's need.” (Toohey, McHugh, Gummow and Kirby JJ)
+  - FUND MANAGEMENT COSTS
+    - Gray v Richards (2014) 253 CLR 660
+      - [1] In Todorovic v Waller, Gibbs CJ and Wilson J summarised the principles which regulate the assessment of damages for personal injuries as follows:
+        - “... Thirdly, the court has no concern with the manner in which the plaintiff uses the sum awarded to him; the plaintiff is free to do what he likes with it. ... ."
+      - [2] Generally speaking, the third of these principles operates so that a plaintiff does not recover damages for costs he or she might incur in managing a lump sum awarded by way of damages. That is because such costs are not regarded as a loss resulting from the plaintiff's injury. (The Court)
+    - Nominal Defendant v Gardikiotis (1996) 186 CLR 49
+      - ‘If a defendant's negligence results in the plaintiff being so mentally or physically incapacitated that she is unable to manage day-to-day tasks, the basic principles of compensation for tortious conduct entitle the plaintiff to damages both for the disability and the expense of managing those tasks. The expense is just as much a product of the defendant's negligence as is the disability. It is compensable therefore unless it is damage of a kind that a defendant could not reasonably foresee. … 
+      - Damages may therefore be awarded for the expense of managing a plaintiff's verdict moneys when the plaintiff's disabilities prevent him or her from managing those moneys and the disabilities are the foreseeable consequence of the defendant's negligence.’ (McHugh J)
+- Earning capacity
+  - CSR Limited v Eddy (2005) 226 CLR 1
+    - [30] ... loss of earning capacity both before the trial and after it. Although the damages recoverable in relation to reduced future income are damages for loss of earning capacity, not damages for loss of earnings impliciter, those damages are awardable only to the extent that the loss has been or may be productive of financial loss. Hence "the valuation of the loss of earning capacity involves the consideration of what moneys could have been produced by the exercise of the [plaintiff's] former earning capacity”. 
+    - (Gleeson CJ, Gummow and Heydon JJ)
+  - New South Wales v Moss (2000) 54 NSWLR 536
+    - [71] ... Evaluation of the worth of a loss of capacity to earn – of a lost chance to earn – is of its nature a more imprecise inquiry than calculation of a lost income. It rests on the hypothesis – that the plaintiff will have undiminished capacity – which has been rendered false by events. It does not depend on calculating the income from a particular career which is no longer possible, but in calculating the damage to a capacity to carry on various careers. It is an exercise in estimation of possibilities, not proof of probabilities. (Heydon JA)
+- GENERAL PROCEDURE
+  - Husher v Husher (1999) 197 CLR 138
+    - [7] ... damages for both past loss and future loss are allowed to an injured plaintiff "because the diminution of his earning capacity is or may be productive of financial loss". Both elements are important. It is necessary to identify both what capacity has been lost and what economic consequences will probably flow from that loss. Only then will it be possible to assess what sum will put the plaintiff in the same position as he or she would have been in if injury had not been sustained.
+    - [23] Deciding what value is to be ascribed to the loss of future earning capacity of an injured plaintiff requires close attention to the facts of each case. ... the inquiry is about what could the plaintiff have done in the workforce but for the accident and what sum of money would the plaintiff have had at his or her disposal. Only when those inquiries are pursued can a judgment be made about what capital sum to allow as damages for the impairment of the plaintiff's earning capacity. In doing so, regard must be had, of course, to all those contingencies of life that might reasonably be expected to affect the course of events in the future. (Gleeson CJ, Gummow, Kirby and Hayne JJ)
+  - Plaintiff must prove:
+    - The lost capacity to earn; and
+    - The financial consequences of the lost capacity.
+  - Defendant may try to argue:
+    - The plaintiff still has capacity to earn an income in others ways
+    - The plaintiff’s lost capacity has resulted in other gains to the plaintiff, which should be taken into account (eg, the plaintiff no longer has to spend money to realise the capacity);
+  - An independent, adverse contingency would have diminished/destroyed the plaintiff’s earning capacity irrespective of the defendant’s wrong (eg, a pre-existing illness, an independent car crash, etc).
+  - Typical claim =
+    - (net $ loss per week) x (weeks earning capacity is impaired)
+  - “Net” means:
+    - After tax; and
+    - Deducting a certain amount the plaintiff would spend each week to earn the income (eg, train fares, petrol, clothing, etc.)
+  - Wynn v NSW Insurance Ministerial Corporation (1995) 184 CLR 485
+    - ...outgoings which are deducted for the purpose of calculating economic loss are those which are necessarily incurred in or in connection with the employment or undertaking by which earning capacity is realised, not those which are incurred, even as a “necessary prerequisite”, merely to provide an opportunity to realise that capacity. (Dawson, Toohey, Gaudron and Gummow JJ)
+- PAST EARNING CAPACITY
+  - Often based on the actual/average earnings of the plaintiff up to the injury and then compensating the difference after the injury.
+  - Problems can arise when the plaintiff is not in steady employment, or does not earn a consistent amount per week, or where another factor unrelated to the wrong may have impaired the plaintiff’s earning capacity.
+- FUTURE EARNING CAPACITY
+  - Highly speculative.
+  - Plaintiff must prove their “most likely” “baseline” income that they would have earned but for the injury.
+  - The baseline income will be based upon assumptions about what would have happened: the plaintiff must satisfy the court that the assumptions are sound.
+  - Value of the lost capacity is prima facie the difference between:
+    - the hypothetical baseline income; and
+    - the plaintiff’s likely actual income after the injury
+  - But subject to “contingencies”.
+- Nominal Defendant v Livaja [2011] NSWCA 121 (17 May 2011)
+  - [41] The assumptions or events upon which a baseline may commonly be calculated include:
+    - a) identification of the skills, training and experience of the plaintiff, as at the date of the accident;
+    - b) the work he or she was undertaking immediately prior to the accident;
+    - c) the likelihood that he or she would have continued in such employment, but for the accident;
+    - d) the possibility that he or she might have obtained promotion or other benefits, but for the accident;
+    - e) the age to which he or she was likely to have worked in that employment, and
+    - f) the possibility that the employment would not have been continuous. (The Court)
+- FUTURE EARNING CAPACITY
+  - Example
+    - Bank teller earning $650 net per week permanently loses all earning capacity.
+  - Claim
+    - $650 per week for 40 years (to retirement) if continuing as a bank teller was the most likely career prospect for the plaintiff.
+  - Assumptions
+    - The plaintiff would have:
+      - Continued in their current role;
+      - Worked for another 40 years to retirement
+- FUTURE EARNING CAPACITY
+  - Example
+    - Bank teller earning $650 net per week permanently loses all earning capacity.
+  - Evidence
+    - Plaintiff intended to work as a teller until retirement.
+    - Plaintiff was well liked and received good performance evaluations;
+    - Medical history of plaintiff before injury;
+    - Average life expectancy and retirement age.
+- BUFFERS
+  - If the plaintiff proves potential for future loss that is:
+    - Speculative, but not far-fetched; or
+    - Impossible to value
+    - then the court may award a “buffer” lump sum to compensate that loss.
+  - Pollard v Baulderstone Hornibrook Engineering Pty Ltd [2008] NSWCA 99 (27 May 2008)
+    - [84] As to the future economic loss, it is appropriate to award damages by way of a buffer, including in a case such as this where damages are to be determined pursuant to the Civil Liability Act, when the impact of the injury upon the economic benefit from exercising earning capacity after injury is difficult to determine. In such a case, the Court still undertakes a comparison between the economic benefits the plaintiff derived from exercising earning capacity before injury and the economic benefit derived from exercising earning capacity after injury, although the difference cannot be determined otherwise than by the broad approach of a buffer: ... . In [Leichhardt Municipal Council v Montgomery [2005] NSWCA 432] Mason P (at [2]) opined that "a buffer or cushion award is usually reserved to the situation where there is a smallish risk that otherwise secure employment prospects may come to an end, in consequence of the tort-related injury, at some distant time in the future", but, with respect, the accepted wisdom appears to be that a buffer can be deployed in circumstances such as the present. (McColl JA)
+- SHORTENED LIFE EXPECTANCY (‘LOST  YEARS’)
+  - If the defendant’s wrong has shortened the plaintiff’s life expectancy, the plaintiff can claim for lost earning capacity in the “lost years”.
+  - “Lost years” = the years between:
+    - when the plaintiff is expected to die post-injury; and
+    - the year to which the plaintiff would have worked had they not been injured.
+  - Living expenses will be deducted for damages awarded for the lost years.
+  - Sharman v Evans (1977) 138 CLR 563
+    - As to “lost years”, the plaintiff is to be compensated in respect of lost earning capacity during those years by which her life expectancy has been shortened, at least to the extent that they are years when she would otherwise have been earning income (Skelton v. Collins, per Taylor J). But, unlike the thirty years of her actual post-accident life expectancy, no outgoings whatever will be involved in respect of that period since it is assumed that the plaintiff will then be dead. … It is well established in Australia that there should be taken into account in reduction of damages for the lost earning capacity of “lost years” at least the amount that the plaintiff would have expended on his own maintenance during those lost years …
+- VICISSITUDES OF LIFE
+  - Arthur Robinson (Grafton) Pty Ltd v Carter (1968) 122 CLR 649
+    - “Ill health, unemployment, road or rail accidents, wars, changes in industrial emphasis, so that industries move their location, or are superseded by new and different techniques, the onset and effect of automation and the mere daily vicissitudes of life are not adequately reflected by merely — and blindly — taking some percentage reduction of a sum which ignores them.” 
+  - Allianz Australia Insurance Ltd v Cervantes [2012] NSWCA 244
+    - [35] The conventional approach to such an exercise is to assess the earning capacity of the claimant in monetary terms prior to the accident (usually on the basis of net weekly or annual earnings) and, where there is evidence of unemployment or employment at a reduced income thereafter, to assess the quantum of the difference up to the date of hearing (past economic loss) and to project the calculation into the future (future economic loss). The latter exercise will, again conventionally, be discounted by 15% on account of vicissitudes. (Basten JA, McColl and Macfarlan JJA agreeing)
+  - Bresatz v Przibilla (1962) 108 CLR 541
+    - “... Moreover, the generalisation, that there must be a 'scaling down' for contingencies, seems mistaken. All 'contingencies' are not adverse: all 'vicissitudes' are not harmful. A particular plaintiff must have had prospects or chances of advancement and increasingly remunerative employment. Why count the possible buffets and ignore the rewards of fortune? Each case depends upon its own facts. In some it may seem that the chance of good fortune might have balanced or even outweighed the risk of bad.” (Windeyer J)
+  - Wynn v NSW Insurance Ministerial Corporation (1995) 184 CLR 485
+    - Future earning capacity discounted by 12.5% for vicissitudes.
+    - Prospects of promotion balances against prospect of pre-existing spinal injury worsening even if not injured.
+  - Norris v Blake (No 2) (1997) 41 NSWLR 49
+    - Young actor with promising film career catastrophically injured in a car accident.
+    - Trial judge assessed lost earning capacity using a “weighted average” approach
+    - (62, Clarke JA, Handley and Sheller JJA agreeing) 
+      - “I will take as an example the year 1994. The gross earnings of $7,701,689 for that year is made up of 15 per cent of a superstars earnings of $40,540,000 ($US30,000,000), 35 per cent of the earnings of an actor with considerable success in the United States (that is, 35 per cent of $4,054,000 ($US3,000,000)), 25 per cent of the earnings of an actor with moderate success in the United States (that is, 25 per cent of $506,000 ($US375,000)) and 25 per cent of the earnings of an actor who followed an Australian career (that is, 25 per cent of $300,000).” 
+    - “... In terms of probability, it is more likely than not that the plaintiff would achieve moderate success. Yet the damages are calculated by reference to an annual amount which far exceeds what this success would produce.
+    - The proper approach is to assess what it was most likely he would earn during the rest of his working life and adjust this for contingencies including the possibility that he might have done far better.” (73, Clarke JA, Handley and Sheller JJA agreeing)
+    - (78, Clarke JA, Handley and Sheller JJA agreeing)
+      - “For the future I would adopt the figure of $750,000 per annum until the respondent reached the age of sixty years. I have adopted that period because it seems to me that, subject to the adjustment necessary to take account of the chances including his chance of success in North America, it broadly reflects the possibility that he may have ceased earning at that rate earlier or later. I would allow an additional $2,500,000 to take account of the vicissitudes – both adverse contingencies, the loss of the chance to succeed in America, and the real possibility that he would have earned income after reaching the age of sixty. This is one case in which the vicissitudes (including the loss of chances) results in an addition rather than a deduction.”
+- FUTURE EARNING CAPACITY
+  - IAG Limited v Mares [2016] NSWSC 1792
+    - [69] The relevant common law principles have been encapsulated within the following formulation which was approved by the Court of Appeal in Kallouf v Middis [2008] NSWCA 61: 
+      - 1) Assess the “most likely” of the possible future economic circumstances facing the claimant but for the accident (including type of employment, duration of employment and remuneration);
+      - 2) Assess the claimant’s economic prospects as a consequence of the accident;
+      - 3) Compensate the claimant for the difference between (1) and (2), including, where appropriate, through the use of a buffer;
+      - 4) Adjust (3) by an appropriate percentage (including, where appropriate, by 0%) for vicissitudes, to reflect the possibility that the claimant may not have achieved (1) even had the accident not occurred;
+      - 5) Include a statement of the assumptions made as the claimant’s most likely future circumstances and the appropriate percentage adjustment ... (Hall J)
+  - Example
+      - Future lost earning capacity: $960 per week net over 30 years
+      - Present day value: $996,576 (3% discount at common law: Todorovic v Waller)
+      - Vicissitudes of life: 15% (conventional: could go up or down depending upon the evidence.)
+      - Total: 85% x $996,576 = $847,090
+- LOSS OF DOMESTIC CAPACITY
+  - LOSS OF CAPACITY TO PROVIDE DOMESTIC SERVICES
+    - Compensation for plaintiffs who provide unpaid domestic care to other family members.
+    - Recognises that the capacity to provide domestic services has economic value, even though it:
+      - is unpaid;
+      - results in loss to others; and
+      - does not necessarily create a need for the plaintiff.
+    - Formerly available at common law after Sullivan v Gordon (1999) 47 NSWLR 319.
+    - No longer available at common law since CSR Limited v Eddy (2005) 226 CLR 1.
+    - Now see: Civil Liability Act 2002 (NSW) s 15B
+    - CSR Limited v Eddy (2005) 226 CLR 1
+      - [113] If the law of damages is to retain its coherence, overruling Sullivan v Gordon is a necessity. It is a decision inconsistent with long established principle and, with great respect to those who have held to the contrary, it finds no support in Griffiths v Kerkemeyer. The critical difference between Griffiths v Kerkemeyer and the cases that have extended it is that Griffiths v Kerkemeyer damages arise as a direct result of the creation of a need in the plaintiff of the provision of the particular services. It is therefore inherently limited.
+      - By contrast, no inherent limit exists for Sullivan v Gordon-type damages. ... the correct question is whether the work is being performed in response to an injury-caused need of the plaintiff. This is the essence of the error in Sullivan v Gordon: it moved from the needs of the plaintiff which Griffiths sanctioned to the needs of third parties. (Gleeson CJ, Gummow and Heydon JJ)
+- SUPERANNUATION
+  - Najdovski v Crnojlovic (2008) 72 NSWLR 728
+    - [53] It has generally been assumed that the calculation required takes as the “relevant percentage” the figure specified in the Superannuation Guarantee (Administration) Act 1992 (Cth) ... (For ease of calculation, and because damages are assessed by reference to earnings net of tax, the calculation is sometimes undertaken on the basis of 11% of net earnings.)
+  - Example
+    - Past earning capacity = $25,000
+      - Superannuation (11%) = 11% x $25,000 = $2,750
+    - Future earning capacity = $250,000
+      - Superannuation (11%) = 11% x $250,000 = $27,500
+    - Note: above approach is conventional. Assessment can be higher if the evidence supports it. eg, a wealthy investor.
+  - See also: Actuarial Tables for Damages ([59,260]) in Personal Injury Litigation NSW database published by LexisAdvance.
+- NON ECONOMIC LOSS
+  - CSR Limited v Eddy (2005) 226 CLR 1
+    - [29] ... non-pecuniary losses such as pain and suffering, disfigurement, loss of limbs or organs, loss of the senses – sight, taste, hearing, smell and touch; and loss of the capacity to engage in hobbies, sport, work, marriage and child-bearing. Damages can be recovered in relation to these losses even if no actual financial loss is caused and even if the damage caused by them cannot be measured in money. (Gleeson CJ, Gummow and Heydon JJ)
+  - Pain and suffering
+    - Physical pain and mental anguish caused by mental illness and consciousness of severity of impact of injury.
+  - Loss of amenities of life
+      - Loss of capacity to pursue and feel the pleasures of life: hobbies, interests, sports & activities, sexual relations, communicate with family, provide domestic services, etc.
+  - Loss of expectation of life
+    - Shortened life span
+  - Disfigurement
+  - NON-ECONOMIC/PECUNIARY LOSS
+    - Few rules apply to an assessment other than “reasonableness”.
+    - Trial judge has wide discretion to award damages – not bound by decisions in prior cases. 
+    - Typically awarded as a single lump-sum, except for loss of expectation of life.
+    - No limits on assessment.
+    - Sharman v Evans (1977) 138 CLR 563
+      - It is in this field that there exists the need to recall what has often been said about fairness, moderation and the undesirability of striving to provide an injured plaintiff with “perfect” compensation. The warning against attempting perfectly to compensate means, we think, in the case of pecuniary loss, no more than the need to make allowance for contingencies, for the vicissitudes of life, compensating for probable rather than for merely speculative detriments. But when a non-pecuniary detriment is in question the injunction against “perfect” compensation means rather more. It cannot refer to the exclusion of all question of punishment of the wrongdoer; the word “compensation” standing on its own would be sufficient to do this; rather is it designed to remind that the maiming of a plaintiff and its consequences cannot wholly be made good by an award of damages and that the recognition of this fact is to be no occasion for any instinctive response that no amount is too large to atone for the plaintiff's suffering. ... [continued]
+      - …Such a response will be unfair to the defendant and may be of little advantage to the plaintiff; many consequences of injury are not capable of remedy by the receipt of damages, particularly those of the most personal character—the loss of the opportunity of a fulfilling marriage, of parenthood, of sexual satisfaction, of the realization of ambitions. It is very much at these detriments that the warning against any attempt at “perfect” compensation must be aimed. The authorities also require, as does good sense, that to the extent that damages awarded under other heads produce freedom from economic uncertainty and the availability of funds for pleasurable activities, the less will be the loss to be compensated under this head. This will be of particular relevance when a considerable sum is assessed for lost earning capacity.” (Gibbs and Stephen JJ; Jacobs J agreeing)
+  - Skelton v Collins (1966) 115 CLR 94
+    - “The expression “loss of the amenities of life” is a loose expression but as a head of damages in personal injury cases it is intended to denote a loss of the capacity of the injured person consciously to enjoy life to the full as, apart from his injury, he might have done. It may be said, of course, that a person who is completely incapacitated as a result of his injuries suffers such a loss whether or not his injuries are of such a character to render him insensible to his loss. But, in my view, a proper assessment can be made only upon a comparison of the condition which has been substituted for the victim's previously existing capacity to enjoy life and where the mind is, as it were, willing and the body incapable there is, in my view, a much higher degree of loss than where the victim is completely insensible to his lost capacity. Perhaps, in other words, it may be said that a person who is obliged for the rest of his life to live with his incapacity, fully conscious of the limitations which it imposes upon his enjoyment of life, is entitled to greater compensation than one who, although deprived of his former capacity is spared, by insensibility, from the realization of his loss and the trials and tribulations consequent upon it.” (Taylor J)
+    - “... since none can form any opinion as to what would have been the experience through which the victim would have lived if he had not suffered the injury, that which has to be measured against money is not only different from money but cannot itself be known and therefore cannot be measured at all. For this reason it is simply impossible to select any substantial figure as compensation for the loss of years of living (as distinguished from the mental distress due to realization of the loss) and feel any degree of satisfaction with it as fair compensation.” (Kitto J)
+- AGGRAVATED & EXEMPLARY
+  - AGGRAVATED DAMAGES
+    - Lamb v Cotogno (1987) 164 CLR 1
+      - “Aggravated damages, in contrast to exemplary damages, are compensatory in nature, being awarded for injury to the plaintiff's feelings caused by insult, humiliation and the like.” (8, The Court)
+    - Appleton v Garrett [1996] PIQR 1, 4 
+      - “... where the manner in which the wrong was committed was such as to injure the plaintiff’s proper feelings of pride and dignity or gave rise to humiliation, distress, insult or pain. Examples of the sort of conduct which would lead to these forms of intangible loss were conduct which was offensive or which was accompanied by malevolence, spite, malice, insolence or arrogance.” (Dyson J)
+  - AGGRAVATED DAMAGES (TORT)
+    - Availability:
+      - Intentional torts (trespass to land, assault/battery, false imprisonment)
+      - Less clear if they are available for negligence and nuisance.
+    - Not available:
+      - breach of contract.
+      - Personal injury resulting from negligence (Civil Liability Act s 21)
+      - Similar to damages for non-economic loss, but must be pleaded separately: 
+        - Uniform Civil Procedure Rules 2005 (NSW) r 15.8.
+    - If awarded, the judge must identify the amount and separate it from an award for non-economic loss.
+  - EXEMPLARY DAMAGES
+    - Uren v John Fairfax (1965-1966) 117 CLR 118
+      - “The formal distinction is ... that aggravated damages are given to compensate the plaintiff when the harm done to him by a wrongful act was aggravated by the manner in which the act was done: exemplary damages, on the other hand, are intended to punish the defendant, and presumably to serve one or more of the objects of punishment — moral retribution or deterrence.”
+    - New South Wales v Ibbett (2006) 229 CLR 638
+      - [83] ... The difference is that in the case of aggravated damages the assessment is made from the point of view of the Plaintiff and in the case of exemplary damages the focus is on the conduct of the Defendant. ... (Spigelman CJ)
+    - Gray v Motor Accidents Commission (1998) 196 CLR 1
+      - [12] Exemplary damages are awarded rarely. They recognise and punish fault, but not every finding of fault warrants their award. Something more must be found.
+      - …
+      - [14] Because the kinds of case in which exemplary damages might be awarded are so varied, it may be doubted whether a single formula adequately describes the boundaries of the field in which they may properly be awarded. Nevertheless, the phrase adopted by Knox CJ in Whitfeld v De Lauret & Co Ltd of "conscious wrongdoing in contumelious disregard of another's rights" describes at least the greater part of the relevant field. (Gleeson CJ, McHugh, Gummow and Hayne JJ)
+    - Available for most torts when the defendant has engaged in “conscious wrongdoing in contumelious disregard”.
+    - Only available in negligence if the defendant’s negligence was a deliberate negligent act.
+    - Not available for:
+      - Breach of contract.
+      - Personal injury damages arising from negligence (Civil Liability Act s 21)
+    - Gray v Motor Accidents Commission (1998) 196 CLR 1
+      - [22] First, exemplary damages could not properly be awarded in a case of alleged negligence in which there was no conscious wrongdoing by the defendant. ... But there can be cases, framed in negligence, in which the defendant can be shown to have acted consciously in contumelious disregard of the rights of the plaintiff or persons in the position of the plaintiff. ... (Gleeson CJ, McHugh, Gummow and Hayne JJ)
+    - New South Wales v Ibbett (2005) 65 NSWLR 168
+      - [236] Fifthly, the intention of exemplary damages is that they will cause a “smart or sting”: Lamb, 164 CLR at 10. As was stated by Palmer J in Digital Pulse Pty Ltd v Harris (2002) 166 FLR 421 at [133], “they must not merely irritate, they must sting”. For that reason, awards should not generally be for an amount which is nominal, or insignificant. … (Basten JA)
+    - XL Petroleum (NSW) Pty Ltd v Caltex Oil (Australia) Pty Ltd (1985) 155 CLR 448
+      - “As an award of exemplary damages is intended to punish the defendant for conduct showing a conscious and contumelious disregard for the plaintiff’s rights and to deter him from committing like conduct again, the considerations that enter into the assessment of exemplary damages are quite different from the considerations that govern the assessment of compensatory damages. There is no necessary proportionality between the assessment of the two categories.” (471, Brennan J)
+    - Gray v Motor Accidents Commission (1998) 196 CLR 1
+      - [40] Where, as here, the criminal law has been brought to bear upon the wrongdoer and substantial punishment inflicted, we consider that exemplary damages may not be awarded. We say "may not" because we consider that the infliction of substantial punishment for what is substantially the same conduct as the conduct which is the subject of the civil proceeding is a bar to the award; the decision is not one that is reached as a matter of discretion dependent upon the facts and circumstances in each particular case. (Gleeson CJ, McHugh, Gummow and Hayne JJ)
+    - Fontin v Katapodis (1962) 108 CLR 177 
+      - “In a proper case the damages recoverable are not limited to compensation for the loss sustained but may include exemplary or punitive damages as, for example, where the defendant has acted in a high-handed fashion or with malice. But the rule by which the defendant in an action in which exemplary damages are recoverable is entitled to show that the plaintiff's own conduct was responsible for the commission of the tortious act and to use this fact to mitigate damages has no application to damages awarded by way of compensation. It operates only to prevent the award of exemplary damages or to reduce the amount of such damages which, but for the provocation, would have been awarded.”
+      - (Owen J, Dixon CJ agreeing)
+  - OFTEN AWARDED WITH AGGRAVATED DAMAGES
+    - Often aggravated and exemplary damages are awarded together because the defendant’s punishable conduct aggravates the plaintiff’s response to the wrong.
+    - New South Wales v Ibbett (2006) 229 CLR 638
+      - Police trespassed on the 69-year old plaintiff’s property and unlawfully arrested her son. A gun was pointed at her. 
+      - The plaintiff successfully argued that the State was vicariously liable for trespass to property and assault.
+      - Aggravated damages awarded to compensate her feelings of fear, affront and humiliation. 
+      - Exemplary damages awarded to punish the police. [83] ... it is relevant to note that the matters to which I have referred as justifying an award of exemplary damages are also pertinent, as is often the case, to an award of aggravated damages. (Spigelman CJ)
+  - AGGRAVATED/EXEMPLARY DAMAGES UNDER THE CIVIL LIABILITY ACT
+    - Civil Liability Act 2002 (NSW)
+      - Section 21 – Limitation on exemplary, punitive and aggravated damages
+    - In an action for the award of personal injury damages where the act or omission that caused the injury or death was negligence, a court cannot award exemplary or punitive damages or damages in the nature of aggravated damages.
+## Week 5: Personal injury under the Civil Liability Act
+
+- Key vocabulary in this topic
+  - Discount rate (CLA s 14): A percentage applied to calculate the present-day value of loss that will occur in the future.
+  - Earning capacity: The plaintiff's ability to generate income.
+  - Economic loss: Actual out of pocket expenses incurred - or that will be incurred - to meet the reasonable needs of an injured plaintiff. For example, medical costs, therapy costs, the cost of modifying the home or office, etc. 
+  - Gratuitous attendant care services damages (CLA s 15): The statutory 'equivalent' of Griffiths v Kerkemeyer damages, which are awarded to compensate the need for medical or nursing care, which is met gratuitously by third parties.
+  - 'Injury' (CLA s 11): means personal injury and includes the following— (a)pre-natal injury, (b) impairment of a person’s physical or mental condition, (c) disease.
+  - Injured feelings: Unpleasant emotions - such as distress, anxiety, anger, humiliation - but which do not rise to a diagnosable psychiatric condition. Not considered an 'injury' at common law.
+  - Non-economic loss (CLA s 16): A form of compensable loss caused by the injury which has no economic value. Consists of damages for pain and suffering, loss of amenities of life, disfigurement and loss of expectation of life
+  - Personal injury: Physical harm, such as bleeding, wounding, bruising, broken bones, disease, etc or other physical impairment. Mental injury amounting to a recognisable psychiatric condition
+  - 'Personal injury damages' (CLA s 11): Means damages that relate to the death of or injury to a person.
+  - Vicissitudes of life: Usually, a deduction off an award of damages for lost future earning capacity, to reflect the likelihood that - even if the plaintiff were not injured - the 'vicissitudes of life' might have prevented the plaintiff from fully realising his or her earning capacity.
+- Introduction
+  - Any claim for damages consists of 3 ‘building blocks’:
+    - 1. Causation 
+    - 2. Scope of liability 
+    - 3. Assessment
+      - a) Personal injury (Common law), aggravated and exemplary damages. 
+      - b) Personal injury (CLA), collateral benefits, possibilities, interest, tax. 
+      - c) Property damage, trespass to land, economic torts.
+      - d) Breach of contract.
+  - PERSONAL INJURY (CIVIL LIABILITY ACT)
+    - The default rules for the assessment of personal injury damages are the common law rules: they apply unless modified or repealed by legislation.
+    - In NSW, the Civil Liability Act 2002 (NSW) Pt 2 has changed the assessment of personal injury damages in most causes of action. Critical question: when does the Civil Liability Act apply?
+  - CIVIL LIABILITY ACT S 11A
+    - Part 2 – Personal injury damages
+      - Section 11A – Application of Part
+        - 1) This Part applies to and in respect of an award of personal injury damages, except an award that is excluded from the operation of this Part by section 3B.
+        - 2) This Part applies regardless of whether the claim for the damages is brought in tort, in contract, under statute or otherwise.
+        - 3) A court cannot award damages, or interest on damages, contrary to this Part.
+      - Section 3B – Civil liability excluded from Act
+        - (1) The provisions of this Act do not apply to or in respect of civil liability (and awards of damages in those proceedings) as follows:
+          - (a) civil liability of a person in respect of an intentional act that is done by the person with intent to cause injury or death or that is sexual assault or other sexual misconduct committed by the person—the whole Act except:
+            - (i) section 15B and section 18 (1) (in its application to damages for any loss of the kind referred to in section 18 (1)(c)), and …
+      - Section 11 – Definitions
+        - In this Part:
+          - injury means personal injury and includes the following:
+            - (a) pre-natal injury,
+            - (b) impairment of a person’s physical or mental condition,
+            - (c) disease.
+          - personal injury damages means damages that relate to the death of or injury to a person.
+      - Moore v Scenic Tours Pty Ltd (2020) 268 CLR 326
+        - (Kiefel CJ, Bell, Gageler, Keane, Nettle and Gordon JJ)
+          - [41] Disappointment at a breach of a promise to provide recreation, relaxation and peace of mind is not an "impairment" of the mind or a "deterioration" or "injurious lessening or weakening" of the mind . Frustration and indignation as a reaction to a breach of contract under which the promisor undertook for reward to provide a pleasurable and relaxing holiday is, of itself, a normal, rational reaction of an unimpaired mind.
+        - [48] ... Flight Centre Ltd v Louw. In that case the defendants claimed damages ... for disappointment and distress in relation to an overseas holiday that was disrupted by construction noise and inaccessibility of parts of a resort by reason of the construction activity. The defendants had not ... suffered any physical injury. Barr A J held that “the inconvenience, distress and disappointment experienced ... constituted non economic loss for the purposes of s 3 [of the CLA], being pain and suffering ... [T]hey constituted impairment of the mental condition of [the defendants] and so amounted to personal injury [under Pt 2 of the CLA].” ... In this regard, Flight Centre was incorrectly decided. (Kiefel CJ, Bell, Gageler, Keane, Nettle and Gordon JJ)
+      - HEADS OF LOSS
+        - Personal injury	
+          - Actual financial (economic) loss
+          - Non economic loss
+          - Loss of earning capacity
+- Economic loss
+  - CSR Limited v Eddy (2005) 226 CLR 1
+    - [31] ... actual financial loss, for example, ambulance charges; charges for medical, hospital and professional nursing services; travel and accommodation expenses incurred in obtaining those services; the costs of rehabilitation needs, special clothing and special equipment; the costs of modifying houses; the costs of funds management; and the costs of professionally supplied home maintenance services. It is not necessary for the costs actually to have been incurred by the time of the trial, but it is necessary that they will be incurred. (Gleeson CJ, Gummow and Heydon JJ) 
+  - SECTION 15
+    - Section 15 – Gratuitous attendant care services
+      - 1) In this section: 
+        - attendant care services means any of the following:
+          - a) services of a domestic nature,
+          - b) services relating to nursing,
+          - c) services that aim to alleviate the consequences of an injury. 
+        - gratuitous attendant care services means attendant care services: 	
+          - a) that have been or are to be provided by another person to a claimant, and 
+          - b) for which the claimant has not paid or is not liable to pay.
+      - (2) No damages may be awarded to a claimant for gratuitous attendant care services unless the court is satisfied that:
+        - (a) there is (or was) a reasonable need for the services to be provided, and
+        - (b) the need has arisen (or arose) solely because of the injury to which the damages relate, and
+        - (c) the services would not be (or would not have been) provided to the claimant but for the injury.
+      - (3) Further, no damages may be awarded to a claimant for gratuitous
+        - attendant care services unless the services are provided (or to be provided):
+          - (a) for at least 6 hours per week, and
+          - (b) for a period of at least 6 consecutive months
+  - GRATUITOUS ATTENDANT CARE SERVICES
+Item
+Period
+Duration
+Intensity
+1
+15/9/05 to 12/10/05
+27 days (4 weeks)
+35hrs week
+2
+27/10/05 to 11/11/05
+15 days (2 weeks)
+35hrs week
+3
+29/12/05 to 1/3/06
+9 weeks
+24hrs week
+4
+2/3/06 to 27/12/06
+43 weeks
+10hrs week
+5
+1/1/07 to trial
+[More than 6 months]
+< 6 hrs week
+6
+Future
+[More than 6 months]
+< 6 hrs week
+    - If the plaintiff receives GACS for at least 6h/week for at least 6 consecutive months, then the plaintiff can claim damages for that period + any other periods when GACS are/will be provided for 6h/week. 
+    - Still unclear whether the 6 consecutive months must be at a minimum intensity of 6h/week.
+  - Section 15 – Gratuitous attendant care services
+    - (4) If the services are provided or are to be provided for not less than 40 hours per week, the amount of damages that may be awarded for gratuitous attendant care services must not exceed:
+      - (a) the amount per week comprising the amount estimated by the Australian Statistician as the average weekly total earnings of all employees in New South Wales ...
+    - (5) If the services are provided or are to be provided for less than 40 hours per week, the amount of those damages must not exceed the amount calculated at an hourly rate of one-fortieth of the amount determined in accordance with subsection (4) (a) or (b), as the case requires.
+    - (6) Except as provided by this section, nothing in this section affects any other law relating to the value of attendant care services.
+- EARNING CAPACITY
+  - General approach to an assessment of lost earning capacity continues to apply:
+    - Both past and future earning capacity can be claimed.
+    - Compare:
+      - What the plaintiff would have earned; with
+      - What the plaintiff is likely to earn after the injury.
+    - Typically, a net weekly income is multiplied across the relevant periods.
+    - The plaintiff must satisfy the court that the assumptions underpinning the claim are sound.
+  - SECTION 12
+    - Section 12 – Damages for past or future economic loss—maximum for loss of earnings etc
+      - (1) This section applies to an award of damages:
+        - (a) for past economic loss due to loss of earnings or the deprivation or impairment of earning capacity, or
+        - (b) for future economic loss due to the deprivation or impairment of earning capacity, or
+        - (c) for the loss of expectation of financial support.
+      - (2) In the case of any such award, the court is to disregard the amount (if any) by which the claimant’s gross weekly earnings would (but for the injury or death) have exceeded an amount that is 3 times the amount of average weekly earnings at the date of the award.
+      - (3) For the purposes of this section, the amount of average weekly earnings at the date of an award is—
+        - (a) the amount per week comprising the amount estimated by the Australian Statistician as the average weekly total earnings of all employees in New South Wales for the most recent quarter occurring before the date of the award for which such an amount has been estimated by the Australian Statistician and that is, at that date, available to the court making the award, or
+        - (b) if the Australian Statistician fails or ceases to estimate the amount referred to in paragraph (a), the prescribed amount or the amount determined in such manner or by reference to such matters, or both, as may be prescribed.
+      - Tuohey v Freemasons Hospital (2012) 37 VR 180
+        - [22] There is no reason why the court should depart from the literal meaning of the words in s [12](2), being one which also accords with their usage at common law. The “amount” to be disregarded in s [12](2) is that part (if any) of the first component in the common law process of assessing damages for economic loss — namely, the “before”, “without” or “but for” injury earnings component which exceeds the capped amount. From that resultant figure, the “after” or “with injury” earnings of the claimant are deducted and a lump sum calculated in order to determine the loss of earning capacity. This interpretation conforms with the purpose of the subsection as explained in the explanatory memorandum. (Redlich JA, Mandie JA and Kyrou AJA agreeing)
+      - Example 1
+        - Assume:
+          - 3 x average weekly earnings = $5,000 per week.
+          - Plaintiff’s pre-injury earnings = $8,000 per week.
+          - Plaintiff’s after-injury earnings = $6,000 per week.
+        - Calculation of value of lost earning capacity:
+          - $5,000 per week (capped by s 12(2)) - $6,000 per week = $0 per week
+      - Example 2
+        - Assume:
+          - 3 x average weekly earnings = $5,000 per week.
+          - Plaintiff’s pre-injury earnings = $8,000 per week.
+          - Plaintiff’s after-injury earnings = $4,000 per week.
+        - Calculation of value of lost earning capacity:
+          - $5,000 per week (capped by s 12(2)) - $4,000 per week = $1,000 per week.
+    - [13.64] On the other hand, we consider it important to impose a cap on damages for loss of earning capacity. Such a cap provides high earners with a desirable incentive to insure against loss of the capacity to earn more than the amount of the cap. ...
+    - [13.65] Table 5 shows that, currently, three times average annual full-time adult ordinary time earnings (FTOTE) in Australia is $135,486 and only 1.4 per cent of employees earn more than this amount. Twice FTOTE is $90,324 and only 2.4 per cent of employees earn more than this amount.
+    - [13.66] A cap of twice FTOTE would not affect a significant proportion of employees (only 2.4 per cent). In our view, persons who earn more than twice average weekly earnings can reasonably be expected to protect themselves against the effects of the proposed cap by insuring against loss of income above that amount. (Review of the Law of Negligence, Final Report, November 2002)
+  - SECTION 13
+    - Section 13 – Future economic loss—claimant’s prospects and adjustments
+      - (1) A court cannot make an award of damages for future economic loss unless the claimant first satisfies the court that the assumptions about future earning capacity or other events on which the award is to be based accord with the claimant’s most likely future circumstances but for the injury.
+      - (2) When a court determines the amount of any such award of damages for future economic loss it is required to adjust the amount of damages for future economic loss that would have been sustained on those assumptions by reference to the percentage possibility that the events might have occurred but for the injury.
+      - (3) If the court makes an award for future economic loss, it is required to state the assumptions on which the award was based and the relevant percentage by which damages were adjusted.
+    - Amoud v Al Batat [2009] NSWCA 333 (14 October 2009)
+      - [23] It is clear that the section is not a code, but assumes the continued operation of general law principles. Whether it merely encapsulates, rather than qualifying, the general law, and if the latter to what extent, is less clear. ... Subsection (1) is formulated as a prohibition on an award of damages for future economic loss, unless its terms are satisfied. The section imposes a burden of proof on the claimant to satisfy the court as to the matters identified in the provision. Those matters are twofold, namely: 
+        - a) the claimant’s most likely future circumstances but for the injury, and
+        - b) the assumptions about future earning capacity (and other events) which will form the basis of calculation.
+    - Section 13 – Future economic loss—claimant’s prospects and adjustments
+    - …
+      - (2) When a court determines the amount of any such award of damages for future economic loss it is required to adjust the amount of damages for future economic loss that would have been sustained on those assumptions by reference to the percentage possibility that the events might have occurred but for the injury.
+    - ...
+      - Statutory form of the ‘vicissitudes of life’.
+      - Conventional to deduct 15% but that can vary depending upon the evidence.
+    - The Nominal Defendant v Lane [2004] NSWCA 405 (17 November 2004)
+      - [64] I turn then to s [13]. Taking as the respondent’s most likely future circumstances employment as a nursing assistant, the award of damages for future economic loss was based on an “assumption” which accorded with that career path. Hence the $216,480. Section [13](2) then required adjustment. In its terms, s [13](2) required the $216,480 to be adjusted by reference to the percentage possibility that the future career path of employment as a nursing assistant might have occurred but for the injury. As described by McClellan AJA, there could be adjustment according to the contingency that the respondent would not have been fully employed as a nursing assistant. Having regard to Norris v Blake (No 2), in my view there could also be adjustment according to the contingency that the respondent would have been employed not as a nursing assistant but as an enrolled nurse. (Giles JA, Ipp and Tobias JJA agreeing)
+      - [65] Nothing in s [13](2) restricted the adjustment to a downward adjustment. ... In my view, the words “possibility that the events ... might have occurred” encompass percentage adjustments upwards or downwards depending on the facts. A percentage possibility that the plaintiff’s future circumstances would have been better than those found as his most likely future circumstances calls for an upwards adjustment. If on the other hand the possibility is of worse future circumstances an adjustment downwards will be made.
+      - [66] Under s [13](2), the adjustment presently in question strictly should have been arrived at through a percentage. Why the legislature should so require, rather than leave available the no more unfathomable course taken in Norris v Blake (No 2), it is difficult to see. (Giles JA, Ipp and Tobias JJA agreeing)
+    - IAG Limited v Mares [2016] NSWSC 1792
+      - [69] The relevant common law principles have been encapsulated within the following formulation ... : 
+        - 1) Assess the “most likely” of the possible future economic circumstances facing the claimant but for the accident (including type of employment, duration of employment and remuneration); [CLA s 13(1)]
+        - 2) Assess the claimant’s economic prospects as a consequence of the accident; [To compare with the what would have been the plaintiff’s ‘most likely’ future.]
+        - 3) Compensate the claimant for the difference between (1) and (2) [ie, calculate the present day lump sum value by applying the 5% discount rate in s 14], including, where appropriate, through the use of a buffer; [Buffers are not discounted]
+        - 4) Adjust (3) by an appropriate percentage (including, where appropriate, by 0%) for vicissitudes, to reflect the possibility that the claimant may not have achieved (1) even had the accident not occurred; [CLA s 13(2)]
+        - 5) Include a statement of the assumptions made as the claimant’s most likely future circumstances and the appropriate percentage adjustment ... [CLA s 13(3)] (Hall J)
+    - Pollard v Baulderstone Hornibrook Engineering Pty Ltd [2008] NSWCA 99 (27 May 2008)
+      - [84] As to the future economic loss, it is appropriate to award damages by way of a buffer, including in a case such as this where damages are to be determined pursuant to the Civil Liability Act, when the impact of the injury upon the economic benefit from exercising earning capacity after injury is difficult to determine. In such a case, the Court still undertakes a comparison between the economic benefits the plaintiff derived from exercising earning capacity before injury and the economic benefit derived from exercising earning capacity after injury, although the difference cannot be determined otherwise than by the broad approach of a buffer: ... . (McColl JA)
+  - SECTION 14
+    - Section 14 – Damages for future economic loss—discount rate
+      - (1) If an award of damages is to include any component, assessed as a lump sum, for future economic loss of any kind, the present value of that future economic loss is to be determined by adopting the prescribed discount rate.
+      - (2) The prescribed discount rate is:
+        - (a) a discount rate of the percentage prescribed by the regulations, or
+        - (b) if no percentage is so prescribed—a discount rate of 5%.
+      - (3) Except as provided by this section, nothing in this section affects any other law relating to the discounting of sums awarded as damages.
+  - SECTION 15B
+    - LOSS OF CAPACITY TO PROVIDE DOMESTIC SERVICES
+      - Compensation for plaintiffs who provide unpaid domestic care to other family members.
+      - Recognises that the capacity to provide domestic services has economic value, even though it:
+        - is unpaid;
+        - results in loss to others; and
+        - does not necessarily create a need for the plaintiff.
+      - Formerly available at common law after Sullivan v Gordon (1999) 47 NSWLR 319.
+      - No longer available at common law since CSR Limited v Eddy (2005) 226 CLR 1.
+    - Section 15B – Damages for loss of capacity to provide domestic services
+      - Definitions
+      - (1) In this section: 
+        - dependants, in relation to a claimant, means:
+          - (a) such of the following persons as are wholly or partly dependent on the claimant at the time that the liability in respect of which the claim is made arises:
+            - (i) the husband or wife of the claimant,
+            - (ii) a de facto partner of the claimant,
+            - (iii) a child, grandchild, sibling, uncle, aunt, niece, nephew, parent or grandparent of the claimant (whether derived through subparagraph (i) or (ii), adoption or otherwise),
+            - (iv) any other person who is a member of the claimant’s household, and 
+          - (b) any unborn child of the claimant (whether derived through paragraph (a) (i) or (ii), adoption or otherwise) at the time that the liability in respect of which the claim is made arises and who is born after that time.
+        - gratuitous domestic services means services of a domestic nature for which the person providing the service has not been paid or is not liable to be paid.
+      - (2) When damages may be awarded
+        - Damages may be awarded to a claimant for any loss of the claimant’s capacity to provide gratuitous domestic services to the claimant’s dependants, but only if the court is satisfied that:
+          - (a) in the case of any dependants of the claimant of the kind referred to in paragraph (a) of the definition of dependants in subsection (1)—the claimant provided the services to those dependants before the time that the liability in respect of which the claim is made arose, and
+          - (b) the claimant’s dependants were not (or will not be) capable of performing the services themselves by reason of their age or physical or mental incapacity, and …
+          - (c) there is a reasonable expectation that, but for the injury to which the damages relate, the claimant would have provided the services to the claimant’s dependants:
+            - (i) for at least 6 hours per week, and
+            - (ii) for a period of at least 6 consecutive months, and …
+          - (d) there will be a need for the services to be provided for those hours per week and that consecutive period of time and that need is reasonable in all the circumstances.
+      - (4) Determination of amount of damages
+        - The amount of damages that may be awarded for any loss of the claimant’s capacity to provide gratuitous domestic services must not exceed the amount calculated at the same hourly rate as that provided by section 15(5) regardless of the number of hours involved
+          - Typically, the plaintiff receives the market rate of the service they provided to their dependant.
+          - Hourly rate is capped at same maximum rate for gratuitous attendant care services (CLA s 15(5)).
+      - (10) Damages may not be awarded if they can be recovered as damages for attendant care services
+        - Damages may not be awarded to a claimant under this section in respect of any loss of the claimant’s capacity to provide gratuitous domestic services to the claimant’s dependants if (and to the extent that):
+          - (a) the claimant could recover damages for gratuitous attendant care services (within the meaning of section 15) in respect of the same injury that caused the loss, and
+          - (b) the provision of such attendant care services to the claimant also resulted (or would also result) in the claimant’s dependants being provided with the domestic services that the claimant has lost the capacity to provide.
+      - Section 15B(10) example
+        - Prior to injury: married parent (plaintiff) looks after child.
+        - The injury:
+          - Creates a need for him/her to be looked after; and
+          - Destroys his/her capacity to look after the child.
+        - After the injury, partner of plaintiff:
+          - Provides gratuitous care to plaintiff; and at same time
+          - Looks after the dependant child (ie, takes over from plaintiff).
+        - Plaintiff cannot claim both:
+          - His/her need for gratuitous attendant care services (s 15); and
+          - Lost capacity to look after child (s 15B).
+  - SECTION 15C
+    - Section 15C – Damages for loss of superannuation entitlements
+      - 1) The maximum amount of damages that may be awarded for economic loss due to the loss of employer superannuation contributions is the relevant percentage of damages payable (in accordance with this Part) for the deprivation or impairment of the earning capacity on which the entitlement to those contributions is based.
+      - 2) The relevant percentage is the percentage of earnings that is the minimum percentage required by law to be paid as employer superannuation contributions.
+    - Najdovski v Crnojlovic (2008) 72 NSWLR 728
+      - [53] It has generally been assumed that the calculation required takes as the “relevant percentage” the figure specified in the Superannuation Guarantee (Administration) Act 1992 (Cth) which has, since the 2002/2003 tax year, been 9% of the employee’s gross ordinary time earnings: 
+        - see Zorom Enterprises Pty Ltd v Zabow [2007] NSWCA 106 at [72] (Campbell JA). (For ease of calculation, and because damages are assessed by reference to earnings net of tax, the calculation is sometimes undertaken on the basis of 11% of net earnings.)
+- Non-economic loss
+  - Section 3 – Definitions
+    - non-economic loss means any one or more of the following:
+      - (a) pain and suffering,
+      - (b) loss of amenities of life,
+      - (c) loss of expectation of life,
+      - (d) disfigurement.
+  - CIVIL LIABILITY ACT SS 16 – 17
+    - Section 16 – Determination of damages for non-economic loss
+      - (2) The maximum amount of damages that may be awarded for non-economic loss is $350,000 [but see s 17], but the maximum amount is to be awarded only in a most extreme case.
+    - Section 17 – Indexation of maximum amount relating to non- economic loss
+      - (1) The Minister is, on or before 1 October 2002 and on or before 1 October in each succeeding year, to declare, by order published on the NSW legislation website, the amount that is to apply, as from the date specified in the order, for the purposes of section 16
+      - (2). …
+      - (3) An amount declared for the time being under this section applies to the exclusion of the amount under section 16 (2)
+  - CIVIL LIABILITY (NON-ECONOMIC LOSS) ORDER 2010
+    - 3 Maximum amount of damages for non-economic loss
+      - It is declared that, on and from the date specified in Column 1 of the Table to this clause, the amount that is to apply for the purposes of section 16 (2) of the Civil Liability Act 2002 is the amount specified in Column 2 of that Table opposite that specified date.
+    - Table
+      - Column 1
+        - Operative date
+        - 1 October ... 
+      - Column 2
+        - Maximum amount of damages for non-economic loss
+          - Check the Order for current max
+  - CIVIL LIABILITY ACT S 16
+    - Section 16 – Determination of damages for non-economic loss
+      - Note. The following are the steps required in the assessment of non-economic loss in accordance with this section:
+      - Step 1: Determine the severity of the claimant’s non-economic loss as a proportion of a most extreme case. The proportion should be expressed as a percentage.
+      - Step 2: Confirm the maximum amount that may be awarded under this section for non-economic loss in a most extreme case. This amount is indexed each year under section 17.
+      - Step 3: Use the Table to determine the percentage of the maximum amount payable in respect of the claim. The amount payable under this section for non-economic loss is then determined by multiplying the maximum amount that may be awarded in a most extreme case by the percentage set out in the Table.
+      - Where the proportion of a most extreme case is greater than 33%, the amount payable will be the same proportion of the maximum amount.
+  - MOST EXTREME CASE
+    - Section 16 invites comparison with “a” most extreme case, not “the” most extreme case.
+    - There can be many “most extreme” cases.
+    - Matthews v Dean [1990] Aust Torts Report ¶81-037, 68,014
+      - ... No doubt Parliament recognised that comparisons of the extent of bodily injury must be odious hence the choice of language ‘A most extreme case’ (my emphasis) which avoids any requirement to apply the superlative by imagining the most extreme case and put that at the top of some grisly table of catastrophes. (Grove J)
+    - The process invites comparison and hypothecation.
+    - The trial judge must:
+      - Makes findings about the plaintiff’s case; and then
+      - Evaluate whether the case could be any more extreme and by how much.
+    - Taking into account the impact of the injury on the specific plaintiff.
+    - Southgate v Waterford (1990) 21 NSWLR 427, 440 – 441
+      - ‘This will require the judge to consider and make findings on the evidence relevant to those heads of damage formerly considered in the award of general damages. Then it is necessary for the judge to conceive 'a most extreme case'. Only for such a case may the maximum amount provided by [s 16] be awarded. The use of the indefinite article 'a' has already been noted. Opinions of what constitute 'a most extreme case ' will doubtless vary. ...’ (Gleeson CJ, Kirby P and Meagher JA)
+    - Thatcher v Charles (1961) 104 CLR 57, 71
+      - ... In theory it might seem that the most serious physical injuries should always attract the heaviest damages. Therefore it is sometimes suggested that damages given in cases of paraplegia should be regarded as at the top of a scale and used as a basis for other estimations. But that involves an erroneous hypothesis. Compensable loss depends not only on the severity of the physical injury but on the consequences for the individual. No two injuries are really the same; and the consequences of apparently similar injuries vary infinitely for different individuals. Thus amounts given in different cases may be harmonious in principle, although appearing disproportionate when the physical injuries alone are regarded. (Windeyer J)
+  - UNCONSCIOUS PLAINTIFF
+    - Manning v State of NSW [2005] NSWSC 958 (28 September 2005)
+      - [56] I am also not persuaded by the defendant’s submission that an assessment of non-economic loss is essentially a subjective exercise and that objective considerations should be given only minimal weight. That was certainly the situation under the common law. Under the Act, however, courts are required by s16 to follow a methodology of assessment which of necessity involves reference to a table specifying percentages and which implicitly invites a comparison with other similar injuries. In my opinion that approach injects an additional element of objectivity into the assessment of non-economic loss under the Act which was absent from the common law as considered in such cases as Skelton v Collins. (Hoeben J)
+      - [57] Taking those matters into consideration I am of the opinion that the plaintiff’s entitlement to damages for non-economic loss is much greater than that submitted on behalf of the defendant and goes well beyond a mere nominal assessment. I agree that the plaintiff’s reduced appreciation of what he has suffered and what he has lost is a factor to be properly taken into account in reducing the extent of the plaintiff’s entitlement to non-economic loss. Nevertheless, there is sufficient evidence to satisfy me that not only has the plaintiff suffered major and significant injuries in an objective sense but that he has some real appreciation, albeit not a complete appreciation, of his injuries and what he has lost. As indicated, every time he eats or seeks to ambulate he is reminded of his disabilities. I would assess the plaintiff’s entitlement to non-economic loss at 80% of a most extreme case ... . (Hoeben J)
+  - SHORTENED LIFESPAN
+    - Under the Civil Liability Act, “shortened life span” dealt with in procedure under s 16.
+      - ie, just a factor going to the assessment of a most extreme case – not an independent head of loss.
+  - CIVIL LIABILITY ACT S 17A
+    - Section 17A – Tariffs for damages for non-economic loss
+      - 1) In determining damages for non-economic loss, a court may refer to earlier decisions of that or other courts for the purpose of establishing the appropriate award in the proceedings.
+      - 2) For that purpose, the parties to the proceedings or their Australian legal practitioner may bring the court’s attention to awards of damages for non-economic loss in those earlier decisions.
+      - 3) This section does not alter the rules for the determination of other damages.
+- Interaction with common law
+  - PERSONAL INJURY CLAIMS AND OTHER LEGISLATION
+    - General rule: common law apply unless modified by legislation.
+    - Common law principles
+      - Personal Injury damages
+        - Economic loss
+          - Griffiths v Kerkemeyer (CLA s 15)
+        - Discount rate (CLA s 14)
+        - Interest (CLA s 18)
+          - Available under CPA 2005
+        - Earning capacity (CLA ss 12-13)
+          - Superannuation (CLA s 15C)
+          - Domestic capacity  (CLA s 15B)
+            - Not available at common law, but s 15B may still apply in a 'pure' common law claim. See s 3B.
+        - Non economic loss (CLA s 16)
+  - PERSONAL INJURY CLAIMS AND OTHER LEGISLATION
+    - As lawyers, you must be able to identify when a claim for personal injury damages will be regulated by legislation. You must be able to:
+      - Read legislation to identify when it applies; and
+      - Know the common law principles that underpin the claim.
+  - OVERVIEW
+    - Any claim for damages consists of 3 ‘building blocks’:
+      - 1. Causation 
+      - 2. Scope of liability 
+      - 3. Assessment
+        - a) Personal injury (Common law),  aggravated and exemplary damages: 
+        - b) Personal injury (CLA),  collateral benefits, possibilities, interest, tax. 
+        - c) Property damage, trespass to land, economic torts. 
+        - d) Breach of contract
+- Collateral benefits, Assessing possibilities, Interest & tax
+  - Key vocabulary in this topic
+    - Collateral benefit: A benefit bestowed on the plaintiff by a third party because of the defendant's wrong, which ameliorates the loss caused by the defendant's wrong. For example, an insurance payout.
+    - Loss of chance / opportunity: A type of loss where a plaintiff is not able to prove that the defendant's wrong caused the plaintiff to lose the full value of a certain commercial benefit because there is uncertainty about whether the plaintiff would have realised it, but it is clear that the defendant's wrong at least denied the plaintiff the opportunity to pursue that benefit.
+  - COLLATERAL BENEFITS
+    - Should the plaintiff account for collateral benefits received from third parties that compensate for the defendant’s wrong?
+      - Examples:
+        - Workers’ compensation
+        - Sick pay
+        - Social security
+        - Insurance
+        - Gifts and charity
+    - GENERAL TEST
+      - National Insurance Company of New Zealand Ltd v Espagne (1961) 105 CLR 569
+        - In assessing damages for personal injuries, benefits that a plaintiff has received or is to receive from any source other than the defendant are not to be regarded as mitigating his loss, if: (a) they were received or are to be received by him as a result of a contract he had made before the loss occurred and by the express or implied terms of that contract they were to be provided notwithstanding any rights of action he might have; or (b) they were given or promised to him by way of bounty, to the intent that he should enjoy them in addition to and not in diminution of any claim for damages. The first description covers accident insurances and also many forms of pensions and similar benefits provided by employers: in those cases it is immaterial that, by subrogation or otherwise, the contract may require a refund of moneys paid, or an adjustment of future benefits, to be made after the recovery of damages. ... (599-600, Windeyer J)
+  - LEGISLATIVE PAYOUTS
+    - A matter of statutory interpretation: did the Parliament intend that the payments reduce the defendant’s liability? 
+    - Many expressly require the plaintiff reimburse the government if later compensated by the defendant.
+      - Worker’s compensation must be repaid.
+      - Medicare benefits must be repaid.
+      - Centrelink benefits may have to be repaid.
+  - INSURANCE
+    - Whether insurance payments reduce the defendant’s liability depends upon the facts.
+    - Often, insurance payments do not reduce the defendant’s liability:
+      - The terms of the insurance may indicate that the payments are not intended to reduce the defendant’s liability.
+      - The terms of the insurance may oblige the plaintiff to repay claims paid if the plaintiff claims damages from the defendant.
+      - The law of subrogation may give the insurer the right to sue the defendant for claims paid.
+      - Courts are reluctant to discourage plaintiffs from prudently protecting their interests by insuring against riskWhether insurance payments reduce the defendant’s liability depends upon the facts.
+    - Obligations if entitled to Compensation
+      - Subject to the following, a Customer who has, or may have, a right to receive Compensation in relation to an injury, must: 
+        - Inform Us as soon as the Customer knows or suspects that such a right exists;
+        - Inform Us of any decision of the Customer to Claim for Compensation;
+        - Include in any Claim for Compensation the full amount of all expenses for which Benefits are, or would otherwise be, payable;
+        - Take all reasonable steps to pursue the Claim for Compensation to Our reasonable satisfaction;
+        - Keep Us informed of and updated as to the progress of the Claim for Compensation;
+        - Inform Us immediately upon the determination or settlement of the Claim for Compensation; and
+        - Repay Us any Benefits paid in respect of the injury. 
+      - Benefits are not payable for expenses incurred (including after the Customer has received any Compensation) in relation to an injury where the Customer has received, or may be entitled to receive, Compensation in respect of that injury. 
+      - Where We reasonably form the view that a Customer has or may have a right to make a Claim for Compensation in respect of an injury, but that right has not been established, We may withhold payment of Benefits for expenses incurred in relation to that injury.
+  - GIFTS / CHARITY
+    - National Insurance Company of New Zealand Ltd v Espagne (1961) 105 CLR 569, 599-600
+      - ‘... The second description covers a variety of public charitable aid and some forms of relief given by the State as well as the produce of private benevolence. In both cases the decisive consideration is, not whether the benefit was received in consequence of, or as a result of the injury, but what was its character: and that is determined, in the one case by what under his contract the plaintiff had paid for, and in the other by the intent of the person conferring the benefit. The test is by purpose rather than by cause.’ (600, Windeyer J)
+  - SICK PAY
+    - Graham v Baker (1961) 106 CLR 340
+      - ‘To be more precise, however, an injured plaintiff recovers not merely because his earning capacity has been diminished but because the diminution of his earning capacity is or may be productive of financial loss. And if, notwithstanding such impairment, both his contract of employment and his right to ordinary wages continue, how can it be said that his impairment has resulted in any loss so far as his earning capacity is concerned?’ (347, Dixon CJ, Kitto and Taylor JJ)
+- Assessing possibilities
+  - LOSS OF OPPORTUNITY
+    - Plaintiffs can be compensated for lost opportunities to realise a commercial benefit, which have been lost because of the defendant’s wrong. 
+    - Not possible to sue for a lost opportunity at a better medical outcome: Tabet v Gett (2012) 240 CLR 537.
+    - Lost opportunities can be claimed in:
+      - Tort
+      - Contract
+      - Misleading and deceptive conduct.
+    - Sellars v Adelaide Petroleum NL (1994) 179 CLR 332
+      - ‘ ... the general standard of proof in civil actions will ordinarily govern the issue of causation and the issue whether the applicant has sustained loss or damage. Hence the applicant must prove on the balance of probabilities that he or she has sustained some loss or damage. However, in a case such as the present, the applicant shows some loss or damage was sustained by demonstrating that the contravening conduct caused the loss of a commercial opportunity which had some value (not being a negligible value), the value being ascertained by reference to the degree of probabilities or possibilities. It is no answer to that way of viewing an applicant's case to say that the commercial opportunity was valueless on the balance of probabilities because to say that is to value the commercial opportunity by reference to a standard of proof which is inapplicable.’ (355, Mason CJ, Dawson, Toohey and Gaudron JJ)
+    - Assessment
+      - The approach to measuring the value of a loss of chance changes from case to case and depends upon the evidence. A simple approach is:
+        - Assess the likelihood of the chance being realised as a percentage; and
+        - Apply that percentage to the full value of the benefit.
+          - Eg: a 40% chance of realising a benefit worth $10,000 = $4,000 damages.
+      - Damages for lost earning capacity = typical example of assessing a lost opportunity.
+        - Adelaide Petroleum NL v Poseidon Ltd (1990) 98 ALR 431
+          - ‘In this case the loss is measured by reference to the benefits that were forgone when [Adelaide] decided not to continue [its] negotiations with [Pagini]. But the actual loss can-not be assessed by simply equating it to the benefit forgone. There was no certainty and many contingencies attaching to the successful conclusion of the [Pagini] transaction. It is appropriate, however, to take as a base for assessment, the amount of the benefit forgone on the assumption that an agreement with [Pagini] would have been concluded in June 1988.’ (528, French J)
+          - Affirmed in Sellars v Adelaide Petroleum NL (1994) 179 CLR 332
+    - NEGATIVE CONTINGENCIES
+      - The defendant may argue that negative contingencies might have:
+        - Prevented the plaintiff from realising the benefit for which they are claiming; or
+        - Caused the same loss anyway
+      - hence, the plaintiff’s claim should be reduced to reflect those possible negative contingencies.
+      - The discount for the vicissitudes of life is an example of the routine application of a negative contingency.
+      - If the plaintiff has a pre-existing illness, the defendant will submit that personal injury damages should be (further) reduced to reflect the possibility that the illness would have caused the same loss. 
+      - Not limited to tort claims: see Amann Aviation
+      - Malec v JC Hutton Pty Ltd (1990) 169 CLR 638
+        - 1975-77 
+          - Plaintiff injured by defendant – causes neurosis – destroys earning capacity.
+        - 1982 
+          - Independent spinal condition – likely that it would have caused a similar neurosis and destroyed earning capacity.
+        - 1987 
+          - Trial: Plaintiff claims lost past and future earning capacity and Griffiths v Kerkemeyer damages.
+        - High Court: Damages for both heads of past and future loss should be reduced to reflect likelihood that the neurosis would have happened even if the defendant had not been negligent.
+        - “But in the case of an event which it is alleged would or would not have occurred, or might or might not yet occur, the approach of the court is different. The future may be predicted and the hypothetical may be conjectured. But questions as to the future or hypothetical effect of physical injury or degeneration are not commonly susceptible of scientific demonstration or proof. If the law is to take account of future or hypothetical events in assessing damages, it can only do so in terms of the degree of probability of those events occurring. The probability may be very high – 99.9 per cent – or very low – 0.1 per cent. 
+        - But unless the chance is so low as to be regarded as speculative – say less than 1 per cent – or so high as to be practically certain – say over 99 per cent – the court will take that chance into account in assessing the damages. Where proof is necessarily unattainable, it would be unfair to treat as certain a prediction which has a 51 per cent probability of occurring, but to ignore altogether a prediction which has a 49 per cent probability of occurring. Thus, the court assesses the degree of probability that an event would have occurred, or might occur, and adjusts its award of damages to reflect the degree of probability. The adjustment may increase or decrease the amount of damages otherwise to be awarded. ... The approach is the same whether it is alleged that the event would have occurred before or might occur after the assessment of damages takes place.” (643, Deane, Gaudron and McHugh JJ)
+      - Section 13 – Future economic loss—claimant’s prospects and adjustments
+        - (1) A court cannot make an award of damages for future economic loss unless the claimant first satisfies the court that the assumptions about future earning capacity or other events on which the award is to be based accord with the claimant’s most likely future circumstances but for the injury.
+        - (2) When a court determines the amount of any such award of damages for future economic loss it is required to adjust the amount of damages for future economic loss that would have been sustained on those assumptions by reference to the percentage possibility that the events might have occurred but for the injury.
+        - (3) If the court makes an award for future economic loss, it is required to state the assumptions on which the award was based and the relevant percentage by which damages were adjusted.
+      - Avopiling Pty Ltd v Bosevski (2018) 98 NSWLR 171
+        - [137] Section 13 of the Civil Liability Act requires an approach to future economic loss which is consistent with Malec v JC Hutton. ...
+        - [138] Outside of extreme circumstances where an event is practically certain to occur or not occur, I see no reason in the subject matter, scope and purpose of the Civil Liability Act why an evaluation of future economic loss should be confined to an examination of lost wages and not extend to other aspects of future economic loss which also require consideration of future contingencies such as future attendant care. (Payne JA, McColl and White JJA agreeing)
+- Interest and tax
+  - INTEREST
+    - The plaintiff can claim interest on damages awarded to compensate loss occurring between:
+      - 1. The date the cause of action accrued; and
+      - 2. The date of judgment (can be several years later).
+      - Purpose: compensate the plaintiff for being without the money, which is owed the day the cause of action accrues, until judgement. 
+      - Interest can be substantial
+    - Haines v Bendall (1991) 172 CLR 60
+      - ‘An award of interest up to the date of judgment is an award of interest in the nature of damages: ... . This statement acknowledges that the award of interest is an integral element in the attainment of the object of damages, namely, to compensate a plaintiff for injury sustained. Hence the award of interest is compensatory in character. While "(i)nterest should not be awarded as compensation for the damage done" ... the award of interest is nevertheless an essential element in the achievement of true compensation for that damage. In Thompson v Faraonio ... the Privy Council stated that "(t)he reason for awarding interest is to compensate the plaintiff for having been kept out of money which theoretically was due to him at the date of his accident" ... . The award of interest for the period of delay in payment between the date of accrual of the cause of action and judgment affords the fair legal measure of compensation: ... Thus, it is the award of damages and, where appropriate, interest awarded on damages for the period up until the judgment takes effect which allows the plaintiff to be placed in or restored to the situation, as far as money can do, in which he or she would have been but for the defendant's negligence.’ (66, Mason CJ, Dawson, Toohey and Gaudron JJ) (Some citations omitted)
+    - Interest available for past loss:
+      - hospital, medical and like expenses (out-of-pocket expenses) which have been paid by the plaintiff (ie, not services provided by Medicare);
+      - economic loss;
+      - loss of superannuation benefits;
+      - Griffiths v Kerkemeyer damages; and
+      - general damages (or non-economic loss).
+      - Note: see exceptions in Civil Liability Act with respect to personal injury damages.
+    - CIVIL PROCEDURE ACT 2005 (NSW)
+      - Section 100 – Interest up to judgment
+        - (1) In proceedings for the recovery of money (including any debt or damages or the value of any goods), the court may include interest in the amount for which judgment is given, the interest to be calculated at such rate as the court thinks fit:
+        - (a) on the whole or any part of the money, and
+        - (b)for the whole or any part of the period from the time the cause of action arose until the time the judgment takes effect.
+    - PRACTICE NOTE NO. SC GEN 16
+      - Introduction
+        - 3. The purpose of this Practice Note is to set the rate of pre-judgment interest that may be awarded under s.100(1) and (2) of the Civil Procedure Act 2005.
+      - Calculating pre-judgment interest
+        - 4. Section 100 of the Civil Procedure Act 2005 provides for the making of orders for the inclusion of interest in judgments.
+        - 5. Practitioners and litigants should expect that where, pursuant to s 100 (1) and (2) of the Civil Procedure Act 2005, interest in respect of a pre-judgment period is to be included in a judgment, the Court will have regard to the following rates, being rates agreed upon by the Discount and Interest Rate Harmonisation Committee established following a referral by the Council of Chief Justices:
+          - (a) in respect of the period from 1 January to 30 June in any year – the rate that is 4% above the cash rate last published by the Reserve Bank of Australia before that period commenced, and
+          - (b) in respect of the period from 1 July to 31 December in any year – the rate that is 4% above the cash rate last published by the Reserve Bank of Australia before that period commenced
+    - Civil Liability Act 2002 (NSW)
+      - Section 18 – Interest on damages
+        - (1) A court cannot order the payment of interest on damages awarded for any of the following: 
+          - (a) non-economic loss, 
+          - (b) gratuitous attendant care services as defined in section 15 (other than gratuitous attendant care services to which section 15A applies),
+          - (c) loss of a claimant’s capacity to provide gratuitous domestic services to the claimant’s dependants (as provided by section 15B). …
+      - See following sub-ss for interest rate to be applied.
+  - TAX	
+    - Tax is something that must be taken into account, but it is beyond the scope of this subject to consider tax in detail.
+    - You do not need to address it.
+  - OVERVIEW
+    - Any claim for damages consists of 3 ‘building blocks’:
+      - 1. Causation 
+      - 2. Scope of liability 
+      - 3. Assessment
+        - a) Personal injury (Common law),  aggravated and exemplary damages: 
+        - b) Personal injury (CLA),  collateral benefits,  possibilities,  interest & tax. 
+        - c) Property damage, trespass to land, economic torts.
+        - d) Breach of contract
+## Week 6: Property Damages and Interests
+
+- Key vocabulary in this module:
+  - Betterment: A concept that is related to mitigation. If the plaintiff replaces property damaged by the defendant with something that is better than what was damaged, then the plaintiff may have to account for any 'betterment'.
+  - Chattel: Tangible personal property that is not real property. Chattels - or 'goods' - are capable of being possessed and are not fixed to the Earth, like real property.
+  - General damages: A lump sum amount awarded to compensate non-economic loss. Its meaning can change with context. In personal injury claims, 'general damages' is a phrase used to denote damages awarded for pain and suffering, etc. In trespass, it refers to a lump sum amount awarded to compensate for the infringement of the plaintiff's right to exclusive possession.
+  - Real property: Land or fixtures affixed to land.
+  - Reasonable use fee: A form of damages that compensates the plaintiff by requiring the defendant to pay the plaintiff a reasonable amount for the unauthorised use of the plaintiff's land. It does not rest on proof of damage, just unauthorised use.
+  - Trespass: An intentional tort that involves the voluntary, direct interference with the plaintiff's right to exclusive possession of real or personal property.
+- Property damage
+  - PROPERTY DAMAGE
+    - Largely the same approach in both tort and contract (with their respective requirements of ‘guiding principles’, causation and remoteness).
+    - Typical question: should the defendant pay:
+      - The cost of repair/restoration of the property? Or
+      - The loss of value in the property?
+    - Ultimately rests on reasonableness.
+  - LAND AND FIXTURES (CONTRACT)
+    - If a defendant either:
+      - Fails to install/repair/build something according to the contract; or
+      - Damages property in the performance of the contract, then
+    - a measure of loss is the cost of rectifying the poor workmanship/damage.
+    - Guiding principle: the position the plaintiff would have been in had the contract been performed (Robinson v Harmon).
+    - Choice:
+      - The cost of repair/rectification to put the property in the condition it should have been in had the contract been properly performed; or
+      - The difference in value between:
+        - The value of the property had the contract been properly performed; and
+        - The actual value of the property after the breach.
+    - If the plaintiff chooses the cost of repair/rectification, then the work undertaken must be:
+      - Necessary; and
+      - Reasonable.
+    - Bellgrove v Eldridge (1954) 90 CLR 613
+      - “The qualification, however, to which this rule is subject is that, not only must the work undertaken be necessary to produce conformity, but that also, it must be a reasonable course to adopt.”
+      - “As to what remedial work is both "necessary" and "reasonable" in any particular case is a question of fact.” (Dixon CJ, Webb and Taylor JJ)
+      - ‘In the present case, the respondent was entitled to have a building erected upon her land in accordance with the contract and the plans and specifications which formed part of it, and her damage is the loss which she has sustained by the failure of the appellant to perform his obligation to her. This loss cannot be measured by comparing the value of the building which has been erected with the value it would have borne if erected in accordance with the contract; her loss can, prima facie, be measured only by ascertaining the amount required to rectify the defects complained of and so give to her the equivalent of a building of her land which is substantially in accordance with the contract.’ (Dixon CJ, Webb and Taylor JJ)
+    - Tabcorp Holdings Ltd v Bowen Investments Pty Ltd (2009) 236 CLR 272
+      - [13] Oliver J was correct to say in Radford v De Froberville that the words "the same situation, with respect to damages, as if the contract had been performed" do not mean "as good a financial position as if the contract had been performed" (emphasis added). In some circumstances putting the innocent party into "the same situation ... as if the contract had been performed" will coincide with placing the party into the same financial situation. Thus, in the case of the supply of defective goods, the prima facie measure of damages is the difference in value between the contract goods and the goods supplied. … 
+      - However, in cases where the contract is not for the sale of marketable commodities, selling the defective item and purchasing an item corresponding with the contract is not possible. In such cases, diminution in value damages will not restore the innocent party to the "same situation ... as if the contract had been performed". (The Court)
+      - [17] The Tenant stressed that in Bellgrove v Eldridge this Court pointed out that there was a qualification to the rule it stated in regard to damages recoverable by a building owner for the breach of a building contract. "The qualification ... is that, not only must the work undertaken be necessary to produce conformity, but that also, it must be a reasonable course to adopt." The example which the Court gave of unreasonableness was the following: "No one would doubt that where pursuant to a building contract calling for the erection of a house with cement rendered external walls of second-hand bricks, the builder has constructed the walls of new bricks of first quality the owner would not be entitled to the cost of demolishing the walls and re-erecting them in second-hand bricks."
+      - That tends to indicate that the test of "unreasonableness" is only to be satisfied by fairly exceptional circumstances. The example given by the Court aligns closely with what Oliver J said in Radford v De Froberville, that is, that the diminution in value measure of damages will only apply where the innocent party is "merely using a technical breach to secure an uncovenanted profit." (The Court)
+    - Ruxley Electronics and Construction Ltd v Forsyth [1994] 1 WLR 650
+      - ‘A man contracts for the building of a house and specifies that one of the lower courses of brick should be blue. The builder uses yellow brick instead. In all other respects the house conforms to the contractual specification. To replace the yellow bricks with blue would involve extensive demolition and reconstruction at a very large cost. It would clearly be unreasonable to award to the owner the cost of reconstructing because his loss was not the necessary cost of reconstruction of his house, which was entirely adequate for its design purpose, but merely the lack of aesthetic pleasure which he might have derived from the sight of blue bricks. Thus in the present appeal the respondent has acquired a perfectly serviceable swimming pool, albeit one lacking the specified depth. His loss is thus not the lack of a usable pool with consequent need to construct a new one.’ (Lord Jauncey of Tullichettle)
+    - The Bellgrove v Eldridge reasonableness test applies in tort (trespass, negligence, nuisance, etc).
+    - Damages can be:
+      - The cost of repair/reinstatement; or
+      - Loss of value of the land after the tort.
+    - Remember object of damages in tort: compensate for loss, rather than fulfil expectations
+  - PROPERTY DAMAGE: LAND AND FIXTURES (TORT)
+    - Evans v Balog [1976] 1 NSWLR 36
+      - “I merely observe in passing that the consequence that unless the plaintiffs get the costs of reinstatement they may get nothing, is enough to suggest that any rule which produces such a result in the present case cannot be soundly based. The question is whether it was reasonable for the plaintiffs to desire to reinstate their property. In my opinion, there is only one answer. It undoubtedly was. They had, in effect, lost their family home. That is the nature of their damage, and not some diminution in the value of their land. Fair compensation requires that they be given back what they had before; and the only way in which that purpose can be achieved is to award them the sum reasonably necessary to restore their property to the condition in which it was before the defendants effectively destroyed it. This the learned judge did; and, in my opinion, he was right. ... (40, The Court)
+      - ... It is not to the point that the diminution in value basis might on one view produce no damages, while the reinstatement basis produces a substantial sum. The disproportion in question in cases of this kind are not always to be revealed by arithmetical comparison. The cost to a defendant of competing measures is a significant factor. But it is but one ingredient in the calculation of whether the plaintiffs' claim is reasonable or not. There are cases, and this, in my opinion, is one, where the nature of the plaintiffs' loss is such that there is only one mode of fairly repairing it. If that turns out to be more expensive than another, the wrongdoer has no one but himself to blame. (40, The Court)
+      - ‘I agree. I only wish to add that I regard the appeal as quite ridiculous, and I regret that the cross-appeal was not pursued.’ (41, Hutley JA)
+    - Palmer-Bruyn and Parker Pty Ltd v Parsons (2001) 208 CLR 388
+      - [13] ... As a matter of principle, this being an intentional tort, if relevant harm was intended, or was the natural and probable consequence of the respondent's act, then it is difficult to see why foreseeability should operate as an independent factor limiting the respondent's liability for damage. I agree with the reasons of Gummow J on that question. (Gleeson CJ)
+      - Causation test
+    - Pantalone v Alaouie (1989) 18 NSWLR 119
+      - ‘I apply the test adopted as the true criterion in Evans v Balog: how reasonable is the Pantalones' desire to rebuild, judged in part by the advantages to them of rebuilding in relation to the additional cost to the defendants over the diminution in value? ...
+      - It is understandable that the Pantalones do not wish to embark upon the search for another investment property, and do not wish to run the risk of choosing wisely. But I do not think that the inconvenience of the search counts for much, as there would also be the inconvenience of seeing to rebuilding.’ (Giles J)
+  - LAND AND FIXTURES
+    - If the plaintiff:
+      - Cannot or will not actually do the repairs/reinstatement; or
+      - Has or intends to do something different from a direct repair/reinstatement 
+    - then that evidence will go to the question of whether it is reasonable to award the cost of repair/reinstatement.
+    - No intention
+      - The role of the plaintiff’s intention to repair is not clear:
+      - Court does not concern itself with what a plaintiff does with their damages (Bellgrove);
+      - Intention was a factor considered in Ruxley Electronics
+    - Impossible to repair
+      - Westpoint Management Ltd v Chocolate Factory Apartments Ltd [2007] NSWCA 253
+        - [61] But the plaintiff’s intention to carry out the rectification work, it seems to me, is not of significance in itself. The plaintiff may intend to carry out rectification work which is not necessary and reasonable, or may intend not to carry out rectification work which is necessary and reasonable. The significance will lie in why the plaintiff intends or does not intend to carry out the rectification work, for the light it sheds on whether the rectification is necessary and reasonable. …
+        - [62] So if supervening events mean that the rectification work cannot be carried out, it can hardly be found that the rectification work is reasonable in order to achieve the contractual objective: achievement of the contractual objective is no longer relevant. If sale of the property to a contented purchaser means that the plaintiff did not think and the purchaser does not think the rectification work needs to be carried out, it may well be found to be unreasonable to carry out, the rectification work. An intention not to carry out the rectification work will not of itself make carrying out the work unreasonable, but it may be evidentiary of unreasonableness; if the reason for the intention is that the property is perfectly functional and aesthetically pleasing despite the non-complying work, for example, it may well be found that rectification is out of all proportion to achievement of the contractual objective or to the benefit to be thereby obtained.
+    - Different repairs done
+      - Hyder Consulting (Australia) Pty Ltd v Wilh Wilhelmsen Agency Pty Ltd [2001] NSWCA 313 (14 November 2001)
+        - [96] ... Neither Bellgrove v Eldridge ... nor the other cases cited supported damages based on the theoretical cost of reconstruction of the pavement when the actual cost of reconstruction of the pavement was known, and the actual cost was powerful evidence of an alternative method of calculating rectification costs. ...
+        - [99] ... If the rectification work has not been carried out, then a theoretical reasonable cost must be found and, because damages must be assessed once and for all, must be awarded even though the rectification work might not be carried out. ... But if the rectification work has been carried out and the actual cost is known, that provides sound evidence of the reasonable cost and should ordinarily provide the basis for damages
+      - Gagner Pty Ltd v Canturi Corporation Pty Ltd [2009] NSWCA 413 (16 December 2009)
+        - [105] What counts as making good the damage, for the purpose of assessing damages for torts, needs to be understood bearing in mind what the purpose is for which one is asking what counts as “making good”. That purpose is ascertaining what the work is that is necessary to undo the consequences of the tort having been committed. The only interest of the defendant that bears upon the question of whether rectification work is reasonable is a financial on sometimes expressed in the principle that a plaintiff must mitigate his damage. Thus, if, for instance, carpet of a particular shade of green has been damaged and objectively needs to be replaced if the damage is to be made good, it is immaterial that the plaintiff chooses as the replacement carpet one of a different colour. This is so even if carpet of the original shade of green had been available, provided only that the carpet actually chosen is not more expensive than the exact replacement would have been. If the plaintiff chooses a more expensive replacement when an exact replacement is available, the damages are limited to the cost of the exact replacement. (Campbell JA; McFarlan JA and Sackville AJA agreeing)
+  - Summary
+    - Prima facie the cost of repair/rectification of poor work is the reasonable cost of repair/rectification;
+      - This measure will be awarded when the work claimed for is necessary and reasonable.
+      - This measure will be awarded even if the plaintiff has done different repairs/rectifications that cost the same or more than the prima facie reasonable cost of repair;
+      - However, if the plaintiff voluntarily undertakes work that cost less than the prima facie measure, then that lesser amount (the actual loss) will be awarded.
+    - Intention to undertake the repair work is generally irrelevant, unless the reason why the plaintiff does not intend to repair/rectify the property is because it’s impossible
+- CHATTELS
+  - Chattels
+    - Same question:
+      - Cost of repair/replacement? Or
+      - Loss in value?
+    - It is often cheaper to replace chattels, rather than repair them.
+    - Hence, usually damages will be market value of damaged/destroyed chattel. 
+    - The cost of repair may be more appropriate for expensive or rare chattels.
+    - Darbishire v Warran [1963] 3 All ER 310
+      - ‘The principle is that of restitutio in integrum, that is to say, to put the plaintiff in the same position as though the damage had not happened. It has come to be settled that in general the measure of damage is the cost of repairing the damaged article; but there is an exception if it can be proved that the cost of repairs greatly exceeds the value in the market of the damaged article. This arises out of the plaintiff’s duty to minimise his damages.’ (312, Harman LJ)
+    - Beaumont v Cahir [2004] ACTSC 97 (29 September 2004)
+      - [26] It was a relevant circumstance that the horse was an animate chattel, was a horse which the respondent had put substantial time and money into since she acquired it in order to improve its general condition and to train with it as a horse upon which she could compete in dressage horse riding, and was a horse which suited her particular requirements as a rider. ...
+      - [29] ... there was no applicable legal principle which limited the respondent's right to compensation to payment of an amount equal to the cost of a replacement horse. The object of the exercise was to give the respondent reparation for the appellant's wrongful act and that object was able to be achieved in different ways depending upon the circumstances of the case and subject to the overriding requirements of what was reasonable: Evans v Balog at 39; ... . (Cooper J)
+    - If the chattel:
+      - is destroyed
+      - has disappeared or
+      - has been sold onto a third party
+    - then the only option available is the cost of replacement.
+  - CONSEQUENTIAL LOSSES
+    - Consequential losses (ie, losses other than the direct cost of replacement/repair/diminution in value) can also be claimed, provided that they are:
+      - Caused by the wrong; and
+      - Not too remote.
+    - See, for example:
+      - Pantalone v Alaouie (1989) 18 NSWLR 119
+      - Gagner Pty Ltd v Canturi Corporation Pty Ltd [2009] NSWCA 413 (16 December 2009)
+  - NON ECONOMIC LOSS
+    - Damages for non-economic loss may be awarded for any pain or suffering, distress, anxiety, humiliation, discomfort, physical inconvenience or disappointment associated with property damage.
+    - Campbelltown City Council v Mackay (1989) 15 NSWLR 501
+      - ‘The question is whether the consequential damage is the reasonably foreseeable result of the defendant's negligence. Proof that mental illness is the reasonably foreseeable result of negligent damage to property may often be more difficult to establish than proof that it is the reasonably foreseeable result of the negligent infliction of personal injury. But the same principles of causation and remoteness apply whether the cause of action in tort is for damage to property or harm to person.’ (McHugh JA)
+      - Note: Civil Liability Act Pt 2 would apply today. This is a claim for personal injury damages.
+  - AGGRAVATED / EXEMPLARY DAMAGES
+    - XL Petroleum (NSW) Pty Ltd v Caltex Oil (Australia) Pty Ltd (1985) 155 CLR 448
+      - “Although the amount which the jury assessed is much greater than I would have thought appropriate, I am quite unable to hold that the jury were not entitled to take the view that an award of $400,000 was necessary to provide an effective deterrent against a repetition of Caltex' conduct. As that view is not shared by a majority of the Court, I should say that, if I were to give effect to my own opinion, I would regard $150,000 as an appropriate award of exemplary damages.” (Brennan J)
+- Betterment
+  - MITIGATION / BETTERMENT
+    - If a plaintiff successfully mitigates their loss, they may need to account for any gain or “betterment” obtained as a result of the mitigation.
+    - Tends to arise in cases where faulty/damages property is replaced with something better.
+    - Clark v Macourt (2013) 253 CLR 1
+      - [17] For present purposes, "mitigation" can be seen as embracing two separate ideas . First, a plaintiff cannot recover damages for a loss which he or she ought to have avoided, and second, a plaintiff cannot recover damages for a loss which he or she did avoid. (Hayne J)
+    - Harbutt's "Plasticine" Ltd v Wayne Tank and Pump Co Ltd [1970] 1 QB 447
+      - ‘The destruction of a building is different from the destruction of a chattel. If a second-hand car is destroyed, the owner only gets its value; because he can go into the market and get another second-hand car to replace it. He cannot charge the other party with the cost of replacing it with a new car. But when this mill was destroyed, the plasticine company had no choice. They were bound to replace it as soon as they could, not only to keep their business going, but also to mitigate the loss of profit (for which they would be able to charge the defendants). They replaced it in the only possible way, without adding any extras. I think they should be allowed the cost of replacement. True it is that they got new for old; but I do not think the wrongdoer can diminish the claim on that account. If they had added extra accommodation or made extra improvements, they would have to give credit. But that is not this case. I think the judge was right on this point.’ (Lord Denning MR)
+    - Gagner Pty Ltd v Canturi Corporation Pty Ltd [2009] NSWCA 413
+      - ‘There is nothing analogous, in the present case, to the benefit over and above compliance with the standard of performance that had been contractually required from the Westinghouse turbines that the Railway Company in British Westinghouse obtained by purchasing the Parsons machines. Nor is there any benefit, in the present case, analogous to the extra sale price that the plaintiffs in Hoad would be likely to obtain by having a newer tractor to sell when they carried through the intention that they already had, at the time of the tort, of giving up their farm. ... No attempt was made in the present case to prove that the shop, with its totally new fitout, was more profitable or in any other way more valuable than it would have been if the damage had never occurred.’ (Campbell JA, Macfarlan JA and Sackville AJA agreeing)
+    - Hoad v Scone Motors Pty Ltd [1977] 1 NSWLR 88
+      - “Farm equipment depreciates rapidly, and it is either written off or is replaced at short intervals. Planned replacement at short intervals was in fact the business practice of the plaintiffs. If this practice would have continued, then the consequence of the fire was merely to accelerate the inevitable capital expense of acquiring a new tractor and mower. If, as the plaintiffs claimed, but for the fire they would not have purchased another tractor or mower, because they were giving up the farm in eighteen months, presumably meaning they would not then need such equipment, then the total consequence of the fire, i.e. their total acts of mitigation to avoid crop losses over the eighteen months of farming, would be that capital expense was incurred, which would not otherwise have been incurred, in purchasing the new equipment and that, on resale after eighteen months, substantially less than the capital outlaid would be recovered. The loss of resale value of new equipment in that time would be greater than of old equipment.” 
+      - “The measure of damage, in substitution for the $4,000, is the nett detriment arising from acquisition of the new equipment.” (Moffat P)
+- Trespass to land
+  - TRESPASS TO LAND
+    - Trespass is actionable without proof of damage (actionable “per se”).
+    - What damages are available for a trespass that does not damage the property?
+      - General damages.
+      - Aggravated/exemplary damages.
+      - Consequential loss (if within scope).
+      - Reasonable use fee.
+  - GENERAL DAMAGES
+    - Trespass is actionable without proof of damage (actionable “per se”).
+    - What damages are available for a trespass that does damage the property?
+      - General damages.
+      - Nominal damages.
+    - TCN Channel Nine Pty Ltd v Anning (2002) 54 NSWLR 333
+      - [78] General damages should reflect the significant purpose of vindicating the Respondent’s right to exclusive occupation. This requires a substantial award. (See Plenty v Dillon at 654-655 per Gaudron and McHugh JJ.) I would assess such damages at $25,000.
+    - Plenty v Dillon (1991) 171 CLR 635
+      - “Once a plaintiff obtains a verdict in an action of trespass, he or she is entitled to an award of damages. In addition, we would unhesitatingly reject the suggestion that this trespass was of a trifling nature. The First and Second Respondents deliberately entered the Appellant's land against his express wish. True it is the entry itself caused no damage to the Appellant's land. But the purpose of an action for trespass to land is not merely to compensate the plaintiff for damage to the land. That action also serves a purpose of vindicating the Plaintiff's right to the exclusive use and occupation of his or her land.” (645-655, Gaudron and McHugh JJ)
+    - Lewis v Australian Capital Territory (2020) 381 ALR 375
+      - Lewis was falsely imprisoned (trespass to person).
+      - Would have been lawfully detained anyway.
+      - Sought general damages for the bare infringement of his right to not be unlawfully detained.
+      - Awarded nominal damages because he had not suffered loss.
+      - (Edelman J, Kiefel CJ and Keane J agreeing)
+        - [160] A reinterpretation of the user fee cases ... to apply such damages to all torts that are actionable per se, in all circumstances, would mean that, even without loss, for all these torts nominal damages could never be awarded and rules of causation of loss, remoteness of damage, and mitigation of loss would never apply. Yet, it has long been understood that when a right is violated but no loss is caused a court can award nominal damages to acknowledge “an infraction of a legal right which, though it gives you no right to any real damages at all, yet gives you a right to the verdict or judgment because your legal right has been infringed”. 
+        - [107] ... There is no need, nor is there any basis in principle, for the Court to recognise a separate head of vindicatory damages. Existing remedies are sufficient.
+        - [165] Nothing in ... Plenty v Dillon required that the substantial damages to which Mr Plenty was entitled should be an amount which was fixed for the violation of his rights without reference to any of the consequences of the trespass. To the contrary, the reference by Gaudron and McHugh JJ to the sense of injustice felt by plaintiffs such as Mr Plenty was to the consequences of the tort to Mr Plenty and within the community.
+      - (Gordon J, Gageler J agreeing)
+        - [107] If substantial compensatory damages are unavailable (as is the position), then Mr Lewis submitted that this Court should recognise that non-compensatory but "vindicatory" damages are available, as a new head of damages. This submission should also be rejected. There is no need, nor is there any basis in principle, for the Court to recognise a separate head of vindicatory damages. Existing remedies are sufficient. 
+      - Whether general damages will be awarded will depend upon the circumstances of the case.
+      - More than infringement of a legal right is required.
+      - If no identifiable loss, then nominal damages will be awarded to vindicate the rights of the plaintiff.
+  - AGGRAVATED / EXEMPLARY DAMAGES
+    - Aggravated/exemplary damages.
+      - Eg: TCN Channel Nine Pty Ltd v Anning (2002) 54 NSWLR 333; New South Wales v Ibbett (2005) 65 NSWLR 168
+  - CONSEQUENTIAL LOSS
+    - Consequential loss (if within scope) may be caused by a trespass even if the land itself is not damaged.
+  - REASONABLE USE FEE
+    - The plaintiff can claim a “reasonable fee” for the defendant’s unauthorised use of:
+      - Real property (trespass), called ‘mesne profits’; and
+      - Chattels (conversion; detinue).
+    - Reasonable fee damages don’t depend upon proof of actual loss by the plaintiff.
+    - Some judges have characterised these damages as “restitutionary” rather than “compensatory”.
+    - The plaintiff must show:
+      - The trespass to land (or trespass/conversion/detinue in respect of chattels); and
+      - The defendant in fact used the property.
+    - Damages typically assessed at markets rates for the use of the property.
+    - Evidence of what the plaintiff would have charged is relevant.
+    - LJP Investments v Howard Chia Investments (1989) 24 NSWLR 499
+      - ‘I think the plaintiff's damages should not be limited to the general market value of the plaintiff's tenancy, but should reflect the price which the plaintiff and defendant would reasonably have negotiated, having regard to the plaintiff's position and the defendant's wish to develop the site. 
+      - If I were able to conclude, as Mr Bennett submits, that if Chia had refrained from trespassing, it would in fact have paid the amount LJP was demanding, then I think that would be the correct measure of damages.’ (Hodgson J)
+    - Sydney Local Health District v Macquarie International Health Clinic Pty Ltd [2020] NSWCA 274
+      - 1996: Macquarie enters 103 year lease of land from SLHD. Agrees to construct and operate a hospital.
+      - 2000: Macquarie has not began construction and has abandoned plans to do so.
+      - 2000: SLHD retakes possession of the hospital land: trespass.
+      - Trespass lasts to at least 2015.
+      - SLDH does nothing with the land.
+      - Macquarie claims mesne profits calculated on the assumption that it would have built and operated a hospital.
+      - Trial judge awards mesne profits on this basis.
+      - [128] First, an abiding feature of the case law concerning damages for mesne profits consequent upon a trespass to land, together with authorities in the analogous context of detinue, is that such damages are for the defendant’s actual use or usage of the plaintiff’s real or personal property.
+      - ...
+      - [132] Secondly, in every case in which damages for or by way of mesne profits have been awarded, they are for the defendant’s use of the property in its existing state at the time of the commencement of the trespass. ... the logic of the remedy is that the plaintiff was entirely out of possession of the property for the duration of the trespass and hence was in no position to change, alter, improve or develop the property. (The Court)
+      - [133] Thirdly, whilst it is open to a plaintiff to claim damages for trespass by reference to any contractual rights associated with the property in question or indeed business opportunities which may have allowed the development of the property, such damages are only available for actual loss shown, on the balance of probabilities, to have been suffered.
+      - [134] Fourthly, the usual measure of damages for or by way of mesne profits will be the market rent for the premises or for the hire of the goods in their state during the period of the trespass. The calculation of that market rent must have regard to the particular context of the case and characteristics of the property or goods in question …
+      - [135] Fifth, whilst the usual measure of damages for or by way of mesne profits will be the market rent for the premises in their state during the period of the trespass, there may be special circumstances associated with the defendant which warrant a departure from this yardstick. Any departure from this yardstick is not, however, at large, but again is tied or limited by the defendant’s actual usage of the property in question.
+      - [136] Sixthly, and in a similar vein, the market rent may be conceptualised or influenced by reference to the particular characteristics of the trespasser ... or the plaintiff 
+      - [137] Seventhly, the particular circumstances of the parties and the property in question may be especially relevant in a case where there is no usual or standard market for the rental or hire of the property in question: see, for example, Roberts and Waugh.
+      - [236] Having abandoned a case for damages for loss of opportunity, the damages awarded were effectively for a measure of such loss
+      - ... .
+      - [237] The perverse consequence is that damages in the sum of some $55 million including interest up to November 2019 have been awarded in respect of trespass to an unimproved site by reference to a private hospital that never existed and which Macquarie had accepted for almost 20 years would not have been built and would not have been viable
+      - [238] No fall-back value was propounded by Macquarie for a notional rental in respect of the actual use of the Hospital Site in its existing state at the time of the trespass. In these circumstances, it follows that Macquarie’s claim for mesne profits relating to the Hospital Site should be assessed as nil or nominal. (The Court)
+  - Key vocabulary in this topic:
+    - Deceit: A tort which compensates for loss caused by reliance on a statement made by a defendant who knew the statement was false and who intended the plaintiff to rely upon it.
+    - Economic loss: Loss consisting of loss of money, financial interests or value in property as opposed to physical damage to tangible property or personal injury. 
+    - Negligent misstatement: A tort for loss caused by reliance on a statement made by a defendant who breached a duty of care owed to the plaintiff when making the statement.
+- Economic loss in deceit and negligence
+  - DAMAGES: ECONOMIC TORTS
+    - Pure economic loss caused by:
+      - Negligence (inc negligent misstatement)
+      - Deceit (fraudulent misrepresentation)
+      - Overriding principle: Livingstone v Rawyards Coal Co (1880) 5 App Cas 25
+      - General approach: compare the plaintiff’s current position with the position that they would have been in had they not relied on the defendant’s statement.
+    - These days, both causes of action are overtaken by a claim for misleading or deceptive conduct (ACL, s 18): easier to establish liability.
+    - Tort remains relevant because:
+      - The common law actions still exist and apply when the ACL does not apply (when the defendant’s conduct was not ‘in trade or commerce’).
+      - The assessment of damages for each has influenced the assessment of damages under ACL s 236.
+    - Toteff v Antonas (1952) 87 CLR 647
+      - ‘In an action of deceit a plaintiff is entitled to recover as damages a sum representing the prejudice or disadvantage he has suffered in consequence of his altering his position under the inducement of the fraudulent misrepresentations made by the defendant. When what he has been induced to do is to make a purchase from the defendant and part with his money to him in payment of the price, then, if the transaction stands and is not disaffirmed or rescinded, what is recoverable is “the difference between the real value of the property, and the sum which the plaintiff was induced to give for it” per Abbott L.C.J. Pearson v Wheeler. As Sir James Hannen in Peek v. Derry pointed out, the question is how much worse off is the plaintiff than if he had not entered into the transaction. If he had not done so he would have had the purchase money in his pocket. To ascertain his loss you must deduct from the amount he paid the real value of the thing he got. …
+      - Dixon J
+        - The measure of damages in an action of deceit consists in the loss or expenditure incurred by the plaintiff in consequence of the inducement on which he relied diminished by the corresponding advantage in money or moneys worth obtained by him on the other side: Potts v. Miller. You look to what he has been induced to part with as the initial step. He is entitled to say that but for the fraud he would never have parted with his money: per Coleridge L.C.J., Twycross v. Grant. But he cannot recover the entire price he has paid unless the thing prove wholly worthless. If the thing has any appreciable value the damages must be reduced pro tanto: per Cockburn L.C.J., Twycross v. Grant’ 
+    - Potts v Miller (1940) 64 CLR 282
+      - ‘The reason given for the rule is that, if, after the date of purchase, the thing which the plaintiff was induced to buy loses in value owing to accidental or extrinsic causes, that loss is not the reasonable consequence of the inducement. …
+      - This reasoning makes it necessary to distinguish between the kinds of cause occasioning the deterioration or diminution in value. If the cause is inherent in the thing itself, then its existence should be taken into account in arriving at the real value of the shares or other things at the time of the purchase. If the cause be "independent," "extrinsic," "supervening" or "accidental," then the additional loss is not the consequence of the inducement. (Dixon J)
+    - Twycross v Grant (1877) 2 CPD 544
+      - ‘If a man buys a horse, as a racehorse, on the false representation that it has won some great race, while in reality it is a horse of very inferior speed, and he pays ten or twenty times as much as the horse is worth, and after the buyer has got the animal home it dies of some latent disease inherent in its system at the time he bought it, he may claim the entire price he gave; the horse was by reason of the latent mischief worthless when he bought; but if it catches some disease and dies, the buyer cannot claim the entire value of the horse, which he is no longer in a condition to restore, but only the difference between the price he gave and the real value at the time he bought.’ (545, Cockburn CJ)
+      - Cited in Potts v Miller (1940) 64 CLR 282
+    - Potts v Miller (1940) 64 CLR 282
+      - ... The second qualification is that the real value of what the plaintiff got must be ascertained in the light of the events which afterwards happened, because those events may show, for instance, that what the shares might have sold for was not their true value or that it was a worthless company ... or looking back from subsequent events to the earlier state of the company it may appear that at the time the shares were taken the assets of the company did not correspond in value to the money paid.’ (Dixon J) 
+    - L Shaddock & Associates Pty Ltd v Parramatta City Council (No 1) (1981) 150 CLR 225
+      - ‘The judge found that, but for the negligent mis-statement, the appellants would not have bought the land, the land being useless for the purpose for which it was acquired. Consequently, the appellants' loss includes, not merely the diminution in value of the land, but also the expenses of acquisition and retention for a reasonable time, expenses which would not have been incurred had the respondent not been negligent. It was not suggested that the items in question fell outside the boundary of foreseeability. The measure of recoverable damages for negligent mis-statement is the amount of money necessary to restore the plaintiff to the position he was in before the statement, subject to the loss being foreseeable’. (Mason J)
+## Week 7: Breach of Contract
+
+- Key vocabulary in this topic:
+  - Consequential loss: Sometimes a breach of contract causes consequential loss in addition to the disappointed expectations. Damages can be awarded to compensate for this consequential loss, to ensure that the plaintiff is put in the position that they would have been in had the contract been performed.
+  - Expectation interest: The prima facie interest for which compensation is awarded for breach of contract. In contract, the award of damages attempts to compensate the plaintiff for the net benefits that they expected to receive if the contract had been properly performed. These are sometimes called 'expectation damages'.
+  - Minimum performance rule: A 'rule' that may reduce the defendant's scope of liability for breach of contract. If the contract obliged the defendant to provide a minimum level of performance but also provided for the possibility that the defendant could provide more than that minimum, then, if the defendant fails to perform the contract, it may submit that the plaintiff should be compensated only for the loss of the obligatory minimum level of performance.
+  - Reliance damages / wasted expenditure: Damages to compensate for loss caused by performing the contract may be awarded if the plaintiff cannot prove the value of their expectation interest. If awarded, then damages function like they do in tort; they attempt to restore the plaintiff to a pre-contractual position, rather than put the plaintiff into the position that the plaintiff would have been in had the contract been performed.
+- Expectation damages
+  - GUIDING PRINCIPLE
+    - Robinson v Harmon (1848) 154 ER 363
+      - ‘The rule of the common law is, that where a party sustains a loss by reason of a breach of contract, he is, so far as money can do it, to be placed in the same situation, with respect to damages, as if the contract had been performed.’ (365, Parke B)
+  - EXPECTATION DAMAGES
+    - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+      - ‘The award of damages for breach of contract protects a plaintiff's expectation of receiving the defendant's performance. That expectation arises out of or is created by the contract. Hence, damages for breach of contract are often described as "expectation damages". The onus of proving damages sustained lies on a plaintiff and the amount of damages awarded will be commensurate with the plaintiff's expectation, objectively determined, rather than subjectively ascertained. That is to say, a plaintiff must prove, on the balance of probabilities, that his or her expectation of a certain outcome, as a result of performance of the contract, had a likelihood of attainment rather than being mere expectation.’ (80, Mason CJ and Dawson J)
+    - Damages in contract protect the “expectation interest” of the plaintiff.
+      - Expectation damages are the net profits or the net value of the bargain that the plaintiff expected to receive, but which have been lost because of the defendant’s breach.
+      - One way to value the expectation interest of the plaintiff is to ask: how much would it cost the plaintiff to obtain that performance from someone else on the market as at the date of the breach?
+  - SALE OF GOODS ACT 1923 (NSW)
+    - Contracts for the sale of goods are subject to the Sale of Goods Act 1923 (NSW) (covered in detail in 70327 Commercial Law.)
+    - The rules in the Act on damages for breach mirror the common law
+    - Section 53: Damages for non-delivery
+      - 1) Where the seller wrongfully neglects or refuses to deliver the goods to the buyer, the buyer may maintain an action against the seller for damages for non-delivery.
+      - 2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the seller’s breach of contract.
+      - 3) Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or if no time was fixed, then at the time of the refusal to deliver.
+    - Example
+      - Purchaser agrees to buy a good for $100 – seller refuses to deliver.
+      - On date of breach, it would cost purchaser $120 to buy the same good elsewhere.
+      - Damages = $20.
+        - Purchaser should be in position s/he would have been in had contract been performed.
+        - If contract had been performed, purchaser would have spent $100 & become owner of good.
+        - Purchaser will spend $120 to buy replacement: if seller pays $20 to purchaser, the purchaser will be in same position s/he would have been in had contract been performed.
+    - Section 52: Damages for non-acceptance
+      - 1) Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against the buyer for damages for non-acceptance.
+      - 2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the buyer’s breach of contract.
+      - 3) Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price at the time or times when the goods ought to have been accepted, or if no time was fixed for acceptance, then at the time of the refusal to accept.
+    - Example
+      - Purchaser agrees to buy a good for $100, but then refuses to take delivery and pay.
+      - On date of breach, the seller could sell the good for $80 on the market.
+      - Damages = $20.
+        - Seller should be in position s/he would have been in had contract been performed.
+        - If contract had been performed, seller would have earned $100.
+        - Seller will sell elsewhere for $80: if purchaser pays $20 to seller, the seller will be in same position s/he would have been in had contract been performed
+    - The rules are based upon the plaintiff’s obligation to mitigate their loss. This is why the market price as at the date of the breach is used.
+      - The rules assume that:
+        - Neither party has paid the price. Further adjustments required if it has been paid.
+        - There is a ready market for the good.
+      - If the market price of the good at the date of the breach benefits the plaintiff, then they have not suffered loss.
+    - Example
+      - Purchaser agrees to buy a car for $50,000 – seller refuses to deliver.
+      - On date of breach, the market price for the car is $40,000.
+      - No loss: purchaser is better off for the breach because s/he can buy the same good at a lower price.
+      - Nominal damages available.
+    - Section 52: Damages for non-acceptance
+      - ...
+      - 2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the buyer’s breach of contract.
+    - Section 53: Damages for non-delivery
+      - ...
+      - 2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the seller’s breach of contract
+    - Joseph & Co Pty Ltd v Harvest Grain Co Pty Ltd (1996) 39 NSWLR 722
+      - Harvest Grain Co Pty Ltd ->  Joseph & Co Pty Ltd -> 3rd party purchaser
+    - Joseph & Co Pty Ltd v Harvest Grain Co Pty Ltd (1996) 39 NSWLR 722
+      - ‘Depending on circumstances, it may well be that a buyer's contract of re-sale may give rise to damages on breach of the initial contract of sale. In the present case it does, because that re-sale was one thing both buyer and seller had in mind when the initial contract was made. When the plaintiff buyer is required to compensate the sub- buyer, JK International, that is a loss "directly and naturally resulting in the ordinary course of events from the buyer's breach of contract", to employ the words of s 53(2). It is also a loss which, "on the information available to the seller when the contract was made, was sufficiently likely to result from the breach, to make it proper to hold that it flowed naturally from the breach", to employ Lord Reid's test.’ (735, Moore DCJ)
+    - Section 54: Remedy for breach of warranty
+      - (1) Where there is a breach of warranty by the seller, or where the buyer elects or is compelled to treat any breach of a condition on the part of the seller as a breach of warranty, the buyer is not by reason only of such breach of warranty entitled to reject the goods, but the buyer may:
+        - (a) set up against the seller the breach of warranty in diminution or extinction of the price, or
+        - (b) maintain an action against the seller for damages for the breach of warranty.
+      - (2) The measure of damages for breach of warranty is the estimated loss directly and naturally resulting in the ordinary course of events from the breach of warranty.
+      - (3) In the case of breach of warranty of quality such loss is prima facie the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty.
+      - (4) The fact that the buyer has set up the breach of warranty in diminution or extinction of the price does not prevent the buyer from maintaining an action for the same breach of warranty if the buyer has suffered further damage.
+  - SALE OF LAND
+    - Ng v Filmlock Pty Ltd (2014) 88 NSWLR 146
+      - [14] The general rule is that damages for breach of a contract for sale of land are assessed as at the date of the breach of contract. That question is usually addressed by comparing the contract price with the value of the relevant land at the time of the purchaser’s breach. If the value is greater than the contract price, the vendor has suffered no damage. However, if the value is less than the contract price, it may be inferred that that discrepancy is an element of the vendor’s loss.
+      - (Emmet JA; Gleeson JA and Tobias AJA agreeing.)
+  - CONTRACTS FOR SERVICES
+    - Radford v De Froberville [1978] 1 All ER 33
+      - “It may be that, viewed objectively, it is not to the plaintiff's financial advantage to be supplied with the article or service for which he has stipulated. It may be that another person might say that what the plaintiff has stipulated for will not serve his, commercial interest so well as some other scheme or course of action. And that may be quite right. But that, surely, must be for the plaintiff to judge. Pacta sunt servanda. If he contracts for the supply of that which he thinks serves his interests, be they commercial, aesthetic or merely eccentric, then if that which is contracted for is not supplied by the other contracting party I do not see why, in principle, he should nor be compensated by being provided with the cost of supplying it through someone else or in a different way, subject to the proviso, of course, that he is seeking compensation for a genuine loss and not merely using a technical breach to secure an uncovenanted profit.” (42, Oliver J)
+  - CLARK V MACOURT (2013) 253 CLR 1
+    - SUBSTITUTE PERFORMANCE
+      - CLARK V MACOURT (2013) 253 CLR 1
+        - [9] Three different forms of "loss" might be identified. First, there might be a loss constituted by the amount by which the promisee is worse off because the promisor did not perform the contract. That amount would include the value of whatever the promisee outlaid in reliance on the promise being fulfilled. Second, the loss might be assessed by looking not at the promisee's position but at what the defaulting promisor gained by making the promise but not performing it. Third, there is the loss of the value of what the promisee would have received if the promise had been performed. 
+        - [10] Subject to some limitations, none of which was said to be engaged in this case, damages for breach of contract must be measured by reference to the third kind of loss: the loss of the value of what the promisee would have received if the promise had been performed. (Hayne J) 
+        - [12] Under the contract which the appellant made, she should have received 1,996 more straws of sperm having the warranted qualities than she did receive. The relevant question in the litigation was: what was the value of what the appellant did not receive? The answer she proffered in this Court was that it was the amount it would have cost (at the date of the breach of warranty) to acquire 1,996 straws of sperm from Xytex. That answer should be accepted. (Hayne J)
+  - LOSS OF PROFITS
+    - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+      - ‘In the ordinary course of commercial dealings, a party supplying goods or rendering services will enter into a contract with a view to securing a profit, that is to say, that party will expect a certain margin of gain to be achieved in addition to the recouping of any expenses reasonably incurred by it in the discharge of its contractual obligations. It is for this reason that expectation damages are often described as damages for loss of profits. Damages recoverable as lost profits are constituted by the combination of expenses justifiably incurred by a plaintiff in the discharge of contractual obligations and any amount by which gross receipts would have exceeded those expenses. This second amount is the net profit.’ (81, Mason CJ and Dawson J)
+    - Example
+      - Mechanic breaches contract to repair coach by failing to have it repaired by Friday – causes plaintiff to cancel coach trip to Newcastle.
+      - Plaintiff would have made $25,000 from fares that weekend if coach had been repaired on time.
+      - Plaintiff would not sue for $25,000: only net profit claimable.
+  - LOSS OF OPPORTUNITY
+    - Chaplin v Hicks [1911] 2 KB 786
+      - ‘But the fact that damages cannot be assessed with certainty does not relieve the wrong-doer of the necessity of paying damages for his breach of contract.’ (792, Vaughan-Williams LJ)
+      - ‘Is expulsion from a limited class of competitors an injury? To my mind there can be only one answer to that question; it is an injury and may be a very substantial one. Therefore the plaintiff starts with an unchallengeable case of injury, and the damages given in respect of it should be equivalent to the loss.’ (795, Fletcher Moulton LJ)
+- Reliance damages
+  - RELIANCE DAMAGES / WASTED EXPENDITURE
+    - If the plaintiff cannot prove a net benefit/profit expected from full performance of the contract, then they can alternatively claim all expenditure wasted on performance.
+    - Above assumes that the plaintiff would have recouped all money spent on performance if the contract had been performed
+  - McRae v Commonwealth Disposals Commission (1951) 84 CLR 377
+    - Cth promised that a shipwrecked tanker could be salvaged from a certain location.
+    - McRae spent money performing the contract only to find that the tanker did not exist.
+    - McRae could not prove the value of the tanker
+    - (414, Dixon and Fullagar JJ)
+      - But when the contract alleged is a contract that there was a tanker in a particular place, and the breach assigned is that there was no tanker there, and the damages claimed are measured by expenditure incurred on the faith of the promise that there was a tanker in that place, the plaintiffs are in a very different position. They have now a starting-point. They can say: (1) this expense was incurred; (2) it was incurred because you promised us that there was a tanker; (3) the fact that there was no tanker made it certain that this expense would be wasted. The plaintiffs have in this way a starting-point. They make a prima-facie case. The fact that the expense was wasted flowed prima facie from the fact that there was no tanker; and the first fact is damage, and the second fact is breach of contract. The burden is now thrown on the Commission of establishing that, if there had been a tanker, the expense incurred would equally have been wasted. This, of course, the Commission cannot establish. The fact is that the impossibility of assessing damages on the basis of a comparison between what was promised and what was delivered arises not because what was promised was valueless but because it is impossible to value a non- existent thing. It is the breach of contract itself which makes it impossible even to undertake an assessment on that basis. It is not impossible, however, to undertake an assessment on another basis, and, in so far as the Commission's breach of contract itself reduces the possibility of an accurate assessment, it is not for the Commission to complain. 
+  - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+    - Amann breached a contract by failing to have a coastal surveillance service operating by a certain date.
+    - Cth repudiated the agreement by improperly terminating it.
+    - Amann had spent $5m preparing to perform.
+    - Amann was not able to show that it would have made a profit; it expected to make a profit if the contract were renewed.
+    - (81, Mason CJ and Dawson J)
+      - ‘ ... The expression "damages for loss of profits" should not be understood as carrying with it the implication that no damages are recoverable either in the case of a contract in which no net profit would have been generated or in the case of a contract in which the amount of profit cannot be demonstrated. It would be an invitation to the repudiation of contractual obligations if the law were to deny to an innocent plaintiff the right to recoupment by an award of damages of expenditure justifiably incurred for the purpose of discharging contractual obligations simply on the ground that the contract breached would not have been or could not be shown to have been profitable. If the performance of a contract would have resulted in a plaintiff, while not making a profit, nevertheless recovering costs incurred in the course of performing contractual obligations, then that plaintiff is entitled to recover damages in an amount equal to those costs in accordance with Robinson v Harman, as those costs would have been recovered had the contract been fully performed. Similarly, where it is not possible for a plaintiff to demonstrate whether or to what extent the performance of a contract would have resulted in a profit for the plaintiff, it will be open to a plaintiff to seek to recoup expenses incurred, damages in such a case being described as reliance damages or damages for wasted expenditure.’
+    - (86, Mason CJ and Dawson J)
+      - ‘It should be observed that, in a case where it is not possible to predict what position a plaintiff would have been in had the contract been fully performed, as was the case in ... McRae ... , it is not possible as a matter of strict logic to assess damages in accordance with the principle in Robinson v Harman. But the law considers the just result in such a case is to allow a plaintiff to recover such expenditure as is reasonably incurred in reliance on the defendant's promise. In this case, the law assumes that a plaintiff would at least have recovered his or her expenditure had the contract been fully performed. It will still be open to a defendant, however, to argue that, notwithstanding the fact that it is impossible to assess what profits, if any, the plaintiff would have made had the contract been fully performed, the expenditure claimed by a plaintiff would nevertheless not have been recovered ...’
+    - Outcome
+      - Amann relied on the presumption that a plaintiff will recoup money spent on performance of a contract.
+      - Cth unable to rebut the presumption.
+      - Amann awarded all wasted expenditure
+- Property damage and personal injury
+  - Personal injury
+    - The ‘usual heads’ of damage are available for personal injury caused by a breach of contract: economic loss, earning capacity, non-economic loss.
+  - Property damage / non-compliant work
+    - Apply Bellgrove v Eldridge (1954) 90 CLR 613
+      - Plaintiff can sue for damages sufficient to repair/rectify, if the work done is:
+        - Necessary; and
+        - Reasonable.
+      - Otherwise, difference in value can be awarded.
+- Non-economic loss
+  - NON-ECONOMIC LOSS
+    - Damages for non-economic loss resulting from a deliberate or malicious breach are not compensated in contract.
+    - No aggravated or exemplary damages for breach of contract.
+    - Hamlin v Great Northern Railway Company [1856] 156 ER 1261
+      - "(G)enerally in actions upon contracts no damages can be given which cannot be stated specifically, and ... the plaintiff is entitled to recover whatever damages naturally result from the breach of contract, but not damages for the disappointment of mind occasioned by the breach of contract". (1262, Pollock CB) 
+      - (No damages for distress caused by being left stranded at a station such that the plaintiff missed important business meetings.)
+  - DELIBERATE BREACH OF CONTRACT
+    - Addis v Gramophone Co Ltd [1909] AC 488
+      - (490-1, Lord Loreburn LC)
+        - ‘To my mind it signifies nothing in the present case whether the claim is to be treated as for wrongful dismissal or not. In any case there was a breach of contract in not allowing the plaintiff to discharge his duties as manager, and the damages are exactly the same in either view. They are, in my opinion, the salary to which the plaintiff was entitled for the six months between October, 1905, and April, 1906, together with the commission which the jury think he would have earned had he been allowed to manage the business himself. I cannot agree that the manner of dismissal affects these damages.’
+      - (496, Lord Atkinson)
+        - In many other cases of breach of contract there may be circumstances of malice, fraud, defamation, or violence, which would sustain an action of tort as an alternative remedy to an action for breach of contract. If one should select the former mode of redress, he may, no doubt, recover exemplary damages, or what is sometimes styled vindictive damages; but if he should choose to seek redress in the form of an action for breach of contract, he lets in all the consequences of that form of action: Thorpe v. Thorpe. One of these consequences is, I think, this: that he is to be paid adequate compensation in money for the loss of that which he would have received had his contract been kept, and no more.’ (496, Lord Atkinson)
+        - ‘In my opinion, exemplary damages ought not to be, and are not according to any true principle of law, recoverable in such an action as the present, and the sums awarded to the plaintiff should therefore be decreased by the amount at which they have been  estimated, and credit for that item should not be allowed in his account.
+  - DISTRESS AND DISAPPOINTMENT
+    - Baltic Shipping Company v Dillon (1993) 176 CLR 344
+      - (362, Mason CJ; Toohey and Gaudron JJ agreeing)
+        - This policy is based on an apprehension that the recovery of compensation for injured feelings will lead to inflated awards of damages in commercial contract cases, if not contract cases generally. ... But one might ask why the injured party should be deemed to take the risk of damage of a particular kind when the fundamental principle on which damages are awarded at common law is that the injured party is to be restored to the position (not merely the financial position) in which the party would have been had the actionable wrong not taken place. Add to that the fact that anxiety and injured feelings are recognized as heads of compensable damage, at least outside the realm of the law of contract. Add as well the circumstance that the general rule has been undermined by the exceptions which have been engrafted upon it. We are then left with a rule which rests on flimsy policy foundations and conceptually is at odds with the fundamental principle governing the recovery of damages, the more so now that the approaches in tort and contract are converging.’ 
+      - (362-3, Mason CJ; Toohey and Gaudron JJ agreeing)
+        - “It is convenient now to take stock of the exceptions to the general rule … Secondly, ... a plaintiff can recover damages for pain and suffering, including mental suffering and anxiety, where the defendant's breach of contract causes physical injury to the plaintiff … 
+        - Thirdly, ... damages for breach of contract have included compensation for the physical inconvenience suffered by the plaintiff in certain circumstances. ...
+        - Fourthly, courts have included compensation for an element of subjective mental suffering where the plaintiff has sustained physical inconvenience as a result of the defendant's breach of contract and the mental suffering is directly related to that physical inconvenience
+        - ...
+        - Finally, there are other cases in which the plaintiff has recovered damages for distress, vexation and frustration where the very object of the contract has been to provide pleasure, relaxation or freedom from molestation.
+    - Moore v Scenic Tours Pty Ltd [2020] HCA 18
+      - In Baltic Shipping, every member of the Court accepted that disappointment and distress "caused by the breach of a contract ... the object of the contract being to provide pleasure or relaxation" is a compensable head of loss separate and distinct from injured feelings compensable under the rubric of pain and suffering and loss of amenities of life associated with personal injury. (Kiefel CJ, Bell, Gageler, Keane, Nettle and Gordon JJ)
+    - Insight Vacations Pty Ltd v Young (2010) 78 NSWLR 641
+      - Insight breached a ‘holiday contract’ by negligently injuring Ms Young, which caused her to end her holiday early.
+      - Trial judge awarded Ms Young:
+        - Non-economic loss damages assessed under Civil Liability Act s 16 for the physical injury; and 
+        - $8,000 for ‘distress and disappointment’
+      - [164] Whatever uncertainties may arise in relation to the expression “personal injury” in Part 2 of the CL Act ... in the present case the respondent clearly sustained personal injury in consequence of the applicant’s breach of contract. If the damages awarded for disappointment flowing from the respondent’s inability, by reason of the personal injury, to enjoy the remainder of her holiday, were damages that “relate[d] to” her injury, they were “personal injury damages” (s 11) and Part 2 of the CL Act applied in respect of the award of such damages (s 11A(1)). (Sackville AJA)
+    - Damages for distress or disappointment caused by a breach of a promise to provide pleasure, relaxation or freedom from molestation are a distinct and separate head of loss from non-economic loss damages for pain and suffering, etc.
+    - However, they will not be assessed separately if that
+    - loss relates to a claim of ‘personal injury damages’ to which Civil Liability Act Part 2 applies.
+  - PAIN AND SUFFERING
+    - PERSONAL INJURY
+      - Godley v Perry [1960] 1 All ER 36
+        - ‘I have no hesitation in concluding that this catapult was a most dangerous toy to be released on the market. As a result, the plaintiff, a child of six, was grievously injured, and his left eye completely destroyed. The injuries are the subject of agreed medical reports, and the general damages to which, subject to liability, the plaintiff is entitled in respect of pain and suffering, the loss of his eye, and the discomfort of daily removal of the artificial eye, are, in my judgment, the sum of £2,500.’ (39, Edmund Davies J)
+  - PHYSICAL INCONVENIENCE
+    - Hobbs v The London And South Western Railway Company (1875) LR 10 QB 111
+      - The Railway Company breached a contract by conveying Hobbs and his family to the wrong station late at night.
+      - The family (inc 2 young children) was forced to walk 4-5 miles home after midnight in the rain
+      - (116, Cockburn CJ)
+        - ‘... it cannot be doubted that the inconvenience was the immediate and necessary consequence of the breach of the defendants' contract to convey them to Hampton Court. Now inasmuch as there was manifest personal inconvenience, I am at a loss to see why that inconvenience should not be compensated by damages in such an action as this.’ 
+      - (122-3, Mellor J)
+        - ‘I am entirely of the same opinion. I quite agree with my Brother Parry, that for the mere inconvenience, such as annoyance and loss of temper, or vexation, or for being disappointed in a particular thing which you have set your mind upon, without real physical inconvenience resulting, you cannot recover damages. That is purely sentimental, and not a case where the word inconvenience, as I here use it, would apply. But I must say, if it is a fact that you arrived at a place where you did not intend to go to, where you are placed, by reason of the breach of contract of the carriers, at a considerable distance from your destination, the case may be otherwise.’ 
+- Scope of liability in contract
+  - CONTRIBUTORY NEGLIGENCE
+    - The contributory negligence of the plaintiff will not reduce the defendant’s liability unless the Law Reform (Miscellaneous Provisions) Act 1965 (NSW) applies. 
+    - Alternatively, the defendant may be able to argue that the plaintiff’s contributory negligence is a novus actus interveniens
+  - LAW REFORM (MISCELLANEOUS PROVISIONS) ACT 1965 (NSW)
+    - Section 8 – Definitions
+      - In this Part:
+        - claimant—see section 9(1).
+        - contributory negligence—see section 9(1).
+        - court, in relation to any claim, means the court by or before which the claim falls to be determined.
+        - damage includes loss of life and personal injury.
+        - wrong means an act or omission that:
+          - (a) gives rise to a liability in tort in respect of which a defence of contributory negligence is available at common law, or
+          - (b) amounts to a breach of a contractual duty of care that is concurrent and co-extensive with a duty of care in tort.
+    - Section 9 – Apportionment of liability in cases of contributory negligence
+      - (1) If a person (the claimant) suffers damage as the result partly of the claimant’s failure to take reasonable care (contributory negligence) and partly of the wrong of any other person:
+        - (a) a claim in respect of the damage is not defeated by reason of the contributory negligence of the claimant, and
+        - (b) the damages recoverable in respect of the wrong are to be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage
+      - (2) Subsection (1) does not operate to defeat any defence arising under a contract.
+      - (3) If any contract or enactment providing for the limitation of liability is applicable to the claim, the amount of damages recoverable by the claimant by virtue of subsection (1) is not to exceed the maximum limit so applicable.
+  - NOVUS ACTUS INTERVENIENS
+    - Lambert v Lewis [1982] AC 225*
+      - ‘The Court of Appeal reasoned that, since there was no break in the chain of causation between negligence of the manufacturers, which consisted in the defective design of the coupling, and the plaintiff’s damage, there could be no such break between the dealers’ breach of warranty, which likewise consisted in the defective design of the coupling, and the farmer’s loss occasioned by his share of the liability for the plaintiff’s damage. With respect, this reasoning was erroneous. The farmer’s liability arose not from the defective design of the coupling but from his own negligence in failing, when he knew that the coupling was damaged, to have it repaired or to ascertain if it was still safe to use.’ (276-277, Lord
+      - Sometimes cited as Lexmead (Basingstoke) Ltd v Lewis
+  - MITIGATION / BETTERMENT
+    - British Westinghouse Electric and Manufacturing Co Ltd v Underground Electric Railways Co of London Ltd [1912] AC 673
+      - Westinghouse breached a contract of sale by supplying engines which had less than the power output promised.
+      - Underground therefore spent more money on running and maintenance and lost profits.
+      - Underground replaced the engines with better engines: even if Westinghouse had provided compliant engines, it would have made sense for Underground to switch to these engines.
+      - The new engines were so efficient that paid for themselves.
+      - Underground sought loss of profits and the cost of replacing the engines.
+      - “But when in the course of his business he has taken action arising out of the transaction, which action has diminished his loss, the effect in actual diminution of the loss he has suffered may be taken into account even though there was no duty on him to act.”
+      - “The arbitrator does not in his finding of fact lay any stress on the increase in kilowatt power of the new machines, and I think that the proper inference is that such increase was regarded by him as a natural and prudent course followed by those whose object was to avoid further loss, and that it formed part of a continuous dealing with the situation in which they found themselves, and was not an independent or disconnected transaction.” (Lord Haldane LC)
+    - Clark v Macourt (2013) 253 CLR 1
+      - (Keane J)
+        - [142] ... This case is not analogous to British Westinghouse ... . In that case, the cost of machines purchased as substitutes for defective machines was recoverable but subject to a reduction to take account of any extra profit to the buyer resulting from the replacement of the defective machines. It is not suggested that the evidence established extra profitability attributable to the use of the Xytex sperm. As noted above, the respondent did not advance evidence which might have permitted a finding that the Xytex sperm was of a quality which would have commanded a higher price than the St George sperm would have had it satisfied the warranties in the Deed. Rather, the respondent's case was that the appellant's claim was flawed in point of principle so that no damages were recoverable, and he advanced no evidence to establish a basis for a "betterment discount".
+        - [143] British Westinghouse is irrelevant in this case for the further reason that the buyer in that case did not claim the difference between the actual value of the goods at the time of delivery and the value they would have had if they had complied with the seller's contractual obligations. Because the buyer claimed the cost of buying substitute goods several years after the original delivery, the House of Lords held that the buyer's action “formed part of a continuous dealing with the situation in which [the buyer] found [itself], and was not an independent or disconnected transaction.” As Benjamin's Sale of Goods explains, if the buyer in British Westinghouse had claimed the difference between the value of the goods and the value of compliant goods at the time of delivery, that claim could not have been reduced.
+    - Potential consequence of Clark v Macourt:
+      - In claims for substitute performance, the plaintiff’s actions after the breach are irrelevant;
+      - But if the plaintiff sues for actual loss, then the principles of mitigation apply.
+    - Example
+      - Contract to sell a good for $10,000
+      - Buyer repudiates: market value at date of repudiation is $9,000.
+      - Seller stores good for a week (Cost = $1,000)
+      - Seller sells good to third party for $10,000
+      - Damages for substitute performance = $1,000 (difference between contract price and market price at date of breach).
+      - Claim for $1,000 for storage (consequential loss) subject to mitigation.
+  - NEGATIVE CONTINGENCIES
+    - Commonwealth v Amann Aviation Pty Ltd (1992) 174 CLR 64
+      - (174-5, Toohey J) 
+        - ‘It follows from what has been said that the fairest method of assessing damages, and the method most appropriate for the implementation of the concept of compensation in circumstances of uncertainty, is to balance contingencies which are significant. “You must take into account all contingencies which might have reduced or extinguished the loss”: Lord Denning MR in The Mihalis Angelos (1971) 1 QB 164, at p 196. … 
+        - Applying these conclusions to the present case, it is clear that the prospects of both termination and, more importantly, renewal (or non-renewal) of the contract were significant contingencies to be taken into account in determining where the burden of the expenditure should lie.’ 
+  - MINIMUM PERFORMANCE RULE
+    - Gumland Property Holdings Pty Limited v Duffy Bros Fruit Market (Campbelltown) Pty Limited (2008) 234 CLR 237
+      - [89] ... The principle is that where a contract-breaker has a choice of methods of performance, damages will be assessed on the basis of the contract-breaker's minimum legal obligation – the method which would  have been least onerous to the contract-breaker in the sense that non-compliance with it attracts the lowest measure of damages. ... (The Court)
+    - Example
+      - Seller agrees to sell “100 tons +/- 5%” wheat to a purchaser.
+      - Seller fails to deliver any wheat – purchaser sues.
+      - Damages should be assessed on the basis that seller’s minimum obligation was to supply 95 tons.
+    - Example
+      - Ongoing contract allows the defendant to terminate the contract with 1 month’s notice.
+      - Plaintiff terminates for defendant’s breach and sues for damages.
+      - Damages should be assessed on the basis that the defendant would have validly terminated it and the contract would have continued for only another month.
+    - The Mihalis Angelos [1971] 1 QB 164
+      - Charter of the Mihalis Angelos to pick up ore in Haiphong (Vietnam) on 20 July 1965.
+      - Cl 11: charterer could unilaterally terminate the contract if the ship not ready for loading in Haiphong on 20 July.
+      - Charterers repudiate the agreement a few days before 20 July.
+      - Ship would not have been in Haiphong on 20 July: charterers would have validly terminated.
+      - Shipowners sue for damages for full duration of charter.
+      - (202-3, Edmund Davies LJ)
+        - ‘... Seeing that the renunciation itself is the breach, the damages must be measured by compensating the injured party for the loss he has suffered by reason of the renunciation. You must take into account all contingencies which might have reduced or extinguished the loss. … It follows that if the defendant has under the contract an option which would reduce or extinguish the loss, it will be assumed that he would exercise it.’ (196-7, Lord Denning)
+        - ‘One must look at the contract as a whole, and if it is clear that the innocent party has lost nothing, he should recover no more than nominal damages for the loss of his right to have the whole contract completed. The assumption has to be made that, had there been no anticipatory breach, the defendant would have performed his legal obligation and no more. 'A defendant is not liable in damages for not doing that which he is not bound to do': per Scrutton LJ in Abrahams v Herbert Reiach Ltd [1922] 1 KB 477, 482 ...’
+    - TCN Channel 9 Pty Ltd v Hayden Enterprises Pty Ltd (1989) 16 NSWLR 130
+      - (154, Hope JA)
+        - ‘The question thus arises whether the mere existence of this contractual right in Channel 9 operates automatically to restrict the damages which can be awarded to Productions, or whether regard can be had to the facts. ... I have concluded that the true principle does allow, indeed require, that regard be had to the facts, although of course the rights and obligations flowing from the contract are the starting point of the matter.
+        - In the first place the question of what is the least burdensome mode of performing the contract for the defendant is not to be tested by isolating the particular contractual provision and the defendant's rights under it from the rest of the relevant circumstances. …
+      - (156, Hope JA)
+        -  ‘Carruthers J was entitled to have regard to two matters in his assessment of Productions' damages having regard to cl 10. First, he was entitled to have regard to the fact that up to trial Channel 9 did not form any desire to terminate the programme; at all times it had the desire to continue the programme. Secondly, as regards the time after trial, the evidence supported a finding that the strong probability was that the desire would continue and that, to use the words of Diplock LJ, Channel 9 would not cut off its nose to spite its face and terminate the programme simply to limit Productions' damages.’ 
+## Week 8: Introduction to equitable remedies
+
+- Introduction to equitable remedies and Equitable defences
+  - Key vocabulary in this topic:
+    - Auxiliary jurisdiction (equity): When equity acts in aid of legal rights. For example, providing an equitable remedy for a legal wrong. 
+    - Clean hands: An equitable defence that may deny a plaintiff an equitable remedy if they have acted unconscientiously or in bad faith. 
+    - 'Doing equity': Equity may require that the plaintiff do something to earn equitable relief. 
+    - Hardship: An equitable defence that may deny a plaintiff an equitable remedy if granting it would be oppressive to the defendant. 
+    - Laches: An equitable defence that may deny a plaintiff an equitable remedy if they have unreasonably delayed seeking relief.
+    - Primary jurisdiction (equity): When equity acts in aid of interests recognised only in equity. For example, when equity protects the beneficiary under a trust by ordering an equitable remedy. We do not consider equity's primary jurisdiction in this subject. You study that in 70517 Equity and Trusts.
+- Introduction
+  - Equitable remedies are discretionary
+  - All circumstances of the case are relevant
+  - Conduct of the plaintiff closely considered
+  - Equity is a court of conscience: it will not permit an unconscientious outcome for either party.
+  - Corin v Patton (1990) 169 CLR 540
+    - “Like other maxims of equity, it is not a specific rule or principle of law. It is a summary statement of a broad theme which underlies equitable concepts and principles.” (Mason CJ and McHugh J)
+  - EQUITABLE MAXIMS / DEFENCES
+    - CLEAN HANDS
+      - Dering v Earl of Winchelsea (1787) 29 ER 1184
+        - "... a man must come into a Court of equity with clean hands; but when this is said, it does not mean a general depravity; it must have an immediate and necessary relation to the equity sued for; it must be a depravity in a legal as well as in a moral sense." (Lord Chief Baron Eyre) 
+      - Krakowski v Eurolynx Properties Ltd (1995) 183 CLR 563
+        - “Once fraud is found, however, the Court must determine whether the purchasers' purported rescission of the contract was effective to avoid the transaction ab initio. Rescission is effective if, at the time the writ was issued, equity by the exercise of its powers can restore the parties substantially to the status quo. But, as the equitable remedy of an order to restore the parties to the status quo consequent on rescission is discretionary, the remedy will be denied if a purchaser seeking the order acts unconscientiously during the pendency of the action.” (Brennan, Deane, Gaudron and McHugh JJ)
+  - ONE WHO SEEKS EQUITY MUST DO EQUITY
+    - Chen v Marcolongo (2009) 260 ALR 353
+      - [318] ... Whenever a person has an equity against another person, that person is required to “do equity”. ... Snell’s, Equity, 31st ed … at [5–09] says that this means:
+        - To obtain equitable relief the claimant must be prepared to do “equity”, in its popular sense of what is right and fair to the defendant. This is a rule of “unquestionable justice” which, however, “decides nothing in itself: for you must first enquire what are the equities which the defendant must do, and what the plaintiff ought to have”.
+      - The quotes come from the judgment of Wigram VC in Neesom v Clarkson (1845) 4 Hare 97 at 100 ; 67 ER 576 at 578. (Young JA)
+      - [319] What is required is that equity must ensure the observance of the requirements of good conscience and practical justice: Vadasz v Pioneer Concrete (SA) Pty Ltd (1995) 184 CLR 102 at 112–3... . 
+      - [320] Obviously, what is required to do equity will vary from case to case. However, where the court sets aside a mortgage, ordinarily the court will require the plaintiff to do equity by requiring the plaintiff to refund the fruits of the transaction of which they complain: see for example Maguire v Makaronis (1997) 188 CLR 449 at 475 ... (Young JA)
+  - LACHES
+    - ‘Equity will assist the diligent and not the tardy’
+    - Fysh v Page (1956) 96 CLR 233
+      - ‘When the Court is asked to rip up a transaction years after it has been completed the lapse of time itself is one of the elements bearing upon the equities that exist entitling the plaintiff to relief. If a plaintiff establishes prima-facie grounds for relief the question whether he is defeated by delay must itself be governed by the kind of considerations upon which the principles of equity proceed. If the delay means that to grant relief would place the party whose title might otherwise be voidable on equitable grounds in an unreasonable situation, or if, because of change of circumstances, it would give the party claiming relief an unjust advantage or would impose an unfair prejudice on the opposite party, these are matters which may suffice to answer the prima-facie grounds of relief.’ (243, Dixon CJ, Webb and Kitto JJ)
+    - Lamshed v Lamshed (1963) 109 CLR 440
+      - ‘The degree of promptness required depends on the nature of the case and all its circumstances: ... Accordingly there is little point in citing cases for the purpose of comparing the period of delay in the present case with the delay which has been considered fatal to claims for specific performance in the circumstances of other cases. The bare fact of delay is not enough. Where there is nothing at all in the circumstances to justify either a conclusion that the delay has been to the prejudice of the defendant or of any third party, or a conclusion that the plaintiff ought to be regarded as having abandoned any rights he ever had, specific performance is not ordinarily refused: Fitzgerald v. Masters (1956) 95 CLR, at p 433. ...
+      - (Kitto J; Windeyer J agreeing)
+        - ... But a circumstance which is of importance, where it exists, is that the defendant has denied that he is bound by the contract. The case in which that has occurred has been called "the typical case" for refusing specific performance by reason of a delay of even a few months: Fitzgerald v. Masters (1956) 95 CLR, at p 433. "In such cases (as those of purported rescission for breach of contract or under a special condition as to title) the purchaser who wishes to attack the validity of the rescission must always come very promptly to a court of equity. It is natural and reasonable that this should be required of him, for the vendor is not to be placed indefinitely in the position of not knowing whether he can safely deal with the property in question on the footing that the contract has ceased to exist“. By parity of reasoning, a definite denial by one party that he has ever become bound by a contract of sale to which the other seeks to hold him places a clear obligation upon that other to sue promptly if he is to obtain from a court of equity a decree for specific performance. Equity will not allow the possibility of its making such a decree to be held unfairly long over the head of the party who denies the existence of the contract and asserts a right to deal with the property as his own.’
+        - “He was faced with the most emphatic form of assertion that the contract existed. Yet he found that for some reasons not disclosed to him his opponents seemed unwilling to proceed to a hearing. He might let a sleeping dog lie or take the risk of waking it. There were advantages and disadvantages in either course. The respondents had shown no intention of abandoning the rights they asserted, but their apparent lack of enthusiasm for a trial might well have encouraged him to hope, and as time went on even to believe, that they lacked faith in their cause and would let it die in the manner least likely to cause loss of face.”
+        - “The case is therefore not one of bare delay; it is not even one in which all that can be said against the granting of relief is that the plaintiffs' delay has unfairly placed the appellant in a position of uncertainty over a substantial period; it is a case in which a defendant, not precipitately but at length, in circumstances which made it not altogether unreasonable to do so, has prejudiced his position; and it is a case in which third parties, not shown to be in any way at fault and not being warned by any caveat on the title, have acquired interests which will be defeated if a decree for specific performance should now be made.” 
+      - The scope of the defence is not well-defined.
+      - Potential overlap with:
+        - Estoppel
+        - Waiver
+        - Election
+  - HARDSHIP
+    - IGA Distribution Pty Ltd v King & Taylor Pty Ltd [2002] VSC 440 (16 October 2002)
+      - [243] The sort of hardship which will preclude the grant of specific performance does not extend to precluding specific performance because the defendant has made an improvident contract. If the defendant has agreed to the terms of the contract sought to be enforced, they should be enforced. There may be cases in which the bargain which is sought to be enforced is so improvident from the defendant's point of view that equity will refuse specific relief, but the circumstances will be rare and where they occur there is likely to be involved something tantamount to undue influence which renders enforcement unconscionable. The defendant has to show that a decree of specific performance would impose hardship amounting to oppression far outweighing the inconvenience to the plaintiff if he is left to his remedy in damages. (Nettle J)
+    - Patel v Ali [1984] Ch 283
+      - “The important and true principle, in my view, is that only in extraordinary and persuasive circumstances can hardship supply an excuse for resisting performance of a contract for the sale of immovable property. A person of full capacity who sells or buys a house takes the risk of hardship to himself and his dependants, whether arising from existing facts or unexpectedly supervening in the interval before completion. This is where, to my mind, great importance attaches to the immense delay in the present case, not attributable to the defendant's conduct. Even after issue of the writ, she could not complete, if she had wanted to, without the concurrence of the absent Mr. Ahmed. Thus, in a sense, she can say she is being asked to do what she never bargained for, namely to complete the sale after more than four years, after all the unforeseeable changes that such a period entails. I think that in this way she can fairly assert that specific performance would inflict upon her “a hardship amounting to injustice” to use the phrase employed by James LJ, in a different but comparable context, in Tamplin v James(1880) 15 Ch.D. 215, 221. Equitable relief may, in my view, be refused because of an unforeseen change of circumstances not amounting to legal frustration, just as it may on the ground of mistake insufficient to avoid a contract at law.” (p 288)
+  - SUMMARY
+    - Equitable remedies are discretionary.
+    - If ordered, the court can tailor the equitable relief to meet the justice of the case.
+    - A defendant may resist an equitable remedy by arguing an equitable ‘defence’ – they may be raised in respect of any equitable relief sought.
+    - If a defendant resist equitable relief, they continue to be liable at law. 
+- Specific performance and Injunctions
+  - Key vocabulary in this topic:
+    - Injunction: An order by the court requiring the defendant to do - or to refrain from doing - something.
+    - Mandatory enforcing injunction: An order by the court requiring the defendant to do something positive to perform an obligation.
+    - Mandatory restorative injunction: An order by the court requiring the defendant to restore the status quo ante. For example, repair damage to an easement granted to the plaintiff on the defendant's land.
+    - Prohibitory injunction: An order by the court restraining the defendant from doing something.
+    - Quia timet injunction: Quia timet translates to 'because it fears'. A quia timet injunction is granted to prevent an imminent legal wrong from happening.
+    - Specific performance: An equitable remedy ordered to protect the plaintiff's legal right to performance from the defendant under a contract. In substance, the court orders the defendant to actually perform their obligations.
+- Specific performance
+  - SPECIFIC PERFORMANCE
+    - Purely contractual remedy
+      - Discretionary
+      - Equity exercises its auxiliary jurisdiction: a supplement to the common law.
+  - PRE-CONDITIONS TO RELIEF
+    - The remedy will not be ordered when:
+      - Contract is void/ unenforceable/ voidable (part performance is an exception)
+      - Impossible to perform / Futility
+      - Damages are an adequate remedy (auxiliary jurisdiction)
+  - ENFORCEABLE CONTRACT
+    - Contract never formed / void / unenforceable
+    - A binding contract:
+      - Must be legal and can be lawfully performed
+      - Essential terms identified with sufficient certainty
+      - Consideration
+  - CONSIDERATION
+    - “Equity won’t assist a volunteer”
+    - Costin v Costin [1995] ANZ ConvR 289
+      - ‘Nonetheless while nominal consideration may support a contract, in the sense of making it binding, the availability of specific performance is typically if not inevitably, negated by the consideration being merely nominal. Thus nominal consideration may go to the proper exercise of the Court's discretion in ordering specific performance, though sometimes subsumed under hardship or unfairness ...
+      - ... in the case of purely nominal consideration, Equity will look to substance over form. In so doing, it would characterise such a transaction as one of gift, though there may be a contract, when it comes to determining whether specific performance should be allowed. Thus in Corin v Patton (supra at 577) Deane J said "In determining whether a party to a transaction has given valuable consideration, equity looks to the substance not mere form.”’ (Santow J)
+  - VOIDABLE CONTRACT
+    - If the contract is voidable by the defendant due to a vitiating factor, equity will not order that it be performed:
+      - Plaintiff probably has unclean hands.
+      - Futile to enforce a contract which can be rescinded.
+  - IMPOSSIBILITY / FUTILITY
+    - “Equity, like nature, does nothing in vain”
+    - Brunner v Greenslade [1971] Ch 993
+      - ‘I accordingly think that in this case I am fabricating no new equity, but merely emphasising an established equity. This view illustrates the way in which equity, in developing one of its doctrines, refuses to allow itself to be fettered by the concept upon which the doctrine is based if to do so would make the doctrine unfair or unworkable. After all, it is of the essence of a doctrine of equity that it should be equitable, and, I may add, that it should work: equity, like nature, does nothing in vain.’ (1005-6, Megarry J)
+  - DAMAGES INADEQUATE
+    - The court prefers to order that damages be paid to finalise a dispute rather than force the defendant to perform.
+    - Damages typically awarded for breach of commercial contracts when replacement goods/services are easily available on the Market
+    - Wilson v Northampton and Banbury Junction Railway Co (1874) LR 9 Ch App 279
+      - “The Court gives specific performance instead of damages, only when it can by that means do more perfect and complete justice.” (Lord Selborne)
+  - DAMAGES INADEQUATE
+    - Sale of land
+      - Dougan v Ley (1946) 71 CLR 142
+        - “In the case of goods or securities obtainable upon the market, damages at law place the disappointed buyer or seller in as good a position as delivery of the articles or receipt of the price because it enables him to go upon the market. But damages at law for the refusal of a vendor of land to go on with the contract might not be a complete remedy to the purchaser, to whom the land might have a special value ... and the vendor's failure to complete through defect of title left the purchaser without any adequate remedy at law ... . But specific performance is also the right of a vendor of land against a defaulting purchaser. “It has been said, but has long since been overruled, that a seller may go to law, as he only wants the money, whereas the purchaser wants the estate; but a seller wants the exact sum agreed to be paid to him, and he wants to divest himself legally of the estate, which after the contract was no longer vested in him beneficially” (per Lord St. Leonards, Eastern Counties Railway Co. v. Hawkes).” (150, Dixon J)
+    - Unique / Custom made goods
+      - Dougan v Ley (1946) 71 CLR 142
+        - “The subject matter, it is said, is the sale of a chattel and, in general, a suit for the specific performance of an agreement to sell and deliver chattels will not be entertained. But, when the substance of the matter is considered, the agreement is not of this simple character. The legislation has resulted in a restriction upon the number of registered and licensed vehicles with which the calling of taxi-driving may be pursued. The contract is in fact for the transfer of a valuable privilege annexed to a chattel. ... we should treat the contract as within the scope of the remedy of specific performance.” (149, Dixon J)
+    - Defendant bankrupt/insolvent
+      - GE Capital Asset Services & Trading Asia Pacific Pty Ltd v Rocks Excavations & Plant Hire Pty Ltd [2003] NSWSC 99 (28 February 2003)
+        - [61] There is no doubt that in many cases the fact that the defendant is of doubtful solvency will operate so that the court will hold that an award of damages will not be an adequate remedy; see eg Schering Pty Ltd v Forrest Pharmaceutical Co Pty Ltd [1982] 1 NSWLR 286. (Young CJ in Eq)
+    - Difficulty quantifying loss
+      - Evans Marshall and Co Ltd v Bertola SA [1973] 1 WLR 349
+        - “The courts have repeatedly recognised there can be claims under contracts in which, as here, it is unjust to confine a plaintiff to his damages for their breach. Great difficulty in estimating these damages is one factor that can be and has been taken into account. Another factor is the creation of certain areas of damage which cannot be taken into monetary account in a common law action for breach of contract. Loss of goodwill and trade reputation are examples.” (Sachs LJ)
+    - Privity
+      - Beswick v Beswick [1968] AC 58
+        - Mr Beswick (Mrs Beswick as administrator) 
+          - Promise to sell business to Nephew
+        - Nephew
+          - Promise to pay annuity to Mrs Beswick
+        - Mrs Beswick
+    - Beswick v Beswick [1968] AC 58
+      - “The administratrix is entitled ... to enforce the agreement rather than accept its repudiation, and specific performance is more convenient than an action for arrears of payment followed by separate actions as each sum falls due. Moreover, damages for breach would be a less appropriate remedy since the parties to the agreement were intending an annuity for a widow; and a lump sum of damages does not accord with this. And if (contrary to my view) the argument that a derisory sum of damages is all that can be obtained be right, the remedy of damages in this case is manifestly useless. … Moreover, the defendant on his side has received the whole benefit of the contract and it is a matter of conscience for the court to see that he now performs his part of it.” (Lord Pearce)
+  - DISCRETIONARY FACTORS
+    - Even if the preconditions of:
+      - Enforceable contract; and
+      - Damages are inadequate are met, then the remedy may still be refused on further discretionary grounds.
+    - Equity looks at all the circumstances of the case before deciding whether to grant relief.
+    - Discretionary factors are not set in stone, but there are some well-recognised factors.
+    - There is considerable overlap between the discretionary factors.
+  - REPEATED APPLICATIONS
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - ‘But over and over again it is asserted in the books that a Court of equity will not compel one party to perform his part of a contract unless justice can be done as regards the other party ... . Nor will it as a rule enforce contracts of personal service or any other contract the execution whereof would require continued superintendence by the Court ... .’ (292-3, Starke J) 
+      - ‘Specific performance is inapplicable when the continued supervision of the Court is necessary in order to ensure the fulfilment of the contract. It is not a form of relief which can be granted if the contract involves the performance by one party of services to the other or requires their continual co-operation.’ (297-8, Dixon J)
+      - …no Court of equity would have enforced, specifically or by way of injunction, the right of the respondents to sell sweets in the theatre. Nor would any such Court have enforced the right of the appellant to supervise and control the right of selling sweets in the theatre. The enforcement of either right would have required a continued and effective superintendence of acts and services which would be impossible for any Court.” (293, Starke J)
+    - Sentinel Countrywide Retail Ltd v PC Emerald (Qld) Pty Ltd [2015] QSC 348 (7 December 2015)
+      - [11] One frequently-stated reason for declining to order a party to carry on a business is that it would require “constant supervision by the court”. However, the concept of constant supervision by the court by itself is no longer an effective or useful criterion for refusing a decree of specific performance. The objection is not to court supervision, as such. Courts are well-accustomed to exercising supervision. The objection is to the possibility of “repeated applications for rulings on compliance” with orders requiring a party to “carry on an activity, such as running a business over a more or less extended period of time”. The only means available to the court to enforce its order is the quasi- criminal procedure of punishment for contempt. This powerful weapon is often “unsuitable as an instrument for adjudicating upon the disputes which may arise over whether a business is being run in accordance with the terms of the court’s order.” ... (Applegarth J)
+  - REPEATED APPLICATIONS
+    - Dougan v Ley (1946) 71 CLR 142
+      - ‘Where the steps which are required to obtain the consent are defined and capable of supervision it is well within the competence of the Court of Equity to compel the parties to take such steps. In the present case it is the respondents who must attempt to satisfy the Commissioner in the two respects already mentioned. They must place before him such evidence as he may reasonably require for this purpose.’ (154, Williams J)
+  - AMBIGUITY
+    - Labraga v Pomfret [2005] NSWSC 973 (29 September 2005)
+      - [87] As long ago as 1746, Lord Hardwick LC in Buxton v Lister (1746) 3 Atk 383, 386; 26 ER 1020, 1022, said:
+        - Nothing is more established in this court, than every agreement of this kind ought to be certain, fair, and just in all its parts. If any of those ingredients are wanting in the case, this court will not decree a specific performance.
+      - Jones and Goodhart, Specific Performance 2nd ed p 10 have said that courts are nowadays reluctant to conclude that a contract, which is capable of specific performance, is valid at law but not enforceable in equity. However, instances can be found. .... (Young CJ in Equity)
+  - PERSONAL SERVICES
+    - Contracts of personal services (eg, employment contracts) are not specifically enforced.
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - “Nor will it as a rule enforce contracts of personal service or any other contract the execution whereof would require continued superintendence by the Court.” (292-3, Starke J) 
+      - “Specific performance is inapplicable when the continued supervision of the Court is necessary in order to ensure the fulfilment of the contract. It is not a form of relief which can be granted if the contract involves the performance by one party of services to the other or requires their continual co-operation.” (297- 8, Dixon J)
+    - Gillespie v Whiteoak [1989] 1 Qd 284
+      - ‘It also appears that the obligation to maintain and support the systems was not necessarily one which required the personal attention of the defendant. How he performed the obligation was really a matter for him. He could provide the services himself or he could entrust that function to others ... . In truth the covenant is not one which necessarily requires that the defendant provide his personal services, rather that he perform the obligation to ensure that the system is and remains functional so as to give efficacy to the contract. ...’ (288, Carter J)
+  - MUTUALITY
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - “The doctrine of the Court of chancery was against decreeing one party to perform specifically obligations which the contract imposed upon him, if it was unable to secure to him the performance by the other contracting party of the conditions upon which those obligations depended, and could only leave him to his action of damages at law in the event of the conditions being unperformed. In the present case the condition of the contract which entitles the plaintiffs and their servants to admission for the purpose of selling confectionery in the theatre is concurrent with the conditions governing the time, place and manner of supply, the character of the goods supplied, and the appearance, dress and behaviour of their servants. It would be contrary to principle to bind the Company by a decree to perform its obligations leaving it only a remedy sounding in damages in the event of a breach by the plaintiffs of the conditions to be observed by them.” (298, Dixon J)
+  - READY, WILLING AND ABLE
+    - Mehmet v Benson (1965) 113 CLR 295
+      - (307, Barwick CJ)
+        - ‘That the plaintiff was in default in payment of the instalments of the price and of the interest on the unpaid balance of it (time not being of the essence) though relevant to that question does not establish that he was not in the relevant sense ready and willing to perform the contract. If it were otherwise a purchaser in substantial default of inessential terms could never be granted specific performance. Indeed, the significance of the distinction between essential and inessential terms is derived from the fact that a person in breach of inessential terms may be granted specific performance. ". . . A plaintiff in equity may even have actually broken his contract in the letter and yet succeed, if the substance remains": per Isaacs and Rich JJ. in Fullers' Theatres Ltd. v. Musgrove (1923) 31 CLR 524, at p 550.’ 
+      - (308, Barwick CJ)
+        - ‘The question as to whether or not the plaintiff has been and is ready and willing to perform the contract is one of substance not to be resolved in any technical or narrow sense. It is important to bear in mind what is the substantial thing for which the parties contract and what on the part of the plaintiff in a suit for specific performance are his essential obligations. Here the substantial thing for which the defendant bargained was the payment of the price: and, unless time be and remain of the essence, he obtains what he bargained for if by the decree he obtains his price with such ancillary orders as recompense him for the delay in its receipt. To order specific performance in this case would not involve the court in dispensing with anything for which the vendor essentially contracted. 
+        - Of course, the plaintiff must not by his unreadiness or unwillingness to perform have disowned his obligation to do so, or abandoned his rights to the benefit of the contract.’
+  - HARDSHIP
+    - Hardship requires the court to balance:
+      - Hardship to the defendant having to perform; against
+      - Injustice to the plaintiff of providing damages as a remedy.
+    - Foreseeable hardship is generally not sufficiently oppressive to refuse specific performance.
+    - Patel v Ali [1984] Ch 283
+      - “The important and true principle, in my view, is that only in extraordinary and persuasive circumstances can hardship supply an excuse for resisting performance of a contract for the sale of immovable property. A person of full capacity who sells or buys a house takes the risk of hardship to himself and his dependants, whether arising from existing facts or unexpectedly supervening in the interval before completion. This is where, to my mind, great importance attaches to the immense delay in the present case, not attributable to the defendant's conduct. Even after issue of the writ, she could not complete, if she had wanted to, without the concurrence of the absent Mr. Ahmed. Thus, in a sense, she can say she is being asked to do what she never bargained for, namely to complete the sale after more than four years, after all the unforeseeable changes that such a period entails. I think that in this way she can fairly assert that specific performance would inflict upon her “a hardship amounting to injustice” to use the phrase employed by James LJ, in a different but comparable context, in Tamplin v James(1880) 15 Ch.D. 215, 221. Equitable relief may, in my view, be refused because of an unforeseen change of circumstances not amounting to legal frustration, just as it may on the ground of mistake insufficient to avoid a contract at law.” (288, Goulding J)
+  - DISCRETIONARY FACTORS
+    - The general equitable maxims/defences can also be a reason not to grant specific performance:
+      - Clean hands.
+      - One who seeks equity must do equity.
+      - Laches.
+  - PART PERFORMANCE
+    - Part performance will allow a party (“the plaintiff”) to enforce a contract that is not sufficiently evidenced in writing when:
+      - 1. There is a proved contract that creates or transfers an interest in land, but which is unenforceable under s 54A; 
+      - 2. The plaintiff relies on the contract and takes positive steps to perform it;
+      - 3. Where the defendant stands by and encourages or allows the plaintiff to act in reliance on the unenforceable contract; and then 
+      - 4. The defendant relies on his/her strict legal rights and insists that the contract is unenforceable under s 54A.
+      - Remedy: specific performance.
+    - Khouri v Khoury (2006) 66 NSWLR 241
+      - [31] The declaration which Barrett J made seems to carry an implication that the agreement could be enforced by specific performance notwithstanding s 54A and s 23C of the Conveyancing Act 1919, without deciding other issues relating to specific performance. The doctrine of part performance relates only to equitable remedies, usually specific performance, not to common law remedies. ... If part performance is proved, the next step is the judgment of the Court on the equities arising from the parties’ conduct. It does not necessarily follow that if there has been part performance there will be an order for specific performance, although this step would often require little consideration. ...” (Bryson JA)
+- Injunctions
+  - INJUNCTIONS
+    - An order from the court to do or not do something.
+    - Available to protect any legal, equitable or statutory rights: inc contract and tort.
+    - Failure to comply with an injunction is a contempt of court
+    - Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd (2001) 208 CLR 199
+      - [60] ... Because it is a remedy, it is axiomatic that it can only issue to protect an equitable or legal right or, which is often the same thing, to prevent an equitable or legal wrong. So to say, is simply to emphasise that the function of courts is to do justice according to law. (Gaudron J)
+    - Victoria Park Racing & Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 479
+      - ‘But courts of equity have not in British jurisdictions thrown the protection of an injunction around all the intangible elements of value, that is, value in exchange, which may flow from the exercise by an individual of his powers or resources whether in the organization of a business or undertaking or the use of ingenuity, knowledge, skill or labour. … 
+      - In my opinion, the right to exclude the defendants from broadcasting a description of the occurrences they can see upon the plaintiff's land is not given by law. It is not an interest falling within any category which is protected at law or in equity.’ (Dixon J)
+  - AUXILIARY JURISDICTION
+    - Exclusive / auxiliary jurisdiction
+      - Injunctions issued to protect equitable interests: exclusive jurisdiction (not covered in this course)
+      - Injunctions issued to protect legal interests (ie, tort and contract): auxiliary jurisdiction.
+    - Auxiliary jurisdiction
+      - Injunctions are discretionary. The plaintiff must convince the court that the equitable remedy is appropriate.
+      - The court will consider discretionary factors similar to the factors considered in specific performance.
+  - INJUNCTIONS
+    - In this subject, injunctions can be sought:
+      - To halt or prevent a trespass to goods or land.
+      - To halt or prevent a nuisance.
+      - To restore property after a trespass or nuisance.
+      - To prevent a party from breaching a contract.
+      - To compel performance of a term of a contract (indistinguishable from specific performance).
+    - Typically, an injunction is prohibitory (ie, an order not to do something).
+    - Mandatory inunctions: an injunction to do something:
+      - Undo damage/an act (‘restorative mandatory injunction’)
+      - Do an act / Perform an obligation (‘enforcing mandatory injunction’)
+  - SUPREME COURT ACT 1970 (NSW)
+    - Section 66 – Injunction
+      - (1) The Court may, at any stage of proceedings, by interlocutory or other injunction, restrain any threatened or apprehended breach of contract or other injury.
+      - (2) Subsection (1) applies as well in a case where an injury is not actionable unless it causes damage as in other cases.
+      - (3) The Court may restrain any threatened or apprehended waste or trespass pursuant to this section:
+        - (a) whether the person against whom the injunction is sought is or is not in possession under any claim of title or otherwise, or (if out of possession) does or does not claim a right to do the act sought to be restrained under any colour of title, and
+        - (b) whether the estate claimed by any party is legal or equitable.
+      - (4) The Court may, at any stage of proceedings, on terms, grant an interlocutory injunction in any case in which it appears to the Court to be just or convenient so to do.
+  - PRECONDITIONS TO RELIEF
+    - PRECONDITIONS
+      - Protect recognised legal interest.
+      - Damages inadequate.
+      - Must not be futile or impossible to follow.
+      - Must be clear.
+      - Like specific performance, the remedy is discretionary
+  - DAMAGES INADEQUATE
+    - Irving v Emu & Prospect Gravel & Road Metal Co Ltd (1909) 26 WN (NSW) 137
+      - ‘It is true that in the proper case the court will interfere by injunction to prevent a wrong, but this does not mean that every action in tort can be turned into a suit in equity at the option of the plaintiff by asking for an injunction ... it must, generally speaking, be shown that there is an actual intention to do what is complained of, or a claim of right to it, and that the injury if done will be of such character that damages will not afford an adequate remedy.’ (137, Street J)
+    - Court considers similar factors to specific performance:
+      - Damages are difficult or impossible to calculate.
+      - The defendant has no money, but can obey the injunction.
+    - Other considerations not usually relevant to specific performance (protecting property):
+      - The plaintiff’s interests will be irreparably harmed or unique or valuable property is threatened.
+      - The wrong is likely to continue.
+  - PROPERTY INTERESTS
+    - Lord v McMahon [2015] NSWSC 1619 (24 November 2015)
+      - [168] But generally speaking, equity will not regard common law damages as an adequate remedy for an injury to land: ... And equity has long granted injunctions in the auxiliary jurisdiction to restrain trespasses to land or the continuation or repetition of such trespasses ... . Prima facie a landowner is entitled to an injunction to restrain a trespass: ... .
+      - [169] But if there is no question of irreparable injury involved, the injunction may nevertheless not be granted. Injunctions have been refused because the trespass involved no appreciable damage to a plaintiff: ... . (Slattery J) (citations omitted)
+  - IMPOSSIBILITY / FUTILITY
+    - An injunction won’t be granted if:
+      - Impossible to comply.
+      - Futile.
+    - Uncertainty
+      - Redland Bricks Ltd v Morris [1970] AC 652
+        - ‘If in the exercise of its discretion the court decides that it is a proper case to grant a mandatory injunction, then the court must be careful to see that the defendant knows exactly in fact what he has to do and this means not as a matter of law but as a matter of fact, so that in carrying out an order he can give his contractors the proper instructions.’ (666, Lord Upjohn)
+  - DISCRETIONARY FACTORS
+    - Again, very similar to specific performance:
+      - Hardship
+      - Unclean hands
+      - Laches
+      - Constant supervision/ repeated applications [mandatory injunctions]
+      - [Contact] Enforcement of personal service obligation
+      - [Contract] Breach and readiness, willingness and ability of the plaintiff (“do equity”)
+      - [Contract] The effect of the injunction would be to compel the defendant to do something that could not be ordered by specific performance.
+  - INJUNCTION IN CONTRACT
+    - DISTINCTION FROM SPECIFIC PERFORMANCE
+    - Specific performance is only available in contract: injunctions support many different legal and equitable rights.
+    - Specific performance compels performance of the entire contract to completion: injunctions may be issued to compel performance of specific terms. 
+    - Specific performance is mandatory: injunctions (generally) are prohibitory.
+  - NEGATIVE PROMISES
+    - Injunctions are routinely awarded to enforce ‘negative’ promises.
+    - A negative promise can be ‘performed’ by doing nothing.
+    - Whether a promise is ‘negative’ is a matter of substance: promises expressed in positive terms may in substance be negative if the promisor performs the promise by doing nothing. 
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - ‘An injunction is a remedy appropriate to restrain the violation of a provision or term of a contract which is the final expression of the parties' legal relations. ... If, however, a clear legal duty is imposed by contract to refrain from some act, then, prima facie, an injunction should go to restrain the doing of that act. It appears to be of little importance now whether the duty is imposed by a term of the contract expressed in negative or affirmative language.’ (298-9, Dixon J)
+  - MANDATORY INJUNCTIONS
+    - Mandatory injunctions can enforce positive obligations, but they are rarer.
+    - Tend to leads to issues concerning:
+      - Supervision or resulting in repeated applications to the court;
+      - Enforcement of personal services; or
+      - Hardship
+    - Lumley v Wagner (1852) 1 DM & G 604
+      - ‘It is true that I have not the means of compelling her to sing, but she has no cause of complaint if I compel her to abstain from the commission of an act which she has bound herself not to do, and thus possibly cause her to fulfil her engagement.’ (619, Lord St Leonards LC)
+  - RESTORATIVE MANDATORY INJUNCTIONS
+    - An order that the defendant restore the status quo.
+    - Eg: tear down a structure; restore land; etc.
+    - Useful for trespass and nuisance.
+    - Redland Bricks Ltd v Morris [1970] AC 652
+      - “The grant of a mandatory injunction is, of course, entirely discretionary and unlike a negative injunction can never be “as of course.” Every case must depend essentially upon its own particular circumstances. Any general principles for its application can only be laid down in the most general terms:
+      - 1. A mandatory injunction can only be granted where the plaintiff shows a very strong probability upon the facts that grave damage will accrue to him in the future. As Lord Dunedin said in 1919 it is not sufficient to say “timeo.” ... It is a jurisdiction to be exercised sparingly and with caution but in the proper case unhesitatingly. 
+      - 2. Damages will not be a sufficient or adequate remedy if such damage does happen. This is only the application of a general principle of equity; …
+      - ...3. Unlike the case where a negative injunction is granted to prevent the continuance or recurrence of a wrongful act the question of the cost to the defendant to do works to prevent or lessen the likelihood of a future apprehended wrong must be an element to be taken into account:
+        - a) where the defendant has acted without regard to his neighbour's rights, or has tried to steal a march on him or has tried to evade the jurisdiction of the court or, to sum it up, has acted wantonly and quite unreasonably in relation to his neighbour he may be ordered to repair his wanton and unreasonable acts by doing positive work to restore the status quo even if the expense to him is out of all proportion to the advantage thereby accruing to the plaintiff. ... ; …
+        - “... b) but where the defendant has acted reasonably, though in the event wrongly, the cost of remedying by positive action his earlier activities is most important for two reasons. First, because no legal wrong has yet occurred (for which he has not been recompensed at law and in equity) and, in spite of gloomy expert opinion, may never occur or possibly only upon a much smaller scale than anticipated. Secondly. because if ultimately heavy damage does occur the plaintiff is in no way prejudiced for he has his action at law and all his consequential remedies in equity.” (665-6, Lord Upjohn)
+      - “... ‘If in the exercise of its discretion the court decides that it is a proper case to grant a mandatory injunction, then the court must be careful to see that the defendant knows exactly in fact what he has to do and this means not as a matter of law but as a matter of fact, so that in carrying out an order he can give his contractors the proper instructions.’ (Lord Upjohn) 
+  - QUIA TIMET INJUNCTIONS
+    - Quia timet: “since he or she fears”
+    - An injunction sought before the wrong, to preserve the status quo.
+    - The court must be satisfied that:
+      - The wrong is imminent / likely to occur; and
+      - Will result in substantial damage.
+    - Evidence that the defendant has committed the wrong increases the chance the injunction will be granted.
+    - Proctor v Bailey (1889) 42 Ch D 390
+      - ‘The Court of Chancery said, ‘Where a man threatens and intends to do an unlawful act, we will, before it is done, grant an injunction to prevent his doing it and we will grant it where the act has been done and is likely to be repeated.’ (398, Cotton LJ)
+    - Uber BV & Anor v Howarth [2017] NSWSC 54 (3 April 2017)
+      - [194] Equity has well-established jurisdiction to grant injunctions to restrain legal wrongs. Provided the plaintiff possesses a legal right, and that right is arguably of a proprietary nature, and the right is threatened or has already been infringed and damages would not be a sufficient remedy, then the court may grant an injunction in the auxiliary jurisdiction. Each of these four requirements is made out here.
+      - [195] (1) Establishing a Legal Right. In the Equity Court’s auxiliary jurisdiction a plaintiff can only obtain an injunction in aid of an actual legal right: Waterside Workers Federation of Australia v J.W. Alexander Ltd [1918] HCA 56; (1918) 25 CLR 434 at 464. Uber identifies the relevant legal right here as the tort of intimidation. The ingredients of that tort are established in this case. This is discussed earlier in these reasons. …
+      - [196] (2) A Proprietary Right. The legal right being protected by the injunction must be of a proprietary nature. But this requirement has now been so modified that learned text writers have said of it “that its very existence at the moment must be regarded as crepuscular”: RP Meagher, JD Heydon, MJ Leeming and PG Turner, Meagher, Gummow & Lehane’s Equity: Doctrines and Remedies (5th ed 2015, LexisNexis Butterworths), paragraph [21- 040] (“Meagher, Gummow and Lehane”). If proof of a proprietary right is necessary here, in my view it can readily be established. The tort of intimidation is pursued here to protect the goodwill of Uber’s business, even though it may incidentally prevent trespasses to the person of a number of Uber drivers. ... 
+      - [197] (3) Actual or Threatened Infringement. A threat of future infringement of a legal right will normally be inferred from past infringement unless the circumstances point to the contrary: Proctor v Bayley (1889) 42 Ch D 390 at 399 – 400. There has been past infringement here and no clear indication from Mr Howarth that it will not continue in the future unless restrained. This is not a case where the court can be confident that harm to the plaintiff has ceased or will not resume: Barber v Penley [1893] 2 Ch 447 and Leader v Moody (1875) LR 20 Eq 145. The defendant, Mr Howarth, has not offered any undertaking not to continue the alleged wrong: Jenkins v Hope [1896] 1 Ch 278. The Court’s findings show that Mr Howarth’s threats of the commission of the tort of intimidation were express and the tort was committed right up until the Court granted its first interlocutory injunction in the proceedings on 1 July 2015, and was then followed in August 2015 by other harassing conduct against Uber drivers just outside the scope of the injunction. … 
+      - [199] (4) Damages Inadequate Recompense. Damages would not be an adequate remedy for Uber. If Mr Howarth’s tortious conduct were not restrained and continued to occur a number of results may follow: (1) Uber may suffer loss without knowing it – intimidated drivers may never report the problem but may merely cease to work for Uber and many other unknown persons may be deterred from taking up work with Uber; (2) if an Uber driver or an Uber staff member were seriously injured, while the tort was being committed, and the court concludes on the evidence that such a risk exists, then quite apart from the serious risk of irreversible personal injury to drivers, Uber’s commercial reputation may suffer irreparable harm; (3), if the injunction were not granted Uber would be likely to be involved in multiple actions against not only Mr Howarth but potentially against other persons who the evidence demonstrates have been acting in concert with him from time to time; and, ...
+      - ... (4) Uber has no other practical way of remedying Mr Howarth’s tortious conduct – were Uber itself to attempt to physically restrain Mr Howarth, his conduct would be difficult to anticipate and any self-help remedy by Uber would be likely to threaten a breach of the peace. Though challenged, the inadequacy of damages requirement still exists: Castlemaine Tooheys Ltd v State of South Australia [1986] HCA 58; (1986) 161 CLR 148 at 153 per Mason CJ. Uber’s complaint falls within recognised categories of “irreparable injury”: Meagher, Gummow and Lehane at par [21 – 040].
+## Week 9: Equitable Remedies
+
+- Key vocabulary in this topic:
+  - Auxiliary jurisdiction (equity): When equity acts in aid of legal rights. For example, providing an equitable remedy for a legal wrong.
+  - Clean hands: An equitable defence that may deny a plaintiff an equitable remedy if they have acted unconscientiously or in bad faith.
+  - 'Doing equity': Equity may require that the plaintiff do something to earn equitable relief.
+  - Hardship: An equitable defence that may deny a plaintiff an equitable remedy if granting it would be oppressive to the defendant.
+  - Laches: An equitable defence that may deny a plaintiff an equitable remedy if they have unreasonably delayed seeking relief.
+  - Primary jurisdiction (equity): When equity acts in aid of interests recognised only in equity. For example, when equity protects the beneficiary under a trust by ordering an equitable remedy. We do not consider equity's primary jurisdiction in this subject. You study that in 70517 Equity and Trusts.
+- Introduction to equitable remedies and Equitable defences
+  - INTRODUCTION
+    - Equitable remedies are discretionary
+    - All circumstances of the case are relevant
+    - Conduct of the plaintiff closely considered
+    - Equity is a court of conscience: it will not permit an unconscientious outcome for either party.
+    - Corin v Patton (1990) 169 CLR 540
+      - “Like other maxims of equity, it is not a specific rule or principle of law. It is a summary statement of a broad theme which underlies equitable concepts and principles.” (Mason CJ and McHugh J)
+- EQUITABLE MAXIMS / DEFENCES
+  - CLEAN HANDS
+    - Dering v Earl of Winchelsea (1787) 29 ER 1184
+      - "... a man must come into a Court of equity with clean hands; but when this is said, it does not mean a general depravity; it must have an immediate and necessary relation to the equity sued for; it must be a depravity in a legal as well as in a moral sense." (Lord Chief Baron Eyre)
+    - Krakowski v Eurolynx Properties Ltd (1995) 183 CLR 563
+      - “Once fraud is found, however, the Court must determine whether the purchasers' purported rescission of the contract was effective to avoid the transaction ab initio. Rescission is effective if, at the time the writ was issued, equity by the exercise of its powers can restore the parties substantially to the status quo. But, as the equitable remedy of an order to restore the parties to the status quo consequent on rescission is discretionary, the remedy will be denied if a purchaser seeking the order acts unconscientiously during the pendency of the action.” (Brennan, Deane, Gaudron and McHugh JJ)
+  - ONE WHO SEEKS EQUITY MUST DO EQUITY
+    - Chen v Marcolongo (2009) 260 ALR 353
+      - [318] ... Whenever a person has an equity against another person, that person is required to “do equity”. ... Snell’s, Equity, 31st ed … at [5–09] says that this means: 
+        - To obtain equitable relief the claimant must be prepared to do “equity”, in its popular sense of what is right and fair to the defendant. This is a rule of “unquestionable justice” which, however, “decides nothing in itself: for you must first enquire what are the equities which the defendant must do, and what the plaintiff ought to have”. 
+      - The quotes come from the judgment of Wigram VC in Neesom v Clarkson (1845) 4 Hare 97 at 100 ; 67 ER 576 at 578. (Young JA)
+      - [319] What is required is that equity must ensure the observance of the requirements of good conscience and practical justice: Vadasz v Pioneer Concrete (SA) Pty Ltd (1995) 184 CLR 102 at 112–3...
+      - [320] Obviously, what is required to do equity will vary from case to case. However, where the court sets aside a mortgage, ordinarily the court will require the plaintiff to do equity by requiring the plaintiff to refund the fruits of the transaction of which they complain: see for example Maguire v Makaronis (1997) 188 CLR 449 at 475 ... (Young JA)
+  - LACHES
+    - ‘Equity will assist the diligent and not the tardy’
+    - Fysh v Page (1956) 96 CLR 233
+      - ‘When the Court is asked to rip up a transaction years after it has been completed the lapse of time itself is one of the elements bearing upon the equities that exist entitling the plaintiff to relief. If a plaintiff establishes prima-facie grounds for relief the question whether he is defeated by delay must itself be governed by the kind of considerations upon which the principles of equity proceed. If the delay means that to grant relief would place the party whose title might otherwise be voidable on equitable grounds in an unreasonable situation, or if, because of change of circumstances, it would give the party claiming relief an unjust advantage or would impose an unfair prejudice on the opposite party, these are matters which may suffice to answer the prima-facie grounds of relief.’ (243, Dixon CJ, Webb and Kitto JJ) 
+    - Lamshed v Lamshed (1963) 109 CLR 440
+      - ‘The degree of promptness required depends on the nature of the case and all its circumstances: ... Accordingly there is little point in citing cases for the purpose of comparing the period of delay in the present case with the delay which has been considered fatal to claims for specific performance in the circumstances of other cases. The bare fact of delay is not enough. Where there is nothing at all in the circumstances to justify either a conclusion that the delay has been to the prejudice of the defendant or of any third party, or a conclusion that the plaintiff ought to be regarded as having abandoned any rights he ever had, specific performance is not ordinarily refused: Fitzgerald v. Masters (1956) 95 CLR, at p 433. …
+      - ... But a circumstance which is of importance, where it exists, is that the defendant has denied that he is bound by the contract. The case in which that has occurred has been called "the typical case" for refusing specific performance by reason of a delay of even a few months: Fitzgerald v. Masters (1956) 95 CLR, at p 433. "In such cases (as those of purported rescission for breach of contract or under a special condition as to title) the purchaser who wishes to attack the validity of the rescission must always come very promptly to a court of equity. It is natural and reasonable that this should be required of him, for the vendor is not to be placed indefinitely in the position of not knowing whether he can safely deal with the property in question on the footing that the contract has ceased to exist“. By parity of reasoning, a definite denial by one party that he has ever become bound by a contract of sale to which the other seeks to hold him places a clear obligation upon that other to sue promptly if he is to obtain from a court of equity a decree for specific performance. Equity will not allow the possibility of its making such a decree to be held unfairly long over the head of the party who denies the existence of the contract and asserts a right to deal with the property as his own.’ (Kitto J; Windeyer J agreeing) 
+      - “He was faced with the most emphatic form of assertion that the contract existed. Yet he found that for some reasons not disclosed to him his opponents seemed unwilling to proceed to a hearing. He might let a sleeping dog lie or take the risk of waking it. There were advantages and disadvantages in either course. The respondents had shown no intention of abandoning the rights they asserted, but their apparent lack of enthusiasm for a trial might well have encouraged him to hope, and as time went on even to believe, that they lacked faith in their cause and would let it die in the manner least likely to cause loss of face.” 
+      - “The case is therefore not one of bare delay; it is not even one in which all that can be said against the granting of relief is that the plaintiffs' delay has unfairly placed the appellant in a position of uncertainty over a substantial period; it is a case in which a defendant, not precipitately but at length, in circumstances which made it not altogether unreasonable to do so, has prejudiced his position; and it is a case in which third parties, not shown to be in any way at fault and not being warned by any caveat on the title, have acquired interests which will be defeated if a decree for specific performance should now be made.” (Kitto J; Windeyer J agreeing)
+    - The scope of the defence is not well-defined.
+      - Potential overlap with:
+        - Estoppel
+        - Waiver
+        - Election
+  - HARDSHIP
+    - IGA Distribution Pty Ltd v King & Taylor Pty Ltd [2002] VSC 440 (16 October 2002)
+      - [243] The sort of hardship which will preclude the grant of specific performance does not extend to precluding specific performance because the defendant has made an improvident contract. If the defendant has agreed to the terms of the contract sought to be enforced, they should be enforced. There may be cases in which the bargain which is sought to be enforced is so improvident from the defendant's point of view that equity will refuse specific relief, but the circumstances will be rare and where they occur there is likely to be involved something tantamount to undue influence which renders enforcement unconscionable. The defendant has to show that a decree of specific performance would impose hardship amounting to oppression far outweighing the inconvenience to the plaintiff if he is left to his remedy in damages. (Nettle J) 
+    - Patel v Ali [1984] Ch 283
+      - “The important and true principle, in my view, is that only in extraordinary and persuasive circumstances can hardship supply an excuse for resisting performance of a contract for the sale of immovable property. A person of full capacity who sells or buys a house takes the risk of hardship to himself and his dependants, whether arising from existing facts or unexpectedly supervening in the interval before completion. This is where, to my mind, great importance attaches to the immense delay in the present case, not attributable to the defendant's conduct. Even after issue of the writ, she could not complete, if she had wanted to, without the concurrence of the absent Mr. Ahmed. Thus, in a sense, she can say she is being asked to do what she never bargained for, namely to complete the sale after more than four years, after all the unforeseeable changes that such a period entails. I think that in this way she can fairly assert that specific performance would inflict upon her “a hardship amounting to injustice” to use the phrase employed by James LJ, in a different but comparable context, in Tamplin v James (1880) 15 Ch.D. 215, 221. Equitable relief may, in my view, be refused because of an unforeseen change of circumstances not amounting to legal frustration, just as it may on the ground of mistake insufficient to avoid a contract at law.” (p 288)
+  - SUMMARY
+    - Equitable remedies are discretionary.
+    - If ordered, the court can tailor the equitable relief to meet the justice of the case.
+    - A defendant may resist an equitable remedy by arguing an equitable ‘defence’ – they may be raised in respect of any equitable relief sought.
+    - If a defendant resist equitable relief, they continue to be liable at law
+- Key vocabulary in this topic:
+  - Injunction: An order by the court requiring the defendant to do - or to refrain from doing - something.
+  - Mandatory enforcing injunction: An order by the court requiring the defendant to do something positive to perform an obligation.
+  - Mandatory restorative injunction: An order by the court requiring the defendant to restore the status quo ante. For example, repair damage to an easement granted to the plaintiff on the defendant's land.
+  - Prohibitory injunction: An order by the court restraining the defendant from doing something.
+  - Quia timet injunction: Quia timet translates to 'because it fears'. A quia timet injunction is granted to prevent an imminent legal wrong from happening.
+  - Specific performance: An equitable remedy ordered to protect the plaintiff's legal right to performance from the defendant under a contract. In substance, the court orders the defendant to actually perform their obligations.
+- Specific performance
+  - SPECIFIC PERFORMANCE
+    - Purely contractual remedy
+    - Discretionary
+    - Equity exercises its auxiliary jurisdiction: a supplement to the common law.
+  - PRE-CONDITIONS TO RELIEF
+    - The remedy will not be ordered when:
+      - Contract is void/ unenforceable/ voidable (part performance is an exception)
+      - Impossible to perform / Futility
+      - Damages are an adequate remedy (auxiliary jurisdiction)
+  - ENFORCEABLE CONTRACT
+    - Contract never formed / void / unenforceable
+    - A binding contract:
+      - Must be legal and can be lawfully performed
+      - Essential terms identified with sufficient certainty
+      - Consideration
+  - Consideration
+    - “Equity won’t assist a volunteer”
+    - Costin v Costin [1995] ANZ ConvR 289
+      - ‘Nonetheless while nominal consideration may support a contract, in the sense of making it binding, the availability of specific performance is typically if not inevitably, negated by the consideration being merely nominal. Thus nominal consideration may go to the proper exercise of the Court's discretion in ordering specific performance, though sometimes subsumed under hardship or unfairness ...
+      - ... in the case of purely nominal consideration, Equity will look to substance over form. In so doing, it would characterise such a transaction as one of gift, though there may be a contract, when it comes to determining whether specific performance should be allowed. Thus in Corin v Patton (supra at 577) Deane J said "In determining whether a party to a transaction has given valuable consideration, equity looks to the substance not mere form.”’ (Santow J)
+  - VOIDABLE CONTRACT
+    - If the contract is voidable by the defendant due to a vitiating factor, equity will not order that it be performed:
+      - Plaintiff probably has unclean hands.
+      - Futile to enforce a contract which can be rescinded.
+  - IMPOSSIBILITY / FUTILITY
+    - “Equity, like nature, does nothing in vain”
+    - Brunner v Greenslade [1971] Ch 993
+      - ‘I accordingly think that in this case I am fabricating no new equity, but merely emphasising an established equity. This view illustrates the way in which equity, in developing one of its doctrines, refuses to allow itself to be fettered by the concept upon which the doctrine is based if to do so would make the doctrine unfair or unworkable. 
+      - After all, it is of the essence of a doctrine of equity that it should be equitable, and, I may add, that it should work:equity, like nature, does nothing in vain.’ (1005-6, Megarry J)
+  - DAMAGES INADEQUATE
+    - The court prefers to order that damages be paid to finalise a dispute rather than force the defendant to perform.
+    - Damages typically awarded for breach of commercial contracts when replacement goods/services are easily available on the market
+    - Wilson v Northampton and Banbury Junction Railway Co (1874) LR 9 Ch App 279
+      - “The Court gives specific performance instead of damages, only when it can by that means do more perfect and complete justice.” (Lord Selborne)
+  - DAMAGES INADEQUATE
+    - Sale of land - Dougan v Ley (1946) 71 CLR 142
+      - “In the case of goods or securities obtainable upon the market, damages at law place the disappointed buyer or seller in as good a position as delivery of the articles or receipt of the price because it enables him to go upon the market. But damages at law for the refusal of a vendor of land to go on with the contract might not be a complete remedy to the purchaser, to whom the land might have a special value ... and the vendor's failure to complete through defect of title left the purchaser without any adequate remedy at law ... . But specific performance is also the right of a vendor of land against a defaulting purchaser. “It has been said, but has long since been overruled, that a seller may go to law, as he only wants the money, whereas the purchaser wants the estate; but a seller wants the exact sum agreed to be paid to him, and he wants to divest himself legally of the estate, which after the contract was no longer vested in him beneficially” (per Lord St. Leonards, Eastern Counties Railway Co. v. Hawkes).” (150, Dixon J)
+    - Unique / Custom made goods - Dougan v Ley (1946) 71 CLR 142
+      - “The subject matter, it is said, is the sale of a chattel and, in general, a suit for the specific performance of an agreement to sell and deliver chattels will not be entertained. But, when the substance of the matter is considered, the agreement is not of this simple character. The legislation has resulted in a restriction upon the number of registered and licensed vehicles with which the calling of taxi-driving may be pursued. The contract is in fact for the transfer of a valuable privilege annexed to a chattel. ... we should treat the contract as within the scope of the remedy of specific performance.” (149, Dixon J)
+    - Defendant bankrupt/insolvent - GE Capital Asset Services & Trading Asia Pacific Pty Ltd v Rocks Excavations & Plant Hire Pty Ltd [2003] NSWSC 99 (28 February 2003)
+      - [61] There is no doubt that in many cases the fact that the defendant is of doubtful solvency will operate so that the court will hold that an award of damages will not be an adequate remedy; see eg Schering Pty Ltd v Forrest Pharmaceutical Co Pty Ltd [1982] 1 NSWLR 286. (Young CJ in Eq)
+    - Difficulty quantifying loss - Evans Marshall and Co Ltd v Bertola SA [1973] 1 WLR 349
+      - “The courts have repeatedly recognised there can be claims under contracts in which, as here, it is unjust to confine a plaintiff to his damages for their breach. Great difficulty in estimating these damages is one factor that can be and has been taken into account. Another factor is the creation of certain areas of damage which cannot be taken into monetary account in a common law action for breach of contract. Loss of goodwill and trade reputation are examples.” (Sachs LJ)
+    - Privity
+      - Beswick v Beswick [1968] AC 58
+      - Mr Beswick (Mrs Beswick as administrator) 
+        - promises to sell business to Nephew
+      - Nephew
+        - Promises top pay annuity to Mrs Beswick 
+        - -> Mrs Beswick
+    - Beswick v Beswick [1968] AC 58
+      - “The administratrix is entitled ... to enforce the agreement rather than accept its repudiation, and specific performance is more convenient than an action for arrears of payment followed by separate actions as each sum falls due. Moreover, damages for breach would be a less appropriate remedy since the parties to the agreement were intending an annuity for a widow; and a lump sum of damages does not accord with this. And if (contrary to my view) the argument that a derisory sum of damages is all that can be obtained be right, the remedy of damages in this case is manifestly useless. ...
+      - Moreover, the defendant on his side has received the whole benefit of the contract and it is a matter of conscience for the court to see that he now performs his part of it.” (Lord Pearce)
+  - DISCRETIONARY FACTORS
+    - Even if the preconditions of:
+      - Enforceable contract; and
+      - Damages are inadequate
+    - are met, then the remedy may still be refused on further discretionary grounds.
+    - Equity looks at all the circumstances of the case before deciding whether to grant relief.
+    - Discretionary factors are not set in stone, but there are some well- recognised factors.
+    - There is considerable overlap between the discretionary factors.
+  - REPEATED APPLICATIONS
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - ‘But over and over again it is asserted in the books that a Court of equity will not compel one party to perform his part of a contract unless justice can be done as regards the other party ... . Nor will it as a rule enforce contracts of personal service or any other contract the execution whereof would require continued superintendence by the Court ... .’ (292-3, Starke J)
+      - ‘Specific performance is inapplicable when the continued supervision of the Court is necessary in order to ensure the fulfilment of the contract. It is not a form of relief which can be granted if the contract involves the performance by one party of services to the other or requires their continual co-operation.’ (297-8, Dixon J)
+    - Sentinel Countrywide Retail Ltd v PC Emerald (Qld) Pty Ltd [2015] QSC 348 (7 December 2015) 
+      - [11] One frequently-stated reason for declining to order a party to carry on a business is that it would require “constant supervision by the court”. However, the concept of constant supervision by the court by itself is no longer an effective or useful criterion for refusing a decree of specific performance. The objection is not to court supervision, as such. Courts are well-accustomed to exercising supervision. The objection is to the possibility of “repeated applications for rulings on compliance” with orders requiring a party to “carry on an activity, such as running a business over a more or less extended period of time”. The only means available to the court to enforce its order is the quasi-criminal procedure of punishment for contempt. This powerful weapon is often “unsuitable as an instrument for adjudicating upon the disputes which may arise over whether a business is being run in accordance with the terms of the court’s order.” ... (Applegarth J)
+    - Dougan v Ley (1946) 71 CLR 142
+      - ‘Where the steps which are required to obtain the consent are defined and capable of supervision it is well within the competence of the Court of Equity to compel the parties to take such steps. In the present case it is the respondents who must attempt to satisfy the Commissioner in the two respects already mentioned. They must place before him such evidence as he may reasonably require for this purpose.’ (154, Williams J)
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - “ ... no Court of equity would have enforced, specifically or by way of injunction, the right of the respondents to sell sweets in the theatre. Nor would any such Court have enforced the right of the appellant to supervise and control the right of selling sweets in the theatre. The enforcement of either right would have required a continued and effective superintendence of acts and services which would be impossible for any Court.” (293, Starke J)
+  - AMBIGUITY
+    - Labraga v Pomfret [2005] NSWSC 973 (29 September 2005)
+      - [87] As long ago as 1746, Lord Hardwick LC in Buxton v Lister (1746) 3 Atk 383, 386; 26 ER 1020, 1022, said:
+        - Nothing is more established in this court, than every agreement of this kind ought to be certain, fair, and just in all its parts. If any of those ingredients are wanting in the case, this court will not decree a specific performance.
+      - Jones and Goodhart, Specific Performance 2nd ed p 10 have said that courts are nowadays reluctant to conclude that a contract, which is capable of specific performance, is valid at law but not enforceable in equity. However, instances can be found. .... (Young CJ in Equity)
+  - PERSONAL SERVICES
+    - Contracts of personal services (eg, employment contracts) are not specifically enforced.
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - “Nor will it as a rule enforce contracts of personal service or any other contract the execution whereof would require continued superintendence by the Court.” (292-3, Starke J) 
+      - “Specific performance is inapplicable when the continued supervision of the Court is necessary in order to ensure the fulfilment of the contract. It is not a form of relief which can be granted if the contract involves the performance by one party of services to the other or requires their continual co-operation.” (297-8, Dixon J)
+    - Gillespie v Whiteoak [1989] 1 Qd 284 
+      - ‘It also appears that the obligation to maintain and support the systems was not necessarily one which required the personal attention of the defendant. How he performed the obligation was really a matter for him. He could provide the services himself or he could entrust that function to others ... . In truth the covenant is not one which necessarily requires that the defendant provide his personal services, rather that he perform the obligation to ensure that the system is and remains functional so as to give efficacy to the contract. ...’ (288, Carter J)
+  - MUTUALITY
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282
+      - “The doctrine of the Court of chancery was against decreeing one party to perform specifically obligations which the contract imposed upon him, if it was unable to secure to him the performance by the other contracting party of the conditions upon which those obligations depended, and could only leave him to his action of damages at law in the event of the conditions being unperformed. In the present case the condition of the contract which entitles the plaintiffs and their servants to admission for the purpose of selling confectionery in the theatre is concurrent with the conditions governing the time, place and manner of supply, the character of the goods supplied, and the appearance, dress and behaviour of their servants. It would be contrary to principle to bind the Company by a decree to perform its obligations leaving it only a remedy sounding in damages in the event of a breach by the plaintiffs of the conditions to be observed by them.” (298, Dixon J) 
+  - READY, WILLING AND ABLE
+    - Mehmet v Benson (1965) 113 CLR 295 
+      - ‘That the plaintiff was in default in payment of the instalments of the price and of the interest on the unpaid balance of it (time not being of the essence) though relevant to that question does not establish that he was not in the relevant sense ready and willing to perform the contract. If it were otherwise a purchaser in substantial default of inessential terms could never be granted specific performance. Indeed, the significance of the distinction between essential and inessential terms is derived from the fact that a person in breach of inessential terms may be granted specific performance. ". . . A plaintiff in equity may even have actually broken his contract in the letter and yet succeed, if the substance remains": per Isaacs and Rich JJ. in Fullers' Theatres Ltd. v. Musgrove (1923) 31 CLR 524, at p 550.’ (307, Barwick CJ)
+      - ‘The question as to whether or not the plaintiff has been and is ready and willing to perform the contract is one of substance not to be resolved in any technical or narrow sense. It is important to bear in mind what is the substantial thing for which the parties contract and what on the part of the plaintiff in a suit for specific performance are his essential obligations. Here the substantial thing for which the defendant bargained was the payment of the price: and, unless time be and remain of the essence, he obtains what he bargained for if by the decree he obtains his price with such ancillary orders as recompense him for the delay in its receipt. To order specific performance in this case would not involve the court in dispensing with anything for which the vendor essentially contracted. 
+      - Of course, the plaintiff must not by his unreadiness or unwillingness to perform have disowned his obligation to do so, or abandoned his rights to the benefit of the contract.’ (308, Barwick CJ)
+  - HARDSHIP
+    - Hardship requires the court to balance:
+      - Hardship to the defendant having to perform; against
+      - Injustice to the plaintiff of providing damages as a remedy.
+    - Foreseeable hardship is generally not sufficiently oppressive to refuse specific performance.
+    - Patel v Ali [1984] Ch 283
+      - “The important and true principle, in my view, is that only in extraordinary and persuasive circumstances can hardship supply an excuse for resisting performance of a contract for the sale of immovable property. A person of full capacity who sells or buys a house takes the risk of hardship to himself and his dependants, whether arising from existing facts or unexpectedly supervening in the interval before completion. This is where, to my mind, great importance attaches to the immense delay in the present case, not attributable to the defendant's conduct. Even after issue of the writ, she could not complete, if she had wanted to, without the concurrence of the absent Mr. Ahmed. Thus, in a sense, she can say she is being asked to do what she never bargained for, namely to complete the sale after more than four years, after all the unforeseeable changes that such a period entails. I think that in this way she can fairly assert that specific performance would inflict upon her “a hardship amounting to injustice” to use the phrase employed by James LJ, in a different but comparable context, in Tamplin v James(1880) 15 Ch.D. 215, 221. Equitable relief may, in my view, be refused because of an unforeseen change of circumstances not amounting to legal frustration, just as it may on the ground of mistake insufficient to avoid a contract at law.” (288, Goulding J)
+  - DISCRETIONARY FACTORS
+    - The general equitable maxims/defences can also be a reason not to grant specific performance:
+      - Clean hands.
+      - One who seeks equity must do equity.
+      - Laches.
+  - PART PERFORMANCE
+    - Part performance will allow a party (“the plaintiff”) to enforce a contract that is not sufficiently evidenced in writing when:
+      - 1. There is a proved contract that creates or transfers an interest in land, but which is unenforceable under s 54A;
+      - 2. The plaintiff relies on the contract and takes positive steps to perform it;
+      - 3. Where the defendant stands by and encourages or allows the plaintiff to act in reliance on the unenforceable contract; and then
+      - 4. The defendant relies on his/her strict legal rights and insists that the contract is unenforceable under s 54A.
+      - Remedy: specific performance.
+    - Khouri v Khoury (2006) 66 NSWLR 241
+      - [31] The declaration which Barrett J made seems to carry an implication that the agreement could be enforced by specific performance notwithstanding s 54A and s 23C of the Conveyancing Act 1919, without deciding other issues relating to specific performance. The doctrine of part performance relates only to equitable remedies, usually specific performance, not to common law remedies. ... If part performance is proved, the next step is the judgment of the Court on the equities arising from the parties’ conduct. It does not necessarily follow that if there has been part performance there will be an order for specific performance, although this step would often require little consideration. ...” (Bryson JA)
+- Injunctions
+  - INJUNCTIONS
+    - An order from the court to do or not do something.
+    - Available to protect any legal, equitable or statutory rights: inc contract and tort.
+    - Failure to comply with an injunction is a contempt of court.
+    - Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd (2001) 208 CLR 199
+      - [60] ... Because it is a remedy, it is axiomatic that it can only issue to protect an equitable or legal right or, which is often the same thing, to prevent an equitable or legal wrong. So to say, is simply to emphasise that the function of courts is to do justice according to law. (Gaudron J)
+    - Victoria Park Racing & Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 479
+      - ‘But courts of equity have not in British jurisdictions thrown the protection of an injunction around all the intangible elements of value, that is, value in exchange, which may flow from the exercise by an individual of his powers or resources whether in the organization of a business or undertaking or the use of ingenuity, knowledge, skill or labour. … 
+      - In my opinion, the right to exclude the defendants from broadcasting a description of the occurrences they can see upon the plaintiff's land is not given by law. It is not an interest falling within any category which is protected at law or in equity.’ (Dixon J)
+  - AUXILIARY JURISDICTION
+    - Exclusive / auxiliary jurisdiction
+      - Injunctions issued to protect equitable interests: exclusive jurisdiction (not covered in this course) 
+      - Injunctions issued to protect legal interests (ie, tort and contract): auxiliary jurisdiction.
+    - Auxiliary jurisdiction
+      - Injunctions are discretionary. The plaintiff must convince the court that the equitable remedy is appropriate.
+      - The court will consider discretionary factors similar to the factors considered in specific performance.
+  - INJUNCTIONS
+    - In this subject, injunctions can be sought:
+      - To halt or prevent a trespass to goods or land.
+      - To halt or prevent a nuisance.
+      - To restore property after a trespass or nuisance.
+      - To prevent a party from breaching a contract.
+      - To compel performance of a term of a contract (indistinguishable from specific performance).
+    - Typically, an injunction is prohibitory (ie, an order not to do something).
+    - Mandatory inunctions: an injunction to do something:
+      - Undo damage/an act (‘restorative mandatory injunction’)
+      - Do an act / Perform an obligation (‘enforcing mandatory injunction’)
+  - SUPREME COURT ACT 1970 (NSW)
+    - Section 66 – Injunction
+      - (1) The Court may, at any stage of proceedings, by interlocutory or other injunction, restrain any threatened or apprehended breach of contract or other injury.
+      - (2) Subsection (1) applies as well in a case where an injury is not actionable unless it causes damage as in other cases.
+      - (3) The Court may restrain any threatened or apprehended waste or trespass pursuant to this section:
+        - (a) whether the person against whom the injunction is sought is or is not in possession under any claim of title or otherwise, or (if out of possession) does or does not claim a right to do the act sought to be restrained under any colour of title, and
+        - (b) whether the estate claimed by any party is legal or equitable.
+      - (4) The Court may, at any stage of proceedings, on terms, grant an interlocutory injunction in any case in which it appears to the Court to be just or convenient so to do.
+  - PRECONDITIONS TO RELIEF
+    - Protect recognised legal interest.
+    - Damages inadequate.
+    - Must not be futile or impossible to follow.
+    - Must be clear.
+    - Like specific performance, the remedy is discretionary
+  - DAMAGES INADEQUATE
+    - Irving v Emu & Prospect Gravel & Road Metal Co Ltd (1909) 26 WN (NSW) 137 
+      - ‘It is true that in the proper case the court will interfere by injunction to prevent a wrong, but this does not mean that every action in tort can be turned into a suit in equity at the option of the plaintiff by asking for an injunction ... it must, generally speaking, be shown that there is an actual intention to do what is complained of, or a claim of right to it, and that the injury if done will be of such character that damages will not afford an adequate remedy.’ (137, Street J)
+    - Court considers similar factors to specific performance:
+      - Damages are difficult or impossible to calculate.
+      - The defendant has no money, but can obey the injunction.
+    - Other considerations not usually relevant to specific performance (protecting property):
+      - The plaintiff’s interests will be irreparably harmed or unique or valuable property is threatened.
+      - The wrong is likely to continue.
+  - PROPERTY INTERESTS
+    - Lord v McMahon [2015] NSWSC 1619 (24 November 2015) 
+    - [168] But generally speaking, equity will not regard common law damages as an adequate remedy for an injury to land: ... And equity has long granted injunctions in the auxiliary jurisdiction to restrain trespasses to land or the continuation or repetition of such trespasses ... . Prima facie a landowner is entitled to an injunction to restrain a trespass: ... . 
+    - [169] But if there is no question of irreparable injury involved, the injunction may nevertheless not be granted. Injunctions have been refused because the trespass involved no appreciable damage to a plaintiff: ... . (Slattery J) (citations omitted) 
+  - IMPOSSIBILITY / FUTILITY
+    - An injunction won’t be granted if:
+      - Impossible to comply.
+      - Futile.
+    - Uncertainty
+    - Redland Bricks Ltd v Morris [1970] AC 652
+      - ‘If in the exercise of its discretion the court decides that it is a proper case to grant a mandatory injunction, then the court must be careful to see that the defendant knows exactly in fact what he has to do and this means not as a matter of law but as a matter of fact, so that in carrying out an order he can give his contractors the proper instructions.’ (666, Lord Upjohn)
+  - DISCRETIONARY FACTORS
+    - Again, very similar to specific performance:
+      - Hardship
+      - Unclean hands
+      - Laches
+    - Constant supervision/ repeated applications [mandatory injunctions]
+    - [Contact] Enforcement of personal service obligation
+    - [Contract] Breach and readiness, willingness and ability of the plaintiff (“do equity”)
+    - [Contract] The effect of the injunction would be to compel the defendant to do something that could not be ordered by specific performance.
+- INJUNCTION IN CONTRACT
+  - DISTINCTION FROM SPECIFIC PERFORMANCE
+    - Specific performance is only available in contract: injunctions support many different legal and equitable rights.
+    - Specific performance compels performance of the entire contract to completion: injunctions may be issued to compel performance of specific terms.
+    - Specific performance is mandatory: injunctions (generally) are prohibitory.
+  - NEGATIVE PROMISES
+    - Injunctions are routinely awarded to enforce ‘negative’ promises.
+    - A negative promise can be ‘performed’ by doing nothing.
+    - Whether a promise is ‘negative’ is a matter of substance: promises expressed in positive terms may in substance be negative if the promisor performs the promise by doing nothing
+    - JC Williamson Ltd v Lukey (1931) 45 CLR 282 
+      - ‘An injunction is a remedy appropriate to restrain the violation of a provision or term of a contract which is the final expression of the parties' legal relations. ... If, however, a clear legal duty is imposed by contract to refrain from some act, then, prima facie, an injunction should go to restrain the doing of that act. It appears to be of little importance now whether the duty is imposed by a term of the contract expressed in negative or affirmative language.’ (298-9, Dixon J)
+  - MANDATORY INJUNCTIONS	
+    - Mandatory injunctions can enforce positive obligations, but they are rarer.
+    - Tend to leads to issues concerning:
+      - Supervision or resulting in repeated applications to the court;
+      - Enforcement of personal services; or
+      - Hardship
+    - Lumley v Wagner (1852) 1 DM & G 604
+      - ‘It is true that I have not the means of compelling her to sing, but she has no cause of complaint if I compel her to abstain from the commission of an act which she has bound herself not to do, and thus possibly cause her to fulfil her engagement.’ (619, Lord St Leonards LC)
+  - RESTORATIVE MANDATORY INJUNCTIONS
+    - An order that the defendant restore the status quo.
+    - Eg: tear down a structure; restore land; etc.
+    - Useful for trespass and nuisance.
+    - Redland Bricks Ltd v Morris [1970] AC 652 
+      - “The grant of a mandatory injunction is, of course, entirely discretionary and unlike a negative injunction can never be “as of course.” Every case must depend essentially upon its own particular circumstances. Any general principles for its application can only be laid down in the most general terms: 
+      - 1. A mandatory injunction can only be granted where the plaintiff shows a very strong probability upon the facts that grave damage will accrue to him in the future. As Lord Dunedin said in 1919 it is not sufficient to say “timeo.” ... It is a jurisdiction to be exercised sparingly and with caution but in the proper case unhesitatingly. 
+      - 2. Damages will not be a sufficient or adequate remedy if such damage does happen. This is only the application of a general principle of equity; …
+      - ...3. Unlike the case where a negative injunction is granted to prevent the continuance or recurrence of a wrongful act the question of the cost to the defendant to do works to prevent or lessen the likelihood of a future apprehended wrong must be an element to be taken into account:
+        - a) where the defendant has acted without regard to his neighbour's rights, or has tried to steal a march on him or has tried to evade the jurisdiction of the court or, to sum it up, has acted wantonly and quite unreasonably in relation to his neighbour he may be ordered to repair his wanton and unreasonable acts by doing positive work to restore the status quo even if the expense to him is out of all proportion to the advantage thereby accruing to the plaintiff. ... ; … 
+        - b) but where the defendant has acted reasonably, though in the event wrongly, the cost of remedying by positive action his earlier activities is most important for two reasons. First, because no legal wrong has yet occurred (for which he has not been recompensed at law and in equity) and, in spite of gloomy expert opinion, may never occur or possibly only upon a much smaller scale than anticipated. Secondly. because if ultimately heavy damage does occur the plaintiff is in no way prejudiced for he has his action at law and all his consequential remedies in equity.” (665-6, Lord Upjohn)
+        - ‘If in the exercise of its discretion the court decides that it is a proper case to grant a mandatory injunction, then the court must be careful to see that the defendant knows exactly in fact what he has to do and this means not as a matter of law but as a matter of fact, so that in carrying out an order he can give his contractors the proper instructions.’ (Lord Upjohn)
+  - QUIA TIMET INJUNCTIONS
+    - Quia timet: “since he or she fears”
+    - An injunction sought before the wrong, to preserve the status quo.
+    - The court must be satisfied that:
+      - The wrong is imminent / likely to occur; and
+      - Will result in substantial damage.
+    - Evidence that the defendant has committed the wrong increases the chance the injunction will be granted.
+    - Proctor v Bailey (1889) 42 Ch D 390
+      - ‘The Court of Chancery said, ‘Where a man threatens and intends to do an unlawful act, we will, before it is done, grant an injunction to prevent his doing it and we will grant it where the act has been done and is likely to be repeated.’ (398, Cotton LJ)  
+    - Uber BV & Anor v Howarth [2017] NSWSC 54 (3 April 2017) [194] Equity has well-established jurisdiction to grant injunctions to restrain legal wrongs. Provided the plaintiff possesses a legal right, and that right is arguably of a proprietary nature, and the right is threatened or has already been infringed and damages would not be a sufficient remedy, then the court may grant an injunction in the auxiliary jurisdiction. Each of these four requirements is made out here.
+    - [195] (1) Establishing a Legal Right. In the Equity Court’s auxiliary jurisdiction a plaintiff can only obtain an injunction in aid of an actual legal right: Waterside Workers Federation of Australia v J.W. Alexander Ltd [1918] HCA 56; (1918) 25 CLR 434 at 464. Uber identifies the relevant legal right here as the tort of intimidation. The ingredients of that tort are established in this case. This is discussed earlier in these reasons. ...
+    - [196] (2) A Proprietary Right. The legal right being protected by the injunction must be of a proprietary nature. But this requirement has now been so modified that learned text writers have said of it “that its very existence at the moment must be regarded as crepuscular”: RP Meagher, JD Heydon, MJ Leeming and PG Turner, Meagher, Gummow & Lehane’s Equity: Doctrines and Remedies (5th ed 2015, LexisNexis Butterworths), paragraph [21- 040] (“Meagher, Gummow and Lehane”). If proof of a proprietary right is necessary here, in my view it can readily be established. The tort of intimidation is pursued here to protect the goodwill of Uber’s business, even though it may incidentally prevent trespasses to the person of a number of Uber drivers.
+    - [197] (3) Actual or Threatened Infringement. A threat of future infringement of a legal right will normally be inferred from past infringement unless the circumstances point to the contrary: Proctor v Bayley (1889) 42 Ch D 390 at 399 – 400. There has been past infringement here and no clear indication from Mr Howarth that it will not continue in the future unless restrained. This is not a case where the court can be confident that harm to the plaintiff has ceased or will not resume: Barber v Penley [1893] 2 Ch 447 and Leader v Moody (1875) LR 20 Eq 145. The defendant, Mr Howarth, has not offered any undertaking not to continue the alleged wrong: Jenkins v Hope [1896] 1 Ch 278. The Court’s findings show that Mr Howarth’s threats of the commission of the tort of intimidation were express and the tort was committed right up until the Court granted its first interlocutory injunction in the proceedings on 1 July 2015, and was then followed in August 2015 by other harassing conduct against Uber drivers just outside the scope of the injunction. … 
+    - [199] (4) Damages Inadequate Recompense. Damages would not be an adequate remedy for Uber. If Mr Howarth’s tortious conduct were not restrained and continued to occur a number of results may follow: (1) Uber may suffer loss without knowing it – intimidated drivers may never report the problem but may merely cease to work for Uber and many other unknown persons may be deterred from taking up work with Uber; (2) if an Uber driver or an Uber staff member were seriously injured, while the tort was being committed, and the court concludes on the evidence that such a risk exists, then quite apart from the serious risk of irreversible personal injury to drivers, Uber’s commercial reputation may suffer irreparable harm; (3), if the injunction were not granted Uber would be likely to be involved in multiple actions against not only Mr Howarth but potentially against other persons who the evidence demonstrates have been acting in concert with him from time to time; and, ...
+    - ... (4) Uber has no other practical way of remedying Mr Howarth’s tortious conduct – were Uber itself to attempt to physically restrain Mr Howarth, his conduct would be difficult to anticipate and any self-help remedy by Uber would be likely to threaten a breach of the peace. Though challenged, the inadequacy of damages requirement still exists: Castlemaine Tooheys Ltd v State of South Australia [1986] HCA 58; (1986) 161 CLR 148 at 153 per Mason CJ. Uber’s complaint falls within recognised categories of “irreparable injury”: Meagher, Gummow and Lehane at par [21 – 040].
+## Week 10: Rescission and Rectification
+
+- Vocabulary
+  - Ab initio: Means 'from the beginning'
+    - If the plaintiff elects to rescind a transaction, then it is made 'void ab initio'. That means that it was void from the beginning and the parties must be restored to their pre-transaction positions.
+  - Rescission: A legal or equitable remedy that voids a legal act.
+  - Restitutio in integrum: This means 'to restore to the original condition'. If a contract is rescinded, then it is voided. Therefore, the parties must be restored to their pre-contractual positions. Hence, restitutio in integrum must be possible before the contract will be rescinded.
+  - Void: If a legal act is made 'void' then it has been nullified. It erases, or undoes, the legal effect of the act and parties must be restored to the position that they were in before the act was done.
+  - Voidable: The presence of a vitiating factor that taints a legal act usually makes the legal act voidable, not void. This means that the plaintiff may choose to void the transaction.
+- RESCISSION (Intro)
+  - Rescission
+    - Available for contracts induced by:
+      - Misrepresentation (innocent/fraudulent/negligent)
+      - Duress
+      - Undue influence
+      - Unconscionable conduct (inc Garcia)
+    - Not limited to contracts: available to undo most legal acts, including gifts.
+  - LEGAL EFFECT
+    - The plaintiff may elect to affirm or rescind a transaction.
+    - If the plaintiff elects to rescind, then the transaction is made “void ab initio” – void from the beginning.
+    - All legal acts are undone:
+      - Legal or equitable title to property transferred re-vests in original owner.
+      - Parties who received money obliged to account.
+      - Parties must be restored to their pre-contractual positions.
+  - SUBSTANTIAL RESTITUTIO IN INTEGRUM
+    - Brown v Smitt (1924) 34 CLR 160
+      - Contract rescinded.
+      - Seller obliged to return:
+        - Purchase price (£755)
+        - Adjustment (£175)
+          - £375 (Losses incurred by Smitt in performing the contract.)
+          - £-130 (Profits made by Smitt while on the land.)
+          - £-40 (Hay transferred to Smitt and used up by him.)
+      - (165-6, Knox CJ, Gavan Duffy and Starke JJ) (Citations omitted) 
+        - ‘And putting the parties in the position they were in before the contract ... does not involve replacing them in the same position in all respects, but only in respect of the rights and obligations created by the contract which is rescinded. A party, in case of rescission, cannot ask the Court to award him compensation for all collateral losses which he may have sustained by reason of the fact that he entered into the contract, such as losses incurred in carrying on a business ... but only such compensation as will restore the status quo ante in relation to the subject matter of the contract. Such losses could, in this case, only be recovered in an action of deceit.’ 
+      - (166, Knox CJ, Gavan Duffy and Starke JJ)
+        - ‘Now, it is clear, from the evidence and from the judgment of Mann J., that he made allowances for some improvements on the property sold, not permanent in their nature, and also for some collateral losses incurred in connection with a business which the plaintiff carried on upon the property. It is manifest, therefore, that the sum of £175 allowed by the learned Judge as compensation is erroneous, and cannot be sustained. We are quite unable, on the evidence, to assess the proper amount, and in any case an account on familiar lines is much more desirable than the method adopted in the Court below.’ 
+      - Nadinic v Drinkwater [2017] NSWCA 114 (30 May 2017)
+        - [35] Moreover, as part of the adjustments effected by equity to restore the parties to the previous position, in cases of fraud equity had power to include an indemnity for loss directly caused by the fraud. That was recognised by Bowen LJ in Newbigging v Adam (1886) 34 Ch D 582 at 592, in a passage reproduced and endorsed by Jordan CJ in McAllister v Richmond Brewing Co (NSW) Pty Ltd (1942) 42 SR (NSW) 187 at 192:
+          - (Leeming JA)
+            - “Common law recognised a rescission if the case shaped itself so that a Court of Common Law had jurisdiction to decide whether there should be rescission or not, but, besides this, the common law gave damages for deceit, and in my opinion gave them, not as an alternative remedy, but as an alternative or cumulative remedy as the case might be. The Court of Chancery had a concurrent jurisdiction, and in cases of fraud … there can be no doubt that complete indemnity could be given by a Court of Equity to the person who had been defrauded, so as to protect him as fully in equity as he could have been protected in law.”
+      - Rescission at common law
+        - RESCISSION AT COMMON LAW
+          - Available for:
+            - Fraudulent misrepresentation
+            - Duress
+          - Requires precise restitutio in integrum which is often a difficult pre-condition to meet.
+          - Not a problem if the contract is executory.
+        - Hunt v Silk (1804) 102 ER 1142
+          - ‘Now where a contract is to be rescinded at all, it must be rescinded in toto, and the parties put in statu quo.
+          - But here was an intermediate occupation, a part execution of the agreement, which was incapable of being rescinded. ... This objection cannot be gotten rid of: the parties cannot be put in statu quo.’ (1143-4, Lord Ellenborough CJ)
+          - ‘But the parties cannot be put in the same situation they were in, because the plaintiff has had an occupation of the premises under the agreement.’ (1144, LeBlanc J)
+        - [18.25] ... In practice rescission is rarely available at law except when the defendant’s obligations remain executory; where the defendant has only paid money, as in the case of a contract for insurance; and where the defendant has transferred chattels to the claimant that have not been used and that remain in the same condition. (Dominic O’Sullivan, Steven Elliott, Rafal Zakrzewski, The Law of Rescission (Oxford University Press, 2008))
+      - Rescission in equity
+        - Available for:
+          - Misrepresentation (innocent/fraudulent/negligent)
+          - Duress
+          - Undue influence
+          - Unconscionable conduct (inc Garcia)
+          - Breach of fiduciary duty
+          - Mistake
+        - Requires only substantial restitutio in integrum.
+        - Equity has the power to make any consequential orders to do what is “practically just” between the parties to achieve substantial restitutio in integrum:
+          - Take account of diminution of value
+          - Order pecuniary restitution of disposed items
+          - Order rescission ‘on terms’
+        - Alati v Kruger (1955) 94 CLR 216
+          - (224, Dixon CJ, Webb, Kitto and Taylor JJ)
+            - ‘If the case had to be decided according to the principles of the common law, it might have been argued that at the date when [Kruger commenced proceedings] he was not entitled to rescind the purchase, because he was not then in a position to return to [Alati] in specie that which he had received under the contract, in the same plight as that in which he had received it ... But it is necessary here to apply the doctrines of equity, and equity has always regarded as valid the disaffirmance of a contract induced by fraud even though precise restitutio in integrum is not possible, if the situation is such that, by the exercise of its powers, including the power to take accounts of profits and to direct inquiries as to allowances proper to be made for deterioration, it can do what is practically just between the parties, and by so doing restore them substantially to the status quo.’ 
+            - ‘In the present case, what changes affecting the possibility of restitution had occurred in the short period between 16th June when the respondent took possession of the business and 29th June when he issued the writ? He had had possession of the premises, and although that might have sufficed at common law to preclude rescission ... it could hardly do so in equity, since a money payment could compensate for any difference there might be between the rental value of the premises and the rent paid by the respondent to the landlords. The title to the term created by the lease had been vested in the respondent by assignment, but that was subject to any right which he had to disaffirm the transaction. The title would revest in equity when he elected to rescind, and he was in a position to make a legal re-assignment with the landlords' consent. He had taken over (as he said in evidence) about twenty pounds worth of stock, but while of course he could not restore that to the appellant in specie he could pay or allow for its value, and nothing more could in justice be required. ... 
+          - ... The business itself had deteriorated but this would not matter, for, as the trial judge has found, it was not due to any fault on the respondent's part, and even at common law the necessity to return property in its original condition was qualified so as to allow for incidents for which the buyer was not responsible, such as those to which the property was liable either from its inherent nature .. or in the course of the exercise by the buyer of those rights over it which the contract gave ... No other change had occurred. The case was therefore typical of the class of cases in which a defrauded purchaser is regarded by a court exercising equitable jurisdiction as entitled to rescind the purchase and obtain a decree, on proper terms, declaring and giving effect to the rescission as an avoidance of the transaction from the beginning. 
+        - FAULT
+          - Spence v Crawford [1939] 3 All ER 271
+            - ‘... The court must fix its eyes on the goal of doing ‘what is practically just.’ How that goal may be reached must depend on the circumstances of the case, but the court will be more drastic in exercising its discretionary powers in a case of fraud than in a case of innocent misrepresentation. ... There is no doubt good reason for the distinction. A case of innocent misrepresentation may be regarded rather as one of misfortune than as one of moral obliquity. There is no deceit or intention to defraud. The court will be less ready to pull a transaction to pieces where the defendant is innocent, whereas in the case of fraud the court will exercise its jurisdiction to the full in order, if possible, to prevent the defendant.
+      - PROPERTY
+        - CHANGE IN VALUE
+          - Lagunas Nitrate Co v Lagunas Syndicate [1899] 2 Ch 392
+            - ‘It must never be forgotten that the business of the nitrate company was a highly speculative one. The price of nitrate was liable to great fluctuation; the value of the Lagunas property is not what it was. … and the nitrate company ... worked the Lagunas with a view to its own profit until the market price of nitrate and of its own shares had permanently fallen. Then, and not before, did the nitrate company determine to rescind, if it could. Having regard to the absence of fraud, and to the impossibility of restoring the parties to their former position, the right to rescind cannot, in my judgment, now be enforced.’ (434, Lindley MR)
+        - IMPROVEMENTS
+          - Brown v Smitt (1924) 34 CLR 160
+            - (164, Knox CJ, Gavan Duffy and Starke JJ)
+              - ‘The parties being relieved of the contractual obligations, each must give back all that he obtained under the contract. Where the property the subject matter of a contract remains unchanged, no difficulty arises. Where it has been olly or substantially destroyed by the default of the party seeking rescission, there can be no rescission because there can be no restitution. But where the property has been improved or deteriorated by the act of the purchaser, and yet remains in substance what it was before the contract, equity adjusts the rights of the parties by awarding money compensation to one or the other, and so substantially putting each party in the position which he occupied before the contract was made.’ 
+            - (165, Citations omitted)
+              - ‘It would be no less unjust, however, that a person whose fraud or misrepresentation has induced the contract should be allowed to take back his property, with permanent and lasting improvements upon it made by the other party, without making any allowance for those improvements, which increased the sale value of the estate in his hands.’ (Knox CJ, Gavan Duffy and Starke JJ)
+            - (165, Knox CJ, Gavan Duffy and Starke JJ)
+              - ‘This doctrine however, would not justify improving the vendor out of his estate, as is the phrase in the books, or rendering it impossible for him to recover his estate. Rescission in such a case would be impossible, and restitution out of the question. Again, allowances for improvements which were matters of taste or personal enjoyment could not be justified.’ 
+              - ‘Nor will allowances be given for improvements made after the party making them knows, or has reasonable notice, of the defect in title. He must then take the risk.’
+            - (166, Knox CJ, Gavan Duffy and Starke JJ)
+              - ‘Now, it is clear, from the evidence and from the judgment of Mann J., that he made allowances for some improvements on the property sold, not permanent in their nature, and also for some collateral losses incurred in connection with a business which the plaintiff carried on upon the property. It is manifest, therefore, that the sum of £175 allowed by the learned Judge as compensation is erroneous, and cannot be sustained. We are quite unable, on the evidence, to assess the proper amount, and in any case an account on familiar lines is much more desirable than the method adopted in the Court below.’
+          - How to assess the value of the improvements?
+            - The actual cost of the improvement?
+            - The increase in value?
+          - Often they will coincide.
+          - If not, the fault of the defendant may be relevant.
+            - (See: Dominic O’Sullivan, Steven Elliott, Rafal Zakrzewski, The Law of Rescission (Oxford University Press, 2008) [17.41] – [17.42])
+          - [17.45] While it would go beyond the decided authorities, ... the correct measure should depend upon whether the purchaser is entitled to have his position protected, as he would be, for example, in a case of mistake, innocent misrepresentation, or presumed undue influence. Where the purchaser is entitled to protection, compensation should be in the amount of his actual outlay, so that he is left no worse off than if the contract had never been made. ... But where the purchaser’s conduct is such that he does not merit protection, the sole purpose of compensation should be to ensure that the vendor is not unjustly enriched. In these cases, compensation should be measured by the actual increase in the market value of the asset, provided that is less than the cost of the work. (Dominic O’Sullivan, Steven Elliott, Rafal Zakrzewski, The Law of Rescission (Oxford University Press, 2008))
+        - REPAIRS / MAINTENANCE
+          - Brown v Smitt (1924) 34 CLR 160
+            - (165, Knox CJ, Gavan Duffy and Starke JJ) 
+              - ‘The decision of Lord Eldon in Edwards v. M'Leay [(1818) EngR 596] is a distinct authority for the proposition that necessary repairs may be allowed in such cases; and the text-books unanimously, we think, support the view we have taken.’ (Citations omitted)
+        - USE
+          - Erlanger v New Sombrero Phosphate Co (1878) 3 App Cas 1218
+            - (1278, Lord Blackburn)
+              - ‘It would be obviously unjust that a person who has been in possession of property under the contract which he seeks to repudiate should be allowed to throw that back on the other party's hands without accounting for any benefit he may have derived from the use of the property ...’
+        - BENEFITS RECEIVED
+          - Spence v Crawford [1939] 3 All ER 271
+            - ‘I am of opinion that the appellant is entitled to reduction of the contract, on repayment of the price of the shares and making compensation as above stated, and to the execution of a transfer in his favour. ... it seems clear that the appellant would be entitled to have an accounting from the respondent for all dividends, or other payments in respect of the shares by the company since the date of the contract.’ (284, Lord Thankerton)
+        - SERVICES
+          - Atlantic Lines & Navigation Co Inc v Hallam Ltd (‘The Lucy’) [1983] 1 Lloyd’s LR 188
+            - ‘In the light of these decisions, I would have been disposed to hold that in the case of an innocent misrepresentation inducing a contract for the performance of services, it is not a bar to rescission that the contract has been partially performed, although the imposition of some order for the payment of money as an adjunct to the order for rescission (or a declaration that a prior rescission was valid) will often be required, in order to bring about a full adjustment of the equitable rights of the parties.’ (202, Mustill J)
+          - O’Sullivan v Management Agency and Music Ltd [1985] 1 QB 428
+            - Early 1070s: O’Sullivan enters into a series of management, recording and publishing agreements.
+            - O’Sullivan transfers copyright and master tapes to the defendants.
+            - Defendants provide services which elevate O’Sullivan to international fame.
+            - After agreements are fully performed, O’Sullivan rescinds on account of presumed undue influence.
+            -  (466-7, Fox J)
+              - ‘The result is, I think, that the doctrine is not to be applied too literally and that the court will do what is practically just in the individual case even though restitutio in integrum is impossible. …
+              - ... The question is not whether the parties can be restored to their original position; it is what does the justice of the case require?’
+            - (458, Dunn LJ)
+              - ‘This analysis of the cases shows that the principles of restitutio in integrum is not to be applied with its full rigour in equity in relation to transactions entered into by persons in breach of fiduciary relationship, and that such transactions may be set aside even though it is impossible to place parties precisely in the position in which they were before, provided that the court can achieve practical justice between the parties by obliging the wrongdoer to give up his profits and advantages, while at the same time compensating him for any work that he has actually performed pursuant to the transaction.’ 
+            - (468-9, Fox J)
+              - ‘... I find it impossible to believe that they did not make a significant contribution to Mr. O'Sullivan's success. It would be unjust to deny them a recompense for that. I would, therefore, be prepared ... to authorise the payment (over and above out of pocket expenses) of an allowance for the skill and labour of the first five defendants in promoting the compositions and performances and managing the business affairs of Mr. O'Sullivan, and that an inquiry (the terms of which would need to be considered with counsel) should be ordered for that purpose.
+        - MONEY
+          - Alati v Kruger (1955) 94 CLR 216
+            - (226, Dixon CJ, Webb, Kitto and Taylor JJ)
+              - ‘The judgment should therefore be varied so as to order the plaintiff to return to the defendant Alati such of the chattels mentioned in the schedule to the contract as he is able to return, and to order the defendant to repay to the plaintiff the balance of the purchase money (700 pounds) and interest thereon which shall remain after deducting the value as at the date of the contract of such of the scheduled chattels as the plaintiff cannot return, the value as at that date of the stock-in-trade which the plaintiff received from the defendant under the contract, the damages awarded in the judgment of the Supreme Court, and any amount which ought to be allowed in the defendant's favour in respect of the plaintiff's use of any of the property comprised in the contract.’
+        - Interest
+          - Re Metropolitan Coal Consumers’ Association [1892] 3 Ch 1
+            - ‘THE COURT held, that where a contract was rescinded, interest on money actually paid under it ought to be allowed, not by way of damages, but on the ground that the parties were to be restored as far as possible to their original position.’ (17, The Court)
+        - GLOBAL ASSESSMENT
+          - OFFSETTING EQUIVALENT BENEFITS
+            - Freeman v Brown [2001] NSWSC 1028
+              - (Barrett J)
+                - [85] The task of equity in a case such as this is to effect restitution. It may be appropriate for intervening changes in the subject matter to be recognised by a payment by the party to whom restitution is effected to the party by whom it is effected. An example may be found in Alati v Kruger (1955) 94 CLR 216 and, as was pointed out in the majority judgment in Maguire v Makaronis (1997) 188 CLR 449, the setting aside of a contract of sale at the suit of the vendor will normally require repayment by the purchaser of whatever has been received on account of the purchase price, together with interest. 
+                - [86] The restitution which equity effects is one which denies the perpetrator of equitable wrong the gain which should have accrued to the victim of that wrong and gives that gain to the victim. ... In the particular circumstances of the present case, I am satisfied that the respective benefits and detriments, by way of receipts and payments, in the period since 3 May 1999 may be regarded as sufficiently balanced between the parties to make it both possible and appropriate to allow them to lie where they have fallen, without the need for any accounting to be undertaken. 
+          - PARTIAL RESCISSION
+            - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+              - (Deane J)
+                - Where appropriate, an order will be made which only partly nullifies a transaction liable to be set aside in equity pursuant to the principles of unconscionable dealing ... . Where an order is made setting aside the whole of a transaction on the ground of unconscionable dealing, the order will, in an appropriate case, be made conditional upon the party obtaining relief doing equity.” 
+            - Vadasz v Pioneer Concrete (SA) Pty Ltd (1995) 184 CLR 102
+              - (The Court)
+                - “Thus unconscionability works in two ways. In its strict sense, it provides the justification for setting aside a transaction. More loosely, it provides the justification for not setting aside the transaction in its entirety or in doing so subject to conditions, so as to prevent one party obtaining an unwarranted benefit at the expense of the other.” (The Court)
+                - “The concern of equity, in moulding relief between the parties is to prevent, nullify, or provide compensation for, wrongful injury. If it appears that the other party would not have entered into the contract at all if the true position were known, the contract may be set aside in its entirety as in Amadio.”
+              - Myddleton v Lord Kenyon (1794) 2 Ves 391
+                - (408, Lord Eldon)
+                - The deed may be set aside in toto ...... I cannot make a new bargain for the parties .... The consequence is not, that a new agreement is to be made, to be introduced by this Court; but they must be reinstated in their former situation.
+              - Sheffield Nickel & Silver Plating Co Ltd v Charwin (1877) 2 QBD 214
+                - A contract voidable for fraud cannot be avoided when the other party cannot be restored to his status quo: Clarke v Dickson. For a contract cannot be rescinded in part and stand good for the residue. If it cannot be rescinded in toto, it cannot be rescinded at all; but the party complaining of the non-performance, or the fraud, must resort to an action for damages. (Lush J)
+              - De Molestina v Ponton [2001] EWHC 521 (Comm) (16 May 2001)
+                - 6.2 ... [Rescission] is not and never has had the function of providing compensation for the misrepresentation or some hybrid solution to reflect what would be fair between the parties having regard to the nature of the representation and the extent to which one party has been misled by another. Consistently with that, the court has no power to create a new bargain for the parties. What has been induced is the original bargain and it is the purpose of the remedy to return the parties to their position before that particular bargain was made. There is therefore no room for any form of equitable engineering directed to re-constructing the fabric of the original contract.
+              - Partial rescission has been rejected by English courts.
+              - Even in Australian law it is rarely granted
+      - Bars to rescission
+        - RESTITUTIO IN INTEGRUM IMPOSSIBLE
+          - Hulton v Hulton [1919] 1 KB 813
+            - ‘It is said that the Court will only rescind the contract if it can put the other party back in the position in which he was before the contract. Courts of Equity, which have long exercised this power of rescission, have endeavoured to do so on the principle that he who seeks equity must do equity, and that he who asks to have a contract rescinded must as far as possible put the parties back into the position in which they were before the contract was made.’ (825, Scrutton LJ)
+          - Spence v Crawford [1939] 3 All ER 271 
+            - (288, Lord Wright)
+              - ‘Restoration, however, is essential to the idea of restitution. To take the simplest case, if a plaintiff who has been defrauded seeks to have the contract annulled and his money or property restored to him, it would be inequitable if he did not also restore what he had got under the contract from the defendant. Though the defendant has been fraudulent, he must not be robbed, nor must the plaintiff be unjustly enriched, as he would be if he both got back what he had parted with and kept what he had received in return. The purpose of the relief is not punishment, but compensation.’ 
+            - (279, Lord Thankerton)
+              - ‘It is to be noted that the condition of the relief is the restoration of the defender to his pre-contract position, and that no stress is placed on whether the pursuer is so restored.’
+            - (282, Lord Thankerton)
+              - ‘... it is for the appellant to say whether he is content to take the number of shares sold by him, though they no longer amount to one-half of the issued capital.’
+          - O’Sullivan v Management Agency and Music Ltd [1985] 1 QB 428
+            - (466-7, Fox J)
+              - ‘The result is, I think, that the doctrine is not to be applied too literally and that the court will do what is practically just in the individual case even though restitutio in integrum is impossible. ...
+              - ... The question is not whether the parties can be restored to their original position; it is what does the justice of the case require?’ 
+        - SUBSTITUTIVE RESTORATION
+          - Hartigan v International Society for Krishna Consciousness Incorporated [2002] NSWSC 810 (6 September 2002)
+            - (Bryson J)
+              - [98] ... The remedies available are not limited to remedies against specific assets; while specific assets will be restored if they still exist and can be identified, personal remedies are available against a donee which itself directly received the property from the donor. 
+              - ... In granting equitable relief the court has power to mould the relief granted to the circumstances of the particular case and what justice requires after making the detailed examination of the particular circumstances which the exercise of this power calls for.
+        - PROCEEDS
+          - Quek v Beggs (1990) 5 BPR 11,761
+            - ‘In my opinion the challenge to the transfers by Mrs Quek to Mr and Mrs Beggs of the Maroubra, Kingswood and Winston Hills properties should succeed and orders should be made on the basis that those transactions be regarded as rescinded ab initio. It follows that Mr and Mrs Beggs must re-transfer the Maroubra and Winston Hills properties to Mr Bullock as executor of Mrs Quek’s will, and account to the estate for the nett proceeds of sale of the Kingswood property (less the amount of the mortgage debt discharged out of those proceeds), and also for the profits received by them from all three properties.’ (11,780-1, McLelland J)
+          - New Sombrero Phosphate Co v Erlanger (1877) 5 Ch D 7
+            - (125-6, Jessel MR)
+              - ‘The judgment will be to set aside the contract, to direct the repayment of the £80,000 with interest at £4 per cent., to direct the return of those shares which have not been parted with, and to take an account of those shares which have been sold or parted with and of the proceeds of such sales, with interest at the same rate from the time of the receipt of the moneys, the company accounting for the profit (if any) derived from the island.’
+        - PECUNIARY RESCISSION
+          - When a party provides the value of the property in place of the property.
+          - Possible when:
+            - Property gone but no proceeds available from a sale to account for.
+            - Property sold but proceeds no longer available
+          - Hartigan v International Society for Krishna Consciousness Incorporated [2002] NSWSC 810 (6 September 2002)
+            - [98] ... In my view nothing has happened which makes it unjust that the defendant should be required to pay to the plaintiff the amount which it received on sale of the Rosebery Creek Farm. The amount received went immediately to reduce the defendant’s debt burden, creating an economic advantage in reduced debt which must be reflected in its overall position now. I see no injustice in restoring the defendant to the relative position of indebtedness which it would have been in if it had not received the proceeds of the sale. (Bryson J)
+          - Substitutive rescission more likely if the defendant restores money in place of property to the plaintiff.
+          - Less likely if the plaintiff asks the defendant to accept money in place of property
+            - Alati v Kruger (1955) 94 CLR 216
+              - (224, Dixon CJ, Webb, Kitto
+              - and Taylor JJ)
+                - He had taken over (as he said in evidence) about twenty pounds worth of stock, but while of course he could not restore that to the appellant in specie he could pay or allow for its value, and nothing more could in justice be required.
+        - ELECTION AND AFFIRMATION
+          - When a transaction is voidable due to vitiating conduct, the plaintiff must choose (elect) between two legally inconsistent outcomes:
+            - Rescind the transaction; or
+            - Affirm (and continue to be bound by) the transaction.
+          - Once the choice is unequivocally made, the plaintiff cannot change their mind: if a plaintiff has elected to affirm the transaction, then rescission is barred.
+          - An election can be by conduct
+          - Sargent v ASL Developments Ltd (1974) 131 CLR 634
+            - ‘The words or conduct ordinarily required to constitute an election must be unequivocal in the sense that it is consistent only with the exercise of one of the two sets of rights and inconsistent with the exercise of the other ... For an election there need be no actual, subjective intention to elect ... an election is the effect which the law attributes to conduct justifiable only if such an election had been made ...’ (646, Stephen J).
+          - The plaintiff must be aware of material facts before they can rescind or free of the influence of the defendant.
+            - Eg, knowledge of the misrepresentation, freedom from the defendant’s duress or undue influence.
+          - The plaintiff must communicate their election to the defendant expressly or by conduct.
+        - PERFORMED CONTRACTS INDUCED BY INNOCENT MISREPRESENTATION
+          - If:
+            - 1. a contract is induced an innocent misrepresentation; and
+            - 2. is fully performed; then rescission is (notionally) not available: 
+              - Seddon v North Eastern Salt Co Ltd [1905] 1 Ch 326.
+            - However, it is doubtful that is still good law: Baird v BCE Holdings Pty Ltd (1996) 40 NSWLR 374.
+        - DISCRETIONARY FACTORS
+          - Spence v Crawford [1939] 3 All ER 271
+            - (288, Lord Wright)
+              - ‘The remedy is equitable. Its application is discretionary, and, where the remedy is applied, it must be moulded in accordance with the exigencies of the particular case.
+          - Alati v Kruger (1955) 94 CLR 216
+            - (Dixon CJ, Webb, Kitto and Taylor JJ)
+              - ‘The remedy is discretionary ... and if the respondent had acted unconscientiously during the pendency of the action ... no doubt the court might refuse relief.’
+          - If the plaintiff seeks rescission in equity, then the defendant can raise equitable defences to rescission:
+            - Unclean hands / unconscionable conduct
+            - Delay / laches
+            - Hardship
+            - “Doing equity”
+        - DELAY / LACHES
+          - Lindsay Petroleum Co v Hurd (1874) LR 5 PC 221
+            - (239–40, Sir Barnes Peacock) 
+              - ‘Now the doctrine of laches in Courts of Equity is not an arbitrary or a technical doctrine. Where it would be practically unjust to give a remedy, either because the party has, by his conduct, done that which might fairly be regarded as equivalent to a waiver of it, or where by his conduct and neglect he has, though perhaps not waiving that remedy, yet put the other party in a situation in which it would not be reasonable to place him if the remedy were afterwards to be asserted, in either of these cases, lapse of time and delay aremost material. ... Two circumstances, always important in such cases, are the length of the delay and the nature of the acts done during the interval, which might affect either party and cause a balance of justice or injustice in taking the one course or the other, so far as relates to the remedy” 
+          - Lagunas Nitrate Co v Lagunas Syndicate [1899] 2 Ch 392 
+            - (434, Lindley LJ)
+              - ‘It must never be forgotten that the business of the nitrate company was a highly speculative one. The price of nitrate was liable to great fluctuation; the value of the Lagunas property is not what it was. The original directors of the nitrate company were not fraudulently carrying on its business ... and the nitrate company ... worked the Lagunas with a view to its own profit until the market price of nitrate and of its own shares had permanently fallen. Then, and not before, did the nitrate company determine to rescind, if it could. Having regard to the absence of fraud, and to the impossibility of restoring the parties to their former position, the right to rescind cannot, in my judgment, now be enforced.’ 
+      - EQUITABLE REMEDIES: RECTIFICATION
+        - RECTIFICATION
+          - Rectification allows a court to rewrite a document to properly reflect the intentions of the parties.
+            - There must be:
+              - 1. An instrument (ie, a legal document)
+              - 2. Which, by some error, does not reflect the actual intentions of the parties.
+          - Franklins Pty Ltd v Metcash Trading Ltd (2009) 76 NSWLR 603
+            - (Campbell JA) 
+              - [444] In considering whether to grant rectification of a written contract, equity does not use any of its own principles to decide what the terms of the contract are, or how they are construed – those matters are decided solely by the common law. Rather, equity focuses on what it is unconscientious for a party to assert about the contract. The rationale is that it is unconscientious for a party to a contract to seek to apply the contract inconsistently with what he or she knows to be the common intention of the parties at the time that the written contract was entered. In other words, when a plaintiff succeeds in a claim for rectification, the plaintiff is found to have been justified in in effect saying to the defendant “you and I both knew, when we entered this contract, what our intention was concerning it, and you cannot in conscience now try to enforce the contract in accordance with its terms in a way that is inconsistent with our common intention.” 
+              - [444] It is elementary that rectification is granted only upon “clear and convincing proof” or “convincing proof”: ... . What needs to be proved in accordance with that standard is not only that the written document does not correctly record the common intention of the parties, but what the common intention of the parties actually was: …
+              - [459] There are reasons of policy for requiring great care in making the factual findings of common intention that ground a rectification order. First, both the social institution of making contracts in writing, and the practical importance associated with it, of people ordinarily being able to rely upon a document, that is apparently regular, meaning what it says, contribute to the need for care in granting rectification. (Sometimes if there is a real prospect that third parties might have been misled by the apparent regularity of a document that can also provide a discretionary reason for refusing the remedy). Second, there is a “danger of imposing on a party a contract which he did not make”: Bank of Montreal v Vancouver Professional Soccer Ltd (1987) 15 BCLR (2d) 34 at 36 per McLachlin JA.  
+          - Practical applications of rectification:
+            - Defence/prelude to a claim of breach of contract
+            - To prevent future disputes.
+          - Rectification may be ordered in cases of:
+            - Common mistake:
+              - Where both parties have made the same mistake about the content or legal effect of the document.
+            - Unilateral mistake:
+              - Where one party is mistaken about the contents of the document and the other is aware, and takes advantage of, that mistake.
+        - COMMON MISTAKE
+          - ELEMENTS
+            - 1. Both parties shared the same subjective common intention up to the time the agreement was written down;
+            - 2. By mistake, the written agreement does not reflect that common intention;
+            - 3. The common intention is sufficiently clear and capable of clear expression.
+        - MISTAKE ABOUT CONTENTS
+          - Simic v New South Wales Land and Housing Corporation [2016] HCA 47 (7 December 2016)
+            - (Gageler, Nettle and Gordon JJ)
+              - [103] Rectification is an equitable remedy, the purpose of which is to make a written instrument "conform to the true agreement of the parties where the writing by common mistake fails to express that agreement accurately". For relief by rectification, it must be demonstrated that, at the time of the execution of the written instrument sought to be rectified, there was an "agreement" between the parties in the sense that the parties had a "common intention", and that the written instrument was to conform to that agreement. Critically, it must also be demonstrated that the written instrument does not reflect the "agreement" because of a common mistake. Unless those elements are established, the "hypothesis arising from execution of the written instrument, namely, that it is the true agreement of the parties" cannot be displaced.
+              - [104] The issue may be approached by asking – what was the actual or true common intention of the parties? There is no requirement for communication of that common intention by express statement, but it must at least be the parties' actual intentions, viewed objectively from their words or actions, and must be correspondingly held by each party. 
+          - MISTAKE ABOUT LEGAL EFFECT
+            - Club Cape Schanck Resort Company Ltd v Cape Country Club Pty Ltd (2001) 3 VR 526
+              - [39] ... the principle upon which rectification depends always remains the same; it depends in every case upon a want of correspondence between the form of the document (that is, in the words actually used) and the common intention of the parties at the time when the document is executed. Where the disconformity is the product of a common mistake, that mistake may be as to what words have been employed in the document or the meaning or effect of such words as appear. But whatever the common mistake, the lack of correspondence must be between the form of the document and the common intention, if rectification is to be available. (Phillips JA)
+            - Commissioner of Stamp Duties (NSW) v Carlenka Pty Ltd (1995) 41 NSWLR 329
+              - ‘In general, the remedy of rectification of an instrument is available where it is established by clear and convincing proof that at the time of execution of the instrument the relevant party or parties as the case may be had an actual intention (if more than one party, a common intention) as to the effect which the instrument would have which was inconsistent with the effect which the instrument as executed did have in some clearly identified way. In this context “effect” means the legal and factual operation of the instrument according to its true construction, but does not include legal or factual consequences of the operation of the instrument of a more remote, or collateral, kind (for example, its liability to stamp duty). …
+              - (345, McLelland A-JA)
+                - “In the present case, there was clear and convincing proof that at the time Carlenka Pty Ltd executed the amending deed poll of 26 June 1990, it was the intention of those whose intention is to be imputed to that company that the legal operation of the instrument would not go beyond empowering the trustee of the trust deed of 3 March 1975 to distribute income of the trust to a person or corporation nominated by the trustee. The deed poll as executed had a further unintended legal operation, which was correctly removed by the order for rectification under appeal.”
+          - UNILATERAL MISTAKE
+            - In general, there is no relief where only one party is mistaken, unless the other party has caused or unconscientiously taken advantage of the mistake.
+            - If rectification is ordered in a case of unilateral mistake, the practical effect is to force the non-mistaken party into a contract they did not actually intend to make.
+            - Leibler v Air New Zealand Ltd (No. 2) [1999] 1 VR 1
+              - ‘The principles which govern an application for rectification of a contract on the ground of unilateral mistake can be briefly stated. If
+              - 1. one party, A, makes an agreement under a misapprehension that the agreement contains a particular provision which the agreement does not in fact contain; and
+              - 2. the other party, B, knows of the omission and that it is due to a mistake on A's part; and
+              - 3. lets A remain under the misapprehension and concludes the agreement on the mistaken basis in circumstances where equity would require B to take some step or steps, depending on those circumstances, to bring the mistake to A's attention; then
+              - 4. B will be precluded from relying upon A's execution of the agreement to resist A's claim for rectification to give effect to A's intention ...
+            - Whether or not the mistake must be one which operates in favour of B or merely to the detriment of A is not entirely clear....’ 
+            - (Kenny JA)
+              - [70] Before there can be rectification, the respondents were required to establish that, before the mistake was made, there had been a consensus as to what the shareholders’ agreement should effect: ... . If, in the case of unilateral mistake, a plaintiff establishes, by convincing proof, that the executed document does not conform with the intention shared by the parties prior to the mistake coming to the attention of the non-mistaken party, and that intention is sufficiently precise and specific to be the subject of an order for rectification, then, rectification may, in appropriate circumstances, be granted: ... . 
+        - DEFENCES
+          - GENERAL EQUITABLE DEFENCES
+          - The general equitable defences apply:
+            - Laches
+            - Unclean hands
+            - Hardship
+## Week 11: Australian Consumer Law (ACL): s 18, s 236 (NSW focus)
+
+- Key vocabulary in this topic:
+  - Australian Consumer Law: The Australian Consumer Law is Sch 2 to the Competition and Consumer Act 2010 (Cth). It is the source of liability for misleading or deceptive conduct (s 18) and the remedial sections (ss 236 and 237).
+  - Competition and Consumer Act 2010 (Cth): The principal legislation that contains the Australian Consumer Law. It contains some Parts that apply to awards of damages under Australian Consumer Law ('ACL') s 236 when the ACL is applied as a federal law. For example, provisions relating to contributory negligence and proportionate liability.
+  - Contributory negligence: Contributory negligence concerns whether the plaintiff's failure to take reasonable care to prevent obvious harm was a cause of their loss. In certain causes of action, it can be a reason to apportion damages and reduce the defendant's liability.
+  - Fair Trading Act 1987 (NSW): The NSW legislation that applies the Australian Consumer Law as a law of New South Wales, concurrently with the federal law of the Australian Consumer Law.
+  - Mitigation: When a plaintiff has become aware of the defendant's wrong, then the plaintiff is obliged to act reasonably to mitigate the loss. That is, the plaintiff should prevent easily avoidable loss from occurring. If the plaintiff fails to do this, then the defendant will not be liable for loss caused by the plaintiff's failure to mitigate.
+  - Proportionate liability: A statutorily imposed apportionment scheme which allows the Court to apportion damages between multiple wrongdoers, when at least one has caused the plaintiff property damage or economic loss by negligence or misleading or deceptive conduct.
+  - Rule in Potts v Miller: The rule in Potts v Miller holds that the defendant should be liable only for loss directly related to the deceit, rather than extraneous losses, even though those extraneous losses may not have occurred but for the deceit. It has often guided an assessment of damages under s 236.
+- Australian Consumer Law s 236
+  - Australian Consumer Law s 236: Introduction
+    - Statutory remedies for misleading or deceptive conduct (ACL s 18):
+      - 1. ACL s 236 (damages)
+      - 2. ACL s 237 (other orders)
+  - AUSTRALIAN CONSUMER LAW S 236
+    - The Australian Consumer Law Section 236 – Actions for damages
+      - (1) If:
+        - (a) a person (the claimant) suffers loss or damage because of the conduct of another person; and
+        - (b) the conduct contravened a provision of Chapter 2 or 3; the claimant may recover the amount of the loss or damage by action against that other person, or against any person involved in the contravention.
+      - (2) An action under subsection (1) may be commenced at any time within 6 years after the day on which the cause of action that relates to the conduct accrued.
+    - Approach to assessment of s 236 damages is the same as at common law:
+      - Plaintiff must prove that the loss claimed was caused by the misleading or deceptive conduct;
+      - Object is compensation.
+    - Marks v GIO Australia Holdings Limited (1998) 196 CLR 494
+      - [53] ... The central inquiry is what consequence has the contravention of the Act had on the party in question. That requires comparison between the position in fact of the party which alleges loss and the position that would have obtained had there been no contravention. (McHugh, Hayne and Callinan JJ)
+    - Henville v Walker (2001) 206 CLR 459
+      - [96] But this does not mean that common law conceptions of causation should be rigidly applied without regard to the terms or objects of the Act. ... In Marks v GIO Australia Holdings Ltd, Hayne and Callinan JJ and I pointed out that the section can apply to many different kinds of cases, not just those where a breach of [s 18] is alleged. Moreover, the objects of the Act indicate that a court should strive to apply [s 236] in a way that promotes competition and fair trading and protects consumers. The width of the potential application of [s 236] and the objects of the Act tell against a narrow, inflexible construction of the section. No doubt in most cases, applying common law conceptions of causation will be sufficient to answer the issues posed by [s 236] in its application to contraventions of the Act. But care must be taken to avoid a mechanical application of those conceptions to issues arising under the section. (McHugh J)
+- Causation
+  - Wardley Australia Ltd v Western Australia (1992) 175 CLR 514
+    - ... [s 236] should be understood as taking up the common law practical or common-sense concept of causation recently discussed by this Court in March v Stramare (E & M H) Pty Ltd, except in so far as that concept is modified or supplemented expressly or impliedly by the provisions of the Act. Had Parliament intended to say something else, it would have been natural and easy to have said so. (The Court) (Citations omitted)
+    - March v Stramare (E & M H) Pty Ltd approach:
+      - ‘But for’ test.
+      - ‘Material cause’ (includes ‘necessary conditions’ and ‘multiple sufficient causes’)
+    - Henville v Walker (2001) 206 CLR 459
+      - [106] If the defendant's breach has "materially contributed" to the loss or damage suffered, it will be regarded as a cause of the loss or damage, despite other factors or conditions having played an even more significant role in producing the loss or damage. As long as the breach materially contributed to the damage, a causal connection will ordinarily exist even though the breach without more would not have brought about the damage. In exceptional cases, where an abnormal event intervenes between the breach and damage, it may be right as a matter of common sense to hold that the breach was not a cause of damage. But such cases are exceptional. (McHugh J)
+    - Henville v Walker (2001) 206 CLR 459
+      - 2 causes:
+        - 1. Henville’s negligent calculations on cost;
+        - 2. Walker’s misleading advice on demand and market price.
+      - Loss would not have occurred if either party had ‘got it right’. Ie, neither caused was sufficient of itself to cause the loss
+      - (McHugh J)
+        - [129] Having found that Mr Walker's conduct was a cause of Mr Henville's proceeding with the development, and given that it played a vital role in the preparation of the defective feasibility study, the Full Court should have held Mr Walker liable for the losses sustained. Its emphasis on the feasibility study was the product of the Full Court's belief that the feasibility study was an intervening act, divorced from Mr Walker's contravention of the Act. 
+      - (Hayne J)
+        - [156] If the traditional "but for" test, the test of necessity, is applied to the history I have described, neither the overestimation of the selling price, nor the underestimation of the costs, will be seen as the single cause of the whole of the loss that the appellants sustained. It cannot be said of either of these steps that, but for its occurrence, the appellants would not have sustained the amount of loss that they did suffer. Yet it can be said of each step that it was a necessary element of the set of circumstances that, together, were sufficient to bring about the loss that was sustained. Each played its part in the history of the events; each was a cause of what happened. Moreover, the two steps were concurrent causes of what happened. It cannot be said of either estimate that it was, in any sense, an intervening event. 
+    - If a defendant’s conduct is one material cause of indivisible loss caused by multiple causes, then the defendant will be liable for all of it (See: Henville v Walker).
+    - But if the plaintiff’s total loss is clearly divisible, then the defendant will be liable only for the divisible part s/he in fact caused (Henjo Investments).
+    - Henjo Investments: 
+      - Background
+        - May 1985: Sale of restaurant completed
+        - August 1985: Collins commences proceedings against Henjo.
+        - March 1986: Trial begins.
+        - April 1987: Henjo found liable.
+        - October 1987: Rescission of contract ordered + consequential damages.
+        - February 1988: Full Court overturns rescission. Remits case to trial judge to assess damages (Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (No 1) (1988) 39 FCR 546).
+        - June 1988: Collins sells restaurant to third party.
+        - December 1988: Damages judgement delivered.
+      - Collins’ claim:
+        - Difference in value between price paid and ‘true’ value (‘capital loss’);
+        - All trading losses from settlement (May 1985) to sale to third party (June 1988);
+        - Consequential losses.
+  - Collins Marrickville Pty Limited v Henjo Investments Pty Limited (1987) ATPR ¶40-822
+    - ‘The argument for the applicant is that, the purchase of the business having been caused by the misleading conduct of the first respondent, the applicant is entitled to recover damages for all losses sustained by it in carrying on the business, whether or not the losses were related to the particular matter -- seating restrictions -- in relation to which the misrepresentations were made. The respondents, on the other hand, argue that the applicant is entitled to recover damages only in respect of those losses which relate directly to the subject of misrepresentations. Further, they say that, whatever be the proper measure of damage, damages may only be awarded in connection with such period as was reasonably necessary for the applicant to unburden itself of the unprofitable business. 
+    - Subject to one possible reservation, I agree with both the submissions of the respondents.’ ([48902] Wilcox J)
+    - Damages awarded:
+      - Capital loss;
+      - Costs associated with purchase;
+      - Some trading losses:
+        - Deduction to account for unpopular changes made by Collins;
+        - None after 30 June 1986: Collins should have mitigated by selling the business by this date.
+  - Wardley Australia Ltd v Western Australia (1992) 175 CLR 514
+    - ‘In the context of the Act, the concept of loss or damage, like the concept of causation, must be applied in a wide variety of situations because the contraventions of Pts IV and V which give rise to causes of action under [s 236] are diverse. Here we are concerned with contraventions of [s 18] in the form of misleading conduct constituted by misrepresentations. In this situation, as at common law, acts done by the representee in reliance upon the misrepresentation constitute a sufficient connection to satisfy the concept of causation.’ (The Court) (Citations omitted)
+  - CAUSATION (RELIANCE)
+    - Baxter v British Airways plc (1988) 82 ALR 298
+      - The language of s 52 naturally evokes the question: misled or deceived into what? Not only is this so linguistically, but also the policy which may be perceived in the provision suggests a similar view of it. It is concerned with conduct which misleads or deceives someone into taking some step to his disadvantage. The legislature is not concerned with conduct, as it were in gross, but with conduct which leads to an undesirable result: ... (303, Burchett J) (Citations omitted)
+    - Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (1988) 39 FCR 546
+      - ... recovery under [s 18] is founded by the applicant's actual reliance upon the misleading or deceptive conduct of the respondent although that conduct was not the only factor in the applicant's decision to enter a particular agreement, and although the applicant did not seek to verify the representations or did so inadequately and so failed to discover their falsity. (Lockhart J, Burchett and Forster JJ agreeing)
+    - Gould v Vaggelas (1985) 157 CLR 215
+      - 1. Notwithstanding that a representation is both false and fraudulent, if the plaintiff does not rely upon it, he or she has no case.
+      - 2. If a material representation is made which is calculated to induce the plaintiff to enter into a contract and that person in fact enters into a contract there arises a fair inference of fact that he or she was induced to do so by the representation.
+      - 3. The inference may be rebutted, for example, by showing that the plaintiff, before he or she entered into the contract, either was possessed of actual knowledge or the true facts and knew them to be true or alternatively made it plain that whether, he or she knew the true facts or not, he or she did not rely on the representation.
+      - 4. The representation need not be the sole inducement. It is sufficient so long as it plays some part, even if only a minor part, in contributing to the formation of the contract.
+    - Campbell v Backoffice Investments Pty Ltd (2009) 238 CLR 304
+      - [31] Where the impugned conduct comprises allegedly misleading pre contractual representations, a contractual disclaimer of reliance will ordinarily be  considered in relation to the question of causation. For if a person expressly declares in a contractual document that he or she did not rely upon pre-contractual representations, that declaration may, according to the circumstances, be evidence of non-reliance and of the want of a causal link between the impugned conduct and the loss or damage flowing from entry into the contract. In many cases, such a provision will not be taken to evidence a break in the causal link between misleading or deceptive conduct and loss. The person making the declaration may nevertheless be found to have been actuated by the misrepresentations into entering the contract. The question is not one of law, but of fact. (French CJ)
+    - Smith v Noss [2006] NSWCA 37 (5 March 2006)
+      - [25] ... There may be causation from misleading or deceptive conduct if the conduct lies in failing to disclose that which in the circumstances should have been disclosed. It is not a natural use of the notion of reliance to say that there was reliance on the failure in disclosure, but causation can be found if disclosure would have caused inaction or action other than that which was taken: as was said by Besanko and Vanstone JJ in Smith v Maloney (2005) 92 SASR 498 at 514–5 —
+        - In a case where there has been failure to advise, as distinct from the provision of incorrect advice, it is somewhat artificial to formulate the test of causation in terms of real inducement because the court is required to consider a hypothetical question namely, what would the plaintiff have done had the defendant provided the advice he was bound to provide. 
+        - (The Court))
+  - Scope of liability
+    - Elna Australia Pty Ltd v International Computers (Aust) Pty Ltd (No 2) (1987) 16 FCR 410
+      - ‘Wrapped up within [s 236] are ... concepts the common law would describe by the terms 'causation' and 'remoteness' and 'measure of damages'. ... [I]t would be an error to translate automatically to the particular statute what appeared the closest analogue from the common law 'rules' as to causation. It is rather a question of statutory construction. ... Thus, in construing [S 236] it is appropriate to bear in mind such matters as the scope and purpose of [Chs 2 and 3] ... the wide range of subject-matters dealt with in [Chs 2 and 3] but all linked to [s 236] ... and the apparent telescoping of what to the common law would be issues of causation, remoteness and measure of damages.’ (418-9, Gummow J)
+    - Marks v GIO Australia Holdings (1998) 196 CLR 494
+      - ‘Secondly, [s 236] provides, in effect, that the loss or damage that may be recovered by action is the amount of the loss or damage suffered "by conduct of" another person that was done in contravention of [Chs 2 and 3]. It contains no stated limitation of the kinds of loss or damage that may be recovered and contains no express indication that some kinds of loss or damage are to be regarded as too remote to be recovered.’ (McHugh, Hayne and Callinan JJ)
+    - I & L Securities Pty Ltd v HTW Valuers (Brisbane) Pty Ltd (2002) 210 CLR 109
+      - ‘Just as [s 236] is free from the restraint of common law rules regarding measure of damages, so also is it free from doctrines that reduce those damages at common law.’ (McHugh J)
+    - Henville v Walker (2001) 206 CLR 459
+      - [166] ... Thus, if notions of remoteness of damage or reasonableness are to find reflection in s [236(1)] it seems probable that they may do so only through consideration of the causation question which the sub section poses. As Professor Stapleton has pointed out, questions of remoteness of damage in tort can be seen in terms of causation. Likewise, asking what is "reasonable" in assessing how much of the loss was caused by the contravention may invite attention to the nature and extent of the causal connection between the loss and contravening conduct. (Hayne J) (Citations omitted)
+    - Concepts analogous to remoteness, mitigation, novus actus interveniens, etc may be argued in terms of causation.
+    - Mitigation can be expressed in terms of causation: a plaintiff who fails to act reasonably to mitigate loss is the cause of loss following the failure to mitigate.
+    - See: Collins Marrickville Pty Limited v Henjo Investments Pty Limited [1988] FCA 418 (2 December 1988)
+    - Travel Compensation Fund v Tambree (2005) 224 CLR 627
+      - Travel Compensation Fund (‘the Fund’): government fund established to compensate travellers who had suffered financial loss because of the fault of a travel agent.
+      - The Travel Shop International (‘Travel Shop’): A travel agent and participant in the Fund.
+      - Tambree: Travel Shop’s auditor. Falsely (negligently) reported to the Fund that Travel Shop was financially sound.
+      - Trial judge: Tambree’s misleading conduct caused all the loss.
+      - NSW Court of Appeal: Travel Shop’s illegal trading caused most of the loss (novus actus interveniens).
+      - [30] ... In recent cases, this Court has pointed out that, in deciding whether loss or damage is [‘because of’] misleading or deceptive conduct, and assessing the amount of the loss that is to be so characterised, it is in the purpose of the statute, as related to the circumstances of a particular case, that the answer to the question of causation is to be found. 
+        - (Gleeson CJ)
+      - [45] It is now clear that there are cases in which the answer to a question of causation will differ according to the purpose for which the question is asked. As was recently emphasised in Allianz Australia Insurance Ltd v GSF Australia Pty Ltd, it is doubtful whether there is any "common sense" notion of causation which can provide a useful, still less universal, legal norm. There are, therefore, cases in which the answer to a question of causation will require examination of the purpose of a particular cause of action, or the nature and scope of the defendant's obligation in the particular circumstances. (Gummow and Hayne JJ) (Citations
+  - CONTRIBUTORY NEGLIGENCE
+    - I & L Securities Pty Ltd v HTW Valuers (Brisbane) Pty Ltd (2002) 210 CLR 109
+      - [89] ... the crucial distinction, when considering [s 236], between part of the loss, in the sense of a distinct and separate portion of the whole loss, and playing a part in the sustaining of the entire loss. All members of this Court recognised that distinction in Henville, although the majority and minority Justices differed as to whether part of the loss was in fact caused by the respondent in that case. (McHugh J) (Emphasis in original)
+    - Argy v Blunts & Lane Cove Real Estate Pty Ltd (1990) 26 FCR 112
+      - ‘A case may perhaps be imagined where an applicant is so negligent in protecting his own interests that there will be a finding of fact that the representation complained of was not in the circumstances a real inducement to his entering into a contract. In such a case the element of causation between misrepresentation and damage will have been severed by the intervention of the negligence of the applicant. However, in my view, the present cannot be said to be that case.’ (Hill J)
+    - Competition and Consumer Act 2010 (Cth)
+      - Section 137B – Reduction of the amount of loss or damage if the claimant fails to take reasonable care
+      - If:
+        - (a) a person (the claimant) makes a claim under subsection 236(1) of the Australian Consumer Law in relation to economic loss, or damage to property, suffered by the claimant because of the conduct of another person; and
+        - (b) the conduct contravened section 18 of the Australian Consumer Law; and 
+        - (c) the claimant suffered the loss or damage as result:
+          - (i) partly of the claimant’s failure to take reasonable care; and 
+          - (ii) partly of the conduct of the other person; and 
+        - (d) the other person did not intend to cause the loss or damage and did not fraudulently cause the loss or damage; the amount of the loss or damage that the claimant may recover under subsection 236(1) of the Australian Consumer Law is to be reduced to the extent to which a court thinks just and equitable having regard to the claimant’s share in the responsibility for the loss or damage.
+    - Merost Pty Ltd v CPT Custodian Pty Ltd [2014] FCA 97 (19 February 2014)
+      - [138] Some useful guidance on the approach to the question of contributory negligence is found in Pennington v Norris (1956) 96 CLR 10; [1956] HCA 26. ...
+      - [139] And in Podrebersek v Australian Iron and Steel Pty Ltd (1985) 59 ALR 529; [1985] HCA 34 the High Court said at 532-533:
+        - The making of an apportionment as between a plaintiff and a defendant of their respective shares in the responsibility for the damage involves a comparison both of culpability, ie of the degree of departure from the standard of care of the reasonable man (Pennington v Norris ... ) and of the relative importance of the acts of the parties in causing the damage: ... It is the whole conduct of each negligent party in relation to the circumstances of the accident which must be subjected to comparative examination. The significance of the various elements involved in such an examination will vary from case to case; for example, the circumstances of some cases may be such that a comparison of the relative importance of the acts of the parties in causing the damage will be of little, if any, importance.
+      - (North J)
+  - CONTRIBUTORY NEGLIGENCE
+    - There is no equivalent of Competition and Consumer Act 2010 (Cth) s 137B when the Australian Consumer Law applies as a law of New South Wales.
+  - PROPORTIONATE LIABILITY
+    - Competition and Consumer Act 2010 (Cth)
+      - Section 87CB – Application of Part
+        - (1) This Part applies to a claim (an apportionable claim) if the claim is a claim for damages made under section 236 of the Australian Consumer Law for: 
+          - (a) economic loss; or 
+          - (b) damage to property; 
+        - caused by conduct that was done in a contravention of section 18 of the Australian Consumer Law.
+        - (2) For the purposes of this Part, there is a single apportionable claim in proceedings in respect of the same loss or damage even if the claim for the loss or damage is based on more than one cause of action (whether or not of the same or a different kind).
+        - (3) In this Part, a concurrent wrongdoer, in relation to a claim, is a person who is one of 2 or more persons whose acts or omissions (or act or omission) caused, independently of each other or jointly, the damage or loss that is the subject of the claim.
+        - (4) For the purposes of this Part, apportionable claims are limited to those claims specified in subsection (1).
+        - (5) For the purposes of this Part, it does not matter that a concurrent wrongdoer is insolvent, is being wound up or has ceased to exist or died.
+      - 87CD Proportionate liability for apportionable claims
+        - (1) In any proceedings involving an apportionable claim:
+          - (a) the liability of a defendant who is a concurrent wrongdoer in relation to that claim is limited to an amount reflecting that proportion of the damage or loss claimed that the court considers just having regard to the extent of the defendant’s responsibility for the damage or loss; and
+          - (b) the court may give judgment against the defendant for not more than that amount.
+    - Civil Liability Act 2002 (NSW)
+      - Section 34 – Application of Part
+        - (1) This Part applies to the following claims (apportionable claims): 
+          - (a) a claim for economic loss or damage to property in an action for damages (whether in contract, tort or otherwise) arising from a failure to take reasonable care, but not including any claim arising out of personal injury,
+          - (b) a claim for economic loss or damage to property in an action for damages under the Fair Trading Act 1987 for a contravention of section 42 of that Act (as in force before its repeal by the Fair Trading Amendment (Australian Consumer Law) Act 2010) or under the Australian Consumer Law (NSW) for a contravention of section 18 of that Law.
+- Assessment of damages
+  - GATES V CITY MUTUAL LIFE ASSURANCE SOCIETY LIMITED (1986) 160 CLR 1
+    - ‘The question then is whether it is appropriate to apply the contract measure of damages to the contraventions found to have taken place. The courts are not bound to make a definitive choice between the two measures of damages so that one applies to all contraventions to the exclusion of the other. However, there is much to be said for the view that the measure of damages in tort is appropriate in most, if not all, [s 18] cases, especially those involving misleading or deceptive conduct and the making of false statements. Such conduct is similar both in character and effect to tortious conduct, particularly fraudulent misrepresentation and negligent misstatement.’ (Mason, Wilson and Dawson JJ)
+    - ‘Because the object of damages in tort is to place the plaintiff in the position in which he would have been but for the commission of the tort, it is necessary to determine what the plaintiff would have done had he not relied on the representation. If that reliance has deprived him of the opportunity of entering into a different contract for the purchase of goods on which he would have made a profit then he may recover that profit on the footing that it is part of the loss which he has suffered in consequence of altering his position under the inducement of the representation. This may well be so if the plaintiff can establish that he could and would have entered into the different contract and that it would have yielded the benefit claimed ... The lost benefit is referable to opportunities foregone by reason of reliance on the misrepresentation. In this respect the measure of damages in tort begins to resemble the expectation element in the measure of damages in contract save that it is for the plaintiff to establish that he could and would have entered into the different contract.
+  - MARKS V GIO AUSTRALIA HOLDINGS LIMITED (1998) 196 CLR 494
+  - ASSESSMENT OF DAMAGES
+    - Marks v GIO Australia Holdings Limited (1998) 196 CLR 494
+      - (Gaudron J)
+        - [15] Once it is appreciated that references to the "established measures of damages ... [for] contract and tort", as in Gates, signify different kinds of loss and not different methods by which loss is measured, it is irrelevant to inquire as to the appropriate measure of damages for the purposes of ss [236] and [237] of the Act. Rather, the task is simply to identify the loss or damage suffered or likely to be suffered and, then, to make orders for recovery of that amount under s [236] or to compensate for or prevent or reduce that loss or damage under s [237] of the Act. 
+      - (McHugh, Hayne and Callinan JJ)
+        - [38] ... But once that causal connection is established, there is nothing in s [236] or s [237] (or elsewhere in the Act) which suggests either that the amount that may be recovered under s [236], or that the orders that may be made under s [237], should be limited by drawing some analogy with the law of contract, tort or equitable remedies. Indeed, the very fact that ss [236] and [237] may be applied to widely differing contraventions of the Act, some of which can be seen as inviting analogies with torts such as deceit or with equity but others of which find no ready analogies in the common law or equity, shows that it is wrong to limit the apparently clear words of the Act by reference to one or other of these analogies. (McHugh, Hayne and Callinan JJ)
+        - [41] This is not to say that no help can be had from the common law in deciding what damages may be allowed under s [236] in cases of conduct contravening s [18]. Very often, the amount of the loss or damage caused by a contravention of s [18] will coincide with what would have been allowed in an action for deceit. But that is because the inquiry in both cases is to find out what damage flowed from (in the sense of being caused by) the deceit or contravention. 
+        - [48] A party that is misled suffers no prejudice or disadvantage unless it is shown that that party could have acted in some other way (or refrained from acting in some way) which would have been of greater benefit or less detriment to it than the course in fact adopted. Thus, the party that is misled will have suffered loss if a chose in action which was acquired was worth less than the amount paid for it. There may well be other ways in which it might suffer loss or damage. For example, consequential loss may be suffered.
+      - (Gummow J)
+        - [105] ... No doubt the contravention of s [18] occurred before entry by the borrowers into their respective contracts. But any injury which would found their actions under s [236], and for which it would provide a measure of compensation, was contingent or prospective until GIO acted to increase the margin rate and that increase became legally binding upon the borrowers to expand what previously had been their contractual liabilities to GIO. It follows that, on any footing, the expanded liabilities would not have crystallised until 1 August 1992 when the increased 2.25 per cent became effective. 
+        - [108] In the present case, a cause of action under s [236] would not have accrued in favour of the borrowers before 1 August 1992. However, before that date, they had been given by GIO an opportunity to escape the imposition of what otherwise would have been an increased contractual liability upon them by taking the steps specified in the GIO letter dated 21 April 1992. As a practical matter, the imposition of the higher rate upon the borrowers was the sequel to their exercise of choice not to accept the proposal made by GIO.
+  - KIZBEAU PTY LIMITED V W G & B PTY LIMITED (1995) 184 CLR 281
+  - ASSESSMENT OF DAMAGES
+    - Kizbeau Pty Limited v W G & B Pty Limited (1995) 184 CLR 281
+      - (The Court)
+        - ‘In an action for damages for deceit for inducing a person to enter a contract of purchase, which is an action that is closely analogous to an action for damages for breach of s [18], the courts have consistently held that the proper measure of damages is the difference between the real value of the thing acquired as at the date of acquisition and the price paid for it. Nevertheless, although the value is assessed as at the date of the acquisition, subsequent events may be looked at in so far as they illuminate the value of the thing as at that date. A distinction is drawn, however, between subsequent events that arise from the nature or use of the thing itself and subsequent events that affect the value of the thing but arise from sources supervening upon or extraneous to the fraudulent inducement. Events falling into the former category are admissible to prove the value of the thing, those falling into the latter category are inadmissible for that purpose.’ 
+        - ‘The assessment of damages in this case therefore required the Federal Court to determine the value of the business as at 28 October 1988 on the basis that after 8 May 1991 condition (p) had no effect on the use of the boardroom or annex and that after that date condition (s) imposed a restriction on the number of persons who could attend seminars, conferences and similar functions at the motel. ... In addition, the fact that the business had been conducted until 8 May 1991 in disregard of condition (p) had to be taken into account in assessing damages. … Damages are assessed as compensation for loss actually suffered and, as condition (p) caused no loss of revenue to Kizbeau during this period, it caused no diminution in the value of the business acquired by Kizbeau so far as that value is to be assessed by reference to the revenue earned.’
+        - HTW Valuers (Central Qld) Pty Ltd v Astonland Pty Ltd (2004) 217 CLR 640
+  - MURPHY V OVERTON INVESTMENTS PTY LTD (2004) 216 CLR 388
+  - ASSESSMENT OF DAMAGES
+    - Murphy v Overton Investments Pty Ltd (2004) 216 CLR 388
+      - Murphies induced to buy a lease in a retirement village.
+      - Misleading conduct: an “estimate” of a weekly fee to cover village outgoings which gave the impression that it was calculated on current total weekly outgoings, when Overton was in fact subsidising them.
+      - 4 years later, Overton increased the weekly fee to cover all outgoings.
+      - What was the Murphies’ loss?
+        - They had not paid too much for the lease.
+        - They could not show that they would have entered into a better lease elsewhere.
+        - They could not show that they were paying too much for what they received.
+      - Their loss = they expected the fee not to increase so much
+      - [44] This Court has now said more than once that it is wrong to approach the operation of those provisions of [Ch 5] of the [Law] which deal with remedies for contravention of the Act by beginning the inquiry with an attempt to draw some analogy with any particular form of claim under the general law. No doubt analogies may be helpful, but it would be wrong to argue from the content of the general law that has developed in connection, for example, with the tort of deceit, to a conclusion about the construction or application of provisions of [Ch 5] of the [Law]. To do so distracts attention from the primary task of construing the relevant provisions of the Act. In the present case, analogies with the tort of deceit appear to have led to an assumption, at least at trial, that a person can suffer only one form of loss or damage as a result of a contravention of [Ch 5] of the [Law].
+      - [49] It should not be assumed that the loss or damage which a person suffers as a result of a contravention of Pt V is necessarily singular. Nor should it be assumed that loss or damage is incurred either as a loss on capital account, or as a loss on revenue account which, if to be compensated by an award of damages, must be translated into a single capital sum. These assumptions find no support in the language of the relevant provisions.  
+      - [66] The appellants had been induced by the respondent's conduct to undertake an obligation which may, but need not, have been more onerous than the respondent's representation led them to believe. When the respondent started to charge all the outgoings it was entitled to charge, the appellants suffered a loss. The amount of that loss was not to be determined, as the majority of the Full Court held, only by comparing the financial position of the appellants according to whether they entered this lease or took some other accommodation.
+      - ... The appellants suffered loss because the continuing financial obligations they undertook when they took the lease proved to be larger than they had been led to believe. The question then became: how much larger was that burden?
+      - [67] Answering that question is not easy. It would be necessary to take account of a number of considerations
+    - In the appropriate case, damages for disappointed expectations may be available.
+    - The outcome in Murphy is considered extraordinary and specific to the facts.
+    - The orthodox approach continues to be to assess damages on a tort basis.
+    - Plaintiff must prove that they are objectively worse off for relying on the defendant’s conduct: disappointed expectations are not sufficient.
+- Heads of loss
+  - LOSS OR DAMAGE
+    - Australian Consumer Law
+    - Section 13 – Loss or damage to include injury
+      - In this Schedule:
+        - (a) a reference to loss or damage, other than a reference to the amount of any loss or damage, includes a reference to injury; and
+        - (b) a reference to the amount of any loss or damage includes a reference to damages in respect of an injury.
+    - Murphy v Overton Investments Pty Ltd (2004) 216 CLR 388
+      - [45] The [Law’s] references to "loss or damage" can be given no narrow meaning. Section [13] of the [Law] provides that loss or damage includes a reference to injury. It follows that the loss or damage spoken of in ss [236] and [237] is not confined to economic loss. What kinds of detriment constitute loss or damage, when a detriment is to be identified as occurring or likely to occur, and what remedies are to be awarded, may all raise further difficult questions. Especially is that so when it is recalled that remedies may be awarded to compensate, prevent or reduce loss or damage that has been or is likely to be suffered by conduct in contravention of the Act. (The Court)
+    - Wardley Australia Ltd v Western Australia (1992) 175 CLR 514
+      - ‘Under s.[236](1), as under the common law, a plaintiff can only recover compensation for actual loss or damage incurred, as distinct from potential or likely damage ... The Act draws a clear distinction ... between loss or damage which may be recovered under s.[236] and the likelihood of loss or damage which may be prevented or, if not prevented, reduced by one of the remedies under s.[237].’ (526-7, Mason CJ, Dawson, Gaudron, McHugh JJ)
+    - Marks v GIO Holdings Australia Ltd (1998) 196 CLR 494
+      - ‘... No doubt the contravention of s [18] occurred before entry by the borrowers into their respective contracts. But any injury which would found their actions under s [236], and for which it would provide a measure of compensation, was contingent or prospective until GIO acted to increase the margin rate and that increase became legally binding upon the borrowers to expand what previously had been their contractual liabilities to GIO. It follows that, on any footing, the expanded liabilities would not have crystallised until 1 August 1992 when the increased 2.25 per cent became effective.’ (530 [105], Gummow J)
+  - CONTINGENT LOSS
+    - Wardley Australia Ltd v Western Australia (1992) 175 CLR 514
+      - (527, Mason CJ, Dawson, Gaudron, McHugh JJ)
+        - ‘If ... the English decisions properly understood support the proposition that where, as a result of the defendant's negligent misrepresentation, the plaintiff enters into a contract which exposes him or her to a contingent loss or liability, the plaintiff first suffers loss or damage on entry into the contract, we do not agree with them. In our opinion, in such a case, the plaintiff sustains no actual damage until the contingency is fulfilled and the loss becomes actual; until that happens the loss is prospective and may never be incurred. ... .’
+    - Murphy v Overton Investments Pty Ltd (2004) 216 CLR 388
+      - [66] The appellants had been induced by the respondent's conduct to undertake an obligation which may, but need not, have been more onerous than the respondent's representation led them to believe. When the respondent started to charge all the outgoings it was entitled to charge, the appellants suffered a loss. ... The appellants suffered loss because the continuing financial obligations they undertook when they took the lease proved to be larger than they had been led to believe. The question then became: how much larger was that burden? (The Court)
+  - HEADS OF LOSS
+    - Prima facie all the typical heads of loss are claimable:
+      - Economic loss
+      - Property damage
+      - Non-economic loss
+      - Loss of chance
+      - Interest
+  - ECONOMIC LOSS
+    - Murphy v Overton Investments Pty Ltd (2004) 216 CLR 388
+      - [50] Loss or damage may be a loss of capital. But there may also be a loss on revenue account which, unless some other remedy is granted which will prevent it continuing into the future, will, or may, continue into the future. And the losses on capital account may be sustained at a time different from any loss on revenue account. The latter form of loss may, in many cases, be sustained after the loss on capital account has been suffered. In some cases the loss on capital account may overlap with a loss on revenue account. If that is so, it is necessary to mould relief in a way which will avoid double compensation. (The Court)
+  - PROPERTY DAMAGE
+    - Clambake Pty Ltd v Tipperary Projects Pty Ltd (No 3) (2009) 77 ATR 242
+      - [786] In relation to the claims by Owston, I am satisfied that the claims for damages for negligence, for breach of the OLA and for nuisance should also be dismissed but that Owston's claim against Clambake for damages for misleading and deceptive conduct has been made out and that the damages have been shown to be the value of the property destroyed by the fire, namely $14,625,400. (Heenan J)
+  - LOSS OF OPPORTUNITY
+    - Sellars v Adelaide Petroleum NL (1994) 179 CLR 332
+      - ‘Neither in logic nor in the nature of things is there any reason for confining the approach taken in Malec concerning the proof of future possibilities and past hypothetical situations to the assessment of damages for personal injuries. The reasons which commended the adoption of that approach in assessments of that kind apply with equal force to the assessment of damages for loss of a commercial opportunity, as the judgments in Amann acknowledge.’ (Mason CJ, Dawson, Toohey and Gaudron JJ)
+  - PERSONAL INJURY
+    - Review of the Law of Negligence (Final Report, September 2002)
+      - 5.23 Section 52 of the TPA has had a vast influence on the law of contract. The section is a major source of litigation in Australia. It has yet to be a significant influence on the law of negligence but, once avenues for plaintiffs under the law of negligence are blocked or made less attractive by reforms, this is likely to change.
+      - 5.24 Section 52 has gained such popularity with plaintiffs because it has been held by the courts to impose liability on defendants without the need to establish any fault. Often, a plaintiff will plead, as an alternative to a claim under s 52, a claim for negligent misrepresentation or deceit. In order for such common law claims to succeed it would be necessary for the plaintiff to prove not only that the defendant made a false representation, but also that he or she did so negligently or dishonestly (as the case may be). Under s 52, however, the plaintiff can succeed merely by proving that the statement was misleading or deceptive, even if the defendant made the statement with the utmost care and with complete honesty.
+  - PERSONAL INJURY
+    - Competition and Consumer Act 2010 (Cth)
+      - Section 137C – Limits on recovery of amounts for death or personal injury
+        - (1) A person is not entitled to recover an amount of loss or damage by action under subsection 236(1) of the Australian Consumer Law to the extent to which:
+          - (a) the action would be based on the conduct contravening a provision of Part 2‑1 or 3‑1 of the Australian Consumer Law; and
+          - (b) the loss or damage is, or results from, death or personal injury; and
+          - (c) the death or personal injury does not result from smoking or other use of tobacco products.
+      - Section 4 – Interpretation
+        - Personal injury includes:
+          - (a) pre‑natal injury; or
+          - (b) impairment of a person’s physical or mental condition; or
+          - (c) disease; 
+        - but does not include an impairment of a person’s mental condition unless the impairment consists of a recognised psychiatric illness.
+    - Fair Trading Act 1987 (NSW)
+      - Section 74 – Actions for damages and compensation orders
+        - (4) A reference to loss or damage in section 236, 237 or 238 of the ACL and in this section does not, if the loss or damage arises from a contravention of Part 2-1, 3-1 or 4-1 of the ACL, include a reference to:
+          - (a) the death of a person, or
+          - (b) personal injury to a person (including any pre-natal injury, any impairment of the person’s physical or mental condition and any disease).
+  - NON-ECONOMIC LOSS
+    - Kuzmanovski v New South Wales Lotteries Corp (2010) 270 ALR 65
+      - (Rares J)
+        - [103] Here, the damage done was to raise a false hope in Mr and Mrs Kuzmanovski that the ticket won the $100,000 prize when in fact, because it misrepresented its own characteristics, it won nothing. As the inherent defects in the ticket became more and more apparent, the sense of disappointment, anger and frustration felt by Mr and Mrs Kuzmanovski increased. This was a natural reaction aptly described by Mr Kuzmanovski as his feeling cheated. ... The soaring of their hopes and dreams of being able to pay off some of their home mortgage and have an overseas family visit to a sick grandmother were ordinary human reactions. 
+        - [105] There are no objective criteria for assessing the value of such injured feelings. Mrs Kuzmanovski bought the ticket to give her husband the pleasure of playing a game of chance in which he might win. That pleasure was neatly coined by Lotteries’ own advertised “scratch yourself happy” promotion. The result for Mr and Mrs Kuzmanovski was initial happiness followed by protracted vexation. Doing the best I can, I would have assessed Mr and Mrs Kuzmanovski’s damages under ss [236 or 237] at $20,000 (or, if I had to apportion these at $15,000 for him and $5,000 for her).
+        - Affirmed in New South Wales Lotteries Corporation Pty Ltd v Kuzmanovski (2011) 195 FCR 234
+  - AGGRAVATED DAMAGES
+    - Aggravated damages are available for anxiety, distress or vexation caused by a breach of s 18:
+      - Collings Construction Co Pty Ltd v Australian Competition and Consumer Commission (1998) 43 NSWLR 131; Shahid v Australasian College of Dermatologists (2008) 168 FCR 46
+    - Query whether definition of “personal injury” under NSW law means that aggravated damages are precluded.
+  - EXEMPLARY DAMAGES	
+    - Not available because ss 236 and 237 are directed to compensating loss – not punishment.
+    - Query whether exemplary damages necessary when the ACL provides its own civil and criminal punishments.
+  - INTEREST
+    - Generally available on pre-judgment damages, like for the common law claims.
+      - Civil Procedure Act 2005 (NSW) s 100
+      - Federal Court of Australia Act 1976 (Cth) s 51A
+  - OVERVIEW
+    - Statutory remedies for misleading or deceptive conduct (ACL s 18):
+      - 1. ACL s 236 (damages) 
+      - 2. ACL s 237 (other orders)
+## Week 12: ACL s 237
+
+- Key vocabulary in this topic:
+  - Australian Consumer Law: The Australian Consumer Law is Sch 2 to the Competition and Consumer Act 2010 (Cth). It is the source of liability for misleading or deceptive conduct (s 18) and the remedial sections (ss 236 and 237).
+  - Avoidance order: An alternate name for a 'rescission' granted under the Australian Consumer Law.
+  - ComOverviewpetition and Consumer Act 2010 (Cth): The principal legislation that contains the Australian Consumer Law.
+- Overview
+  - AUSTRALIAN CONSUMER LAW S 237
+    - Section 237 – Compensation orders etc. on application by an injured person or the regulator
+      - (1) A court may:
+        - (a) on application of a person (the injured person) who has suffered, or is likely to suffer, loss or damage because of the conduct of another person that:
+          - (i) was engaged in a contravention of a provision of Chapter 2, …
+          - …
+        - make such order or orders as the court thinks appropriate against the person who engaged in the conduct, or a person involved in that conduct.
+      - (2) The order must be an order that the court considers will:
+        - (a) compensate the injured person, or any such injured persons, in whole or in part for the loss or damage; or
+        - (b) prevent or reduce the loss or damage suffered, or likely to be suffered, by the injured person or any such injured persons.
+    - Key points:
+      - Remedies are discretionary. (‘A court may ...’)
+      - Section 237 can:
+        - compensate part of all loss; or
+        - Prevent loss.
+      - ‘make such order or orders as the court thinks appropriate’ = very broad discretion.
+      - Goal is compensation:
+        - No orders of specific performance (ie, fulfilling expectations)
+        - No ‘reasonable fee’ damages;
+        - No exemplary damages
+  - AUSTRALIAN CONSUMER LAW S 243
+    - Section 243 – Kinds of orders that may be made
+      - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following:
+        - (a) an order declaring the whole or any part of a contract made between the respondent and a person (the injured person) who suffered, or is likely to suffer, the loss or damage referred to in that section, or of a collateral arrangement relating to such a contract: 
+          - (i) to be void; and 
+          - (ii) if the court thinks fit—to have been void ab initio or void at all times on and after such date as is specified in the order (which may be a date that is before the date on which the order is made);
+      - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following: ...
+        - (b) an order:
+          - (i) varying such a contract or arrangement in such manner as is specified in the order; and 
+          - (ii) if the court thinks fit—declaring the contract or arrangement to have had effect as so varied on and after such date as is specified in the order (which may be a date that is before the date on which the order is made);
+    - Section 243 – Kinds of orders that may be made
+      - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following: …
+        - (c) an order refusing to enforce any or all of the provisions of such a contract or arrangement;
+        - (d) an order directing the respondent to refund money or return property to the injured person;
+        - (e) ... an order directing the respondent to pay the injured person the amount of the loss or damage;
+        - (f) an order directing the respondent, at his or her own expense, to repair, or provide parts for, goods that had been supplied by the respondent to the injured person;
+      - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following: …
+        - (g) an order directing the respondent, at his or her own expense, to supply specified services to the injured person;
+        - (h) an order, in relation to an instrument creating or transferring an interest in land, directing the respondent to execute an instrument that:
+          - (i) varies, or has the effect of varying, the first mentioned instrument; or
+          - (ii) terminates or otherwise affects, or has the effect of terminating or otherwise affecting, the operation or effect of the first mentioned instrument.
+- Loss or damage
+  - CAUSATION
+    - To obtain a remedy under s 237, the plaintiff must prove causation between their loss (or any likely loss).
+    - Marks v GIO Australia Holdings (1998) 196 CLR 494
+      - (McHugh, Hayne and Callinan JJ)
+        - [38] It can be seen, therefore, that both ss [236] and [237] require examination of whether a person has suffered (or, in the case of s [237], is likely to suffer) loss or damage "by conduct of another person" that was engaged in the contravention of one of the identified provisions of the Act. That inquiry is one that seeks to identify a causal connection between the loss or damage that it is alleged has been or is likely to be suffered and the contravening conduct. 
+      - (Gaudron J)
+        - [22] There being no evidence of the kind to which I have referred, the appellants failed to establish that they had suffered any loss or damage and were, thus, not entitled to any remedy under [s 236]. However, the appellants' entitlement to relief under [s 237] does not depend on proof of actual loss or damage. Relief may be granted under that section if a person is "likely to suffer" loss or damage. And as a matter of ordinary language, the expression "likely to suffer" imports only that loss or damage is a real chance or possibility, not that it is more likely than not.
+      - (Gummow J)
+        - [119] In those circumstances, in respect of borrowers who declined the GIO offer, an order adding a term to their AAA facilities to the effect that the margin was fixed at 1.25 per cent for the life thereof would not be a proper exercise of the discretion conferred upon the court by s [237]. It would not be an appropriate measure to prevent or reduce loss or damage suffered or likely to be suffered by the borrowers by reason of the increase of the margin to 2.25 per cent with effect from 1 August 1992. The increased contractual liability of the borrowers would be the product of their own exercise of choice, not the taking by GIO of advantage of its misleading or deceptive conduct by insisting upon keeping the borrowers to the terms of their facilities.
+        - See also Gaudron J
+      - (McHugh, Hayne and Callinan JJ)
+        - [58] It follows, therefore, that the borrowers' concession that, ... the GIO loan at the increased margin was more beneficial to the borrowers than any other loan that was available is critical to the determination of these proceedings. It was not submitted (and there was no evidence to suggest) that any further increase in margin was to be considered. ...
+        - [59] Accordingly, the position of the borrowers is that they were misled into taking a loan which cost them more than was represented to them but which, even so, cost less than any other loan available to them in the market. They suffered and will suffer no loss or damage as a result of the misleading and deceptive conduct of the respondents. No order can be made under ss [236] or [237].
+- LOSS OR DAMAGE
+  - S 236 / S 237
+    - Demagogue Pty Ltd v Ramensky (1992) 39 FCR 31
+      - ‘The phrase “loss or damage” in s [237](1) does not involve any concept of quantum or assessment of damages ... This is to be contrasted with the context of the phrase in s [236] where it is “the amount of the loss or damage” which is recoverable by action. For the purpose of s [236] it is the quantum or assessment of the loss or damage suffered in monetary terms which must be demonstrated. The rules as to the assessment of damages or the measure of damages in an action for deceit are relevant to the question of loss or damage under s [236]. However those rules are not relevant to the meaning of the phrase in s [237](1).’ (47, Cooper J)
+  - Contingent Loss
+    - Wardley Australia Ltd v Western Australia (1992) 39 FCR 31
+      - (543, Deane J)
+        - ‘... an action under s.[236](1) is to recover "the amount of the loss or damage" and by other provisions of the [Law] lends some support for the conclusion that loss or damage has not been suffered for the purposes of s.[236] at a stage where all that is involved is an isolated contingent liability to make a future payment in the event that some possible or even likely, but nonetheless uncertain, future state of affairs comes about. In particular, s.[237] of the Act expressly distinguishes between the actual suffering of loss or damage and the likelihood (or contingency) that loss and damage will be suffered in the future.’ 
+  - ASSUMPTION OF LEGAL OBLIGATION
+    - Demagogue Pty Ltd v Ramensky (1992) 39 FCR 31
+      - Ramenskies were induced by Demagogue’s misleading or deceptive conduct to enter an agreement to purchase real property from Demagogue.
+      - Ramenskies sought rescission.
+      - Submitted their ‘loss or damage’ was entering into a contract that they would not have agreed to if they had known the truth.
+      - (32, Black CJ)
+        - ‘The general law does not impose, as a requirement for effective rescission, that a party who has been induced to enter into a contract by a misrepresentation must have suffered loss and damage in the sense of a loss for which a pecuniary award may be made. ... Despite the use of the same words “loss or damage” that appear in s [236], it would be surprising if s [237], in providing a range of discretionary remedies, contained a limitation that is not imposed by the general law ... and that would, in any event, seriously limit the usefulness of the section.’ 
+      - (33, Black CJ)
+        - ‘... the loss or damage contemplated by s [237] is not limited to loss or damage in the s [236] sense but was intended to include the detriment suffered by being bound to a contract unconscionably induced.’ (33, Black CJ)
+        - ‘In my view, the loss or damage for the purposes of [s 237] will include the detriment suffered by being bound to a contract induced by misleading or deceptive conduct in contravention of s [18]. Proof of loss or damage of the sort that would be an “amount of ... loss or damage” for the purpose of s [236] is not a prerequisite for the grant of relief under either subsection.’ 
+      - (43, Gummow J)
+        - ‘The respondents complain that they entered into a contract as the result of reliance upon conduct which contravened s 52. Why should they not be described as having suffered loss or damage, within the meaning of s 87, by that very reliance and entry into legal relations from which they otherwise would have abstained? If that contract be declared void ab initio as provided for in s 87(2)(a), will that not reduce this loss or damage?’ 
+      - (47, Cooper J)
+        - ‘In the context of providing compensation it is the obligations imposed by such a contract which is the loss or damage which the order seeks to redress. 
+        - In my opinion “loss or damage” in s 87(1) means no more than the disadvantage which is suffered by a person as the result of the act or default of another (Halsbury's Laws of England (4th ed), Vol 12, par 1102) in the circumstances provided for in the section.’
+  - Marks v GIO Australia Holdings (1998) 196 CLR 494
+    - (McHugh, Hayne and Callinan JJ)
+      - [55] ... If, as we consider to be the case, the bare fact that making a contract different from what was represented is not loss or damage, something more must be shown to be likely to occur in the future before it can be said that it is likely that loss or damage will be suffered. 
+      - [56] Ordinarily this will present the plaintiff with no difficulty. It will be rare that the difference between what was represented and what was given will not be reflected in some difference in value or other manifestation of actual loss to the party that was misled either now or in the future. But if it does not, we consider that neither s [236] nor s [237] relief is available. To the extent that the contrary was held in Demagogue Pty Ltd v Ramensky, we consider it to be wrong. 
+  - ASSUMPTION OF LEGAL OBLIGATION
+    - Harvard Nominees Pty Ltd v Tiller (2020) 385 ALR 595
+      - [77] The relevant dictum in Demagogue is that the loss or damage contemplated by ... s 237 ... includes the detriment suffered by being bound to a contract unconscionably induced ... or that it includes the disadvantage of incurring contractual obligations which would not have been incurred but for the conduct complained of … On that basis, the finding by the primary judge ... that Harvard would not have entered into the Tiller Leases but for the offending conduct is sufficient to establish that Harvard “suffered, or is likely to suffer, loss or damage” within the meaning of s 237(1)(a) of the ACL which in turn provides a foundation for relief under s 243. (The Court)
+- Common orders
+  - DISCRETIONARY REMEDY
+    - Akron Securities Ltd v Iliffe (1997) 41 NSWLR 353, 364
+      - ‘In short, the power conferred by s [237] is (in subs (1)'s own words) to make “such order or orders as the Court thinks appropriate”. Proven contravention of s [18] is the “passport to ... extensive relief”: Farrow Mortgage Services Pty Ltd (In Liq) v Edgar (1993) 114 ALR 1 at 6, per Lockhart J, Gummow J and Lee J.
+      - ...
+      - There is no point in having a remedial smorgasbord if the table is not scanned at least briefly to see what is best on offer’ (Mason P)
+  - FRAUD
+    - Munchies Management Pty Ltd v Belperio (1988) 58 FCR 274
+      - (289, Fisher, Gummow and Lee JJ)
+        - ‘Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd ... serves to emphasise that in the exercise of the discretion in these matters given the court by s [237], the equitable principles concerning rescission give safe, if not necessarily exclusive, guidance. ... As we have shown, those principles differ in application to innocent and fraudulent misrepresentation. Section [18] may be contravened by either type of conduct. But that does not mean that at the level of remedy, and in the exercise of discretion as to appropriate remedy under s [237] (if not under s [236]), the presence or absence of fraud may not be a significant matter.’ 
+  - PLAINTIFF’S CONDUCT
+    - Like equity, the remedies under s 237 are discretionary. The court will consider matters like:
+      - The plaintiff’s conduct;
+      - Whether a more appropriate remedy is available (eg, damages under s 236).
+    - The court can make orders ‘on terms’.
+    - Reg Russell & Sons Pty Ltd v Buxton Meats Pty Ltd (1994) ATP (Digest) 46-127, 53,614
+      - ‘The court has a very wide discretion under [s 237] ... In exercising its discretion the court will take into account whether there is a causal link between the loss or damage suffered or likely to be suffered by the plaintiff, whether and to what extent the plaintiff is the author of his or her own misfortune, and whether another remedy is or was at hand to recover the loss or damage in question.’ (Ipp JA)
+  - DISCRETIONARY REMEDY
+    - Marks v GIO Australia Holdings (1998) 196 CLR 494
+      - (Gummow J)
+        - [116] ... The principles regulating the administration of equitable remedies afford guidance for, but do not dictate, the exercise of the statutory discretion conferred by s [237]. 
+    - Akron Securities Ltd v Iliffe (1997) 41 NSWLR 353
+      - ‘Early case law took a narrow approach to s [237], with courts fearing to move far from the familiar coastline of traditional common law and equitable approaches. But it is now clearly established that [s 237] is to be given no restrictive interpretation. ... A court should not restrict the exercise of its discretion "by imposing upon itself technicalities which might defeat the policy of the section": Mister Figgins Pty Ltd v Centrepoint Freeholds Pty Ltd [1981] FCA 15; (1981) 36 ALR 23 at 56 per Northrop J.’ (364, Mason P)
+    - Kizbeau Pty Limited v W G & B Pty Limited (1995) 184 CLR 281
+      - Kizbeau induced to purchase 5-year leasehold from W G because of W G’s misleading statement that the ‘boardroom and boardroom annex’ (‘the boardroom’) could be used for functions. 
+      - The motel did not have permission to use the boardroom at all.
+      - Kizbeau used the boardroom without restriction for 2 years after settlement.
+      - When Kizbeau discovered the truth, Kizbeau was granted permission to use the boardroom with a 50 person mx restriction.
+      - Damages awarded for being induced to pay too much for the asset by W G’s misleading conduct.
+      - (The Court)
+        - ‘An order for the payment of damages of $182,060 and interest is not sufficient to compensate Kizbeau for the loss that it suffered as the result of the misleading conduct of the owner. The sum of $182,060 is assessed on the assumption that the rent bears the same proportion to the revenue of the business as the stipulated rent of $480,000 bore to the revenue of $2,200,000 which the business would have produced in the absence of conditions limiting the use of the premises. If Kizbeau is to be fairly compensated for its loss, the rent provisions of the lease will have to be varied. 
+  - AVOIDANCE ORDERS
+  - ACL S 243(A): AVOIDANCE ORDERS
+    - Section 243 – Kinds of orders that may be made
+      - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following:
+        - (a) an order declaring the whole or any part of a contract made between the respondent and a person (the injured person) who suffered, or is likely to suffer, the loss or damage referred to in that section, or of a collateral arrangement relating to such a contract:
+          - (i) to be void; and 
+          - (ii) if the court thinks fit—to have been void ab initio or void at all times on and after such date as is specified in the order (which may be a date that is before the date on which the order is made);
+    - Bullabidgee Pty Ltd v McCleary [2011] NSWCA 259 (2 September 2011)
+      - [60] There is no doubt ... that equitable principles provide guidance to exercising the discretion given by the [Australian Consumer Law s 237). ... A central consideration is that of restitutio in integrum. (Allsop P, Basten and Young JJA agreeing)
+    - Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (1988) 39 FCR 546
+      - ‘In granting a remedy under s. [237], the Court is not restricted by the limitations under the general law of a party's right to rescind for breach of contract or misrepresentation. Nevertheless, in exercising its discretion under s. [237], the Court will consider the conduct of the parties after they had knowledge of the misleading quality of the conduct ... .’ (Lockhart J, Burchett and Forster JJ agreeing)
+      - Avoidance order denied because:
+        - Restitutio in integrum no longer possible.
+        - Collins delayed seeking relief for too long.
+        - Damages were an adequate remedy.
+    - Bullabidgee Pty Ltd v McCleary [2011] NSWCA 259 (2 September 2011)
+      - [61] ... The primary judge's statement that the purchasers  repeatedly affirmed the contracts is not, with respect, entirely correct. They did not seek to affirm the contracts unqualified by enforcement of statutory rights given by the [Australian Consumer Law]. Rather, they sought a remedy under that legislation. At the commencement of the trial, they changed their minds as to the remedy they wished to pursue under that Act. They sought avoidance of the contracts, damages and return of the deposits. At no time did they waive or abandon their rights under the Act; nor did they affirm the contracts, without the legal affectation of a remedy under the Act. (Allsop P, Basten and Young JJA agreeing)
+    - Affirmation of the contract something to be considered when the court exercises its discretion.
+    - Affirmation of a contract may be characterised as the plaintiff causing their own loss: Marks v GIO Australia Holdings (1998) 196 CLR 494.
+    - Bullabidgee Pty Ltd v McCleary [2010] NSWSC 345 (19 April 2010)
+      - (Brereton J)
+        - [57] As to discretion, it is well-established that, although affirmation may not necessarily be fatal to a claim for statutory avoidance under [Australian Consumer Law s 237] ... nonetheless the equitable principles concerning rescission provide safe if not exclusive guidance as to the exercise of the discretion given by that section. 
+  - VARIATION ORDERS
+    - ACL S 243(B): VARIATION ORDERS
+      - Section 243 – Kinds of orders that may be made
+        - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following: …
+        - (b) an order:
+          - (i) varying such a contract or arrangement in such manner as is specified in the order; and 
+          - (ii) if the court thinks fit—declaring the contract or arrangement to have had effect as so varied on and after such date as is specified in the order (which may be a date that is before the date on which the order is made);
+      - Varying a contract can be useful:
+      - To prevent future loss (See: Kizbeau);
+      - Provide alternative relief if an avoidance order is not appropriate.
+    - Mister Figgins Pty Ltd v Centrepoint Freeholds Pty Ltd (1981) 36 ALR 23, 56
+      -  (Northrop J)
+        - ‘I reject any suggestion that the form of order to be made in this case is limited to the form of relief claimed by the applicant. Section [237] confers upon the court a wide discretion to do justice between the parties. The court should not restrict the exercise of that discretion by imposing upon itself technicalities which might defeat the policy of the section. ... The court is required to consider all matters properly before it and to make such orders under ss [236] and [237] as it considers appropriate. It must apply the law, but in doing that it must do justice between the parties. It must do what is fair between the parties.’
+    - Mister Figgins Pty Ltd v Centrepoint Freeholds Pty Ltd (1981) 36 ALR 23, 60
+      - ‘Although the difficulties inherent in the traditional problems of deciding whether to rescind a contract or to affirm the contract and sue for damages in the event of deceit are to be avoided as far as possible in proceedings under ss [236] and [237] of the Act, nevertheless some consideration and weight must be given to the actions of the parties after knowledge of the existence of misleading or deceptive conduct. Section [237] enables the court to overcome many of those types of difficulties, but at the same time the conduct of the parties, and in the present case particularly the conduct of the applicant, is relevant to be considered in the exercise of the discretion conferred by s [237] of the Act, and more particularly for present purposes in determining the amount of damages to be recovered under s [236].’ 
+    - Allied Westralian Finance Ltd v Wenpac Pty Ltd (1992) ATPR ¶46-082
+      - ‘Whilst under s [237] it is clear that among the orders generally contemplated by the section is an order varying a contract or arrangement between the parties and, if appropriate, declaring that the varied contract or arrangement shall be regarded as having had effect from a point of time prior to the judgment, it is clear that such action should only be taken to the extent it is necessary to provide proper compensation for the particular loss of which complaint is made and, the Court so it has been held, "must be slow to impose upon the parties a regime which could not represent the bargain they would have struck between them.”’ (Murray J)
+    - McPhillips v Ampol Petroleum (Victoria) Pty Ltd (1990) ATPR ¶41-014
+      - ‘In my view, damages as for deceit are an appropriate and adequate remedy in the present case and, in the exercise of my discretion, I decline to order under sec. [237] that the term of the franchise agreements be extended so as to enable the applicant to remain in possession. I think it is generally undesirable to order parties who have fallen out to remain in a contractual relationship. It is not difficult to imagine problems arising over such questions as maintenance of the premises and levels of rent.’ (51257, Woodward J)
+  - MONETARY ORDERS
+    - ACL S 243(D) & (E): MONETARY ORDERS
+      - Section 243 – Kinds of orders that may be made
+        - Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following: …
+        - …
+        - (d) an order directing the respondent to refund money or return property to the injured person;
+        - (e) ... an order directing the respondent to pay the injured person the amount of the loss or damage;
+      - Relationship between s 237 monetary orders and s 236 damages is not clear.
+      - Section 236:
+        - Seems directed to compensating all loss as a lump sum.
+        - Suggests only past (actual) loss is claimable.
+      - Section 237:
+        - Allows loss to be compensated partly by money and partly by other orders.
+        - Perhaps damages for future loss (‘likely to suffer’) is claimable only under this section.
+      - Monetary orders also include orders to restore parties to their pre- contractual positions.
+  - COERCIVE ORDERS
+    - ACL S 237: COERCIVE ORDERS
+      - Coercive orders may be made:
+        - In respect of the specific matters listed in s 243; and
+        - As part of the general discretionary power conferred by s 237.
+      - Orders similar to prohibitory and mandatory injunctions may be made, if such orders will compensate or prevent loss.
+      - Few case examples. Probably because:
+        - Aim of relief is compensation of actual loss, not mere fulfillment of expectations; and
+        - Damages are an adequate remedy.
+      - Milchas Investments Pty Ltd v Larkin (1989) 96 FLR 464
+        - ‘It is rather unusual then that after so many years of courts having power to vary contracts or to make an order in the nature of specific performance none has ever been made in any reported decision. Mr Gyles QC puts that this is at least partly due to the conservatism of judges and the legal profession, but I think a better answer is that ordinarily the courts find that damages or setting aside contracts is the appropriate remedy or possibly a restraining injunction and it is only in very rare circumstances that the court will think that one of the other discretionary remedies is appropriate.’ (477, Young J)
+## Week 13: Unjust enrichment
+
+- Key vocabulary in this topic:
+  - Restitution: The remedy for certain causes of action predicated on the defendant being unjustly enriched at the expense of the plaintiff.
+  - Quantum meruit: A cause of action that allows a plaintiff to sue for the value of a service provided by the plaintiff to the defendant, when the defendant has been unjustly enriched by that service.
+  - Quantum valebat: A cause of action that allows a plaintiff to sue for the value of a good provided by the plaintiff to the defendant, when the defendant has been unjustly enriched by that good. The same principles apply as in quantum meruit.
+  - Money had and received: A cause of action that allows the plaintiff to sue for the value of money transferred to the defendant, when the defendant has been unjustly enriched by that transfer. Within it are several grounds for the claim, like money paid under mistake, money paid under duress, money paid pursuant to an illegal transaction and total failure of consideration.
+  - Unjust enrichment: A general principle that underpins certain causes of action whose object is to have the defendant return benefits obtained from the plaintiff when the the defendant was unjustly enriched at the plaintiff's expense.
+- Introduction
+  - UNJUST ENRICHMENT
+    - Introduction to unjust enrichment
+      - What is unjust enrichment?
+      - Unjust enrichment as a unifying legal concept
+      - Relationship with contract
+    - Money had and received
+    - Quantum meruit / quantum valebat
+  - WHAT IS UNJUST ENRICHMENT?
+    - Commissioner of State Revenue (Vict) v Royal Insurance Australia Ltd (1994) 182 CLR 51
+      - ‘Restitutionary relief ... operates to restore to the plaintiff what has been transferred from the plaintiff to the defendant whereby the defendant has been unjustly enriched.’ 75 (Mason J)
+  - RELATIONSHIP WITH DAMAGES
+    - Commissioner of State Revenue (Vict) v Royal Insurance Australia Ltd (1994) 182 CLR 51
+      - ‘... the basis of restitutionary relief is not compensation for loss or damage sustained but restoration to the plaintiff of what has been taken or received from the plaintiff without justification.’ 
+      - ‘Because the object of restitutionary relief is to divest the defendant of what the defendant is not entitled to retain, the court does not assess the amount of its award by reference to the actual loss which the plaintiff has sustained.’ 71, 74 (Mason CJ)
+  - RELATIONSHIP WITH RESCISSION
+    - Brown v Smitt (1924) 34 CLR 160
+      - ‘The parties being relieved of the contractual obligations, each must give back all that he obtained under the contract.’ 164 (Knox CJ, Gavan Duffy and Starke JJ)
+        - The process of restoring parties to a pre-contractual position = a form of mutual restitution.
+    - Rescission
+      - Usually an equitable remedy.
+      - Legal act voided by election of a party because of impaired consent.
+      - Both parties restore each other to pre-transaction position.
+    - Unjust enrichment
+      - Common law action.
+      - One party unjustly enriched at the expense of the other.
+      - Enriched party returns value to the other
+  - JURISDICTION
+    - Moses v Macferlan (1760) 97 ER 676
+      - ‘If the defendant be under an obligation, from the ties of natural justice, to refund; the law implies a debt, and gives this action, founded in the equity of the plaintiff's case, as it were upon a contract.’ 678 (Lord Mansfield)
+      - Common law action informed by equitable notions.
+    - Law of obligations
+      - Contract
+        - Enforcement of legally binding promises.
+      - Unjust enrichment
+        - Restitution of value unjustly received.
+      - Tort
+        - Compensation for wrongs committed that cause loss.
+  - HISTORY
+    - Derived from old cause of action “quasi contract”
+    - The law would impose implied promises to repay, or pay for, benefits received in certain contexts.
+    - Moses v Macferlan (1760) 97 ER 676
+      - ‘... the law implies a debt, and gives this action, founded in the equity of the plaintiff's case, as it were upon a contract.’ 678 (Lord Mansfield)
+    - 20th century: ‘Implied promise’ theory rejected.
+    - Academics and judges posit “unjust enrichment” is the theoretical basis for the restitutionary causes of action.
+    - Pavey & Matthews Pty Ltd v Paul (1987) 162 CLR 221
+      - Pavey and Mrs Paul entered an informal oral contract for Pavey to build a cottage for Mrs Paul.
+      - Home building legislation provided that oral home building contracts were unenforceable.
+      - Pavey built the cottage and Mrs Paul moved in.
+      - Mrs Paul had paid some money towards the construction but not the full price.
+      - Pavey sued Mrs Paul for quantum meruit:
+        - Claim not based in contract nor ‘implied contract’ therefore not an attempt to indirectly enforce an unenforceable contract.
+      - (Deane J)
+        - ‘... the tendency of common lawyers to speak in terms of implied contract rather than in terms of an obligation imposed by law ... should be recognized as but a reflection of the influence of discarded fictions, buried forms of action and the conventional conviction that, if a common law claim could not properly be framed in tort, it must necessarily be dressed in the language of contract ... .’ 256
+        - ‘... That tendency should not be allowed to conceal the fact that, in that category of case, the action was not based upon a genuine agreement at all. ... it is the very fact that there is no genuine agreement or that the genuine agreement is frustrated, avoided or unenforceable that provides the occasion for (and part of the circumstances giving rise to) the imposition by the law of the obligation to make restitution.’
+        - ‘[Unjust enrichment] constitutes a unifying legal concept which explains why the law recognizes, in a variety of distinct categories of case, an obligation on the part of a defendant to make fair and just restitution for a benefit derived at the expense of a plaintiff and which assists in the de-termination, by the ordinary processes of legal reasoning, of the question whether the law should, in justice, recognize such an obligation in a new or developing category of case.’ 256-7 (Deane J)
+      - (Mason and Wilson JJ)
+        - ... the true foundation of the right to recover on a quantum meruit does not depend on the existence of an implied contract. 
+        - Once the true basis of the action on a quantum meruit is established... it is difficult to regard the action as one by which the plaintiff seeks to enforce the oral contract.’ 227
+    - Redland City Council v Kozik (2024) 98 ALJR 544
+      - ‘At a high level of generality it can sometimes assist when considering the boundaries of a particular category of case to structure a common law enquiry into whether a defendant has been unjustly enriched by asking what benefit a defendant has received, whether the benefit is at the plaintiff’s expense, whether the circumstances render the provision of that benefit unjust, and whether any defences apply.’ 578 [180] (Gordon, Edelman and Steward JJ)
+  - UNJUST ENRICHMENT
+    - Introduction to unjust enrichment
+      - What is unjust enrichment?
+      - Unjust enrichment as a unifying legal concept
+      - Relationship with contract
+    - Money had and received
+    - Quantum meruit / quantum valebat
+- Unjust enrichment as a unifying legal concept
+  - UNJUST ENRICHMENT AS A UNIFYING LEGAL CONCEPT
+    - Equuscorp Pty Ltd v Haxton (2012) 246 CLR 498
+      - (Gordon, Edelman and Steward JJ)
+        - ‘Since unjust enrichment expresses only the conclusion that follows the exposed process of reasoning within [certain] categories of case, it has repeatedly been said in this Court that “unjust enrichment” is not a premise that is capable of direct application.” 578 [180] 
+      - (French CJ, Crennan and Kiefel JJ)
+        - ‘Unjust enrichment therefore has a taxonomical function referring to categories of cases in which the law allows recovery by one person of a benefit retained by another. In that aspect, it does not found or reflect any “all- embracing theory of restitutionary rights and remedies”.’ 517 [30]
+    - Mann v Paterson Constructions Pty Ltd (2019) 267 CLR 560
+      - (Nettle, Gordon and Edelman JJ)
+        - ‘... in this country restitution arises in recognised categories of case and is not necessarily available whenever, and to the extent that, a defendant is enriched at the plaintiff’s expense in circumstances that render the enrichment unjust.’ 649 [213] 
+    - Lampson (Australia) Pty Ltd v Fortescue Metals Group Ltd (No 3) [2014] WASC 162 (7 May 2014)
+      - ‘Like the category of 'torts' the category of unjust enrichment assists in understanding even though it is not a direct source of liability. The category directs attention to a common legal foundation shared by a number of instances of liability formerly concealed within the forms of action or within bills in equity.’ [51] (Edelman J)
+  - UNJUST ENRICHMENT TODAY
+    - “Unjust enrichment”, of itself, is not a cause of action.
+    - At most it identifies a common theme in certain recognised causes of action.
+    - A plaintiff seeking restitution must plead and prove a recognised cause of action.
+  - UNJUST ENRICHMENT / RESTITUTION
+    - Unjust enrichment
+      - A label describing an area of law in which several causes of action display similar features.
+      - A conclusion in a recognised cause of action justifying an order for restitution.
+    - Restitution
+      - The remedy ordered in a recognised cause of action if a defendant is unjustly enriched at the expense of the plaintiff.
+- Relationship with contract
+  - RELATIONSHIP WITH CONTRACT
+    - Tort / Unjust Enrichment
+      - Impose obligations
+    - Contract
+      - Voluntarily assumed obligations
+    - Trimis v Mina [1999] NSWCA 140
+      - (Mason P)
+        - ‘The starting point is a fundamental one in relation to restitutionary claims, especially claims for work done or goods supplied. No action can be brought for restitution while an inconsistent contractual promise subsists between the parties in relation to the subject matter of the claim. ...’ [54]
+        - ‘Restitution respects the sanctity of the transaction, and the subsisting contractual regime chosen by the parties as the framework for settling disputes. This ensures that the law does not countenance two conflicting sets of legal obligations subsisting concurrently.’ [54] 
+    - Example
+      - Students agree to paint Elvira’s house for $1,000
+      - Entire contract: the students paint the entire house before Elvira is obligated to pay anything.
+    - Example
+      - Students complete 80% of the painting.
+      - Entire contract: no claim for payment in contract.
+      - Alternative: Claim in quantum meruit for work done?
+    - Example
+      - If Elvira had not terminated the contract: no.
+      - If Elvira had terminated the contract, then quantum meruit could be explored but doubtful.
+      - Any claim for quantum meruit would be subject to Elvira’s claim for breach of contract.
+    - Roxborough v Rothmans of Pall Mall Australia Limited (2001) 208 CLR 516
+      - (Gummow J)
+        - ‘... the action to recover the moneys sought by the appellants after the failure of the purpose of funding Rothmans to renew its licence may be illustrative of the gap-filling and auxiliary role of restitutionary remedies. These remedies do not let matters lie where they would fall if the carriage of risk between the parties were left entirely within the limits of their contract. ...’ 545 [75] 
+      - ‘... Hence there is some force in the statement by Laycock:
+        - “The rules of restitution developed much like the rules of equity. Restitution arose to avoid unjust results in specific cases – as a series of innovations to fill gaps in the rest of the law.”’ 545 [75] (Gummow J)
+    - Pavey & Matthews Pty Ltd v Paul (1987) 162 CLR 221
+      - (Deane J)
+        - ‘The quasi-contractual obligation to pay fair and just compensation for a benefit which has been accepted will only arise in a case where there is no applicable genuine agreement or where such an agreement is frustrated, avoided or unenforceable. In such a case, it is the very fact that there is no genuine agreement or that the genuine agreement is frustrated, avoided or unenforceable that provides the occasion for (and part of the circumstances giving rise to) the imposition by the law of the obligation to make restitution.’ 256 
+    - If a contract exists between the parties, restitutionary claims typically arise when:
+      - There is no contract;
+      - The contract is terminated, void or unenforceable; or
+      - The contract does not provide for the claim.
+- Money had and received
+  - MONEY HAD AND RECEIVED
+    - Recovery depends on claim in ‘money had and received.’
+    - Equuscorp Pty Ltd v Haxton (2012) 246 CLR 498
+      - ‘In David Securities Pty Ltd v Commonwealth Bank of Australia, this Court explained the part played by unjust enrichment in a claim for money had and received (in that case for recovery of a payment made under mistake of law). That explanation may be expressed, at a fairly high level of abstraction, as an approach to determining such claims. ...’ 517 [30] (French CJ, Crennan and Kiefel JJ) 
+      - ‘In summary:
+        - recovery depends upon enrichment of the defendant by reason of one or more recognised classes of “qualifying or vitiating” factors; 
+        - the category of case must involve a qualifying or vitiating factor such as mistake, duress, illegality or failure of consideration, by reason of which the enrichment of the defendant is treated by the law as unjust; ...’ 517 [30]
+      - unjust enrichment so identified gives rise to a prima facie obligation to make restitution;
+      - the prima facie liability can be displaced by circumstances which the law recognises would make an order for restitution unjust.’ 517 [30] 
+  - QUALIFYING / VITIATING FACTORS
+    - Only total failure of Consideration covered / assessed in this subject.
+    - Mistake
+      - Involuntary payment caused by a mistake.
+    - Duress
+      - Money paid under illegitimate pressure.
+    - Total failure of consideration
+      - Money paid for a purpose or on a basis that fails to materialise or sustain itself.materialise or sustain itself.
+    - Illegality
+      - Money paid in respect of an illegal enterprise.
+    - Vitiating factor = ‘unjust’ enrichment.
+      - Defendant is unjustly enriched if a plaintiff mistakenly pays them. 
+      - Defendant is unjustly enriched if they coerced a payment from the plaintiff
+  - MONEY HAD AND RECEIVED
+    - Introduction to unjust enrichment
+    - Money had and received
+      - Total failure of consideration
+    - Quantum meruit / quantum valebat
+    - 
+- Total failure of consideration
+  - TOTAL FAILURE OF CONSIDERATION
+    - Redland City Council v Kozik (2024) 98 ALJR 544
+      - ‘In Roxborough, Gleeson CJ, Gaudron and Hayne JJ conceived of a failure of consideration as a “payment for a purpose which has failed as, for example, where a condition has not been fulfilled, or a contemplated state of affairs has disappeared”. Gummow J in Roxborough identified a failure of consideration as “the failure to sustain itself of the state of affairs contemplated as a basis for the payments the appellants seek to recover”.’ 562 [86] (Gageler CJ and Jagot J) 
+    - If:
+      - 1. The plaintiff pays money to a defendant pursuant to an actual or anticipated contract; and
+      - 2. The contract either never forms, or forms but is unenforceable, or later terminated or voided; and
+      - 3. The defendant has not performed, or the basis for the payment fails (ie, failure of consideration); then
+      - 4. The plaintiff may seek restitution of the money paid.
+  - FAULT
+    - May a party (the ‘defaulting party’) whose breach or repudiation caused the other party (the ‘innocent party’) to terminate a contract claim restitution of money paid when the innocent party has not tendered any performance?
+    - Authorities not clear but it appears the defaulting party’s fault does not prevent a claim.
+    - Baltic Shipping Company v Dillon (1993) 176 CLR 344	
+      - ‘Moreover, “once it does appear that the condition for retaining the money has failed the fact that it failed in response to the payer's own breach does not matter” (Birks, op cit, p 238).” 390 (McHugh J)
+    - McDonald v Dennys Lascelles Ltd (1933) 48 CLR 457
+      - ‘A vendor may, of course, counterclaim for damages in the action in which the purchaser seeks to recover the instalments.’ 479 (Dixon J)
+        - Damages should put the payee into the position that they would have been in if the contract had been performed.
+- 'Consideration'
+  - TOTAL FAILURE OF CONSIDERATION
+    - Money had and received
+      - Total failure of consideration
+        - ‘Consideration’
+        - ‘Total failure’
+        - Role of the contract
+  - ‘CONSIDERATION’
+    - ‘CONSIDERATION’
+      - ‘Consideration’ has a wider meaning than in contract law.
+      - Sometimes called ‘failure of basis.’
+        - Contract law
+          - Consideration = promises
+        - Money had and received
+          - Consideration = performance, purpose or basis for paymentor basis for payment
+    - Redland City Council v Kozik (2024) 98 ALJR 544
+      - (Gordon, Edelman and Steward JJ)
+        - In the law of unjust enrichment, where “consideration” is concerned with a reason for a transaction, the concept has another, quite different, meaning. It means a “basis”, “purpose”, or “condition” for a transaction by which one party confers a benefit upon another. That basis, purpose, or condition for the transaction might be a factual or legal state of affairs.’ 579 [183] 
+        - ‘In each case, the basis, purpose, or condition upon which the benefit is conferred is determined objectively, not according to some subjective uncommunicated belief of either party.’ 580 [185]
+          - The basis / purpose of the payment must be commonly understood.
+  - NON-PERFORMANCE OF  CONTRACTUAL PROMISES
+    - If payments are made pursuant to an enforceable contract, then the contract evidences the commonly understood purpose for the payment.
+    - Baltic Shipping Company v Dillon (1993) 176 CLR 344
+      - ‘In the context of the recovery of money paid on the footing that there has been a total failure of consideration, it is the performance of the defendant's promise, not the promise itself, which is the relevant consideration.’ 350-1 (Mason CJ)
+    - Contract
+      - Exchange of promises = ‘good consideration’ for contract formation.for contract formation.
+      - Good consideration’ in this sense ≠ no failure of consideration’ in unjust enrichment.
+    - Unjust enrichment
+      - Has the defendant performed any part of the promise made for the payment?promise made for the payment?
+  - FAILURE OF BASIS
+    - Roxborough v Rothmans of Pall Mall Australia Limited (2001) 208 CLR 516
+      - NSW imposed a ‘licence fee’ on the sale of tobacco.
+        - Payment for tobacco + identified amount for fee
+- Rothmans (Wholesaler) <-> Roxborough (Retailer) -> retail customers (Cost of fee passed onto retail purchasers)
+      - 1 Jul - 5 Aug 1997: Roxborough purchased and paid for tobacco from Rothmans under 74 invoices.
+      - Each invoice separately identified the licence fee collected by Roxborough.
+      - Rothmans never passed the amounts allocated for the licence fee to the government. 
+      - 5 Aug 1997: The High Court declared the licence fee unconstitutional.
+      - Roxborough sued for restitution of the licence fee payments made under the 74 invoices to Rothmans under money had and received, alleging total failure of consideration.
+      - (Gleeson CJ, Gaudron and Hayne JJ)
+        - ‘Failure of consideration is not limited to non-performance of a contractual obligation, although it may include that. ... the concept embraces payment for a purpose which has failed as, for example, where a condition has not been fulfilled, or a contemplated state of affairs has disappeared.’ 525 [16] 
+      - Rothmans did not promise anything in return for Roxborough’s payment of the licence fee.
+      - The parties understood that Roxborough paid Rothmans to discharge its statutory obligation to pay the licence fee.
+      - The fee being declared unconstitutional removed the purpose for the payments.
+      - Rothmans was:
+        - unjustly enriched at Roxborough’s expense on account of total failure of consideration, and 
+        - obligated to repay the licence fees collected under the 74 invoices to Roxborough.
+      - Roxborough could seek restitution of the 74 payments even though it had recouped the cost of those payments from retail sales.
+      - Relevant question = “was the defendant unjustly enriched at the expense of the plaintiff?”
+      - NOT “has the plaintiff suffered a loss?” like a claim for damages.
+      - (Gleeson CJ, Gaudron and Hayne JJ)
+        - ‘As between the appellants and the respondent, who has the superior claim? The answer lies in the circumstance that there has been a payment of moneys by the appellants to the respondent for a consideration which has failed, and the respondent has no title to retain the moneys.’ 529 [27]
+    - Chillingworth v Esche [1923] 1 Ch 97
+      - Chillingworth offered to buy Esche’s land for £4,800 ‘subject to a proper contract to be prepared by the vendor’s solicitors’.
+      - Chillingworth paid £240, intending that payment to be the ‘deposit and in part payment of the said purchase money.’
+      - Esche acknowledged the purpose of the payment in a signed receipt.
+      - Eshe’s solicitors forwarded a formal contract to Chillingworth for execution.
+      - Chillingworth refused to sign and asked for the deposit to be returned.
+      - Esche purported to forfeit the payment as a deposit paid under contract.
+      - Astbury J: The parties were not in a contract.
+      - (Pollock MR)
+        - ‘The authority for it is to be found in Baylis v Bishop of London,. where Hamilton L.J. said: “The question is whether it is conscientious for the defendant to keep the money, not whether it is fair for the plaintiff to ask to have it back,” and in cases of “money had and received” in the old forms of pleadings one of the allegations was that the purchaser had lost the use of the money.’ 107
+      - The purpose of the payment would become the deposit if the parties entered a contract.
+      - When the contract never formed, the basis of the payment failed and Chillingworth could seek restitution of it.
+- 'Total' failure
+  - ‘TOTAL’ FAILURE
+    - The consideration or basis for a payment must ‘totally’ fail for the payment to be recoverable.
+    - Partial receipt of the promised consideration denies the claim.
+    - Usually an issue where money paid under contract for performance of a promise.
+    - Baltic Shipping Company v Dillon (1993) 176 CLR 344
+      - Mrs Dillon went on a cruise run by Baltic Shipping.
+      - The ship sank: Mrs Dillon suffered property loss and personal injury.
+      - Mrs Dillon was awarded contractual damages. (Leading case on non-economic loss damages in contract.)
+      - Mrs Dillon also sought restitution of the fare paid based on total failure of consideration.
+      - Trial judge awarded Mrs Dillon both:
+        - Contractual damages, and
+        - Restitution of the fare.
+      - NSW Court of Appeal upheld the order for restitution.
+      - Baltic Shipping appealed to the High Court on this point.
+      - (Mason CJ, Brennan and Toohey JJ agreeing)
+        - ‘ ... the innocent party cannot recover unless there has been a total failure of consideration. If the incomplete performance results in the innocent party receiving and retaining any substantial part of the benefit expected under the contract, there will not be a total failure of consideration.’ 350 
+        - ‘In the context of the recovery of money paid on the footing that there has been a total failure of consideration, it is the performance of the defendant's promise, not the promise itself, which is the relevant consideration.’ 350-1
+      - Relevant questions:
+        - 1. What did the defendant promise?
+        - 2. Did the defendant provide ‘any substantial part’ of the benefit of that promise?
+      - (Deane and Dawson JJ)
+        - ‘... the consideration for which Mrs. Dillon paid the fare was the substance of Baltic's contractual promise, namely, the actual provision of the components of the promised fourteen-day pleasure cruise upon the “Mikhail Lermontov”.’ 376-7
+        - ‘... the promised consideration ... was not, as a matter of substance, the transportation of Mrs. Dillon from Sydney to Sydney. ... it was the provision of all that was involved in the promised pleasure cruise as a holiday experience. Even on the assumption that that promised consideration was entire and indivisible, it did not wholly fail. Baltic provided and Mrs. Dillon accepted and enjoyed eight complete days of the cruise.’ 378
+      - No claim for restitution because:
+        - Consideration had not totally failed, and
+        - Eligible for contractual damages that put Mrs Dillon in the position as if Baltic had performed the contract
+  - BENEFIT(S) BARGAINED FOR
+    - The focus is on whether:
+      - the plaintiff has received any of the benefit(s) promised by the defendant, or
+      - whether the defendant has at least started performing any promised obligations
+    - when assessing whether consideration has failed.
+    - Collateral benefits enjoyed by the plaintiff are irrelevant.
+    - David Securities Pty Ltd v Commonwealth Bank of Australia (1992) 175 CLR 353
+      - (Mason CJ, Deane, Toohey, Gaudron and McHugh JJ)
+        - ‘The law has traditionally not allowed recovery of money if the person who made the payment has received any part of the “benefit” provided for in the contract. However, … the notion of total failure of consideration now looks to the benefit bargained for by the plaintiff rather than any benefit which might have been received in fact.’ 382
+  - SALE OF GOODS
+    - Rowland v Divall [1923] 2 KB 500
+      - 
+      - ‘It seems to me that in this case there has been a total failure of consideration, that is to say that the buyer has not got any part of that for which he paid the purchase money. He paid the money in order that he might get the property, and he has not got it. It is true that the seller delivered to him the de facto possession, but the seller had not got the right to possession and consequently could not give it to the buyer.’ 506 (Atkin LJ)
+  - SALE OF LAND
+    - McDonald v Dennys Lascelles Pty L (1933) 48 CLR 457
+      - Purchaser entered a contract to purchase land by instalments.
+      - Purchaser paid a deposit and occupied the land.
+      - Purchaser paid the deposit + 2 instalments on time.
+      - Purchaser defaulted when 3rd instalment fell due.
+      - Seller terminated the contract
+      - Issue: whether guarantor of purchaser liable to pay the 3rd instalment.
+      - (Dixon J)
+        - [If a contract provides for the ‘purchase money or any part thereof’ to be ‘payable on a fixed day’, then] ‘In all such cases the purchase money or such part thereof becomes, on the day so fixed for its payment, a debt immediately recoverable by the vendor ... .’ 476 
+        - Both parties are discharged from the further performance of the contract, but rights are not divested or discharged which have already been unconditionally acquired.’ 466-7
+        - Prima facie the payment of third instalment should be enforceable as a right ‘unconditionally acquired’ before termination.
+        - When a contract stipulates for payment of part of the purchase money in advance, the purchaser relying only on the vendor's promise to give him a conveyance, the vendor is entitled to enforce payment before the time has arrived for conveying the land; yet his title to retain the money has been considered not to be absolute but conditional upon the subsequent completion of the contract....’ 477 
+        - ‘But, where there is no express agreement excluding the implication made at law, by which the instalments become repayable upon the discharge of the obligation to convey and the purchaser has a legal right to the return of the purchase money already paid ... .’
+        - ‘implication made at law’ = obligation to make restitution.
+        - Consideration for instalments has failed because:
+          - Instalments paid for title to the land.
+          - If the contract is terminated, then purchaser does not obtain title for the payments.
+        - It appears to me inevitably to follow from the principles upon which instalments paid are recoverable that an unpaid overdue instalment ceases to be payable by the purchasers when the contract is discharged.’ 479 (Dixon J)
+          - Right to payment as a debt owing replaced by claim for damages.
+        - A vendor may, of course, counterclaim for damages in the action in which the purchaser seeks to recover the instalments.’ 479 
+  - OTHER CONTRACTS
+    - Rowland and McDonald = simple cases of payment for title.
+    - Contracts can be more complex.
+      - Eg, money for a service and delivery of a final product.
+    - Necessary to construe the contract to identify the consideration for the payment.
+    - Stocznia Gdanska SA v Latvian Shipping Co [1998] 1 WLR 574
+      - Stocznia Gdanska (‘Shipyard’) agreed under 6 contracts to ‘design, build, complete and deliver’ 6 ships for Shipping Co.
+      - Each contract provided for the price for each ship to be paid in four instalments:
+        - 1st (5%): like a deposit, and
+        - 2nd (20%) : on notice that the keel had been lain.
+      - The Shipyard laid the keels under 2 contracts and sought payment of the 2nd instalments. 
+      - Shipping Co failed to pay the instalments.
+      - Shipyard terminated the contracts.
+      - 1 issue: Was Shipping Company obligated to pay the second instalments after termination?
+      - Shipping Co argued that it should not be ordered to pay the 2nd instalments because there had been a total failure of consideration: it contracted for title to completed ships.
+      - (Lord Goff, Lord Hoffman, Lord Hope and Lord Hutton agreeing)
+        - ‘I start from the position that failure of consideration does not depend upon the question whether the promisee has or has not received anything under the contract like, for example, the property in the ships being built under contracts 1 and 2 in the present case.’ 588 
+        - ‘In truth, the test is not whether the promisee has received a specific benefit, but rather whether the promisor has performed any part of the contractual duties in respect of which the payment is due.’ 588
+        - ‘... the anterior question has to be asked: is the contract in question simply a contract for the sale of a ship? or is it rather a contract under which the design and construction of the vessel formed part of the yard's contractual duties, as well as the duty to transfer the finished object to the buyers?’ 588 
+        - ‘If it is the latter, the design and construction of the vessel form part of the consideration for which the price is to be paid, and the fact that the contract has been brought to an end before the property in the vessel or any part of it has passed to the buyers does not prevent the yard from asserting that there has been no total failure of consideration in respect of an instalment of the price which has been paid before the contract was terminated ...’ 588
+        - ‘I am satisfied that the present case falls into the latter category. This was what the contracts provided in their terms.’ 588
+  - DIVISIBLE CONTRACTS
+    - Not necessary for the entire contract to fail.
+    - Payment made for a divisible part of a contract may be claimed if the consideration for the divisible part has failed. 
+    - Fibrosa Spolka Akcyjna v Fairbairn Lawson Combe Barbour Ltd [1943] AC 32
+      - ‘... If a divisible part of the contract has wholly failed and part of the consideration can be attributed to that part, that portion of the money so paid can be recovered, but unless this be so there is no room for restitution under a claim in indebitatus assumpsit.’ 77 (Lord Porter)
+    - Roxborough v Rothmans of Pall Mall Australia Limited (2001) 208 CLR 516
+      - Contract clearly divisible into $ for tobacco products and $ for the licence fee.
+      - Roxborough claimed only for the part of the payments apportioned to the licence fee.
+      - Roxborough did not have to show that the entire contract failed.
+      - Payments towards tobacco products unaffected and did no prevent the claim for the licence fee.
+- Role of the contract
+  - Roxborough v Rothmans of Pall Mall Australia Limited (2001) 208 CLR 516
+    - (Gummow J)
+      - ‘... the action to recover the moneys sought by the appellants after the failure of the purpose of funding Rothmans to renew its licence may be illustrative of the gap-filling and auxiliary role of restitutionary remedies. These remedies do not let matters lie where they would fall if the carriage of risk between the parties were left entirely within the limits of their contract. ...’ 545 [75]
+    - Contract
+      - Commonly understood basisunderstood basis for payment
+      - Identifies consideration promised for payment
+      - Provide for fate of payments made if not fully performed
+  - DEPOSITS
+    - Howe v Smith (1884) 27 Ch D 89
+      - “... in the event of the contract being performed [the deposit] shall be brought into account, but if the contract is not performed by the payer it shall remain the property of the payee. It is not merely a part payment, but it is then also an earnest to bind the bargain so entered into, and creates by the fear of its forfeiture a motive in the payer to perform the rest of the contract.” 101 (Fry LJ)
+    - Deposit -> Purchaser reforms?
+      - Yes
+        - Deposit count towards price
+      - No
+        - Forfeited unconditionally to seller. 
+        - Not claimable for total failure of consideration.
+    - Deposit -> Seller reforms?
+      - Yes
+        - Deposit count towards price
+      - No
+        - Purchaser may reclaim for total failure of consideration.
+  - FORFEITING PAYMENTS
+    - If a contract provides that certain payments are forfeited to payee if the contract is not fully performed by either party, then no need to resort to the law of unjust enrichment.
+    - Contract enforced according to its terms.
+    - McDonald v Dennys Lascelles Pty Ltd (1933) 48 CLR 457
+      - ‘... the parties might by express agreement give the vendor an absolute right at law to retain the instalments in the event of the contract going off ... .’ 478 (Dixon J)
+      - If the parties have not agreed to terms forfeiting payments, then they may be reclaimed if consideration for them totally fails.
+  - ALTERNATIVE REMEDIES
+    - If a contract has been terminated because of breach or repudiation, then the innocent part cannot both:
+      - Seek restitution of payments made, and
+      - Sue for damages for breach of contract.
+    - Remedies are not cumulative.
+    - Baltic Shipping Company v Dillon (1993) 176 CLR 344
+      - Trial judge awarded Mrs Dillon both:
+        - Contractual damages, and
+        - Restitution of the fare.
+      - NSW Court of Appeal upheld the order for restitution.
+      - High Court:
+        - No total failure of consideration.
+        - Cannot sue for both damages and restitution.
+      - (Mason CJ, Brennan and Toohey JJ agreeing)
+        - ‘... full damages and complete restitution will not be given for the same breach of contract. There are several reasons. First, restitution of the contractual consideration removes, at least notionally, the basis on which the plaintiff is entitled to call on the defendant to perform his or her contractual obligations.’ 359 
+        - Awarding both unjustly enriches the plaintiff.
+        - ‘Secondly, the plaintiff will almost always be protected by an award of damages for breach of contract, which in appropriate cases will include an amount for substitute performance or an amount representing the plaintiff's reliance loss.’ 359
+      - If damages for breach of contract and money had and received are available, then the plaintiff must elect between the two.
+      - Money had and received = better choice if restitution of payments > damages assessment.
+- QUANTUM MERUIT / VALEBAT
+  - QUANTUM MERUIT / VALEBAT
+    - 1. The defendant requests a good/service from the plaintiff;
+    - 2. The plaintiff provides the good/performs the service; and
+    - 3. The defendant:
+      - a) Receives an incontrovertible benefit from the good/service; and
+      - b) Freely accepts the good/service.
+    - 4. It’s clear that the plaintiff was not acting gratuitously. 
+      - The defendant must pay a ‘reasonable amount’ for the good/service.
+    - Arguable when:
+      - There is no contract; or
+      - Any relevant contract is void, unenforceable, discharged, or doesn’t account for the circumstances of the case.
+  - REQUEST
+    - Lumbers v W Cook Builders Pty Ltd (in liq) (2008) 232 CLR 635
+      - The Lumbers < Contract to build > W Cook & Sons Pty Ltd (“Sons”) <Sub-contract> W Cook Builders Pty Ltd (“Builders”) ←—----Construction work/Quantum meruit claim—---> The Lumbers
+    - (Gummow, Hayne, Crennan and Kiefel JJ)
+      - [125] First, the Lumbers accepted no benefit at the expense of Builders which it would be unconscionable to retain. The Lumbers made a contract with Sons which either has been fully performed by both parties or has not. Sons made an arrangement or agreement with Builders which again has either been fully performed or it has not. If either the agreement between Sons and the Lumbers or the agreement or arrangement between Sons and Builders has not been fully performed (because all that is owed by one party to the other has not been paid) that is a matter between the parties to the relevant agreement. A failure of performance of either agreement is no reason to conclude that Builders should then have some claim against the Lumbers, parties with whom Builders has no contract.
+      - [126] Because Builders had no dealings with the Lumbers, Builders has no claim against the Lumbers for the price of any work and labour Builders performed or for any money that Builders may have paid in relation to the construction. Builders has no such claim because it can point to no request by the Lumbers directed to Builders that Builders do any work it did or pay any money it did. Reference to whether the Lumbers "accepted" any work that Builders did or "accepted" the benefit of any money it paid is irrelevant. It is irrelevant because it distracts attention from the legal relationships between the three parties: t Lumbers, Sons and Builders. To now impose on the Lumbers an obligation to pay Builders would constitute a radical alteration of the bargains the parties struck and of the rights and obligations which each party thus assumed. There is no warrant for doing that.
+  - FREE ACCEPTANCE
+    - Steele v Tardiani (1946) 72 CLR 386	
+      - Employees contracted to cut wood to certain length & width, then stack.
+      - Contract was infinitely divisible: employees earned the right to payment for each stack that complied with contract.
+      - Employees abandoned contract after dispute – employer used non-compliant wood.
+      - Much wood cut, but not to dimensions required by contract:
+        - No claim on contract for work that did not meet contractual requirements.
+      - Alternate claim for quantum meruit
+      - (402, Dixon J)
+        - ‘To recover under a quantum meruit for wood split to substantially different widths from that required, the plaintiffs must show circumstances removing their right to remuneration from the exact conditions of the special contract. For, if no more appears, the fact of such a contract,open and, to that extent, unperformed, excludes any implied obligation on the part of the defendant to pay a fair and reasonable remuneration for the work done by the plaintiffs in cutting his timber to dimensions outside those allowed by the contract. It is not enough that the work has been beneficial to him by turning his standing timber into the more valuable form of firewood.’ 
+      - (405, Dixon J)
+        - ‘In such circumstances, it would be proper to treat the failure in complete performance as possessing little importance to the defendant and as acquiesced in by him, with the consequence that the subsequent sale of the firewood might rightly be regarded by the learned judge as a taking of the benefit of the work and so, as involving either a dispensation from precise performance or an implication at law of a new obligation to pay the value of the work done.”
+    - Sumpter v Hedges [1898] 1 QB 673, 674
+      - (674, A L Smith LJ)
+        - In this case the plaintiff, a builder, entered into a contract to build two houses and stables on the defendant's land for a lump sum. When the buildings were still in an unfinished state the plaintiff informed the defendant that he had no money, and was not going on with the work any more. The learned judge has found as a fact that he abandoned the contract. Under such circumstances, what is a building owner to do? He cannot keep the buildings on his land in an unfinished state for ever. The law is that, where there is a contract to do work for a lump sum, until the work is completed the price of it cannot be recovered. Therefore the plaintiff could not recover on the original contract.” 
+      - (676, Collins LJ)
+        - “There are cases in which, though the plaintiff has abandoned the performance of a contract, it is possible for him to raise ... quantum meruit from the defendant's having taken the benefit of that work, but, in order that that may be done, the circumstances must be such as to give an option to the defendant to take or not to take the benefit of the work done. ... Where, as in the case of work done on land, the circumstances are such as to give the defendant no option whether he will take the benefit of the work or not, then one must look to other facts than the mere taking the benefit of the work in order to ground the inference of a new contract. ... The mere fact that a defendant is in possession of what he cannot help keeping, or even has done work upon it, affords no ground for such an inference.” 
+  - INCONTROVERTIBLE BENEFIT
+    - Cadorange Pty Ltd (In Liq) v Tanga Holdings Pty Ltd (1990) 20 NSWLR 26
+      - “The principle, as I understand it, is that if one asked the reasonable person on the Bondi bus whether the benefit which the [plaintiff] conferred on the [defendant] was a benefit to the [defendant] the reasonable person would say “Of course”.” (35, Young J)
+    - W Cook Builders Pty Ltd (in liq) v Lumbers (2007) 96 SASR 406
+      - [65] As previously discussed, an incontrovertible benefit is one that no reasonable person could deny. As noted above, there is little difficulty in characterising the receipt of money as an incontrovertible benefit , but non-monetary benefits present greater difficulty. It has sometimes been said that non-monetary benefits will only be capable of being regarded as incontrovertible where their value has been realised. (Sulan, Vanstone and Layton JJ)
+  - NON-GRATUITOUS PERFORMANCE
+    - Brenner v First Artists' Management Pty Ltd [1993] 2 VR 221
+      - (260-1, Byrne J)
+        - “In my opinion the appropriate enquiry is whether the recipient of the services, as a reasonable person, should have realised that a person in the position of the provider of the services would expect to be paid for them and did not take a reasonable opportunity to reject those services: Jones, Restitution in Public and Private Law, (1991), at 108. ... , the plaintiffs must show that the defendant accepted the benefit of their services in circumstances where he, as a reasonable person, should realise that the plaintiffs would expect to be paid for them.”
+  - REASONABLE REMUNERATION
+    - “Reasonable remuneration” means the average market value for the work done.
+    - Relevant evidence:
+      - The contract price
+      - Expenses incurred by the plaintiff
+  - CONTRACT AND QUANTUM MERUIT
+    - The existence of a contract between the plaintiff and defendant can complicate:
+      - Whether the plaintiff can claim quantum meruit; and
+      - The amount the plaintiff will receive.
+    - Three scenarios:
+      - Service provider terminates for breach/repudiation
+      - Client terminates for breach/repudiation
+      - Contract is void/unenforceable
+  - BREACHED CONTRACT: CLAIM BY INNOCENT SERVICE PROVIDER
+    - Renard Constructions (ME) Pty Ltd v Minister for Public Works (1992) 26 NSWLR 234
+      - “The law is clear enough that an innocent party who accepts the defaulting party's repudiation of a contract has the option of either suing for damages for breach of contract or suing on a quantum meruit for work done. An election presupposes a choice between different remedies, which presumably may lead to different results. The nature of these different remedies renders it highly likely that the results will be different. If the former remedy is chosen the innocent party is entitled to damages amounting to the loss of profit which he would have made if the contract had been performed rather than repudiated; it has nothing to do with reasonableness. If the latter remedy is chosen, he is entitled to a verdict representing the reasonable cost of the work he has done and the money he has expended; the profit he might have made does not enter into that exercise. ... (277-8)
+    - A terminated contract is not void: parties are released from performance, but the terms continue to bind the parties.
+      - If the terminated contract is still binding – and a restitutionary claim must not contradict a binding contract – should not the service provider be limited to a claim for contractual damages?
+      - Question answered in: Mann v Paterson Constructions Pty Ltd [2019] HCA 32
+    - Mann v Paterson Constructions Pty Ltd (2019) 267 CLR 560
+      - (Nettle, Gordon and Edelman JJ)
+        - [174] ... if the obligation to perform work is divisible into several entire stages, then, upon termination of the contract for repudiation: (i) the contractor so terminating the contract will have accrued rights under the contract for those stages that have been completed; (ii) there will be a total failure of consideration in respect of the stages that have not been completed, because the contractor's right to complete the performance and earn the price will have failed and nothing will be due under the contract in respect of those uncompleted stages; and (iii) restitution will lie as upon a quantum meruit in respect of the work and labour done towards completion of the uncompleted stages as an alternative to damages for breach of contract. … 
+        - [179] What can be said for present purposes, however, is that, as matters stand, it appears that there was at least one stage as specified in the Contract which was not complete as at the time of termination. If so, the respondent may have a claim for restitution of the value of work and labour done towards completion of that stage.
+        - [200] Admittedly, there is cause for concern about the potential for disparity between the amounts recoverable by way of restitution for work done under a contract which is terminated for breach and the amounts recoverable by way of damages for breach of contract. That phenomenon – alarmingly widespread in domestic building disputes of the kind in issue, as it appears – implies a need for development of the law in a manner which better accords to the distribution of risks for which provision has been made by contract. But, as will be explained, that is a problem which may be addressed with less far-reaching measures than abrogation of the rule of recovery and more consistently with the accepted techniques of common law development.
+        - [215] ... It is, therefore, appropriate to recognise that, where an entire obligation (or entire divisible stage of a contract) for work and labour (such as, for example, an entire obligation under or an obligation under a divisible stage of a domestic building contract) is terminated by the plaintiff upon the plaintiff's acceptance of the defendant's repudiation of the contract, the amount of restitution recoverable as upon a quantum meruit by the plaintiff for work performed as part of the entire obligation (or as part of the entire divisible stage of the contract) should prima facie not exceed a fair value calculated in accordance with the contract price or appropriate part of the contract price.
+  - BREACHED CONTRACT: CLAIM BY DEFAULTING SERVICE PROVIDER 	
+    - Typically, it’s difficult for a defaulting party to claim quantum meruit.
+      - A terminated contract continues to bind the parties, so the defaulting party cannot insist on payments not earned by proper performance: they need to show the right to restitution arises separate from the contract.
+      - The defendant may be able to argue that the incomplete request is not a “benefit”.
+      - The defendant must have ‘freely accepted’, or acquiesced or waived strict performance.
+      - If a defaulting party is able to claim, presumably their claim will be limited by the contract price after Mann.
+  - CONTRACT VOID OR UNENFORCEABLE
+    - Mann v Paterson Constructions Pty Ltd (2019) 267 CLR 560
+      - [203] In some circumstances, it is necessary or appropriate that the benefit of work to the defendant be determined without reference to a contract price. …
+      - [204] Equally, where the claim is founded on an obligation to pay for services rendered under a contract which is unenforceable, it has been held that "[o]rdinarily" the measure of restitution "will correspond to the fair value of the benefit provided (eg remuneration calculated at a reasonable rate for work actually done or the fair market value of materials supplied)". Prices stated in the contract are regarded as relevant, but they remain "evidence only, on the question of amount". 
+  - NECESSITOUS INTERVENTION
+    - Lumbers v W Cook Builders Pty Ltd (in liq) (2008) 232 CLR 635
+      - [80] As Bowen LJ said in Falcke v Scottish Imperial Insurance Company:
+        - "The general principle is, beyond all question, that work and labour done or money expended by one man to preserve or benefit the property of another do not according to English law create any lien upon the property saved or benefited, nor, even if standing alone, create any obligation to repay the expenditure. Liabilities are not to be forced upon people behind their backs any more than you can confer a benefit upon a man against his will." (emphasis added) 
+      - (Gummow, Hayne, Crennan and Kiefel JJ)
+        - The principle is not unqualified. Bowen LJ identified salvage in maritime law as one qualification. Other cases, including other cases of necessitous intervention, may now be seen as further qualifications to the principle but it is not necessary to examine in this case how extensive are those further qualifications or what is their content.” 
+  - NECESSITOUS INTERVENTION
+    - Great Northern Railway Co v Swaffield (1874) LR 9 Ex 132
+    - Doctrine of necessitous intervention first applied in a non-maritime context.
+    - The doctrine is applied narrowly:
+      - 1. There must be a pre-existing relationship between the plaintiff and defendant;
+      - 2. The plaintiff’s intervention must have been necessary;
+      - 3. The plaintiff must have been unable to communicate with the defendant before acting;
+      - 4. The plaintiff must act in good faith.
+    - Prager v Blatspiel, Stamp and Heacock Ltd [1924] 1 KB 566.

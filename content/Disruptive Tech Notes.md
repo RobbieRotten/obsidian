@@ -1,0 +1,912 @@
+#tag-notes #tag-tutorial
+
+## Cheat Sheet:
+
+- Week 2
+  - 1. Privacy Protection in Australian Law
+    - 1.1. Common Law
+      - No general tort of privacy in Australia (ABC v Lenah Game Meats (2001) 208 CLR 199, per Gleeson CJ)
+      - Privacy interests may be protected via:
+        - Breach of confidence (equity)
+        - Statutory rights under the Privacy Act 1988 (Cth)
+    - 1.2. Statutory Privacy (Privacy Act 1988 (Cth))
+      - APP 6: Limits disclosure of personal information for a secondary purpose
+      - APP 11.1(b): Requires reasonable steps to protect personal information from unauthorised access/disclosure
+      - s 5B(3): Extraterritorial application requires:
+        - (b) Entity carries on business in Australia
+        - (c) Entity collects or holds personal information in Australia
+  - 2. Key Cases
+    - 2.1. Australian Broadcasting Corporation v Lenah Game Meats (2001) 208 CLR 199
+      - Ratio Decidendi:
+        - Corporations cannot claim privacy rights
+        - Surreptitiously obtained material is not confidential unless an obligation of confidence exists
+        - No general tort of privacy recognised at common law (yet)
+      - Significance:
+        - Foundation for future privacy development
+        - Clarified breach of confidence remains the proper equitable route for restraining misuse of private/confidential info
+    - 2.2. Wilson v Ferguson [2015] WASC 15
+      - Ratio Decidendi:
+        - Disclosing intimate images from a private relationship breaches an equitable obligation of confidence
+        - Equitable compensation can include non-economic loss (distress, embarrassment, humiliation)
+      - Significance:
+        - Adapted equitable breach of confidence to digital privacy/revenge porn context
+        - Recognised emotional harm as compensable under equity
+    - 2.3. Privacy Commissioner v Telstra Corp [2017] FCAFC 4; 249 FCR 334
+      - Ratio Decidendi:
+        - "Personal information" must be:
+          - 1. About an individual, and
+          - 2. The person’s identity must be apparent or reasonably ascertainable
+        - Not all metadata qualifies; must meaningfully relate to the individual
+      - Significance:
+        - Clarified limitations of access to metadata
+        - Narrowed what qualifies as personal information under Privacy Act s 6
+    - 2.4. Facebook Inc v Australian Information Commissioner [2023] FCAFC 129
+      - Ratio Decidendi:
+        - A foreign entity carries on business in Australia where it engages in ongoing digital commercial activity (e.g., cookies, API services)
+        - "Collection or holding" of personal information occurs in Australia if data is sourced from Australian devices/users
+      - Significance:
+        - Expanded extraterritorial application of the Privacy Act
+        - Digital presence can establish jurisdiction
+  - 3. Legal Tests
+    - 3.1. Breach of Confidence (Coco v A N Clark (Engineers) Ltd [1969] RPC 41)
+      - Information must be confidential in nature
+      - Circumstances must import an obligation of confidence
+      - Unauthorised use or disclosure causes detriment
+    - 3.2. Injunctive Relief (American Cyanamid Co v Ethicon Ltd [1975] AC 396; ABC v O’Neill (2006) 227 CLR 57)
+      - Serious question to be tried
+      - Balance of convenience favours granting injunction
+    - 3.3. "Personal Information" Test (s 6, Privacy Act)
+      - The information is about an individual
+      - Identity is apparent or reasonably ascertainable
+    - 3.4. "Australian Link" (s 5B(3), Privacy Act)
+      - Entity carries on business in Australia
+      - Entity collects or holds the relevant personal information in Australia
+  - 4. Key Doctrines & Phrases
+Phrase
+Definition
+Privacy
+Not yet a standalone tort; developing as an equity-based or statutory concept
+Confidential
+Requires secrecy and obligation of confidence; not all private content is confidential
+Metadata
+Information about data; only personal if it’s truly “about” the individual
+Carries on business
+Includes online/digital business activity targeting Australians
+Embarrassment and distress
+Can form basis of equitable compensation (Wilson; Giller)
+  - 5. Exam Answer Formula – Privacy Law
+    - 1. Identify Legal Cause of Action
+      - 1.1. Is the claim based on:
+        - Breach of confidence?
+        - Statutory breach under Privacy Act?
+    - 2. Apply Relevant Test
+      - If Breach of Confidence:
+        - 2.1. Was the information confidential in nature? (Coco)
+        - 2.2. Was it communicated in circumstances importing an obligation of confidence?
+        - 2.3. Was there unauthorised use or disclosure causing harm?
+        - Case support: Wilson v Ferguson; Prince Albert v Strange
+      - If Privacy Act claim:
+        - 2.4. Is the information “personal information” (s 6)?
+          - Is it about the individual? (Telstra v Privacy Commissioner)
+          - Is identity *apparent or reasonably ascertainable?
+        - 2.5. Is the entity subject to the Act?
+          - Do they carry on business in Australia (s 5B(3)(b))?
+          - Did they collect or hold the information in Australia (s 5B(3)(c))?
+            - Case support: Facebook Inc v AIC
+    - 3. Consider Remedies
+      - 3.1. Injunction (serious question + balance of convenience)
+        - ABC v Lenah Game Meats
+      - 3.2. Equitable compensation (economic + non-economic loss)
+        - Wilson v Ferguson; Giller v Procopets
+- Week 3
+  - GDPR – Core Cheat Sheet
+    - Purpose (Art 1) – Protect privacy rights; allow free data movement in EU.
+    - Material Scope (Art 2) – Applies to automated & certain manual processing; excludes activities outside EU law, national security/foreign policy, personal/household use, criminal law enforcement (separate directive).
+    - Territorial Scope (Art 3) – Applies to:
+      - Processing in context of an EU establishment. 
+      - Offering goods/services to, or monitoring behaviour of, persons in the EU. 
+      - Public international law jurisdiction.
+    - Key Definitions (Art 4) –
+      - Personal data – Identifies a natural person, directly/indirectly.
+      - Processing – Any operation on data.
+      - Controller – Determines purposes/means.
+      - Processor – Processes on controller’s behalf.
+      - Consent – Freely given, specific, informed, unambiguous (Art 4(11)).
+      - Personal data breach – Security breach affecting data (Art 4(12)).
+      - Special categories – Race, politics, religion, genetics, biometrics, health, sex life/orientation (Art 9(1)).
+    - Principles (Art 5) – Lawfulness, fairness, transparency, purpose limitation, minimisation, accuracy, storage limitation, integrity/confidentiality, accountability.
+    - Lawful Bases (Art 6) – Consent, contract, legal obligation, vital interests, public task, legitimate interest.
+    - Consent (Art 7) - Must be demonstrable, separable from other terms, plain language, withdrawable at any time, freely given (no coercion or bundling).
+    - Special Data (Art 9) – Sensitive categories banned unless exceptions apply (explicit consent, law, vital interests, etc.).
+    - Data Subject Rights 
+      - Transparency (Art 12).
+      - Information if collected directly (Art 13) / indirectly (Art 14).
+      - Access (Art 15), Rectification (Art 16), Erasure (Art 17), Restriction (Art 18), Notification (Art 19), Portability (Art 20).
+    - Controller/Processor Duties – 
+      - Responsibility (Art 24).  
+      - Data protection by design/default (Art 25). 
+      - Processor contracts (Art 28).  
+      - Security (Art 32).
+    - Breach Notification
+      - To authority within 72 h unless no risk (Art 33). 
+      - To data subject if high risk (Art 34). 
+    - DPIAs (Art 35)
+      - Required for high-risk processing (e.g., profiling, large-scale sensitive data).
+    - International Transfers (Art 44) – Adequate safeguards required.
+    - Penalties (Art 83) – Up to €20m / 4% global turnover.
+  - Part II – Consumer Data Right (CDR)
+    - 1. Purpose & Structure
+      - Purpose (CCA s 56AA) – Gives consumers a right to access their data and securely share it with accredited recipient 
+- Scope (CCA ss 56AC–56AD) – Minister may designate sectors and datasets.
+    - 2. Key Concepts
+      - CDR data (s 56AI) – Information within a designated sector/class, includes derived data.
+      - CDR consumer (s 56AI) – Natural/legal person identifiable from data.
+      - Data holder (s 56AJ) – Entity holding relevant CDR data.
+      - Accredited data recipient (s 56AK) – Entity accredited under CDR Rules.
+      - Designated gateway (s 56AL) – Facilitates transfers.
+    - 3. Consent Framework 
+      - s 56BC – Consent must be express, informed, voluntary, specific; may be withdrawn at any time.
+      - CDR Rules – Regulate obtaining, recording, and managing consents.
+    - 4. Privacy Safeguards (CCA Pt IVD, Div 5)
+      - Override APPs where inconsistent:
+      - Open & transparent management (s 56ED).
+      - Anonymity/pseudonymity (s 56EE).
+      - Solicited data collection (s 56EF).
+      - Unsolicited data (s 56EG).
+      - Notification (s 56EH).
+      - Use/disclosure limits (s 56EI).
+      - Direct marketing prohibition (s 56EJ).
+      - Cross-border disclosure limits (s 56EK).
+      - Government identifiers limits (s 56EL).
+      - Notifying disclosure (s 56EM).
+      - Data quality (s 56EN).
+      - Security (s 56EO).
+      - Correction rights (s 56EP).
+    - 5. Accreditation
+      - CDR Rules Pt 5 – Fit & proper person, security, dispute resolution, insurance, Australian address.
+      - Streamlined for ADIs; sponsorship & representative models (2021 amendments 
+    - 6. Enforcement
+      - Joint regulation by ACCC & OAIC (CCA s 56BA).
+      - Civil penalties up to $10 m per contravention (CCA s 56EU).
+  - Part III – UNSW Commentary (2022) (Policy/Practical Challenges)
+    - Technical Risks – API vulnerabilities (Cambridge Analytica, Facebook leak).
+    - Consent Problems – Users click “I agree” without understanding; statutory standard demands explicit & genuine consent.
+    - Accreditation Barriers – Model favours large incumbents; costs burden smaller players.
+    - Industry Resistance – Legacy systems/thinking; CDR intended to break banking oligopoly.
+    - Education Deficit – 77% unaware of open banking; low engagement with ACCC resources.
+    - Reform Directions – Integrated roadmap, post-implementation reviews, action initiation critical for CDR’s potential.
+💡 Exam/Practice Use
+- Which regime applies?
+  - GDPR → EU, privacy rights framework.
+  - CDR → AUS, data portability + competition framework.
+- Does the regime apply? (Scope tests)
+  - GDPR →
+    - Material scope (Art 2): automated/manual filing systems; exclusions.
+    - Territorial scope (Art 3): EU establishment OR targeting/monitoring EU persons.
+  - CDR →
+    - Ministerial designation of sector/data set (s 56AC–56AD).
+    - Entity is a data holder or accredited data recipient.
+- Is there a lawful basis / valid consent?
+  - GDPR → Art 6 (lawful basis), Art 7 (consent standard).
+  - CDR → s 56BC (express, informed, specific, voluntary, revocable).
+- Safeguards & breach checks
+  - GDPR → Art 5 principles breached? Specific rights violated?
+  - CDR → Privacy Safeguards (Div 5) breached?
+- Enforcement & remedies
+  - GDPR → Supervisory authority action, fines (Art 83), compensation (Art 82).
+  - CDR → ACCC/OAIC action, civil penalties (s 56EU), compensation orders, injunctions.
+- Policy angle (essay or critique)
+  - GDPR = regulatory privacy governance; operationalises rights via organisational control.
+  - CDR = consumer empowerment + market competition; but tech vulnerabilities, consent fatigue, and low consumer awareness are key risks.
+- Week 4: AI, Robotics & Civil Liability 
+  - 1. Liability and Insurance – Guihot & Bennett Moses (Ch 9)
+    - 1.1 Civil Liability Challenges
+      - Autonomous decision-making complicates traditional tort concepts (e.g. intention, foreseeability).
+      - AI lacks legal personhood, so liability must be traced to:
+        - Developers
+        - Manufacturers
+        - Operators
+        - Users
+    - 1.2 Tort Law Application
+      - AI-related harms assessed under negligence (duty, breach, causation, damage)
+      - Key uncertainties:
+        - Who owes the duty?
+        - Can breach be assessed when decisions are non-transparent ("black box")?
+        - How to prove causation when AI behaves unpredictably?
+    - 1.3 Product Liability
+      - Strict liability models may better fit autonomous systems
+      - Developers may be liable under ACL consumer guarantees or defective product provisions
+    - 1.4 Insurance	
+      - Traditional insurance may be inadequate
+      - Need for:
+        - Mandatory insurance schemes (as in motor vehicle liability)
+        - Potential AI-specific insurance products
+        - Debate on creating insurance funds or risk pooling for AI harms
+  - 2. Civil Liability Act 2002 (NSW)
+    - 2.1 Part 1A – Negligence
+      - s 5B: Duty of care requires that:
+        - A reasonable person would foresee the risk
+        - The risk is not insignificant
+        - A reasonable person would have taken precautions
+      - s 5D: Causation requires:
+        - Factual causation (but for test)
+        - Scope of liability (normative assessment)
+    - 2.2 Part 2, Divs 1–3 – Personal Injury Damages
+      - Structured heads of damage:
+        - Economic loss
+        - Non-economic loss (pain, suffering)
+        - Medical costs, future care
+        - Caps apply to general damages
+    - 2.3 Part 3 – Mental Harm
+      - s 30: Must be a recognisable psychiatric illness
+      - s 32: For pure mental harm (e.g. from seeing an accident), plaintiff must show:
+        - A close relationshipSudden shock or direct perception
+    - 2.4 Part 4 – Proportionate Liability
+      - Applies where more than one party caused economic loss or property damage (not personal injury)
+      - Court apportions liability by contribution (%)
+  - 3. Australian Consumer Law (ACL) (Schedule 2 to Competition and Consumer Act 2010 (Cth))
+    - 3.1 Part 2.1 – Misleading or Deceptive Conduct
+      - s 18(1): A person must not engage in misleading or deceptive conduct in trade or commerce
+      - Covers:
+        - Algorithms that imply objectivity but favour advertisers (Trivago)
+        - Use of AI in pricing or recommendations without transparency
+    - 3.2 Part 2.2 – Unconscionable Conduct
+      - s 20–22: Conduct that offends conscience; considers:
+        - Bargaining power
+        - Transparency
+        - Pressure tactics
+    - 3.3 Part 3.2 – Consumer Guarantees
+      - ss 54–59: Goods must be:
+        - Of acceptable quality
+        - Fit for purpose
+        - Match description/sample
+        - AI-enabled products must still comply (defects in software = breach)
+  - 4. ACCC v Trivago N.V. [2020] FCA 16
+    - 4.1 Key Takeaways
+      - [1]–[15] – Overview	
+        - ACCC alleged Trivago misled users by promoting offers that appeared cheapest, but were ranked by advertising payments (CPC model).
+        - Website gave visual priority to top offers, reinforcing the misleading impression.
+      - [91]–[145] – Findings on Misleading Conduct
+        - Trivago misrepresented that:
+          - The highlighted/top offer was the cheapest (it was not)
+          - Price comparisons were neutral/objective (they were commercially driven)
+          - Offers were for like-for-like rooms (they often were not)
+        - Legal breach:
+          - s 18 ACL: misleading conduct
+          - s 29(1)(g), (i), (m): false representations about price advantage, affiliation, place of origin
+      - [178]–[225] – User Interface & Algorithm Analysis
+        - Trivago’s user interface and algorithm design created a false impression:
+          - Algorithm selected offers based on advertiser’s bid (CPC), not user value
+          - No clear disclosure of commercial influence on rankings
+          - Misleading conduct established by dominant visual and messaging cues
+        - Legal principle: A digital platform engages in misleading conduct when algorithmic choices and interface design cause a reasonable consumer to be misled.
+  - Exam Answer Formula
+    - 1. Identify Legal Framework
+      - 1.1 Is the harm civil (tort/contract) or statutory (ACL)?
+      - 1.2 Who is the liable party? (developer, operator, vendor)
+    - 2. Apply CLA (NSW) if tort	
+      - 2.1 Duty → breach → causation (s 5B–5D)
+      - 2.2 Consider personal injury or mental harm rules (Parts 2 & 3)
+    - 3. Apply ACL if misleading conduct
+      - 3.1 Did the conduct mislead or deceive? (s 18)
+      - 3.2 Did it involve consumer goods or services? (Part 3.2)
+      - 3.3 Was there a false impression via design/algorithm?
+    - 4. Consider Insurance Implications
+      - 4.1 Is liability insurable?
+      - 4.2 Are new insurance models needed for AI harms?
+## Week 2: Privacy
+
+- Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd (2001) 208 CLR 199
+  - Procedural History:
+    - The Supreme Court of Tasmania granted an interlocutory injunction restraining the ABC from broadcasting footage of a possum abattoir operated by Lenah Game Meats.
+    - ABC appealed directly to the High Court of Australia, challenging the injunction on the basis that there was no breach of confidence or recognised cause of action.
+  - Original Dispute:
+    - Whether the ABC could lawfully broadcast footage taken without consent on Lenah’s premises, and whether Lenah could rely on breach of confidence or privacy to restrain the publication.
+  - Reason for Trial:
+    - To determine whether the respondent (Lenah) could prevent publication of unlawfully obtained material and whether such restraint could be justified under breach of confidence or a putative privacy right.
+  - Material Facts:
+    - Animal rights activists entered Lenah Game Meats’ premises without authorisation and filmed the slaughter of possums using concealed cameras.
+    - The activists passed the footage to the Australian Broadcasting Corporation (ABC). 
+    - Lenah applied for an interlocutory injunction to restrain ABC from broadcasting the footage.
+    - Lenah argued that the video material was confidential and that its broadcast would cause significant reputational and commercial harm.
+  - Issue Raised:
+    - Can a corporation claim protection under the law of breach of confidence in relation to material secretly obtained on its premises?
+    - Does Australian law recognise a tort of privacy, and if so, can it support an injunction against publication?
+    - Should unlawfully obtained material be protected from public disclosure?
+  - Law(s)/Statute(s) in Contention:
+    - Equitable doctrine of breach of confidence
+    - Common law recognition of privacy rights
+    - Injunctive relief principles under ABC v O’Neill and American Cyanamid
+  - Precedents:
+    - Victoria Park Racing & Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 479 – historically rejected tort of privacy
+    - Attorney-General v Guardian Newspapers Ltd (No 2) [1990] 1 AC 109 ("Spycatcher") – breach of confidence framework
+    - Kaye v Robertson [1991] FSR 62 – English rejection of privacy tort
+    - Douglas v Hello! [2001] QB 967 – emerging English recognition of privacy interests
+  - Tests:
+    - Breach of confidence test:
+      - Information must be confidential in nature
+      - Circumstances must import an obligation of confidence
+      - Unauthorised use or disclosure must occur (per Coco v A N Clark (Engineers) Ltd [1969] RPC 41)
+    - Threshold for interlocutory injunction:
+      - Serious question to be tried 
+      - Balance of convenience favours injunction (per American Cyanamid Co v Ethicon Ltd [1975] AC 396)
+  - Words and Phrases Considered:
+    - “Privacy” – considered a developing concept, but not presently a general cause of action 
+    - “Confidential” – not every surreptitious or secret recording is confidential in equity 
+    - “Surreptitious acquisition” – not sufficient alone to justify injunctive relief
+  - Arguments by Party:
+    - Lenah (Respondent):
+      - Footage was confidential or private
+      - ABC’s publication would cause commercial harm
+      - The method of obtaining the footage was unlawful, and its use should be restrained
+    - ABC (Appellant):
+      - No confidentiality attached to the footage
+      - No recognised cause of action for privacy
+      - Public interest favoured publication of the material
+  - Judicial Opinions:
+    - Gleeson CJ:
+      - Rejected a general tort of privacy in Australian law but left the door open to its future development
+      - Distinguished between individual privacy and the interests of corporations, holding the latter cannot claim privacy rights
+      - Mere surreptitious acquisition of information does not automatically justify an injunction
+    - Gaudron, Gummow & Hayne JJ:
+      - Emphasised that equity protects against unconscientious use of confidential information
+      - Reaffirmed that breach of confidence requires obligation of confidence, not just unlawful acquisition
+      - No confidence can be attributed where material involves routine, lawful business activity
+    - Kirby J (dissenting):
+      - Would recognise a limited common law right to privacy in appropriate circumstances
+  - Legal Reasoning:
+    - There was no confidential relationship between Lenah and ABC
+    - The activities filmed did not have the necessary quality of confidence, being part of a routine commercial slaughter process
+    - Unlawful acquisition does not necessarily render publication unlawful
+    - Corporations do not possess privacy interests, as privacy is inherently human and personal
+    - While Australia lacks a general tort of privacy, the Court signalled willingness to reconsider this in future developments
+  - Ratio Decidendi:
+    - A corporation cannot claim rights to privacy as privacy is a personal human interest.
+    - Surreptitiously obtained material may be subject to equitable restraint only where an obligation of confidence exists.
+    - Australian law does not currently recognise a tort of privacy, though future development is possible.
+  - Result:
+    - The High Court allowed ABC’s appeal and set aside the injunction.
+    - The matter was remitted, and the footage was not restrained.
+  - Relevance to Modern Law:
+    - Foundational case in the development of Australian privacy jurisprudence
+    - Frequently cited in debates about a statutory or common law right to privacy
+    - High Court confirmed that breach of confidence can sometimes restrain publication, but only where genuine confidentiality exists
+    - Significantly influenced later privacy-related commentary, including recommendations by the Australian Law Reform Commission (ALRC) on statutory privacy reform
+- Wilson v Ferguson [2015] WASC 15
+  - Procedural History:
+    - Plaintiff Caroline Wilson brought proceedings in equity in the Supreme Court of Western Australia for breach of confidence following the non-consensual online publication of intimate images by her former partner, Neil Ferguson. Ferguson filed a defence but took no further part in proceedings. Trial proceeded in his absence.
+  - Original Dispute:
+    - Whether the defendant’s uploading of explicit photographs and videos of the plaintiff to Facebook without her consent constituted a breach of an equitable duty of confidence.
+  - Reason for Trial:
+    - To determine whether the publication of intimate images constituted a breach of confidence and, if so, what remedies were appropriate—including equitable compensation for non-economic loss.
+  - Material Facts:
+    - Wilson and Ferguson were in a romantic relationship; they exchanged intimate images during the relationship.
+    - On 5 August 2013, following a breakup text, Ferguson uploaded 16 explicit photographs and 2 videos of Wilson to his Facebook account (visible to ~300 friends, many of whom were work colleagues).
+    - Ferguson made threatening and mocking comments accompanying the posts.
+    - The publication caused Wilson embarrassment, distress, humiliation, and economic loss from time off work.
+    - Ferguson had previously made threats to publish such images.
+  - Issue Raised:
+    - Does the publication of intimate images, obtained consensually during a relationship, constitute a breach of an equitable obligation of confidence?
+  - Law(s)/Statute(s) in Contention:
+    - Supreme Court Act 1935 (WA) s 25(1)
+    - Rules of the Supreme Court 1971 (WA) O 34 r 2 and O 34 r 4
+  - Precedents:
+    - Prince Albert v Strange (1849) 2 De G & Sm 652 — Confidential images protected by equity.
+    - Pollard v Photographic Co (1888) 40 Ch D 345 — Unauthorised reproduction of private images restrained.
+    - Duchess of Argyll v Duke of Argyll [1967] Ch 302 — Confidentiality between former partners.
+    - Giller v Procopets (2008) 24 VR 1 — Equitable compensation for breach of confidence causing distress.
+    - ABC v Lenah Game Meats Pty Ltd (2001) 208 CLR 199 — Confidential images may warrant equitable protection.
+  - Tests:
+    - To establish a breach of confidence in equity:
+      - Information must have the necessary quality of confidence.
+      - It must have been imparted in circumstances importing an obligation of confidence.
+      - There must be an unauthorised use of the information causing detriment (Commonwealth v John Fairfax & Sons Ltd (1980) 147 CLR 39 per Mason J).
+  - Words and Phrases Considered:
+    - “Confidential information” includes intimate images
+    - “Equitable obligation of confidence”
+    - “Embarrassment, anxiety and distress” as heads of compensable loss under equity
+  - Arguments by Party:
+    - Plaintiff: Claimed breach of confidence; sought injunction and equitable compensation for distress and economic loss.
+    - Defendant: Denied allegations but took no part in the trial and did not appear.
+  - Judicial Opinions:
+    - Mitchell J accepted the plaintiff’s uncontradicted evidence.
+    - Emphasised that the relationship imported an equitable duty of confidence.
+    - Found Ferguson’s intent was retaliatory and malicious, intended to embarrass and harm.
+    - Approved of Giller v Procopets in extending equitable compensation to non-economic loss.
+  - Legal Reasoning:
+    - The explicit and private nature of the images made them confidential.
+    - The circumstances of their creation and sharing (between intimate partners) imported a duty of confidence.
+    - The deliberate and vengeful publication of the images was a serious breach of that confidence.
+    - Equitable compensation can extend to non-economic harm such as humiliation and distress in cases of breach of confidence.
+  - Ratio Decidendi:
+    - A person who discloses intimate images obtained in a confidential relationship, without consent, breaches an equitable obligation of confidence and may be liable for equitable compensation, including non-economic loss such as embarrassment and distress (Wilson v Ferguson [2015] WASC 15; Giller v Procopets (2008) 24 VR 1 applied).
+  - Result:
+    - Permanent injunction granted restraining further publication of images.
+    - Equitable compensation of $48,404 awarded ($35,000 for emotional harm + $13,404 for economic loss).
+    - Ordinary costs (not indemnity) awarded to plaintiff.
+  - Relevance to Modern Law:
+    - Landmark case in Australian equity jurisprudence affirming that equitable compensation can include non-economic loss such as emotional distress.
+    - Reflects the court’s willingness to adapt equitable remedies to modern contexts of digital privacy and revenge porn.
+    - Demonstrates how the traditional equitable doctrine of breach of confidence can be applied to intimate image abuse and technology-facilitated harm
+- Privacy Commissioner v Telstra Corporation Limited [2017] FCAFC 4; (2017) 249 FCR 334
+  - Procedural History: 
+    - Appeal from a decision of the Administrative Appeals Tribunal (AATA) which overturned the Privacy Commissioner’s finding that Telstra breached National Privacy Principle (NPP) 6.1 by refusing to provide journalist Mr Grubb with access to certain mobile phone metadata.
+  - Original Dispute: 
+    - Whether the metadata sought by Mr Grubb constituted "personal information" under the Privacy Act 1988 (Cth) and whether Telstra was obligated to disclose it.
+  - Reason for Trial: 
+    - To determine the proper interpretation of “personal information” and whether metadata was “about an individual” whose identity was apparent or reasonably ascertainable under the Privacy Act.
+  - Material Facts:
+    - Mr Grubb requested access to all metadata Telstra held about his mobile service.
+    - Telstra provided some billing and customer relationship data, but withheld certain network data including IP addresses, URLs, and cell tower metadata not retained for billing.
+    - The Privacy Commissioner found that the withheld data was “personal information” and ordered its release.
+    - Telstra appealed to the AAT, which overturned the Commissioner’s ruling, finding the data was not “about” Mr Grubb.
+    - The Privacy Commissioner appealed to the Full Federal Court.
+  - Issue Raised: 	
+    - Whether the phrase “about an individual” in the definition of “personal information” in s 6 of the Privacy Act 1988 (Cth) has substantive legal meaning and whether it was correctly applied by the AAT.
+  - Law(s)/Statute(s) in Contention:
+    - Privacy Act 1988 (Cth) ss 6, 13A, 16A(2), 36(1), 52; NPP 6.1 (Sch 3)
+    - Administrative Appeals Tribunal Act 1975 (Cth) s 44
+  - Precedents:
+    - H J Heinz Co of Canada Ltd v Canada (AG) [2006] 1 SCR 441
+    - American Civil Liberties Union v Clapper 785 F.3d 787 (2d Cir. 2015)
+    - Information Commissioner v The Executive Director of the Canadian Transportation Accident Investigation and Safety Board [2007] 1 FCR 203
+    - Peacock v Repatriation Commission [2007] FCAFC 156
+    - Repatriation Commission v Warren [2008] FCAFC 64
+  - Tests:
+    - “Personal information” requires two elements:
+      - Information or opinion must be about an individual
+      - The individual’s identity must be apparent or reasonably ascertainable from the information (s 6, Privacy Act)
+  - Words and Phrases Considered:
+    - “About an individual” – Must relate to or concern the person directly; not all data generated through personal use is necessarily “about” the user (as per Telstra's internal network operation data).
+    - “Metadata” – Not defined in the Privacy Act, but understood in practice as data about data (e.g., IP addresses, URLs, cell locations).
+  - Arguments by Party:
+    - Privacy Commissioner: 
+      - “About an individual” adds no real limit; if identity is reasonably ascertainable, the information qualifies as personal.
+    - Telstra: 
+      - Mobile network metadata is not about Mr Grubb; it is technical data used to deliver services and not about him as a person.
+  - Judicial Opinions:
+    - Dowsett J: 
+      - Agreed with the majority; emphasised that Mr Grubb was entitled to “personal information” only—not all metadata.
+    - Kenny and Edelman JJ (joint): 
+      - Rejected the argument that “about an individual” is redundant; held that it imposes a real, substantive requirement separate from identifiability.
+  - Legal Reasoning:
+    - The Court held that about an individual requires an evaluative judgment. Data generated by a person’s use of services is not automatically about them.
+    - The AAT was correct to treat this as a threshold issue; merely because data can be linked to a person doesn’t mean it is about them.
+  - Ratio Decidendi:
+    - Information is only “personal information” under the Privacy Act 1988 (Cth) if it is about the individual and their identity is apparent or can reasonably be ascertained from it (s 6).
+    - “About” requires a meaningful connection to the person, not merely a functional association through service use.
+  - Result:
+    - Appeal dismissed
+    - Privacy Commissioner ordered to pay costs
+  - Relevance to Modern Law:
+    - The case clarifies the two-limb test for “personal information” and narrows access rights under the Privacy Act—particularly in digital metadata contexts.
+    - Emphasises the need to distinguish between information about a person versus information about the services used by them.
+    - Sets a precedent for treating IP data and technical logs as operational data, not necessarily personal data, unless clearly linked to the identity and concerns of the individual.
+- Facebook Inc v Australian Information Commissioner [2023] FCAFC 
+    - Procedural History:
+      - The appeal arose from a decision by the primary judge in Australian Information Commissioner v Facebook Inc (No 2) [2020] FCA 1307, in which the Commissioner was granted leave to serve Facebook Inc (a US corporation) outside Australia in proceedings alleging privacy breaches. Facebook Inc sought to set aside service but failed. It then applied for leave to appeal to the Full Federal Court.
+      - The Commissioner sought declarations and penalties for breaches of Australian Privacy Principles 6 and 11.1(b) relating to data collected via the “This Is Your Digital Life” app. Facebook Inc was served out of jurisdiction with leave.
+  - Original Dispute:
+    - Whether Facebook Inc, a Delaware-incorporated company based in California, could be subject to proceedings under the Privacy Act 1998 (Cth) for alleged breaches of the Australian Privacy Principles (APPs) resulting from the Cambridge Analytica data scandal.
+  - Reason for Trial:
+    - To determine whether Facebook Inc had a sufficient connection to Australia — namely, whether it was carrying on business and had collected or held relevant personal information in Australia — to satisfy s 5B(3) of the Privacy Act, thus supporting the extraterritorial operation of the Act and justifying service out of jurisdiction.
+  - Material Facts:
+    - A third-party app (This Is Your Digital Life), created by Dr Kogan and GSR, was deployed on the Facebook platform.
+    - About 53 Australian users installed the app, but it accessed data from over 311,000 Australian Facebook users via their friends' networks.
+    - The Commissioner alleged Facebook Inc and Facebook Ireland breached APP 6 (use of data for a secondary purpose without consent) and APP 11.1(b) (failure to protect data from unauthorised disclosure).
+    - Facebook Ireland did not contest jurisdiction; Facebook Inc did.
+  - Issue Raised:
+    - Whether there was a prima facie case that Facebook Inc:
+      - Carried on business in Australia (s 5B(3)(b)); and
+      - Collected or held personal information in Australia relevant to the alleged breaches (s 5B(3)(c)). 
+  - Law(s)/Statute(s) in Contention:
+    - Privacy Act 1998 (Cth)
+      - s 5B(1A): Extraterritorial operation
+      - s 5B(3)(b)–(c): Requirement for an "Australian link"
+    - APP 6 and APP 11.1(b) (Sch 1)
+    - Federal Court Rules 2011 (Cth) rr 10.42, 10.43(1)(a), 10.43(4)(c)
+  - Precedents:
+    - Valve Corporation v ACCC [2017] FCAFC 224; 258 FCR 190
+    - Gebo Investments (Labuan) Ltd v Signatory Investments Pty Ltd [2005] NSWSC 544; 190 FLR 209
+    - Hope v Bathurst City Council (1980) 144 CLR 1
+    - Luckins v Highway Motel (Carnarvon) Pty Ltd (1975) 133 CLR 164
+    - Smith v Capewell (1979) 142 CLR 509
+  - Tests:
+    - To establish an “Australian link” under s 5B(3) of the Privacy Act, the Commissioner needed to show:
+      - The foreign entity was carrying on business in Australia (s 5B(3)(b)); and
+      - It collected or held the relevant personal information in Australia (s 5B(3)(c)), and that this was the information said to breach the APPs.
+  - Words and Phrases Considered:
+    - “Carries on business in Australia” — interpreted in light of digital and non-physical commercial activity, especially cookie installation and Graph API services.
+    - “Collected or held” — required to be linked to data relevant to the alleged privacy breach.
+  - Arguments by Party:
+    - Facebook Inc:
+      - Denied carrying on business in Australia due to lack of physical presence, employees, contracts, or direct revenues.
+      - Argued that any activity (e.g., cookie installation or API access) was performed on behalf of Facebook Ireland. 
+      - Contended that any data processing occurred in US or Swedish data centres.
+    - Commissioner:
+      - Argued Facebook Inc provided services in Australia through cookie deployment and Graph API management.
+      - Argued that personal information was collected directly or via caching servers in Australia.
+      - Submitted that Facebook Inc’s digital activity constituted the conduct of a data processing business in Australia.
+      - The Commissioner alleged that Facebook disclosed personal information without consent for use in political profiling by third parties, including Cambridge Analytica.
+  - Judicial Opinions:
+    - Perram J delivered the reasons for judgment. The Court found that:
+      - Facebook Inc provided data processing services to Facebook Ireland that included operations in Australia.
+      - Activities such as installing cookies on Australian users’ devices and managing Facebook login/API services for Australian developers were conducted in Australia.
+      - Physical presence is not determinative; digital business operations can establish “carrying on business”.
+      - Facebook Inc’s activities were repetitive and commercial in nature, satisfying the test in Hope and subsequent authorities.
+  - Legal Reasoning:
+    - The Court rejected the argument that only physical presence (offices, employees, contracts) can establish “carrying on business”.
+    - Installation of cookies and Graph API activities had sufficient territorial nexus to Australia.
+    - The “Australian link” requirement was satisfied as Facebook Inc was carrying on business in Australia and collected or held the relevant personal information in Australia.
+  - Ratio Decidendi:
+    - A foreign corporation may be found to carry on business in Australia for the purposes of s 5B of the Privacy Act 1998 (Cth) where:
+      - It engages in digital commercial activities (e.g., data processing, API management, cookie installation) targeting or involving Australian users; and
+      - It collects or holds relevant personal information in Australia as part of the business operations that are alleged to breach the Australian Privacy Principles.
+  - Result:
+    - Leave to appeal was refused. The finding that Facebook Inc could be served out of jurisdiction stood.
+  - Relevance to Modern Law:
+    - This case significantly broadens the understanding of how extraterritorial privacy laws apply to foreign tech entities. It clarifies that:
+      - Absence of physical presence does not shield digital platforms from Australian jurisdiction under privacy law.
+      - Australian courts can infer “carrying on business” based on software deployment, cookies, and digital infrastructure.
+    - The Privacy Act 1998 (Cth) has real global reach if personal data of Australians is implicated.
+## Week 3: On the Law on Data 
+
+- General Data Protection Regulation (GDPR) – Core Notes
+  - 1. Purpose & Scope
+    - 1.1 Article 1 – Subject-matter
+      - Protects fundamental rights of natural persons regarding personal data processing. 
+      - Ensures free movement of personal data in the EU. 
+    - 1.2 Article 2 – Material Scope 
+      - Applies to automated & non-automated processing of data in a filing system. 
+      - Excludes: 
+        - Activities outside EU law. 
+        - Member States’ security/foreign policy activities. 
+        - Personal/household use. 
+        - Criminal law enforcement (separate rules). 
+    - 1.3 Article 3 – Territorial Scope 
+      - Applies if: 
+        - Processing is in context of EU establishment (regardless of location). 
+        - Targeting goods/services or monitoring behaviour of persons in the EU. 
+        - Public international law applies. 
+  - 2. Key Definitions (Article 4)
+    - Personal Data – Any info identifying a natural person (directly/indirectly). 
+    - Processing – Any operation on personal data.
+    - Controller – Determines purposes & means.
+    - Processor – Processes on behalf of controller. 
+    - Consent – Freely given, specific, informed, unambiguous indication. 
+    - Personal Data Breach – Security breach affecting personal data. 
+    - Special Categories – Racial, political, religious, genetic, biometric, health, sexual orientation. 
+  - 3. Principles of Processing (Article 5)
+    - Lawfulness, fairness, transparency 
+    - Purpose limitation 
+    - Data minimisation 
+    - Accuracy 
+    - Storage limitation 
+    - Integrity & confidentiality 
+    - Accountability – Controller must demonstrate compliance. 
+  - 4. Lawfulness (Article 6)
+    - Processing lawful if: 
+      - Consent given. 
+      - Contract performance. 
+      - Legal obligation. 
+      - Vital interests protection. 
+      - Public interest/official authority. 
+      - Legitimate interests (except overridden by subject’s rights, esp. children). 
+  - 5. Consent (Article 7)
+    - Must be demonstrable. 
+    - Separate from other terms; plain language. 
+    - Can be withdrawn anytime. 
+    - Freely given (no tying to unnecessary processing). 
+  - 6. Special Categories (Article 9)
+    - Prohibited unless: 
+      - Explicit consent. 
+      - Employment/social protection law. 
+      - Vital interests. 
+      - Not-for-profit with safeguards. 
+      - Made public by data subject. 
+      - Legal claims. 
+      - Substantial public interest. 
+      - Health/public health purposes. 
+      - Archiving/research/statistics (with safeguards). 
+  - 7. Rights of Data Subjects
+    - Transparency (Art 12): Clear, accessible, free, timely. 
+    - Information: 
+      - If collected from subject (Art 13). 
+      - If not collected from subject (Art 14). 
+      - Access (Art 15): Confirmation, details, copies. 
+      - Rectification (Art 16). 
+      - Erasure – “Right to be forgotten” (Art 17). 
+      - Restriction (Art 18). 
+      - Notification of rectification/erasure (Art 19). 
+      - Data portability (Art 20). 
+  - 8. Controller & Processor Obligations
+    - 8.1 Responsibility (Art 24) – Appropriate measures to ensure compliance.
+    - 8.2 Data Protection by Design/Default (Art 25) – Minimise data, ensure safeguards.
+    - 8.3 Representatives for non-EU controllers (Art 27) – Required unless exceptions.
+    - 8.4 Processor rules (Art 28) – Written contract; security, confidentiality, assistance.
+    - 8.5 Security of processing (Art 32) – Encryption, resilience, recovery, testing. 
+  - 9. Breach Notification
+    - To authority (Art 33): Within 72 hours unless unlikely to risk rights. 
+    - To data subject (Art 34): If high risk; exemptions if mitigated/encrypted. 
+  - 10. Data Protection Impact Assessments (Art 35)
+    - Required if high risk (e.g., profiling, large-scale special category processing, monitoring). 
+    - Must assess necessity, proportionality, risks, and safeguards. 
+  - 11. International Transfers (Art 44)
+    - Only if conditions met; must not undermine protection level. 
+  - 12. Liability & Penalties
+    - 12.1 Compensation (Art 82) – Any person suffering damage entitled to compensation.
+    - 12.2 Administrative fines (Art 83) – 
+      - Up to €10M / 2% turnover (certain obligations). 
+      - Up to €20M / 4% turnover (core principles, rights, transfers).
+    - 12.3 Other penalties (Art 84) – Member States may add. 
+  - 13. Special Processing Situations (Ch IX)
+    - Freedom of expression (Art 85) – Member States reconcile with data protection. 
+    - Public access to documents (Art 86). 
+    - National ID numbers (Art 87) – Extra safeguards.  
+    - Employment context (Art 88) – Specific rules possible.  
+- Part IVD – Consumer Data Right (CDR) – Verified from Your Document
+  - 1. Division 1 – Preliminary
+    - Subdivision A – Introductory
+      - Purpose – Establishes the Consumer Data Right to: 
+        - Allow consumers to access their own CDR data. 
+        - Enable secure transfer of that data to accredited data recipients. 
+      - Key Terms – Includes definitions for “CDR data”, “data holder”, “designated gateway”, “accredited data recipient”. 
+      - Application – Applies to data in sectors designated by Ministerial instrument. 
+    - Subdivision C – Constitutional Basis
+      - Operates under multiple constitutional heads of power, including: 
+        - Corporations power. 
+        - Trade and commerce power. 
+        - External affairs power. 	
+        - Territories power. 
+      - Ensures validity across different entities and jurisdictions. 
+    - Subdivision D – Interaction with Other Laws
+      - Part IVD prevails over inconsistent laws unless expressly stated. 
+      - Works in conjunction with Privacy Act 1988 (Cth) and sector-specific legislation. 
+      - Certain sectoral laws may be preserved if specified in the designation instrument. 
+  - 2. Division 2 – Consumer Data Right
+    - Right to Access & Transfer – Consumers can: 
+      - Request CDR data from data holders. 
+      - Direct its secure transmission to accredited recipients. 
+    - Designation of Sectors & Data Sets – By Ministerial instrument specifying: 
+      - Data holders. 
+      - Scope and type of data. 
+      - Implementation timetable. 
+    - CDR Rules – Made by the ACCC (or relevant regulator): 
+      - Consent requirements.
+      - Data sharing process. 
+      - Accreditation process. 
+      - Dispute resolution. 
+    - Data Standards – Developed by the Data Standards Body to ensure: 
+      - Security. 
+      - Interoperability. 
+      - Accessibility. 
+  - 3. Division 5 – Privacy Safeguards
+    - Specific to CDR data and override Australian Privacy Principles (APPs) where inconsistent. 
+    - Safeguards include: 
+      - 1. Transparency – Entities must manage CDR data openly. 
+      - 2. Anonymity/Pseudonymity – Where practicable. 
+      - 3. Solicitation – Only with valid, informed consent. 
+      - 4. Notification – When collecting CDR data. 
+      - 5. Data Quality – Ensure accuracy and completeness. 
+      - 6. Use & Disclosure – Only for permitted purposes. 
+      - 7. Security – Protect against misuse, interference, loss, or unauthorised access. 
+      - 8. Correction – Rectify incorrect CDR data. 
+      - 9. No Direct Marketing – Unless specifically allowed under rules. 
+    - Enforcement – Shared between OAIC and ACCC; civil penalties apply for breaches. 
+- Consumer Data Right – Summary Notes (2019) 16(2) Privacy Law Bulletin 36 – Geoff Bloom, Ben Cameron & Jonathan Daniel, HWL Ebsworth Lawyers
+  - 1. Purpose & Policy Rationale
+    - Definition – A statutory right for consumers to direct that their data be shared with accredited, trusted third parties to benefit from its value.
+    - Government’s intended benefits (Treasury):
+      - Improve consumer choice and convenience by enabling secure sharing with accredited recipients (e.g., comparison websites 
+      - Enhance competition and innovation in designated sector 
+      - Increase consumers’ ability to negotiate better deals or switch provider 
+      - Drive development of new, tailored products and service 
+      - Support data-driven economic growth and job creation.
+    - Example – A consumer can securely share credit card usage data with a comparison site to identify the best card for their spending patterns.
+  - 2. Legislative Background
+    - Origins – Recommended by Murray, Harper, Coleman, and Finkel inquiries; formalised in the Productivity Commission’s Data Availability and Use report (2017).
+    - Government adoption – Announced Nov 2017 as giving consumers “ownership” of their data.
+    - Legislation – Enacted via Treasury Laws Amendment (Consumer Data Right) Act 2019 (Cth) (Part IVD of Competition and Consumer Act 2010 (Cth)), plus amendments to Privacy Act 1988 (Cth)  
+    - Rules – Sector-specific and general rules (made by ACCC/Treasury) regulate consent, accreditation, dispute resolution, data security, breach reporting, interoperability, liability, deletion, and record keepin  
+    - Technical Standards – Developed by Data Standards Body (Data61/CSIRO) covering transfer, data format, and security. 
+  - 3. Key Concepts 
+    - CDR – Right to efficiently access information held by businesses and authorise secure transfer to accredited third parties  
+    - CDR Data – All data within a designated sector/class (and information derived from it), covering natural persons and legal entities. Broader than “personal information” under Privacy Act.
+    - CDR Consumer – Natural or legal person identifiable from CDR data in connection with a good or service supplied to them.
+    - Data Holder – Entity specified in a designation instrument holding relevant CDR data. 
+    - Accredited Data Recipient – Entity accredited to receive CDR data under CDR rules. 
+    - Designated Gateway – Facilitates transfer of CDR data between holders and recipients.
+  - 4. Consent Framework 
+    - Higher standard than Privacy Act — explicit, informed, and specific; no bundled or implied consent.
+    - Consumers can track and revoke consents.
+    - Records of consent are themselves CDR data sets.
+  - 5. Privacy Safeguards (13)
+    - (Override APPs where inconsistent)
+- Open & transparent management – Policies and systems for CDR compliance (≈ APP 1).
+- Anonymity/pseudonymity – For accredited recipients, unless impracticable (≈ APP 2).
+- Collecting solicited CDR data – Only with a valid request.
+- Dealing with unsolicited data – Must destroy unless legally required (≈ APP 4).
+- Notifying collection – Must notify consumers when data is collected (≈ APP 5).
+- Use/disclosure – Only with valid consent or lawful authority.
+- Direct marketing – Prohibited unless expressly authorised under CDR with specific consent.
+- Cross-border disclosure – Restricted to accredited recipients or equivalent safeguards.
+- Government identifiers – Prohibited except as permitted by law (≈ APP 9).
+- Notifying disclosure – Must notify consumer of data transfers.
+- Data quality – Must ensure data is accurate, complete, up to date (≈ APP 10).
+- Security – Protect against misuse, loss, unauthorised access (≈ APP 11).
+- Correction – Consumers retain right to request correction after collection.
+  - 6. Regulatory Oversight 
+    - Regulators – ACCC, OAIC, and Data Standards Body (Data61/CSIRO).
+    - Enforcement – Civil penalties (up to $10m per contravention), infringement notices, compensation orders, injunctions (including deletion orders), enforceable undertakings, accreditation suspension/cancellation. 
+    - Resources – $44.6m allocated over first four years; ongoing funding intende 
+  - 7. Sector Rollout 
+    - First sector – Banking (“Open Banking”) from 1 July 2019 for big four banks
+    - Future sectors – Energy, telecommunications, with potential economy-wide application.
+- Consumer Data Right – Practical and Policy Challenges (UNSW Law Journal Vol 45(4), 2022)
+  - 1. Technical Risks – API Vulnerabilities
+    - Even major tech companies (Apple, Facebook, Google, Microsoft) with top security staff have suffered API weaknesses leading to breaches. 
+    - Examples: 
+      - Cambridge Analytica – API design allowed mass harvesting of friends’ data with one user’s consent. 
+      - Facebook 2021 leak – 533m users’ details exposed due to legacy API access. 
+      - Similar flaws found in AWS, Google+, Microsoft Azure. 
+    - Implication: CDR’s reliance on APIs means data security is only as strong as technical implementation. 
+  - 2. Consent Architecture Problems
+    - Statutory requirement – Consent must be express and genuine (CCA s 56BC). 
+    - Problem – In the “big data” era, users often click “I agree” without reading or real choice, undermining informed consent. 
+    - Open Banking Review recommended explicit, fully informed, constrained consent mechanisms. 
+  - 3. Accreditation Barriers
+    - Only accredited recipients in the Register for Accredited Persons can access CDR data. 
+    - Current model: one ‘unrestricted’ level for full banking sector access. 
+    - Requirements include: 
+      - Fit and proper person/org. 
+      - Data security processes. 
+      - Internal/external dispute resolution. 
+      - Adequate insurance. 
+      - Australian address for service. 
+    - Criticism – Model favours large incumbents (esp. ADIs) due to streamlined accreditation and cost burden on smaller FinTechs. 
+    - 2021 amendments introduced: 
+      - Sponsorship model – Accredited parties can sponsor others. 
+      - Representative model – Certain representatives can operate without separate accreditation. 
+      - Trusted adviser access – Lawyers, brokers, financial counsellors. 
+  - 4. Industry Resistance & Market Dynamics
+    - Big banks face three hurdles: 
+      - Legacy systems. 
+      - Legacy thinking. 
+      - Legacy customer expectations. 
+    - CDR intended to break banking oligopoly; success for new entrants depends on differentiated value propositions difficult for incumbents to copy. 
+  - 5. Consumer Education Deficit
+    - Awareness is low – 77% of Australians in 2019 survey didn’t know what open banking was. 
+    - Existing webinars and ACCC videos have very low engagement. 
+    - Consumers were largely excluded from consultation; industry-centric focus dominated. 
+    - Education is key for uptake, but currently delayed in favour of technical/legal implementation. 
+    - Recommendation – Launch consumer education once CDR covers multiple sectors to drive take-up. 
+  - 6. Strategic Outlook & Reform Directions
+    - CDR designed as a flexible, evolving framework (“living document”). 
+    - Government aims for Australia to be a global leader in data sharing. 
+    - Future Directions Report (2020) key recommendations: 
+    - Create integrated roadmap aligning CDR with other privacy, competition, and tech reforms. 
+    - Conduct post-implementation reviews after each rollout stage. 
+    - Specifically review action initiation & payment initiation after ~24 months. 
+    - Action initiation (allowing accredited parties to act on consumer instructions, not just share data) seen as crucial for CDR’s full potential. 
+    - Rollout expected to be gradual (“slow burn” like UK open banking). 
+    - Potential consumer perception issue – “more control” could paradoxically feel like less privacy; targeted education needed to address this.
+## Week 4: AI, Robotics & Civil Liability 
+
+- Civil Liability Act 2002 (NSW)
+  - Part 1A – negligence;
+  - Part 2, Division 1 - 3 – personal injury damages;
+  - Part 3 – mental harm;
+  - Part 4 – proportionate liability
+- Australian Consumer Law:
+  - Part 2.1 (Misleading and deceptive conduct);
+  - Part 2.2 (Unconscionable conduct);
+  - Part 3.2 (Consumer guarantees).
+- ACCC v Trivago N.V. [2020] FCA 16 / Australian Competition and Consumer Commission v Trivago N.V. [2020] FCA 16
+  - Court: Federal Court of Australia
+  - Judge: Moshinsky J
+  - Date of Judgment: 20 January 2020
+  - Procedural History
+    - The Australian Competition and Consumer Commission (ACCC) brought proceedings against Trivago N.V., alleging contraventions of the Australian Consumer Law (ACL), which is Schedule 2 to the Competition and Consumer Act 2010 (Cth).
+    - The case was decided at first instance in the Federal Court. A separate penalty decision followed in ACCC v Trivago N.V. (No 2) [2022] FCA 417.
+  - Original Dispute
+    - The dispute concerned whether Trivago misled consumers through its online hotel search platform by:
+      - Representing that it helped consumers find the cheapest hotel rates, and
+      - Using a “highlighted offer” to suggest the best deal.
+  - Reason for Trial
+    - The ACCC alleged that Trivago’s website representations contravened:
+      - Section 18 – misleading or deceptive conduct
+      - Section 29(1)(g) – false/misleading representation about price advantage
+      - Section 29(1)(i) – false/misleading representation about sponsorship or affiliation
+      - Section 29(1)(m) – false/misleading representation with respect to place of origin
+  - Material Facts
+    - Trivago operated a hotel comparison website (trivago.com.au) using a “Best Price” algorithm to present hotel offers.
+    - Consumers were led to believe that:
+      - The top offer (visually emphasised) was the cheapest available rate, and
+      - Trivago was offering an objective, impartial price comparison.
+      - In fact, Trivago’s algorithm prioritised offers based on the amount paid by online travel agents (Cost Per Click – CPC model), not the cheapest price.
+      - The price comparisons were often not like-for-like (e.g. standard room vs. deluxe room).
+  - Issue Raised
+    - Whether Trivago’s conduct was:
+      - 1. Misleading or deceptive under s 18 ACL,
+      - 2. A false representation of price advantage under s 29(1)(g),
+      - 3. A misrepresentation of affiliation or sponsorship under s 29(1)(i),
+      - 4. A misrepresentation of place of origin under s 29(1)(m).
+  - Law(s)/Statute(s) in Contention
+    - Australian Consumer Law (Sch 2 to Competition and Consumer Act 2010 (Cth)):
+      - s 18 – misleading or deceptive conduct
+      - s 29(1)(g) – misleading representation of price advantage
+      - s 29(1)(i) – misleading representation of sponsorship or affiliation
+      - s 29(1)(m) – misleading representation concerning place of origin
+  - Precedents
+    - Google Inc v ACCC (2013) 249 CLR 435 – on misleading advertising and platform responsibility.
+    - Australian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 250 CLR 640 – on dominant message and consumer impression.
+    - ACCC v Coles Supermarkets Australia Pty Ltd [2014] FCA 634 – relevant to interpretation of consumer expectation and promotional language.
+  - Tests Applied
+    - Dominant Message Test – what impression is conveyed to the ordinary or reasonable consumer?
+    - Consideration of:
+      - The overall impression created by the advertisement;
+      - Contextual presentation of information;
+      - Whether the consumer is led into error.
+  - Words and Phrases Considered
+    - “Best price”, “top offer”, “price comparison”, “impartial ranking” – assessed based on how the ordinary consumer would understand them.
+    - Court considered that these phrases implied objectivity and lowest price, which was not true.
+  - Arguments by Party
+    - ACCC:
+      - The highlighted offer misled consumers into believing it was the cheapest, when in fact it was often not.
+      - The comparison was not neutral, as it was affected by commercial arrangements (CPC bids).
+      - The price comparison was not like-for-like.
+    - Trivago:
+      - Claimed that consumers understood the platform to be advertiser-funded.
+      - Alleged that the algorithm was transparent and commercially rational.
+      - Denied misleading representations.
+  - Judicial Opinions
+    - Moshinsky J held that Trivago engaged in systematic misleading conduct, particularly in:
+      - Presenting the top ranked offer as the cheapest,
+      - Using a visual emphasis that misled users into accepting that representation,
+      - Failing to disclose that ranking was influenced by advertising bids, not consumer benefit,
+      - Comparing non-equivalent rooms (e.g. basic vs. deluxe) in a misleading way.
+  - Legal Reasoning
+    - The representations were likely to mislead ordinary consumers because:
+      - The dominant message was that the highlighted offer was
+        - the cheapest;
+      - Consumers were not informed of the CPC-based ranking mechanism;
+      - The fine print or disclosures were insufficient to correct the misleading impression.
+      - Trivago’s design and interface led to a false belief in impartiality and price objectivity.
+  - Ratio Decidendi
+    - A company will breach ss 18 and 29 ACL where it:
+      - Presents a price comparison as objective or cheapest, when it is not;
+      - Fails to clearly disclose commercial influences on rankings;
+      - Creates a misleading impression through user interface and visual design;
+      - Displays comparisons that are not truly like-for-like.
+  - Result
+    - Trivago was found liable for contraventions of s 18, s 29(1)(g), s 29(1)(i) and s 29(1)(m) of the ACL.
+    - The matter proceeded to a penalty phase, in which Trivago was later fined $44.7 million (ACCC v Trivago N.V. (No 2) [2022] FCA 417).
+  - Relevance to Modern Law
+    - This case is a leading precedent for digital consumer protection and algorithmic transparency.
+    - Establishes that:
+      - Interface design and algorithmic outputs can mislead under ACL.
+      - Online comparison platforms must provide genuine, transparent comparisons.
+      - Failure to disclose commercial influence on recommendations may breach the ACL
+    - Used widely in discussions of:
+      - Digital platforms and competition
+      - Consumer trust in algorithmic tools
+      - Misleading and deceptive conduct in e-commerce
+- Guihot & Bennett Moses – Artificial Intelligence, Robots and the Law
+  - Summary of Key Points (for student/legal notes)
+    - 1. Purpose of the Book
+      - Provides a legal framework for understanding the regulation of AI and robotics.
+      - Aims to explain how existing legal principles apply and when law reform may be needed.
+      - Emphasises a proactive legal approach: law should anticipate risks, not just react to harm.
+    - 2. Core Themes
+      - AI Misconceptions: The authors seek to clarify the technology and debunk marketing hype, including misleading claims that products involve AI when they do not.
+      - Human-Centric Focus: AI and robotics are ultimately human-driven and human-affected, and should be treated as such in law and ethics.
+      - Environmental Implications: Raises the possibility of ecological harm from AI (e.g. via deforestation or resource exploitation).
+    - 3. Legal and Ethical Frameworks
+      - Law must be both fit for purpose and adaptable to evolving technologies.
+- Ethical considerations (like fairness and transparency) are discussed but not treated as substitutes for rights-based legal enforcement.
+- Advocates for anticipatory regulation, especially in fast-moving domains like surveillance and big data.
+    - 4. Regulatory Approach
+      - Law should:
+        - Be clear and predictable to provide public confidence;
+        - Not over-rely on reactive reform, but instead capture future iterations of emerging tech;
+        - Be tailored to context—some areas (e.g. surveillance laws) require ongoing monitoring to remain effective.

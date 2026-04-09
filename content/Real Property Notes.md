@@ -1,0 +1,6190 @@
+#tag-notes #tag-tutorial
+
+## 
+
+### Torrens Title
+
+Step 1: Identify the Interests in the Dispute
+1.1 List the Interests
+- What interests are being claimed (e.g. lease, mortgage, equitable charge, purchaser’s interest under contract)?
+- Who holds each interest? When was it created?
+1.2 Identify the Nature of Each Interest
+Is it a Legal Interest?
+A legal interest in Torrens land arises when:
+- The interest is registered on the register: Real Property Act 1900 (NSW) s 41
+- OR the interest is a short-term lease (≤ 3 years), complying with:
+  - Best rent reasonably obtainable
+  - Takes effect in possession
+  - No fine
+  - Conveyancing Act 1919 (NSW) s 23D(2)
+Key authorities:
+- Chan v Cresdon (1989) 168 CLR 242 – Unregistered leases do not create a legal interest
+- Manton v Parabolic Pty Ltd (1985) 2 NSWLR 361 – Documents in prescribed form can constitute deeds
+Is it an Equitable Interest?
+An equitable interest arises when:
+- Created in writing signed by the transferor – Conveyancing Act s 23C(1)(a)
+- Trust declared in writing – s 23C(1)(b)
+- Disposition of an existing equitable interest – s 23C(1)(c)
+- Created by operation of law – s 23C(2)
+- Created by part performance of an oral agreement – s 23E; Maddison v Alderson (1883) 8 App Cas 467
+- Purchaser's interest under contract – Lysaght v Edwards (1876) 2 Ch D 499
+
+⚖️ Step 2: Is the Land Subject to Torrens Title?
+- If yes, apply the Real Property Act 1900 (NSW).
+- If no, apply Old System rules (less common in modern exams).
+
+🛡️ Step 3: Is the Registered Proprietor’s Title Indefeasible?
+Apply Real Property Act s 42(1)
+- A registered interest is indefeasible, subject only to:
+  - Fraud
+  - In personam claims
+  - Statutory exceptions in s 42(1)(a)-(d)
+3.1 Fraud Exception – s 42(1)
+- Fraud must involve actual dishonesty or wilful blindness
+- Fraud must be by or known to the registered proprietor
+  - Assets Co Ltd v Mere Roihi [1905] AC 176
+  - Cassegrain v Cassegrain (2015) 254 CLR 425
+  - Breskvar v Wall (1971) 126 CLR 376
+3.2 In Personam Exception
+- Personal obligations (e.g. trust, contract, estoppel) enforceable despite registration
+  - Bahr v Nicolay (No 2) (1988) 164 CLR 604
+  - Mercantile Mutual Life Insurance Co Ltd v Gosper (1991) 25 NSWLR 32
+3.3 Statutory Exceptions – s 42(1)(a)-(d)
+- Easement omitted due to misdescription
+- Lease < 3 years (if lessee in possession)
+- Boundary errors or overlapping folios
+- Prior registered interest
+
+📋 Step 4: Was the Interest Properly Created?
+4.1 Legal Interests – Conveyancing Act s 23B
+- Legal interests must be made by deed
+- Deed must be signed, sealed, and attested – s 38(1)
+Exception: Short-term leases (≤3 years) – s 23D(2)
+4.2 Equitable Interests – Conveyancing Act s 23C
+- Created by signed writing
+- Unless they arise by constructive or resulting trust – s 23C(2)
+4.3 Part Performance Exception – Conveyancing Act s 23E
+- Equity enforces oral contracts where:
+  - (1) There is a contract
+  - (2) Acts are unequivocally referable to that contract
+Cases:
+- Maddison v Alderson – mere domestic services = not enough
+- Cooney v Burns (1922) 30 CLR 216 – preparatory acts ≠ part performance
+
+⚔️ Step 5: Is There a Priority Dispute?
+Identify the Parties in Competition
+Ask:
+- Is the competition over possession, repayment, or use?
+- What is the chronology of the interests?
+Determine Their Legal Status
+- Is either interest registered?
+- Are both interests unregistered, i.e., equitable?
+
+📚 Step 6: Apply the Priority Rules
+A. Registered vs Registered – s 41 RPA
+- First to register prevails
+- Gibbs v Messer (1891) AC 248 – registration = title
+B. Registered vs Unregistered
+- Registered interest prevails unless exception to indefeasibility applies (see Step 3)
+C. Legal vs Equitable
+- Legal interest prevails unless the legal holder is guilty of fraud or postponing conduct
+Postponing conduct examples:
+- Failing to obtain/retain title deeds: Walker v Linom [1907] 2 Ch 104
+- Acting negligently: Northern Counties Fire Insurance v Whipp (1884) 26 Ch D 482
+D. Equitable vs Equitable
+- Apply first in time rule: Breskvar v Wall (1971) 126 CLR 376
+- Later equitable interest prevails if:
+  - Taken bona fide
+  - For value
+  - Without notice of prior interest
+Cases:
+- Pilcher v Rawlins (1872) 7 Ch App 259 – BFPVWN wins
+- Abigail v Lapin (1934) AC 491 – failure to caveat can postpone
+- Heid v Reliance Finance (1983) 154 CLR 326 – negligence in not lodging caveat = postponement
+
+🧾 Step 7: Does s 43A Apply?
+Real Property Act s 43A
+Deems a registrable interest to be legal for the purposes of defeating notice of prior unregistered interests
+Apply the 5-Part Test – IAC v Courtenay (1963) 110 CLR 550
+- Purchaser for value – consideration must be given
+- Bona fide – no fraud or dishonesty: Diemasters v Meadowcorp (2001)
+- No actual notice – Bahr v Nicolay (No 2) (1988) – constructive notice irrelevant
+- Dealing must be immediately registrable
+  - Taleb v NAB (2011) – must be stamped
+  - Weller v Williams (2010) – must not depend on prior dealing
+- Prompt lodgment – Courtenay v Austin (1962) – delay may defeat protection
+Successive Effect Rule – Wilkes v Spooner [1911] 2 KB 473
+- If the original purchaser is protected by s 43A, subsequent holders take free of prior equitable interests
+
+🧑‍⚖️ Step 8: Classify Any “Mere Equities”
+- A mere equity is a right to seek a court remedy (e.g. rectification, rescission)
+- Not a full equitable interest
+- Can be defeated by a later equitable interest taken BFPVWN
+Cases:
+- Latec Investments Ltd v Hotel Terrigal Pty Ltd (1965) 113 CLR 265
+- Double Bay Newspapers Pty Ltd v AW Holdings Pty Ltd (1996) 42 NSWLR 409
+
+🔨 Step 9: Remedies for the Disadvantaged Party
+9.1 Proprietary Remedies
+- Constructive trust – if it would be unconscionable to deny interest: Baumgartner v Baumgartner
+- Specific performance – especially for land transactions: Lysaght v Edwards (1876) 2 Ch D 499
+- Vendor’s lien – unpaid vendor has equitable charge
+9.2 Personal Remedies
+- Equitable compensation – Ancient Order of Foresters v Lifeplan (2018) 265 CLR 1
+9.3 Injunctive Relief or Caveat
+- Caveat under s 74F RPA to protect equitable interest
+  - J & H Just (Holdings) v Bank of NSW (1971) 125 CLR 546 – must be a proprietary interest
+- Wrongful caveat may result in damages – s 74P
+9.4 Torrens Assurance Fund – s 120 RPA
+- Claim if loss arises from fraud or wrongful registration
+- Exclusion for claimant's negligence – s 129(2)
+- Breskvar v Wall (1971) – loss from fraud may be compensable
+
+✅ Step 10: Conclude with Priority & Enforcement Outcome
+Ask:
+- Who has the strongest interest under law?
+- Is that interest enforceable against the RP?
+- Is there a remedy available to enforce or protect that interest?
+- Has any statutory protection (e.g. s 43A) been lost?
+## Cheat Sheet
+
+### Week 2: Tenure and Estates; Native Title; and Fixtures
+
+  - 1. Doctrine of Tenure
+    - Definition: Land in Australia is ultimately held by the Crown, not owned absolutely by individuals.
+    - Key Principles:
+      - No one owns land absolutely (allodial ownership does not exist).
+      - All land is held of the Crown.
+      - No one holds land except by grant from the Crown.
+    - Feudal Origins:
+      - In England, land was held from the King in return for services.
+      - Only free and common socage was imported into NSW (tenure where farmers paid rent instead of military or other services).
+    - Key Cases:
+      - Attorney-General v Brown (1847): The Crown owns all waste lands in NSW.
+      - Mabo v Queensland (No. 2) (1992): The modern view—Crown holds radical title, but native title may survive annexation.
+  - 2. Doctrine of Estates
+    - Definition: The Crown grants interests in land called estates, which determine how long the holder has rights over the land.
+    - Types of Estates:
+      - Fee simple: Closest to absolute ownership, inheritable, alienable. (Fejo v Northern Territory (1998))
+      - Life estate: Ends when the life tenant dies.
+      - Leasehold estate: Right to use land for a fixed term, not ownership.
+    - Key Principles:
+      - Estates exist in time: The difference between estates is their duration.
+      - Multiple estates can exist at once: E.g., a life estate with a remainder interest.
+    - Simultaneous Estates:
+      - Estate in reversion: Returns to the grantor after a life estate ends.
+      - Estate in remainder: Passes to a third party after a life estate ends.
+    - Key Cases:
+      - Fejo v Northern Territory (1998): A fee simple grant permanently extinguishes native title.
+  - 3. Doctrine of Native Title
+    - Definition: Native title recognises Indigenous land rights that pre-existed British sovereignty.
+    - Key Principles (Mabo No. 2):
+      - Native title is based on traditional laws and customs.
+      - The Crown’s sovereignty does not automatically extinguish native title.
+      - Native title is communal, not individual.
+    - Extinguishment:
+      - Permanent: Fee simple grants, leases with exclusive possession (Fejo (1998))
+      - Partial: Pastoral leases (may coexist with native title) (Wik Peoples v Queensland (1996))
+      - Test: Inconsistency of rights determines extinguishment. (Western Australia v Commonwealth (1995))
+    - Legislation:
+      - Native Title Act 1993 (Cth): Created legal processes for native title claims.
+      - Future Acts Regime (s 24AA): Regulates government actions affecting native title.
+    - Key Cases:
+      - Mabo (No. 2) (1992): Recognised native title, overturned terra nullius.
+      - Fejo (1998): Fee simple permanently extinguishes native title.
+      - Wik (1996): Pastoral leases do not necessarily extinguish native title.
+- 4. Fixtures vs Chattels
+  - Definition: Fixtures become part of the land; chattels remain personal property.
+  - Test for Fixtures: (Elitestone Ltd v Morris (1997))
+    - Degree of annexation: How physically attached is it?
+    - Purpose of annexation: Was it intended to improve the land permanently?
+  - Examples:
+    - Fixture: House built on land, trees planted.
+    - Chattel: Freestanding furniture, removable sheds.
+  - Key Case:
+    - Elitestone Ltd v Morris (1997): A structure that cannot be removed without destruction is part of the land.
+- 5. Boundaries & Accretion
+  - Presumptions:
+    - Ad medium filum aquae: Ownership extends to the middle of a non-tidal river.
+    - Ad medium filum viae: Ownership extends to the centre of a road.
+  - Accretion & Erosion: (Ambulatory Boundaries)
+    - Accretion: Slow, imperceptible changes expand land ownership.
+    - Erosion: Land is lost if gradually washed away.
+  - Future Acts & Native Title:
+    - s 24AA Native Title Act: Sets out processes when land use affects native title.
+    - Indigenous Land Use Agreements (ILUAs): Negotiated settlements affecting native title.
+- Key Takeaways:
+  - Tenure: All land is ultimately held from the Crown.
+  - Estates: Property rights are based on time (fee simple, life estate, leasehold).
+  - Native Title: Exists unless extinguished by inconsistent Crown grants.
+  - Fixtures: Courts consider intention and degree of attachment.
+  - Boundaries: Legal rules apply to roads, rivers, and coastal land.
+- Exam Answer Formula for Estoppel (if needed later)
+  - 1. Identify the type of estoppel (Common law vs. Equitable).
+  - 2. Determine if there was a clear representation, assumption, or expectation.
+  - 3. Assess reliance – Did the claimant act on the promise/assumption?
+  - 4. Check detriment – Did reliance cause significant loss?
+  - 5. Prove unconscionability – Was it unfair for the defendant to resile?
+  - 6. Consider remedies – Constructive trust, compensation, or expectation enforcement.
+### Week 3: The Torrens System: The Register, Indefeasibility and Exception
+
+  - Textbook
+    - Chapter 12 - pages 822-887.
+  - Primary Sources
+    - Statute
+      - Real Property Act 1900 (NSW) s 12, ss 42(1)(a)-(d), s 43, s 56C.
+    - Rules
+      - Conveyancing Rules, Section 12E Real Property Act 1900, Version 5, effective 1 July 2019
+  - Cases
+    - Fraud
+      - Frazer v Walker [1967] 1 AC 569.
+      - Breskvar v Wall (1971) 126 CLR 376.
+      - Schultz v Corwill Properties (1969) 90 WN 529.
+      - Bahr v Nicolay (No 2) (1988) 164 CLR 604.
+      - Cassegrain v Gerard Cassegrain & Co Pty Ltd [2015] HCA 2.
+    - In Personam
+      - Bahr v Nicolay (No 2) (1988) 164 CLR 604.
+    - Volunteers
+      - Bogdanovic v Koteff (1988) 12 NSWLR 472.
+  - Torrens System Overview
+    - Real Property Act 1900 (NSW) governs land titles.
+    - Based on title by registration, not registration of title.
+    - Replaced old system title (chain of title) for efficiency and security.
+  - Key Principles of Torrens Title
+    - Curtain Principle – No need to investigate prior dealings; rely on the Register (Gibbs v Messer).
+    - Mirror Principle – The Register reflects ownership and interests accurately.
+    - Indefeasibility – Once registered, title is secure and cannot be challenged, subject to exceptions.
+  - Indefeasibility of Title
+    - Immediate Indefeasibility: Title is protected upon registration (Frazer v Walker; Breskvar v Wall).
+    - Deferred Indefeasibility: Title only becomes indefeasible after transfer to an innocent third party (Gibbs v Messer).
+  - Indefeasibility Cases
+    - Frazer v Walker: A forged mortgage was registered, but the new owner’s title was upheld due to immediate indefeasibility.
+    - Breskvar v Wall: Fraud led to wrongful registration, but an innocent purchaser still obtained an indefeasible title.
+  - Exceptions to Indefeasibility
+    - Fraud (must be by the registered proprietor or their agent) – Cassegrain v Gerard Cassegrain & Co.
+    - Statutory exceptions (s 42(1)(a)-(d)):
+      - Prior folio errors.
+      - Omitted/misdescribed easements.
+      - Wrong boundary descriptions.
+      - Short-term leases (<3 years).
+    - In personam exception (claims in equity/contract law) – Mercantile Mutual v Gosper.
+  - Unregistered Interests
+    - Normally not enforceable against a registered proprietor.
+    - Exception: If a party can prove an equitable interest enforceable in personam (Barry v Heider).
+  - Key Legislative Sections
+    - s 31B & s 32 – Establishment of the Register.
+    - s 42(1) – Defines indefeasibility.
+    - s 43 – Knowledge of unregistered interests does not amount to fraud.
+    - s 118(1)(d)(ii) – Volunteers do not gain indefeasibility.
+  - Summary of Key Tests
+    - Fraud Checklist:
+      - Was fraud by the current registered proprietor?
+      - Did an agent commit the fraud?
+      - Was there wilful blindness?
+    - Indefeasibility Structure:
+      - Is the estate/interest registered? → 
+        - If yes, indefeasible unless an exception applies.
+      - Does fraud, statute, or in personam liability apply? → 
+        - If yes, title is defeasible.
+  - Breskvar v Wall - Who Wins?
+    - Breskvars: Original proprietors → Have an equity to set aside fraud.
+    - Alban: Unregistered buyer → Holds equitable estate under contract.
+    - Outcome: Alban prevails because an equitable estate outweighs a mere equity.
+  - Exam Problem-Solving Steps: Torrens System (NSW)
+    - Step 1: Identify the Key Issue
+      - What type of dispute is this?
+        - Registered title vs. unregistered interest? (Who has the stronger claim?)
+        - Does an exception to indefeasibility apply? (Fraud, in personam claims, statutory exceptions?)
+        - Is there an unregistered equitable interest (e.g., estoppel, constructive trust)?
+        - Does the claimant have a mere equity or a full equitable interest? (Barry v Heider (1914) 19 CLR 197)
+      - Statute:
+        - Indefeasibility of title: s 42(1) Real Property Act 1900 (NSW).
+      - Key Cases:
+        - Breskvar v Wall (1971) 126 CLR 376 – First in time priority rule.
+        - Frazer v Walker [1967] 1 AC 569 – Indefeasibility applies once registration is complete.
+        - Barry v Heider (1914) 19 CLR 197 – Recognised unregistered equitable interests in Torrens land.
+    - Step 2: Determine the Registered Proprietor’s Rights
+      - Who is the current registered proprietor?
+        - Are there any interests recorded on the folio? (s 42(1) RPA 1900 (NSW)).
+        - Is the title prima facie indefeasible (Frazer v Walker; Breskvar v Wall).
+      - Exceptions to Indefeasibility?
+        - Did they assume a personal obligation enforceable against the other party? (Mercantile Mutual v Gosper (1991) 25 NSWLR 32)
+        - Does equity override the title through unconscionability?
+        - (A) Fraud Exception
+          - Statute: s 42(1) Real Property Act 1900 (NSW)
+          - Definition: Fraud must involve dishonesty or moral turpitude and must be "brought home" to the registered proprietor.
+          - Key Cases:
+            - Cassegrain v Cassegrain (2015) 254 CLR 425 – Fraud must be committed by or known to the registered proprietor.
+            - Assets Co Ltd v Mere Roihi [1905] AC 176 – Wilful blindness can amount to fraud.
+            - Loke Yew
+        - (B) In Personam Exception
+          - Definition: A registered proprietor may be personally bound by obligations arising from contract, trust, or equity.
+          - 📜 Key Cases:
+            - Mercantile Mutual v Gosper (1991) 25 NSWLR 32 – Indefeasibility does not prevent contractual or equitable obligations.
+        - (C) Statutory Exceptions
+          - Statute: s 42(1)(a)-(d) Real Property Act 1900 (NSW)
+          - Covers:
+            - Prior folio errors – If two folios exist for the same land.
+            - Omitted easements – If an easement was mistakenly excluded from registration.
+            - Short-term leases (<3 years) – Protected if the tenant is in possession.
+    - Step 3: Apply the Exceptions to Indefeasibility
+      - Fraud Exception – s 42(1) Real Property Act 1900 (NSW)
+        - Actual fraud? (Dishonesty/moral turpitude required).
+        - Was the fraud "brought home"? (Cassegrain v Cassegrain (2015) 254 CLR 425)
+        - Was there wilful blindness or constructive fraud? (Assets Co Ltd v Mere Roihi [1905] AC 176)
+      - In Personam Exception – Equitable Estoppel
+        - Did they owe an enforceable personal obligation? (Mercantile Mutual v Gosper)
+    - Step 4: Consider Unregistered Interests
+      - Does the claimant have a mere equity or an equitable interest? (Barry v Heider)
+      - Is there an overriding equitable principle (such as estoppel or constructive trust)?
+        - Key Cases:
+          - Barry v Heider (1914) 19 CLR 197 – Recognised equitable interests in Torrens land.
+          - Muschinski v Dodds (1985) 160 CLR 583 – Constructive trusts prevent unjust enrichment.
+    - Step 5: Determine Priorities (if competing interests exist)
+      - If two parties claim rights over the land, who has the better equitable interest? (Breskvar v Wall)
+      - If both have equitable interests, use priority rules:
+        - First in time usually prevails (but subject to equities). (Breskvar v Wall)
+        - A bona fide purchaser for value without notice (BFPVWN) takes free from prior equitable interests. (s 43A Real Property Act 1900 (NSW))
+    - Step 6: Apply the Outcome to the Question Type
+      - If it's an advice question: 
+        - Advise on the strengths and weaknesses of each party’s claim.
+      - If it's a judgment question: 
+        - Decide who has the strongest claim based on case law and the Real Property Act 1900 (NSW).
+      - If it’s a policy question: 
+        - Discuss whether the Torrens system balances security of title with fairness.
+### Week 4: Torrens II: Torrens Assurance Fund; Caveats and Priority Notices
+
+  - 1. Powers of Correction & Torrens Assurance Fund
+    - 1.1 Registrar-General’s Powers of Correction
+      - Real Property Act 1900 (NSW) s 12(1)(d): Allows correction of errors and omissions in the Register.
+      - Scope: Applies mainly to clerical or departmental errors (Castle Constructions v Sahab Holdings (2013) 247 CLR 149).
+      - Limitation: Corrections cannot affect a right arising from an uncorrected entry (s 12(3)(b)).
+    - 1.2 Courts’ Powers of Correction
+      - Real Property Act 1900 (NSW) s 138(1): The Supreme Court can create, cancel, or amend a folio in proceedings for land recovery.
+  - 2. Overriding Statutes & Indefeasibility
+    - 2.1 General Rule
+      - Later statutes may override the Real Property Act (principle of statutory interpretation).
+      - Example: Local Government Act 1993 (NSW) may create property rights without registration.
+    - 2.2 Key Case – Hillpalm Pty Ltd v Heaven’s Door Pty Ltd (2004) 220 CLR 472
+      - Facts: Development consent required an easement, but no easement was registered.
+      - Issue: Could Heaven’s Door enforce an easement over Hillpalm’s land via the Local Government Act?
+      - Held: No, because the council had abandoned compliance requirements, so there was no inconsistency between the statutes.
+    - 2.3 Section 42(3) – Indefeasibility & Overriding Statutes
+      - Registered interests prevail over inconsistent statutory interests if the statute was enacted before 13 May 2009.
+  - 3. The Torrens Assurance Fund
+    - 3.1 Purpose & Compensation Grounds
+      - Funded by a levy on registrations.
+      - Real Property Act 1900 (NSW) s 120(1): Compensation is available for loss due to:
+        - Fraud (s 120(1)(a))
+        - Errors, misdescriptions, or omissions (s 120(1)(b))
+        - Land being brought under the Torrens system (s 120(1)(c))
+        - Wrongful registration of another person as proprietor (s 120(1)(d))
+    - 3.2 Claims Against the Fund
+      - Real Property Act 1900 (NSW) s 129(1): Must show a material contribution between the Act’s operation and the loss.
+      - No Compensation (s 129(2)) if the loss was due to the claimant’s own negligence or fraud.
+    - 3.3 Case Law – Breskvar v Wall (1971) 126 CLR 376
+      - Key Principle: A mere equity (e.g., a right to set aside a fraudulent transaction) is subordinate to a bona fide equitable interest (such as an equitable estate in fee simple).
+  - 4. Unregistered Interests & Priority Rules
+    - 4.1 Effect of Unregistered Interests
+      - Real Property Act 1900 (NSW) s 41:
+        - Unregistered dealings do NOT pass legal title.
+        - Unregistered interests are vulnerable unless protected by a caveat.
+    - 4.2 Priority Between Unregistered Interests
+      - First in time prevails (qui prior est tempore, potior est jure) unless another party has a better equity (Barry v Heider (1914) 19 CLR 197).
+    - 4.3 Key Cases
+      - Barry v Heider (1914) 19 CLR 197: Unregistered mortgages can be enforceable if taken in good faith.
+      - Chan v Cresdon (1989) 168 CLR 242: An unregistered lease does not create an estate in land, but the lease agreement may create an equitable interest.
+  - 5. Caveats & Priority Notices
+    - 5.1 Caveats
+      - Definition: A statutory injunction preventing registration of dealings without the caveator’s consent (Real Property Act 1900 (NSW) s 74F).
+      - Requirements for a Valid Caveat:
+        - Must claim a legal or equitable interest (J & H Just (Holdings) v Bank of NSW (1971) 125 CLR 546).
+        - Cannot protect mere personal rights (e.g., pure contractual rights).
+        - Must comply with s 74F(5) formalities (Leros v Terrara (1992) 174 CLR 407).
+    - 5.2 Removing a Caveat
+      - Lapsing Notice: If the caveator does not commence proceedings within 21 days, the caveat lapses (s 74I, s 74J).
+      - Court Order: The court can remove a caveat under s 74MA.
+      - Wrongful Caveats: A party who lodges a caveat without reasonable cause may have to pay compensation (s 74P, Horswell v Paull (1983) NSW Conv R 55-126, Boensch v Pascoe - [2019] HCA 49).
+    - 5.3 Priority Notices
+Feature
+Priority Notice	
+Caveat
+Who Can Lodge?	
+Any party to a dealing	
+Must have a proprietary interest
+Effect
+Prevents registration of competing dealings
+Prevents all dealings
+Duration
+60 days (extendable to 90 days)	
+Indefinite until removed
+Can Be Challenged?	
+No, expires automatically
+Yes, via court or lapse
+Best Use Case	
+Short settlement periods	
+Long-term interest protection
+
+  - 6. Exam Answer Formula – Priority Disputes & Caveats
+    - Step 1: Identify the Legal Issue
+      - Is this a priority dispute between competing interests?
+      - Is this about correction of the Register (Registrar’s power under s 12, court’s power under s 138)?
+      - Does this involve a caveat dispute (lodgment, validity, removal)?
+      - Is there an overriding statute affecting indefeasibility (e.g., Local Government Act 1993 (NSW)?
+      - Does the claim involve compensation from the Torrens Assurance Fund (fraud, errors, wrongful registration)?
+    - Step 2: Identify the Relevant Legal Principles
+      - 2.1 If the issue concerns correction of the Register:
+        - Relevant Statutes & Case Law:
+          - Real Property Act 1900 (NSW) s 12(1)(d): Registrar-General can correct errors or omissions in the Register.
+          - s 12(3)(b): Corrections cannot affect rights based on uncorrected entries.
+          - s 138(1): Courts have the power to create, cancel, or amend a folio in land recovery cases.
+          - Castle Constructions v Sahab Holdings (2013) 247 CLR 149: Corrections are limited to clerical errors, not substantive changes.
+        - Application:
+          - What kind of error occurred?
+          - Was it a clerical mistake or a substantive one?
+          - Would the correction affect a party’s rights?
+      - 2.2 If the issue concerns priority between competing interests:
+        - Relevant Statutes & Case Law:
+          - Real Property Act 1900 (NSW) s 41:
+            - Unregistered dealings do not pass legal title.
+            - Registered interests prevail over unregistered interests.
+          - Barry v Heider (1914) 19 CLR 197: Unregistered equitable mortgages can still be enforced if taken in good faith.
+          - Loke Yew v Port Swettenham Rubber Co Ltd (1913) AC 491
+            - If a purchaser knowingly engages in conduct that defeats another’s prior interest, that can amount to fraud.
+          - Abigail v Lapin (1934) AC 491:
+            - Mere failure to caveat does not automatically postpone an earlier equitable interest.
+            - First in time does NOT always win—a later interest may take priority if the earlier party’s conduct misled others.
+          - Heid v Reliance Finance (1983) 154 CLR 326: Negligent failure to caveat can amount to postponing conduct.
+        - Priority Rules (Step-by-Step):
+          - Check registration status: Registered vs unregistered (s 42(1)).
+          - If both are unregistered, apply the ‘better equity’ test:
+            - Who acted negligently? (Failure to caveat = postponing conduct).
+            - Did the second interest holder rely on the absence of a caveat? (Abigail v Lapin).
+          - Outcome: Prior equitable interest may be defeated by a later equitable interest if the later party acted in good faith and without notice, unless postponing conduct is found (e.g., failure to caveat in Heid v Reliance Finance).
+      - 2.3 If the issue concerns caveats:
+        - Relevant Statutes & Case Law:
+          - Real Property Act 1900 (NSW) s 74F:
+            - A person with a legal or equitable interest in land may lodge a caveat.
+            - Cannot protect mere personal rights (J & H Just (Holdings) v Bank of NSW (1971) 125 CLR 546).
+          - s 74I & s 74J: Caveats lapse after 21 days if the caveator does not commence proceedings.
+          - s 74MA: The Supreme Court can remove a caveat if it was improperly lodged.
+          - Butler v Fairclough (1917) 23 CLR 78: Failure to lodge a caveat may result in postponement if a later party relies on the register.
+        - Application:
+          - Does the caveator have a caveatable interest?
+            - Equitable mortgage? ✅
+            - Option to purchase? ✅
+            - Mere contract? ❌ No caveatable interest.
+          - Was the caveat properly lodged? (Check compliance with s 74F(5)).
+          - Is there a valid reason for removal? (e.g., lapsing, improper lodgment, or no proprietary interest).
+      - 2.4 If the issue concerns overriding statutes (conflict with indefeasibility):
+        - Relevant Statutes & Case Law:
+          - Real Property Act 1900 (NSW) s 42(3):
+            - Registered interests prevail over statutory interests created before 13 May 2009.
+          - Hillpalm Pty Ltd v Heaven’s Door Pty Ltd (2004) 220 CLR 472:
+            - A later statute can override the Real Property Act, but only if there is a direct inconsistency.
+            - Courts try to reconcile statutes before finding an inconsistency.
+        - Application:
+          - Is the competing right created by statute?
+          - Was the statute enacted after 13 May 2009?
+          - Does it directly contradict s 42? If not, Real Property Act prevails.
+      - 2.5 If the issue concerns compensation from the Torrens Assurance Fund:
+        - Relevant Statutes & Case Law:
+          - Real Property Act 1900 (NSW) s 120(1): Compensation available for loss due to:
+            - Fraud (s 120(1)(a))
+            - Errors in the Register (s 120(1)(b))
+            - Wrongful registration of another person (s 120(1)(d))
+          - s 129(1): Claimant must show a material contribution between the Act’s operation and the loss.
+          - Breskvar v Wall (1971) 126 CLR 376: A mere equity (right to set aside a fraudulent transaction) is weaker than a bona fide equitable estate.
+        - Application:
+          - Identify the cause of loss (fraud, error, omission).
+          - Determine if compensation is excluded under s 129(2) (e.g., claimant’s own negligence).
+          - If valid, claim compensation from the Registrar-General.
+    - Step 3: Apply the Law to the Facts
+      - For any priority dispute, caveat issue, register correction, overriding statute, or compensation claim, apply this structured checklist:
+      - Identify the Interests
+        - Who are the parties, and what interests are they claiming?
+          - Registered vs Unregistered? (s 42(1), Barry v Heider)
+          - Legal vs Equitable? (s 41, Chan v Cresdon)
+          - Mere personal right? ❌ No protection (J & H Just)
+        - Is there a caveat?
+          - Validly lodged? (s 74F, Butler v Fairclough)
+          - Caveatable interest? (Option to purchase ✅, Mere contract ❌)
+        - Does this involve correction of the Register?
+          - Registrar’s power? (s 12(1)(d), clerical errors only – Castle Constructions)
+          - Court’s power? (s 138(1), land recovery)
+        - Is an overriding statute affecting indefeasibility?
+          - Direct inconsistency? (Hillpalm v Heaven’s Door)
+        - Is there a claim against the Torrens Assurance Fund?
+          - Loss due to fraud, error, or wrongful registration? (s 120(1), Breskvar v Wall)
+      - Apply the Priority Rules
+        - Step 1: If one interest is registered, it prevails (s 42(1)).
+          - Exception: Fraud (s 42(1), Breskvar v Wall)
+        - Step 2: If both are unregistered, apply the "better equity" test:
+          - First in time wins, unless postponing conduct (Barry v Heider).
+          - Failure to caveat? (Abigail v Lapin)
+          - Did the later party rely on the register? (Heid v Reliance Finance)
+          - Bona fide purchaser for value without notice? (Barry v Heider)
+        - Final Priority Outcome:
+          - ✅ No postponing conduct → First in time wins.
+          - ❌ Postponing conduct → Later interest prevails.
+      - Caveats: Lodgment & Removal
+        - Step 1: Does the caveator have a proprietary interest?
+          - Yes → Caveat valid (s 74F).
+          - No → Caveat can be removed (s 74MA).
+        - Step 2: Can the caveat be challenged?
+          - Lapsed? (s 74I, s 74J – 21-day rule).
+          - Wrongful caveat? (s 74P – liability for damages).
+        - Final Caveat Outcome:
+          - ✅ Valid interest → Caveat remains.
+          - ❌ No proprietary interest → Caveat removed.
+      - Overriding Statutes & Indefeasibility
+        - Step 1: Is there an overriding statute?
+          - s 42(3): Registered interests prevail over pre-13 May 2009 statutes.
+          - Statutory inconsistency? (Hillpalm v Heaven’s Door)
+        - Final Overriding Statute Outcome:
+          - ✅ Later statute clearly overrides → Statute applies.
+          - ❌ Can be read consistently → Indefeasibility prevails.
+      - Compensation from the Torrens Assurance Fund
+        - Step 1: Does the claim meet s 120(1) criteria?
+          - Fraud? (s 120(1)(a), Breskvar v Wall)
+          - Registrar’s error? (s 120(1)(b))
+          - Wrongful registration? (s 120(1)(d))
+        - Step 2: Is the claim excluded under s 129(2)?
+          - Claimant’s own negligence? ❌ No compensation.
+        - Final Compensation Outcome:
+          - ✅ Valid claim → Compensation payable.
+          - ❌ Excluded under s 129(2) → No compensation.
+    - Conclude with the Likely Outcome
+      - Priority Disputes Example:
+        - Fact Pattern: A sells land to B, but before B registers, A fraudulently sells to C.
+        - Legal Rule: Indefeasibility of title protects C if they were a bona fide purchaser (Breskvar v Wall).
+        - Exception: If C had knowledge of A’s fraud, B’s prior equitable interest prevails.
+        - Outcome: If C knew of A’s fraud, B wins. If C was innocent, C retains the property.
+      - Caveat Dispute Example:
+        - Fact Pattern: X has an unregistered mortgage but fails to lodge a caveat. Y later buys the land without notice of X’s interest.
+        - Legal Rule: Failure to caveat may postpone X’s interest if Y relied on the Register (Butler v Fairclough).
+        - Outcome: Y wins, unless X can show Y had actual knowledge.
+### Week 5: Torrens III: Priority between Unregistered Interests
+
+- Conveyancing Act 1919 (NSW), ss 23B-23E, and 54A
+- Real Property Act 1900 (NSW), ss 36, 41, 43, 43A, and 53.
+- Creation of Unregistered Interests
+  - Cooney v Burns (1922) 30 CLR 216
+- Issues of Priority
+  - Breskvar v Wall (1971) 126 CLR 376
+  - Hunt v Luck [1902] 1 Ch 428.
+- Section 43A
+  - Weller v Williams [2010] NSWSC 716. 
+  - Taleb v National Australia Bank Ltd (2011) 82 NSWR 489; [2011] NSWSC 1562.
+  - Barlin Investments Pty Ltd v Westpac Banking Corporation [2012] NSWSC 699
+- 1. Formal vs. Essential Requirements
+  - How do parties recognise an interest in land?
+    - Some interests require a deed (Conveyancing Act 1919 (NSW) s 23B).
+    - Others must be in writing (Conveyancing Act 1919 (NSW) s 23C).
+    - Some interests can be enforced despite failing formal requirements, such as under part performance.
+Requirement
+Applies to	
+Key Statute
+Deed	
+Legal interests (except short-term leases)	
+Conveyancing Act s 23B(1)
+Writing
+Equitable interests & dispositions of land	
+Conveyancing Act s 23C(1)
+Parol exception	
+Short-term leases (≤3 years)	
+Conveyancing Act s 23D(2)
+Part Performance	
+Some oral contracts for land	
+Conveyancing Act s 23E
+
+- 2. Legal Interests: Requirements & Case Law
+  - Key Statute: Conveyancing Act 1919 (NSW) s 23B
+    - Legal interests must be created by deed to be valid at law.
+    - It is an interest that has been registered on the Torrens register.
+      - Registered Mortgage – A mortgage that has been lodged and recorded on the Torrens register (RPA s 41).
+      - Registered Transfer – A purchaser who completes a transfer and registers their title gains a legal estate in fee simple.
+      - Registered Lease – A lease exceeding three years must be registered to be a legal lease (RPA s 53).
+      - Registered Easement – A formal right of way or access registered on the title (RPA s 88).
+      - Registered Caveat – While not a legal interest itself, a caveat protects an equitable interest from being defeated by later dealings (RPA s 74F).
+    - Exceptions:
+      - Short-term leases (≤3 years) do not require a deed (s 23B(1)(d), s 23D(2)).
+      - Real Property Act 1900 (NSW) overrides this for Torrens land.
+  - What is a Deed?
+    - A "solemn act" that must be signed, sealed, and witnessed (Conveyancing Act s 38).
+    - Used for transferring land, granting legal leases, and mortgages. OLD SYSTEM NOT TORRENS
+  - Key Case: Manton v Parabolic Pty Ltd (1985) 2 NSWLR 361
+    - Issue: Could a mortgagee exercise power of sale without a deed?
+    - Held: Yes, because statutory memoranda of assurance are treated as deeds under the Crown Lands Act.
+    - Principle: Documents required for land transactions may be deemed deeds even if not expressly labelled as such.
+  - Does s 43A apply? (IAC v Courtenay (1963))
+    - Elements
+      - 1. Purchaser for Value:
+        - The person acquiring the interest must have provided valuable consideration (e.g., money or something of value).
+        - Donees (i.e., those receiving property as a gift) are not protected.
+      - 2. Registered Interest or Pending Registration:
+        - The interest must be capable of registration under the Torrens system.
+        - Includes transfers, mortgages, leases, and easements over registered land.
+      - 3. Absence of Actual Knowledge:
+        - The purchaser must not have actual knowledge of an unregistered interest before acquiring their interest.
+        - Constructive or imputed notice is insufficient (cf Bahr v Nicolay (No 2) (1988) 164 CLR 604).
+      - 4. Unregistered Interest Must Not Be Lodged Prior to Settlement:
+        - If an unregistered interest is already lodged with the Land Registry before the purchaser's registration, they may not be protected.
+    - Application of s 43A in Priority Disputes:
+      - Protects bona fide purchasers from unregistered equitable interests.
+      - Overrides the doctrine of notice in equity, reinforcing the Torrens principle of indefeasibility. Upgrades to deed/creates legal right (subsequent legal interest)
+      - Does not protect against fraud (s 42 RPA – fraud exception).
+    - Exceptions to s 43A Protection:
+      - If the purchaser has actual knowledge of an unregistered interest (Mercantile Credits Ltd v Shell Co of Australia Ltd (1976) 136 CLR 326).
+      - If the unregistered interest is registered before the purchaser’s interest is lodged.
+      - Fraud (s 42 Real Property Act).
+- 3. Equitable Interests: Requirements & Exceptions
+  - Key Statute: Conveyancing Act 1919 (NSW) s 23C
+    - Equitable interests must be created in writing, unless:
+      - Created by will.
+      - Created by operation of law (e.g., constructive trusts).
+- 4. Exceptions to Formality Rules
+  - (a) Short-Term Leases (≤3 years)
+    - Conveyancing Act s 23D(2): Short-term leases do not require a deed or writing if:
+      - Best rent reasonably available is paid.
+      - Lease takes effect in possession immediately.
+      - Total term (including options) does not exceed 3 years.
+  - (b) Part Performance (s 23E, Equity)
+    - Part performance allows oral agreements to be enforced if:
+      - Acts were done solely to execute the contract (Maddison v Alderson (1883) 8 App Cas 467).
+      - Acts were unequivocally referable to an agreement.
+    - Key Cases:
+      - Maddison v Alderson (1883) – Housekeeper’s unpaid work was not part performance (could have been a gift).
+      - Cooney v Burns (1922) – Taking inventory not sufficient; preparatory acts do not count.
+- 5. Priority Rules for Interests in Land
+  - (a) Legal vs. Legal
+    - First in time prevails (Nemo Dat principle).
+  - (b) Legal vs. Equitable
+    - Legal interest prevails, unless the holder acted negligently or fraudulently.
+    - Northern Counties Fire Insurance v Whipp (1884) – Legal mortgagee retained priority despite carelessness.
+    - Walker v Linom (1907) – Legal interest postponed due to negligence in retaining title deeds.
+  - (c) Equitable vs. Equitable
+    - First in time prevails unless the second interest has stronger merits.
+    - Breskvar v Wall (1971) – Purchaser with a later equitable interest won due to a stronger equity.
+- 6. The Doctrine of Part Performance
+  - Allows enforcement of contracts lacking formalities if:
+    - Acts were done solely to execute the contract (Maddison v Alderson).
+    - Acts were referable only to that contract.
+  - Key Case: Walsh v Lonsdale (1882) 21 Ch D 9
+    - Issue: Was an agreement to lease enforceable despite lacking a deed?
+    - Held: Yes, because equity treats as done that which ought to be done.
+    - Principle: An equitable lease arises if specific performance is available.
+- 7. Priority Rules for Torrens Land
+  - (a) Registered vs. Registered Interests
+    - First registered interest prevails (Real Property Act 1900 (NSW) s 41).
+  - (b) Registered vs. Unregistered Interests
+    - Registered interest prevails unless subject to an exception (fraud, in personam rights).
+    - Breskvar v Wall (1971) 126 CLR 376 – Unregistered equitable interests can be defeated by a later registered interest.
+  - (c) Unregistered vs. Unregistered Interests
+    - First in time prevails, unless the later interest is:
+      - A bona fide purchaser for value without notice.
+      - Protected under s 43A of the Real Property Act.
+- 8. Statutory Protection for Unregistered Interests (RPA s 43A)
+  - Real Property Act 1900 s 43A protects unregistered interests from being defeated by later registrations if:
+    - The interest was taken bona fide.
+    - The party gave value.
+    - The dealing was immediately registrable.
+  - Key Cases:
+    - Courtenay v Austin (1962) – Prompt registration required.
+    - Taleb v NAB (2011) – Mortgage was not "registrable" until stamped, so no protection under s 43A.
+    - Barlin Investments v Westpac (2012) – Caveat lodged too late, so bank’s interest prevailed.
+- Exam Answer Formula: Formalities & Creation of Interests in Land
+  - Step 1: Identify the Competing Interests
+    - Identify each party’s interest in the land (e.g., mortgage, lease, easement, purchaser’s interest under a contract).
+    - Determine the chronology of creation.
+    - Determine if any party had notice of earlier interests.
+  - Step 2: Determine Whether the Interests Are Legal or Equitable
+    - Legal Interests (Registered Torrens Interests)
+      - Registered interest under Real Property Act 1900 (NSW) (RPA s 41).
+      - Short-term legal lease (≤ 3 years) (Conveyancing Act 1919 (NSW) s 23D(2)).
+      - Interests benefiting from s 43A protection (deemed legal until registration).
+    - Equitable Interests (Unregistered Torrens Interests)
+      - Interests in writing (Conveyancing Act s 23C(1)(a)).
+      - Purchaser’s interest under a signed contract.
+      - Equitable lease (Walsh v Lonsdale (1882)).
+      - Vendor’s lien (right to unpaid purchase price).
+      - Interest arising from part performance (Maddison v Alderson (1883); s 23E).
+  - Step 3: Apply the Priority Rules for Unregistered Interests
+    - 1. Equitable vs. Equitable: First in Time Rule
+      - General Rule: Qui prior est tempore potior est jure (first in time prevails). (Breskvar v Wall (1971)).
+      - Exception: A later equitable interest may prevail if it has a better equity (Latec Investments v Hotel Terrigal (1965)).
+    - Test for a "Better Equity"
+      - Did the later interest holder have notice of the earlier one?
+        - Hunt v Luck (1902) – Occupation can give constructive notice.
+    - Did the earlier interest holder act negligently?
+      - Northern Counties Fire Insurance v Whipp (1884) – Negligence can lead to postponement.
+      - Walker v Linom (1907) – Failing to secure title deeds may postpone priority.
+    - Was the later interest acquired in bad faith?
+      - A bona fide purchaser for value without notice prevails (Pilcher v Rawlins (1872)).
+    - 2. Mere Equity vs. Equitable Interest
+      - A mere equity (e.g., claim to rectify fraud) will be defeated by a later equitable interest taken bona fide (Latec Investments v Hotel Terrigal (1965); Double Bay Newspapers v AW Holdings (1996)).
+  - Step 4: Does s 43A Apply? (Statutory Protection for Unregistered Interests)
+    - s 43A converts an unregistered interest into a "deemed legal estate" before registration.
+    - Protects bona fide purchasers from unregistered equitable interests.
+    - Does not protect against fraud (RPA s 42).
+    - Elements of s 43A Protection (IAC v Courtenay (1963); Taleb v NAB (2011))
+      - 1. Purchaser for Value – Must give valuable consideration (Diemasters v Meadowcorp (2001)).
+      - 2. Registered Interest or Pending Registration – Interest must be registrable (Courtenay v Austin (1962)).
+      - 3. Absence of Actual Knowledge –
+        - Constructive notice is irrelevant (Bahr v Nicolay (No 2) (1988)).
+        - If actual knowledge exists, s 43A does not apply (Mercantile Credits v Shell (1976)).
+      - 4. Dealing Must Be Immediately Registrable – The party must be able to register without needing another dealing to be registered first (IAC v Courtenay).
+      - 5. Successive Effect Rule (Wilkes v Spooner (1911)) – If s 43A protects one purchaser, it protects later purchasers who claim through them.
+    - When Does s 43A NOT Apply?
+      - If the dealing is not immediately registrable (IAC v Courtenay).
+      - If the party had actual notice before settlement (Taleb v NAB).
+      - If a caveat was lodged before settlement (Barlin Investments v Westpac (2012)).
+  - Step 5: Remedies for a Disadvantaged Interest Holder
+    - 1. Proprietary Remedies
+      - Constructive trust – If denying the interest would be unconscionable (Baumgartner v Baumgartner).
+      - Vendor’s lien – If the seller hasn’t been paid.
+    - 2. Personal Remedies
+      - Equitable compensation – If loss is suffered (Ancient Order of Foresters v Lifeplan (2018)).
+      - Specific performance – If the contract is enforceable.
+    - 3. Injunctions or Caveats
+      - Caveats prevent dealings (RPA s 74F).
+      - Injunctions can stop fraudulent transfers.
+- Summary Table of Priority Rules
+
+First Interest (Earlier in Time)
+Second Interest (Later in Time)
+Who Wins?	
+Case Law & Statutes
+Legal vs. Legal	
+Another Legal Interest
+First in time	
+Nemo Dat
+Legal vs. Equitable	
+Later Equitable Interest	
+Legal wins, unless negligent	
+Northern Counties v Whipp
+Equitable vs. Equitable
+Later Equitable Interest	
+First in time, unless merits favour later interest	
+Breskvar v Wall
+Unregistered vs. Unregistered	
+Later Bona Fide Purchaser	
+Bona fide purchaser wins	
+RPA s 43A, Pilcher v Rawlins
+
+Summary of Key Cases for Priority Between Unregistered Interests
+Issue
+Case
+Principle
+First in time rule
+Breskvar v Wall (1971)
+First equitable interest prevails unless later interest has better equity
+Negligence postponing priority
+Northern Counties Fire Insurance v Whipp (1884)
+Negligence in securing title may postpone legal interest
+Failure to retain title deeds
+Walker v Linom (1907)
+Failing to secure title can postpone priority
+Constructive notice from occupation
+Hunt v Luck (1902)
+Occupation gives constructive notice of an unregistered interest
+Bona fide purchaser for value without notice
+Pilcher v Rawlins (1872)
+Later legal interest defeats prior equitable interest if taken in good faith
+Mere equity vs later equitable interest
+Latec Investments v Hotel Terrigal (1965)
+Mere equity is weaker than a full equitable interest
+s 43A successive effect
+Wilkes v Spooner (1911)
+s 43A protection passes to successors
+s 43A must be registrable
+IAC v Courtenay (1963)
+s 43A does not apply if the dealing is not immediately registrable
+Caveat lodged before settlement
+Barlin Investments v Westpac (2012)
+Caveat lodged first prevents later unregistered interests from relying on s 43A
+
+
+
+  - TL;DR – Key Takeaways
+    - Deeds required for legal interests (s 23B), writing for equitable interests (s 23C).
+    - Exceptions: Short-term leases (s 23D(2)), part performance (s 23E).
+    - Priority rules apply (legal > equitable; first in time).
+    - Torrens protections (s 43A RPA) can protect unregistered interests.
+
+Priority Disputes
+- Step 1: Identify the Type of Interest & Applicable Formalities
+  - Is the interest legal or equitable?
+  - Statutory requirements:
+    - Legal interest → Must be created by deed (Conveyancing Act 1919 (NSW) s 23B). OR s 43A DURING NOTICE CLAIMS
+    - Equitable interest → Must be in writing (s 23C(1)).
+    - Short-term lease exception (s 23D(2)) → Leases ≤3 years do not require writing or a deed.
+  - Has the correct formality been satisfied?
+    - If deed required → Must be signed, sealed, and attested (s 38).
+    - If writing required → Must be signed by the transferor (s 23C(1)).
+    - If the formality is missing, consider whether equity can assist.
+  - Legal Test: What is a Deed?
+    - For a document to be a deed:
+      - It must expressly state it is a deed (s 38(3));
+      - It must be signed, sealed, and attested by at least one witness;
+      - If contested, the court will assess the intention of the parties (Manton v Parabolic).
+  - Key Case Law:
+    - Manton v Parabolic (1985) 2 NSWLR 361 – Statutory forms can function as deeds even if not explicitly stated.
+    - Farah Constructions v Say-Dee (2007) 230 CLR 89 – Information is not “property” and cannot be subject to an equitable interest under s 23C.
+- Step 2: If Formalities Are Not Met, Can Equity Assist?
+  - Does an equitable doctrine validate the interest?
+    - If there is no valid deed or writing, check whether equity can enforce the agreement.
+    - 1. Part Performance Test (s 23E, Maddison v Alderson (1883) 8 App Cas 467)
+      - To invoke part performance, two requirements must be met (Maddison v Alderson):
+        - There must be an oral contract concerning the land; and
+        - The acts relied on must be unequivocally referable to that contract.
+      - What is NOT enough?
+        - Payment alone is insufficient (Maddison v Alderson).
+        - Preparatory acts do not suffice (Cooney v Burns (1922) 30 CLR 216).
+    - 2. Resulting or Constructive Trust? (s 23C(2))
+      - A resulting trust arises where the claimant has contributed to the property but is not on the title (Muschinski v Dodds (1985) 160 CLR 583).
+      - A constructive trust can be imposed where denying the interest would be unconscionable (Baumgartner v Baumgartner (1987) 164 CLR 137).
+    - 3. Equitable Lease Test (Walsh v Lonsdale (1882))
+      - Where a lease does not comply with the formalities, an equitable lease will arise if:
+        - 1. There is a valid agreement to lease; and
+        - 2. Specific performance is available (Walsh v Lonsdale).
+      - Key Case Law:
+        - Maddison v Alderson – Acts of part performance must be referable to the contract alone.
+        - Cooney v Burns – Preparatory acts do not count as part performance.
+        - Walsh v Lonsdale – Equity treats as done that which ought to be done.
+- Step 3: If There Are Competing Interests, Identify Priority Rules
+  - Is it a legal vs. legal dispute?
+    - First in time prevails (Nemo Dat Quod Non Habet).
+    - Does notice come up? s 43A
+      - Does s 43A apply?
+        - Elements
+          - 1. Purchaser for Value:
+            - The person acquiring the interest must have provided valuable consideration (e.g., money or something of value).
+            - Donees (i.e., those receiving property as a gift) are not protected.
+          - 2. Registered Interest or Pending Registration:
+            - The interest must be capable of registration under the Torrens system.
+            - Includes transfers, mortgages, leases, and easements over registered land.
+          - 3. Absence of Actual Knowledge:
+            - The purchaser must not have actual knowledge of an unregistered interest before acquiring their interest.
+            - Constructive or imputed notice is insufficient (cf Bahr v Nicolay (No 2) (1988) 164 CLR 604).
+          - 4. Unregistered Interest Must Not Be Lodged Prior to Settlement:
+            - If an unregistered interest is already lodged with the Land Registry before the purchaser's registration, they may not be protected.
+        - Application of s 43A in Priority Disputes:
+          - Protects bona fide purchasers from unregistered equitable interests.
+          - Overrides the doctrine of notice in equity, reinforcing the Torrens principle of indefeasibility. Upgrades to deed/creates legal right (subsequent legal interest)
+          - Does not protect against fraud (s 42 RPA – fraud exception).
+        - Exceptions to s 43A Protection:
+          - If the purchaser has actual knowledge of an unregistered interest (Mercantile Credits Ltd v Shell Co of Australia Ltd (1976) 136 CLR 326).
+          - If the unregistered interest is registered before the purchaser’s interest is lodged.
+          - Fraud (s 42 Real Property Act).
+  - Legal vs. Equitable Dispute → Legal Interest Wins Unless...
+    - 1. The legal owner acted negligently (Northern Counties Fire Insurance v Whipp (1884) 26 Ch D 482);
+    - 2. The legal owner enabled the creation of the equitable interest (Walker v Linom (1907)).
+  - Equitable vs. Equitable Dispute → First in Time Unless the Later Interest Has a Better Equity
+    - First in time prevails unless the later interest has stronger merits (Breskvar v Wall (1971) 126 CLR 376).
+    - Consider:
+      - Notice – Did the later equitable owner have notice of the earlier one?
+      - Conduct – Did the earlier equitable owner act negligently?
+    - Key Case Law:
+      - Northern Counties v Whipp – Negligence alone does not postpone a legal interest.
+      - Walker v Linom – Failure to retain title deeds may postpone a legal interest.
+      - Breskvar v Wall – Later equitable interests may have priority if the first is defective or inequitable.
+- Step 4: If the Land is Torrens Title, Apply the Real Property Act 1900 (NSW)
+  - Registered vs. Unregistered Interests
+    - Registered interests prevail (RPA s 41).
+    - Unregistered interests may still be protected under s 43A.
+  - Statutory Protection of Unregistered Interests (s 43A Test)
+    - To be protected under s 43A, the interest holder must:
+      - Be bona fide (Diemasters v Meadowcorp (2001) 52 NSWLR 572);
+      - Have given value (Westpac v Ollis (2008) NSWSC 824);
+      - Have a registrable dealing (Courtenay v Austin (1962) NSWR 296).
+    - When does s 43A NOT apply?
+      - If the dealing is not immediately registrable (IAC v Courtenay).
+      - If the party had actual or constructive notice before settlement (Taleb v NAB).
+  - Successive Effect Doctrine (Wilkes v Spooner [1911] 2 KB 473)
+    - If a bona fide purchaser for value without notice acquires an interest, all subsequent holders inherit their protection.
+    - Key Case Law:
+      - Courtenay v Austin – s 43A requires prompt lodgment.
+      - Taleb v NAB (2011) 82 NSWLR 489 – A mortgage was not "registrable" until stamped, so no s 43A protection.
+      - Barlin Investments v Westpac (2012) NSWSC 699 – Westpac's interest had priority due to lack of a caveat.
+- Step 5: Identify Available Remedies
+  - Proprietary remedies: 
+    - Constructive trust (if unconscionability is present).
+    - Vendor’s lien (if the seller hasn’t been paid)
+  - Personal remedies: 
+    - Equitable compensation (if loss is suffered).
+    - Specific performance (if the contract is enforceable).
+  - Injunctions or caveats: 
+    - Caveats prevent dealings (Real Property Act 1900 (NSW) s 74F).
+    - Injunctions can stop fraudulent transfers.
+  - Key Case Law:
+    - Ancient Order of Foresters v Lifeplan (2018) 265 CLR 1 – Remedies vary based on the degree of dishonesty.
+    - Latec Investments v Hotel Terrigal (1965) 113 CLR 265 – Mere equities can be defeated by later equitable interests taken in good faith.
+### Week 6: Co-Ownership
+
+- 1. What is Co-ownership?
+  - When two or more persons hold concurrent interests in the same parcel of land.
+  - Each co-owner has a right to possess the whole property (unity of possession).
+  - Two types:
+    - Joint Tenancy (JT)
+    - Tenancy in Common (TiC)
+- 2. Joint Tenancy (JT)
+  - Each JT owns the whole of the interest.
+    - Includes the right of survivorship (jus accrescendi): interest passes to remaining JTs upon death.
+    - Cannot be passed by will.
+    - Requires four unities:
+      - Unity of Possession (equal right to possess)
+      - Unity of Interest (equal shares)
+      - Unity of Title (same document/source)
+      - Unity of Time (acquired at the same time)
+  - Creation Presumptions:
+    - Common law: Presumes JT.
+    - Now: s 26(1) Conveyancing Act 1919 (NSW):
+      - Presumes TiC unless expressly stated otherwise.
+      - Applies to both law and equity: Delehunt v Carmody.
+- 3. Tenancy in Common (TiC)
+  - Co-owners hold distinct, undivided shares.
+  - No right of survivorship – interests pass by will/intestacy.
+  - Only unity of possession required.
+- 4. Legal vs Equitable Interests
+  - Always assess legal title and beneficial interest separately.
+    - Legal title: Registered interest or deed.
+    - Equity: Follows the law unless:
+      - 1. Unequal contributions to purchase price
+      - 2. Mortgage/loan payments made by one co-owner
+      - 3. Property acquired as partnership or joint business venture
+  - Delehunt v Carmody (1986) – s 26 applies to both legal and equitable co-ownership.
+- 5. Co-ownership under Torrens System
+  - s 100(1) Real Property Act 1900 (NSW):
+    - Registered co-owners are presumed to hold as JTs, subject to contrary intention.
+  - JT rules apply, but with exceptions:
+    - Fraud by one JT may not bind others (Cassegrain v Cassegrain (2015)).
+- 6. Severance of Joint Tenancy
+  - Severance = Converts JT to TiC (destroys right of survivorship)
+  - Ways to Sever:
+    - 1. Unilateral Act by JT
+      - Transfer to third party
+      - Transfer to self (s 97 RPA)
+      - Declaration of trust (s 23C(1)(b) Conveyancing Act)
+  - Wright v Gibbons (1949) – equitable severance via enforceable agreement
+  - McCoy v Caelli [2008] – no severance without registration
+  - Corin v Patton (1990) – donor must do all necessary acts for severance
+    - 2. Mutual Agreement
+      - Oral or written
+      - Lysaght v Edwards, Lyons v Lyons, Burgess v Rawnsley
+    - 3. Course of Dealing
+      - Conduct showing mutual assumption of separate shares
+      - Williams v Hensman (1861)
+    - 4. Court Order
+      - Under Family Law Act or s 66G Conveyancing Act (trust for sale/partition)
+    - 5. Unlawful Killing
+      - Forfeiture rule: killer cannot benefit from survivorship
+      - Forfeiture Act 1995 (NSW) s 5: court may vary rule in interests of justice
+    - 6. Bankruptcy
+      - Severs JT at law when trustee takes over: s 58 Bankruptcy Act 1966
+      - Equity: severance occurs at declaration of bankruptcy (Re Holland)
+- 7. Ending Co-ownership
+  - By Parties:
+    - Sale to third party
+    - Buyout by one co-owner
+    - Partition (physical division)		
+  - By Court:
+    - s 66G Conveyancing Act 1919 (NSW):
+    - Any co-owner may apply
+    - Default = sale
+    - Partition only in exceptional circumstances (Re Cordingley (1948))
+  - Segal v Barel (2013) 84 NSWLR 193 – s 66G allows equitable accounting and orders for sale.
+- 8. Rights Inter Se Between Co-Owners
+  - Concerns financial adjustment between co-owners after breakdown or dispute.
+  - A. Contributions
+    - Co-owner may claim equitable contribution for:
+      - Mortgage repayments
+      - Purchase price
+      - Renovations/improvements
+    - Callow v Rupchev [2009] NSWCA 148 – contributions payable even if made by third-party company controlled by co-owner.
+  - B. Occupation Rent / Mesne Profits
+    - Occupation Rent = compensation payable by one co-owner in exclusive occupation to another.
+    - Requirements:
+      - There must be ouster (actual or constructive)
+      - Occupying co-owner derives benefit
+      - Non-occupying co-owner cannot reasonably return
+    - Types of Ouster:
+      - Actual Ouster: physical or legal exclusion
+      - Constructive Ouster: practical impossibility of return (e.g., family violence, breakdown)
+    - Callow v Rupchev – constructive ouster applies post-relationship
+    - Re Pavlou (1993); Dennis v McDonald [1982] Fam 63 – leading UK cases
+    - Biviano v Natoli (1998) 43 NSWLR 695 – AVO = lawful exclusion, not ouster
+    - Denial of title in legal proceedings can = ouster (Biviano v Natoli)
+  - C. Quantum of Occupation Rent
+    - Not rent – it’s mesne profits
+    - Usually calculated as ½ of market rental value
+    - Only for period of actual occupation
+    - Rental income may also be shared
+- 9. Key Case Summary Table
+Case
+Principle
+Delehunt v Carmody
+s 26 CA applies to equity – presumes TiC
+Wright v Gibbons
+Transfer to another JT may sever JT
+Corin v Patton
+Must do all acts for severance
+Callow v Rupchev
+Constructive ouster + set-off occupation rent
+Biviano v Natoli
+AVO ≠ ouster; denial in pleadings = ouster
+Segal v Barel
+s 66G sale + equitable accounting
+McCoy v Caelli
+Severance failed without registration
+
+- Week 6 – Exam Answer Formula Co-Ownership (NSW)
+  - Step 1: Identify the Legal and Equitable Interests of Each Party
+    - 1.1. Determine the legal title
+      - Who is the registered proprietor on the certificate of title?
+      - Real Property Act 1900 (NSW) s 100(1): Registered co-owners are presumed to be joint tenants, unless otherwise stated.
+    - 1.2. Determine the equitable interest
+      - Has the beneficial interest been affected by contributions, agreements, or trusts?
+      - Conveyancing Act 1919 (NSW) s 26(1): A disposition to two or more people presumes a tenancy in common, unless the instrument expressly creates a joint tenancy (s 26(2)).
+      - Equity will follow the law, unless there are contrary indications.
+    - Case: Delehunt v Carmody (1986) 161 CLR 464 – s 26 applies to equity; equal contributions are insufficient to rebut the tenancy in common presumption.
+  - Step 2: Classify the Type of Co-Ownership
+    - 2.1. Joint Tenancy
+      - Each co-owner holds the whole.
+      - Right of survivorship applies: the surviving joint tenant takes the entire interest.
+      - Requires the four unities: possession, interest (equal), title (same instrument), time (acquired simultaneously).
+    - 2.2. Tenancy in Common
+      - Co-owners hold undivided shares (which may be unequal).
+      - No right of survivorship – interest passes under will or intestacy.
+      - Only unity required is possession.
+  - Step 3: Determine Whether the Joint Tenancy Has Been Severed
+    - 3.1. Severance converts a joint tenancy into a tenancy in common.
+      - A joint tenancy may be severed in the following ways:
+      - (a) Unilateral act by one joint tenant
+        - Transfer to third party:
+          - Effective at law when registered under Real Property Act 1900 (NSW) s 42.
+          - Effective in equity via enforceable contract: Wright v Gibbons (1949) 78 CLR 313.
+        - Transfer to self:
+          - RPA s 97: A joint tenant may sever by transferring to themselves.
+          - Must be registered.
+          - McCoy v Caelli [2008] NSWSC 986 – unregistered transfer ineffective.
+        - Declaration of trust:
+          - Must comply with Conveyancing Act s 23C(1)(b) (in writing).
+          - Corin v Patton (1990) 169 CLR 540 – donor must do all within their power to perfect transfer.
+      - (b) Mutual agreement
+        - Express or implied agreement between co-owners to hold as tenants in common.
+        - Lysaght v Edwards (1876) 2 Ch D 499.
+      - (c) Course of dealing
+        - Conduct from which a common intention can be inferred to hold separate shares.
+        - Williams v Hensman (1861) 70 ER 862.
+        - Must show assumption by all co-owners of separate ownership.
+      - (d) Court order
+        - Conveyancing Act 1919 (NSW) s 66G : Statutory trust for sale may imply severance.
+        - Orders under Family Law Act 1975 (Cth) may also sever.
+      - (e) Unlawful killing
+        - The forfeiture rule prevents a co-owner who unlawfully kills the other from taking the entire interest.
+        - See Forfeiture Act 1995 (NSW) ss 4–5.
+      - (f) Bankruptcy
+        - Bankruptcy Act 1966 (Cth) s 58: Bankruptcy vests property in trustee – severs joint tenancy at law.
+        - Re Holland – severance occurs in equity at the date of act of bankruptcy.
+  - Step 4: Equitable Accounting and Rights Inter Se Between Co-Owners
+    - 4.1. Contribution to acquisition, mortgage, or improvements
+      - A co-owner may seek contribution for:
+        - Mortgage repayments,
+        - Acquisition costs,
+        - Permanent improvements.
+      - Reimbursement is assessed at sale, offset against other claims.
+    - 4.2. Occupation Rent / Mesne Profits
+      - Is an occupation rent payable?
+        - Generally not unless there has been an ouster.
+      - Traditional Ouster Test
+        - Exclusion from possession must be wrongful or intentional.
+        - Luke v Luke (1936) 36 SR (NSW) 310.
+      - Constructive Ouster Test
+        - Arises when domestic relationship breaks down, making co-occupation unreasonable.
+        - Dennis v McDonald [1982] Fam 63 – exclusive occupation post-breakdown may trigger rent.
+        - Re Pavlou (A Bankrupt) [1993] 1 WLR 1046 – presumption of ouster if one co-owner remains in former matrimonial home.
+      - Case: Callow v Rupchev [2009] NSWCA 148
+        - Held: Occupation rent may be payable where the relationship has broken down and continued joint living is unreasonable.
+        - However, rent is only payable for periods of actual occupation and financial benefit.
+      - Case: Biviano v Natoli (1998) 43 NSWLR 695
+        - AVO excluding one party is not an ouster.
+        - Ouster occurred when co-owner denied title in legal proceedings.
+        - Occupation rent awarded from the date of denial of title.
+      - Set-off
+        - Occupation rent may be set off against a claim for mortgage contributions or improvements.
+  - Step 5: Ending Co-Ownership
+    - 5.1. By agreement or sale
+      - Parties may transfer, partition, or buy out each other’s interests.
+      - May trigger capital gains tax or stamp duty depending on context.
+    - 5.2. By court order – s 66G Conveyancing Act
+      - Co-owner may apply for appointment of statutory trustees for sale or partition.
+      - Sale is the default remedy; partition is granted in exceptional circumstances.
+      - Re Cordingley (1948) 48 SR (NSW) 248 – sale preferable when physical division impractical.
+      - Case: Segal v Barel (2013) 84 NSWLR 193
+        - Confirmed court’s discretion to appoint trustees under s 66G.
+        - Equitable adjustments may be made before distribution.
+    - 5.3. Equitable accounting on termination
+      - Court will adjust shares to reflect:
+        - Contribution to purchase/mortgage,
+        - Occupation rent,
+        - Improvements,
+        - Outgoings and income (e.g., rent).
+  - Step 6: Final Remedies and Distribution
+    - Declaration of shares (e.g., 70/30).
+    - Sale of property and division of proceeds.
+    - Equitable set-off applied (occupation rent vs contribution).
+    - Orders for occupation fees or contribution payments.
+    - Costs may follow the outcome (Biviano v Natoli – 75% costs ordered against unsuccessful appellant).
+### Week 7: Strata
+
+- 1. Key Legislation
+  - Strata Schemes Development Act 2015 (NSW) (SSDA)
+  - Strata Schemes Management Act 2015 (NSW) (SSMA)
+- 2. What Is Strata?
+  - Strata title = system of land subdivision into lots and common property.
+  - Registered under SSDA; governed by SSMA.
+    - “Lots are... cubes of airspace... common property is the rest of the parcel not part of any lot” – Segal v Barel [2013] NSWCA 92 (per Barrett JA)
+- 3. Key Definitions (SSDA s 4)
+  - Lot: Cubic space, bounded by inner surfaces of walls, floor, and ceiling.
+  - Common Property: Any part of the parcel not in a lot (e.g., gardens, driveways, exterior walls).
+  - Unit Entitlement: Specifies share of ownership/voting/levies for each lot.
+- 4. Subdivision & Creation of Strata (SSDA)
+  - s 9: Land (whole or part of a building) can be subdivided by registration of a strata plan.
+  - s 10: Plan must include:
+    - Location plan, floor plan, administration sheet.
+    - Proposed schedule of unit entitlement.
+  - s 24: On registration:
+    - Common property vests in the Owners Corporation.
+    - Registrar-General creates folio of title for common property.
+- 5. Owners Corporation
+  - Constituted: All lot owners form a body corporate (SSMA s 8(1)) → e.g., "The Owners—Strata Plan No X".
+  - Function: Appoints a strata committee (SSMA s 29); committee decisions are OC decisions.
+- 6. Responsibilities of Owners Corporation (SSMA s 9)
+  - Principal Functions:
+    - Manage the scheme
+    - Control common property use
+    - Administer scheme for the benefit of owners
+- 7. Five Key Management Areas (SSMA)
+  - 7.1 Financial Management (Pt 5)
+    - Administrative Fund (SSMA s 73): Recurrent expenses.
+    - Capital Works Fund (s 74): Long-term repairs; 10-year plan required (s 80).
+    - Distributing Surplus (s 77): By unanimous resolution, in proportion to unit entitlements.
+  - 7.2 Property Management (Pt 6)
+    - Maintenance Obligation (s 106(1)–(2)): OC must keep common property and vested personal property in good repair.
+    - Exception (s 106(3)): Special resolution not to repair if:
+      - a) inappropriate, and
+      - b) doesn’t affect safety or appearance.
+    - Case Law:
+      - Strata Plan No 6522 v Furney [1976] 1 NSWLR 412: “Repair” includes necessary additions.
+      - The Proprietors – Strata Plan No 30234 v Margiz: OC not required to upgrade or replace discrete system (air con).
+      - The Owners – Strata Plan 21702 v Krimbogiannis [2014] NSWCA 411: s 106 implies right of entry (see s 122).
+  - 7.3 Insurance (Pt 9)
+    - s 160–161: Must insure building for damage, restoration, and replacement.
+    - s 164: Must hold workers' comp and public liability insurance.
+  - 7.4 Records & Accounts (Pt 10)
+    - Strata roll (s 177): Owner names, addresses, unit entitlements, insurance details.
+    - Must retain notices, meeting minutes, financial records.
+  - 7.5 Building Defects (Pt 11)
+    - Developer must post 2% bond for defects.
+    - Applies for 24 months post-construction.
+- 8. By-Laws (SSMA Pt 6, Div 3)
+  - 8.1 Making & Content
+    - s 136: Can regulate use, enjoyment, and administration of lots and common property.
+    - Generous Interpretation: Casuarina Rec Club Pty Ltd v The Owners– Strata Plan 77971 (2011) 80 NSWLR 711
+      - By-law valid if enhances use/enjoyment of lots, even off-site (e.g. external gym access).
+  - 8.2 Limitations on By-Laws
+    - s 136(2): Cannot conflict with Act or law.
+    - s 137(1)–(2): May limit adults in a lot, but not <2 per bedroom.
+    - s 137B: Cannot unreasonably prohibit animals; presumed reasonable to keep one unless proven otherwise.
+    - s 139(1): Cannot be harsh, unconscionable or oppressive.
+    - s 139(2): Cannot restrict dealing with a lot (lease, sale, etc.).
+      - Salerno v Proprietors 42724 (1997) 8 BPR 15,457: By-law banning smoking ≠ invalid just because it discourages leasing to smokers.
+    - s 139(4): Cannot prohibit children (except in aged housing).
+    - s 139A (2023): Must not restrict assistance animals.
+- 9. Enforcement (SSMA s 146)
+  - Breach: Owners Corporation may issue notice to comply (must include by-law and be approved by committee or general meeting).
+  - Penalties:
+    - Standard: 10 units = $1,100; repeat offence = 20 units = $2,200.
+    - Breach of occupancy limits: Up to 100 units = $11,000.
+- 10. Termination of Strata Schemes (SSDA Pt 10)
+  - 10.1 Termination by Court (s 135):
+    - Who may apply: Owner, OC, mortgagee, etc.
+    - Notice must be served on all relevant parties.
+  - 10.2 Termination by Registrar-General (s 142):
+    - Requires publication in newspapers (s 142(2)), and signed consent of all owners (s 142(3)).
+  - 10.3 Termination via Strata Renewal Process (s 154–176):
+    - Requires 75% owner support.
+    - Approval by:
+      - Strata committee (s 158)
+      - General meeting
+      - Registrar-General
+    - Compensation: All owners receive market value (s 171(2)).
+- Exam Answer Scaffold: Strata Title (NSW)
+  - 1. Is the land subject to a strata scheme?
+    - 1.1. Confirm the land is subdivided under Strata Schemes Development Act 2015 (NSW).
+      - 1.2. Identify whether the issue concerns: 
+        - a lot (SSDA s 4); or
+        - common property (SSDA s 4).
+  - 2. Who holds title or responsibility?
+    - 2.1. Lot owners hold individual titles (Segal v Barel [2013] NSWCA 92).
+    - 2.2. Common property vests in the Owners Corporation (SSDA s 24).
+  - 3. What are the duties of the Owners Corporation?
+    - 3.1. Primary duties under SSMA s 9:
+      - Maintain and repair common property (s 106(1)–(2)).
+      - Exception: Special resolution under s 106(3).
+    - 3.2. Right of access to carry out work implied (The Owners – Strata Plan 21702 v Krimbogiannis [2014] NSWCA 411)
+  - 4. Is the dispute about financial management?
+    - 4.1. Identify relevant fund:
+      - Recurrent costs → Administrative Fund (SSMA s 73).
+      - Major works → Capital Works Fund (s 74).
+      - Surplus distribution → s 77 (requires unanimous resolution).
+  - 5. Does it involve a by-law?
+    - 5.1. Is the by-law valid under s 136 (proper subject matter)?
+    - 5.2. Does it comply with limits:
+      - s 137B – animal rule
+      - s 139 – no harshness, no restriction on dealings or children
+      - s 139A – no restriction on assistance animals
+    - 5.3. Case application:
+      - Casuarina Rec Club – validity extends to external amenities
+      - Salerno – by-law may discourage lease but not invalidate it
+  - 6. Enforcement Options
+    - 6.1. Has a notice been issued under s 146?
+    - 6.2. Penalty applicable? (e.g. 10, 20, 50 or 100 penalty units)
+  - 7. Is it a termination issue?
+    - 7.1. Identify method:
+      - By court (s 135 SSDA)
+      - By unanimous consent (s 142 SSDA)
+      - By strata renewal (s 154, 158, 171 SSDA)
+### Week 8: Leases
+
+- 1. Lease vs Licence
+  - Key Distinction
+    - Lease = grants a proprietary interest (estate in land)
+    - Licence = mere personal permission
+    - Core Test: Exclusive Possession
+      - Radaich v Smith (1959) 101 CLR 209
+        - “The test is not the label used, but whether exclusive possession has been granted.”
+  - Types of Licences
+    - Bare Licence
+      - No consideration
+      - Personal, revocable at will, non-assignable
+    - Contractual Licence
+      - With consideration
+      - Revocable as per contract terms, not binding on third parties
+    - Licence coupled with proprietary interest
+      - E.g. profit à prendre
+      - Assignable and irrevocable while the interest subsists
+  - Key Cases
+    - Radaich v Smith – licence labelled lease held to be lease due to exclusive possession
+    - Swan v Uecker [2016] VSC 313 – AirBnB licence held to be lease due to factual exclusivity
+- 2. Types of Tenancies
+  - Fixed-term lease – definite start and end dates (e.g. 5 years)
+  - Periodic tenancy – repeats based on rental period (e.g. month-to-month)
+  - Tenancy at will – can be terminated at any time by either party
+  - Tenancy at sufferance – lessee holds over after lease expiry without consent
+- 3. Essentials of a Lease
+  - Exclusive possession
+    - Lessee has control, can exclude even the lessor
+    - Radaich v Smith, Lewis v Bell, Swan v Uecker
+  - Certainty of term
+    - Must have clear or ascertainable commencement and termination
+    - If uncertain → void at common law
+  - Proper form
+    - Writing required for enforceability (if over 3 years – see below)
+- 4. Formalities for Valid Lease
+Lease Length
+Requirements
+Authority
+≥ 3 years
+Must be in writing, in the proper form, and registered
+Real Property Act 1900 (NSW) s 53
+< 3 years
+Oral/writing okay, legal if: best rent, no fine, in possession
+Conveyancing Act 1919 (NSW) s 23D(2)
+Unregistered Lease
+May be enforceable in equity
+Walsh v Lonsdale (1882) 21 Ch D 9
+
+  - Walsh v Lonsdale rule:
+    - Equity treats contract to lease as lease if:
+      - Final/enforceable contract (with consideration)
+      - In writing (s 54A CA) or part performance (s 23E CA)
+      - Equity would grant specific performance
+- 5. Lease as Dual Interest
+  - Contractual – binding terms and remedies
+  - Proprietary – interest in land (e.g. enforceable against successors)
+- 6. Common Law & Statutory Covenants
+  - Lessor’s Obligations
+    - Quiet Enjoyment
+      - No substantial interference
+      - Southwark LBC v Mills [1999] 3 WLR 939
+    - Non-Derogation from Grant
+      - Lessor must not frustrate use of premises
+      - Aussie Traveller Pty Ltd v Marklea Pty Ltd [1998] 1 Qd R 1
+      - Nordenfelt v Maxim Nordenfelt Guns [1894] AC 535
+  - Lessee’s Obligations
+    - Use in tenant-like manner
+    - Pay rent	
+    - Yield up possession
+    - Not to commit waste
+    - Allow inspections and repairs
+    - Conveyancing Act 1919 (NSW) ss 84–85
+- 🧠 Exam Scaffold – Is This a Lease? Has it Been Validly Created?
+  - Step 1: Classify the arrangement
+    - Is it lease or licence?
+      - Apply exclusive possession test → Radaich v Smith
+      - Look at terms and surrounding facts → Swan v Uecker
+      - Consider:
+        - Right to exclude others?
+        - Retained access by grantor?
+        - Control over use (rules, conditions)?
+        - Rent paid?
+        - Fixed space?
+      - If no exclusive possession → licence
+      - If exclusive possession + rent + term → presumptively a lease
+  - Step 2: Confirm essential characteristics
+    - Exclusive possession: factual control of premises?
+    - Certainty of term: fixed or ascertainable start/end dates?
+    - Proper form: deed or signed writing? (if required)
+  - Step 3: What type of tenancy exists?
+    - Fixed term? Periodic? At will? At sufferance?
+    - Periodic tenancy → implied if possession + rent paid by period (e.g. monthly)
+    - Tenancy at will → occupier with consent, no fixed term, either party may terminate
+    - Tenancy at sufferance → holding over after lease ends, without consent
+  - Step 4: Check formal validity
+    - A. Legal Lease (under Conveyancing Act 1919 (NSW) s 23D(2))
+      - If < 3 years:
+        - Takes effect in possession
+        - At best rent
+        - No fine/premium
+      - If ≥ 3 years:
+        - Must be in writing and registered → RPA s 53
+    - B. Equitable lease
+      - Apply Walsh v Lonsdale:
+        - Final and enforceable agreement?
+        - In writing (s 54A CA) or supported by part performance (s 23E)?
+        - Specific performance available?
+      - If yes -> equitable lease
+  - Step 5: What are the parties’ rights and obligations?
+    - Lessor:
+      - Quiet enjoyment → Southwark LBC v Mills
+      - Non-derogation from grant → Aussie Traveller v Marklea; Nordenfelt v Maxim Nordenfelt
+      - Provide express services (e.g. access, maintenance)
+    - Lessee:	
+      - Pay rent and use properly
+      - Repair obligations (as limited by s 85 CA)
+      - Avoid waste (s 84–85 CA 1919)
+      - Yield up possession
+  - Step 6: Consider remedies
+    - Breach of covenant:
+      - Injunction
+      - Damages
+      - Possession order / ejectment
+      - Forfeiture (subject to notice, waiver, s 129 CA 1919)
+    - Possession:
+      - Ejectment if tenant at sufferance or wilfully holds over
+### Week 9: Leases II
+
+- 1. Assignment vs Sublease
+  - Assignment
+    - The tenant transfers their entire interest in the lease to a third party (assignee).
+    - The assignee steps into the shoes of the original tenant and becomes liable under covenants where privity exist
+  - Sublease
+    - The tenant carves out a lesser estate from the leasehold.
+    - The original tenant remains liable to the landlord and becomes a sub-lessor to the new subtenant.
+    - Must be for less than the full term of the headlease (otherwise treated as an assignment).
+- 2. Types of Privity and Their Legal Effects
+  - Privity of Contract
+    - Exists between the original landlord and original tenant.
+    - Survives assignment unless specifically novated.
+    - Covenants remain enforceable as contractual obligations between original parties: Conveyancing Act 1919 (NSW) s 70A(1).
+  - Privity of Estate
+    - Exists where both parties hold legal estates in the same property.
+    - Only applies to covenants that “touch and concern” the land (see 3. below).
+    - Lost when the interest is fully transferred or expired.
+- 3. When Do Covenants Bind Assignees?
+  - At Common Law: Rule in Spencer’s Case (1583)
+    - A covenant will bind an assignee if it touches and concerns the land, and there is privity of estate.
+    - A covenant touches and concerns the land where:
+      - It affects the nature, quality, mode of use, or value of the land (Swift Investments Ltd v Combined English Stores Group plc).
+      - It benefits the reversioner or lessee for the time being.
+      - It is not purely personal.
+  - Examples of enforceable covenants:
+    - Obligation to pay rent.
+    - Obligation to repair (continuing).
+    - No assignment without consent.
+    - Use premises for a particular purpose.
+  - RPA s 51 (Torrens Title leases)
+    - Overrides Spencer’s Case: all covenants are enforceable against the assignee regardless of whether they touch and concern, if the lease is registered.
+  - Karacominakis v Big Country Developments Pty Ltd
+    - Held: assignee is bound by all lease covenants, not just those touching and concerning land, when the lease is registered under the RPA.
+- 4. Effect of Assignment – Liability for Past Breaches
+  - Assignee
+    - Only liable for breaches committed during their tenancy.
+    - Not liable for past breaches unless the breach is continuing (e.g. unremedied disrepair): Progressive Mailing House Pty Ltd v Tabali Pty Ltd.
+  - Original Tenant
+    - Remains liable under privity of contract even after assigning their interest.
+  - Indemnity
+    - Original tenant may recover from assignee who caused the loss: Karacominakis v Big Country.
+- 5. Assignment of the Reversion (Landlord Transfers Their Interest)
+  - Conveyancing Act 1919 (NSW)
+    - s 117: Benefit of landlord covenants passes to the assignee of the reversion.
+    - s 118: Burden of landlord covenants binds the assignee.
+  - Statutory rights arise whether lease is legal or equitable: privity of estate is not required for these sections to apply.
+  - Example – Rachel assigns reversion to Bob:
+    - Tenant can sue Bob (new landlord) for continuing breaches by Rachel (original landlord), such as failure to make agreed improvements: CA s 118.
+- 6. Covenants Against Assignment
+  - Absolute Covenants
+    - Prohibit all assignments, strictly construed.
+  - Qualified Covenants
+    - Allow assignment with landlord's consent.
+    - Consent cannot be unreasonably withheld: Conveyancing Act 1919 (NSW) ss 132, 133B.
+    - JA McBeath Nominees Pty Ltd v Jenkins Development Corporation: Reasonableness assessed by reference to impact on landlord’s property interest.
+  - Effect of Breach
+    - Assignment is not void, but landlord may elect to forfeit the lease.
+    - Acceptance of rent may amount to waiver of breach.
+- 7. Termination of Lease
+  - By agreement or expiry
+  - By re-entry / forfeiture
+    - For breach of covenant + reserved right to re-enter or implied statutory right (CA s 85(1)(d)).
+    - Must follow strict notice requirements under CA s 129:
+      - Rental covenant: 1 month’s arrears.
+      - Non-rental covenant: 2 months or no compliance after notice.
+      - Formal notice required (see Schedule 6).
+  - Relief against forfeiture
+    - Conveyancing Act s 129(9): Lessee may apply to the Supreme Court for relief even after valid forfeiture.
+- 8. Termination for Repudiation / Fundamental Breach
+  - Ordinary contract principles apply: Shevill v Builders Licensing Board (1982) 149 CLR 620.
+    - Breach must be repudiatory or fundamental to justify termination.
+  - Parties may stipulate essential terms
+    - Gumland Property Holdings Pty Ltd v Duffy Bros Fruit Market (Campbelltown) Pty Ltd:
+      - Contract declared the covenant to pay rent as essential.
+      - Court upheld right to terminate and recover loss of bargain damages.
+      - Warning: courts may not uphold essentiality of trivial clauses.
+- 9. Interaction of Remedies
+  - Both contractual and proprietary remedies may be pursued.
+- Progressive Mailing House Pty Ltd v Tabali Pty Ltd:
+  - Landlord can terminate for repudiation and enforce forfeiture.
+  - Court clarified that repair and rent covenants are not always fundamental.
+  - However, a combination of repeated breaches may amount to repudiation.
+- 10. Key Case Applications
+  - Shevill v Builders Licensing Board:
+    - Frequent late rent payments ≠ repudiation.
+    - No breach of essential term unless clearly stipulated.
+  - Gumland Property Holdings:
+    - Express clause: rent payment was an essential term.
+    - Held: valid termination + damages recoverable.
+  - JA McBeath Nominees:
+    - Withholding consent to assignment must be reasonable with regard to property interests.
+  - Karacominakis v Big Country:
+    - Assignee of registered lease is liable for all covenants, not just those that touch and concern.
+- Exam Answer Formula: Lease Assignment, Reversion, & Forfeiture (NSW Law)
+  - 1. Identify the Nature of the Deal
+    - 1.1. Lease or Sublease?
+      - Assignment = Transfer of entire leasehold interest; assignee steps into tenant’s shoes.
+        - Assignee assumes rights and obligations under lease.
+      - Sublease = Tenant carves out lesser interest; retains reversion.
+        - Must be less than whole of remaining lease term (Milmo v Carreras [1946] KB 306).
+        - Tenant becomes a sub-lessor, creates new leasehold estate.
+  - 2. Determine If Covenant Is Enforceable
+    - 2.1. Privity of Contract
+      - Lease = both a contract and proprietary estate.
+      - Original parties remain bound by express covenants despite assignment.
+        - Conveyancing Act 1919 (NSW) s 70A(1): original tenant remains liable.
+        - Contract doctrine applies: express obligations continue unless discharged.
+    - 2.2. Privity of Estate
+      - Exists between current landlord and tenant if they hold legal leasehold and reversion.
+      - Rule in Spencer’s Case (1583) 5 Co Rep 16a:
+  - Covenant is enforceable if it touches and concerns the land.
+- Test – Swift Investments Ltd v Combined English Stores Group Plc [1989] 1 AC 632:
+      - 1. Affects the nature, quality, use or value of the land.
+      - 2. Benefits reversioner or lessee for the time being.
+      - 3. Not personal in nature.
+    - 2.3. If Lease Is Registered: Real Property Act 1900 (NSW) s 51
+      - Assignee of leasehold is liable for all covenants in lease (not just those that touch and concern the land).
+        - Karacominakis v Big Country Developments Pty Ltd [2000] NSWCA 313 – liability attaches upon registration.
+  - 3. Assignment of Leasehold: What Can Be Enforced
+    - 3.1. Against the Assignee (New Tenant)
+    - Privity of estate: must be legal lease + legal assignment + current tenant
+    - Assignee is liable only for breaches after assignment, unless breach is continuing.
+  - E.g. obligation to repair, use premises only for residence, etc.
+  - Continuing breaches → liability passes to assignee.
+- 3.2. Against the Assignor (Original Tenant)
+  - Privity of contract: remains liable for past and future breaches of lease.
+  - Indemnity: If sued, may claim indemnity from assignee who committed the breach.
+  - 4. Assignment of Reversion
+    - 4.1. Enforcing Covenants – Conveyancing Act 1919 (NSW)
+      - s 117 (Benefit): Assignee of reversion may enforce covenant against tenant if covenant:
+        - Touches and concerns land; AND
+        - Benefits the land or landlord.
+      - s 118 (Burden): Tenant can enforce covenant against assignee of reversion if:
+        - Covenant touches subject matter of lease;
+        - Breach is continuing;
+        - Applies even to equitable leases.
+    - 4.2. Example Analysis
+      - Rachel assigns reversion to Bob. Toby is tenant. Rachel breached repair covenant.
+      - Bob (assignee of reversion) may now owe obligations under s 118.
+      - Tenant can sue Bob for continuing landlord breach (Example 2).
+  - 5. Is There a Covenant Against Assignment?
+    - 5.1. Types of Clauses
+      - Absolute: No assignment permitted (strict).
+      - Qualified: Requires landlord’s consent.
+    - 5.2. Statutory Limit: Consent Must Not Be Unreasonably Withheld
+      - Conveyancing Act 1919 (NSW) s 133B(1): For qualified clauses.
+      - Conveyancing Act 1919 (NSW) s 132: Landlord cannot object on arbitrary or irrelevant grounds.
+    - Test – JA McBeath Nominees Pty Ltd v Jenkins Development Corporation Pty Ltd [1974] VR 399
+      - Was there an adverse effect on reversion or future letting prospects?
+- Would a reasonable landlord in the circumstances refuse consent?
+  - 6. Termination and Forfeiture of Lease
+    - 6.1. Common Law Termination
+      - Lease is a contract → ordinary contract law applies.
+- Termination may arise from:
+  - Repudiation (Progressive Mailing House Pty Ltd v Tabali Pty Ltd (1985) 157 CLR 17);
+  - Fundamental breach;
+  - Express stipulation of essential term (Gumland Property Holdings Pty Ltd v Duffy Bros Fruit Market (2008) 234 CLR 237).
+    - 6.2. When Is a Breach Fundamental?
+      - Shevill v Builders Licensing Board (1982) 149 CLR 620:
+        - Rent clause is not inherently fundamental.
+        - Must show:
+          - 1. Express essentiality, or
+          - 2. Inferred intention to repudiate obligations.
+    - 6.3. Express Essential Terms
+      - Gumland Property Holdings:
+        - Parties may stipulate that timely payment of rent is essential.
+        - Court will enforce such stipulations unless clause is manifestly trivial.
+        - Clause may also provide for loss of bargain damages even if breach isn’t fundamental.
+  - 7. Forfeiture by Re-entry (Statutory Grounds)
+    - 7.1. Statutory Right to Re-Enter
+      - Conveyancing Act 1919 (NSW) s 85(1)(d): Implied right for rent arrears.
+      - Non-rental breaches: require notice under:
+        - CA s 129(1): Reasonable time to remedy required.
+        - CA s 129(8): Statutory form of notice mandatory.
+        - CA s 129(10): Cannot contract out of notice requirements.
+    - 7.2. Manner of Forfeiture
+      - Can be effected by:
+        - Serving summons for possession;
+        - Physical re-entry (risky – may give rise to tort or criminal liability).
+      - Tenant may apply for relief against forfeiture in equity.
+  - 8. Remedies and Consequences
+    - 8.1. Damages
+      - If landlord terminates based on:
+        - Repudiation or essential breach → entitled to loss of bargain damages (Gumland Property Holdings).
+        - Forfeiture alone → damages limited unless breach = fundamental or stipulated essential (Shevill).
+    - 8.2. Possession
+      - Lessor may claim possession on valid re-entry or repudiation.
+    - 8.3. Relief Against Forfeiture
+      - Tenant may apply for relief even if breach is established.
+- Court has discretion to reinstate lease upon terms.
+### Week 10: Mortgages
+
+- 1. Is there a valid Mortgage?
+  - 1.1 Definition of a Mortgage
+    - A mortgage is a conveyance or charge of land/chattels as security for repayment of a debt (Santley v Wilde [1899] 2 Ch 474 at 479 per Lindley MR).
+    - Security is redeemable on repayment; any clause excluding the right to redeem is void.
+  - 1.2 Old System Mortgages
+    - Legal mortgage: Conveyance of fee simple to mortgagee; mortgagor retains equity of redemption.
+    - Only one legal mortgage possible; subsequent mortgages are equitable.
+  - 1.3 Torrens System Mortgages
+    - Mortgage is a statutory charge (Real Property Act 1900 (NSW) s 57).
+    - No transfer of fee simple; mortgagor remains registered proprietor.
+    - Registration = Legal mortgage; Unregistered = Equitable mortgage.
+- 2. Equity of Redemption and Right to Redeem
+  - 2.1 Equity of Redemption
+    - Arises immediately upon mortgage creation.
+    - Equitable proprietary interest that can be leased, mortgaged, or sold.
+  - 2.2 Right to Redeem
+    - Right to repay debt and recover title after contractual repayment date.
+  - 2.3 Difference
+    - Equity of Redemption: Exists from outset.
+    - Right to Redeem: Arises upon satisfaction of debt.
+- 3. Formalities for Creation
+  - 3.1 Old System
+    - Legal mortgage: Deed required (Conveyancing Act 1919 (NSW) s 23B).
+    - Equitable mortgage: In writing (s 23C) or by deposit of title deeds (Theodore v Mistford).
+  - 3.2 Torrens System
+    - Legal mortgage: Registration required (Real Property Act ss 56–57).
+    - Equitable mortgage: Unregistered dealing or deposit of title documents (pre-11 October 2021).
+- 4. Indefeasibility of Registered Mortgages
+  - 4.1 Principle
+    - Registered mortgages protected by indefeasibility (Real Property Act s 42).
+  - 4.2 Exception — Fraud
+    - Registration of a mortgage obtained by fraud is defeasible (AGC v De Jager [1984] VR 483).
+    - Fraud: Knowledge of improper execution; misrepresentation to Registrar (Tadgell J at 498).
+  - 4.3 Forged Mortgages
+    - Registration cures void proprietary transfer but does not cure forged personal obligations.
+    - Mortgagee cannot sue on personal covenant if covenant not incorporated (Provident Capital v Printy [2008] NSWCA 131).
+- 5. All Monies Mortgages
+  - 5.1 Definition
+    - Secures all sums advanced under separate agreements.
+    - Loan agreement must be incorporated into mortgage to be protected by indefeasibility (Provident Capital v Printy).
+  - 5.2 Risk
+    - If loan agreement not incorporated → only land security enforceable, no personal covenant.
+- 6. Mortgagee's Rights and Remedies
+  - 6.1 Power of Sale
+    - Arises under Real Property Act s 57:
+      - 1. Default under mortgage (s 57(2)(b)).
+      - 2. Service of notice requiring remedy within 1 month (s 57(3)).
+      - 3. Failure to remedy.
+    - 6.2 Standard of Care
+      - Good Faith: Must act honestly and for purpose of realising security (Pendlebury v Colonial Mutual (1912) 13 CLR 676).
+      - Reasonable Care: Must take reasonable steps to obtain true market value (Cuckmere Brick Co Ltd v Mutual Finance Ltd [1971] Ch 949).
+      - Statutory codification: Conveyancing Act 1919 (NSW) s 111A(1).
+- 7. Improper Exercise of Power of Sale
+  - 7.1 Three-Step Test
+    - 1. Right to Possession: Default + valid notice + noncompliance.
+    - 2. Genuine Sale: Must be arm’s length (ANZ v Bangadilly Pastoral Co (1978) 139 CLR 195).
+    - 3. Compliance with CA s 111A: Reasonable steps to obtain market value.
+  - 7.2 Conduct Issues
+    - Failure to advertise properly = breach (Pendlebury).
+    - Failure to notify better buyers = breach (Forsyth v Blundell (1973) 129 CLR 477).
+- 8. Remedies for Mortgagor
+  - 8.1 Damages
+    - Difference between price obtained and market value (Conveyancing Act s 111A(4)).
+  - 8.2 Injunction
+    - Before completion: Can be restrained if impropriety shown (Forsyth v Blundell).
+    - After completion: No remedy if bona fide purchaser without notice (Real Property Act s 43A(1)).
+- 9. Priorities and Tacking
+  - 9.1 Priority of Mortgages
+    - Priority determined by order of registration (Real Property Act s 36(9)).
+    - Alteration of priorities possible by agreement (s 56).
+  - 9.2 Tacking of Further Advances 
+    - General rule: No tacking allowed after actual notice of a subsequent mortgage (Hopkinson v Rolt).
+    - Obligatory advances: If mortgagee is under a binding obligation to advance further funds before notice, then those advances retain priority (even after notice) (Westpac Banking Corporation v Australia and New Zealand Banking Group Ltd (1988) 164 CLR 662).
+    - Discretionary advances: If advance is discretionary (optional), then actual notice defeats priority for those later advances.
+    - Constructive notice: Irrelevant — only actual notice defeats (Central Mortgage Registry v Donemore [1984] 2 NSWLR 128).
+    - Building mortgages: Even discretionary advances made after notice can be protected if they are necessary to complete the secured development (Matzner v Clyde Securities [1975] 2 NSWLR 293).
+- Week 10: Exam Scaffold - Mortgages
+  - 1. Identify Whether There Is a Valid Mortgage
+    - 1.1 Definition of Mortgage
+      - Mortgage = conveyance or statutory charge as security for repayment of a debt (Santley v Wilde [1899] 2 Ch 474 at 479).
+      - Right to redeem must be preserved — any provision purporting to prevent redemption is void.
+    - 1.2 Type of Mortgage
+      - Old System Mortgage: Conveyance of fee simple to mortgagee; mortgagor retains equity of redemption.
+      - Torrens Title Mortgage: Registered statutory charge (Real Property Act 1900 (NSW) s 57); no transfer of fee simple.
+  - 2. Formal Requirements for Creation
+    - 2.1 Old System
+      - Legal Mortgage: Requires deed (Conveyancing Act 1919 (NSW) s 23B).
+      - Equitable Mortgage:
+        - Written agreement (s 23C), or
+        - Deposit of title deeds (Theodore v Mistford).
+    - 2.2 Torrens System
+      - Legal mortgage: Requires registration (Real Property Act s 57).
+      - Equitable mortgage: Unregistered mortgage.
+  - 3. Determine Whether Indefeasibility Applies
+    - 3.1 Indefeasibility Principle
+      - Registered mortgage protected under Real Property Act s 42.
+    - 3.2 Exceptions to Indefeasibility
+      - Fraud: Knowledge or intention to deceive Registrar (AGC v De Jager [1984] VR 483 at 498).
+      - Forgery: Registration cures invalidity of proprietary transfer but not personal covenants (Provident Capital v Printy [2008] NSWCA 131).
+  - 4. Power of Sale Analysis
+    - 4.1 Preconditions for Power of Sale (Torrens Title)
+      - Default by mortgagor (RPA s 57(2)(b)).
+      - Service of notice requiring remedy within 1 month (RPA s 57(3)).
+      - Failure to remedy default.
+    - 4.2 Valid Exercise of Power
+      - Must act:
+        - In good faith (Pendlebury v Colonial Mutual Life Assurance Society (1912) 13 CLR 676).
+        - With reasonable care to achieve true market value (Cuckmere Brick Co Ltd v Mutual Finance Ltd [1971] Ch 949).
+      - Conveyancing Act s 111A(1): Duty to take reasonable care to sell for not less than market value or best price available.
+  - 5. Was the Sale Genuine and Independent?
+    - 5.1 Genuine Sale Test
+      - Sale must be to an independent purchaser at arm’s length (ANZ Banking Group Ltd v Bangadilly Pastoral Co Pty Ltd (1978) 139 CLR 195).
+    - 5.2 Red Flags
+      - Sale to related entity.
+      - No competition / auction rigging.
+      - No proper advertising or market exposure (Pendlebury).
+  - 6. Remedies Available for Mortgagor
+    - 6.1 Damages
+      - Measure = difference between actual price and market price (CA s 111A(4)).
+    - 6.2 Injunction
+      - Available pre-settlement if impropriety shown (Forsyth v Blundell (1973) 129 CLR 477).
+      - No injunction if purchaser bona fide without notice (RPA s 43A(1)).
+  - 7. Priorities and Tacking
+    - 7.1 Priority Rules
+      - Torrens: First to register gains priority (RPA s 36(9)).
+      - Agreement can alter order (RPA s 56).
+    - 7.2 Tacking Further Advances
+      - General Rule: A first mortgagee cannot tack further advances made after actual notice of a subsequent mortgage (Hopkinson v Rolt (1861) 9 HLC 514).
+      - Obligatory Advances: If the further advance was made under a pre-existing binding obligation (i.e. contractually required before notice), priority is preserved even after actual notice (Westpac Banking Corporation v ANZ (1988) 164 CLR 662).
+      - Discretionary Advances: Advances made at the mortgagee’s discretion lose priority if made after actual notice.
+      - Constructive Notice: Constructive notice (e.g. caveat) is insufficient to defeat tacking — must be actual notice (Central Mortgage Registry v Donemore [1984] 2 NSWLR 128).
+      - Building Mortgages Exception: Where further advances are necessary to complete improvements on the security, courts may still allow priority (Matzner v Clyde Securities [1975] 2 NSWLR 293), even after notice.
+  - Quick Exam Structure Formula (for answering a Problem Question)
+    - Is there a valid mortgage?
+      - Identify type of mortgage (Old System/Torrens).
+      - Identify formalities.
+    - Is the mortgage protected by indefeasibility?
+      - Is it registered?
+      - Any fraud/forgery?
+    - Has the mortgagee's power of sale validly arisen?
+      - Default + notice + noncompliance.
+    - Was the sale genuine and independent?
+      - Arm’s length transaction?
+      - Any impropriety (e.g. related party, no marketing)?
+    - Was reasonable care taken to obtain best price?
+      - CA s 111A(1) compliance?
+    - What remedies are available to mortgagor?
+      - Damages?
+      - Injunction?
+    - Are there competing mortgages?
+      - Apply priorities.
+      - Consider tacking.
+    - Tacking:
+      - Was there a further advance
+      - Was it obligatory or discretionary?
+        - Obligatory → Priority preserved.
+        - Discretionary → Check for actual notice.
+      - Was there actual notice of a subsequent mortgage?
+        - Yes → Discretionary advances lose priority unless Matzner applies.
+      - Is it a building mortgage?
+        - Yes → Might preserve discretionary advances despite notice if necessary to complete project.
+### Week 11: Easements
+
+- 1. What is an Easement?
+  - A non-possessory right to use another's land in a particular manner
+  - Incorporeal hereditament – intangible, inheritable, attached to land
+  - Must be non-exclusive (no rights of possession)
+  - Terminology:
+    - Dominant tenement (DT) – land that benefits
+    - Servient tenement (ST) – land burdened
+    - Appurtenant – the easement must attach to the DT
+- 2. Types of Easements
+  - Positive easements – allow entry onto ST (e.g., right of way)
+  - Negative easements – restrict use of ST (rare in Aus law)
+- 3. Re Ellenborough Park Criteria
+  - Re Ellenborough Park [1956] Ch 131 – Four requirements:
+    - 1. There must be a DT and ST
+      - Two parcels of land
+      - Must not be in the same ownership (Clos Farming; RPA s 47(7))
+    - 2. Easement must accommodate the DT
+      - Must enhance use/enjoyment of the DT as land (not business use)
+      - Clos Farming Estates Pty Ltd v Easton [2002] NSWCA 389
+    - 3. DT and ST must not be owned/occupied by the same person
+      - If later come into common ownership, may be extinguished unless registered (RPA s 47(7))
+    - 4. Must be capable of forming subject matter of a grant
+      - Must be defined and not overly vague
+      - Cannot confer exclusive possession (Copeland v Greenhalf [1952] Ch 488)
+- 4. Degree of Interference
+  - Excessive use invalidates easement if it resembles possession (Clos Farming; Batchelor v Marlow)
+  - Test: Proportionality of use vs servient owner's retained rights (Jea Holdings; Moncrieff v Jamieson [2007] UKHL 42)
+- 5. Creation of Easements
+  - Express grant/reservation (RPA s 46; CA s 88(1))
+  - Implied easements
+    - Wheeldon v Burrows (1879) 12 Ch D 31: 4-part test
+  - Prescriptive easements – 20+ years of continuous, open, non-permissive use
+  - By plan: s 88B Conveyancing Act 1919
+  - By court order: s 88K Conveyancing Act 1919 (reasonably necessary easements)
+- OPTIONAL 6. Implied Easements (Wheeldon v Burrows)
+  - Four conditions:
+    - Severance of land
+    - Continuous and apparent use at time of severance
+    - Necessary for reasonable enjoyment of land
+    - Previously used by grantor for benefit of land sold
+    - ⚠️ Wheeldon easements are unregistered legal interests – enforceable in personam but may not bind successors due to indefeasibility unless exception applies (RPA s 42(1)(a1))
+- 7. Indefeasibility and Easements
+  - RPA s 42(1)(a)(1) – omitted easements may still bind
+  - Castle Constructions v Sahab Holdings (2013) 247 CLR 149 – deliberate removal ≠ omission
+  - Registrar-General v Jea Holdings (2015) 88 NSWLR 321 – registration on dominant title is sufficient for valid creation
+  - Exceptions:
+    - Validly created easements (pre-Torrens or prescriptive)
+    - In personam claims (McGrath v Campbell)
+- 8. Scope and Construction of Easements
+  - Start with instrument text (Westfield v Perpetual Trustee [2007] HCA 45)
+  - Extrinsic evidence not admissible except to clarify ambiguity
+  - Broad phrases (e.g. “for all purposes”) are construed liberally unless restricted (White v Grand Hotel)
+- 9. Remedies for Interference
+  - Abatement (self-help): limited
+  - Nuisance (not trespass) – requires substantial interference (Selby v Nettlefold; Treweeke)
+  - Declaratory orders under CA s 89(3)
+  - Extinguishment:
+    - Express release
+    - Abandonment (must prove intent: Treweeke v 36 Wolseley Road Pty Ltd (1973) 1 ALR 104)
+- 10. Profits à Prendre
+  - Right to take natural products (e.g. timber, minerals) from another’s land
+  - Always in gross (no DT required)
+  - Clos Farming restriction 14 was not a profit à prendre – too extensive and managerial
+- Week 11: Exam Framework: Types of Easements
+  - 1. Characterisation
+    - 1.1. Identify the right claimed
+      - What is the alleged right (e.g., right of way, right to park, to cultivate)?
+      - Is it positive (entry) or negative (restriction on ST use)?
+      - Is it an easement or something else (e.g., profit à prendre, licence)?
+    - 1.2. Does it fit the legal definition of an easement?
+      - A non-possessory right to use another's land in a specific way
+      - Not mere personal rights or agreements
+      - Not an attempt to create possession of ST (Clos Farming; Copeland v Greenhalf [1952] Ch 488)
+  - 2. Apply the Re Ellenborough Park Test
+    - 2.1. Dominant and Servient Tenements
+      - Two parcels of land (DT and ST) required
+        - Re Ellenborough Park [1956] Ch 131
+      - Cannot be held and occupied by same person
+        - RPA s 47(7) (if registered, common ownership does not extinguish)
+    - 2.2. Accommodates the Dominant Tenement
+      - Must benefit the DT qua land (not a personal/business advantage)
+        - Clos Farming Estates Pty Ltd v Easton [2002] NSWCA 389
+      - Consider nature of the DT and connection with the use claimed
+    - 2.3. Separate Ownership
+      - ST and DT must not be in same ownership/occupation at relevant time
+    - 2.4. Capable of Grant
+      - Must be clearly defined and not vague or overly broad
+        - Cannot involve exclusive possession or joint occupation
+        - Clos Farming; Batchelor v Marlow; Moncrieff v Jamieson
+        - Proportionality test (Jea Holdings)
+  - 3. Method of Creation
+    - 3.1. Express Grant or Reservation
+      - Under Torrens, must be in writing and registered
+        - RPA s 46, s 47; Conveyancing Act s 88(1)
+    - 3.2. Implied Easements (Wheeldon v Burrows Rule)
+      - Conditions:
+        - 1. Severance of title
+        - 2. Continuous and apparent use
+        - 3. Necessary for reasonable enjoyment of DT
+        - 4. Used by grantor pre-transfer
+          - Wheeldon v Burrows (1879) 12 Ch D 31
+      - Unregistered legal interest → enforceable in personam (McGrath v Campbell)
+    - 3.3. Prescriptive Easement
+      - 20+ years of continuous, open, non-permissive use
+      - Williams v State Transit Authority
+    - 3.4. Statutory Creation
+      - s 88B Conveyancing Act 1919 – easements via plan of subdivision
+      - s 88K Conveyancing Act 1919 – Supreme Court may impose if:
+        - Reasonably necessary for effective use/development of DT
+        - Just and equitable to grant (discretionary)
+  - 4. Torrens and Indefeasibility Issues
+    - 4.1. Is the Easement Registered?
+      - If yes → benefits from indefeasibility (RPA s 42)
+    - 4.2. If Not Registered – Can Exception Apply?
+      - RPA s 42(1)(a1):
+        - Omitted easement: existed but “not entered” on ST’s title
+          - Jea Holdings; Castle Constructions v Sahab Holdings
+      - In Personam Exception:
+        - Arises from personal conduct, e.g., equitable estoppel, part performance
+        - Can protect implied/prescriptive easements
+          - McGrath v Campbell; Bahr v Nicolay
+  - 5. Scope and Construction of Easement
+    - 5.1. Start with the Instrument
+      - Literal construction governs
+        - Westfield v Perpetual Trustee [2007] HCA 45
+        - Extrinsic evidence generally inadmissible
+    - 5.2. Reasonable Use and Proportionality
+      - Excessive use = invalid easement (Clos Farming; Batchelor v Marlow)
+      - Ask: Does the ST owner retain reasonable use?
+    - 5.3. Changes in Use of Dominant Land
+      - If terms are broad (e.g., “for all purposes”), easement may adapt
+        - White v Grand Hotel; Westfield
+  - 6. Enforcement or Challenge
+    - 6.1. Remedies
+      - Abatement: remove obstruction (limited right – e.g., fencing)
+      - Nuisance: substantial interference (Selby v Nettlefold; Treweeke)
+      - Injunction / Damages: to protect right
+    - 6.2. Extinguishment
+      - Express release (registered dealing)
+      - Abandonment under s 89(1)(b) Conveyancing Act 1919 (NSW):
+        - Must prove intent to abandon
+        - Non-use alone is insufficient → Treweeke v 36 Wolseley Road (1973) 1 ALR 104
+      - Declaratory relief: s 89(3) CA 1919 → whether easement affects land
+### Week 12: Freehold Covenants
+
+- 1. Nature of Covenants
+  - A covenant is a promise affecting land, regulating its use.
+  - Covenants are either:
+    - Restrictive (negative): restricts the use of land (e.g., limitation on building types) (Ferella v Otvosi [2005]); or
+    - Positive: imposes an obligation to do something (e.g., maintain a fence or road).
+  - A freehold covenant differs from a leasehold covenant because it regulates freehold title, not tenancies.
+- 2. Covenants: Contractual and Proprietary Nature
+  - A covenant is initially a contractual obligation between the original covenantor and covenantee.
+  - To bind successors, the covenant must "run with the land," either:
+    - At common law (which is generally impossible for the burden), or
+    - In equity, provided certain requirements are satisfied (Tulk v Moxhay [1848] 41 ER 1143).
+  - Under the Torrens System (Real Property Act 1900 (NSW)), restrictive covenants are not registered interests but can be recorded under s 88(3) Conveyancing Act 1919 (NSW), giving constructive notice under s 42 Real Property Act 1900 (NSW).
+- 3. Covenants in Housing Developments – s 88B Conveyancing Act 1919 (NSW)
+  - Developers use restrictive covenants to control development aesthetics and protect land values (e.g., Newpark at Marsden Park).
+  - The legal mechanism for these covenants is the 88B Instrument, governed by s 88B Conveyancing Act 1919 (NSW).
+  - Creation Requirements (s 88B and s 88(1)):
+    - 1. Covenant must be in approved Form 10,
+    - 2. Must identify:
+      - Land benefitted,
+      - Land burdened,
+      - Persons entitled to vary or release the restriction.
+    - Upon registration, covenants become enforceable against all successors (not merely original parties).
+- 4. Enforcement of Covenants Created under s 88B
+  - Enforcement may be undertaken by:
+    - The developer,
+    - Other lot owners (neighbours),
+    - The local council if so provided in the Instrument or development approval.
+  - Compliance with s 88(1) Conveyancing Act 1919 is necessary for enforceability.
+- 5. Creation of Private Covenants
+  - Created by deed (s 23B Conveyancing Act 1919 (NSW)) and recorded on the folio of the burdened land (s 47(1) Real Property Act 1900 (NSW)).
+  - s 46A Real Property Act 1900 (NSW) allows covenants to be made even if the same person owns both benefitted and burdened land.
+  - Important: Recording gives notice under s 42 Real Property Act 1900 but does not confer greater effect (s 88(3)(b) Conveyancing Act 1919).
+- 6. Enforcement of Private Covenants: Equity's Rules
+  - At common law, the burden of a covenant does not run with land (Austerberry v Corporation of Oldham (1885) 29 Ch D 750).
+  - However, equity enforces restrictive covenants against successors in title if the following conditions from Tulk v Moxhay [1848] 41 ER 1143 are met:
+  - Requirements (Equitable Running of Burden):
+    - 1. The covenant must be restrictive, not positive.
+      - Positive obligations do not run (e.g., obligations to maintain).
+    - 2. The successor must have notice of the covenant:
+      - Actual, constructive, or imputed through recording (s 42 Real Property Act 1900 (NSW)).
+    - 3. There must be an intention that the burden bind successors:
+      - Objective assessment from wording (e.g., “heirs and assigns”) (supported by s 70A Conveyancing Act 1919 (NSW)).
+    - 4. The covenant must benefit the covenantee's land:
+      - The covenant must "touch and concern" the land (Rogers v Hosegood [1900] 2 Ch 388).
+- 7. Touch and Concern Test (Rogers v Hosegood)
+  - The covenant must affect the land’s use, occupation, or value directly, rather than merely conferring a personal benefit.
+  - Large parcels problem:
+    - A covenant cannot benefit an excessively large area without express annexation (Re Ballard’s Conveyance [1937] Ch 473).
+    - Annexation language such as “benefit each and every part” is required (Marquess of Zetland [1908] 1 Ch 190).
+  - Requirement for Benefit at Creation:
+    - The land must benefit at the time the covenant is created, not later (Kerridge v Foley (1964) 82 WN (NSW) 293).
+- 8. Common Building Schemes
+  - Recognised under equity following Elliston v Reacher [1908] 2 Ch 374, a scheme of development allows mutual enforcement of covenants even if direct privity is missing.
+  - Elliston v Reacher Criteria:
+    - 1. Common vendor,
+    - 2. Common plan with restrictions,
+    - 3. Restrictions intended to benefit all lots,
+    - 4. Purchasers bought on the footing that mutual enforcement would occur.
+    - Confirmed to apply to Torrens land in NSW (Re Louis (1971) 1 NSWLR 164).
+    - Minor variations among covenants do not defeat a scheme (Hosking v Haas (2009) NSWSC 1328).
+- 9. Legal Consequences of a Scheme
+  - Covenant enforcement becomes mutual among lot owners despite differences in timing of purchases.
+  - Modifying or Extinguishing Covenants
+- 10. Modification and Extinguishment
+  - Express Release: By deed between benefitted and burdened parties.
+  - Court Modification/Extinguishment: Under s 89 Conveyancing Act 1919 (NSW):
+    - Grounds include obsolescence or absence of substantial injury to benefitted parties.
+    - Court maintains jurisdiction even under Torrens system (Pieper v Edwards (1982) 1 NSWLR 336).
+- 11. Interaction between Covenants and Planning Instruments
+  - Councils may override restrictive covenants using LEPs under s 3.16 Environmental Planning and Assessment Act 1979 (NSW).
+  - Key Case: Lennard v Jessica Estates Pty Ltd (2008) NSWCA 121:
+    - Only covenants prohibiting "land uses" (not developments) are overridden.
+    - If council permits a new use that conflicts with a covenant, the covenant may be set aside, depending on statutory construction.
+- 12. Key Defences
+  - Lack of Notice: Purchaser without notice not bound.
+  - Failure of Benefit: Covenant must benefit covenantee’s land at creation (Kerridge v Foley).
+  - Overriding Planning Approval: Planning instruments may prevail (subject to construction).
+- Full Integrated Case Authority Table
+Case
+Principle
+Application
+Tulk v Moxhay [1848] 41 ER 1143
+Burden can run in equity with notice
+Equity enforces restrictive covenants
+Rogers v Hosegood [1900] 2 Ch 388
+"Touch and concern" test
+Covenant must benefit land
+Re Ballard’s Conveyance
+Covenant cannot benefit overly large land without annexation
+Express annexation language needed
+Marquess of Zetland [1908] 1 Ch 190
+Express annexation required
+Large land problem solution
+Kerridge v Foley (1964) 82 WN (NSW) 293
+Benefit must exist at time of creation
+Cannot arise later
+Elliston v Reacher (1908) 2 Ch 374
+Scheme of development requirements
+Mutual enforceability of covenants
+Hosking v Haas (2009) NSWSC 1328
+Flexibility in schemes
+Minor covenant variations allowed
+Pieper v Edwards (1982) 1 NSWLR 336
+Court can extinguish covenant
+s 89 Conveyancing Act jurisdiction confirmed
+Lennard v Jessica Estates (2008) NSWCA 121
+Planning override interaction
+"Land use" distinction critical
+
+- Week 12: Covenants Exam Formula
+  - 1. Identify Type of Covenant
+    - Is it a restrictive covenant? (prohibits doing something)
+      -  ➔ Yes → Equity may enforce (Tulk v Moxhay [1848] 41 ER 1143).
+    - Is it a positive covenant? ➔ No → Positive covenants do not run with land in equity or at common law.
+    - Apply:
+      - covenant restricts temporary dwellings → restrictive covenant ✅
+  - 2. Was the Covenant Properly Created?
+    - Under s 88B Conveyancing Act 1919 (NSW)? ➔ Instrument must:
+      - Be Form 10 approved.
+      - Identify land benefited and burdened.
+      - Registered on the plan.
+    - If 88B → automatic enforceability against successors by statute.
+    - Apply: 
+      - ✅ s 88B subdivision — covenant created and registered properly.
+      - ✅ Covenant referred to in transfers and advertisements.
+  - 3. Is the Covenant Enforceable in Equity (if needed)?
+    - (Use only if pre-88B, or if arguing common scheme separately.)
+    - Tulk v Moxhay conditions:
+- Covenant is restrictive.
+- Successor (Aurora) had notice (actual or constructive).
+- Intention that covenant bind successors (e.g., words like "heirs and assigns").
+- Covenant benefits land retained or sold by covenantee (touches and concerns land).
+    - Apply:
+      - ✅ Restrictive → no temporary structures.
+      - ✅ Notice → registered and advertised.
+      - ✅ Intention → stated to bind all lots.
+      - ✅ Touches and concerns → aesthetics/amenity of lots improved.
+  - 4. Is there a Common Building Scheme?
+    - (Extra argument — useful backup.)
+      - Elliston v Reacher (1908) 2 Ch 374 elements:
+        - Common vendor (Corrine).
+        - Common restrictions (same covenant on each lot).
+        - Intention for mutual benefit and enforcement.
+        - Purchases made on basis of restrictions.
+      - Apply:
+        - ✅ Common plan, common restriction → a "scheme" exists → mutual enforcement.
+  - 5. Remedies Available
+    - Injunction to restrain breach (main remedy).
+    - Damages (rare — usually only for past breaches).
+    - Apply:
+  - Optional Step 6 – Defences
+    - Lack of Notice → Not available if covenant registered or notice shown (s 42 RPA).
+    - No Benefit at Creation → If covenant benefits no land at time of creation → unenforceable (Kerridge v Foley).
+    - Planning Instrument Override → Only where council planning LEP overrides "use" of land (Lennard v Jessica Estates).
+  - ⚖ Alternate Scenario: Subdivision in 1959
+    - Before s 88B Conveyancing Act (s 88B introduced in 1979).
+    - No automatic statutory enforceability.
+    - Must rely solely on equitable enforcement under Tulk v Moxhay and/or common scheme.
+    - Same Tulk v Moxhay conditions must be proven.
+      - ➡️ Outcome is likely the same (enforceable), but more effort needed to prove mutual intention/common scheme.
+
+Question
+Authority
+Application
+1
+Restrictive or Positive Covenant?
+Tulk v Moxhay
+Must be restrictive.
+2
+Proper Creation?
+s 88B Conveyancing Act (if post-1979)
+If yes, binds successors.
+3
+If Pre-88B: Equity Enforceable?
+Tulk v Moxhay
+4-part test.
+4
+Common Scheme?
+Elliston v Reacher
+Extra pathway if needed.
+5
+Remedies?
+Injunction
+Restrain breach.
+📜 Sample Opening for Full Exam Answer
+"A restrictive covenant was created by Corrine under a registered s 88B instrument. The covenant, prohibiting temporary dwellings, satisfies the requirement of being negative and benefits all lots. As Truman is a successor entitled to the benefit, and Aurora is a successor burdened with notice, Truman can seek an injunction to enforce the covenant. Even if the subdivision predated s 88B, equitable principles under Tulk v Moxhay and the existence of a common scheme (Elliston v Reacher) would allow enforcement."
+
+## Week 2: Tenure and Estates; Native Title; and Fixtures
+
+- Doctrine of Tenure
+  - Real property def is land and interests in land. Real property is subdivided into two further groups, corporeal hereditaments (tangible real property, ie land) and incorporeal hereditaments (intangible interests in land, such as easements, or rights of way).
+  - Land elements in common law (land def)
+    - The surface of the earth
+    - Fixtures (things attached to the land, such as buildings)
+    - The airspace above the land (limited to a height necessary for the ordinary use and enjoyment of the land)
+    - The substrata (soil, minerals, and space beneath the land)
+  - How we live
+    - Single dwellings on land
+    - Apartments
+    - Town houses
+    - Rural allotments
+    - Farms
+    - On country/ in the city / in the regions
+  - Three Key Doctrines
+    - Doctrine of tenure
+    - Doctrine of estates
+    - Doctrine of native title
+    - These three doctrines provide the structure for our land holding system.
+  - The Doctrine of Tenure def
+    - Based in feudalism
+    - Three principles:
+      - No one owns land absolutely (allodial)
+      - All land is held of the Crown
+      - No one holds land except of the Crown (ie by grant)
+    - Feudal Tenures
+      - The King owned all land absolutely
+      - He granted his subjects (‘tenants’) the right to use the land, not the land itself
+      - The right granted was an ‘estate’
+      - In return, the tenant owned the King obligations
+      - There were many types of tenures (differentiated by different types of service) but only one was imported into NSW: free and common socage def
+        - farmers paid rent to lords in exchange for services
+    - Reception of British Law
+      - British Imperial Law – legal framework that governed Britain’s relations with her colonies
+      - Law and official policy
+      - Settled versus conquered colonies
+      - An Englishman (sic) brings as much of the common law with them as is relevant to the circumstances of the colony (See Cooper v Stuart)
+    - ‘Traditional’ versus ‘new’ conceptions of tenure
+      - Traditional view of tenure in Australia: the importation of feudal law – Attorney-General v Brown 
+      - Modern view of tenure in Australia: Mabo v State of Queensland (No. 2)
+    - Attorney General v Brown [1847]
+      - Involved a grant by the Crown of 60 acres of land near Newcastle.
+      - The grant included a reservation (you will see examples of a reservation in the video we asked you to watch for your first assessment).
+      - The reservation stated: ‘...we do hereby reserve to ourselves ... and also all mines of silver and of gold, and of coals, with full and free liberty and power to search for, dig, and take away the same...’
+      - A later clause said that if the reservation was not observed the grant would be void. 
+      - Mr Brown mined for coal
+      - The Attorney-General brought an information for intrusion this was a mechanism for obtaining satisfaction in damages for personal wrongs committed in the lands or other possessions of the Crown
+      - So the argument was that Mr Brown had committed a wrong by mining for the coal that belonged to the Crown. 
+        - Ie Mr Brown intruded into the Crown’s possession of the mines and coal
+      - Mr Brown made four arguments, of which the third is relevant here. 
+        - He argued that there is a distinction between the Crown having sovereignty over New South Wales and the Crown having ownership or possession of the land. 
+        - So the Crown had sovereignty, but not ownership or possession (without which it could not maintain the information for intrusion)
+      - Unsurprisingly the Court did not agree.
+      - Stephen CJ held that:
+        - The waste lands of the colony had been in the possession of the Crown since 1788
+        - That while it might be a fiction in England that the Crown owned all lands, it was not a fiction in NSW
+        - This had been confirmed legislatively by the Imperial Waste Lands Act 1842
+        - That all the waste lands of the colony vest in the crown must be the case “for, at any rate, there is no other proprietor of such lands’
+  - Mabo v State of Queensland (No. 2)
+    - In effect this case raised a similar legal issue to Attorney-General v Brown: what interest did the Crown acquire on taking sovereignty over NSW?
+      - What was this so crucial in the case?
+      - What does the doctrine of tenure look like in modern form?
+    - Key arguments
+      - Plaintiffs claimed that an interest in land had survived the annexation of New South Wales by Great Britain.
+      - One aspect of this argument was that the Crown had acquired sovereignty but not full (lets the use the word from the case – beneficial) ownership.
+      - This is essentially the same argument as in Attorney-General v Brown
+    - Conclusions
+      - the Crown had only acquired sovereignty, not full or beneficial ownership, the plaintiffs argued, native title had not been extinguished
+      - This was not an entirely unexpected outcome, aboriginal title was already part of common law doctrine in other places
+      - What was a bit different was the emphasis on the doctrine of tenure
+    - Radical Title: Brennan J
+      - The Crown was treated as having the radical title to all the land in the territory over which the Crown acquired sovereignty. 
+      - The radical title is a postulate of the doctrine of tenure and a concomitant of sovereignty.
+      - As a sovereign enjoys supreme legal authority in and over a territory, the sovereign has power to prescribe what parcels of land and what interests in those parcels should be enjoyed by others and what parcels of land should be kept as the sovereign's beneficial demesne (at para 50).
+  - Doctrine of Tenure Revisited
+    - Three principles:
+      - No one owns land absolutely (allodial)
+      - All land is held of the Crown
+      - No one holds land except of the Crown (ie by grant)
+    - Does this all matter now?
+      - Doctrine of tenure underpins our land holding system
+      - Necessary to how we think about native title
+      - Not something you encounter on a day-to-day basis
+- The Doctrine of Estates
+  - Doctrine of Estates def
+    - Radical title gives the Crown the power to grant interests in land
+    - Those interests are called estates
+  - What is an estate?
+    - Estates/Estate def are different bundles of rights and powers exercisable in respect of land. Eg possession,
+    - alienability, right to derive income etc
+    - So in modern terms, it’s the interest we have in the land
+  - Estates are based on time
+    - The difference between the types of estate is the time which they endure – in other words, how long the estate exists.
+    - Therefore the different estates are classified according to how long they endure, and more than one estate can exist at any one time in one piece of land
+  - Types of Estates
+    - Freehold estates def
+      - a permanent interest in land that gives the owner the right to use and control the property.
+      - Ex:
+        - Fee simple
+        - Life estate
+        - (fee tail)
+      - Torrens title def 
+        - All freehold estates (and most property) are registered in the torrens title system
+    - Leasehold estates def / leasehold def
+      - an ownership of a temporary right to hold land or property in which a lessee or a tenant has rights of real property by some form of title from a lessor or landlord.
+    - Estates in remainders and reversionary estates
+    - Strata
+  - Estate in Fee simple def
+    - Fejo: An estate in fee simple is, "for almost all practical purposes, the equivalent of full ownership of the land” [44]
+    - An inheritable estate
+    - Inheritability was indicated in the grant by the use of the term ‘heirs’
+    - Rights of ownership: eg alienable; exclusive possession
+  - Creating an estate in fee simple
+    - At common law: To A and his heirs
+    - now Conveyancing Act s 47(1), (2): To A in fee simple / To A forever
+  - Key Concepts
+    - Property is not a thing but a relationship: namely the relationship between persons with respect to a thing.
+    - The ‘relationship’ is composed of ‘rights’.
+    - The main way we think about what having property (or owning something) is as having a bundle of rights (and duties) vis a vis everyone with respect to something (a cup maybe?).
+    - Key sticks in the bundle: Alienability and exclusive possession
+  - Life Estate
+    - Two types: Life estate and life estate pur autre vie
+    - Inter vivos or by will
+    - Commonly familial situations
+    - Can involve a trust
+    - All rights of the holder of an estate in fee simple except inheritability and note doctrine of waste
+  - Two types
+    - Life estate: To Maggie
+    - Life estate pur autre vie: To Maggie for the life of Bella
+  - Life estate: Creation
+    - To A for life, to occupy or use or other words showing an intention to create a life estate: generally this is by will and it is a matter of construing the words in context
+    - Or if you fail to correctly create an estate in fee simple
+  - Fee Tail def
+    - Historical curiosity in NSW
+    - Limited class of heirs – usually male
+    - Reverted to the grantor if there was no appropriate heir
+    - Way of keeping land in aristocratic families
+    - For the lovers of the tv series Downton Abbey or just the seriously nerdy property law lovers amongst us (that’s me)
+  - Simultaneous estates
+    - Estate in reversion
+    - Estate in remainder def
+      - a type of ownership in real estate that someone will have in the future
+      - If there are conditions, no interest arrises until the conditions are met
+  - Estate in reversion
+    - To Alice for life
+    - What happens when A dies?
+    - Reverts to the grantor.
+    - Grantor has a fee simple in reversion
+    - The grantor and Alice have simultaneous estates. 
+      - They both exist at the same time. Alice’s estate is in possession
+  - Estate in remainder
+    - To Dorothea for life, remainder to Jessica
+    - Jessica has a fee simple in remainder
+    - Dorothea and Jessica have simultaneous estates. 
+      - They both exist at the same time. Dorothea’s estate is in possession.
+  - Estates in practice
+    - Transfer form 01T
+    - But not for much longer, as electronic conveyancing (PEXA) is now rendering these forms obsolete
+    - As the semester goes we will refer to these estates frequently, along with other real property interests,
+    - such as mortgages, leases, covenants and easements.
+- The Doctrine of Native Title
+  - Getting to Mabo (No. 2)
+    - Attorney-General v Brown and following cases
+    - Milirrpum v Nabalco (1971) 17 FLR 141
+    - Calder v AG
+    - Statutory Land Rights Schemes
+  - Mabo as a test case
+    - Why was Mabo a test case? (And what is a test case)?
+    - The facts of Mabo were very important
+      - Market gardeners
+      - Individual plots
+      - Primarily economic relationship with the land
+  - Native Title Act 1993 (Cth)
+    - Drafted by the Keating Government
+    - Keating’s Redfern Speech
+    - Established the National Native Title Tribunal and the National Native Title register
+    - Confirmed past grants up to 1975 – see Racial Discrimination Act
+    - Put in place a process for claims (Federal Court)
+    - Put in place restrictions on extinguishment of native title
+    - Was intended that ‘native title’ would continue to be developed by the common law
+  - What is Native Title?
+    - Per Brennan J:
+      - Native title has its origins in and is given its content by the traditional laws acknowledged by and the traditional customs observed by the Indigenous inhabitants of a territory. 
+      - The nature and incidents of native title must be ascertained as a matter of fact according to those laws and customs.” at 58
+      - Native title is not an institution of the common law – it is the recognition by the common law of rights and interests that are sourced in a normative system (we would now say another sovereign system I think) which pre-existed British sovereignty
+  - Native Title def
+    - Content is variable
+    - Depends on the facts
+    - Evidence to determine the laws and customs in each individual case
+    - ‘continuous connection’
+    - Communal not individual
+    - Not an institution of the common law
+  - Whose evidence?
+    - Traditional owners – elders
+    - Anthropologists
+    - Archaeologists
+    - Historians
+    - (and also drawn from government departments, such as Crown Lands or NSW Land Registry Services)
+  - What happened?
+    - Amendments to the Act 1998 (now over 400 pages)
+    - Long-drawn out claims
+    - Key High Court decisions
+    - Federal Court complicating the proof requirements
+    - Transformation of resources sector
+- The Native Title Act
+  - Proving Native Title
+    - The elements required at common law are in Brennan J’s definition of native title (and a few other parts of the judgement).
+    - But two problems emerged:
+      - some elements needed fleshing out. Eg what is a continuous connection?
+      - And what was the relationship between the common law definition and s 223 of the NTA? 
+  - Section 223
+  - Far West Coast Native Title Claim v SA (No. 7)(2013)
+    - Per Mansfield J at [38]
+      - A recognisable group or society that presently recognises and observes traditional laws and customs in the Determination Area.
+      - (1) they must be a society united in and by their acknowledgement and observance of a body of accepted laws and customs;
+      - (2) that the present day body of accepted laws and customs of the society, in essence, is the same body of laws and customs acknowledged and observed by the ancestors or members of the society adapted to modern circumstances; and
+      - (3) that the acknowledgement and observance of those laws and customs has continued substantially uninterrupted by each generation since sovereignty and that the society has continued to exist throughout that period as a body united in and by its acknowledgment and observance of those laws and customs; and
+      - 4) The claimants must show that they still possess rights and interests under the traditional laws acknowledged and the traditional customs observed by them and that those laws and customs give them a connection to the land
+  - Extinguishment
+    - Fejo and Wik Peoples – native title is extinguished by an inconsistent grant. It is extinguished to the extent of the inconsistency
+    - Extinguishment is a legal (not factual) test – to be determined at the time of the grant – Brown HCA 2014
+  - Fejo
+    - The Larrakia people sought a declaration of native title. 
+    - The native title claim was over an area of land which was once granted in fee simple but had later reverted to vacant Crown land
+    - The question for the HCA was whether native title could still exist over land which was once granted in fee simple but later reverted to vacant Crown land
+    - The High Court held that native title was extinguished by freehold grants and that the extinguishment was permanent
+    - An estate in fee simple is inconsistent with the continued existence of native title
+  - Wik
+    - Concerned effect of pastoral leases on native title
+    - Assumption pastoral leases were basic common law leases
+    - Majority disagreed and held that pastoral leases are a particular form of statutory lease that does not confer exclusive possession
+    - Extinguish permanently to the extent of the inconsistency
+    - Summary
+      - Wik, therefore, can be seen to represent the final decoupling of land rights and sovereignty, with radical title being defined not as a private proprietary right in any real, substantive sense, but a public, sovereign power to create, allocate and extinguish property rights regulated by statute.
+  - Determinations by consent
+    - Because of the complexity of native title is is more common now to have determinations by consent
+    - This avoids a court hearing, allows matters to be within the determination that might not strictly be considered within ‘native title’ if litigated
+  - Indigenous Land Use Agreements
+    - Included in the Native Title Act (Cth) 1993
+    - Approve things to be done on land which might affect native title (could be a large bauxite mine or building a shed for local life savers at a beach)
+    - Statutory contracts
+    - Mostly commercial in confidence
+    - Used in the mining and other resources sectors
+    - Allow for large scale agreements which move beyond native title determinations
+  - Managing Land: Future Acts
+    - A future act is basically any activity that occurs on Crown land after the commencement of the provisions of the Native Title Act (Cth) 1993 and which ‘affects’ native title.
+    - Examples:
+      - a legislative act such as the making of or amendment of Acts of Parliament
+      - Creation of estates
+      - an administrative act such as the issue of a licence to use Crown land, the issue of a management plan for a park or reserve, or the sale of Crown land
+      - a physical act such as the construction of facilities on a Crown reserve.
+    - Future Acts
+      - The Native Title Act allows for a range of future acts to occur on Crown land and specifies the level of consultation that must be carried out before the act can occur (ie without this procedure it will not be valid).
+      - Section 24AA sets out the different kinds of future acts and what has to be done before each is valid. 
+      - The response might be:
+        - None
+        - Opportunity to comment
+        - Negotiation
+        - Making of an Indigenous Land Use Agreement
+  - What does government do?
+    - Has native title already been extinguished, for example by a previous freehold grant? Check with NSW Land and Property Information
+    - Find out if there is a claim (lodged or finalised): search the NNTT registers: www.nntt.gov.au
+    - If there is native title, a procedure might have to be followed – see Future Act regime – s 24AA onwards – what kind of Act do you want to do – what is the procedure that has to be followed?
+    - If there is a claim, the Government can become a party. 
+      - So can third parties, like Telstra – see the joinder provisions in s 84
+    - In some cases a procedure will have to be followed even if there is a claim but no resolution of it: eg grant of an exploration or mining lease – ‘right to negotiate’ – Part 3, Div 3, subdivision P
+    - Crown can made a non-claimant application – s 24FA – protection to do Future Acts
+  - Where are the claims?
+    - For a map of native title claims and determinations in NSW see
+    - http://www.nntt.gov.au/Maps/NSW_ACT_JBT_NTDA_Schedule.pdf
+  - Where are we at?
+    - The NNTT has easily accessible statistics on the various processes
+- How does it all fit together? The Three Doctrines Revisited
+  - Think about the following questions:
+    - From where do we derive our estates in land?
+    - What gives the Crown the power to grant interests in land?
+    - Where do native title rights and interests originate?
+    - Is native title an estate?
+    - What is the effect of a Crown grant on native title?
+    - What is the relationship of radical title to native title?
+- Land Law Introduction
+  - quit rent replaced free and common socage
+    - Quit rent def
+      - a rent, typically a small one, paid by a freeholder or copyholder in lieu of services which might be required of them.
+      - Colonial quit rent was not linked to antecedent obligations to overlords
+  - Australian Colonies Waste Lands Act 1842 which attempted to raise more income by pegging the sale price of land to a minimum of 20s per acre.
+  - Quia Emptores 1290
+    - This statute allowed tenants to transfer their estates without the consent of their lords, and prohibited “subinfeudation”.
+    - The statute was formally repealed,  insofar as it applied to New South Wales, by the  Imperial Acts Application Act 1969 (NSW). However, its substance has been preserved by the same Act.
+  - Escheat def
+    - by which land would revert to the  Crown in cases of the tenant’s conviction of felony, or if the tenancy came to an end by the tenant dying intestate and without next of kin.
+    - Eschat by felony has long been abolished
+  - Modern terminology - escheat vs bona vacantia
+    - Land no longer “escheats” to the Crown for failure of heirs or devisees, but passes to the Crown as “bona vacantia” (property without an apparent owner).
+    - Under the doctrine of escheat, the Crown took back what had ultimately been always its own property, subject only to the intervening (but now ceased) rights that had been granted to the tenant (holder). 
+      - The Crown did not succeed to the holder’s rights; it took because of its own title paramount (out of which the holder’s interest had been carved), which now was again able to be asserted. 
+    - In contrast, under the doctrine of bona vacantia the Crown took the chattels of which the owner died intestate and without next of kin. 
+      - With chattels (unlike land) absolute ownership was possible, and in so taking chattels the Crown succeeded to the rights vested in the deceased; it did not merely take back  what had always been its own.
+  - Real property def origin
+    - property recoverable by the real actions came to be called “real” property.
+      - Right In rem def - right to use, control, or dispose of a specific property (against a thing)
+        - Ex:
+          - The right to possess property
+          - The right to use property
+          - The right to sell property
+          - The right to transfer ownership of property
+      - Right In personam def - contractual rights and such (against a person)
+        - Ex: 
+          - Contractual rights
+          - A tortious award claim
+      - Equity is often in personam - conceptual rights for fairness
+    - common law historically reserved the remedy of specific restitution only to a dispossessed owner or prior possessor of land. 
+    - The wronged party was entitled not simply to compensation for the loss, but to restoration of the thing itself (in Latin, the “res”) pursuant to a “real” action (“actio realis”). 
+      - Because the rights of the dispossessed landholder entailed recovery of the land as a physical entity, it was termed a “corporeal” hereditament (inheritable property).
+  - numerus clausus principle
+    - confines the range of possible types of rights that may be created over land
+    - three categories of real property rights (12 land rights/property rights) 
+      - The estates in land
+        - the fee simple
+        - the life estate 
+        - Leasehold
+      - The lesser interests – known as servitudes in the civil law jurisdictions 
+        - Easements
+        - profits à prendre 
+        - restrictive covenants. 
+      - Security Interests 
+        - Mortgages
+        - charges 
+        - Liens
+  - Fixtures
+    - Fixtures def are items that have been attached to land in such a way as to become, in law, part of the land: “quicquid plantatur solo, solo cedit” – “whatever is affixed to the soil becomes part of the soil”
+    - whether an item has become a fixture depends primarily on the intention with which the affixer put the item in place.
+      - Intention to better use the land - likely a fixture
+        - 3 ton machine in factory
+        - Nails in floor to stabilize pole
+  - Fixtures criteria
+    - the degree of annexation to the realty, what is to be done with the item, 
+    - the function to be served by the annexation. 
+    - whether the item can be removed without substantial damage to itself or the realty to which it is attached
+    - any relevant legislative scheme applying to the item and the land, at least where the parties to the transaction may be taken to have been aware of that scheme.
+- Boundaries of Land
+  - Boundaries
+    - deduced from whatever title deeds, plans or other evidences of occupation are available and admissible.
+    - In practice, registered plans (lodged with the Registrar General) are relied on as correctly depicting the boundaries of the land in the plan.
+    - Where a boundary is identified by a natural feature, this will be the primary boundary of the land, and any drawings will be secondary guides
+  - Where land is described in a Crown grant or in a conveyance as bounded by a road or by waters that are non-tidal, 
+    - the common law presumes that ownership extends beyond that boundary and up to the middle line of the road (“ad medium filum viae”) or ownership of the bed (or “alveus”) up to the mid-point of the water (“ad medium filum aquae [fluminis]”). 
+    - This is the so-called medium filum (“middle line”) rule.
+    - Statute now greatly restricts the operation of the middle line rule in all jurisdictions except South Australia and Tasmania, where the common law rule continues to apply in relation to rivers and non-tidal lakes.
+  - Public Roads
+    - public road came into existence when two conditions were fulfilled: 
+      - (1) the owner showed an intention to dedicate the land as a public road; and 
+      - (2) the public accepted that dedication.
+    - all public roads are vested in fee simple in the local council, with full right of ownership both of the soil below the surface and the airspace above, but without any title to minerals below the surface.
+      - freeways are vested in fee simple in Roads and Maritime Services, and Crown roads are vested in fee simple in the Crown.
+  - Rivers
+    - ownership of land in New South Wales bounded by a river generally carries no rights of access over or use of any part of the river bed.
+- Accretion and Erosion
+  - Ambulatory def
+    - Boundaries that are defined by reference to the water’s edge may change in law to reflect changes in the position of the water’s edge occurring by accretion or erosion.
+    - Requirements
+      - 1. the change in the position of the water’s edge must be so slow and gradual as to be in a practical sense imperceptible to the naked eye as it occurs.
+      - 2. the accretion or erosion must result from natural processes.
+        - Artificial reclamation results in transference to the Crown.
+      - Accretion def 
+        - The increase of land often through movement (examples include sand)
+    - movable freehold def
+      - is a parcel of land whose boundaries move from time to time in accordance with a specified event or events
+      - An example is a grant of the land between the high-water and low-water marks in their position from time to time: 
+        - the boundaries move as the foreshore encroaches or recedes, regardless of whether the requirements of the doctrines of accretion or erosion are met.
+  - Alienability
+    - determinable fee simple def
+      - is a fee simple that will automatically come to an end on the occurrence of a specified event that may or may not occur.
+      - Examples are a grant in fee simple “for as long as the land continues to be used for school purposes”,27  or “for as long as a [certain]  tree  continues  to  grow
+      - The grantor has a “possibility of reverter”; this is distinct from a reversion, since the whole fee simple has been alienated. 
+        - If occurrence of the determining event becomes impossible, then the possibility of reverter is destroyed and the fee simple becomes absolute.
+    - defeasible fee simple def (or conditional fee simple def or, again, fee simple defeasible by condition subsequent) 
+      - a fee simple granted in absolute terms but then qualified by a super-added condition of defeasance. 
+      - An example is a grant “to A and his heirs, but if the land ceases to be used as a school then it shall return to the grantor and his heirs”.
+      - If the condition is breached, the grantor has the right – but not the duty – to enter the land and bring the interest of the fee simple holder to an end. 
+        - But the fee simple continues unless the grantor exercises that right of entry; unlike a determinable fee, a defeasible fee does not automatically come to an end when the specified event occurs
+  - Determinable fees vs defeasible fees
+    - Determinable fees are often temporal in phrasing
+    - Defeasible phrases are often conditional in phrasing
+    - The “logical and conceptual” difference is that the grantor of a determinable fee defines and limits what has been given, whereas the grantor of a defeasible (or “conditional”) fee creates a right, if an event occurs, to take back what is otherwise given absolutely.
+      - in certain limited circumstances, a contingency will be void if it is contrary to public policy, in which the grantee may accept the gift free of the condition in the case of a defeasible or conditional fee simple.
+  - Voiding conditions or limitations for defeasible fees
+    - First, a condition or limitation may be void because it encourages immoral behaviour (Zapletal v Wright).
+    - Second, a condition or limitation may be void on the grounds of illegality, as where a condition purports to terminate an interest if the holder should be declared bankrupt, because it seeks to frustrate insolvency laws.
+    - Third, a condition or limitation may be void for uncertainty.
+      - Jewish ethnicity vs Jewish heritage - just required a spouse of jewish parentage
+    - Fourth, a condition or limitation will be void if it unduly restricts the right to marry.
+      - Lesser restrictions have been upheld – for example, grants conditional on the grantee not remarrying have been upheld as valid. 
+      - Prohibitions on marrying a member of a narrowly-defined  group  are  lawful, as  are  prohibitions  on  marrying  a  named person.
+      - Conditions  directed  to  prevent  the  abandonment  of  religious  faith,  or requiring a change of faith, such as an interest defeasible should the grantee “be or become a Roman Catholic” have been held to be valid, 56  as has a gift expressed not to take effect until conversion to a particular religion.
+      - Where conditions are to be met, the requirements must be strictly adhered to, substantial compliance being insufficient.
+    - if a condition is repugnant to the grant 
+      - that is to say, it substantially restricts the grantee’s rights of alienation, as these are considered inherent features of a fee simple estate.
+  - fee tail def
+    - Aka estate tail or entail
+      - the fee tail descended to lineal heirs only
+    - Restricted fee, not simple fee (unrestricted)
+    - Abolished in Australia
+  - Estate Pur Autre Vie def
+    - can be created by express grant, as by a limitation “to A during the life of B”
+    - it will be created where the holder of an existing life estate (X) conveys that life estate to another person (Y); in such a case, the duration of X’s original life estate is not altered; and because it will determine when X dies, Y acquires an estate for the life of X.
+    - the person (B in the first case and X in the second) whose life governs the length of the estate is the “cestui que vie”.
+  - Conveyances inter vivos def
+    - a transfer of property made during a person's lifetime
+- Elitestone Ltd v Morris [1997] 1 WLR 687 (HL)
+  - Court:
+    - House of Lords
+  - Parties:
+    - Appellant: Elitestone Ltd (freehold owner seeking possession)
+    - Respondent: Morris (occupier claiming tenancy protection)
+  - Procedural History:
+    - First Instance (County Court): Assistant recorder ruled in favour of Morris, holding that the bungalow was part of the land and that Morris was a protected tenant under the Rent Act 1977 (UK).
+    - Court of Appeal: Reversed the decision, holding that the bungalow was a chattel, meaning Morris was not a protected tenant.
+    - House of Lords: Allowed the appeal, reinstating the assistant recorder’s decision.
+  - Original Dispute:
+    - Whether the bungalow was a chattel (movable property) or had become part of the land.
+  - Reason for Trial:
+    - Elitestone Ltd sought possession of the land, arguing that the occupiers were licensees, and that the bungalows were not part of the realty. Morris claimed tenancy protection under the Rent Act 1977, which applied only if the bungalow was part of the land.
+  - Material Facts:
+    - The freehold land contained 27 wooden bungalows, resting on concrete pillars but not physically attached to the ground.
+    - The bungalows could not be removed without demolition.
+    - Morris had occupied his bungalow since 1971, paying an annual licence fee.
+    - Elitestone sought possession, arguing that the bungalows were chattels owned by the occupiers, not part of the land.
+  - Issue Raised:
+    - Did the bungalow form part of the land (making Morris a protected tenant), or was it a chattel (allowing Elitestone to evict him)?
+  - Law(s)/Statute(s) in Contention:
+    - Rent Act 1977 (UK) – Applies only to tenancies of dwelling-houses.
+    - Common law principles of fixtures and annexation (Holland v Hodgson (1872)).
+  - Precedents Considered:
+    - Holland v Hodgson (1872) – Established annexation tests for determining whether an object becomes part of the land.
+    - Melluish v BMI (No.3) Ltd [1996] AC 454 – Confirmed that subjective intention does not affect whether something is a fixture.
+    - Webb v Frank Bevis Ltd [1940] – Considered whether a shed was a chattel or part of the land.
+  - Tests Applied:
+    - Degree of Annexation
+      - If an object cannot be removed without destruction, it is likely part of the land.
+      - The bungalow could not be moved without demolition, suggesting it was part of the realty.
+    - Purpose of Annexation
+      - Was the structure placed for temporary enjoyment or permanent use of the land?
+      - The bungalow was clearly intended as permanent accommodation, not as a temporary chattel.
+  - Words and Phrases Considered:
+    - "Fixture" vs. "Chattel" vs. "Part of the land" – The court rejected the traditional two-category distinction (fixture vs. chattel) and instead used a three-part classification:
+      - Chattel (movable, not part of the land)
+      - Fixture (affixed to the land but removable)
+      - Part of the land itself (integrated into the realty)
+  - Arguments by Party:
+    - Elitestone Ltd (Appellant)
+      - The bungalow was a chattel, resting by its own weight on concrete blocks.
+      - No physical attachment to the ground meant it did not form part of the land.
+      - Morris had always paid a licence fee, not rent, suggesting a licence, not a tenancy.
+    - Morris (Respondent)
+      - The bungalow was intended to be a permanent residence and could not be moved without demolition.
+      - The degree and purpose of annexation showed the bungalow was part of the land.
+      - He was a protected tenant under the Rent Act 1977.
+  - Judicial Opinions:
+    - Lord Browne-Wilkinson, Lord Lloyd of Berwick, Lord Nolan, Lord Nicholls of Birkenhead, and Lord Clyde all found in favour of Morris.
+    - They criticised the Court of Appeal’s reliance on the lack of physical attachment, ruling that a structure that cannot be removed without destruction must be part of the land.
+  - Legal Reasoning:
+    - The objective nature of annexation, not the parties' intentions, determines whether something becomes part of the land.
+    - A house that cannot be relocated without demolition is real property.
+    - The bungalow was integrated into the land and thus part of the tenancy.
+  - Ratio Decidendi:
+    - A structure that cannot be removed without being demolished becomes part of the land, regardless of whether it is physically affixed.
+  - Result:
+    - Appeal allowed. Morris was a protected tenant under the Rent Act 1977.
+  - Relevance to Modern Law:
+    - Clarified the test for whether a structure is a fixture, chattel, or part of the land.
+    - Reinforced tenancy protections for structures that are effectively permanent dwellings.
+    - Strengthened property law principles regarding annexation and land tenure.
+- Meridian Energy Australia Pty Ltd v Chief Commissioner of State Revenue (NSW)
+  - Court: Supreme Court of New South Wales
+  - Procedural History: 
+    - Appeal against a landholder duty assessment issued by the Chief Commissioner of State Revenue (NSW). The case revolves around the valuation methodology used to assess duty under Chapter 4 of the Duties Act 1997 (NSW).
+  - Original Dispute: 
+    - Whether Meridian’s acquisition of Green State Power (GSP) was subject to landholder duty, and how the value of leases and power stations should be determined for duty assessment.
+  - Reason for Trial: 
+    - Meridian challenged the Chief Commissioner’s valuation of GSP’s leases and associated assets, arguing that the leases should be valued at nil and that the Pacific Hydro Methodology should not apply.
+  - Material Facts
+    - Meridian acquired GSP, which owned leases for land at hydroelectric power stations (Burrinjuck, Keepit, and Hume).
+    - The leases were part of a broader business acquisition that included rights under water agreements, power stations, and other infrastructure.
+    - The Chief Commissioner assessed duty based on a valuation method that treated the power stations as fixtures forming part of the leased land.
+    - Meridian argued that the power stations were vested in GSP independently and should not be included in the valuation of the leases.
+    - The experts (Mr Dyson, Mr Samuel, and Mr Kepler) provided conflicting views on lease valuation methodologies and how the residual value of GSP’s assets should be allocated.
+  - Issue Raised
+- Whether the Pacific Hydro Methodology (derived from SPIC Pacific Hydro) was the correct method for valuing GSP’s leases.
+- Whether the Chief Commissioner correctly assessed the leases' value, including the right to use the power stations.
+- Whether the power stations should be classified as landholdings or goods under the Duties Act 1997 (NSW).
+- Whether s 163G of the Duties Act should apply to disregard the value of the power stations when determining duty.
+- Whether the Further Amended Assessment should be set aside.
+  - Law(s)/Statute(s) in Contention
+    - Duties Act 1997 (NSW), particularly:
+      - Chapter 4 (landholder duty)
+      - Section 155 (valuation of landholdings and goods)
+      - Section 163G (discretion to disregard value of goods)
+    - SPIC Pacific Hydro Pty Ltd v Chief Commissioner of State Revenue [2020] NSWCA 213 (Pacific Hydro Methodology)
+    - Spencer v The Commonwealth (1906) 5 CLR 418 (Spencer test for market valuation)
+  - Precedents
+    - SPIC Pacific Hydro Pty Ltd v Chief Commissioner of State Revenue [2020] NSWCA 213
+    - Power Rental Op Co Australia, LLC v Forge Group Power Pty Ltd (in liq) (2017) 93 NSWLR 765
+    - North Shore Gas Company Limited v Commissioner of Stamp Duties (NSW) (1940) 63 CLR 52
+    - MMAL Rentals Pty Ltd v Bruning (2004) 63 NSWLR 167
+    - Federal Commissioner of Taxation v Miley [2017] FCA 1396
+  - Tests Applied
+    - Spencer Test (Spencer v The Commonwealth): 
+      - Hypothetical willing but not anxious vendor and purchaser approach to market valuation.
+    - Pacific Hydro Methodology (SPIC Pacific Hydro): 
+      - Valuation of leasehold interest based on rental for plant and equipment, discounted to present value and adjusted for remediation costs.
+    - Residual Valuation Approach: 
+      - Used when assets are difficult to value directly, allocating the unaccounted-for value to the remaining asset.
+  - Words and Phrases Considered
+    - “Goods” under s 163K of the Duties Act
+    - “Fixtures” and their treatment under valuation principles
+    - “Residual valuation” as applied to leasehold and intangible assets
+  - Arguments by Party
+    - Meridian’s Arguments
+      - The Pacific Hydro Methodology was not applicable because GSP’s interest in the power stations was vested by statute, not granted under the leases.
+      - The leases should be valued at nil, as the market rental was already established in 2014 and did not change substantially by 2018.
+      - The power stations were not fixtures but sui generis assets, and thus should not be included in the valuation of the leases.
+      - If the power stations were goods, their value was more than 90% of GSP’s total assets, triggering s 163G of the Duties Act, which required the value of goods to be disregarded for duty assessment.
+    - Chief Commissioner’s Arguments
+      - The Pacific Hydro Methodology was the correct approach, as GSP’s right to use the power stations was linked to the leases.
+      - The leases should be valued at $144.85 million, including the power stations as part of the leased land.
+      - The residual value should be split between the leases and the water agreements, rather than allocated solely to the water agreements.
+      - The power stations were fixtures, and if they were not, they should be classified as “goods” under the Duties Act.
+    - Judicial Opinions
+      - The Court found that the Pacific Hydro Methodology was not applicable because GSP’s interest in the power stations did not derive from the leases.
+      - The leases had nil value under a proper residual valuation approach.
+      - The power stations were not fixtures forming part of the leased land.
+      - The power stations were not goods under the Duties Act.
+      - The assessment by the Chief Commissioner was set aside in full.
+    - Legal Reasoning
+      - The Court accepted Meridian’s argument that the leases should be valued at nil, as they did not include rights to the power stations.
+      - The Court found that GSP’s interest in the power stations was created by statute, not through leasehold rights, distinguishing this case from SPIC Pacific Hydro.
+      - The residual valuation approach was more appropriate than the Pacific Hydro Methodology given the unique nature of the assets.
+      - The power stations, despite being physically affixed to land, were not classified as goods under the Duties Act, avoiding duty liability on their value.
+  - Ratio Decidendi
+    - A leasehold interest should be valued based on actual market rental conditions, not assumed business profitability.
+    - Assets severed by statutory vesting orders are not necessarily landholdings or goods under the Duties Act.
+    - The Pacific Hydro Methodology is not a blanket rule for lease valuation; it depends on the nature of the lessee’s rights.
+  - Result
+    - Meridian’s appeal was allowed.
+    - The Chief Commissioner’s Further Amended Assessment was set aside in full.
+    - The dutiable value of the acquisition was determined to be nil.
+    - Costs were reserved for further submissions.
+  - Relevance to Modern Law
+    - This case clarifies the application of the Pacific Hydro Methodology and when it is appropriate for lease valuation.
+    - It reinforces the principle that statutory vesting orders can create unique property interests that do not fit traditional categories of landholdings or goods.
+    - It provides guidance on the application of s 163G of the Duties Act, particularly the threshold for disregarding goods in landholder duty assessments.
+- The Attorney-General v. Brown (1847)
+  - Court:
+    - Supreme Court of New South Wales
+  - Parties:
+    - Plaintiff: The Attorney-General (representing the Crown)
+    - Defendant: Brown (lessee under a Crown land grant)
+  - Procedural History:
+    - The case was originally heard before Justice Dickinson, who directed a verdict in favour of the Crown with only nominal damages. The defendant sought a new trial, which was heard before Chief Justice Stephen and the Supreme Court of New South Wales.
+  - Facts:
+    - In 1840, the Crown granted 60 acres of land in Newcastle to Dumaresq, under whom Brown was a lessee.
+    - The grant contained several reservations, including all mines of coal, gold, and silver, with the Crown retaining the right to search for and extract these minerals.
+    - Brown mined coal on the land, leading to an information of intrusion (a legal action for unlawful entry onto Crown land).
+    - Brown argued that the Crown had no possession of the land and that the coal was not excepted from the grant, only reserved. He also challenged the Crown's right to grant land and its title to waste lands in the colony.
+  - Legal Issues:
+    - Whether the Crown retained ownership of the coal mines despite granting the land.
+    - Whether an "office found" (a legal procedure to determine the Crown’s possession) was necessary to establish the Crown’s title.
+    - Whether the Crown had absolute ownership of waste lands in New South Wales.
+    - Whether the reservation of mines in the grant was void under 21 Jac. I, c. 3 (a statute against monopolies).
+    - Whether the description of the land’s boundaries was legally sufficient.
+    - Whether the Crown's grant created a tenure inconsistent with 12 Car. II, c. 24 (which abolished certain feudal tenures).
+  - Decision:
+    - The Supreme Court ruled in favour of the Crown, holding that:
+    - The Crown’s reservation of coal mines in the grant was an exception, meaning the mines never passed to the grantee or lessee.
+    - The Crown had continuous legal possession of the waste lands of the colony from the time of settlement in 1788 and did not require an "office found" to assert its title.
+    - The feudal principle that all land is held from the Crown applied in New South Wales, meaning land tenure in the colony was based on free and common socage, not allodial ownership.
+    - The reservation of coal mines did not constitute a monopoly under 21 Jac. I, c. 3.
+    - The Crown had validly described the land’s boundaries.
+    - The grant did not create an impermissible tenure under 12 Car. II, c. 24.
+  - Ratio Decidendi (Legal Reasoning):
+    - The term "reserving" in the grant was interpreted as creating an exception, meaning the coal remained Crown property and was not part of the land conveyed.
+    - The Crown had automatic legal possession of all waste lands in the colony from the time of British settlement, meaning an "office found" was unnecessary.
+    - The Crown’s right to grant and reserve lands and minerals was a fundamental principle of English law, applied to the colony.
+    - The feudal tenure system (where land is ultimately held from the Crown) applied in New South Wales, and the land was granted under free and common socage, a valid tenure under 12 Car. II, c. 24.
+  - Significance:
+    - Confirmed Crown ownership of all waste lands in New South Wales, reinforcing the principle that land tenure in the colony derived from the Crown.
+    - Clarified the interpretation of reservations and exceptions in Crown land grants, affirming that retained minerals did not pass to grantees unless explicitly granted.
+    - Rejected the argument that New South Wales land tenure was allodial, affirming the continuing application of English feudal land law.
+    - Upheld the Crown’s right to reserve resources such as minerals in land grants without violating laws against monopolies.
+    - The case remains a fundamental precedent in Australian property and Crown land law, influencing later decisions on native title and Crown land tenure.
+- Fejo v Northern Territory (1998) 195 CLR 96
+  - Procedural History:
+    - The case originated in the Federal Court of Australia, where O’Loughlin J dismissed the Larrakia people’s claim for native title.
+    - The appellants appealed to the Full Federal Court.
+    - The High Court of Australia removed the appeal and determined the central issue regarding the extinguishment of native title.
+  - Original Dispute:
+    - The Larrakia people, a group of Aboriginal Australians, lodged a native title application over land near Darwin, Northern Territory.
+    - The Northern Territory Government had subdivided and granted Crown leases over the land.
+    - The applicants sought recognition of their native title rights and an injunction to prevent further dealings with the land.
+  - Reason for Trial:
+    - The key legal question was whether the grant of a fee simple interest in land extinguished native title permanently or if native title could be revived once the land returned to Crown ownership.
+  - Material Facts:
+    - The land in question was granted in fee simple in 1882 under the Northern Territory Land Act 1872 (SA).
+    - The Commonwealth later acquired the land in 1927 for quarantine purposes.
+    - The Northern Territory Government subsequently granted Crown leases over the land, with conditions allowing lessees to convert the leases into freeholds.
+    - The Larrakia people claimed native title over the land and argued that native title was not permanently extinguished.
+  - Issue Raised:
+    - Did the 1882 grant of a fee simple estate permanently extinguish native title?
+    - Could native title revive when the land later returned to Crown ownership?
+    - Was the Federal Court correct in dismissing the claim summarily?
+  - Law(s)/Statute(s) in Contention:
+    - Native Title Act 1993 (Cth), particularly Part 2, Division 3, Subdivision B (right to negotiate).
+    - Mabo v Queensland (No 2) (1992) 175 CLR 1 (recognition of native title).
+    - Lands Acquisition Act 1906 (Cth) (compulsory acquisition and extinguishment of rights).
+  - Precedents:
+    - Mabo v Queensland (No 2) (1992) 175 CLR 1 (native title can exist unless extinguished by inconsistent rights).
+    - Western Australia v The Commonwealth (1995) 183 CLR 373 (Native Title Act governs extinguishment).
+    - Wik Peoples v Queensland (1996) 187 CLR 1 (pastoral leases do not necessarily extinguish native title).
+  - Tests:
+    - The court applied the "inconsistency of incidents" test, considering whether native title rights could co-exist with the rights conferred by a fee simple grant.
+  - Words and Phrases Considered:
+    - Extinguishment: Permanent loss of native title rights due to inconsistent legal grants.
+    - Fee simple: The highest form of private land ownership, giving exclusive possession and use.
+  - Arguments by Parties:
+    - Appellants (Larrakia People)
+      - The 1882 grant did not necessarily extinguish native title.
+      - If native title was affected, it was only suspended, not extinguished permanently.
+      - Native title should revive when land returns to Crown ownership.
+    - Respondents (Northern Territory & Oilnet (NT) Pty Ltd)
+      - A grant in fee simple is wholly inconsistent with native title and extinguishes it permanently.
+      - Native title does not revive once land returns to Crown ownership.
+      - The claim was bound to fail and should be dismissed summarily.
+  - Judicial Opinions:
+    - Majority (Gleeson CJ, Gaudron, McHugh, Gummow, Hayne, and Callinan JJ)
+      - A grant in fee simple extinguishes native title permanently because it confers the highest rights of ownership, inconsistent with native title.
+      - Native title is not merely suspended but is entirely extinguished.
+      - When the land later returned to the Crown, it did so without any residual native title rights.
+      - The Native Title Act protects native title where it exists but does not revive extinguished rights.
+      - The Federal Court correctly dismissed the case, as the claim had no reasonable prospects of success.
+    - Dissent (Kirby J)
+      - Agreed with the majority that native title is extinguished by a fee simple grant.
+      - However, he suggested that the procedural rights of native title claimants under the Native Title Act should have been better considered.
+      - He questioned whether native title could, in some circumstances, be "revived" if land returned to the Crown.
+  - Legal Reasoning:
+    - Native title is a fragile right that exists only to the extent that it is not inconsistent with other legal rights.
+    - A grant of fee simple is the most extensive proprietary right under common law and necessarily extinguishes native title.
+    - Once extinguished, native title cannot be revived, as there is no mechanism under common law to restore it.
+    - The Native Title Act does not provide for the revival of extinguished native title.
+  - Ratio Decidendi:
+    - A grant of an estate in fee simple extinguishes native title permanently because it is inconsistent with the continuation of native title rights.
+    - Native title cannot revive even if land later returns to Crown ownership.
+    - The Federal Court was correct to dismiss the claim summarily as it had no reasonable prospect of success.
+  - Result:
+    - The appeal was dismissed.
+    - The High Court held that native title had been permanently extinguished by the 1882 fee simple grant.
+    - The case was remitted to the Full Federal Court for further proceedings in accordance with the High Court's ruling.
+    - The appellants were ordered to pay costs.
+  - Relevance to Modern Law:
+    - Confirmed the principle that a grant of fee simple is wholly inconsistent with native title and permanently extinguishes it.
+    - Established that native title does not "revive" when land returns to Crown ownership.
+    - Reinforced the strict approach courts take in determining native title claims.
+    - Provided clarity on the operation of the Native Title Act 1993 (Cth) and the right to negotiate.
+  - Significance:
+    - Fejo v Northern Territory remains a critical case in Australian native title law, confirming the absolute nature of fee simple grants in extinguishing native title.
+    - The decision shaped subsequent native title litigation and policy, particularly regarding land tenure systems in Australia.
+    - It clarified the legal principles guiding extinguishment and provided certainty for landholders and governments regarding the interaction of property rights and native title.
+- Mabo v Queensland (No 2) (1992) 175 CLR 1
+  - Procedural History:
+    - This case was brought before the High Court of Australia as a challenge to the long-standing principle of terra nullius, which had been used to justify Crown ownership of land in Australia. The case followed an earlier challenge (Mabo v Queensland (1988) 166 CLR 186) that resulted in the Queensland Coast Islands Declaratory Act 1985 (Qld) being struck down for inconsistency with the Racial Discrimination Act 1975 (Cth).
+  - Original Dispute:
+    - The plaintiffs, led by Eddie Mabo, sought recognition of native title over the Murray Islands in the Torres Strait, arguing that their traditional land rights had survived the annexation of the islands by the Crown.
+  - Reason for Trial:
+    - To determine whether the common law of Australia recognised native title, and if so, whether it had survived the Crown’s assumption of sovereignty.
+  - Material Facts:
+    - The Murray Islands (Mer, Dauar, and Waier) were annexed by Queensland in 1879.
+    - The Meriam people, including Eddie Mabo and the other plaintiffs, had occupied and cultivated land on these islands for generations, following a complex system of traditional ownership.
+    - The doctrine of terra nullius had previously justified Crown ownership of all land in Australia on the assumption that the land belonged to no one at the time of British colonisation.
+    - The Queensland Government argued that all land rights were extinguished upon annexation and that the land belonged to the Crown.
+  - Issue Raised:
+    - Does the common law of Australia recognise native title?
+    - Did the Meriam people have a recognisable system of land ownership under common law?
+    - If native title exists, had it been extinguished by the Crown?
+  - Law(s)/Statute(s) in Contention:
+    - Common law principles of property and tenure
+      - Queensland Coast Islands Declaratory Act 1985 (Qld)
+      - Racial Discrimination Act 1975 (Cth)
+      - Land Act 1962 (Qld)
+  - Precedents:
+    - Cooper v Stuart (1889) 14 App Cas 286 (held that NSW was “practically unoccupied” before British settlement)
+    - Attorney-General v Brown (1847) 1 Legge 312 (held that all land in NSW was owned by the Crown)
+  - Tests:
+    - Whether the Meriam people had a recognisable system of laws and customs governing land ownership.
+    - Whether the Crown’s assumption of sovereignty automatically extinguished native title.
+  - Words and Phrases Considered:
+    - Terra nullius – The doctrine that land was unoccupied prior to colonisation and therefore automatically belonged to the Crown.
+    - Native title – The legal recognition of the traditional land rights of Indigenous Australians under common law.
+  - Arguments by Party:
+    - Plaintiffs (Eddie Mabo & others):
+      - The Meriam people had a clear system of land ownership under their traditional laws and customs.
+      - Native title should be recognised in the same way that common law respects pre-existing property rights.
+      - The Crown’s annexation of the islands did not extinguish their land rights.
+    - Defendant (State of Queensland):
+      - Upon annexation, all land became Crown land and any pre-existing native land rights were automatically extinguished.
+      - There was no recognition of native title under common law.
+    - Judicial Opinions:
+      - Majority (Brennan, Deane, Toohey, Gaudron & Mason JJ):
+        - Native title exists where Indigenous groups have a traditional connection to the land.
+        - Native title is not automatically extinguished by Crown sovereignty.
+        - However, native title can be extinguished by inconsistent Crown grants (e.g., grants of freehold or leasehold).
+        - The doctrine of terra nullius was incorrect and should not have been applied to Australia.
+      - Dissenting (Dawson J):
+        - The traditional doctrine of Crown ownership of land should be maintained.
+  - Legal Reasoning:
+    - The common law recognises native title, which exists independently of the Crown’s recognition.
+    - Native title survives the Crown’s assumption of sovereignty unless extinguished by an act that is inconsistent with its continued existence.
+    - Fee simple grants (freehold) are wholly inconsistent with native title and therefore permanently extinguish it (Fejo v Northern Territory (1998) 195 CLR 96 later confirmed this).
+    - Crown land without inconsistent grants remains subject to native title.
+  - Ratio Decidendi:
+    - Native title exists under the common law of Australia.
+    - It can be extinguished by Crown grants that are inconsistent with native title rights.
+    - The doctrine of terra nullius was incorrect and did not apply to Australia.
+  - Result:
+    - The High Court ruled in favour of the plaintiffs (6:1).
+    - Native title was recognised as part of Australian common law.
+    - The Murray Islanders retained native title over their land, subject to any valid extinguishment.
+  - Relevance to Modern Law:
+    - Led to the enactment of the Native Title Act 1993 (Cth), which provides a legal framework for recognising and protecting native title.
+    - Overturned terra nullius, acknowledging that Indigenous Australians had land rights before British colonisation.
+    - Established principles later applied in Wik Peoples v Queensland (1996) 187 CLR 1, which held that pastoral leases do not necessarily extinguish native title.
+  - Significance:
+    - Recognised native title for the first time in Australian history.
+    - Marked a fundamental shift in Australian property law and Indigenous land rights.
+    - Led to reconciliation efforts and native title claims across Australia.
+    - Confirmed that native title does not revive once extinguished (as later reinforced in Fejo (1998)).
+## Week 3: The Torrens System: The Register, Indefeasibility and Exception
+
+- Torrens I
+  - Real Property Act 1900 (NSW)
+    - Our system of landholding is known as the ‘Torrens system’
+      - It is named after its inventor, Sir Robert Torrens.
+    - The Act that controls Torrens Title is the Real Property Act 1900 (NSW).
+      - Note: the word ‘Torrens’ does not appear in the Act
+    - Torrens is a system of titling based on registration.
+      - i.e. Title by registration, NOT registration of title
+  - Why Torrens?
+    - The Torrens System was first introduced in South Australia in 1858
+    - It was introduced as a new system of land titling, designed to replace what is known as ‘old system titling’
+    - This system had been inherited from England and in the new colonies proved complex, costly and inefficient.
+      - This was particularly so in South Australia. By 1857 75% of an estimated 40000 land titles issued had been lost, up to 5000 were likely invalid and conveyancing sometimes cost up to twice the value of the land.
+    - Old system title conveyancing relied on ‘chains of title’.
+  - Old System - Chain of Title
+    - A chain of title is the sequence of title transfers to a property from the present owner back to the property's original owner.
+    - What was needed was a ‘good root of title’:
+      - Physical possession of all the documents showing previous transfers to the present owner,
+      - Possession of all prior dealings,
+      - Able to verify that they were validly signed (ie. not forged).
+    - Any problems in these documents would leave the purchaser vulnerable to someone else attempting to claim a better estate or interest, or that their purchase was subject to another interest.
+      - eg an easement or a mortgage
+  - The Torrens Register – the One Stop Shop
+    - The Torrens System was designed to be a kind of ‘one stop shop’. Instead of having to show a chain of documents, a purchaser only needs to refer to interests recorded on the register.
+      - the purchaser does not need to investigate the history; ie. no need to look behind the register (the ‘curtain principle’): see Gibbs v Messer [1891] AC 248 at 254
+    - Once a purchaser had registered the estate or interest then they held it free from all other interests; subject only to a small number of exceptions
+      - The owner of a parcel of land was issued a certificate of title (or ‘CT’) which was an exact duplicate copy of a folio (or page) in the Register of Titles.
+      - When any dealings happened with affected that parcel the folio was updated and new matching CT issued
+  - Historic (Manual) Certificate of Title
+    - Note all the transactions can be seen on one title:
+    - 1 = Details of registered proprietor, initial sub-division and grantor.
+    - 2 = First Mortgage.
+    - 3 = Discharge of First Mortgage
+    - 4 = Transfer of 50% interest
+    - 5 = Further Mortgage
+    - 6 = Discharge of Further Mortgage
+  - The Torrens System
+    - Introduced by Real Property Act 1862 (NSW)
+      - Now Real Property Act 1900 (NSW)
+    - The first title under the Act was issued in 1863 in Randwick
+    - In January 2022 alone, 73,905 dealings were lodged for registration in New South Wales Torrens in NSW
+  - Torrens in NSW
+    - The relevant government department is Land Registry Services (LRS)
+    - In 2016 the government leased the operation of the Land Titles Registry to a private corporation although the LRS retains the Office of the Registrar General
+  - Torrens Land
+    - All grants of land made in NSW after 1 January 1863 are held according to the Torrens system and under the provisions of the Real Property Act 1900
+    - Grants of land made before that date need to be converted from old system to Torrens.
+      - Between 1863 and 1999 approximately 204,000 old system titles were converted
+    - However, thousands of titles were still held under old system and were outside the Torrens System
+    - Between 2004 and 2006, and again in 2009, steps were taken to bring all the remaining old system titles within Torrens.
+      - By the end of 2015 less than 1000 remained. In 2017 this constituted 0.027% of titles in New South Wales
+  - Manual to Comuterised Titles
+    - Initially land under Torrens was held under manual title
+    - In 1983 the process of conversion from paper to computerisation began
+    - Electronic titles are held within the Integrated Titling System (ITS)
+    - Less than 1% of titles in New South Wales are yet to be computerised. These are mainly the few old system titles awaiting conversation to Torrens
+  - The Register
+    - The Register is central to the Torrens System
+    - Section 31B:
+      - (1) The Registrar-General shall cause a Register to be maintained for the purposes of this Act.
+      - (2) The Register shall be comprised of:
+        - (a) folios,
+        - (b) dealings registered therein under this or any other Act,
+        - (c) the record required to be kept pursuant to section 32 (7),
+        - (d) instruments of a prescribed class, and
+        - (e) records required by the regulations to be kept as part of the Register.
+  - The Register and folios
+    - Section 32(1):
+      - The Registrar-General creates a folio of the Register for land by making a record of:
+        - (a) a description of the land and of the estate or interest therein for which it is created,
+        - (b) a description of the proprietor for the time being of the estate or interest and the fact that any such proprietor is a minor if the Registrar-General knows that to be the case, and
+        - (c) such particulars, as the Registrar-General thinks fit........ and by allocating a distinctive reference to the record so made
+  - The Folio
+    - Land is considered to be registered in NSW on creation of a folio for that parcel of land.
+    - More than one estate can be recorded in a folio.
+  - Section 32(1): Distinctive Reference
+    - This does not mean ‘residential, pretty and in Glebe’. Nor does it mean 23 Smith Street.
+    - This refers to the unique identifier given to every folio
+    - On the slide before the identifiers are:
+      - Folio 28 Vol 7667
+    - Since computerization this formulation has changed to a lot on plan number. The current title reference of this land is still 28/7667, but this now refers to Lot 28 on Deposited Plan 7667
+  - Section 33: Information Notice
+    - Since 11 October 2021 Certificates of Title are no longer issued.
+    - 33 Information notice
+      - (1) On the registration of a dealing, the Registrar-General may issue to the person who lodged the dealing a notice, in the form approved by the Registrar-General, that notes the registration of the dealing.
+      - (2) A notice issued under this section is an information notice only.
+      - (3) A notice issued under this section—
+        - (a) does not confer or affect any interest, however described, in the land the subject of the dealing, and
+        - (b) cannot be used as, or in substitute for—
+          - (i) an official search as defined in section 96A, or
+          - (ii) a document under the Conveyancing Act 1919.
+  - Registration
+    - Section 36(6A)
+      - A dealing is registered when the Registrar-General has made such recording in the Register with respect to the dealing as the Registrar-General thinks fit.
+    - A dealing is any instrument that is registrable or capable of being made registrable – s 3(1)(a). So this would include easements, mortgages, transfers, leases
+    - In practice, this means that a dealing is registered when the computer record for that dealing is altered.
+      - Section 41 provides that a dealing is not effectual until recorded in the Register.
+      - The folio of the register is updated.
+      - Records are updated overnight
+    - The person who is the registered owner of the estate or interest is known as the ‘registered proprietor’
+    - You can be a registered proprietor of:
+      - an estate in fee simple;
+      - a life estate; or
+      - an interest:
+      - a mortgage;
+      - a lease; or
+      - an easement etc.
+    - If you are the registered proprietor, then you have indefeasibility over the estate or interest recorded.
+  - Section 36: Order of Registration
+    - (4) Where two or more dealings which affect the same land have been lodged and are awaiting registration, the Registrar-General may register those dealings in the order which will give effect to the intentions of the parties as expressed in, or apparent to the Registrar-General, from the dealings.
+    - (5) Subject to section 12A, where the intentions of the parties to dealings referred to in subsection (4) appear to the Registrar-General to conflict, the order of registration shall be the order in which the dealings were lodged in registrable form.
+    - ...
+    - (9) Dealings registered with respect to, or affecting the same estate or interest shall, notwithstanding any notice (whether express, implied or constructive), be entitled in priority the one over the other according to the order of registration thereof and not according to the dates of the dealings.
+- Indefeasibility def
+  - An Introduction to Indefeasibility
+    - This term does not appear in the Real Property Act 1900 (NSW).
+    - Nevertheless, it is arguably the centrepiece of the Torrens system of land-holding.
+    - It operates by virtue of section 42.
+      - An indefeasible title is one that is conclusive.
+      - An indefeasible title is one that cannot be set aside due to a defect existing in that title prior to its registration.
+      - If one has an indefeasible estate or interest then that estate or interest is held free from all other interests that are not on the register (unless there is an exception)
+  - How do we transfer an estate?
+    - Two parties enter into a contract for sale.
+      - On a nominated day, the contracts are exchanged, and the purchaser pays a deposit. The parties are bound by the contract. This means that the contract is specifically enforceable by the purchaser.
+      - In equity, the purchaser is deemed the owner (this is known as the doctrine of conversion) , but the legal estate does not pass until registration.
+    - A date is nominated for settlement. The purchase money will be transferred on this day, and the incoming purchaser will be registered as the owner.
+      - The conveyance occurs electronically.
+      - On 11 October 2021, new changes to our titling system were introduced.
+        - The Real Property Amendment (Certificates of Title) Act 2021 allows for cancelling CTs and moving NSW to 100% electronic lodgement of land transactions.
+  - Indefeasibility – an example
+    - Chris owns an estate in fee simple. He is the current Registered Proprietor. He sells the estate to Toby. Toby becomes the new registered proprietor. One year prior to the sale, Chris had created a lease over the property in favour of Ben. Toby did not know this.
+      - Is Toby bound by the lease or (more accurately) is the lease enforceable against Toby?
+    - According to Real Property Act section 42(1), Toby has indefeasible title.
+      - But that phrase is not actually in s 42(1). What does s 42(1) actually say?
+  - Real Property Act s 42(1)
+    - Notwithstanding the existence in any other person of any estate or interest which but for this Act might be held to be paramount or to have priority, the registered proprietor for the time being of any estate or interest in land recorded in a folio of the Register shall, except in case of fraud, hold the same, subject to such other estates and interests and such entries, if any, as are recorded in that folio, but absolutely free from all other estates and interests that are not so recorded except …
+  - Example Title Search
+    - 1 = Folio ID
+    - 2 = Search Information
+    - 3 = Land Description
+    - 4 = First Schedule
+    - 5 = Second Schedule
+  - Immediate Indefeasibility
+    - Immediate
+      - indefeasibility is conferred immediately upon registration of the instrument. Even in cases of
+      - fraud/forgery (Frazer v Walker; Breskvar v Wall)
+      - • This is the approach we apply.
+    - Compare with:
+      - Deferred
+        - the title of a purchaser who registers a forged instrument is ‘defeasible’; that is, it can be set aside by a court if an action is brought by the original owner. However, if the purchaser on-sells the property to an innocent purchaser who registers in good faith, their title is indefeasible (Gibbs v Messer 1891)
+  - Frazer v Walker [1967] 1 AC 569
+    - Mr and Mrs Frazer were registered proprietors of a farm in Auckland.
+    - Mrs Frazer who purported to be acting for both Mr Frazer (the appellant) and herself, negotiated a loan from a couple - the Radomski’s (the second respondent) - of 3000 pounds.
+    - In order to secure the loan Mrs Frazer gave the Radomski’s a mortgage over the farm, forging her husband’s signature.
+    - She took the form to her solicitor's office, where she signed her own signature, and the clerk signed as a witness to both Mr Frazer and Mrs Frazer’s signatures, despite not having actually seen Mr Frazer sign the document.
+      - This is known as ‘false attestation’ – the solicitor has falsely ‘attested’ that they confirmed the identity of the person who signed the document and they signed it under supervision.
+    - The mortgage to the Radomski’s was registered and appeared as a registered interest on the relevant folio.
+      - Mrs Frazer made no payment of either principle or interest under the mortgage.
+      - Eventually after receiving no payments, the Radomski’s exercised their power of sale and sold the property to Mr Walker (the first respondent). He became the new registered proprietor.
+      - Neither the Radomski’s or Mr Walker had any knowledge of the forgery.
+      - Once Walker became the registered proprietor, he brought action against Mr Frazer for possession of the land.
+    - Mr Frazer claimed that he had not known what his wife had been up to.
+      - Mr Frazer counter-claimed against Mr Walker, seeking a declaration that because his signature was forged on the mortgage the mortgage was null and void.
+  - What interest did each party have?
+    - Mr and Mrs Frazer: original registered proprietors
+    - Mr and Mrs Radomski: registered mortgagees
+    - Mr Walker: new registered proprietor
+    - Key Legal Issues:
+      - TIP: We always start by focusing on the current registered proprietor: here, its Mr Walker
+      - Did Mr Walker get immediate indefeasibility?
+        - As he did not know of the forgeries did registration confer immediate indefeasibility such that he took free of any claim by Mr Frazer?
+      - In other words, could Mr Walker become a valid registered proprietor with indefeasibility despite the original mortgage being void for forgery?
+  - When transacting land under the Torrens system, the following types of fraud can occur:
+    - Forgery – A party fraudulently signs or alters a document without proper authority (e.g., Frazer v Walker [1967] 1 AC 569).
+    - False Attestation – A person falsely witnesses a signature, often leading to fraudulent registration (e.g., Schultz v Corwill Properties (1969) 90 WN 529).
+    - Fraudulent Misrepresentation – A seller or registered proprietor knowingly makes false statements to induce a sale (e.g., Loke Yew v Port Swettenham [1913] AC 491).
+    - Fraud on the Registrar-General – A party knowingly submits false information to deceive the Registrar-General into registering an invalid interest.
+    - Fraud by an Agent – Fraudulent conduct by an authorised agent can be imputed to the principal if it occurs within the scope of their authority (e.g., Cassegrain v Gerard Cassegrain & Co Pty Ltd [2015] HCA 2).
+    - Wilful Blindness – A party deliberately avoids making inquiries into possible fraud when reasonable suspicion exists (e.g., Assets Co v Mere Roihi [1905] AC 176).
+  - Breskvar v Wall (1971) 126 CLR 376
+    - Mr and Mrs Breskvar executed a transfer to Mr Petrie as security for a loan.
+    - Mr Petrie fraudulently used the transfer and sold it to his grandson, Mr Wall, who became the registered owner.
+    - Mr Wall sold the property to Alban Pty Ltd, but before they could register their interest, the Breskvars lodged a caveat which prevented the sale from being completed.
+    - The Breskvars sought a declaration that the transfer to Alban was invalid.
+    - Key fact: prior to registration, the transfer was void.
+      - Not because of forgery – the Breskvars signed the transfer – but because there was no transferee named (the form was incomplete). Therefore, it was void under the Qld Stamp Act.
+    - Barwick CJ at 385-386
+      - The Torrens system of registered title of which the Act is a form is not a system of registration of title but a system of title by registration. That which the certificate of title describes is not that title which the registered proprietor formerly had, or which but for registration would have had. The title it certifies is not historical or derivative. It is the title which registration itself has vested in the proprietor. Consequently, a registration which results from a void instrument is effective according to the registration. It matters not what the cause or reason for which the instrument is void
+    - Menzies J at 397
+      - ... Frazer v Walker is important here in establishing that, if and to the extent that earlier decisions were to the effect that indefeasible title cannot be acquired by the registration of a void instrument, they have lost their authority. It must now be recognised that, in the absence of fraud on the part of the transferee, or some other statutory ground for exception, an indefeasible title be acquired by virtue of a void transfer. It seems to me to follow that, where there is fraud or one of the other statutory exceptions to indefeasibility, a transferee does, by registration of a void transfer, obtain a defeasible title.
+    - In Breskvar v Wall, Mr Wall became the new registered proprietor due to fraud. His grandfather (Mr Petrie) inserted Mr Wall’s name in the transfer and registered it.
+      - Per Walsh J at 408:
+        - In my opinion, the appellants would be entitled, as between themselves and Wall, to have the registered title restored to them because of the fraud by which he was found to have been affected.
+        - He could not defeat their claims by reliance upon his registered title…
+      - Per Menzies J:
+        - After the registration of Wall as registered proprietor the appellants' rights were no longer those of registered proprietors but were simply to impeach the indefeasible title which Wall had obtained by that registration.
+  - Volunteers
+    - A volunteer is one who does not provide valuable consideration.
+    - Can a registered proprietor who is a volunteer receive the benefits of indefeasibility?
+    - This varies considerably across the states and is still quite controversial.
+    - Although the decision is not without its critics, in Bogdanovic v Koteff (1988) 12 NSWLR 472 the NSWCA held that, in NSW, volunteers gain indefeasibility on registration.
+  - Scope of Indefeasibility
+    - There are two issues here:
+      - 1. An interest that is uncertain or does not meet the criteria for validity for that interest is not somehow made valid by registration.
+      - Example:
+        - At common law, an easement has 4 criteria for validity: if any of these are missing, then it is not a valid easement. Registration will not somehow make the easement valid where it would otherwise not be: See Bursill Enterprises v Berger Bros (1971) 124 CLR 73.
+        - An application could be brought to the Supreme Court to have the interest declared invalid, and it would then be removed from the register.
+          - We will return to this when we consider the law relating to leases and easements.
+      - 2. Even if an interest is considered to be indefeasible that does not mean that every provision in the instrument will receive the benefit of indefeasibility
+      - Example:
+        - if a lease is registered and receives the benefit of indefeasibility, does that mean that every covenant in the lease receives that benefit? What about, say, an option to renew?
+        - This is a complex question
+          - We will return to this when we consider the law relating to mortgages and to leases.
+  - Do you need to searching behind the Register
+    - Section 42(1) – the registered proprietor is ... “subject to such other estates and interests and such entries, if any, as are recorded in that folio”
+      - Do you need to go behind the register to check the nature and extent of the interests recorded on the folio?
+        - Bursill v Berger: Two adjoining blocks of land. The folios of each referred to a ‘right of way’ (or easement) in the following terms:
+          - Right of Way created and more fully set out in ... Transfer No 7922 affecting parcels [X] and [Y]
+        - The interest was labelled a ‘right of way’, but did not meet the criteria for an easement. Rather it was a grant in fee simple of airspace. Mr Bursill argued that as the Register stated it was a ‘right of way’, then that was all that was conferred.
+        - So, did Mr Bursill have to look at the details of Transfer No 7922? Yes, he did.
+      - You cannot take the Registrar of Titles interpretation of interests at face value. Their administrative interpretation of rights will not prevail over a court’s legal interpretation. A careful and prudent purchaser should inspect the instrument behind the transfer
+  - Bursill Enterprises v Berger Bros (1971) 124 CLR 73
+    - Court: High Court of Australia
+    - Parties: Bursill Enterprises Pty Ltd (Appellant) v Berger Bros Trading Co Pty Ltd (Respondent)
+      - Procedural History: Appeal and cross-appeal from the Supreme Court of New South Wales regarding rights over a right of way and buildings constructed above it.
+    - Facts:
+      - Berger Bros claimed rights over a right of way running through Bursill's land and exclusive use of a building constructed above it.
+      - The right of way was initially created in 1840 and extended by a 1872 memorandum of transfer (Transfer No. 7922), which also purported to grant rights over buildings above the way.
+      - The dispute concerned whether the transfer created an easement or conferred ownership of the airspace/building above the right of way.
+      - Bursill, as the current registered proprietor, argued that its title was indefeasible and the rights over the buildings had not been properly registered.
+    - Legal Issue:
+      - Whether the rights over the building constituted an easement (protected under s 42(1)(b) of the Real Property Act 1900 (NSW)) or a separate property interest that required proper notification on the register.
+      - Whether the notification on the folio of the register was sufficient to preserve Berger Bros’ claimed rights against Bursill’s indefeasible title.
+    - Decision:
+      - The High Court found that the transfer did not create an easement but rather transferred a property interest in the airspace/building.
+      - This interest was not properly notified on the register, meaning Bursill, as the registered proprietor, held an indefeasible title free from Berger’s claimed interest.
+      - The appeal by Bursill was allowed, and Berger’s cross-appeal was dismissed.
+    - Ratio Decidendi:
+      - A property interest (such as ownership of airspace above land) must be properly notified on the register to bind a subsequent registered proprietor.
+      - The mere reference to an easement in the register was insufficient to constitute notification of a separate interest in land (such as an interest in a building or airspace).
+      - Indefeasibility protects a registered proprietor from unregistered interests unless an exception under s 42 applies.
+    - Significance:
+      - This case reinforces the principle that the Torrens system is a system of title by registration, not registration of title.
+      - Purchasers must carefully examine interests recorded on the register, but are not bound by unregistered interests.
+      - The case clarifies that an interest not properly notified in the folio is not an exception to indefeasibility under s 42(1)(b).
+  - Unregistered Interests?
+    - In order to gain indefeasibility, an estate or interest must be registered. So, what is the position of unregistered interests in the Torrens System?
+      - The extent to which Robert Torrens considered how unregistered interests would sit in a system of title by registration is not clear.
+      - Regardless, the courts have consistently recognised unregistered interests in Torrens land. It is quite possible, as we will see, to create valid interests in Torrens land without registration. The issue (at least for this topic) is, however, whether they are enforceable against the title of the registered proprietor.
+      - In Barry v Heider (1914) 19 CLR 197, Issacs J held that the purpose of Torrens is to give certainty of title to registered proprietors.
+        - It is not to destroy any rights (legal or equitable) behind the registration.
+        - In certain circumstances, obligations arising at law or in equity can be enforced against the registered proprietor.
+        - The question is when can they be enforced?
+- The Fraud Exception to Indefeasibility
+  - An Introduction to the Exceptions of Indefeasibility
+    - There are a number of exceptions to indefeasibility.
+    - They are:
+      - Fraud
+        - This is the most common exception – look to sections 42(1) and 43.
+    - Statutory exceptions
+      - These are very uncommon in practice – look to sections 42(1)(a)-(d).
+    - In personam exception (sometimes called the ‘personal equities’ exception)
+      - Arises from claims relating to pre-existing common-law or equitable interests.
+  - Section 42(1)
+    - Notwithstanding the existence in any other person of any estate or interest which but for this Act might be held to be paramount or to have priority, the registered proprietor for the time being of any estate or interest in land recorded in a folio of the Register shall, except in case of fraud, hold the same, subject to such other estates and interests and such entries, if any, as are recorded in that folio, but absolutely free from all other estates and interests that are not so recorded except ...”
+  - Fraud and Notice – Section 43
+    - Except in the case of fraud no person contracting or dealing with or taking or proposing to take a transfer from the registered proprietor of any registered estate or interest shall be required or in any manner concerned to inquire or ascertain the circumstances in or the consideration for which such registered owner or any previous registered owner of the estate or interest in question is or was registered, or to see to the application of the purchase money or any part thereof, or shall be affected by notice direct or constructive of any trust or unregistered interest, any rule of law or equity to the contrary notwithstanding; and the knowledge that any such trust or unregistered interest is in existence shall not of itself be imputed as fraud.
+  - Who has to be fraudulent?
+    - For there to be an exception to the indefeasibility of the registered proprietor the fraud must be brought home to that registered proprietor.
+      - So, the only relevant fraud is that undertaken on the part of the current registered proprietor (or their agent).
+    - Fraud in earlier transactions is not relevant
+  - Agency
+    - The idea that fraud must be ‘brought home to the registered proprietor’ allows for the fact that fraud may be on the part of an agent.
+    - Generally, agency means one party (the principal) grants another party (the agent) authority to act on their behalf with third parties.
+      - Eg. a real estate agent, an employee, an investment account manager etc.
+  - Cassegrain v Gerard Cassegrain & Co Pty Ltd [2015] HCA 2
+    - Gerard Cassegrain & Co Pty Ltd owned several parcels of land in NSW known as the “Dairy Farm”. Claude Cassegrain was a director of Cassegrain.
+    - Claude fraudulently transferred the title of the Dairy Farm to himself and his wife, Felicity, as joint tenants. The transfer was registered. Felicity was not aware of the fraud.
+    - Later, Claude transferred his interest in the Dairy Farm to Felicity for $1.
+    - One of Cassegrain’s shareholders (in the name of the company) brought an action against Claude and Felicity, seeking orders that the title to the Dairy Farm be transferred back to Cassegrain because of the fraud.
+    - Clearly, Claude Cassegrain had committed fraud. But Felicity Cassegrain had not committed any fraud.
+    - As she was the current registered proprietor, section 42 requires that the fraud be brought home to Felicity?
+    - The HCA confirmed that if fraud by an agent can be brought home to the registered proprietor the RP’s title would be defeasible.
+    - So the question became, was Claude Cassegrain acting as her agent in the first transaction?
+      - That raises the obvious question of what it means to be an agent in this context?
+      - Just because Claude was the one who undertook the transaction and registered on her behalf, this fact alone did not make him her agent. She was a ‘passive recipient’ of the interest.
+      - The fraud could not be brought home to Felicity.
+    - There was a second important argument in Cassegrain.
+      - It was argued that the creation of the joint tenancy had the effect of deeming Claude and Felicity to be ‘one person’ for the purpose of the Act,
+        - That is, Felicity title became ‘infected’ with Claude’s fraud.
+      - Joint tenancy is way in which more people can own property in common.
+        - Joint tenancy is the closest form of co-ownership our land holding system recognises and is characterised by the idea that each tenant co-owns the entire interest
+    - The argument turned on the operation of Real Property Act section 100(1), which provides:
+      - Two or more persons who may be registered as joint proprietors of an estate or interest in land under the provisions of this Act, shall be deemed to be entitled to the same as joint tenants.
+    - Cassegrain argued that section 100(1) meant that joint tenants were to be treated as if they were in effect one person.
+      - Essentially, they argued that when registered as joint tenants the fraud on the part of any one of those tenants ‘infected’ all the others, regardless of their awareness or participation in the fraud.
+      - The plurality of the High Court disagreed, holding that fraud for the purpose of Real Property Act section 42 was one which needed to be brought home to the person whose title was impeached.
+        - If one of the joint tenants was not involved in the fraud, that tenant’s title could not be challenged
+    - Remember: Claude Cassegrain initially obtained registration by fraud. He then transferred his interest to his wife Felicity for $1.
+      - This came within section 118(1)(d)(ii).
+      - She obtained registration through a person who obtained by fraud (and was bona fide) but did not provide valuable consideration.
+        - So, the initial transfer to her as joint tenant was indefeasible, but Claude’s subsequent attempt to transfer his interest to her was defeasible and could be set aside.
+        - This is a kind of limited deferred indefeasibility
+  - Schultz v Corwill Properties (1969) 90 WN 529
+    - Mrs Schultz deposited money with Mr Galea and instructed him to invest in land by way of a mortgage.
+    - Mr Galea was her solicitor, and he was also the secretary of Corwill Properties. Mr Galea, therefore, had access to the company seal and the Certificate of Title for land owned by Corwill Properties..
+    - He forged a mortgage over the land in the name of Corwill and took the money for himself and for a short while, paid Mrs Schultz the interest due.
+    - Mrs Shultz then died. Mr Schultz, acted as executor of her estate, and became the registered proprietor of the mortgage.
+    - Mr Galea tricked Mr Schultz into signing a mortgage discharge and told him he would ‘reinvest’ the money. He never paid Mr Schultz the money.
+    - Mr Schultz sued Corwill Properties, wanting a declaration that the mortgage was enforceable
+    - Fraud committed by the agent
+      - Under common law, a principal will be bound by their agent’s fraudulent conduct if the agent was, at the relevant time, acting within his or her actual or apparent authority (this is known as respondeat superior).
+        - An exception applies where the agent commits fraudulent actions for their own benefit.
+          - Here, the court held that it was not within Mr Galea’s actual or apparent authority to forge a mortgage. It was an independent activity.
+          - The forgery could thus not be brought home to the registered proprietor.
+        - This result (but not the principle above) has been criticised because Street CJ characterised the authority of Mr Galea too narrowly: as being authority only to register a valid mortgage.
+      - The question is not whether the agent’s authority was authorised but whether ‘it fell within the scope of the task the agent was asked to perform’:
+        - See Dollars & Sense Finance v Nathan [2008] NZSC 20,[39]
+  - Agent has knowledge of the Fraud
+    - Under common law, a principal will be bound if their agent has actual knowledge of fraudulent conduct: this is known as presumption of communication.
+    - Mere knowledge of the fraud by the agent is not enough.
+      - That knowledge must be brought home (ie imputed) to the principal.
+      - The agent’s express knowledge is imputable. Constructive notice to the agent is insufficient.
+      - Thus, actual knowledge of fraud by the agent will be presumed to bind the principal.
+    - However, if the fraud is committed by the agent themselves for their own benefit, then the principal is entitled to bring evidence to rebut the presumption and prove ignorance of the matter
+      - There are no logical ground to believe that an agent would have actually told the principal of their own fraud. Indeed, the principal is often the victim of the fraud in this scenario.
+  - What is Fraud?
+    - Fraud for Torrens is often referred to as ‘statutory fraud’
+      - Torrens Fraud is based on sections 42 and 43 (which excludes mere notice as constituting fraud).
+      - So, the estate or interest of a registered proprietor (unless fraudulent) will defeat unregistered interests even where they have actual or constructive notice.
+    - Elsewhere, you can argue narrow forms of fraud at common law (eg. deceit or fraudulent misrepresentation), but fraud under Torrens is broader.
+    - You can can also argue fraud in equity (equitable fraud).
+      - Equitable fraud is based on notice and is broader than Torrens fraud.
+      - Its application to law is thus constrained by section 43
+  - ‘Actual’ Fraud
+    - Actual fraud requires dishonesty of some kind
+      - See Assets Co v Mere Roihi [1905] AC 176
+    - It is also been defined as requiring a ‘consciously dishonest act’ and/or ‘moral turpitude’
+      - See Stuart v Kingston (1923) 32 CLR 309
+    - What is needed, therefore, is more than equitable fraud (ie. mere notice).
+    - But remember: notice + further conduct can amount to fraud
+  - Loke Yew v Port Swettenham [1913] AC 491
+    - Eusope was the registered proprietor of 322 acres of land in Selangor, 58 acres of which was in the possession of Loke Yew.
+      - This was an unregistered interest, held under documents in the Malay Language which gave Loke Yew the right to title ‘forever’.
+    - Port Swettenham knew of Loke Yew’s interest but wanted to purchase the whole 322 acres.
+    - Transfer documents were prepared for the 322 acres, but in order to convince Eusope to sign, Swettenham’s agent agreed not to disturb Loke Yew in his possession.
+    - Swettenham then registered the whole 322 acres and then called Loke Yew to give up possession of the 58. He refused.
+    - An action to recover possession was brought by Swettenham, with a counter-action by Loke Yew for a declaration of his rights and for a transfer of his 58 acres.
+    - The Privy Council held that this was fraud.
+      - It was more than mere notice
+      - The agent deliberately induced Eusope to enter contract intending to defraud Loke Yew of his interest
+    - So, the fraud was notice + statements
+  - Bahr v Nicolay (No 2) (1988) 164 CLR 604
+    - Mr and Mrs Bahr were registered proprietors of an estate in fee simple.
+    - In a financial arrangement, they sold the property to Mr Nicholay for $30,000 with a lease back for three years and an option to repurchase for $45,000 after the expiry of the lease.
+    - Before the expiry of the lease, Mr Nicholay sold the land to the Mr and Mrs Thompson.
+      - The contract with the Thompsons expressly stated that ‘the purchaser acknowledges that an agreement exists between [Bahr’s and Nicholay]’.
+      - The Thompsons’ became the new registered proprietors.
+      - The Bahrs then learned of the sale to the Thompsons and lodged a caveat.
+    - Upon expiry of the lease, the Bahr’s sought to exercise the option to repurchase but the Thompsons refused.
+    - The Bahr’s sought an order for specific performance
+    - The distinguishing point with Loke Yew was that while in Loke Yew the statements were made dishonestly – that is, they were made to induce E to enter into the contract, despite having no real intention to honour it.
+    - In Bahr v Nicholay there was evidence that the agreement was entered into with the honest intention of honouring the clause, but that there was a subsequent change of mind.
+      - That is, Mr and Mrs Thompson decided later to repudiate the agreement.
+      - There was no dishonest intention at the time of entering the agreement.
+      - Thus, no fraud.
+    - Mr and Mrs Bahr were registered proprietors of an estate in fee simple.
+    - In a financial arrangement, they sold the property to Mr Nicholay for $30,000 with a lease back for three years and an option to repurchase for $45,000 after the expiry of the lease.
+    - Before the expiry of the lease, Mr Nicholay sold the land to the Mr and Mrs Thompson.
+      - The contract with the Thompsons expressly stated that ‘the purchaser acknowledges that an agreement exists between [Bahr’s and Nicholay]’.
+      - The Thompsons’ became the new registered proprietors.
+      - The Bahrs then learned of the sale to the Thompsons and lodged a caveat.
+    - Upon expiry of the lease, the Bahr’s sought to exercise the option to repurchase but the Thompsons refused.
+    - The Bahr’s sought an order for specific performance.
+    - The Bahr’s failed to establish fraud for section 42.
+    - They did, however, establish an in personam exception.
+      - On the facts the court held that the Thompson’s conduct amounted to an undertaking to honour the Bahr’s interests.
+      - In turn this amounted to a trust in favour of the Bahr’s.
+        - A trust is a creature of equity and arises where one party undertakes to hold property on behalf of another. That party (the trustee) must, with respect to the property, act solely in the interests of the party on behalf of whom it holds the property (the beneficiary).
+        - A breach of this duty gives rise to a cause of action against the trustee for breach of trust.
+  - Fraud against Whom
+    - The fraud by the registered proprietor must have been against the party seeking to assert an interest
+    - However, it may also be sufficient for section 42 if the registered proprietor has obtained registration by a fraud practiced against the Registrar-General
+      - Cases in this category usually arose in the context of mortgages – eg where a bank employee falsely certifies that a mortgage was signed in her presence knowing that the mortgage is to be submitted to the Registrar-General for registration (ie a false attestation or misrepresentation that induced the Registrar to act). See, eg, Australian Guarantee Corp v De Jager [1984] VR 483.
+      - This is now substantively covered by section 56C and will be discussed when we look at mortgages.
+  - Davis v Williams [2003] NSWCA 371
+    - Mr and Mrs Williams purchased a home together as joint tenants in 1956. The property was owned by the Housing Commission and was to be registered in the Williams' name once payment was complete.
+    - In 1969 the couple separated but never formally divorced.
+    - In 1993, Mr Williams saw a solicitor, who arranged for a signed transfer from the Commission in favour of Mr and Mrs Williams as joint tenants.
+    - Mr Williams did not want to be a joint tenant. So, a second transfer was prepared by which he could sever the joint tenancy.
+      - A registration clerk, an independent contractor of the solicitor, was instructed to register the transfers.
+      - The registration clerk, acting without the express instructions of the solicitor and without the knowledge of any of the parties, altered the first transfer by deleting ‘as joint tenants’ and substituting as tenants in common in the belief that this alteration would save some stamp duty (because there would be one rather than two transactions).
+    - Mr Williams died.
+    - The change from ‘joint tenants’ to ‘tenants in common’ affected what happened to Mr Williams’ share of the property after his death
+    - It had the effect that his share did not go to his estranged wife, but to Davis via operation of Mr Williams’ will.
+    - Mrs Williams claimed that she should have had the entire property and that Davis’ interest was defeasible as it had been obtained by fraud.
+    - Key Legal Issue: Did the clerk intend to mislead the Registrar-General in a material respect and therefore influence the RG to do something different than would otherwise have been done (ie register the Williams as tenants in common rather than joint tenants)?
+      - The clerk did not give evidence.
+      - It was inferred that the clerk knew that the transfer was being submitted for registration and that the alteration would cause the RG to enter the transfer into the Register in the altered form.
+      - It could be inferred that she might have known that he would do this because of her representation thatthe altered transfer was, in fact, the one signed by the parties, and that the RG would act because he was induced to accept this false proposition.
+      - Did she understand this to be a material misrepresentation?
+        - The clerk understood the submission of the one altered document to result in the same legal effect as had she submitted the two separate documents.
+    - A second (related) question is whether her conduct exhibited moral turpitude or dishonesty?
+      - If the clerk had made a misrepresentation to the Registrar-General, knowing it it be false in a material respect and intending he be induced to act then it would be dishonest even if she did not intend anyone to be disadvantaged.
+      - Here it seems she did it for efficiency and savings and thus it did not amount to fraud
+  - Is knowledge of fraud enough?
+    - 1. Actual knowledge of fraud
+      - Actual knowledge of fraud can constitute fraud and render the title of the new registered proprietor defeasible: See Assets Co v Mere Roihi [1905] AC 176
+    - 2. Constructive knowledge of fraud and wilful blindness?
+      - What if the purchaser deliberately shuts their eyes for fear of finding out there was fraud? 
+      - If the purchaser's suspicions were aroused and he abstained from making inquires for fear to finding out the truth, that can be fraud: See Assets Co v Mere Roihi 
+      - This is particularly important in the context of mortgages where mortgagees do not properly check that the mortgage was validly signed and attested. This is now largely covered by s 56C and will be examined when we get to mortgages
+  - When does the fraud need to have occurred?
+    - Does the fraud have to be before registration or can it be after registration?
+      - Bahr v Nicholay – (Wilson,Toohey JJ, in the majority): fraud must occur before registration.
+        - However, they allowed that a subsequent change of mind after an honest assurance, as long as the change of mind was made prior to registration, would amount to fraud.
+        - Note: Dawson, Mason JJ thought that fraud could occur after registration.
+        - when we come to the in personam exception we will see that they felt there was no reason to distinguish the fraud exception from claims in personam in this regard.
+      - For this reason, the majority held that the Bahrs failed to establish an exception to indefeasibility based on fraud.
+  - Volunteers: section 118(1)(d)(ii)
+    - (1) Proceedings for the possession or recovery of land do not lie against the registered proprietor of the land, except as follows:
+    - …
+      - (d) proceedings brought by a person deprived of land by fraud against
+        - (i) a person who has been registered as proprietor of the land through fraud, or
+        - (ii) a person deriving (otherwise than as a transferee bona fide for valuable consideration) from or through a person registered as proprietor of the land through fraud …
+  - Fraud Checklist
+    - 1. Can the conduct be brought home to the current registered proprietor?
+      - If the conduct was by an agent, can that conduct be imputed to the registered proprietor?
+    - 2. Did the conduct amount to fraud?
+      - Was there actual fraud? Dishonesty; moral turpitude
+      - Was there notice + sufficient conduct to constitute fraud?
+      - Was there knowledge of fraud?
+      - Was there wilful blindness?
+    - 3. When was the fraud?
+    - 4. Does section 118(1)(d)(ii) apply?
+- Statutory Exceptions to Indefeasibility
+  - Statutory Exceptions to Indefeasibility
+    - Section 42(1)(a) – prior folio
+    - Section 42(1)(a1) – omitted or misdescribed easements
+    - Section 42(1)(b) – omitted or misdescribed profits a prendre
+    - Section 42(1)(c) – wrong description of boundaries
+    - Section 42(1)(d) – short term leases
+  - Section 42(1)(a) Prior Folio
+    - Where an earlier title has already been created for the same interest in land
+      - E.g. two folios for the same land.
+        - This might happen where a parcel of land is subdivided into two parcels, one subdivision is sold off and a folio created in respect of that parcel. Subsequently, the second subdivision is sold, but the folio created for that parcel includes not only the second subdivided parcel, but also part or the whole of the first parcel.
+      - E.g. Two folios where there is an overlap between the two lots of land
+    - The prior folio will prevail
+    - Consider possible overlap with section 42(1)(c)
+  - Section 42(1)(a1) Omitted or misdescribed easements
+    - Where an easement has been omitted from or misdescribed on the folio, it may be an exception to indefeasibility.
+    - This is actually a very narrow exception and can rarely be invoked.
+      - E.g. Mistakes during conversion from Old System to Torrens, pre-existing prescriptive easements etc
+  - Section 42(1)(b) Omitted or misdescribed profits à prendre
+    - This is a counterpart to s 42(1)(a1)
+    - It is also very narrow and will be discussed in the topic on easements
+  - Section 42(1)(c) Wrong description of boundaries
+    - This exception applies when surveying mistakes are made and land is included in the folio which was not intended to be included by the parties.
+      - Where land has been included in a grant, certificate or folio by the wrong description of parcels or boundaries, then title to that land remains with the original owner
+      - It covers land intended to be included but which was misdescribed
+      - It does not include land that was correctly described but did not belong to the applicant and should never have been included.
+    - The exception does not operate against a later purchaser for valuable consideration or deriving from or through such a purchaser (this seriously limits the scope of the exception)
+  - Section 42(1)(d) Short-term Leases
+    - This covers leases of less than three years (including option to renew)
+    - In possession or the lessee is entitled to immediate possession
+    - Purchaser of the reversion takes with notice of the tenant’s interest (at the time of settlement)
+      - Notice can be either actual or constructive
+    - We will revisit this in the topic on leases
+- In Personam Exception to Indefeasibility
+  - Claims In personam
+    - An in personam right arises by virtue of an obligation created by the registered proprietor:
+      - A plaintiff can bring a claim ‘against a registered proprietor a claim in personam, founded in law or in equity, for such relief as a court acting in personam may grant’ - Frazer v Walker at 585
+      - Sometimes also called ‘personal equities’ (eg Breskvar v Wall)
+      - Registration does not extinguish obligations incurred by a registered proprietor
+      - The obligations can be legal or equitable
+      - They can arise before or after registration
+      - The scope of the exception is unclear and of continuing controversy
+  - How does in personam fit within the Real Property Act?
+    - Sections 41(1) and 42(1) do not mention it, but nor do they prevent claims arising in personam because of the conduct of the registered proprietor.
+      - The Act specifies in what circumstances the estate or interest of the registered proprietor will be subject to other estates and interests
+      - The very purpose of the system was to ensure that general law doctrines had little part to play
+      - But the courts have held that registered proprietors should not be relieved from personal obligations owed to others
+      - And the statute itself in other places assumes that rights exist beyond the register.
+        - E.g. Caveats
+  - A ‘Known Cause of Action’
+    - The in personam exception requires a known cause of action.
+      - There must be a known cause of action which can be enforced against the registered proprietor
+      - Its not enough that something happens which is ‘unfair’
+      - Mere neglect is not enough
+  - Causes of Action
+    - A cause of action a set of pre-defined elements which allow a person to argue for a remedy in court
+      - You have studied some in contract law, and will also study some in equity and trusts:
+        - E.g. misrepresentation, mistake, unconscionable conduct, undue influence and duress, some forms of estoppel, breach of trust
+      - Don’t confuse causes of action with remedies: eg damages; specific performance etc
+  - Mercantile v Gosper (1991) 25 NSWLR 32
+    - Mrs Gosper was the sole registered proprietor of land subject to a mortgage to Mercantile Mutual.
+      - Unknown to her, Mr Gosper fraudulently arranged for an additional loan secured by his wife’s property and forged his wife’s signature to the variation of mortgage.
+      - The variation was lodged for registration along with the certificate of title which was held by another company in the Mercantile Group. The variation was registered.
+      - After her husband’s death, Mrs Gosper discovered what had happened. She sought orders removing the variation of the mortgage from her title.
+      - Mercantile argued that the mortgage was indefeasible because no fraud could be brought home to it as the registered proprietor.
+      - Mrs Gosper argued that Mercantile was subject to an in personam exception. The majority agreed.
+      - Mercantile Mutual could only register the variation because it had possession of the CT.
+      - The in personam claim was held to be based on a breach of a contractual obligation to keep possession of the CT:
+        - possession was vested in a subsidiary company within the Mercantile Group.
+        - That subsidiary company passed to another subsidiary company within the group who were lending the money to Mr Gosper without Mrs Gosper’s knowledge or consent.
+        - No variation could have been registered had they not breached their contractual obligation.
+    - Key Legal Issue: Did Mercantile Mutual hold an indefeasible title or was Mrs Gosper entitled to a discharge of the mortgage?
+    - What cause of action?
+      - This case has been significantly criticised. It is often described as a ‘high water mark’ of the in personam exception.
+        - What was the cause of action? For Mahoney JA it seems to have been a breach of the contractual obligations of the company in the group who held the CT to Mrs Gosper. But that was a different company. It is not clear that this is a cause of action against the mortgagee.
+      - While the decision did mean that Mrs Gosper was not held bound by a loan she did not know of and never approved, the decision cuts into the concept of indefeasibility.
+      - It appears to make the in personam exception broader than the section 42 fraud exception.
+  - Vassos v State Bank of South Australia [1993] 2 VR 316
+    - The bank held a mortgage over land owned by three tenants in common.
+    - One of the tenants in common subsequently obtained a substitute mortgage for a greater sum by forging the signatures of the other two tenants in common. The signature of the solicitor said to have attested the signatures was also forged.
+    - The bank registered the mortgage gaining indefeasibility.
+    - There was no statutory fraud.
+      - Although the instrument was void for forgery, registration still conferred a good title and indefeasibility.
+      - Nor could the fraud be brought home to the registered proprietor (the Bank).
+    - Was there an in personam exception?
+    - Hayne J distinguished this case from Gosper
+      - Forgery was not enough (forgery is not a cause of action)
+      - The Bank was arguably negligent in the way it took the forged mortgage, but negligence is not enough
+      - There was no independent cause of action. Hayne J could not identify where equity would act: 
+        - no misrepresentation by [the bank], no misuse of power, no improper attempt to rely on its legal rights, no knowledge of wrongdoing by any other party. ... Even if by making reasonable enquiries the bank could have discovered the fact of the forgery I do not consider that that fact alone renders its conduct unconscionable (at 33)
+  - Bringing it all together
+    - How do the exceptions fit with the basic principle of indefeasibility?
+    - Think of it this way:
+      - The registered proprietor takes free from any estates and interests unless they are recorded in the Register (s 42(1)) even with notice of those interests (s 43) unless
+        - there has been fraud (s 42(1) and s 43) or
+      - one of the exceptions in s 42(1)(a)-(d) applies or
+      - an in personam exception can be made out.
+    - This schema can be used to answer all basic Torrens questions
+  - Return to Breskvar v Wall
+    - In Breskvar v Wall we saw that as against Wall the Breskvars could assert an exception to indefeability based on fraud. The problem was that Wall no longer had the estate. He had sold it to Alban. Alban had not yet registered.
+      - Thus there were competing interests between two parties: the Breskvars and Alban.
+    - What interest does each party have?
+      - The Breskvars were the original registered proprietors of the estate in fee simple. After the registration to Wall, they no longer had this. What they did have was a right to set the transaction aside for fraud.
+      - We call this an equity or even a ’mere equity'
+    - Alban – an unregistered interest under a contract for sale. They held the equitable estate in fee simple.
+      - So who prevailed?
+## Week 4: Torrens II: Torrens Assurance Fund; Caveats and Priority Notices
+
+- Powers of Correction and the Torrens Assurance Fund
+  - Registrar’s Powers of Correction
+    - Section 12(1)(d) provides a general power to correct ‘errors and omissions in the Register’
+      - An error exists if there is a difference between the instrument lodged for registration and the register
+      - This applies largely to clerical or departmental errors
+        - There are suggestions it could be wider but its not clear yet what this might mean
+          - See Castle Constructions v Sahab Holdings (20130 247 CLR 149.
+      - Section 12(3)(b) provides that the correction does not have effect if it affects a right that has arisen on the basis of an earlier uncorrected entry
+  - Courts’ Powers of Correction
+    - Section 138(1) – proceedings for recovery of land
+      - The court can create/cancel/amend a folio
+  - Overriding Statutes
+    - The Real Property Act may be overridden by later inconsistent statutes
+      - This is not an exception to indefeasibility: it is a basic principle of statutory interpretation and parliamentary sovereignty
+    - A number of statutes might create property rights without requiring registration.
+      - The Local Government Act 1993 (NSW) is a good example.
+    - Courts will try to read statutes to prevent conflict where possible.
+  - An example: Hillpalm Pty Ltd v Heaven’s Door Pty Ltd (2004) 220 CLR 472
+    - Plan of subdivision showed a proposed right of way
+      - This became a Deposited Plan (DP)
+    - Heaven’s Door owned Lot 1 in that DP and this was adjacent to Hillpalm’s land
+    - Hillpalm’s land was on a different DP
+    - Heaven’s Door wished to force Hillpalm to grant it an easement
+      - There was no easement registered over Hillpalm’s land
+  - Hillpalm Pty Ltd v Heaven’s Door Pty Ltd (2004) 220 CLR 472
+    - Heaven’s Door argued that this was a condition of development consent and that Hillpalm was in breach of this by not having constructed an easement
+    - So did the provisions of the Local Government Act 1993, which allowed a party to enforce conditions in subdivisions, prevail over the Real Property Act 1900 because it was a later statute and its provisions were inconsistent with section 42?
+      - The majority of the HCA worked around this by finding no inconsistency to be decided
+      - They decided that on the facts, the council had abandoned any insistence on compliance with the conditions when it finalised the plan.
+  - Section 42(3)
+    - Now see section 42(3), amended by the Real Property and Conveyancing Amendment Act 2009 (NSW), Schedule 2
+    - Section 42(3)
+      - An interest or estate recorded in the folio prevails over an inconsistent estate or interest created under another Act where the inconsistent provision was enacted prior to 13 May 2009
+  - The Torrens Assurance Fund
+    - A central feature of the Torrens System is the Assurance Fund
+      - In NSW this is the Torrens Assurance Fund
+      - Funded through a small levy on each registration
+  - Section 120 – Proceedings for compensation
+    - (1) Any person who suffers loss or damage as a result of the operation of this Act in respect of any land, where the loss or damage arises from—
+      - (a) fraud, or
+      - (b) any error, misdescription or omission in the Register, or
+      - (c) the land being brought under the provisions of this Act, or
+      - (d) the registration (otherwise than under section 45E) of some other person as proprietor of the land, estate or interest, may commence proceedings in the Supreme Court for the recovery of damages.
+    - (2) Such proceedings may be taken only—
+      - (a) against the person whose acts or omissions have given rise to the loss or damage referred to in subsection (1), or
+      - (b) against the Registrar-General.
+  - Section 129
+    - Remedy against the Assurance fund by way of action against the Registrar General
+      - The grounds are in section 129(1)
+      - There must be a connection between the Act’s operation and the loss suffered – it must ‘materially contribute’
+    - However, there is a large list of circumstances in which compensation is not payable: section 129(2)
+      - Fraud is an obvious ground
+        - Fraud must be brought home to the RG, but case law suggests that fraud in sections 120 and 129 has a broader meaning than in section 42
+  - Return to Breskvar v Wall
+    - In Breskvar v Wall we saw that as against Wall the Breskvars could assert an exception to indefeability based on fraud. The problem was that Wall no longer had the estate. He had sold it to Alban. Alban had not yet registered
+      - Thus there were competing interests between two parties: the Breskvars and Alban.
+    - What interest does each party have?
+      - The Breskvars were the original registered proprietors of the estate in fee simple. After the registration to Wall they no longer had this. What they did have was a right to set the transaction aside for fraud. We call this an equity or even a ’mere equity'
+      - Alban – an unregistered interest under a contract for sale. They held the equitable estate in fee simple.
+- Unregistered Interests
+  - Nature of Unregistered Interests
+    - Section 41 states that, ‘[n]o dealing, until registered in the manner provided by the act, shall be effectual to pass any estate or interest in any land under this act’
+    - Unregistered interest vs registered interest: unregistered interests are extinguished by later registered interests unless protected by caveat or preserved as an exception to indefeasibility, and cannot be revived against subsequent owners.
+    - Unregistered interest vs unregistered interest: subject to the common law priority rules – qui prior est tempore, potior est jure (first in time subject to the merits)
+    - However, some unregistered interests are legal in nature:
+      - • A lease that meets the requirements of s 23D(2) of the Conveyancing Act (cf Module 3)
+      - • An easement implied under Wheeldon v Burrows (cf Module 7)
+  - Barry v Heider (1914) 19 CLR 197
+    - Mr Barry was the RP of a fee simple in Torrens land.
+    - Barry was defrauded by Schmidt who tricked him into signing a transfer form for a far lower price than intended ($1200). This left Barry with a unpaid vendor’s lien for the remainder of the purchase price.
+    - Before Barry could register a caveat, Schmidt used the transfer form/CT to grant an unregistered mortgage to Mrs Heider.
+    - Barry then lodged a caveat noting he had an unpaid vendor’s lien, and Schmidt then granted a further mortgage to a law firm, Gale & Gale
+    - Barry argued that as the mortgages were unregistered they did not create an interest in the land under s 41 of the Act.
+    - Held
+      - Barry was subject to Mrs Heider’s interest as she was a bona fide purchaser for value without notice;
+        - bona fide purchaser for value without notice def
+          - Good faith buyer who purchases property for a fair price without knowledge of any prior claims or encumbrances on the property.
+      - But took priority over Gale & Gale. They had searched the register before taking their mortgage, and had notice of the caveat – so they should have inquired further as to the nature of Barry’s interest.
+    - Held per Isaacs J:
+      - Real Property Act does not destroy “the fundamental doctrines by which the Courts of Equity have enforced, as against registered proprietors, conscientious obligations entered into by them (at 213).
+      - ...
+      - The Act does not touch the form of contracts. A proprietor may contract as he pleases, and his obligation to fulfil the contract will depend on ordinary principles and rules of law and equity, except as expressly or by necessary implication modified by the Act....Section 41, in denying effect to an instrument until registration, does not touch whatever rights are behind it. Parties may have a right to have such an instrument executed and registered; and that right according to accepted rules of equity, is an estate or interest in the land. Until that instrument is executed, sec. 41 cannot affect the matter (at 216).
+  - Chan v Cresdon (1989) 168 CLR 242
+    - Tenant under an unregistered lease. The lease had not been registered by the landlord, but it had been intended to be registered
+    - There was a guarantee clause in the agreement where a third party guaranteed the tenant’s obligations under the lease. The tenant failed to pay rent and the landlord sued the guarantors for outstanding rent.
+    - Held (re unregistered interests): per Mason, Brennan, Deane and McHugh JJ (at 257):
+      - Though the unregistered instrument is itself ineffective to create a legal or equitable estate or interest in the land, before registration, the section does not avoid contracts or render them inoperative. So an antecedent agreement will be effective, in accordance with the principles of equity, to bring into existence an equitable estate or interest in the land. But it is that antecedent agreement, evidenced by the unregistered instrument, not the instrument itself, which creates the equitable estate or interest. In this way no violence is done to the statutory command [in s 41]
+- Caveats and Priority Notices
+  - Caveats
+    - Caveat def: is a means by which land can be “tagged” to show that someone other than the registered owner has a proprietary interest in the land. The person lodging the notice is the caveator. Practically, a caveat is a statutory injunction.
+    - Per Real Property Act s 74F(1) a person who claims to be entitled to a “legal or equitable estate or interest in land” may lodge a caveat prohibiting the recording of any dealing affecting the interest or estate claimed.
+  - J & H Just (Holdings) v Bank of NSW (1971) 125 CLR 546
+    - The purpose of a caveat was expressed by Barwick CJ at 552 as follows:
+      - Its purpose is to act as an injunction to the Registrar-General to prevent registration of dealings with the land until notice has been given to the caveator. This enables the caveator to pursue such remedies as he may have against the person lodging the dealing for registration. The purpose of the caveat is not to give notice to the world or to persons who may consider dealing with the registered proprietor of the caveator's estate or interest though if noted on the certificate of title, it may operate to give such notice.
+  - Caveatable Interest
+    - It cannot be lodged to protect a mere contractual or personal right, it must be to protect a proprietary interest.
+    - The caveatable interest must exist at the time of lodgement.
+    - Examples:
+      - Interest of a purchaser under a contract for sale;
+      - Interest of an equitable mortgagee;
+      - Interest of a lessee under a lease or an agreement for a lease;
+      - Option to purchase land
+  - Formalities of caveats
+    - To lodge a caveat must comply with the requirements of s 74F
+    - Per s 74F(5)
+      - (a) be in the approved form;
+      - (b) specify:
+        - (v) ‘the prescribed particulars of the legal or equitable estate or interest’
+      - Leros v Terrara (1992) 174 CLR 407 – considered the meaning of what it means to ‘specify the prescribed particulars’
+    - Per s 74L: ‘the court shall disregard any failure of the caveator to comply strictly with the requirements of this Part...with respect to the form of the caveat.
+      - Jones v Baker (2002) 10 BPR 19,115 considered the interaction between ss 74F and s 74L
+    - Additional formalities are contained in Schedule 3 of the Real Property Regulation 2014 (NSW). 
+    - Powers of the Registrar General with respect to formalities:
+      - s 74Q: ‘complies on its face’
+      - s 36(1C): may refuse to accept a caveat that does not comply with the formalities.
+  - Effect of caveat
+    - Once lodged, the RG will not be able to lodge any further dealings: s 74H(1)(a)
+    - However, the caveat will have no effect upon dealings lodged before the caveat
+      - dealings are registered in order: s 74H(4)
+    - Note also ss 36(1B) and 74R.
+  - Removal of caveat
+    - A lapsing notice can be filed by a party who is seeking to register an interest: s 74I, the caveator has 21 days to bring an application to extend the caveat.
+    - A lapsing notice can also be filed by the RP: s 74J, again, the caveator has 21 days to bring an application to extend the caveat.
+    - Where a lapsing notice has been served under either of the provisions above, the court may elect to extend the caveat (s 74K).
+    - Note also the court’s power under s 74MA to remove caveats
+  - Other provisions
+    - If a caveat lapses or is withdrawn, a further caveat in respect of the same interest cannot be lodged without a court order: s 74O
+    - Ancillary powers of the court: ss 74K(2) and 74MA
+      - Maindream Projects v Melbourne Construction [2001] QSC 136
+    - If a party lodges a caveat ‘without reasonable cause is liable to pay compensation to anyone who suffers pecuniary loss: s 74P
+      - Horswell v Paull (1983) NSW Conv R 55-126
+  - Priority Disputes and Caveats
+    - Issues to consider:
+      - All the circumstances: (Abigail v Lapin; Heid v Reliance)
+      - The relevance of a failure to caveat? (Butler v Fairclough)
+      - Relevance of notice: (Courtenay v Austin [1962] NSWLR 296; upheld in IAC (Finance) Pty Ltd v Courtenay (1963) 110 CLR 550)
+      - Is there any justification for the failure to caveat? (Jacobs v Platt Nominees)
+      - Did the equitable interest holder take any other protective action? (J & H Just)
+      - Is caveating a routine practice in the jurisdiction? (Black v Garnock)
+  - Abigail v Lapin [1934] AC 491
+    - Mr and Mrs Lapin were the owners of a fee simple. They executed a transfer in favour of Mrs Heavener as security for a loan (leaving the Lapins with an equity of redemption).
+    - When executing the transfer, the Lapins failed to indicate that the transfer was by way of security only, and their failure to do so allowed Mrs Heavener to register her interest.
+    - Mrs Heavener then granted a mortgage over the land to Abigail who searched the register before acquiring their interest.
+    - The Lapins did not lodge a caveat.
+    - Held: Abigail’s later interest had priority.
+    - Privy Council (at 499 – 500) agreed with the dissenting view of Gavan Duffy and Starke JJ in the HCA, who said:
+      - In our opinion, the Lapins are bound by the natural consequences of their acts in arming [Mrs] Heavener with the power to go into the world as the absolute owner of the lands and thus execute transfers or mortgages of the land to other persons, and they ought to be postponed to the [later] equitable rights of Abigail ...
+    - The Privy Council (at 502) also said:
+      - In the case of a contest between two equitable claimants the first in time, all other things being equal, is entitled to priority. But all other things must be equal, and the claimant who is first in time may lose priority by any act or omission which had or might have had the effect of inducing a claimant later in time to act to his prejudice.
+    - The Privy Council (at 509), per Lord Wright:
+      - It is true that in cases of conflicting equities, the decision is often expressed to turn on representations made by the party postponed. But it is seldom that the conduct of the person whose equity is postponed takes or can take the form of a direct representation.. The actual representation is, in general, by the third party, who has been placed by the conduct of the party postponed in a position to make the representation, most often, as here, because that party has vested in him a legal estate or has given him the indicia of a legal estate in excess of the interest which he was entitled in fact to have.
+  - Heid v Reliance Finance (1983) 154 CLR 326
+    - Heid sold his land to Connell Investments Pty Ltd, and signed a memorandum of transfer that contained an untrue acknowledgment that he had received the full purchase price (equitable vendor’s lien).
+    - Heid gave the transfer form and the certificate of title to Gibby, who had been falsely described as a ‘company solicitor’ but in actual fact was an unqualified employee of Connell.
+    - Gibby took the documents back to Connell, and Connell then granted an equitable mortgage to Reliance Finance.
+    - Reliance advanced the money under the mortgage on the basis of the acknowledgement set out in the transfer.
+    - Held: per Gibbs CJ
+      - The act of [Heid] in allowing Gibby to have the certificate of title and the memorandum of transfer which acknowledged receipt of the purchase price armed Gibby's employer with the means of dealing with the land as absolute legal and equitable owner; in other words it armed Connell Investments "with the power of going into the world under false colours": Dixon v Muckleston (1872). When in these circumstances Reliance Finance acted to its detriment on the assumption, to which [Heid’s] conduct had contributed, that no adverse equitable interest existed, [Heid] is estopped from setting up his equitable interest (at 335).
+      - If, contrary to my opinion, the appellant acted reasonably in accepting without inquiry that Gibby was a solicitor, his knowledge that Gibby was an employee of Newman, McKay & Company meant that in giving the documents of title to Gibby he failed in his duty to those persons into whose hands the documents might subsequently come to take care that they would not be misled by them. If it is necessary to find a breach of a duty of that kind before an estoppel comes into existence, the breach occurred when the vendor delivered the indicia of title to the purchaser or his servant or agent notwithstanding that he had not received the purchase price (at 338).
+    - Held: per Mason and Deane JJ
+      - The theoretical basis for granting priority, in such circumstances, to the later interest has been the subject of debate. Some have found the basis in the doctrine of estoppel; others have identified a more general principle that a preference should be given to what is the better equity on an examination of the circumstances, especially the conduct of the owner of the first [equitable interest] (at 339 – 340).
+      - For our part we consider it preferable to avoid the contortions and convolutions associated with basing the postponement of the first to the second [equitable interest] exclusively on the doctrine of estoppel and to accept a more general and flexible principle that preference should be given to what is the better equity in an examination of the relevant circumstances (at 341).
+      - The delivery of the documents to [Gibby] armed [Connell Investments] with the capacity to represent itself to be the true owner of the property and to engage in fraudulent and deceptive conduct of the kind which took place. The risk of [Connell Investments] engaging in that conduct was reasonably foreseeable. Indeed, that conduct, though not intended by the appellant, was the natural consequence of his positive act in handing over the documents to Gibby - in effect to the purchaser - without taking any steps, as for instance, by lodging a caveat, to protect himself and others who might otherwise be deceived by misuse of the documents. 
+      - The inevitable conclusion therefore is that there was negligence of the part of the appellant. It led - and this is not in dispute - to an assumption by Reliance Finance that the appellant's interest no longer existed. It follows that, in all the circumstances, Reliance Finance have the better equity (at 345)
+  - Butler v Fairclough (1917) 23 CLR 78
+    - Mr Good was the registered proprietor of land which was subject to a registered mortgage.
+    - On 30 June – Mr Good granted a second mortgage to Mr Butler, this was not registered and no caveat was lodged.
+    - On 2 July: Mr Good contracted with Mr Fairclough to sell the land subject to the first mortgage only. Mr Fairclough searched the register but found no record of Mr Butler’s interest and completed the purchase.
+    - On 7 July: Mr Butler lodged a caveat.
+    - On 12 July: Mr Fairclough attempted to register the transfer and discovered the caveat.
+    - Held: Fairclough succeeded.
+    - Griffith CJ (at 91):
+      - In the case of a contest between two equitable claimants the first in time, all other things being equal, is entitled to priority.. But all other things must be equal, and the claimant who is first in time may lose his priority by any act or omission which had or might have had the effect of inducing a claimant later in time to act to his prejudice.... A person who has an equitable charge upon the land may protect it by lodging a caveat, which in my opinion operates as notice to all the world that the registered proprietor’s title is subject to the equitable interest alleged in the caveat 
+      - ...
+      - A person who has an equitable charge on the land (a mortgage) may protect it by lodging a caveat, which in my opinion operates as notice to all the world that the registered proprietor’s title is subject to the equitable interest alleged in the caveat. In the present case the plaintiff might, if he had been sufficiently diligent, have registered his charge on the 30th of June (at 92).
+    - Isaacs J (at 97):
+      - In the absence of some clear explanation justifying or excusing this failure it is one which… postpones the mortgagee to the person bona fide misled by the result of a search as in the presence case.
+      - Mere failure to lodge does not in and of itself amount to postponing conduct. However, it will be transformed into postponing conduct when the second equitable interest holder searches the register and is unable to find any evidence of your prior equitable interest. If it leads to subsequent events in which the subsequent equitable interest holder enters into arrangements, and there is no caveat, then at that point it will constitute postponing conduct
+  - Courtenay v Austin [1962] NSWR 296
+    - Hardie J:
+      - In deciding questions as to the priority of equities, the conduct of both parties needs to be considered. If the holder of the later equity has notice, actual or constructive, of the earlier equity, his or her claim to priority is defeated at its threshold. They alone and not the holder of the prior equity are, apart from the defrauding party, responsible for his or her being defrauded by the holder of the legal or statutory estate.
+  - Jacobs v Platt Nominees [1990] VR 146
+    - Company grants option to purchase its land to Jacobs, the daughter of the two directors of the company. Jacobs did not lodge a caveat to protect her unregistered interest as she did not wish to worsen her strained relationship with her father, and she believed that her mother would not be a party to the Company granting an interest in the land that was inconsistent with her option.
+    - Jacobs’ exercised the option, but shortly after the Company entered into a contract to sell the land to Perpetual. Perpetual had searched the Register prior to exchange. Jacobs’ father had arranged for the Company’s execution of the contract without the knowledge of Jacobs’ mother.
+    - When Jacobs learned that the Company had entered into a contract with Perpetual she lodged a caveat and commenced proceedings for a declaration of priority and an order for specific performance.
+    - She failed at trial on the basis that her failure to caveat earlier postponed her earlier interest to Perpetual’s later interest, but succeeded on appeal.
+    - Held: Crockett, King and Gobbo JJ
+      - It will always be necessary to characterize the conduct of the holder of the earlier interest in order to determine whether, in all the circumstances, that conduct is such that, in fairness and in justice, the earlier interest should be postponed to the later interest....Failure to lodge a caveat does not in itself involve the loss of priority, being only one of the circumstances to be considered. “In our view the significant circumstance in the present case was the fact that the appellant had secured the option from her parents in such a way that it was inconceivable that her mother and father would join together to sell the motel in breach of the option. It was, in short, not reasonably foreseeable that her failure to lodge a caveat exposed herself or others to a risk of a later sale. In this setting her explanation that she did not want to upset her father by lodging a caveat was entirely consistent. “(159-160)
+    - Note: Mimi v Millenium Developments [2003] VSC 260, Nettle J [28]-[31]
+  - Black v Garnock (2007) 230 CLR 438
+    - The Smiths owned “Wanaka”, a 1600-acre farm property near Bombala in Southern NSW. The Smiths owed money to Mr. Black, Mr. Chapman and Mr. Carter, a firm of accountants. In September 2004, the accountants obtained a judgment in the District Court of NSW for $228,000 against the Smiths.
+    - On 15 July 2005, the Garnocks and the Luffs agreed to buy Wanaka from the Smiths for $1,000,000. Settlement was to take place at 2pm on 24 August 2005.
+    - The writ was recorded in the Torrens register at 11.53am on the settlement day.
+    - The purchasers’ solicitors did a final title search on the morning of the settlement day but prior to the registration of the writ.
+    - However, the purchasers were unable to have the transfer of the land registered in their names because of the earlier registration of the writ on the same day.
+    - Held 3:2 - per Majority: Gummow, Hayne and Callinan JJ; Gleeson CJ and Crennan J dissenting)
+      - The writ took priority to the purchase because it was registered before the attempted registration of the sale to the purchasers. The High Court majority noted that the purchasers should have lodged a caveat on the title of the property upon entering into the contract to protect their interests
+    - Per Callinan J:
+      - It used to be the practice of careful conveyancers, acting for persons acquiring registrable estates or interests in Torrens title land, to lodge with the officials in charge of the Register, a caveat as soon as the agreement for the relevant dealing was made, in pre-emptive protection of their clients’ prospective legal estates or interests pending completion of their agreements and registration of the instruments perfecting them. It was a further practice of those conveyancers to effect the actual settlement of the agreement by the exchange of all relevant instruments and funds at that office, simultaneously with a search of the Register, to verify that no other such caveat or record of dealing had been lodged as might obstruct, delay or detract from the registration of their clients’ instruments to perfect their estates or interests.
+      - The questions raised in this case would be unlikely to have arisen had those salutary practices not fallen into disuse, whether by reason of electronic recording of dealings or otherwise, although it is difficult to understand why some comparable prudent practice could not equally, and perhaps more easily, have been adopted here to accommodate electronic lodgment, searching and recording. The questions are as to the effect of the registration of a writ of execution, and the rights of purchasers whose transfer of Torrens title land was lodged subsequent to that (at [52]-[53])
+  - Priority Notices
+    - A form of protection of priority of registration for proposed dealings to be lodged. It simply flags that an interested party intends to lodge a dealing (ie a transfer, lease or a mortgage etc) on the relevant title. In doing so, it temporarily prevents registration of other dealings being registered prior to the registration of the dealing set out in the Priority Notice.
+    - Who can lodge a Priority Notice?
+      - Unlike a caveat, which requires a caveatable interest, a Priority Notice can be lodged by any person that is a party to a land dealing. And, just like caveats, parties should be careful when lodging a PN without reasonable cause. Doing so, could mean having to pay damages to any person for any loss attributed to the erroneous lodgment.
+      - Lodgment is quick and cheap and easy. A PN can only be lodged electronically. Once lodged, the Registrar is not obliged to give notice to the registered proprietor of the lodgment of a PN.
+      - Unlike a caveat, there is no provision for the amendment or correction of a recorded PN. If details need to be changed, a party needs to withdraw the PN and lodge a new one.
+      - If two parties lodge a PN on the same title, priority is determined by order of lodgment.
+    - Duration
+      - A PN is only effective for 60 days, but it can be extended, once, for an additional 30 days. An application for an extension must be made while the PN is in force. Upon expiration, it is automatically removed from the title and has no further legal effect.
+      - Any subsequent PNs lodged by the same party will have effect only from the lodgement date and are not affiliated with any former notices. What this essentially means, is that where there is a succession of PNs, priority will not relate back to the earliest notice.
+    - Effect of a Priority Notice
+      - While a PN is in effect, no dealing (although there are exceptions) is to be registered by the Registrar General without the consent of the person who lodged the PN. While a dealing can still be lodged for registration, it will sit unregistered until the PN expires.
+      - S74W (2) of the Real Property Act sets out a limited number of dealings which may still be registered and are not subject to a PN. For example, a caveat is not subject to a PN. So this indicates that a PN does not "freeze" the register to the same extent a caveat does.
+  - Do I lodge a Priority Notice or a Caveat?
+    - Priority Notices can provide an easy and cheaper alternative to a Black v Garnock caveat. Although, theoretically, there is nothing to stop a purchaser or an incoming mortgagee in lodging both.
+    - A Priority Notice is far more beneficial for use in shorter settlement periods. The standard settlement period is 42 days, but can be longer or shorter. Its use for longer settlement periods beyond 90 days would provide little utility. Parties using a Priority Notice for longer settlement periods should be aware that as it automatically lapses after 60 days, this could allow an unregistered dealing noted on the title to be registered immediately on the lapsing of the Priority Notice. Perhaps a way around this for practitioners might be to lodge a Priority Notice in the 30 days prior to the anticipated settlement, rather than directly after exchange, although, the obvious issue is that the earlier contractual period is left unprotected.
+    - Obviously, where there is no dealing to be lodged to give effect to an interest, a Priority Notice would not be suitable.
+    - If you have a caveatable interest, it's far more prudent to lodge a caveat than a Priority Notice. As a caveat stays on the title indefinitely (unless it lapses, is withdrawn or by order of the court) it prevents all dealings with the title. Given that achieving lapsing can be complex, and court proceedings expensive and lengthy, a caveat can provide a party with strong protection
+## Week 5: Torrens III: Priority between Unregistered Interests
+
+- Formalities and the Creation of Interests in Land
+  - Essential vs Formal Requirements
+    - How and when are parties required to recognise an interest?
+      - Some interests require the use of a deed (a promise without consideration);
+      - Others require the use of writing.
+    - Are there any way that the party can still obtain an interest if they have not complied with the required formalities?
+  - Legal Interests - Conveyancing Act 1919 (NSW) s 23B
+    - (1) No assurance of land shall be valid to pass an interest at law unless made by deed. This section does not apply to:
+      - ...
+      - (d) a lease or tenancy or other assurance not required by law to be made in writing …
+    - A deed is the most solemn act that can be done in respect to property.
+    - A deed must be signed and sealed and attested by at least one witness – section 38.
+    - NOTE: This section does NOT apply to land under the provisions of the Real Property Act 1900.
+  - Manton v Parabolic Pty Ltd (1985) 2 NSWLR 361
+    - Manton (the mortgagee) sought an order for possession of a property. The property was owned by Parabolic Pty Ltd (the mortgagor).
+    - Manton exercised its power of sale and sold the property to the second defendants on 5 September 1984 (the Priestleys).
+      - The land in question was a Conditional Lease Title governed by the Crown Lands Consolidation Act 1913 (NSW).
+      - With other forms of land ownership, a mortgagee will have the power of sale to sell the land if the borrower/the mortgagor defaults.
+      - If that power is not expressly included in the mortgage, it will be implied into the mortgage by s 109 of the Conveyancing Act 1919 (NSW) – but only if the mortgage was made by deed.
+    - Manton had originally owned the land in question. He first transferred the property to Parabolic Pty Ltd – this transfer complied with the requirements of the Crown Lands Consolidation Act by using the prescribed form (form 125).
+    - Parabolic then executed a second dealing, whereby Manton lent $77,000 to Parabolic in exchange for a mortgage over the land.
+      - This mortgage was contained in Transfer T430042, and Parabolic’s signature upon the mortgage was represented by it affixing its common seal to the document.
+    - Following default, Manton exercised the power of sale and sold to the Priestleys at a public auction. The Priestleys sought specific performance of the contract, but it was argued that no power of sale had arisen because the mortgage had not been made by deed.
+      - Section 38(3) of the Conveyancing Act 1919 (NSW) provides that “every instrument expressed to be a deed, or to be sealed, which is signed and attested in accordance with this section, shall be deemed to be sealed.”
+    - Issue: What does it mean for a document to be a deed?
+      - Held: the relevant documents were deeds, as they were the prescribed forms for dealing with the property. The mortgagee, therefore, had the ability to exercise its power of sale as implied into them by Conveyancing Act s 109.
+      - Per Young J:
+        - In my view, statutory memoranda of assurance under both the Real Property Act and the Crown Lands Consolidation Act upon registration or a lodgment as the case may be, are deeds.
+        - Accordingly, transfer T43OO42 is a deed, and the Conveyancing Act s 109, accordingly operates to confer upon the mortgagee a power of sale (at 374)
+    - Equitable Interests - Conveyancing Act 1919 (NSW) s 23C
+      - (1) Subject to the provisions of this Act with respect to the creation of interests in land by parol:
+        - (a) no interest in land can be created or disposed of except by writing signed by the person creating or conveying the same, or by the person’s agent thereunto lawfully authorised in writing, or by will, or by operation of law,
+        - (b) a declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by the person’s will,
+        - (c) a disposition of an equitable interest or trust subsisting at the time of the disposition, must be in writing signed by the person disposing of the same or by the person’s will, or by the person’s agent thereunto lawfully authorised in writing.
+      - (2) This section does not affect the creation or operation of resulting, implied, or constructive trusts.
+        - NOTE: Wills do not create equitable interests when they are drafted. They have no effect until the testator has actually died. S 23C just says that interests can be dealt with via a will.
+  - What is Equity?
+    - In the UK there were three common law courts:
+      - The Court of King’s Bench;
+      - The Court of Exchequer; and
+      - The Court of Common Pleas
+    - The Court of Chancery, headed by the Chancellor, developed its own set of rules and maxims to resolve complaints brought by parties who were unable to find an appropriate cause of action at Common Law.
+      - The Equitable jurisdiction developed to:
+        - Recognise and protect the interest known as a use (the modern-day trust);
+        - To provide remedies unavailable at law, including injunctions, specific performance and relief against forfeiture; and
+        - To apply doctrines such as Part Performance, Promissory Estoppel and Subrogation, amongst others.
+      - The Judicature Act of 1873 (UK) allowed both common law and equitable determinations to be made in the same court.
+        - This was adopted in NSW under the Supreme Court Act 1970 (NSW).
+        - Fusion Fallacy:
+          - It is called a 'fallacy' because many have said that it is wrong to conclude that the rules of common law and equity have been amalgamated, it is only their administration which has been unified.
+    - Equitable jurisdiction and the development of the trust
+      - Common law made it difficult for landowners to deal freely with their land, and in response, the ‘use’ developed.
+        - A landowner would convey their land to a party who would hold that land for the ‘use’ of the landowner during their lifetime.
+        - The party receiving the legal estate was the ‘feoffee to uses’, and the person entitled to use the land was the ‘cestui que use’.
+      - The use allowed the owner to escape paying feudal dues, so the Statute of Uses was passed in 1535 to overcome this problem.
+        - The effect was that the ‘feoffee to uses’ was treated as receiving nothing, and upon the death of the ‘cestui que use’ dues would again become payable;
+      - This interest eventually developed into the modern Trust:
+        - The ‘feoffee to uses’ is now known as the Trustee, and the ‘cestui que use’ is now known as the Beneficiary
+      - The owner of land may declare themselves trustee of the land for the benefit of another party;
+      - Alternatively, the owner of the land may transfer the land to a trustee to be held on trust for another person.
+      - Conveyancing Act 1919 (NSW section 23C(1)(b) requires the creation of such an interest to be in writing.
+      - Express Trusts: Arise from the intention of the Settlor (i.e. party who creates the trust)
+      - Fixed – a beneficiary holds a fixed entitlement to the property under the trust
+      - Discretionary – beneficiary has a mere expectancy or hope that they will receive under the trust
+      - Non-Express (Implied) Trusts:
+        - Resulting Trusts – where a Court presumes that a party did not intend to divest themselves of a certain interest;
+        - Constructive Trusts – imposed by the Court in situations where it would be inconsistent with the principles of Equity for the party to retain certain property.
+  - Legal Lease Exception - Conveyancing Act 1919 (NSW) s 23D
+    - (1) All interests in land created by parol and not put in writing and signed by the person so creating the same, or by the person’s agent thereunto lawfully authorised in writing, shall have, notwithstanding any consideration having been given for the same, the force and effect of interests at will only.
+    - (2) Nothing in this section or in sections 23B or 23C shall affect the creation by parol of a lease at the best rent which can reasonably be obtained without taking a fine taking effect in possession for a term not exceeding three years, with or without a right for the lessee to extend the term at the best rent which can reasonably be obtained without taking a fine for any period which with the term would not exceed three years.
+    - Applies to Parol/Oral Leases
+      - Even if these leases are not in the form of a deed (as required by s 23B) or in writing (as required by s 23C), they will still create a legal interest if they comply with s 23D(2).
+      - Requirements:
+        - “best rent reasonably available ...”: i.e. market rent
+        - “take effect in possession”: must give lessee an immediate right to possession
+        - The term of the lease plus any option to extend the lease must not exceed three years
+        - Without taking a fine
+  - Part Performance Exception - Conveyancing Act 1919 (NSW) s 23E
+    - Where parties have failed to comply with the requirements under s 23B (use of a deed), they may be able to enforce their agreement under the equitable doctrine of part performance.
+    - This requires proof that one party has done acts in executing the contract.
+    - Those acts must be unequivocally related to the execution of that agreement i.e. the acts must have been done only as a means of executing the agreement.
+    - Conveyancing Act s 23E(d) provides that ss 23B, 23C and 23 D have no impact on the operation of the part performance
+  - Maddison v Alderson (1883) 8 App Cas 467
+    - Facts:
+      - Maddison, in consideration for Alderson’s oral promise to leave her in his will a life interest in his land, continued in service as Alderson’s housekeeper for many years without the payment of wages and giving up a chance to make a home of her own.
+      - Alderson died without leaving a valid will.
+    - Held:
+      - Per Lord O’Hagan, 486: these were not sufficient acts of part performance.
+        - They did not unequivocally point to the existence of a contract under which she was to receive a life interest.
+        - They were also consistent with the intention to enjoy present comforts and the expectation of future provision
+    - Per Earl of Selbourne:
+      - In a suit founded on such part performance [of a parol/oral contract], the defendant is really ‘charged’ upon the equities resulting from acts done in execution of the contract, and not (within the meaning of the statute) upon the contract itself. (at 475)
+      - It is not enough that an act done should be a condition of, or good consideration for, a contract, unless it is, as between the parties, such a part execution as to change their relative positions as to the subject-matter of the contract. (at 478)
+      - All the authorities show that the acts relied upon as part performance must be unequivocally, and in their own nature, referable to some such agreement as that alleged. (at 479)
+      - The acts of part performance, exemplified by a long series of decided cases in which parol contracts concerning land have been enforced, have been (almost, if not quite, universally) relative to the possession, use or tenure of the land. The law of equitable mortgage by deposit of title deeds depends upon the same principles. (at 480)
+      - Payment of money alone will not be a sufficient act of part performance as it is equivocal. (at 479)
+  - Cooney v Burns (1922) 30 CLR 216
+    - Facts:
+      - Written and signed contract between agent of Cooney (as vendor) and Burns as (purchaser) for the sale of Cooney’s lease (with contents) of a hotel in Victoria. However, agent was not authorised in writing as required by Vic statute. (Note: this is not the same as what is required by the NSW Conveyancing Act)
+      - Purported acts of part performance:
+        - taking inventory of chattels to be included in the sale.
+        - Cooney handing lease document to Burns’ solicitor for preparation of transfer.
+        - Burns incurring expense in preparing the assignment of lease and applying for transfer of hotel licence.
+    - Summary - Cooney v Burns (1922) 30 CLR 216
+      - Held:
+        - Insufficient acts of part performance.
+        - Drawing up an inventory of inclusions?: No
+          - Not a part of the agreement, nothing to do with right of ownership: Isaacs J, 236
+          - Act preparatory to performance of contract (Starke J, 244)
+        - Handing over lease document?: No
+          - Ordinary production for inspection of title; step before performance (Isaacs J, 236)
+  - Equitable Mortgage – Deposit of Title Deeds?
+    - Historically, an enforceable equitable mortgage could be created by a deposit of title deeds, if they were deposited with the intent that the land was to be security for the payment of a debt
+      - See Theodore v Mistford Pty Ltd [2005] HCA 45
+    - Since the very recent abolition of CTs, this is no longer viable as title deeds no longer have any legal effect.
+      - A mortgagee would have to register their interest, lodge a caveat or a priority notice if they intend to lodge a mortgage to secure their interest.
+  - Contracts to Grant/Create an Interest
+    - Section 54A
+      - (1) No action or proceedings may be brought upon any contract for the sale or other disposition of land or any interest in land, unless the agreement upon which such action or proceedings is brought, or some memorandum or note thereof, is in writing, and signed by the party to be charged or by some other person thereunto lawfully authorised by the party to be charged.
+      - (2) This section ... does not affect the law relating to part performance ... . 
+      - This section applies ... to land under the provisions of the Real Property Act 1900
+  - Contracts to Transfer an Interest in Land
+    - What is Specific Performance:
+      - The remedy of specific performance is the principal means by which contractual obligations are enforced in equity;
+        - If a plaintiff can be adequately compensated by an award of damages at common law the court has no jurisdiction to order specific performance.
+        - As land is considered unique, damages will be an inadequate remedy, and the contract for sale will be enforced through an order for specific performance.
+      - The doctrine of conversion: in equity, the purchase money becomes part of the personal estate of the vendor, and the land forms part of the purchaser's real estate
+  - Lysaught v Edwards [1876] 2 Ch D 499
+    - [T]he moment you have a valid contract for sale the vendor becomes in equity a trustee for the purchaser of the estate sold, and the beneficial ownership passes to the purchaser, the vendor having the right to the purchase-money, a charge or lien on the estate for the security of that purchase-money, and a right to retain possession of the estate until the purchase-money is paid ... . In other words, the position of the vendor is something between what has been called a naked or bare trustee, or a mere trustee (that, is a person without beneficial interest), and a mortgagee who is not, in equity (any more than a vendor), the owner of the estate, but is, in certain events, entitled to what the unpaid vendor is, viz, possession of the estate and a charge upon the estate for his purchase money. (at 506)
+  - Contracts to Grant a Lease
+    - Walsh v Lonsdale (1882) 21 Ch D 9 establishes that:
+      - Where parties have entered into a written agreement, which fails to comply with the formal requirements (i.e. not in a deed as required by s 23B); or have engaged in sufficient acts of part performance (s 23E); and
+      - A court would grant specific performance on the agreement;
+      - Then, an equitable lease arises between the parties on the basis of the equitable maxim Aequitas factum habet quod fieri oportuit: equity takes as done that which ought to be done.
+  - Summary: Legal Interests
+    - Under Old System:
+      - Created pursuant to Conveyancing Act s 23B,
+      - Legal leases that meet the short-term lease exception in Conveyancing Act s 23D(2)
+    - Under Torrens:
+      - Created by Registration Real Property Act s 41
+        - (remember registration functions as the equivalent of a deed)
+      - Legal leases that meet the short-term lease exception in Conveyancing Act s 23D(2)
+  - Summary - Equitable Interests
+    - Under Old System:
+      - Interests created that comply with Conveyancing Act s 23C(1)(a).
+      - Equitable lease (Walsh v Lonsdale).
+      - Vendor’s lien.
+      - The interest of a beneficiary under a trust.
+      - Equity of redemption (to be discussed in Mortgages).
+    - Under Torrens:
+      - The above - treated as Unregistered Torrens Interests
+- Common Law Priorities
+  - Categories of priority contests:
+    - Prior Legal vs Later Legal
+    - Prior Legal vs Subsequent Equitable
+    - Prior Equitable vs Subsequent Legal
+    - Equitable vs Equitable
+    - Mere Equities
+  - Prior Legal v Later Legal
+    - Nemo Dat Quod non Habet (you cannot give what you don’t have)
+      - Rule: The first in time prevails
+  - Prior Legal v Subsequent Equitable
+    - Rule: Legal will prevail unless evidence of conduct which led to creation of the later equitable interest
+      - Fraud: “where the owner of the legal estate has assisted in or connived at the fraud” (Northern County v Whipp)
+      - Negligence: where the failure to procure the title deeds makes them guilty of negligence: Walker v Linom
+  - Northern Counties of England Fire Insurance Co v Whipp (1884) 26 Ch D 482
+    - Crabtree was the manager of Northern Counties.
+    - Crabtree granted a legal mortgage of Old System Land to Northern Counties over his property, and delivered to them the title deeds which were stored in their safe. Crabtree had one of the two keys which opened the safe.
+    - Without the company’s knowledge Crabtree removed the deeds (except the deed of mortgage) from the safe and used them to grant a mortgage to Mrs Whipp.
+    - As Mrs Whipp did not see the deed of mortgage, her mortgage was obtained without notice of the earlier mortgage to Northern Counties.
+    - Issue: Prima facie a legal interest is entitled to priority over an equitable interest, however, should Northern Counties have its priority postponed to Whipp as a result of its negligence conduct.
+    - Held: Northern Counties retained priority:
+      - That there was great carelessness in the manner in which the Plaintiff company through its directors dealt with their securities seems to us to admit of no doubt. But is that carelessness evidence of fraud? We think not. Of what fraud is it evidence? The Plaintiffs never combined with Crabtree to induce the Defendant to lend their money. They never knew that she was lending it, and stood by. They can have had no motive to desire that their deeds should be abstracted and their own title clouded. Their carelessness may be called gross, but in our judgment it was carelessness likely to injure and not to benefit the Plaintiff company, and accordingly has no tendency to convict them of fraud.
+    - Two categories of case:
+      - 1) The conduct of the legal mortgagee in not obtaining possession of the title deeds:
+        - Where the legal mortgagee makes no inquiry for the title deeds they will be postponed;
+        - Where the legal mortgagee has inquired and has received a reasonable excuse for their non-delivery – not postponed;
+        - Where the legal mortgagee received part of the deeds under a reasonable belief they were receiving all – not postponed
+      - 2) Conduct of the legal mortgagee in giving up or not retaining possession of the title deeds:
+        - Where the title deeds have been lent by the legal mortgagee to the mortgagor upon a reasonable representation made by him as to the object of borrowing them - postponed
+        - Where the mortgagee gives the deeds to the mortgagor to raise money on them, but on the basis that the mortgagor will disclose the existence of the first mortgagee to any second mortgagee - postponed
+    - Negligence?
+      - No case has been cited in which the legal mortgagee has been postponed by reason of negligence in the custody of the deeds.... The authorities which we have reviewed justify the following conclusions:
+      - 1) The court will postpone the prior legal estate to a subsequent equitable estate:
+        - (a) where the owner of the legal estate has assisted in or connived at the fraud which has led to the creation of the equitable estate ... without notice of the prior legal estate; of which assistance or connivance, the omission to use ordinary care in inquiry after or keeping title deeds may be sufficient evidence where such evidence cannot otherwise be explained...; [or]
+        - (b) where the owner of the legal estate has constituted the mortgagor his agent with authority to raise money, and the estate thus created has by the fraud or misconduct of the agent been represented as being the first estate or the agent otherwise exceeds his/her authority.
+        - But the Court will not postpone the prior legal estate to the subsequent equitable estate on the ground of any mere carelessness or want of prudence on the part of the legal owner.
+  - Walker v Linom [1907] 2 Ch 104
+    - Walker was the holder of a fee simple, which he conveyed to trustees to be held on trust.
+    - The trusts were to Walker for life or until he attempted to alienate that interest, then to his wife for life.
+    - The solicitors who acted for Walker and the Trustees took possession of the title deeds, but Walker retained the deed which had conveyed the land to Walker.
+    - Walker then used the deed to mortgage the land to Barnes, who subsequently sold to Linom.
+    - Issue: 
+      - Did Linom have priority over the trustees?
+    - Held: 
+      - Trustees were postponed to Linom
+    - In my opinion any conduct on the part of the holder of the legal estate in relation to deeds which would make it inequitable for him to rely on his legal estate against a prior equitable estate of which he has no notice ought also to be sufficient to postpone him to a subsequent equitable estate the creation of which has only been rendered possible by possession of the deeds which but for such conduct would have passed into the possession of the owner of the legal estate.
+  - Prior Equitable vs Subsequent Legal
+    - Rule: A bona fide purchaser for value without notice, will prevail against an earlier equitable interest.
+      - “bona fide” - without fraud
+      - “purchaser of the legal estate” – holder of a legal interest
+      - “for value” – consideration in money or money’s worth
+      - “without notice” – Actual, Constructive or Imputed
+        - Conveyancing Act s 164: A purchaser shall not be prejudicially affected by notice of any instrument, fact, or thing, unless it is within the purchaser’s own [or their agent’s] knowledge, or would have come to the purchaser’s knowledge, if such searches as to instruments registered or deposited under any Act of Parliament, inquiries, and inspections had been made as ought reasonably to have been made by the purchaser
+        - Note: section 164 is not relevant to Torrens disputes - apply RPA ss 42, 43, and 43A
+  - Proper Searches for purchaser to be protected from notice of an interest
+    - For old system land
+      - search of title deeds back to a good root of title at least 30 years old: Conveyancing Act s 53.
+      - Inspect the land to ascertain who is in possession (e.g., a tenant) or who is using it (e.g., holder of an easement): Conveyancing Act s 164.
+        - cf rule in Hunt v Luck [1902] 1 Ch 428
+    - For Torrens Title –
+      - search the register: Real Property Act s 43.
+      - Inspect the land to ascertain who is in possession (e.g., a tenant) or who is using it (e.g., holder of an easement): Real Property Act ss 43A, 43.
+        - cf rule in Hunt v Luck [1902] 1 Ch 428
+  - Pilcher v Rawlins (1872) 7 Ch App 259
+    - Pilcher held legal title to money as trustee for his children. Pilcher advanced this money to Rawlins in exchange for a mortgage over Rawlins’ land, Blackacre.
+    - Pilcher and Rawlins then engaged in a fraudulent scheme, where they borrowed money from another set of trustees (Stockwell and Lamb) and issued a ‘second legal’ mortgage.
+    - This mortgage was fraudulently prepared by Rawlins, who prepared an abstract of title that omitted the first mortgage. Rawlins paid the money under the first mortgage, and Pilcher discharged the mortgage and reconveyed the legal interest back to Rawlins.
+    - Rawlins then executed a ‘correct’ legal mortgage to Stockwell and Lamb. The beneficiaries under Pilcher’s trust learnt that they had not received any of the money when the first mortgage was paid out.
+    - Issue: Whether the prior equitable interest of the beneficiaries under the Pilcher trust could prevail against the legal estate acquired by the trustees under the second mortgage.
+    - Held: Stockwell and Lamb succeeded. They had acted bona fide and in good faith in granting the mortgage and took without any knowledge that a prior estate existed.
+      - Sir G Mellish LJ: ‘I am clearly of the opinion ... that where a trustee in breach of trust conveys away a legal estate which he possesses, and that legal estate comes into the possession of a purchaser for valuable consideration without notice, the purchaser can hold the property against the cestuis que trust who were defrauded by the conveyance ...”
+      - Sir WM James LJ: “I propose simply to apply myself to the case of a purchaser for valuable consideration, without notice, obtaining, upon occasion of his purchase, and by means of his purchase deed, some legal estate ... and, according to my view of the established law of this Court [of Equity], such a purchaser’s plea of a purchase for valuable consideration without notice is an absolute, unqualified, unanswerable defence, and an unanswerable plea to the jurisdiction of this Court.”
+  - Smith v Jones (1954) 1 WLR 1089
+    - Defendant purchased a farm at auction, who inspected the property to determine if the plaintiff, a tenant, was liable for structural repairs.
+    - At first instance, it was determined the plaintiff was liable, but suggested that he may have a claim to rectify the tenancy agreement to impose liability for structural repairs on the defendant.
+    - The Defendant argued that he was not liable to any rectification claim (an equitable interest), because he was a bona fide purchaser without notice.
+    - Plaintiff argued that as the plaintiff was in possession of the property, the defendant had notice of all his rights and equities
+    - Held:
+      - The question which I have to answer is this. What inspections an inquiries ought reasonably to have been made by the defendant of the plaintiff before the sale? I think the only relevant inquiry would have been to look at the agreement... The defendant was not bound to go through the document step by step. The defendant is entitled and bound to rely upon the terms of the document, and the document speaks for itself.
+  - Equitable vs Equitable
+    - Rule: First in time if the merits are equal
+      - Qui prior est tempore potior est jure
+  - Breskvar v Wall (1971) 126 CLR 376
+    - Facts: Mr and Mrs Breskvar executed a transfer to Petrie as security for a loan. Petrie fraudulently used the transfer and sold to his grandson Wall, who became registered owner. Wall sold to Alban Pty Ltd but before they could register their interest the Breskvars lodged a caveat which injuncted the sale. The conflict was therefore between the interest of Breskvars and the interests of Alban Pty Ltd.
+    - Held: Despite the fraud flowing from the void transfer, the Breskvars were unable to have the register amended. Their equitable interest was postponed to Alban Pty Ltd.
+    - Menzies J (at 397):
+      - In this case, as I have already indicated, Wall, although he became registered proprietor, clearly enough did not obtain an indefeasible title. He obtained registration by the fraudulent use of an invalid instrument. It is the significance of his becoming registered in these circumstances that matters here... After the registration of Wall as registered proprietor the appellants' rights were no longer those of registered proprietors but were simply to impeach the indefeasible title which Wall had obtained by that registration.
+    - Walsh J (at 408-09):
+      - In my opinion, the appellants would be entitled, as between themselves and Wall, to have the registered title restored to them because of the fraud by which he was found to have been affected. He could not defeat their claims by reliance upon his registered title... The right that they had was in my opinion of the nature of an equitable right. It was a right to ask a court to compel Wall as the holder of the registered title to deal with it in such a way that he would obtain no benefit from the fraud that had been practised on the appellants ....
+      - I am of opinion that, if it be assumed that the appellants had an equitable estate or interest in the land after their transfer had been registered, that interest is not entitled to priority over the interest which Alban acquired in the land. If the latter interest is to be considered as an equitable interest, arising out of the contract for the purchase of the land made by it with the registered owner of the land without notice of any defect in his title and completed by payment of purchase money and the obtaining of a transfer, Alban is entitled, in my opinion, to priority over the interest' of the appellants.
+  - Mere Equities
+    - Prior Mere Equity vs Later Equitable Interest or later legal interest:
+      - Later equitable interest has priority over an earlier mere equity if the later equitable interest was taken bona fide, for value, and without notice of the earlier equity.
+    - Westpac Banking Corporation v Ollis [2008] NSWSC 824 at [77] per Einstein J: “the critical difference then, is between an “equity” – an in personam right in equity – which requires the intervention of the court to flower into a full equitable estate, and an equitable interest which does not because it already consists of such estate.”
+    - Double Bay Newspapers Pty Ltd v AW Holdings Pty Ltd (1996) 42 NSWLR 409 at 425 per Bryson J: ... a mere equity [is] a claim to have an equitable interest which can only be enforced by succeeding in some claim to a court for equitable relief (such as a claim for rectification, a claim to set aside a conveyance obtained by fraud or (as I think) a claim the enforcement of which depends upon the doctrine of part performance) ...”
+    - Claim to rectify deed – discussed in Smith v Jones [1954] 1 WLR 1089 (EWCA)
+    - Claim to set aside a transfer on the basis of fraud - Latec Investments Ltd v Hotel Terrigal Pty Ltd (1965) 113 CLR 265
+    - Claim to enforce contract based on part performance?
+      - The mortgage [document] taken by the plaintiff does not identify what debt or other obligation is charged upon the land, and does not set out what agreement was made for the time of payment. It is defective in that it does not comply with the statutory provisions which require interests in land to be created or evidenced in writing. [Either requires rectification or enforcement on the basis of part performance.] Double Bay Newspapers Pty Ltd v AW Holdings Pty Ltd at 418, 419
+  - Latec Investments v Hotel Terrigal (1965) 113 CLR 265
+    - A mortgagee company, Latec, fraudulently exercised its power of sale by selling the mortgaged land to Southern, a subsidiary of Latec, who was thus a party to the fraud.
+      - The mortgagor, Hotel Terrigal had a mere equity in the land because it had a right to set aside the sale.
+      - Southern granted an equitable charge to MLC Nominees, who was a bona fide purchaser of an equitable interest for value without notice of Terrigal’s prior interest.
+      - The Court held that Latec had been fraudulent and that, therefore, Hotel Terrigal had a right to set aside the transfer.
+    - Issue: Who should prevail between Terrigal and MLC Nominees?
+    - Held: MLC Succeeded.
+    - Kitto J:
+      - In my opinion the equitable charge of MLC stands in the way of Terrigal’s success because it was acquired for value and without any notice either of the existence of the mortgagor’s right to set aside the sale or of any facts from which such a right might be inferred…
+      - Where a claim to an earlier equitable interest is dependent for its success upon the setting aside or rectification of an instrument, and the court leaves instrument to take effect according to its terms in favour of a third party, the alleged earlier equitable interest is unprovable against the third party, and, consequently, so far as the case against him discloses, there is no prior equitable interest to which his equitable interest to which his conveyance can be held subject.
+    - Menzies J:
+      - Where the question arises in a contest between Terrigal and MLC Nominees, the holders of an equitable interest in the property acquired without notice of Terrigal’s rights, the authority is (i) that the contest is between Terrigal’s equity to have the conveyance set aside and the equitable interest of MLC Nominees and (ii) that in that contest, Terrigal’s equity is not entitled to priority merely because it came into existence at an earlier time than the equitable interest of MLC Nominees. In the circumstances here, therefore, the maxim ‘Qui prior est tempore potior est jure’ has no application.
+  - Double Bay Newspapers Pty Ltd v AW Holdings Pty Ltd (1996) 42 NSWLR 409
+    - A house in Crows Nest had been mortgaged several times; the owner of the legal mortgage had the first claim to the house. The battle was between three equitable mortgages.
+      - 1. Easyfind - took an equitable mortgage but did not lodge a caveat.
+      - 2. Double Bay Newspapers - they searched the register to see if there were any caveats, found none and thought they were the first equitable mortgage. However, this mortgage was defective, as it did not satisfy the written requirements. They had a right to rectify the defect (Mere Equity).
+      - 3. APC took an equitable mortgage but did not search the register; they did try to lodge a caveat
+    - Issue: Does Easyfind’s equitable interest prevail over Double Bay’s mere equity.
+    - Held: Easyfind succeeded.
+    - Bryson J:
+      - a mere equity [is] a claim to have an equitable interest which can only be enforced by succeeding in some claim to a court for equitable relief (such as a claim for rectification, a claim to set aside a conveyance obtained by fraud or (as I think) a claim the enforcement of which depends upon the doctrine of part performance)... 
+      - The mortgage [document] taken by the plaintiff does not identify what debt or other obligation is charged upon the land, and does not set out what agreement was made for the time of payment. It is defective in that it does not comply with the statutory provisions which require interests in land to be created or evidenced in writing.” [Requiring either rectification or enforcement on the basis of part performance]
+      - equities (or mere equities) do not participate in competitions of priorities on the same basis as equitable interests; they may be defeated by equitable interests acquired for value without notice of them; yet they may prevail against equitable interests which are acquired with notice of them.... I am of the view that the claim of the plaintiffs should be classified as a mere equity, and does not have any standing in the competition of priorities with the equitable interest of Easyfind. But for this matter, the plaintiffs should in my view have succeeded. If the plaintiffs had actually obtained a properly constituted and evidenced equitable mortgage in accordance with the statute law, their reliance on the state of the register as shown by search, and the contribution made by Easyfind not having registered its mortgage, would have required priority in point of time to be reversed in favour of the plaintiffs
+- Real Property Act s 43A
+  - Section 43A
+    - (1) For the purpose only of protection against notice, the estate or interest in land under the provisions of this Act, taken by a person under a dealing registrable, or which when appropriately signed by or on behalf of that person would be registrable under this Act shall, before registration of that dealing, be deemed to be a legal estate.
+    - (2) No person contracting or dealing in respect of an estate or interest in land under the provisions of this Act shall be affected by notice of any instrument, fact, or thing merely by omission to search in a register not kept under this Act. (i.e. charges recorded on on the Corporations Act register) 
+    - Applies only between settlement and registration!
+      - Before settlement, the party will not be protected from notice.
+      - After registration, the party will have the benefit of indefeasibility under s 42, and s 43A is no longer relevant
+    - Interpretations
+      - The ‘Hardie-Taylor’ view:
+        - Hardie J in Courtenay v Austin [1962] NSWR 296;
+        - Taylor J in IAC (Finance) Pty Ltd v Courtenay (1963) 100 CLR 550
+      - The ‘Kitto’ view
+        - Kitto J in IAC (Finance) Pty Ltd v Courtenay (1963) 100 CLR 550
+  - Requirements
+    - 1. Must be bona fide: Diemasters v Meadowcorp (2001) 52 NSWLR 572
+    - 2. Must have given value: Westpac Banking Corporation v Ollis [2008] NSWSC 824, [49] – [56]
+    - 3. Prompt Lodgment:
+      - The dealing must be lodged promptly or within a ‘reasonable time after settlement’ (Courtenay v Austin).
+      - The protection is “not everlasting” and does not assist those “who make no effort to get the protection of registration” (Diemasters).
+      - See also comments in Finlay v R & I Bank of WA (1993) NSW ConvR 55-686.
+    - 4. Must not have had notice: Drulroad v Gibson (1992) NSW ConvR 55-637
+      - Includes constructive notice – so if the purchaser/mortgagee would have discovered the interest had they undertaken the proper pre-completion searches then they will not have the protection of s 43A.
+      - Notice acquired before or at settlement will deprive a party of the benefit of s 43A.
+      - Notice received after settlement, but before registration, will not prevent a party from relying on s 43A.
+      - Notice acquired after registration is irrelevant because of immediate indefeasibility under s 42. 
+    - 5. Must have a “dealing registrable”: two key requirements
+  - Doctrine of Successive Effect
+    - As s 43A(1) imports the bona fide purchaser for value without notice doctrine into the Real Property Act 1900, the rule in Wilkes v Spooner also applies.
+    - Applying the rule in Wilkes v Spooner to s 43A(1):
+      - a party claiming through a purchaser/mortgagee who has the protection of s 43A(1) will also be entitled to the protection of s 43A(1) even where that subsequent party has notice.
+      - E.g. Registered Proprietor transfers to P. Before P registers, they grant a mortgage to M. If P has no notice of prior interests, then they will have the protection of s 43A(1) and M will get the benefit of the successive effect of s 43A(1) as they obtain their title through P. 
+        - Note risks for M: Mayer v Coe (1968) 88 WN (NSW) (Pt 1) 549
+  - Wilkes v Spooner [1911] 2 KB 473
+    - Mr Spooner Snr leased two different properties from different landlords: Nos 137 and 170 High Street. At 137 he carried on the business of a pork butcher, and at 170 the business of a general butcher.
+    - He assigned both the business at 170 as well as the lease of the premises to the plaintiff (Wilkes). He also covenanted with the plaintiff on behalf of his successors that he would not conduct the business of a general butcher at 137 (Equitable Interest).
+    - Mr Spooner Snr then surrendered his lease of No 137 to the landlord, who had no knowledge of the covenant and leased the premises to Mr Spooner Jnr.
+    - Mr Spooner Jnr knew of the covenant but nevertheless carried on the business of a general butcher at No 137.
+  - 5. Must have a “dealing registrable”: two key requirements
+    - Must have possession of the certificate of title or means of compelling its production: Finlay v R & I Bank of Western Australia (1993) NSW ConvR 55-686
+      - Note: this is no longer a requirement since the abolition of CTs. Certified IDs likely equivalent.
+    - The Dealing must be “immediately registrable”: IAC v Courtenay
+      - Registration must not first require another dealing to be registered first: (IAC v Courtenay; Jonray; Weller v Williams)
+  - IAC v Courtenay (1963) 110 CLR 550
+    - Ms Austin was the Registered Proprietor. She sold her property to the Courtenays.
+    - The Courtenays secured the purchase price by mortgaging the land back to Ms Austin.
+    - The transfer and mortgage were lodged for registration by Ms Austin’s solicitor (Mr Easton).
+    - However, Mr Easton subsequently withdrew them and purported to sell the land to Denton Subdivisions Pty Ltd. Mr Easton acted as Denton’s solicitor in this transaction. Denton then mortgaged the property to IAC and Hermes
+    - Issue: IAC and Hermes claimed that they were entitled to protection under s 43A.
+    - Held: IAC and Hermes were not entitled to the protection of s 43A.
+      - Denton was on notice of the Courtenay’s interest (as Easton had acted as his solicitor).
+      - In relation to IAC and Hermes, they had no such notice, but were still not entitled to protection under s 43A
+  - Jonray (Sydney) Pty Ltd v Partridge Bros Pty Ltd (1969) 89 WN (pt 1) NSW 568
+    - Australian Express, the RP, entered into a contract of sale with Mr and Mrs Moore. The property was subject to a mortgage to a company called Bamberger.
+    - Before registering, the Moores (through their agent Partridge Bros) entered into a contract of sale with Jonray. On signing its contract Jonray informed Partridge/Moores that it required them to be registered proprietors and to have the mortgage discharged registered before settlement.
+    - Partridge proposed a transfer by direction from the registered proprietor directly to Jonray along with a discharge of mortgage executed by the mortgagee.
+    - Jonray subsequently sought to rescind the contract of sale, and Partridge Bros brought a claim for the return of the deposit.
+      - 1) Was Jonray entitled to refuse the transfer by direction?
+      - 2) Could it require the mortgage discharge to be registered?
+    - Issue 1): Jonray could not refuse the transfer by direction.
+      - Held: Herron CJ, Jacobs and Asprey JJA at 572:
+        - The RPA makes no provision in terms for transfers by direction. The practice of the Registrar-General is, we are told, to accept and register transfers by direction. The fact that the Act does not in terms refer to the interposition in a memorandum of transfer of a directing party does not, in our opinion, mean that, if such a party joins in and executes a memorandum of transfer, such instrument is invalidated.... We are of the opinion that the mere presence in a transfer of a directing party does not affect the operation of the instrument as a registrable memorandum of transfer under the Act and that it is in order for the Registrar-General to accept and register the transfer in which a directing party has been joined
+    - Issue 2) Re the discharge of mortgage: Jonray could not object to the mortgage discharge not being registered before settlement. At 577:
+      - [Section] 43A operates not only to protect against notice the mortgagor who takes the discharge of mortgage, but also any person claiming under the mortgagor i.e. the purchaser. It gives what has been described before as a successive effect to s 43A. If A has the benefit of a defence of purchaser for value without notice, all persons claiming under A have the same benefit, whether or not they had notice and whether or not they were purchasers for value”.
+      - 577: 
+        - It would therefore appear to us that the only areas of risk are: 1) where the discharge of mortgage is void or 2) where notice of an equitable interest has been received before settlement. In both cases these are risks of the same kind on the settlement of any transaction under the RPA. It is true that the quantity of the risk is increased because there are two interests awaiting registration instead of one. It is also true that the purchaser has the added risk that the mortgagor, unknown to the purchaser, may have received some notice which has deprived him of the benefit of s 43A. It seems to us that the nature of the risk remains substantially the same. However, the risk must be weighed against the gross conveyancing difficulties which would arise on a different view, and the practical difficulties which would not be readily resolved by making special provisions in the contract of sale.
+  - Weller v Williams [2010] NSWSC 716
+    - Williams was the registered proprietor of land which was subject to a first registered mortgage in favour of Permanent Mortgages. Williams entered into a fee agreement with Weller (a solicitor). To secure payment of his fees, Mr Weller was granted an unregistered charge over Williams’ property.
+    - Williams then entered a sale to Mr and Mrs Xerri. The Xerris had already granted a mortgage over the land to their Bank (Bank ABC). A discharge of the first mortgage (Permanent’s) was exchanged at settlement. The Xerris received a signed transfer from William.
+    - Before they could register Weller lodged a caveat.
+      - Xerri’s bank, Bank ABC, sought to rely upon s 43A protection directly, but Weller argued that they did not have a dealing registrable, and their dealing was not immediately registrable as the Xerris were yet to become the registered proprietor.
+      - Note: Xerri’s bank is not named in the case
+    - Held: Ball J at [17]-[18]
+      - The plaintiff maintains that the only instrument which is “immediately registrable” in this case is the discharge of the mortgage to Permanent Mortgages. According to the plaintiff, the transfer to Mr and Mrs Xerri was dependent on that discharge of mortgage and the mortgage to the bank was dependent on the transfer to Mr and Mrs Xerri.
+      - In my opinion, this argument is a misapplication of the principles stated by Taylor J and Hardie J. Mr and Mrs Xerri’s interest in the property derives from the transfer executed by the first and second defendants as the registered proprietors. The transfer is immediately registrable because the interest that is sought to be registered is derived immediately from the person who is entitled to grant it....
+    - [18] Cont.....
+      - It is true that, if it is registered in that form without a discharge of the mortgage to Permanent Mortgages, then Mr and Mrs Xerri would take their interest subject to that mortgage. But that does not mean that the transfer is not immediately registrable. Nor does the fact that Mr and Mrs Xerri may not be prepared for the transfer to take place in those circumstances; or that a transfer in those circumstances may be a breach by the first and second defendants of their obligations under that mortgage. The requirement that the interest be in registrable form goes to the characteristics of the instrument, not whether or not the parties would want it to take effect in certain circumstances.”
+    - [19]:
+      - The position is different in the case of the bank. It takes its interest from Mr and Mrs Xerri, who are not the registered proprietors. Consequently, in accordance with the principles stated by Taylor J in IAC Finance v Courtenay (1963) 110 CLR 550, it is not entitled to the benefit of s 43A
+  - Requirements
+    - Other considerations for determining a dealing is “immediately registrable”:
+    - Stamp Duty: see Duties Act 1997 (NSW), Taleb v NAB
+    - Caveat: Has a caveat been lodged?
+      - Taleb v NAB;
+      - Barlin Investments v Westpac
+  - Taleb v National Australia Bank Ltd (2011) 82 NSWLR 489
+    - On 28 January 2010, Taleb entered into a deed of acknowledgment with Hock A Car Investments Pty Ltd regarding loans made to Hock by the Plaintiff. Clause 1.3 of the deed of acknowledgement provided that, “The debtor will grant to the Creditor the right to register a Caveat over the Debtor’s interest in property.” Although Taleb expected the solicitors who prepared the deed to lodge a caveat on his behalf, the solicitors denied that they were acting for him and they did not lodge the caveat.
+    - On 6 October 2010, Taleb was warned that arrangements were being made that would compete with his interests. On 18 October 2010 NAB entered into a bill facility with Hock A Car secured by a mortgage over the same property. NAB also took possession of the certificate of title.
+    - Eventually, a caveat was lodged on behalf of Taleb on 26 November 2010, claiming an “equitable interest” arising by virtue of the deed of acknowledgement.
+    - NAB had conducted searches of the register on 27 July 2010, 30 September 2010 and 15 October 2010 and found no reference to the plaintiff’s interest. The NAB’s mortgage was not stamped until around 30 November 2010 and was not lodged for registration until 7 December 2010. The Registrar-General raised a requisition requiring removal of Taleb’s caveat before registration of the mortgage
+    - Was NAB entitled to protection against notice under s 43A(1)?
+    - Held: Bryson AJ: NAB was not entitled to the protection of s 43A.
+      - [41] In my opinion the mortgage was not registrable until it was stamped. This is the conclusion which Windeyer J was reluctant to reach in Diemasters Pty Ltd v Meadowcorp Pty Ltd (2001) 52 NSWLR 572 at [22]. In the present case I must come to a conclusion and s 301 of the Duties Act 1997 dictates the conclusion that the mortgage was not registrable
+      - Section 74H(1) in mandatory terms prohibits the Registrar-General from recording any dealing prohibited by a caveat without written consent of the caveator. In my view it plainly follows that in the absence of a caveator’s consent, the NAB mortgage was not “... registrable ... under this Act” at the relevant time, which began when the mortgage was stamped. I find it surprising that no earlier judicial consideration of such an obstacle has been found, but I act on what appears to me to be the plain effect of s 43A(1) taken with s 74H(1)
+  - Barlin Investments Pty Ltd v Westpac Banking Corporation [2012] NSWSC 699
+    - Barlin was a property investor who owned property at Fairfield. It entered into a put and call option with Equipped Constructions Pty Ltd, which was exercised on 13 October 2004 resulting in a contract of sale. The purchase price was funded by a registered mortgage from Capital Finance Australia, and an unsecured mortgage from Barlin. Barlin lodged a caveat to protect its interest on 19 November 2004, but subsequently withdrew the caveat on 28 November 2005.
+    - In August 2008, Equipped Constructions redeveloped the lot into commercial strata units. Two of Barlin’s directors agreed to purchase lots 34 and 36 to set off the money owed to them by Equipped Constructions. However, settlement did not occur. 
+    - Over time the remaining lots were sold, and only Lots 33 and 75 remained. On 24 September 2009, Equipped entered into a contract to sell Lot 33 to Mr Chiha, and settlement occurred on 8 December 2009. At that time, the only dealing registered in respect of Lot 33 was the registered mortgage to Capital Finance. Mr Chiha obtained finance from Westpac (the First Defendant) and at settlement, Westpac lodged the discharge of mortgage (for Capital’s registered mortgage), the transfer from Equipped to Mr Chiha, and the mortgage from Mr Chiha to Westpac
+    - On 9 December 2009, those dealings were lodged into the ‘Bulk System’ – where batches of documents can be lodged by frequent users of the Torrens System. No distinctive reference is given to the individual documents at that stage and no document details are entered into the Torrens register (see RPA s 36(1B)).
+    - On 10 December, before Chiha’s dealings had been given distinctive references, Barlin’s solicitor discovered that only lots 33 and 75 remained and lodged a caveat through the traditional registration process. Thus, Barlin’s caveat was registered before Chiha’s dealings.
+    - On 11 December 2009, the Chiha dealings were examined and were given distinct references at that time. However, because of the caveat, the dealings were not registered and LPI sent Westpac a requisition in respect of those dealings referring to the caveat.
+    - Subsequently, Chiha entered into a contract to sell Lot 33 to the Mitchells.
+    - Issues:
+      - Barlin sought a declaration that its interest takes priority over Westpac.
+      - Westpac argued that it had the better equity, and was entitled to priority, which would give it a dealing registrable.
+      - Mr Chiha claimed protection under s 43A(1), and Westpac and the Mitchells relied upon the successive effect of s 43A(1).
+    - Held: Ball J Westpac’s equitable interest had priority over Barlin. At [33]:
+      - In the present case, Westpac took a first mortgage over lot 33 on the faith of the register and in circumstances where it did not have any reason to believe that the property was subject to a mortgage other than to Capital Finance, which was to be discharged on settlement. Mr Chiha, who had acquired the property from Equipped Constructions, was in a position to grant that mortgage. Barlin had lodged a caveat but had subsequently withdrawn it, with the result that anyone conducting a search of the register would have been left with the clear impression that, whatever interest Barlin had, that interest did not exist at the time that Westpac took its mortgage…
+    - Ball J: Mr Chiha (and Westpac and the Mitchells) were entitled to the protection of s 43A(1). At [40]:
+      - Mr Chiha was entitled to the protection of s 43A because he took his interest from the registered proprietor for value and without notice of Barlin’s interest. Westpac and Mr and Mrs Mitchell were entitled to the same protection because they took their interests from him, even though they took with notice of Barlin. In any event, on registration of Mr Chiha’s interest, Barlin’s interest would be extinguished under ss 42 and 43 of the RPA. In those circumstances, there is nothing to prevent registration of the subsequent dealings.
+- Applying Priority Rules to Torrens Land
+  - Steps in resolving a priority dispute.
+    - Step 1: Identify the relevant interests e.g. a tenant under a lease, a mortgagee, the interest of a purchaser under a contract for sale.
+    - Step 2: Identify whether those interests are legal or equitable.
+    - Step 3: Identify which interests are actually in competition with one another (cf subsequent slide).
+    - Step 4: Apply the applicable priority rule.
+  - Step 1: Identify the Interests
+    - What type of interests are there in the property?
+      - Is there a tenant occupying the property under a lease?
+      - Has a party acquired a mortgage?
+      - Has a party signed a contract to purchase the property?
+      - Is there a party with the benefit of an easement?
+  - Step 2: Are the Interests Legal or Equitable?
+    - Legal Interests:
+      - For Torrens land: Interests that are registered or leases which meet the requirements of s 23D(2).
+    - Equitable Interests:
+      - Unregistered Torrens Interest (except a lease under 23D(2))
+      - Interests in writing (per s 23C(1)(a));
+      - Interests which are enforceable through Part Performance (s 23E(d));
+      - The interest of a purchaser under a signed contract for sale.
+      - A lease arising under the doctrine in Walsh v Lonsdale;
+      - A Vendor’s Lien (i.e. the vendor’s right to be paid the outstanding purchase price);
+  - Step 3: Which interests are actually in competition?
+    - Ask: Which type of right are the parties seeking to enforce?
+      - 1) Possession: A tenant living upon the property, and a purchaser seeking to obtain vacant possession of the land are both competing for possession. The tenant wishes to remain, and the purchaser wishes to evict them.
+      - 2) Repayment: Two mortgagees may be competing against one another to determine who should be repaid first from the proceeds of sale.
+      - 3) Use of the land: A new Registered Proprietor may discover that another party is using their land pursuant to an easement, covenant or profit a prendre. Should the registered proprietor be subject to the exercise of this right?
+  - Step 4: Which Priority Rule Applies?
+    - Once you have identified which interests are in competition, and whether those interests are legal or equitable, you can identify which of the following rules is applicable:
+      - A) Registered Interest vs Registered Interest: the interest registered first will prevail.
+      - B) Registered Interest vs Unregistered Interest: the registered interest will prevail unless an exception to indefeasibility can be established (see Week 2).
+      - C) Two Unregistered interests: if both interests are equitable, the first in time will prevail, subject to an examination of the merits.
+      - D) Two Unregistered Interests, where the latter is a Purchaser of the land: s 43A. If 43A does not apply, Rule C will be applied
+    - 
+VERSUS
+Subsequent Legal
+(second interest created)
+Subsequent Equitable
+(second interest created)
+Prior Legal
+(first interest created)
+Nemo Dat
+First in time
+Legal, unless
+contributed to the
+creation of Equitable
+Interest
+Prior Equitable
+(first interest created)
+Bona fide purchaser for value without notice
+First in time, subject to
+the merits
+- Hunt v Luck [1902] 1 Ch 428.
+  - Facts
+    - H owned a number of properties which were let out, the rents for which were collected by an agent. These properties were subsequently conveyed to G, who proceeded to take out a series of mortgages. Following the death of H, his personal representatives (C) brought an action challenging the validity of the conveyance to G. When the court at first instance upheld the validity of the deed of conveyance, C brought an appeal, arguing that the defendant mortgagee (D) had constructive notice of the tenancies, and through that, constructive notice of the interest of C as receiver of the rents.
+  - Issues
+    - The Court of Appeal were called upon to consider the nature of constructive notice in the context of unregistered conveyancing. Specifically, the question arose as to whether a purchaser or mortgagee would have constructive notice of a receiver’s interest where the interest of a tenant in occupation would have been discoverable on a reasonably careful inspection.
+  - Decision/Outcome
+    - The Court of Appeal found in favour of D: A purchaser will have constructive notice of any rights reasonably discoverable by inspection of the property, and, in particular, from enquiry of any occupier as to his interests. This does not, however, extend to the rights of a landlord, there being no obligation to enquire as to the existence of interests beyond those of the tenant in occupation. If D had actual knowledge of C’s right to receive the rents, however, would have sufficed to fix D with notice of that right.
+## Week 6: Co-ownership
+
+- Creating a Co-ownership arrangement
+  - What is co-ownership?
+    - When two or more persons hold interests together in the same parcel of land
+    - An example: two persons holding the estate in fee simple of a residential block of land in NSW.
+    - Two types:
+      - joint tenancy; and
+      - tenancy in common
+    - Each type of co-ownership has the benefit of the possession of the whole.
+    - Joint Tenancy:
+      - Each joint tenant owns the whole of the entire interest, subject only to the rights of the other JTs
+      - Four unities:
+        - possession,
+        - interest,
+        - title,
+        - Time.
+      - Right of survivorship (jus accrescendi)
+      - A joint tenant’s interest cannot be passed on to heirs after death
+      - A joint tenant may however transfer interest while still living (inter vivos).
+      - Presumption of survivorship, CA: s 35
+    - Tenants in common (TiC):
+      - TiCs hold an “undivided fixed” share
+      - only requires unity of possession (other unities may also be present)
+      - No right of survivorship: TiC’s interest will be distributed according to TiC’s will (or by rules of intestacy).
+  - Creation
+    - General: Co-ownership interests can be created at law and in equity.
+    - Law = formal title
+    - Equity = beneficial ownership
+    - Always check status of co-owners at law AND equity
+    - At common law:
+      - Historically, law presumed joint tenants, but now
+    - Statutory presumption of tenants in common:
+      - s 26(1) Conveyancing Act 1919:
+        - “In the construction of any instrument...a disposition of the beneficial interest in any property whether with or without the legal estate to or for two or more persons together beneficially shall be deemed to be made to or for them as tenants in common, and not as joint tenants
+    - At law continued…
+      - Unless expressly stated to take as joint tenants:
+      - Section 26(1) does not apply where the instrument creating co-ownership expressly states that the persons are to take as joint tenants: Conveyancing Act section 26(2)
+      - Conveyancing Act section 26 applies to law and equity (see Delehunt v Carmody)
+    - At equity…
+      - Equity follows the law unless:
+        - co-owners contribute unequal amounts to purchase price
+        - co-owners advance money on a mortgage (whether in equal or unequal shares)
+        - property is acquired by a partnership or joint business venture
+      - Then: equity presumes tenants in common.
+  - Creation Checklist
+    - Start with legal interest
+      - Presumption of tenancy in common (s26(1) CA), unless expressly joint tenants (s26(2) CA)
+    - Then work out equitable interest
+      - "Equity follows the law". So whatever the tenancy is at law, it will also be in equity; UNLESS:
+      - One of the three exceptions applies on the facts: 
+        - unequal contribution to purchase price, 
+        - advance on mortgage, 
+        - partnership assets
+  - Creation: An Example
+    - Assume two sisters, Rachel and Clare are registered as joint tenants, but Rachel paid 70% of the purchase price and Clare paid 30% of the purchase price.
+      - At law: they are joint tenants because they are registered as joint proprietors.
+      - In equity: The sisters are tenants in common in 70/30 shares.
+    - What happens if Rachel dies? Apply the right of survivorship
+  - Delehunt v Carmody (1986) 161 CLR 464
+    - Facts
+      - Miss Delehunt and Mr Carmody (de facto relationship) contributed equally to purchase price of a property in Enmore. Mr Carmody on CT as RP. Mr Carmody died without a will. The Property went to his wife, Mrs Carmody, from whom he had separated in 1939. Mrs Carmody new RP. Miss Delehunt argued that equity presumed a joint tenancy when equal contribution to purchase price – ie that she held the entire beneficial interest by right of survivorship.
+    - Issue: 
+      - What was the effect of Conveyancing Act s 26 on equity’s presumptions re: tenants in common/joint tenants?
+    - Held: 
+      - Section Conveyancing Act 26 applies to legal and equitable interests. Although Conveyancing Act section 26 did not strictly apply in this case (because the transfer was to one person only), it operated indirectly by overturning the general common law presumption of joint tenancies.
+      - The general rule is that equity follows the law, including the law in its present state, ie as it stands under section 26
+  - Co-ownership and Torrens
+    - Section 100(1) of the RPA:
+      - “Two or more persons who may be registered as joint proprietors of an estate or interest in land...shall be deemed to be entitled to the same as joint tenants”
+    - Held: 
+      - section 100(1) imports the laws of joint tenancy into Torrens. It did not create a presumption of joint tenancy: Hircock v Windsor Homes [1979]
+    - NB: 
+      - not all features of common law of joint tenancy will necessarily be carried across to Torrens. Eg fraud by one joint tenant will not necessarily “infect” the registered title of another JT : Cassegrain v Gerard Cassegrain (2015)
+- Ending a Co-ownership
+  - Severance
+    - Severance = ends a joint tenancy by converting it into a tenancy in common
+    - Severance occurs when one of the unities is destroyed
+    - The right of survivorship is destroyed (only with regards to the severing co-owner’s share)
+    - Other co-owners cannot prevent severance (unless they can rely on some other contractual or equitable limitation)
+  - Severance can occur in six ways:
+    - 1. unilateral act by one joint tenant
+    - 2. mutual agreement by joint tenants
+    - 3. course of dealing by joint tenants
+    - 4. court order
+    - 5. unlawful killing
+    - 6. Bankruptcy
+  - Unilateral act by one joint tenant can occur in three ways:
+    - Transfer to third party
+    - Transfer to self
+    - Declaration of a trust
+    - Note: Severance may operate at law or in equity
+  - Unilateral act by one JT – alienation to 3rd party
+    - Will be effective at law when the legal interest is transferred:
+      - For Torrens, upon registration of the transfer (Real Property Act s 42 RPA).
+      - For Old System Title, where deed is used to transfer the interest (Conveyancing Act s 23B(1) CA)
+    - Will be effective in equity where JT has entered into a specifically enforceable contract to transfer her share to a 3rd party.
+    - The result: the original JT will hold legal title on trust for the purchaser as a tenant in common: Wright v Gibbons (1949) 78 CLR 313
+  - Unilateral act by one JT – gift to a 3rd party?
+    - If legal title transferred = severance
+    - But if no registration (TT) or no properly executed deed (OST)...
+    - Will equity recognise severance of the joint tenancy?
+    - Corin v Patton (1990) CLR 540
+      - NOTE: Limited application since abolition of CTs
+  - Unilateral act by one JT – transfer to self
+    - Section 97 RPA permits a JT to register a transfer to herself to sever the joint tenancy.
+      - No need to produce CT (obsolete benefit)
+      - Notice is given to other tenants before registration of transfer goes ahead
+      - If there is no registration, severance fails (in law and in equity)
+    - Case: McCoy v Caelli [2008] NSWSC 986
+    - Can assure to self under Old System Title: Conveyancing Act ss 24 and 44(2).
+  - Unilateral act by one JT
+    - Will severance occur if a JT creates a mortgage over their interest?
+      - depends on whether Old System Title or Torrens Title land
+    - Will severance occur if a JT grants a lease?
+      - No. It only suspends the JT: Frieze v Unger
+  - Unilateral act by one JT – declaration of trust
+    - Declaration of a trust may effectively sever joint tenancy if it complies with Conveyancing Act s 23C(1)(b) CA.
+    - Applies to Old System Title and Torrens Title.
+    - Question: Why didn’t this work in Corin v Patton?
+  - By mutual agreement
+    - If all JTs agree to hold as tenants in common, the joint tenancy is severed in equity: Lysaght v Edwards (1876) 2 Ch D 499
+    - What form of agreement will suffice: document in writing, oral agreement?
+      - Conveyancing Act section 54A; Lyons v Lyons; Burgess v Rawnsley
+  - By course of conduct among JTs
+    - Must be conduct of all JTs,
+    - Discussions about how to sever will not sever: Magill v Magill (1997)
+    - Need to have conduct that shows that all the co-owners agreed and assumed that each held an undivided proportionate share and no right of survivorship: Williams v Hendsman (1861)
+  - By court order
+    - A court may order severance.
+      - For example, under the Family Law Act 1975 (Cth), the court has powers to make orders in relation to property, that may expressly or by implication sever the joint tenancy.
+      - Also, power of court to end co-ownership (discussed below) under Conveyancing Act s 66G
+  - Cases of unlawful killing
+    - Homicide: cannot profit from one’s crime. If one JT murders another JT, perpetrator will hold on trust for victim’s heirs.
+      - If Alice murders Betty, Alice retains the legal estate by right of survivorship, but in equity the estate is held by Alice and Betty’s heirs as TiC.
+      - This is known as the forfeiture rule.
+      - In cases of unlawful killing (but not murder), the Forfeiture Act ss 4 and 5 give the Supreme Court power to vary the forfeiture rule if justice requires it
+  - Bankruptcy
+    - Bankruptcy of a JT will sever the joint tenancy.
+      - Occurs at law when the JT’s property vests in the trustee: Bankruptcy Act 1966 (Cth) s 58.
+      - Occurs in equity from moment JT is declared bankrupt: Re: Holland.
+  - Ending co-ownership
+    - Co-ownership can come to an end in two ways:
+      - 1. By action of the parties
+        - For TiC, when one co-owner acquires the shares of the other co-owners.
+        - For JT when one co-owner remaining after death of other JTs.
+        - When all co-owners together transfer their interests to a third party.
+        - By partition – dividing the property physically to reflect their shares
+      - 2. By order of sale or partition by the court
+        - Any one or more co-owners may apply to the court to hold property on statutory trust for sale or partition: Conveyancing Act s 66G
+        - Sale is the primary remedy under s 66G, and partition is allowed only in special circumstances: Re Cordingley (1948) 48 SR (NSW) 248
+        - Case: Segal v Barel (2013) 84 NSWLR 193
+- Types and Formalities
+  - Delehunt v Carmody (1986) 161 CLR 464
+    - Procedural History:
+      - Appeal from the NSW Court of Appeal to the High Court of Australia. Special leave was granted to appeal a finding that the equitable interest in property was held as tenants in common rather than joint tenants.
+    - Original Dispute:
+      - Whether a man and woman (Mr Carmody and Miss Delehunt), who contributed equally to the purchase of property registered solely in the man’s name, held the beneficial interest as joint tenants (thus triggering survivorship) or tenants in common.
+    - Reason for Trial:
+      - Following Mr Carmody’s death, Miss Delehunt claimed the entire beneficial interest in the property by survivorship. The legal title had passed to Mr Carmody’s estranged wife as administrator of his estate. Miss Delehunt sought a declaration that she had survived Mr Carmody as a joint tenant in equity.
+    - Material Facts:
+      - Mr Carmody and Miss Delehunt were in a de facto relationship from 1949 until his death in 1980.
+      - They both contributed equally to the purchase price of a house in Enmore, NSW.
+      - Title was registered solely in Mr Carmody’s name in 1963.
+      - The parties had an oral agreement to own the property equally, but no discussion was had regarding survivorship or the form of co-ownership.
+      - Mr Carmody died intestate. The legal estate passed to his wife (from whom he had long been separated) as administrator of the estate.
+      - Miss Delehunt claimed the entire beneficial interest by right of survivorship as a joint tenant in equity.
+    - Issue Raised:
+      - Did equity recognise that Mr Carmody and Miss Delehunt were joint tenants or tenants in common of the equitable interest?
+      - Could s 26(1) of the Conveyancing Act 1919 (NSW) displace any common law or equitable presumption of joint tenancy?
+    - Law(s)/Statute(s) in Contention:
+      - Conveyancing Act 1919 (NSW) s 26(1): Creates a statutory presumption of tenancy in common for co-beneficiaries unless an instrument expressly states otherwise.
+      - Trusts principles: Express vs resulting trusts.
+      - Common law/equity presumptions regarding co-ownership.
+    - Precedents:
+      - Calverley v Green (1984) 155 CLR 242 – resulting trust principles.
+      - Malayan Credit v Jack Chia-MPH Ltd (1986) – unequal contributions lead to tenancy in common.
+      - Equity’s traditional dislike of joint tenancies where survivorship may defeat proportional contributions.
+    - Tests:
+      - Whether equity should presume joint tenancy or tenancy in common when parties contribute equally and the title is held solely by one party.
+      - Whether section 26 affects equity’s approach to co-ownership presumptions.
+    - Words and Phrases Considered:
+      - "Disposition"
+      - "Tenants in common"
+      - "Joint tenants"
+      - "Resulting trust"
+    - Arguments by Party:
+      - Miss Delehunt (Appellant):
+        - Equal contributions plus oral agreement implied a joint tenancy. She should receive the entire beneficial interest by survivorship.
+      - Mrs Carmody (Respondent):
+        - Beneficial interest should be held as tenants in common, and s 26 Conveyancing Act abolishes any equitable presumption of joint tenancy in such cases.
+    - Judicial Opinions:
+      - Gibbs CJ (majority, with all Justices agreeing):
+        - Rejected Court of Appeal’s view that lack of express term about survivorship invalidated the express trust.
+        - Found a valid express trust in equal shares, but no expression of intention about joint tenancy vs tenancy in common.
+        - Equity previously presumed joint tenancy in equal contributions, following the law, but only before s 26.
+        - Section 26 now applies to equity: even if legal title is solely in one name, equity aligns with the statutory presumption of tenancy in common.
+    - Legal Reasoning:
+      - Equity follows the law as it stands today — and s 26 now reverses the previous presumption of joint tenancy where parties contribute equally.
+      - Whether via express or resulting trust, the beneficial interest must be deemed a tenancy in common in equal shares.
+      - Although the title was registered only in Mr Carmody’s name, the express oral agreement and equal contributions justified an equitable trust in favour of both parties.
+      - The right of survivorship was excluded, as the nature of the co-ownership was held to be a tenancy in common.
+    - Ratio Decidendi: 
+      - In NSW, section 26 of the Conveyancing Act 1919 overrides the old equitable presumption of joint tenancy based on equal contributions. Therefore, co-owners who contribute equally are presumed to be tenants in common in equity unless expressly stated otherwise, even where only one name appears on the title.
+    - Result:
+      - Appeal dismissed.
+      - Court held that Mr Carmody and Miss Delehunt were equitable tenants in common in equal shares.
+      - No right of survivorship.
+    - Relevance to Modern Law:
+      - Section 26 of the Conveyancing Act 1919 (NSW) fundamentally alters equity’s approach to co-ownership presumptions.
+      - Even express or oral trusts reflecting equal contributions will be interpreted as creating tenancies in common unless there is clear contrary intention.
+      - The case confirms that modern equity aligns with statutory presumptions under s 26.
+      - Critical for any co-ownership dispute involving express, resulting, or constructive trusts.
+- Severance
+  - Wright v Gibbons (1949) 78 CLR 313
+    - Procedural History:
+      - Appeal from the Supreme Court of Tasmania to the High Court of Australia. The Supreme Court held that a mutual transfer between two of three joint tenants was ineffective to sever a joint tenancy. The High Court overturned this decision.
+    - Original Dispute:
+      - Whether mutual transfers of interests between two of three joint tenants, by a single registered instrument, effectively severed the joint tenancy and converted the co-ownership into a tenancy in common under the Real Property Act 1862–1935 (Tas) (Torrens system).
+    - Reason for Trial:
+      - The surviving joint tenant, Bessie Gibbons, claimed survivorship over the whole estate after the deaths of the other two joint tenants. The executors of the deceased tenants claimed the joint tenancy had been severed by cross-transfers prior to death.
+    - Material Facts:
+      - Three joint tenants: Bessie Melba Gibbons (plaintiff), Olinda Gibbons, and Ethel Rose Gibbons.
+      - All three were registered as joint tenants under the Torrens system.
+      - On 6 December 1945, Olinda and Ethel executed a single transfer document, each transferring her one-third share to the other, intending all three to become tenants in common in equal shares.
+      - After Olinda and Ethel died, Bessie claimed the right of survivorship.
+      - The trial judge (Clark J) held that the joint tenancy was not severed; thus, Bessie became sole owner.
+      - The defendants (executors of the deceased) appealed.
+    - Issue Raised: 
+      - Did the cross-transfer of shares between two of the three joint tenants, by a single registered instrument, effect a severance of the joint tenancy under the Real Property Act?
+    - Law(s)/Statute(s) in Contention:
+      - Real Property Act 1862–1935 (Tas) (Torrens system):
+        - s 35(4): Transfer operates as a deed.
+        - s 39(1): Transfer takes effect on registration.
+        - s 42: Registered interest passes as specified in the instrument.
+        - s 87: Two or more persons registered as joint proprietors are deemed to hold as joint tenants.
+    - Precedents:
+      - Williams v Hensman (1861) 70 ER 862 — types of severance.
+      - Eustace v Scawen (1624) — a joint tenant may release interest to another.
+      - Chester v Willan (1670) — transfer between joint tenants may operate as a release.
+    - Tests:
+      - Has one of the four unities (especially title) been destroyed?
+      - Has the joint tenant made an alienation of their share to another?
+      - Was the instrument effective under the Torrens system?
+    - Words and Phrases Considered:
+      - “Severance”
+      - “Joint tenancy”
+      - “Transfer”
+      - “Tenant in common”
+      - “Per my et per tout” – Latin for holding the whole and nothing separately.
+    - Arguments by Party:
+      - Appellants (Executors):
+        - The mutual transfer between Olinda and Ethel, when registered, operated as a severance. Each received a different proprietary interest (tenant in common) than she held before. Severance need not involve all joint tenants.
+      - Respondent (Bessie):
+        - Argued the cross-transfers were ineffective — each joint tenant holds the whole, so transferring “shares” to one another is conceptually meaningless. Only an alienation to a stranger can sever a joint tenancy.
+    - Judicial Opinions:
+      - Latham CJ (majority):
+        - The transfers intended to change the character of the ownership.
+        - Even though they were mutual and simultaneous, the effect was to destroy the unity of title and create tenancies in common.
+        - Equity would enforce this arrangement even if the form were flawed.
+      - Dixon J:
+        - Analysed the historical common law rules, especially around the notion that joint tenants have no distinct share.
+        - Held that under the Torrens system, each joint tenant's interest is a distinct proprietary right capable of alienation.
+        - The Real Property Act modifies common law rules and enables such transfers.
+      - Rich and McTiernan JJ:
+        - Focused on the intention and effect of the transaction, as evidenced by registration.
+        - Reinforced the notion that mutual transfers, even in a single instrument, can sever a joint tenancy.
+    - Legal Reasoning:
+      - Severance can occur through alienation by one joint tenant to another, not just to a third party.
+      - Mutual transfers destroy the unity of title, one of the four unities required for joint tenancy.
+      - The registration of the instrument under the Torrens system gave the transaction legal effect.
+      - Even if form is imperfect, equity would enforce the parties’ clear intent.
+    - Ratio Decidendi: 
+      - A registered cross-transfer of shares between joint tenants (even within a single document) severs the joint tenancy. Under the Torrens system, such transfers are effective to destroy the unity of title, and the parties become tenants in common.
+    - Result:
+      - Appeal allowed.
+      - High Court held that the joint tenancy was severed.
+      - Bessie did not take the whole by survivorship.
+      - All three (Bessie, Olinda, Ethel) held equal shares as tenants in common.
+    - Relevance to Modern Law:
+      - Confirms that severance can occur between some (not all) joint tenants via transfer to one another.
+      - Torrens registration is sufficient to effect severance; the instrument need not be separate.
+      - Affirms the ability of joint tenants to sever unilaterally or bilaterally, even where not all are parties to the transaction.
+      - Widely cited in property law and family law where severance disputes arise.
+- Ending Co-Ownership
+  - Ryan v Dries (2002) 10 BPR 19,497
+    - Court: Supreme Court of New South Wales – Court of Appeal
+    - Parties: Gregory Ryan (Appellant) v Joanne Dries (Respondent)
+    - Procedural History: Appeal from a decision of Master McLaughlin; the master awarded the respondent a 50% interest in a property under a constructive trust. The appellant challenged this, arguing the respondent’s interest should be less.
+    - Facts:
+      - The parties were in a romantic relationship and jointly purchased a property in 1990 as tenants in common – six-sevenths to Ryan and one-seventh to Dries. Dries contributed $30,000 and was joint mortgagor for a $120,000 loan, but Ryan made all mortgage repayments and lived in the property. Dries stayed only on weekends. The respondent later sought a 50% share, claiming a constructive trust.
+    - Legal Issue:
+      - Whether a resulting trust arose based on financial contributions.
+      - Whether the resulting trust was rebutted by common intention.
+      - Whether equitable accounting required adjustment for mortgage payments and occupation.
+      - Whether the Contracts Review Act 1980 (NSW) applied.
+    - Decision:
+      - Appeal allowed. The Court of Appeal reduced Dries’ beneficial interest from 50% to 43%, in line with her contributions (including half the mortgage loan), and granted equitable accounting in favour of Ryan for mortgage repayments, subject to a set-off for his exclusive occupation.
+    - Ratio Decidendi:
+      - Resulting trust arises in proportion to financial contributions unless rebutted by a common intention – not established on the facts.
+      - Mortgage repayments can ground an equitable accounting, and must be offset by a contribution to occupation rent under the maxim “he who seeks equity must do equity.”
+      - Occupation rent applies post-relationship due to exclusive use.
+      - The Contracts Review Act might have applied if a common intention existed, but wasn’t necessary due to equitable resolution.
+    - Significance:
+      - This case affirms the principles governing co-ownership, resulting trusts, and equitable accounting in NSW. It also clarifies that mortgage repayments by one party may be compensable, but offset by exclusive occupation. It further illustrates the Court’s preference to calculate entitlements based on total acquisition costs, not just the purchase price.
+- Rights inter se
+  - Callow v Rupchev [2009] NSWCA 148 4 
+    - Court: NSW Court of Appeal
+    - Legal Issue:
+      - How the proceeds of sale should be distributed between co-owners following a domestic relationship breakdown.
+      - Whether an occupation rent is payable by the occupying co-owner.
+      - Whether the occupying co-owner is entitled to compensation for improvements and contributions to mortgage and acquisition costs.
+    - Facts:
+      - Ms Callow and Mr Rupchev were in a de facto relationship; purchased a property in joint names with a mortgage.
+      - Relationship ended; Ms Callow moved out, alleging domestic violence.
+      - Mr Rupchev remained in occupation and later rented the property.
+      - Property was sold in 2006; dispute arose over entitlement to proceeds and whether an occupation rent should be set off against Mr Rupchev’s claim for contributions.
+      - Ms Callow argued that she was constructively ousted due to family violence and sought to offset an occupation rent against her contribution.
+      - Mr Rupchev claimed contributions for mortgage repayments, acquisition costs, and improvements, and argued Ms Callow left voluntarily.
+    - Key Findings:
+      - Contribution:
+        - Mr Rupchev entitled to contribution for mortgage payments and acquisition costs despite some payments being made by his company.
+        - Ms Callow was liable to contribute, given the evidence showed intention to share financial responsibility.
+      - Occupation Rent (Set-off):
+        - Constructive ouster principle applies: even without formal or forceful exclusion, a domestic relationship breakdown may render continued co-occupation unreasonable.
+        - Occupation rent may be payable where a co-owner leaves the property due to practical impossibility or breakdown of the relationship (cf Re Pavlou, Dennix v McDonald).
+        - However, such rent is only payable for periods when the other co-owner is actually in occupation and deriving a benefit.
+    - Limitations on Occupation Rent:
+      - Ms Callow did not establish that it was unreasonable to return during periods when Mr Rupchev was absent and the house was unoccupied.
+      - Accordingly, occupation rent only payable during periods of actual occupation by Mr Rupchev.
+      - Only 50% of the occupation rent was allowable as set-off.
+      - Rental income also shared equally.
+    - Result:
+      - Ms Callow successfully claimed set-off for occupation rent and shared rental income.
+      - But she was still liable to contribute to mortgage repayments and purchase costs.
+      - Proceeds of sale ultimately split 50/50, with appropriate adjustments.
+    - Ratio Decidendi / Legal Principles:
+      - 1. Constructive Ouster Doctrine:
+        - If co-ownership arises from a domestic relationship, and the relationship breakdown makes joint occupation unreasonable, the departing party may be treated as constructively ousted.
+      - 2. No Occupation Rent if Voluntary Departure:
+        - A co-owner who chooses to leave and could return is not entitled to occupation rent.
+      - 3. Occupation Rent Calculated by Actual Occupation:
+        - Only payable for the period where the occupying party is in residence and benefiting from the property.
+      - 4. Set-Off Against Contribution Claim:
+        - An equitable set-off of occupation rent and rental income can reduce the amount owed in contribution for mortgage or acquisition costs.
+      - 5. No Automatic Occupation Rent:
+        - Must be justified based on exclusion, benefit, and reasonableness of continued occupation.
+    - Significance:
+      - Callow v Rupchev is a key NSW authority refining the equitable accounting principles for co-owners in broken domestic relationships. It modifies the traditional 'ouster rule' by applying a more flexible standard based on domestic practicality and fairness, especially relevant in post-relationship property disputes.
+  - Biviano v Natoli (1998) 43 NSWLR 695
+    - Court: NSW Court of Appeal
+    - Facts:
+      - Biviano and Natoli were in a de facto relationship from 1978–1992.
+      - They purchased a property in 1979; registered solely in Biviano’s name but held on express trust for both in equal shares.
+      - In 1994, Biviano obtained an Apprehended Violence Order (AVO) excluding Natoli from residing at or entering the property.
+      - After the AVO expired, Natoli did not return.
+      - Natoli sought sale under s 66G of the Conveyancing Act 1919 (NSW) and claimed occupation fee for exclusion.
+      - Biviano denied Natoli’s interest in the property and claimed sole ownership.
+    - Legal Issues:
+      - Did the AVO exclusion amount to an ouster entitling Natoli to an occupation fee?
+      - Was Biviano liable to pay mesne profits or occupation rent?
+      - How should occupation fee be quantified?
+    - Held (NSWCA):
+      - Appeal allowed in part.
+      - 1. AVO exclusion alone ≠ ouster.
+        - Natoli's exclusion was lawful under statute (AVO), not a wrongful act by Biviano.
+        - Therefore, no ouster occurred merely due to the AVO.
+      - 2. Ouster occurred when Biviano denied Natoli’s co-ownership.	
+        - Ouster arose from the filing of the defence (August 1995) in which Biviano denied Natoli’s title.
+        - From this point, occupation rent could be claimed.
+      - 3. Occupation rent ≠ rent; it is mesne profits.
+        - Based on market value but not automatically full rent (property not fully available for lease).
+        - Co-tenant has right to occupy the whole, but market reality dictates occupation fee should reflect shared occupation.
+      - 4. Quantum of Occupation Fee:
+        - Natoli awarded 50% of rental value from date of ouster (2 Aug 1995) to date of sale.
+        - Calculated as ½ of $250/week (pre-Jan 1996) and ½ of $270/week (post-Jan 1996).
+        - No deduction for outgoings in this case.
+      - 5. Costs:
+        - Biviano to pay 75% of Natoli’s costs on appeal due to partial success.
+    - Ratio Decidendi / Key Legal Principles:
+      - 1. Ouster in co-ownership requires a wrongful exclusion from the property, such as:
+        - Denial of co-ownership rights,
+        - Refusal to acknowledge title, or
+        - Preventing access.
+      - 2. Lawful exclusion (e.g., via AVO) is not an ouster and does not entitle the excluded party to mesne profits.
+      - 3. Denial of title (e.g., in pleadings or proceedings) may constitute constructive ouster.
+      - 4. Mesne profits = equitable occupation rent recoverable from the date of ouster, usually assessed as market rent share, but not full market rent unless exclusive occupation can be shown.
+      - 5. s 66G of the Conveyancing Act 1919 (NSW):
+        - Used to force sale of co-owned property when co-owners cannot agree.
+    - Significance:
+      - Clarifies that constructive ouster can arise where a co-owner denies the title of another in legal proceedings, even if there is no physical exclusion.
+      - Reaffirms that AVOs do not automatically create ouster for the purpose of occupation rent.
+      - Refines the approach to calculating occupation rent/mesne profits in equity-based co-ownership disputes.
+      - Commonly cited in property law discussions around co-ownership and remedies under s 66G Conveyancing Act.
+## Week 7: Strata
+
+- What is Strata Title?
+  - Key Legislation
+    - Strata Schemes Development Act 2015 (NSW) (‘SSDA’)
+    - Strata Schemes Management Act 2015 (NSW) (‘SSMA’)
+  - Defining Strata
+    - Per Barrett JA in Segal v Barel [2013] NSWCA 92
+      - When a strata plan is registered under the Strata Act in respect of particular land, there occurs...a division of that land into "lots" and "common property". Separate certificates of title under the Real Property Act issued for each lot and the common property. 
+      - Each lot has a "unit entitlement" specified in the strata plan. The lots are, in effect, cubes of airspace defined by a combination of lines and other markings on the registered strata plan and physical features of the buildings such as the surfaces of floors, walls and ceilings. 
+      - The common property is so much of the original land (including buildings) as is not included in the lots. In a residential setting, lots usually comprise living quarters and car parking spaces, while the common property is typically outdoor areas (lawns, gardens, paths, driveways and the like) together with the fabric of the buildings excluding the inner surfaces of floors, walls and ceilings.
+  - Key Concepts
+    - Lot: One or more cubic spaces bounded by the inner surface of the wall, or the upper surface of any floor and the lower surface of any ceiling of a unit in the scheme. (defined in s 4 of SSDA)
+    - Common Property: any part of a parcel that is not comprised in a lot (definition in s 4 of SSDA)
+  - Subdividing for Strata
+    - SSDA section 9: Subdivision of land by strata plan:
+      - (1) The following land may be subdivided into lots, or lots and common property, by the registration of a plan as a strata plan:
+        - (a) land including the whole of a building and consisting of one current plan lot or 2 or more contiguous current plan lots,
+        - (b) land including part only of a building and consisting of one current plan lot or 2 or more current plan lots (whether contiguous or not).
+  - General Requirements
+    - SSDA section 10: General Requirements for strata plan:
+      - (1) A plan intended to be registered as a strata plan must:
+        - (a) include a location plan, a floor plan and an administration sheet, and
+        - (b) specify or be accompanied by proposed by-laws
+        - …
+      - (3) The administration sheet for the proposed strata scheme must include the following:	
+        - (a) a proposed schedule of unit entitlement relating to the scheme (i.e. what share will each lot have)
+  - Creation
+    - SSDA Section 24
+      - (1) This section applies if common property in a strata scheme is created by registration of a strata plan
+      - (2) On registration of the plan or notice, the common property:
+        - (a) vests in the owners corporation of the strata scheme
+      - (3) The Registrar-General must, on registration of a strata plan, create a folio for the estate or interest of the owners corporation in the common property.
+- The Owners Corporation
+  - The Body Corporate
+    - Per SSMA section 8(1):
+      - The owners of the lots from time to time in a strata scheme constitute a body corporate under the name "The Owners--Strata Plan No X" (X being the registered number of the strata plan to which that strata scheme relates)
+    - The Owners Corporation will appoint a strata committee at the outset. Decisions of the committee are treated as decisions of the Owners Corporation (SSMA s 29)
+  - Responsibilities
+    - SSMA section 9: Owners corporation responsible for management of strata scheme:
+      - (1) The owners corporation for a strata scheme has the principal responsibility for the management of the scheme.
+      - (2) The owners corporation has, for the benefit of the owners of lots in the strata scheme:
+        - (a) the management and control of the use of the common property of the strata scheme, and
+        - (b) the administration of the strata scheme.
+      - (3) The owners corporation has responsibility for the following:
+        - Five Key Management Areas
+          - 1) Financial Management (Pt 5 SSMA)
+          - 2) Property Management (Pt 6 SSMA)
+          - 3) Insurance (Pt 9 SSMA)
+          - 4) Records and Accounts (Pt 10 SSMA)
+          - 5) Building Defects (Pt 11 SSMA)
+  - Financial Management (Pt 5 SSMA)
+    - Administrative Fund: expenses of a recurrent nature (per s 73)
+      - Used to meet expenditure to maintain common property in good condition.
+    - Capital Works Fund (formerly the ‘Sinking Fund’)(per s 74); requires a 10 year plan (s 80(1))
+      - Major repairs (e.g. repairing the common property);
+      - To distribute surplus (paid to members in proportionate shares);
+      - To cover any major building repairs under Pt 11 (i.e. Building defects).
+  - Capital Works Fund Power to distribute surplus
+    - (1) SSMA section 77:
+      - (1) An owners corporation for a strata scheme may, in accordance with a unanimous resolution, distribute between the owners any money in its administrative fund or capital works fund that is not, in the opinion of the owners corporation, required for the purposes of either fund
+      - (2) A distribution to an owner of a lot or other person entitled to receive it under this section must be made in the same proportion that the unit entitlement of the lot bears to the aggregate unit entitlement.
+  - Property Management (Pt 6 SSMA)
+    - SSMA section 106:
+      - (1) An owners corporation for a strata scheme must properly maintain and keep in a state of good and serviceable repair the common property and any personal property vested in the owners corporation.
+      - (2) An owners corporation must renew or replace any fixtures or fittings comprised in the common property and any personal property vested in the owners corporation
+    - SSMA s 106(3):
+      - The Owners Corporation will not be required to repair if it makes a special resolution that:
+        - a) It is inappropriate to maintain/repair the particular item; and
+        - b) Its decision will not affect the safety, or detract from the appearance, of any property in the strata scheme.
+      - Repair: replacement and renewal
+        - The Proprietors – Strata Plan No 6522 v Furney [1976] 1 NSWLR 412
+          - What does it mean to ‘repair’?
+        - The Proprietors – Strata Plan No 30234 v Margiz (1993) 32 NSWLR 294.
+          - Repair vs Renew?
+        - The Owners – Strata Plan 21702 v Krimbogiannis [2014] NSWCA 411:
+          - Can the Owners Corporation enter the lot owner’s property?
+    - Strata Plan No 6522 v Furney [1976] 1 NSWLR 412
+      - Note: this case concerned the former Strata Titles Act 1973 (NSW) s 54. This is now Strata Schemes Management Act 2015 (NSW) s 106.
+      - Facts: 
+        - The Owners Corporation sought a declaration from the court that they were entitled to spend money rectifying defects in the building. The property was located on a marina, and a number of the lots had been damaged by water penetrating the foundations. The roof also had problems as it had not been constructed correctly.
+        - The Owners Corporation indicated they were going to carry out the repairs and the Furneys objected
+      - Held: Needham J at 416:
+        - I have no doubt that the addition of such necessary building articles to the buildings constitutes the keeping of the buildings in a state of good and serviceable repair. In so far as the addition has to be made to common property, it therefore comes within the powers of the body corporate...Lord Patrick said: “It is true that the primary meaning of the word ‘repair’ is to  restore to sound condition that which has previously been sound, but the word is also properly used in the sense of to make good. Moreover, the word is commonly used to describe the operation of making an article good or sound, irrespective of whether the article has been goodor sound before.”
+    - Strata Plan No 30234 v Margiz (1993) 32 NSWLR 294
+      - Facts: 
+        - One of the owners (Margiz) contended that the Owners Corporation was required to replace an existing air-conditioning system (within a commercial strata scheme). The original had been installed in 1962, and while repairs had been carried out , it was unable to provide ”an adequate supply of comfortable and cool air” to Margiz’s lot.
+      - Issue: 
+        - Did installing a new air-conditioning system fall within the responsibility under s 106 to keep the property in a “state of good and serviceable repair”? In particular, was it a “repair”?
+      - Held: McClelland CJ:
+        - Although the duty arising under s (106) to keep the common property in a state of good and serviceable repair extends to making elements of the common property good and sound irrespective of whether they were good and sound at some earlier time (cf Furney), that duty does not in my opinion extend to replacement of a discrete system forming part of the common property (such as an air-conditioning system) by a new or different system.
+    - Strata Plan 21702 v Krimbogiannis [2014] NSWCA 411
+      - Facts: 
+        - A former occupier of one of the lots had removed a large glass panel forming part of the external wall of the building (part of the common property). The Owners Corporation wrote to the current occupier of that lot, requiring access to restore the property to its original condition. That access was refused.
+      - Issue: 
+        - did the responsibility to ‘maintain and keep in a state of good and serviceable repair’ under s 106 provide the Owners Corporation with a right to access the property?
+      - Held: Basten JA (with Macfarlan and Meagher JJA agreeing): [15]
+        - Section (106) imposes an obligation to "maintain" the common property. Read in its statutory context, having regard to the nature of the common property vested in the owners' corporation, and the functions of the owners' corporation with respect to that property, the obligation carries with it the powers necessary for its performance: Interpretation Act 1987 (NSW), s 50(1)(e).” 
+        - Note: under SSMA s 122 the Owners Corporation has the power to enter any part of the parcel to carry out certain work.
+  - 3) Insurance (Pt 9 SSMA)
+    - Must insure the building under a damage policy from an approved insurer (s 160)
+    - Must cover insurance to replace the building (in the event of destruction); to repair damage/restore any damaged portion; and to pay those to repair/place (s 161)
+    - Also requires workers’ compensation and personal injury insurance (s 164)
+  - 4) Records and Accounts (Pt 10 SSMA)
+    - Must keep a strata roll (s 177):
+      - In relation to the lots: this includes the names of the owners of each lot and their addresses;
+      - In relation to the common property: the total unit entitlement of each lot, insurance details, by-laws.
+    - Must also keep records of notices served upon the Owners Corporation, minutes or meetings and motions, and financial statements relating to the expenditure from the administrative and capital works funds.
+  - 5) Building Defects (Pt 11 SSMA)
+    - Building Defects Bond Scheme
+    - Concerned with defects that might arise in relation to the property following its construction.
+    - Building developers must enter into bond (2% of contract price) to cover any defects discovered within 24 months of construction
+- By-laws
+  - Overview
+    - By-Law – originating from the Danish word ‘byr’.
+    - S 136 SSMA: By-Laws may be made “in relation to the management, administration, control, use or enjoyment of the lots or the common property and the lots of a strata scheme.
+    - Generous approach to interpretation of power: Casuarina Rec Club Pty Ltd v The Owners– Strata Plan 77971 (2011) 80 NSWLR 711.
+  - Scope
+    - SSMA s 136 Matters by-laws can provide for:
+      - (1) By-laws may be made in relation to the management, administration, control, use or enjoyment of the lots or the common property and lots of a strata scheme.
+      - (2) A by-law has no force or effect to the extent that it is inconsistent with this or any other Act or law
+  - Casuarina Rec Club Pty Ltd v The Owners– Strata Plan 77971
+    - Note: this case concerned s 43 of the former Act. This is now s 136 of the Strata Schemes Management Act 2015 (NSW).
+    - Facts: 
+      - The owners corporation of a holiday resort strata scheme entered into an agreement with the operator of a recreation centre, giving owners, invitees and guests of the owners of lots in the strata scheme rights to use the centre’s facilities
+    - Relevant By-Laws
+      - 22.1 The Owners Corporation has the power and function to enter into the Facilities Agreement to provide access to the Facilities for Residents.
+      - 27.1 Without limitation to its other powers, the Owners Corporation has the function to and the power and authority to appoint and to enter into other agreements to provide for Services to the Common Property or Residents as necessary including but not limited to
+      - …
+        - (4) an agreement and authorisation to enter into an agreement relating to the use of Residents of facilities (such as gymnasium facilities)
+    - Held: MacFarlan, Young JJA, Handley AJA at 713:
+      - For a by-law made under [s 136], to be valid there must clearly be a nexus between the subject matter of the by-law and the use or occupation of the subject property. I do not consider that it is possible to formulate more precise rules that will determine whether that nexus exists in any particular case. The most that can be said is that, so far as by-laws relating to amenities are concerned, the amenities must be capable of enhancing the occupiers’ use or enjoyment of the premises. As Young JA points out, requiring the amenity to be enjoyed on the premises wouldbe arbitrary and unjustified. The question to be determined is one of fact and degree. There may no doubt come a point where an amenity is so remote from the subject premises that its use could clearly not be said to relate to the occupiers’ use or enjoyment of the premises.
+    - Held: Young J at 722:
+      - The vital question is whether the by-law was within the powers of the owners corporation, and a proper exercise of its functions under the Act. Whilst the focus of the owners corporation’s functions is the site itself, it has not been demonstrated to me that the making of by-laws is restricted to the site. Examples can be given to show the awkwardness of limiting the power to what happens on the site (or on adjacent land). Why should it be fine to have a tennis court on the site to which owners and their licensees could have free access and in respect of which by- laws could be made, but there be no power to allow such people the right to use tennis courts down the street? What does it really matter to anyone where facilities are situated so long as there is easy access? Why should not a group of people consider that one gymnasium to which four resorts can have access is a more economic solution than having four gymnasia in the actual resorts?
+  - Limitations on By-laws
+    - SSMA s 136
+      - (2) A by-law has no force or effect to the extent that it is inconsistent with this or any other Act or law.
+    - SSMA s 137
+      - (1) A by-law may limit the number of adults who may reside in a lot by reference to the number of bedrooms of the residence.
+      - (2) The limit may not be fewer than 2 adults per bedroom
+    - SSMA 137B Keeping of animals
+      - (1) Each of the following has no force or effect to the extent that it would unreasonably prohibit the keeping of an animal on a lot—
+        - (a) a by-law,
+        - (b) a decision by an owners corporation under a by-law.
+      - (2) It is taken to be reasonable to keep an animal on a lot unless the keeping of the animal unreasonably interferes with another occupant’s use and enjoyment of the occupant’s lot or the common property.
+      - (3) The regulations may specify circumstances in which the keeping of an animal unreasonably interferes with another occupant’s use and enjoyment of the occupant’s lot or the common property.
+      - (4) A by-law that prohibits the keeping of an animal on a lot is not harsh, unconscionable or oppressive if it does not unreasonably prohibit the keeping of an animal on a lot.
+    - SSMA s 139
+      - (1) By-law cannot be unjust. A by-law must not be harsh, unconscionable or oppressive.
+      - (2) By-law cannot prevent dealing relating to lot. No by-law is capable of operating to prohibit or restrict the devolution of a lot or a transfer, lease, mortgage or other dealing relating to a lot.
+      - ...
+      - (4) By-law cannot restrict children. A by-law for a residential strata scheme has no force or effect to the extent to which it purports to prohibit or restrict persons under 18 years of age occupying a lot. This subsection does not apply to a by-law for a strata scheme for a retirement village or housing exclusively for aged persons.
+    - SSMA s 139A
+      - NOTE: sub-s 139(5)-(6) amended to this new form in 2023]
+      - (1) A by-law has no force or effect to the extent it would –
+        - (a) prohibit or restrict the keeping on a lot of an assistance animal used by an owner or occupier of the lot, or
+        - (b) restrict, or impose an unreasonable burden on a person in relation to, the use of an assistance animal on a lot or common property.
+      - (2) A by-law may require a person who keeps an assistance animal on a lot to show the animal is an assistance animal by providing one of the following to the owners corporation
+        - (a) evidence the animal holds an accreditation referred to in the Disability Discrimination Act 1992 of the Commonwealth, section 9(2)(a) or (b),
+        - (b) a statutory declaration verifying the animal has received the training referred to in the Disability Discrimination Act 1992 of the Commonwealth, section 9(2)(c),
+      - (c) other evidence prescribed by the regulations
+  - Salerno v Proprietors 42724 (1997) 8 BPR 15,457
+    - Facts: 
+      - The proprietors of a strata plan over commercial land passed the following additional by-law: 
+        - (i) The proprietor or occupier of the lot must not smoke nor allow smoking within a lot or within the common property.
+        - (ii) (ii) Without limiting para (I), the proprietor or occupier of a lot must not allow any invitee to his lot to smoke within the lot or upon the common property.
+      - The Salernos purchased their lot as an investment and intended to lease to an RSL Club.
+    - Issue: 
+      - The Salernos contended that the by-law contravened the (then) Strata Titles Act 1973 (NSW), s 58(6)
+      - Note: this is now SSMA s 139(2):
+        - No by-law is capable of operating to prohibit or restrict the devolution of a lot or a transfer, lease, mortgage or other dealing relating to a lot.
+    - Held: Windeyer J:
+      - In my view the by-law in question here does not restrict the right to lease, albeit that it may limit the class of persons who might desire to take a lease of the premises in question. It is quite possible that a by-law which had the effect of prohibiting the lease of a lot to persons who were smokers would be invalidated by [s 139(2)] because that would not control the conduct of such persons within the lot but would prevent the leasing of that lot to such persons whether or not they smoked within the lot. That is not the effect of the by-law in question here
+  - Enforcement
+    - If there is a breach, the Owners Corporation can issue a notice requiring the owner to comply (s 146)
+      - Must contain a copy of the specified by-law (s 146(2));
+      - Notice must not be given unless a resolution approving the issue of the notice has been passed by the owners corporation at a general meeting or by the strata committee (s 146(3))
+    - If the owner doesn’t comply, the Owners Corporation can apply to NCAT (NSW Civil and Administrative Tribunal).
+      - The Owner can receive a penalty of 10 penalty units ($1,100); or 20 if they breach again ($2,200)
+      - If the by-law in relation to occupancy limits is breached (s 137), then the owner can be subject to 50 penalty units ($5,500) or 100 penalty units ($11,000). 
+  - Termination
+    - SSDA s 135 - By Application to Court
+      - (1) Any of the following persons may apply to the court for a termination order for a strata scheme:
+        - (a) an owner of a lot in the scheme,
+        - …
+        - (d) the owners corporation.
+      - (2) notice of the application must be served upon each person referred to in subsection 1.
+    - Section 142 Application to Registrar-General for termination of strata scheme
+      - (1) A person may apply to the Registrar-General for termination of a strata scheme
+      - (2) The applicant must, at least 14 days before the application is made, publish details of the proposed ermination, and a statement of intention to make the application
+        - (a) in a daily newspaper circulating generally in the State, and
+        - (b) in a local newspaper circulating generally in the area in which the parcel is situated.
+      - (3) Unless the Registrar-General otherwise agrees, the application must be signed by all of the following:
+        - (a) each owner of a lot in the scheme,
+        - …
+      - (5) The application must be accompanied by:
+        - (a) the certificates of title for all the lots and common property in the scheme
+    - By Strata Renewal Process:
+      - Where 75% of owners (‘the required level of support’) agree to sell then the strata scheme may be terminated (s 154);
+      - Must be approved by the strata committee and owners corporation in a general meeting (s 158); 
+      - As well as by a ‘strata renewal committee’ (s 160);
+      - Registrar-General then records a ‘strata renewal plan’ (s 176(3)). 
+      - All owners are compensated equally for the value of their lot, even those who did not agree to the sale (s 171(2)).
+## Week 8: Leases
+
+- Leases vs Licences
+  - Different Regimes
+    - General law of leasing – common law + equity + Conveyancing Act (+ registration RPA)
+    - Retail – Retail Leases Act
+    - Residential – Residential Tenancies Act
+    - Leases of Crown land – Crown Lands Act
+    - We will be focusing mainly on the first of these. General law both underpins the other regimes, and is applicable to commercial non-retail leasing.
+  - A Lease or a Licence?
+    - Functionally similar
+    - Can both allow access to, use of land for various purposes
+    - Key differences: exclusive possession and available remedies
+  - Bare Licence
+    - A privilege granted by one to another to do something which would otherwise be unlawful
+    - purely personal interests and create no interest in land (bare licence/contractual licence)
+    - cannot be assigned or bind third parties
+    - right revoked at any time
+  - Contractual Licence
+    - Requires consideration
+    - Cannot be assigned or bind third parties
+    - Revocable on terms of the contract or reasonable notice
+    - Examples:
+      - Hiring a hotel room.
+      - Going to the pictures
+      - Parking spaces near your leased offices
+      - Where it is necessary for the performance of a contract a licence can be implied (eg a builder doing work)
+  - Licence coupled with a proprietary interest
+    - Eg. Profit a prendre with an implied right of access.
+    - A profit a prendre is a proprietary right that gives you the right to take something from land. So perhaps a profit a prendre to take fish from a river and an implied licence to cross the river owner’s land to get to the river.
+    - Irrevocable during the subsistence of the proprietary interest
+    - Capable of assignment
+- Types of Leases
+  - Types of Leases
+    - Fixed term lease
+    - Periodic tenancy (express/implied)
+    - Tenancy at will
+    - Tenancy at sufferance
+  - Fixed Term
+    - For a specific period. Eg 6 months, 5 years, 99 years, 999 years
+    - Can have an option to renew
+    - What is the difference between a 999 year lease with an option to renew and an estate in fee simple?
+  - Periodic Tenancy
+    - Rolls over from period to period
+    - Determined by reference to the rental period
+    - The notice period equals the period with reference to which rent is paid
+    - Can be both express and implied
+    - How does this fit with the need to have certainty of period?
+  - Tenancy at will
+    - Arises whenever a person occupies land as tenant (and not merely as servant or agent) with the consent of the owner on the terms that either party may determine the tenancy at any time
+      - Eg where you enter into possession but have not yet commenced the lease
+      - Occupation fee not rent
+  - Tenancy at sufferance
+    - where you hold over after the lease has ended, without the consent of the landlord
+      - Can be asked to leave at any time
+      - Not a trespasser
+      - Occupation fee not rent
+  - Contract and demise
+    - If L and T enter into a lease or agreement for lease, there are two consequences:
+      - Contract: A lease or agreement for lease operates as a contract
+      - Property: A leasehold estate (or ‘demise’) is created.
+    - The lease is both a contract and a proprietary interest (an estate).
+- The Essentials of a Lease
+  - Essential Characteristics of a Lease
+    - (1) right of exclusive possession of the premises; and
+    - (2) The term must be for a definite period in the sense that it must have a certain time for commencement and a certain time for ending; and
+    - (3) The lease must be created in the appropriate form.
+  - The Premises
+    - It is not uncommon to lease part of a building (think an office block in the CBD)
+    - The ‘premises’ have to be identified
+    - One way is by including a plan of the building which identified individual offices
+  - Exclusive Possession
+    - The key to a lease is whether or not the grant confers exclusive possession
+    - Exclusive possession is a question of fact
+    - If there is not exclusive possession what, if any, interest has been created?
+    - Key cases: Radaich v Smith; Swan v Uecker and for another example Lewis v Bell
+  - Radaich v Smith
+    - Facts
+      - Agreement referred to ‘licence’ and ‘licensors’
+      - 5-year term
+      - ‘the sole and exclusive license and privilege to supply refreshments to the public admitted to premises situated at . . . Mosman and to carry on the business of a milk bar therein (hereinafter called the building) in such rooms as are shown in sketch contained in Schedule one annexed hereto’ should not serve meals consisting of, or containing, cooked poultry, fish, oysters or prawns’
+      - ‘keep open the premises at all times allowed by law’
+      - ‘use of the gas, electricity and water service on the premises for the purpose of conducting her business’
+      - Required to give up possession at the end of the term Radaich v Smith
+    - Per McTiernan:
+      - The true test of a supposed lease is whether exclusive possession is conferred upon the putative lessee
+    - Per Windeyer J:
+      - ...depends upon intention, only in the sense that it depends upon the nature of the right which the parties intend the persons entering upon the land shall have in relation to the land...the proper touchstone still is: did it give the so-called licensee a legal right to the exclusive possession of the premises during the term?
+  - Swan v Uecker
+    - the agreement between the parties at issue (the AirBNB agreement) specified that the parties agreed that the agreement was only to be a licence (this was clearly an attempt to not breach the no sub-letting clause of the original lease).
+    - Key facts: AirBnB guests used the premised in part or in whole (the latter was the subject of the case); minimum stay 3 days, maximum 5;
+    - House rules asked the occupiers to take care of possessions and stated that the tenant would ‘allow you to have it all to yourself’
+    - AirBnB agreement stated that the ‘confirmed reservation is merely a licence ... to enter and use the listing for the limited duration...’
+    - The AirBnB agreement provided that if the guest stays past the agreed checkout time ‘the Host is entitled to make the Guest leave’
+    - Defendants argued that the situation was akin to a hotel guest.
+    - Applicant pointed out the analogies did not help. There is a vast range of residential accommodation which could be either (the judge agreed)
+    - The Vic SC noted that the question remained one of whether exclusive possession was granted, looking objectively at the document and at surrounding circumstances including the nature of the premises [31].
+    - It was not the length of the stay, but the quality of the occupancy that mattered. Nor is it relevant that it is booked and paid online. Nor was there anything in the agreement to suggest the tenants could access the apartment during the guests’ stay.
+  - Definite Period
+    - The lease must be for a definite period.
+    - Both the date of commencement and the date of conclusion must at least be capable of being rendered certain
+    - If not the grant is void at common law
+    - In commercial leases often called the ‘commencement date’ and the ‘termination date’ or ‘expiry date’
+  - Formalities
+    - 3 years or more – must be registered – execute a lease in the approved form –s 53
+    - Leases of less than 3 years can be registered
+    - Benefit of indefeasibility – s 42
+  - Torrens Unregistered: Legal
+    - Conveyancing Act s 23D(2)
+      - Oral / deed /writing
+      - Best rent
+      - Without taking a fine
+      - Taking effect in possession
+      - Period less than 3 years
+    - Implied periodic tenancy
+  - Torrens Unregistered: Equitable
+    - Complies with s 23C(1)
+    - Or
+    - Walsh v Lonsdale
+      - Contract is final/enforceable (consideration) AND
+      - In writing (s 54A) OR part performance (s 23E) AND
+      - Equity would grant specific performance (discretionary)
+- Lessor and Lessee Rights and Obligations
+  - Covenants – rights and obligations in a lease
+    - express clauses in the lease;
+    - implied by common law (ie inherent in the landlord/tenant relationship)
+    - implied by statute
+    - Where there is an express covenant in a lease this will preclude the operation of an implied covenant relating to the same subject-matter
+  - Express clauses: expect to find.....
+    - (1) The identification of the lessor and lessee;
+    - (2) The identification of the premises to be leased;
+    - (3) The commencement and duration of the term; and
+    - (4) The rent or other consideration to be paid;
+    - (5) Repair
+  - Repair
+    - Tenant:
+      - Prospective covenant: tenant is immediately in breach
+      - Repair not renew or improve
+      - No duty to repair an inherent defect
+    - Landlord
+      - Requires notice – no notice, no liability
+  - A commercial lease might include....
+    - Incentives (eg free rent periods etc)
+    - Rent? – gross or ‘eg inclusive of outgoings’?
+    - Options to renew and when this clause must be exercised
+    - Access
+    - Aircon
+    - Landlords works and tenants fit out
+    - Fittings (does the fit-out remain or go) – cf tenants' fixtures
+    - Security
+    - Refurbishment date
+  - Landlord’s covenants at common law
+    - 1. Quiet Enjoyment
+    - 2. Non-derogation from grant
+    - Note that these will often also be express clauses in a lease
+  - Quiet Enjoyment
+    - Quiet enjoyment is the right to enjoy the lease without interference or disturbance from the lessor
+    - Effectively this covenant protects the lessee’s exclusive possession
+      - Does not require physical interference
+      - Requires substantial interference but is not an absolute covenant
+      - Prospective covenant
+    - Examples:
+      - Martin’s Camera Corner
+      - Southwark County Council
+  - Landlord’s covenants and third parties
+    - The implied covenants are landlord’s covenants?
+    - Is the landlord responsible for actions of third parties? Eg other tenants?
+    - This could also often by actionable against the third party as nuisance
+      - Authorised or consented: Norden
+      - Activity is forseeable: Aussie Traveller
+  - Non-derogation from the grant
+    - Landlord is under an obligation not to derogate from her grant
+    - Where the landlord does something which renders the premises materially less fit for the purposes for which they were let
+    - Not an absolute obligation
+    - Most often arises where the landlord retains part of the premises
+    - It is difficult to draw the boundary between this covenant and the covenant of quiet enjoyment
+    - Examples: Norden; Aussie Traveller
+  - Tenant’s obligations at common law
+    - To use the premises in a tenant-like manner (common law and CA) – less than repair
+    - Obligation to yield up possession at the end of the lease
+    - Obligation not to commit waste
+  - Statute – s 84/85 CA
+    - lessee covenants to repair – some limits on express liability – eg accidents; not immediately in breach
+    - Pay rent reserved by lease at the time specified
+    - Covenant to allow landlord to inspect and repair
+    - notice to repair
+    - covenant to enter for non-payment of rent
+    - re-enter for breach of non-rental covenants
+## Week 9: Leases II
+
+- Assignment of Leasehold Interests
+  - Assignment
+    - Transfer of the whole of the interest
+    - Assignee replaces the tenant (they put themselves in the shoes of the original tenant)
+    - If landlord assigns it is the reversion being transferred
+  - Sublease
+    - Creates an additional leasehold estate
+    - Tenant remains a tenant, but also becomes a sub-lessor (ie a sub-landlord)
+    - Carves a lesser estate out of her tenancy
+    - Must be for a shorter period than the headlease
+  - Assignment of the Leasehold Estate: Example 1
+    - Rachel is the landlord. She has entered into a lease with Toby. Toby is the tenant. 
+    - One of the express clauses in the lease is that Toby is under an obligation to pay rent. Toby fails to pay rent for three months. He assigns the leasehold interest to Beth. 
+      - Is Beth liable for the unpaid rent?
+    - Rachel assigns the reversion to Bob. Toby fails to pay rent. 
+      - Can Bob enforce the covenant to pay rent against Toby?
+  - Assignment of the Reversion: Example 2
+    - Rachel is the landlord. She has entered into a lease with Toby. Toby is the tenant. 
+    - Rachel assigns the reversion to Bob. Rachel has covenanted to undertake certain improvements. At the time of the assignment of the reversion to Bob she has still not undertaken them. Can Toby enforce the covenant against Bob? 
+    - One of the express clauses in the lease is that Rachel agrees to undertake certain improvements on the property. These are listed in the lease. 
+    - Toby assigns the leasehold interest to Beth. Rachel has still not undertaken the improvements. Can Beth require Rachel to make the improvements?
+  - Covenant against Assigning
+    - Absolute – strictly construed
+    - Qualified (requires landlord consent)
+    - The consequence of breaching these covenants is not that the lease/assignment is void – rather, it remains valid unless and until the landlord makes an election to end the lease. Accepting rent can constitute consent.
+  - Qualified Covenants
+    - If there is a qualified clause, consent cannot be unreasonably withheld – see CA ss 133B(1) and s 132.
+    - Test: JA McBeath Nominees.
+    - Adverse effect on property interest – adverse affect on future letting? And whether a reasonable person in the landlord’s position would anticipate an adverse impact from the transaction on her property interest
+  - So when can covenants be enforced against third parties?
+    - Where there is privity of contract between the parties the covenant is enforceable as a matter of contract law. And see CA s 70A(1).
+    - Where there is privity of estate between the parties the covenant is enforceable where the covenant ‘touches and concerns’ the land.
+  - Privity of Contract	
+    - Lease is a contract and an estate
+    - Covenants are enforceable between original parties as a matter of contract law
+    - Privity survives disposal by assignment
+    - Still bound by express but not implied covenants
+    - Thus, parties cannot escape their contractual obligations by assigning their interest
+  - Privity of Estate
+    - Derives from landlord /tenant relationship
+    - In absence of privity of contract, covenants are enforceable where there is privity of estate and the covenant touches and concerns the land (Rule in Spencer’s Case) 
+    - Common law concept, does not apply to equitable leases??
+  - Touch and concern
+    - Covenant must be about the land as such
+    - Swift Investments: A covenant will touch and concern where:
+      - 1. The covenant affects the nature, quality, value or use of the land;
+      - 2. Benefits the lessee or reversioner for the time being
+      - 3. Not of a personal nature
+    - See also Gumland Property Holdings
+  - Covenants which touch and concern
+    - Examples include:
+      - To pay Rent
+      - To Repair
+      - Insuring against fire
+      - Not to assign without consent
+      - To renew the lease
+      - To use as residential property
+  - RPA s 51: Leasehold estate
+    - Section 51 overrides the requirement in Spencer’s case that the covenant touch and concern
+    - Section 3(1)(a) – transfer includes lease
+      - If the transfer is registered – the assignee of lessee is liable for all covenants in original lease for so long as she remains the tenant, not merely those covenants that touch and concern the land: Karacominakis v Big Country Developments Pty Ltd
+  - Past Breaches: Tenant’s Breaches
+    - Past v continuing breaches
+    - general rule is that the assignee is only liable when the estate is vested in them, so there is no liability for breaches prior to assignment.
+    - However, the assignee may be liable where the breach is continuing - eg repair covenant or requirement to only use the premises for residential purposes
+    - The original tenant may still be liable as a matter of privity of contract
+  - Right of indemnity
+    - If the landlord sues the original tenant there is a right of indemnity against the assignee who breached
+    - If the new tenant is found liable for continuing breaches of the original tenant there is a right of indemnity against the original tenant
+  - Assignment of the leasehold estate: Example 1
+    - Rachel is the landlord. She has entered into a lease with Toby. Toby is the tenant. 
+    - One of the express clauses in the lease is that Toby is under an obligation to pay rent. Toby fails to pay rent for three months. He assigns the leasehold interest to Beth. Is Beth liable for the unpaid rent?
+  - Assignment of the Reversion
+    - CA section 117 - benefit
+    - CA section 118 – burden
+    - Subject matter of the lease = touch and concern
+    - Applies to both legal and equitable leases as the rights rely on statute and not privity of estate
+  - RPA s 51 and ‘subject matter of the lease’
+    - Section 117 – words include ‘subject-matter of the lease’. How does this relate to s 51?
+    - In other words, does RPA s 51 override this requirement. Does it mean that ‘subject-matter of the lease’ is not required, just as it means that touch and concern is not needed for the leasehold estate (assuming the assignment is registered).
+    - The answer is maybe
+  - Past Breaches: Landlord’s breaches
+    - If the landlord breaches and assigns the reversion then s 118 will allow the tenant to sue where the breach is continuing
+    - If the landlord breaches and the tenant assigns then the assignee can sue for continuing breaches
+  - Assignment of the Reversion: Example 1
+    - Rachel is the landlord. She has entered into a lease with Toby. Toby is the tenant.
+    - Rachel assigns the reversion to Bob. Toby fails to pay rent. Can Bob enforce the covenant to pay rent against Toby?
+  - Assignment of the Reversion: Example 2
+    - Rachel is the landlord. She has entered into a lease with Toby. Toby is the tenant.
+    - Rachel assigns the reversion to Bob. Rachel has covenanted to undertake certain improvements. At the time of the assignment of the reversion to Bob she has still not undertaken them. Can Toby enforce the covenant against Bob?
+    - One of the express clauses in the lease is that Rachel agrees to undertake certain improvements on the property. These are listed in the lease. 
+    - Toby assigns the leasehold interest to Beth. Rachel has still not undertaken the improvements. Can Beth require Rachel to make the improvements?
+- Termination and Forfeiture
+  - Termination
+    - Lease term comes to an end
+    - One party gives notice in accordance with the lease or statutory provisions
+    - re-entry and forfeiture for lessee’s breach of covenant; and/or
+    - common law right to terminate for lessee’s repudiation or fundamental breach (ordinary contractual right)
+  - Forfeiture by re-entry
+    - Where a tenant breaches a covenant in the lease, and either:
+    - the lease reserves the right expressly; or
+    - there is an implied statutory right (see CA s 85(1)(d))
+    - Where the right is express look to the terms of the clause to see if it is to be exercised in a particular way.
+  - Statutory requirements for re-entry
+    - rental covenant – see CA s 85(1)(d) – one month in arrears
+    - non-rental – CA s 85(1)(d) – 2 months or notice to repair served and no repair in reasonable time.
+      - + notice under CA s 129 for non-rental clauses – see 1CA 29(8)
+      - for form of notice see Schedule 6: CA s 129(9)
+      - you cannot contract out of the requirement for notice – see CA s 129(10)
+  - Manner of forfeiture
+    - Make sure relevant notices have been served etc
+    - Serving a summons for possession
+    - Physical re-entry (but cf possible tortious/criminal consequences)
+    - Even where the lease has been validly forfeited the lessee may be entitled to apply to the Supreme Court for relief against forfeiture of the lease
+  - Termination – fundamental breach / repudiation
+    - Contractualisation – fundamental breach / repudiation
+    - Contract damages available including loss of bargain (ie rent to end of term)
+    - Not an alternative remedy to re-entry. Both can be exercised: Progressive Mailing House
+    - Which would you exercise when and why?
+  - Shevill v Builders Licensing Board
+    - Lessee was constantly late with rent
+    - Lessor accepted late and sometimes partial payments
+    - Finally the lessor sought to terminate
+    - After the action commenced the lessee paid the arrears in rent
+    - Plaintiff argued that the breaches of the rental clauses constituted breach of an essential term or unwillingness or inability to perform so as to amount to repudiation
+    - Held:
+      - that the ordinary principles of contract law apply to leases
+      - that a covenant to pay rent in advance at specified times would not, without more, be a fundamental or essential term
+      - Nor was there repudiation, as the defendants remained willing to pay and it could not be inferred that they would continue to be unable to pay on time.
+  - Progressive Mailing House
+    - Factory premises
+    - Various clauses of the lease required the lessee to:
+      - Pay rent;
+      - Not to sub-let without consent;
+      - Not to do anything which would increase insurance premiums;
+      - Repair certain things, including glass and electrical
+    - Defendants did not pay rent for 4 months, then paid, then got behind again;
+    - Breached the covenants to maintain and repair and refused to remedy the breaches;
+    - Sub-let part of the premises.
+    - Held:
+      - Normal contractual principles apply;
+      - Can exercise both remedies – they are not alternatives
+      - neither a breach of a covenant to pay rent nor a breach of a covenant to repair, without more, constitutes a breach of a fundamental term, nor amounts to a repudiation of a lease
+  - Stipulation
+    - The contracting parties can stipulate that a term of the lease is essential, even if it would not otherwise be. They can also specify the results of breach.
+    - In Shevill Gibbs CJ stated that any clause could essentially be made essential and the court must give effect to this
+  - Gumland Property Holdings
+    - Clause 1.13 provided: "It shall be a fundamental obligation of the Lessee to ensure that the Lessor shall receive the rental provided for in the Lease during the full term thereof."
+    - Clause 7.1 provided: "Each of the covenants by the Lessee which are specified in this clause are essential terms of this Lease.”
+    - Clause 7.1.1 provided: "The covenant to pay rent throughout the lease term at a date not later than seven (7) days after the due date for the payment of each monthly instalment of rent and any other monies payable under the terms of this Lease (clause 3)
+    - In Gumland the lessee argued that either:
+      - parties cannot give the landlord a right to terminate a contract for breach of a term merely by declaring it to be "essential", unless the tenant's breach was repudiatory, or the tenant's breach was a fundamental breach; or
+      - it is open to the parties to declare a term to be essential, entitling the innocent party to terminate for breach, but that that declaration is incapable of giving a right to sue for loss of bargain damages, unless the non-innocent party's conduct amounted to repudiation or fundamental breach
+  - Stipulation
+    - The courts will not interfere if the parties choose to stipulate that a term is essential. The HCA did however suggest this was not unlimited. The mere description of a term as essential, even if really trivial, may not be enough: Gumland Holdings [47]. Here it was failure to pay rent; that is not trivial.
+    - It can be agreed that breach can lead to the right to terminate and the right to recover loss of bargain damages, even if it would not be so at common law.
+    - Usually after breach the lease is voidable at the option of the lessor
+    - Court can still award relief against forfeiture (and this cannot be contracted out of)
+- Gumland Property Holdings Pty Ltd v Duffy Bros Fruit Market (Campbelltown) Pty Ltd [2008] HCA 10
+  - Procedural History:
+    - Trial: NSWSC found the lessee breached an essential term; awarded damages of $2,096,514.
+    - Appeal: NSWCA (Giles JA, Santow & Tobias JJA) held no entitlement to loss of bargain damages; reduced award to $362,232.
+    - High Court: Allowed appeal and restored trial judgment.
+  - Original Dispute:
+    - Whether the lessor (Gumland, as assignee) was entitled to terminate a commercial lease for non-payment of rent arising under a varied lease agreement and recover loss of bargain damages.
+  - Reason for Trial:
+    - The lessee failed to cover a rent shortfall caused by a sub-lessee (Woolworths). Gumland terminated and sought damages.
+  - Material Facts:
+    - Original lease (1993) included clause 3: rent covenant deemed essential under clause 7.1.1.
+    - 1999 Deed varied rent obligations: reduced rent, added clause 10.2 requiring payment of rent from sub-leases.
+    - Woolworths (sub-lessee) underpaid rent. Lessee did not cover the shortfall → breach of cl 10.2(c).
+    - Lease was terminated in 2003. Gumland sued for arrears, loss of bargain, and re-letting costs.
+    - Guarantors (second and third respondents) had guaranteed lessee's performance.
+  - Issue Raised:
+    - Was failure to pay under cl 10.2(c) a breach of cl 3 of the lease (an essential term)?
+    - Did this entitle termination and loss of bargain damages?
+    - Did s 117 of the Conveyancing Act 1919 (NSW) allow enforcement by Gumland (assignee)?
+    - Were the guarantors liable for the full damages?
+  - Law(s)/Statute(s) in Contention:
+    - Conveyancing Act 1919 (NSW) s 117
+    - Civil Procedure Act 2005 (NSW) s 101
+    - Real Property Act 1900 (NSW), relevant for registered leases
+    - Common law on essential terms, repudiation, and lease enforcement
+  - Precedents:
+    - Shevill v Builders Licensing Board (1982) 149 CLR 620
+    - Progressive Mailing House Pty Ltd v Tabali Pty Ltd (1985) 157 CLR 17
+    - P & A Swift Investments v Combined English Stores Group [1989] AC 632
+    - Consolidated Trust Co Ltd v Naylor (1936) 55 CLR 423
+  - Tests:
+    - Whether the term breached was designated essential by express lease terms.
+    - Whether the right to damages passes under s 117 as a covenant "touching and concerning" the land.
+  - Words and Phrases Considered:
+    - “Essential term”
+    - “Scheduled breach”
+    - “Loss of bargain damages”
+    - “Touch and concern the land”
+    - “Repudiation” vs. “Contractual termination for breach”
+  - Arguments by Party:
+    - Appellant (Gumland):
+      - Breach of cl 10.2(c) = breach of cl 3 (essential term) → right to terminate and recover loss of bargain damages.
+      - s 117 Conveyancing Act enables assignee to enforce that right.
+      - Guarantee covenants also run with land under common law.
+    - Respondents (Lessee & Guarantors):
+      - Breach was only of the 1999 Deed (not of cl 3 of the Lease).
+      - Lease and Deed were separate; termination unjustified.
+      - s 117 did not allow recovery of loss of bargain damages or enforcement of guarantee by assignee.
+  - Judicial Opinions:
+    - Unanimous joint judgment (Gleeson CJ, Kirby, Heydon, Crennan & Kiefel JJ).
+    - Strong endorsement of express lease terms as determinative of essentiality and available remedies.
+  - Legal Reasoning:
+    - Lease Variation: 1999 Deed varied, not suspended, lease. Breach of cl 10.2(c) was also breach of cl 3.
+    - Essential Term: Lease designated cl 3 as essential (cl 7.1.1). Courts will uphold clear designation.
+    - Damages: Under general contract law, breach of essential term = entitlement to terminate + loss of bargain damages (Shevill, Progressive Mailing).
+    - Statutory Transfer: s 117 Conveyancing Act allowed Gumland (as assignee) to enforce the lease covenant.
+    - Guarantors: Guarantee covenants “touched and concerned” the land; enforceable by Gumland under common law.
+  - Ratio Decidendi:
+    - An express covenant to pay rent, when designated as an essential term and breached, entitles the landlord to terminate and claim loss of bargain damages. This right passes to an assignee under s 117 of the Conveyancing Act 1919 (NSW), and related guarantee covenants may also pass under common law.
+  - Result:
+    - High Court allowed the appeal; reinstated trial decision awarding $2,096,514 plus interest.
+    - Cross-appeal dismissed.
+    - Guarantors also held jointly liable for full amount.
+  - Relevance to Modern Law:
+    - Affirms enforceability of expressly designated essential terms in leases.
+    - Clarifies scope of s 117 (Conveyancing Act) – allows assignees to enforce rights for loss of bargain damages.
+    - Strengthens the enforceability of guarantee covenants that "touch and concern" the land.
+    - Reinforces commercial certainty in lease drafting.
+- Progressive Mailing House Pty Ltd v Tabali Pty Ltd (1985) 157 CLR 17
+  - Procedural History:
+    - Trial: NSWSC (Lusher J) granted possession to landlord, awarded $85,000 damages for loss of benefit of covenants after re-entry.
+    - NSW Court of Appeal: Appeal dismissed.
+    - High Court: Appeal dismissed; confirmed that damages for loss of bargain are available where lessee repudiates lease or commits fundamental breach.
+  - Original Dispute:
+    - Whether the landlord could recover damages for loss of the lease’s benefit (i.e. rent for unexpired term) following the lessee’s repudiation and the landlord’s re-entry under a contractual forfeiture clause.
+  - Reason for Trial:
+    - The lessee (Progressive Mailing House) ceased paying rent and committed multiple breaches of the lease. The lessor (Tabali) re-entered the premises and claimed damages for future rent and outgoings.
+  - Material Facts:
+    - The lease was unregistered but in registrable form.
+    - The tenant entered possession before formal lease commencement.
+    - A number of breaches occurred, including:
+      - Failure to pay rent
+      - Failure to repair and maintain
+      - Unauthorised subletting
+      - Safety and planning breaches (e.g. fire doors, drive-through, electricals)
+    - Rent was unpaid from May to October 1979; partial payment made in October under protest.
+    - The lessor issued a statement of claim and sought possession and damages.
+    - The tenant claimed work specified in the lease had not been properly completed, so rent was not payable.
+  - Issue Raised:
+    - Did the tenant’s breaches constitute repudiation or fundamental breach?
+    - Was the lease terminated validly under a re-entry clause or by acceptance of repudiation?
+    - Could the landlord recover damages for future rent (i.e. loss of bargain)?
+    - Did the unregistered lease create enforceable obligations under equity?
+  - Law(s)/Statute(s) in Contention:
+    - Real Property Act 1900 (NSW)
+    - Conveyancing Act 1919 (NSW) s 129
+    - Supreme Court Act 1970 (NSW)
+    - Common law and equitable doctrines: repudiation, fundamental breach, equitable lease
+  - Precedents:
+    - Shevill v Builders Licensing Board (1982) 149 CLR 620
+    - Walsh v Lonsdale (1882) 21 Ch D 9
+    - Buchanan v Byrnes (1906) 3 CLR 704
+    - National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675
+    - Hughes v NLS Pty Ltd (1966) WAR 100
+    - Halloran v Firth (1926) 38 CLR 261
+    - Total Oil v Thompson Garages [1972] 1 QB 318
+  - Tests:
+    - Repudiation: Conduct evincing an intention no longer to be bound by the lease, or to perform it only in a way substantially inconsistent with obligations (cf Shevill).
+    - Fundamental Breach: A breach that deprives the other party of substantially the whole benefit of the contract.
+  - Words and Phrases Considered:
+    - “Repudiation”
+    - “Fundamental breach”
+    - “Loss of benefit of lease”
+    - “Covenant to pay rent”
+    - “Equitable lease”
+  - Arguments by Party:
+    - Appellant (Tenant):
+      - Breaches did not amount to fundamental breach or repudiation.
+      - Clause 11.6 (on lessor works) not complied with; obligation to pay rent never arose.
+      - Lessor’s damages should be limited to rent due before re-entry.
+      - Rent withheld based on advice; conduct not repudiatory.
+    - Respondent (Landlord)
+      - Multiple serious breaches, including failure to pay rent and maintain premises, amounted to repudiation.
+      - Lease was terminated via re-entry and repudiation.
+      - Entitled to damages for loss of bargain, not just arrears.
+  - Judicial Opinions:
+    - Mason, Wilson, Brennan, Deane & Dawson JJ (unanimous):
+      - The lease relationship was contractual as well as proprietary.
+      - Lease terms (especially covenant to pay rent) were fundamental.
+      - Conduct of tenant showed intention not to be bound by lease = repudiation.
+      - Lessor could recover damages for loss of bargain even when lease was terminated by re-entry.
+  - Legal Reasoning:
+    - Equitable Lease: Though unregistered, the lease was enforceable as an equitable lease via Walsh v Lonsdale.
+    - Repudiation: Tenant’s sustained failure to pay rent and conduct violating planning and safety laws amounted to repudiation.
+    - Re-entry vs Repudiation: Re-entry under cl 10.1 did not preclude reliance on repudiation.
+    - Damages for Loss of Bargain: Available upon repudiation or fundamental breach (cf Buchanan v Byrnes, Panaplina, Highway Properties Ltd).
+    - No Estoppel or Excuse: Tenant’s claim of defect in lessor’s certification did not excuse rent non-payment.
+  - Ratio Decidendi:
+    - A lessor may recover loss of bargain damages (i.e. future rent) upon termination of a lease for repudiation or fundamental breach, even when termination is effected through a contractual right of re-entry. Leases, although proprietary, are subject to contractual principles where applicable.
+  - Result:
+    - High Court dismissed the appeal.
+    - Upheld award of $85,000 in damages to the landlord for loss of benefit of the lease.
+    - Confirmed application of contract principles to leases.
+  - Relevance to Modern Law:
+    - Landmark case for the contractual nature of leases in Australian law.
+    - Clarified that repudiation and fundamental breach can justify loss of bargain damages in leases.
+    - Reinforces that leases are not purely conveyances but also executory contracts, especially in commercial contexts.
+    - Used to support landlord’s rights to recover damages upon default even in registered leases.
+- Shevill v Builders Licensing Board (1982) 149 CLR 620
+  - Procedural History:
+    - Appeal to the High Court of Australia from the NSW Court of Appeal (which had dismissed an appeal from the Supreme Court). At first instance, Carmichael J found for the respondent lessor, awarding damages for breach of lease. The High Court allowed the appeal.
+  - Original Dispute:
+    - Whether the lessee’s failure to pay rent on time entitled the lessor (respondent) not only to re-enter the premises (terminate the lease) but also to claim damages for loss of the benefit of the lease for the remainder of its term.
+  - Reason for Trial:
+    - The lessor sought unpaid rent and additional damages for breach of a lease covenant following re-entry. The issue was whether these damages were recoverable under the lease or general contract principles.
+  - Material Facts:
+    - Shevill Truck Sales & Service Pty Ltd held a 3-year lease on land at Milperra.
+    - The lease included a clause (cl 9(a)) allowing the lessor to re-enter upon failure to pay rent for 14 days, among other triggers.
+    - The lessee regularly paid rent late and was in financial difficulty.
+    - The lessor issued a statement of claim on 3 August 1977, forfeiting the lease. The lessee vacated in October 1977.
+    - The respondent then sued for arrears (later paid) and damages for loss of future rent.
+  - Issue Raised: 
+    - Whether the lessor was entitled to claim damages for loss of the bargain (i.e., future rent under the lease) in addition to re-entering the premises.
+  - Law(s)/Statute(s) in Contention:
+    - Clause 3 and Clause 9(a) of the lease
+    - Conveyancing Act 1919 (NSW), s 129 (mentioned but not material)
+    - Common law principles regarding termination for repudiation or fundamental breach
+  - Precedents:
+    - Heyman v Darwins Ltd (1942) AC 356
+    - Hongkong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd [1962] 2 QB 26
+    - Associated Newspapers Ltd v Bancks (1951) 83 CLR 322
+    - Wickman Machine Tool Sales Ltd v L Schuler AG [1974] AC 235
+    - Highway Properties Ltd v Kelly, Douglas & Co Ltd (1971) 17 DLR (3d) 710 (Canada)
+    - Tramways Advertising Pty Ltd v Luna Park (NSW) Ltd (1938) 38 SR (NSW) 632
+  - Tests:
+    - Test for essential terms: Whether the promise is so important that the promisee would not have entered into the contract unless assured of strict performance (Bancks).
+    - Repudiation test: Whether a party renounced the contract or showed intent to not be bound (Freeth v Burr, Heyman v Darwins).
+    - Fundamental breach: Whether a breach made further commercial performance impossible (Hongkong Fir).
+  - Words and Phrases Considered:
+    - “Essential term”
+    - “Repudiation”
+    - “Any such event” (in cl 9(a) of the lease)
+    - “Without prejudice to any action or other remedy”
+  - Arguments by Party:
+    - Respondent (Lessor):
+      - Lessee’s conduct amounted to repudiation.
+      - Alternatively, that cl 9(a) elevated the rent covenant to an essential term.
+      - Therefore, termination entitled it to full damages for loss of bargain.
+    - Appellants (Guarantors):
+      - No repudiation or fundamental breach occurred.
+      - Clause 9(a) only permitted re-entry and recovery of arrears, not damages for future loss.
+  - Judicial Opinions:
+    - Gibbs CJ: No repudiation or fundamental breach occurred. Clause 9(a) did not confer entitlement to future damages—only recovery of arrears and damages for existing breaches.
+    - Murphy J: Agreed with Gibbs CJ; emphasised no repudiation.
+    - Wilson J: Strongly rejected the argument that cl 9(a) converted rent into an essential term; no evidence of repudiation; damages not recoverable.
+    - Brennan J: Agreed with Gibbs CJ.
+  - Legal Reasoning:
+    - The lease's re-entry clause (cl 9(a)) gave a right to terminate but did not imply a right to claim future losses.
+    - The lessee was not shown to have repudiated the lease or committed a fundamental breach.
+    - Clause 9(a) preserved rights to recover damages for the actual event causing re-entry but not for future loss post-termination.
+    - A failure to pay rent does not automatically elevate that covenant to an essential term unless clearly stated.
+    - Termination under cl 9(a) was a contractual right, not the result of repudiation.
+  - Ratio Decidendi: 
+    - A lessor who re-enters under a contractual right of re-entry following a lessee’s breach of a rent covenant is not entitled to damages for future loss of bargain unless:
+    - The breach amounts to repudiation or a fundamental breach; or
+    - The lease clearly stipulates that such damages are recoverable.
+  - Result:
+    - Appeal allowed.
+    - Judgment for appellants (guarantors).
+    - Respondent entitled only to costs up to the date of rent payment; otherwise, appellants entitled to costs.
+  - Relevance to Modern Law:
+    - Shevill remains a foundational authority on the intersection of contract law and property law regarding lease enforcement.
+    - Clarifies that forfeiture of a lease does not equate to repudiation.
+    - Reinforces that covenants (even to pay rent) are not essential unless the contract makes them so.
+    - Widely cited in landlord-tenant disputes involving claims for damages post-forfeiture.
+## Week 10: Mortgages
+
+- Nature of Mortgages
+  - What is a mortgage?
+    - Lindley MR in Santley v Wilde [1899]
+      - A mortgage is a conveyance of land or an assignment of chattels as a security for the payment of a debt or the discharge of some other obligations for which it is given. This is the idea of a mortgage, and the security is redeemable on the payment or discharge of such debt or obligation, any provision to the contrary notwithstanding.
+  - Equity of Redemption
+    - As an old system mortgage involved a conveyance of the fee simple, at law the mortgagor had no interest in the land.
+    - In response, the Courts of Equity intervened and recognised the equity of redemption. The equity of redemption was evidence of equity’s recognition that:
+      - Mortgagor ought to retain some kind of interest in the land
+      - That interest in the land had commercial value which could be traded. It is the equity of redemption that is used to grant a second mortgage over OS land
+  - Equitable Right to Redeem
+    - Equity also recognised the Right to Redemption - a right to redeem upon payment of what was loaned  
+      - i.e. to have the property reconveyed to you.
+    - However, the right to redeem will be lost:
+      - Where the mortgagee exercises their power of sale;
+      - Or where foreclosure occurs – this extinguishes the mortgagor’s interest in the property
+  - Equity of Redemption vs Right to Redeem
+    - Equity of redemption arose as soon as mortgage was created.
+    - Equitable right to redeem did not arise until the date of repayment had passed and the mortgagor had repaid the owing funds
+    - Cannot convey or deal with the equitable right to redeem but can deal with equity of redemption as the equity of redemption is an equitable interest in land which could be leased, devised, or mortgaged.
+  - Old System Mortgage
+    - Conveyance of the legal fee simple to the mortgagee, with the mortgagor acquiring an equity of redemption.
+      - As this involves title passing to the mortgagee, there can only be one legal mortgage of OS land. All subsequent mortgages are equitable in nature
+    - Formalities (see Week 4)
+      - Legal Mortgage: deed (per s 23B)
+      - Equitable Mortgage:
+        - in writing s 23C;
+        - deposit of title deeds (historically – Theodore v Mistford) (Note: being in possession of a CT issued prior to 11 October 2021 now has no legal effect. Post this date, they are no longer issued)
+        - Agreement to grant a mortgage (if specifically enforceable).
+  - Torrens System Mortgage
+    - Operates as a statutory charge (RPA s 57), and the legal title remains with the mortgagor.
+      - Legal Mortgage:
+        - When Registered (RPA s 57)
+      - Equitable Mortgage: unregistered
+        - Includes all the types identified on the previous slide.
+  - Torrens System Mortgage and Equitable Right of Redemption?
+    - No equity of redemption for TT mortgages as no conveyance of fee simple interest occurs.
+    - The Mortgagor always remains the owner of the fee simple so not really necessary for the equity of redemption to operate.
+    - It is generally assumed that the mortgagor has an equity of redemption in the sense that the court of equity will protect the TT mortgagor against unconscionable acts of mortgagees. However, this is theoretically dubious.
+  - RPA s 56
+    - (1) Whenever any land or estate or interest in land under the provisions of this Act is intended to be charged with, or made security for, the payment of a debt, the proprietor shall execute a mortgage in the approved form.
+    - (2) Whenever any such land, estate, or interest is intended to be charged with or made security for the payment of an annuity, rent-charge, or sum of money other than a debt, the proprietor shall execute a charge in the approved form.
+  - RPA section 57
+    - A mortgage, charge or covenant charge under this Act has effect as a security but does not operate as a transfer of the land mortgaged or charged
+- Indefeasibility and Mortgages
+  - Australian Guarantee Corporation Ltd v De Jager [1984] VR 483
+    - Facts:
+      - A husband and wife were jointly registered as the registered proprietors of a property. The husband arranged a mortgage over the property with AGC but his wife refused to sign the mortgage. Someone then forged her signature on the mortgage docs. An intermediary of the husband took the mortgage docs to AGC. When he got there, AGC's employee noted that the signatures on the document were not attested. 
+      - The intermediary said that he had witnessed the husband’s signature but not the wife’s – but he attested both in front of AGC’s employee anyway. The mortgage was registered, the husband defaulted in repayment of the loan and the mortgagee proceeded to exercise the power of sale.
+    - Arguments: 
+      - Mrs De Jager argued that AGC’s interest against her was defeasible for Fraud.
+    - Held: 
+      - per Tadgell J: Mrs De Jager succeeded.
+      - The Bank had represented to the RG that the wife’s consent to the mortgage had been witnessed when they knew it hadn’t. Without that attestation of witness, the RG would not have registered the mortgage.
+    - Tadgell J at 498:
+      - When AGC presented the mortgage for registration, it was representing to the Registrar of Titles, as against the mortgagors, an honest belief that they had executed the instrument in the presence of a witness who, if it came to the point, could be relied on to prove the execution. To lodge an instrument for registration in the knowledge that the attesting witness had not been present at execution must deprive the lodging party of an honest belief that it is a genuine document on which the Registrar can properly act … 
+      - The present case had the added feature that Mrs De Jager had never dealt with AGC.... So far as appears, AGC knew nothing of her and had no possible means of knowing whether she approved or not of submitting to an encumbrance of the kind... AGC had no basis for assuming that she had signed.... AGC had the means of confirming or denying what should been, to a company in its position, a suspicion of irregularity, whereas she was, in effect, an entirely innocent and ignorant third party. I hold that AGC’s title as registered mortgagee should not prevail as an encumbrance against Mrs De Jager’s title
+  - RPA s 56C
+    - If there is a failure to comply, or the Registrar General is satisfied that the execution of the mortgage involved fraud, then they may cancel the registration of the mortgage.
+    - Note: amendments to assurance fund provisions (no compensation payable to a mortgagee who fails to comply s 129(2)(j)
+    - See Schedule 8 (Verification of Identity Standard) in the NSW Participation Rules
+  - The Indefeasibility Umbrella
+    - Note: The concept of indefeasibility applies to all registered interests; so a registered mortgage/easement/lease will be indefeasible as well as a Registered Proprietor’s title.
+    - Indefeasibility will extend not only to the relevant interest in the land, but also the provisions of the dealing related to that interest e.g. registration of a mortgage protects not only the mortgagee’s interest in the land, but also the mortgagee’s right to sell.
+  - Registration of a forged mortgage
+    - Although registration will cure a void dealing of forgery, does the registration also cure the non-proprietary i.e. contractual obligations expressed in the documentation that creates the proprietary interest.
+    - Relevant in the case of mortgages: does registration of a forged Torrens title mortgage also extend to the personal covenant of the mortgagor to repay the debt?
+      - If not, the mortgagee is able to exercise their power of sale to recoup a part of their loss, but cannot sue on the personal covenant to repay to obtain the balance.
+  - All monies mortgages
+    - All monies/all advances mortgages are expressed to secure the repayment of amounts advanced from time to time under one or more loan agreements. It is the loan agreement that contains the covenant to repay and the terms of repayment. The loan agreements themselves are not registered. 
+    - This is based on RPA s 57(2)(a) which says that a mortgagee’s power to sell depends on the existence of a ‘default’ in the observance of a covenant ‘in the mortgage’. Thus, unless the loan agreement has been incorporated into the registered mortgage, the obligation to repay is found only in a collateral document.
+  - Provident Capital Ltd v Printy [2008] NSWCA 131
+    - Facts: Two forged mortgages.
+      - The first mortgage secured all monies lent under a separate deed of loan between Provident Capital and a fraudster who purported to sign as Mr Printy. The monies due under the deed of loan were not specifically documented in the mortgage which purported to secure "all monies" owed to the mortgagee by the mortgagor.
+      - The second mortgage secured funds lent by other lenders under a loan agreement which was later acquired by Provident Capital. The trial judge noted that the second mortgage involved "a distinction of fundamental importance" in contrast to the first mortgage in that it identified the amount of loan as a covenant in the mortgage itself.
+    - The All Monies mortgage provided:
+      - 2.1 “The Mortgagor must pay the secured money to the Mortgagee as provided in any related agreement”
+      - ‘Related agreement’ was defined in cl 1.1 to mean, “any agreement under which ‘the Mortgagee lends money or incurs any obligation or liability
+    - Held: Per Basten JA (with Tobias and McColl JJA agreeing)
+      - The mortgage did not secure the amount owed as the mortgage did not specify the amount owing, and the agreement was not incorporated into the mortgage itself
+    - Per Basten JA at [42]:
+      - There remains a question, where the covenant in the mortgage reflects a covenant in a separate agreement, as to whether indefeasibility extends to the latter covenant or is limited to the former, so that, if the separate agreement is void, there is no debt secured.
+    - Basten JA: at [49]-[53]:
+      - Section 57(2)(a) requires identification of a "default" in one of two circumstances which, relevantly for present purposes, may be identified as first, "in the observance of any covenant … in the mortgage“.... The relevant covenant was to be found in cl 2.1, which required that the mortgagor "must pay the secured money to the Mortgagee as provided in any related agreement“...] The remaining question is whether, in the particular circumstances of the case, a default can be identified in the observance of a covenant in the mortgage or in a payment in accordance with the terms of the mortgage because the deed of loan is to be read as part of the mortgage....As already noted, the memorandum contained a covenant to pay the secured money, which meant all money owing, among other things, under a related agreement. There was no term expressly incorporating the deed of loan (or anything else which might fall within the description of a related agreement) nor was it contended that any such term should be implied
+  - Van Den Heuval v Perpetual Trustees Victoria Ltd [2010] NSWCA 171
+    - Facts: A wife’s signature was forged by her husband on a mortgage. The lender sought possession of the home, and the wife sought relief.
+      - The registered mortgage was expressed to be security for payment to Perpetual of “the Secured Money”.
+      - “Secured Money” was defined to mean all monies payable or contingently owing to Perpetual under a “secured agreement”.
+      - “Secured Agreement” was defined to mean: Any present or future agreement between me or us, or any one of us, and You, or An agreement which varies such an agreement.
+    - Arguments: 
+      - Mrs Van den Heuvel argued that because the loan agreement was prepared for both husband and wife to sign and only the husband signed, it never came into effect. To succeed with her argument, Mrs Van den Heuvel needed to show that the parties (i.e. Perpetual and Mr Van den Heuvel) did not intend to take on an obligation unless Mrs Van den Heuvel was also bound.
+      - First Instance: 
+        - The lender was entitled to possession, and the wife was entitled to compensation from the Assurance Fund – her loss being calculated as the value of her half-share in the property and the net sum she would receive after repayment of the mortgage.
+      - Appeal: 
+        - The wife appealed on the ground that she should have been compensated for the whole amount of the mortgage.
+    - Held: Per Hodgson JA and Young JA (Basten JA dissenting) 
+      - The wife was bound by the mortgage. 
+      - Both Perpetual and Mr Van den Heuvel intended that they be bound to the loan agreement, even if Mrs Van den Heuvel did not sign.
+    - Per Young AJ at [160]-[168]: 
+      - The only possible “Secured Agreement” is the loan agreement. It was not signed by the wife, nor is it binding on her. However, the vital matter is whether, it being binding on the husband, the wife has (by virtue of indefeasibility) mortgaged her interest in the land because “one of us” as named in the mortgage, that is the husband, by the loan agreement owes money to Perpetual..... In each case the court must look at the intention of the parties. If the conclusion is that a person did not intend to take on an obligation unless others were also bound, then the document will not operate until all intended to be bound, have signed..... Perpetual in paying over the money would know from past experience that wives’ signatures are sometimes forged and that it would at least have the husband bound by the documentation. 
+      - On the husband’s side, he knew he had forged his wife’s signature to the documents and wanted the documents to be operative so as to receive the money he wanted..... In my view it follows that the conclusion must be that the parties (Perpetual and the husband) intended the documents to be operative even without the wife’s signature. The balance of probabilities is that in the light of past history in the industry, the possibility that the wife’s signature was forged or that the loan was unenforceable against the wife would have occurred to Perpetual. It would more likely than not accept that in that situation, so long as the husband was bound, it was commercially appropriate to lend out the money
+    - Per Basten JA (Dissenting): [46]:
+      - In my view, that inference should not be drawn, the preferable inference being that Perpetual would not have advanced the money pursuant to the proposed facility unless both borrowers signed each document. I would draw that inference from the following considerations:
+        - that each document named both parties expressly;
+        - Perpetual knew that both were registered owners of the property as joint tenants;
+        - it is implausible (and inconsistent with the terms of the loan agreement) that Perpetual would provide financial accommodation to the borrowers without the nominated security;
+        - by providing the documents for execution, Perpetual demonstrated its requirement that both joint tenants execute the loan agreement and the mortgage;
+        - by taking the trouble to forge his wife’s signature and have a friend purport to witness it on both documents, Mr van den Heuvel demonstrated his conviction that Perpetual would not provide financial accommodation unless he took those steps, and
+        - by requiring that both joint tenants be borrowers under the loan agreement, Perpetual demonstrated an intention that both registered proprietors should obtain a financial benefit from the facility secured by the mortgage
+  - Perpetual Trustees v English [2010] NSWCA 32
+    - Facts:
+      - Husband and wife, husband purported to sign wife’s signature on two documents: a memorandum of mortgage (to be registered) and a loan offer which stated the amount to be lent, and the terms of the loan.
+      - There, the loan offer was made to both, and the acceptance stated:
+        - To accept this Offer You and, if there is more than one person all of You, must sign and return to the Lender’s solicitors the original copy of this Offer so that it is received by the Lender’s solicitors or settlement agent within 21 days of the date of the Offer
+    - Held: 
+      - per Sackville AJA: Loan offer not validly accepted, so loan had never been validly created.
+      - Because loan was never validly created, the mortgage did not secure moneys purported to be lent to her. 
+      - at [78]:
+        - The Loan Offer bore the genuine signature of Mr English purporting to agree to the terms of the Offer and accepting it. It also bore the forged signature of Ms English purporting to accept the Offer. The express statement in the Offer, that it was capable of acceptance only if all the persons to whom the Offer was made signed the acceptance, was plainly never complied with. In these circumstances, no enforceable agreement ever came into force between Perpetual and the husband and wife, or between Perpetual and the husband. The signature of Mr English alone was not capable of constituting acceptance of the Loan Offer. Perpetual never made an offer to Mr English alone and he never purported to accept any such offer.
+- Mortgagee's Rights and Obligations
+  - Rights and Remedies of the Mortgagee
+    - Remedies of the Mortgagee
+      - Foreclosure (not covered in this course)
+      - Power of Sale (our focus)
+    - Foreclosure (not assessable)
+      - The effect of the order for foreclosure is to vest the ownership and title to the land in the mortgagee. The equitable estate of the mortgagor is forfeited and transferred to the mortgagee.
+      - The mortgagee takes the property in full satisfaction of the mortgage debt so that the right to recover the mortgage debt from the mortgagor is extinguished.
+      - The collateral securities are released and the mortgagor’s right to redeem is extinguished
+  - Power of Sale
+    - Allows the mortgagee to sell the property if the mortgagor defaults.
+      - CA s 109(1)(a) implies this power into all mortgages, but s 111(1) provides that in the case of a registered Torrens mortgage, the power of sale must be exercised in accordance with RPA ss 57, 58 and 58A.
+    - Per Real Property Act, to exercise the power of sale, there must be:
+      - 1) A default (per s 57(2)(b))
+      - 2) A notice has been issued to the Mortgagor specifying the default and requiring it to be remedied
+      - within a month (57(3)); and
+      - 3) A failure by the Mortgagor to remedy the default.
+  - Standard of Care
+    - In considering the standard of care required in exercising the power of sale, two lines of authority developed:
+      - Good Faith: The mortgagee need only act bona fide in conduct of sale: Pendlebury v The Colonial Mutual Life Assurance Society (1912) HCA
+      - Reasonable Care: The mortgagee must take reasonable care to obtain the market price for the property: Cuckmere Brick Co Ltd v Mutual Finance Ltd [1971] Ch.
+  - CA s 111A – Duties of Mortgagee
+    - (1) A mortgagee or chargee, in exercising a power of sale in respect of mortgaged or charged land, must take reasonable care to ensure that the land is sold for:
+      - a) if the land has an ascertainable market value when it is sold-not less than its market value, or
+      - b) in any other case-the best price that may reasonably be obtained in the circumstances
+      - ...
+    - (4) .... a person who suffers loss or damage as a result of the breach of the duty has a remedy in damages against the mortgagee...
+    - (6) Nothing in this section affects the operation of any rule of law relating to the duty of the mortgagee or chargee to account to the mortgagor or chargor
+  - Pendlebury v The Colonial Mutual Life Assurance Ltd (1912) 13 CLR 676
+    - Facts:
+      - William Pendlebury’s land was subject to a mortgage to the Colonial Mutual Life Assurance Society. Colonial exercised the power of sale with the following factors:
+        - The land was worth £2000, but was sold for £720.
+        - The auction was advertised in Melbourne newspapers, but the property was located in rural Victoria, and no local advertising was carried out. Total spent on advertising: £2.
+        - The advertisement didn’t identify its location, just that it was 7 miles from Curyo Railway Station.
+    - Griffith CJ (at 680): the “mortgagee must not act reckless or wilfully sacrifice the interests of the mortgagor, and that if he does he is to be regarded as not having acted in good faith”.
+      - 683: re advertising:
+        - In my opinion, the object of a sale by auction is to secure a fair price for the property offered by means of competition between probable purchasers. And the object of giving public notice of a sale by auction, whether by advertisement, bellman, posters or otherwise, is to bring the subject of the sale to the notice of such probable purchasers, and so to induce such competition as will be likely to secure a fair price. The notice ought, therefore, so far as the circumstances will admit, to be of such a nature, both as to particulars given and as to the places in which and the modes by which it is given, as to be likely to secure this result.
+    - Barton J (at 694): considered that the duty to act in good faith encompasses the duty to take reasonable precautions to obtain a proper price, and that a mortgagee is “bound to sell fairly, and to take reasonable steps to obtain a proper price”.
+    - Isaacs J (at 700): was the sole member of the court to assert unequivocally that the mortgagee’s only duty is the equitable duty to act in good faith. In his view a mortgagee could not ”on any principle known to the law be liable for mere negligence because that assumes a standard of care to another”.
+  - Cuckmere Brick Co Ltd v Mutual Finance Ltd [1971] Ch 949
+    - Facts:
+      - Cuckmere Brick (the mortgagor) wanted to develop a site to build 100 flats and had obtained planning approval to do so. They obtained finance from Mutual Finance. Struggling financially, Cuckmere changed its plans and decided to build 35 houses instead. The development did not commence, and the mortgagor defaulted. The mortgagee exercised its power of sale. It was sold at auction for £44,000 but was alleged to be valued at a substantially higher price. The advertising for the sale noted that it had planning approval to build the houses, but omitted the approval to construct flats.
+    - Held: Salmon, and Cairns LJJ; Cross LJ dissenting)
+      - The mortgagees had breached their duty.
+      - A mortgagee in exercising his power to sell the mortgaged property owed the mortgagor the duties of acting in good faith and of taking reasonable precautions to obtain the true market value at the date on which he decided to sell the property; that the mortgagees, on the facts here, failed to take reasonable precautions to obtain the true market value for the land.
+    - Salmon LJ:
+      - It is well settled that a mortgagee is not a trustee of the power of sale for the mortgagor. Once the power has accrued, the mortgagee is entitled to exercise it for his own purposes whenever he chooses to do so. It matters not that the moment may be unpropitious and that by waiting a higher price could be obtained. He has the right to realise his security by turning it into money when he likes.... 
+      - The proposition that the mortgagee owes both duties, in my judgment, represents the true view of the law [i.e. good faith and reasonable care]
+    - Cross LJ:
+      - A mortgagee exercising a power of sale is in an ambiguous position. He is not a trustee of the power for the mortgagor for it was given him for his own benefit to enable him to obtain repayment of his loan. On the other hand, he is not in the position of an absolute owner selling his own property but must undoubtedly pay some regard to the interests of the mortgagor when he comes to exercise the power. Some points are clear. On the one hand, the mortgagee, when the power has arisen, can sell when he likes, even though the market is, likely to improve if he holds his hand and the result of an immediate sale may be that instead of yielding a surplus for the mortgagor the purchase price is only sufficient to discharge the mortgage debt and the interest owing on it. On the other hand, the sale must be a genuine sale by the mortgagee to an independent purchaser at a price honestly arrived at....
+      - There is no doubt that a mortgagee who takes possession of the security with a view to selling it has to account to the mortgagor for any loss occurring through his negligence or the negligence of his agent in dealing with the property between the date of his taking possession of it and the date of the sale. It seems quite illogical that the mortgagee’s duty should suddenly change when one comes to the sale itself and that at that stage if only he acts in good faith he is under no liability, however negligent he or his agent may be ... In my judgment, therefore, if the mortgagees were guilty of negligence in connection with the sale, the mortgagees are liable to compensate the mortgagors for any damage which they have suffered by reason of that negligence.
+  - Conduct of the Power of Sale
+    - Advertising: (Pendlebury)
+    - Valuation: (Pendlebury)
+    - Timing of sale: (Pendlebury)
+    - Improvements: (Southwell v Roberts)
+    - Duty to inform the Mortgagor of the terms of the sale: (ANZ v Bangadilly)
+  - Southwell v Roberts (1940) 63 CLR 581
+    - Facts:
+      - William Roberts owned a property in Ashfield subject to a mortgage to Ruby Southwell for £800. Southwell as mortgagee went into possession of the land. The land comprised two parts, A had two semi-detached houses which were dilapidated, and B was vacant land. Southwell estimated it would cost £200 to repair and decided to demolish them and build new houses on the land. In their place, two flats were constructed each with four bedrooms at a cost of £1,640 without the mortgagor’s consent
+    - Held: 
+      - Starke, Dixon and McTiernan JJ, dismissed the appeal
+      - Starke J (at 588):
+        - In my opinion the amount expended was neither reasonable in amount nor reasonable having regard to the nature of the property. The mortgagee expended double the amount of the principal debt and changed the character of the buildings upon the land, and indeed on the vacant portion of the land she erected a building where none had been before. The case is an example of a mortgagee in possession effecting improvements without regard to the mortgagor's interest and calculated to improve him out of his property. In these circumstances the expenditure cannot be allowed, unfortunate though it be for the mortgagee. But she could have protected herself by obtaining the consent or acquiescence of the mortgagor or possibly by foreclosing.
+      - Dixon J (at 588-89):
+        - The question whether an expenditure of this nature should be allowed to the mortgagee and added to the mortgage debt requires a choice between two courses, neither of which can be regarded as altogether satisfactory. For, on the one hand, to disallow the expenditure means that the mortgagor obtains at the expense of the mortgagee and without any merit on his part a very large increase in the value of the property he redeems; while, on the other hand, to allow it is to sanction a dealing by the mortgagee with the mortgaged premises never contemplated by the security, one which might be quite opposed to the mortgagor’s desires, and one imposing on him an obligation to find a very much larger sum than he borrowed before he can redeem his property.
+        - ...
+        - (99) Upon the facts in the present case there can, I think, be only one conclusion ... [t]he disproportionate amount of the expenditure and the alteration in the nature of the premises produced by demolishing the old buildings and erecting new semidetached cottages on the vacant portion of the land and a single cottage on the site of the former building combine to make it impossible to allow the mortgagee to add the cost to the mortgage moneys
+  - Putting this all together…
+    - In order to work out whether there has been an improper exercise of the mortgagee’s power of sale it is important to undertake a three-step process:
+      - 1. Does the mortgagee have a right to possession?
+        - Did the power of sale arise? Eg. Was there a default? (see summary on next slide)
+      - 2. Has there been a genuine sale?
+        - If not a genuine independent bargain to an unrelated party = improper exercise, we can stop here.
+        - If the sale appears genuine = move to step 3.
+      - 3. Was there compliance with CA s s111A?
+        - Did the mortgagee exercise reasonable care to obtain the best price?
+  - Right to Possession
+    - A mortgagee cannot exercise their power of sale unless the following has occurred:
+      - There is a default under the mortgage – either in the payment of the principal or interest or non observance of any terms of the mortgage;
+      - There has been service of a valid RPA s 57(2)(b) notice requiring the default to be remedied within one month;
+      - There has been noncompliance with that notice.
+    - Only when the above has occurred can the mortgagee sell the properties.
+  - Has there been a genuine sale?
+    - There must be a sale, which means that it must be genuine – Farrah v Farrah’s Limited;
+    - Sale to a related entity must be a truly independent bargain. A mortgagee cannot sell to him or herself – ANZ V Bangadilly Pastoral Co
+      - This step requires us to scrutinise the purchaser. It must be an arm’s length transaction.
+      - If the sale is not a genuine sale it can be set aside.
+  - ANZ Banking Group Ltd v Bangadilly Pastoral Co Pty Ltd (1978) 139 CLR 195
+    - Facts:
+      - Talga sold a property called Bangadilly to Hall Investments. Hall Investments was controlled by Mr and Mrs Hall. Bangadilly was subject to two mortgages:
+        - A first mortgage to Glenthorne Pty Ltd
+        - A second mortgage to ANZ.
+      - Talga entered into financial difficulties and was unable to complete the sale to Hall Investments. Mr and Mrs Hall arranged for another of their companies (Halco Products) to take an assignment of the first mortgage, and then purported to exercise the power of sale to sell the property to a third company owned by them (Bangadilly Pastoral).
+    - Issue: Had there been an improper exercise of the power of sale?
+      - The same persons fixed the reserve at the auction and the maximum price that Bangadilly would pay, and was substantially below the maximum price.
+      - There was no genuine sale at arm’s length.
+      - It was sold at a loss of $15,000 to the mortgagee (Halco) who had only just acquired their mortgage.
+      - There was no local advertising of the sale
+      - The second mortgagee was not informed that the auction was taking place.
+      - The auction took place on 23 December
+    - Held: the power of sale had been improperly exercised.
+    - Per Aickin J (at 227):
+      - One of the critical questions here is whether there ever was an independent bargain. The deciding minds were those of Mr. and Mrs. Hall and of no one else. They were the only directors of the mortgagee (Halco Products); they were the only directors of the purchaser Bangadilly Pastoral Co. They fixed the reserve; they, with their agent Pritchard, were the only bidders, and they fixed the maximum price which the purchaser was prepared to pay. As controllers of the vendor, they knew that a prospective purchaser was prepared to pay $303,000, and as controllers of the purchaser they knew the reserve. In such a situation it seems to me that a purchase at or close to the reserve cannot be an independent bargain.
+      - ... If it were a private sale it could not be said to be an independent bargain and in my opinion it could not then stand. The critical question is whether it makes any difference that the sale was by auction, and an auction in which there was in truth only one bidder, though that fact was not known to the auctioneer until after the conclusion of the bidding ... but on principle I can see no reason why in such circumstances a sale by auction is in any different position from a private sale. In the circumstances the evidence was such that it could not support a finding that there was an independent bargain
+  - Compliance with CA s 111A
+    - If there has been a genuine sale, then the mortgagee has a number of obligations.
+    - Section 111A of the Conveyancing Act sets out the required standard which requires reasonable steps be taken to obtain a proper price.
+    - A mortgagee must take reasonable care to ensure that the land is sold for
+      - Not sold for less that its market value; or
+      - If it does not have ascertainable market value, for the best price that can reasonably be obtained.
+  - Conduct of the Power of Sale
+    - Onus: The onus is on the mortgagor to establish that there has been a breach of duty.
+    - If there is a breach: the mortgagor is entitled to damages under CA s 111(4). The measure of loss that the mortgagor would be able to obtain, will be the difference between the price actually obtained and the price that would have been obtained if the breach had not occurred
+  - Injunctions?
+    - Can the Mortgagor get an injunction to stop the sale if the power is being exercised improperly?
+    - This depends on the stage of the transaction: per Forsyth v Blundell
+      - If exchange of contract, but no settlement and mortgagor demonstrates impropriety in exercise of power of sale, then court will grant injunction.
+      - If contract has been completed: an injunction will be available and the sale will be set aside if at any time up until completion the purchaser has received notice of the mortgagee’s impropriety in exercising the power of sale.
+      - If contract has been completed and the purchaser has no notice of the mortgagee’s impropriety then the bona fide purchaser defence applies (s 43A(1)). No injunction available
+  - Forsyth v Blundell (1973) 129 CLR 177
+    - Facts:
+      - Blundell (the mortgagor) owned property in Canberra, which was mortgaged to Associated Securities Ltd (the mortgagee). Blundell defaulted under the mortgage, and the mortgagee arranged for an auction to be held with a reserve of $120,000 (being the amount of the mortgage debt).
+      - Before the auction date arrived XL Petroleum Pty Ltd expressed to the mortgagee that it was interested in paying out their debt or bidding up to $150,000 at the auction. The mortgagee then sold the property privately to Walter Forsyth, an agent for Shell Oil for $120,000.
+    - Issue: 
+      - Had the power of sale been exercised appropriately?
+    - Held: 
+      - Per Walsh and Mason JJ; Menzies J dissenting:
+      - The mortgagee had acted with calculated indifference to the interests of the mortgagor and, accordingly, it had not exercised its power of sale in good faith
+    - Per Walsh J (493-494): 
+      - The breach of duty which has been found to have been committed by A.S.L. did not consist merely of a careless failure to carry out the sale in a manner which reasonable care required. It appears that in proceeding with the sale to Shell without referring to Blundell or Sykes, A.S.L. acted in a way which would produce enough money to satisfy its own interests, and it was those interests alone that were really considered. While A.S.L. as mortgagee was entitled to have regard primarily to its own interests, it was not entitled, if those interests were not at risk, to act in a manner which sacrificed the interests of the mortgagor. What the mortgagee did in this case was done deliberately and not through carelessness.
+    - Per Walsh J (495): Were the plaintiffs entitled to an injunction?
+      - There is one other piece of evidence in the documents which raises a question whether, to the knowledge of Shell's officers, a disclosure was made by A.S.L. which ought to have been regarded as an impropriety on its part. A message sent on 11th March 1970 from the Sydney to the Melbourne office of Shell mentioned that A.S.L. had said that the reserve at auction would be $120,000 and if that was not reached the property would be retained and would possibly be leased for a short term.... But in the circumstances I am of opinion that this circumstance does not require a finding that Shell was affected by knowledge that A.S.L. was in breach of its duty.
+    - Per Walsh J (495-97):
+      - If a mortgagee has acted in breach of his duty, it may become necessary to decide whether the available relief is limited to making him liable to make good to the mortgagor such loss as has been caused by that breach of duty or includes the obtaining of an order to set aside a conveyance or transfer by ·which a sale had been carried into effect or, in cases in which the contract of sale has not been completed, an injunction to restrain the mortgagee from completing it...This is not a case in which the only relevant finding against A.S.L. was a finding of negligence. In effect, there was also a finding that in making the contract there was a reckless disregard of the interests of the mortgagor. I am of opinion that in such circumstances the completion of the contract may be restrained.
+      - ...
+      - But the critical question is whether the purchaser under the contract acquires a right which entitles him to have the contract completed and therefore precludes the grant of any injunction to restrain its completion. In my opinion, if the mortgagee does not exercise the power of sale "in good faith" (in the sense explained above) and the purchaser has knowledge of the facts which show the lack of good faith, the purchaser cannot obtain a right superior to the right of the mortgagor. .... But if the person who agrees to purchase has no notice of any impropriety at the date of contract and continues to have no notice at the time when it is completed, he will obtain a title which cannot be challenged by the mortgagor.”
+    - Per Mason J (508-10)
+      - A.S.L.'s failure to follow up XL’s expressed interest in the property was in my view a serious departure from accepted standards in seeking to obtain the best price then available. Knowing that there were two interested potential purchasers, with no reason to think that either was not genuine, A.S.L. should have brought them into competition so as to obtain the highest price which either would offer. Yet it made no attempt to bring Shell and XL into competition. For no justifiable reason A.S.L. decided to disregard XL's announced interest as a potential buyer of the property. Its action in so doing in my view constituted a failure to take reasonable precautions to obtain a proper price...Its failure to inform XL and Blundell, its determination to sell privately to Shell for $120,000 and not proceed to auction all indicate that its sole interest was to obtain payment of its debt, interest and expenses.
+    - Per Menzies J (dissenting) (at 482):
+      - Having regard to the current valuation of the property at less than $100.000. and the failure over a long period of endeavours to realize the property. 1 do not consider that A.S.L . was as a matter of good faith bound to jeopardise its chance of selling for $120,000 merely because of the limited interest evinced in the property by XL.”
+- Priorities and Tacking
+  - Priorities and Tacking
+    - Priorities between competing mortgagees are resolved along the same lines as priorities between competing interests generally.
+    - In the context of Torrens, priority will be determined in accordance with the order of registration. However, under RPA s 56 parties can agree to alter the order of priorities.
+    - Some mortgages will contain a provision that allows the mortgagee to advance further funds and to ‘tack’ those funds onto an existing mortgage.
+      - The purpose of these provisions is for the lender to maintain their priority for the full sum, rather than having different ranking security interests.
+      - Whether the lender/mortgagee is entitled to tack a further advance onto an existing mortgage will depend upon whether there are any additional mortgages over the property and whether the first-ranking mortgagee has notice of those mortgages at the time that the further advance is made
+  - Tacking
+    - OS:
+      - The legal mortgagee is entitled to tack on to their mortgage so long as they have no notice of later mortgagees (Hopkinson v Rolt)
+    - Torrens:
+      - The rule in Hopkinson v Rolt applies equally to Torrens Title mortgages.
+      - Need to Consider:
+        - actual or constructive notice? The effect of a caveat? (Central Registry of Australia v Donemore)
+        - The position of building mortgages (Matzner v Clyde)
+  - Central Mortgage Registry of Australia Ltd v Donemore Pty Ltd [1984] 2 NSWLR 128
+    - Facts:
+      - Warden was the registered proprietor, who granted two mortgages.
+      - A first mortgage to Central Mortgage for $56,000 on 5 February 1980, which also covered further advances;
+      - A second mortgage to Donemore for $22,000 on 3 April 1981- protected by a caveat, but unregistered – Donemore was aware of the mortgage to Central Mortgage but did not obtain their consent or notify them that they would be taking a mortgage over the property.
+      - Central Mortgage made a further advance of $128,000 on 23 December 1981
+    - Issues:
+      - Was Central Mortgage prohibited from tacking their further advance?
+      - Did the caveat put them on constructive notice?
+      - Is constructive notice sufficient to prevent them from tacking their further advance?
+    - Held: Kearney J: They were permitted to tack their further advance.
+      - Actual not constructive notice (133):
+        - In the absence of notice (i.e. notice which gives him real and actual knowledge, and so affects his conscience), the mortgagee is entitled to assume and act on the assumption that the state of the title has not changed... I conclude that in this instance, there being no notice in fact communicated to the plaintiff, the principle of Hopkinson v Rolt does not operate to preclude the plaintiff from the priority claimed by it in respect of the balance of monies remaining after discharge of the first mortgage and expenses of sale.
+    - Actual not constructive notice (133-135):
+      - There was, accordingly, in my view, no occasion for the plaintiff to be called upon to search the title of the mortgagor, more particularly when the plaintiff had no notice of any circumstances suggesting any impediment to the further advance being immediately and automatically secured under the plaintiff's first mortgage. In the absence of any such obligation on the plaintiff, it would be a perversion of the rule as to constructive notice to fix the plaintiff, in the circumstances of this case, with constructive notice of something which all the circumstances known to it indicated had not occurred.
+  - Matzner v Clyde Securities Ltd [1975] 2 NSWLR 293
+    - Facts
+      - Tooronga Investments (the mortgagor) was building three blocks of home units. It granted several mortgages:
+        - First, to Clyde Securities, for $273,600 (on 13 April). Clyde was obligated to pay additional advances as the building proceeded until the full amount was given or such lesser amount as was required to complete the buildings was paid.
+        - Second, to Matzner, for $10,000 – was aware of the first mortgage. This mortgage was consented to by Clyde. At this point, Clyde had advanced $249,000.
+        - Third, to another mortgagee, for $30,000 - was aware of the first mortgage. This mortgage was consented to by Clyde. At this point, Clyde had advanced $252,000.
+      - The mortgagor encountered financial difficulties and defaulted, at which point Clyde had advanced $258,000. Clyde then spent a further $76,000 to complete the buildings.
+      - The properties were sold and there was a dispute as to the order of priority of the proceeds of sale
+    - Held per Holland J: Clyde was entitled to priority for the further advances made under its mortgage. (at 299):
+      - think that the rule (in Hopkinson v Rolt) must be taken to rest primarily upon considerations of justice as between the competing mortgagees. In all of the House of Lords cases to which I have referred, the making of further advances was optional. In none of them did the first mortgage bind the mortgagee to make or the mortgagor to receive further advances.
+    - (at 302-303):
+      - In the present case the advances are intended and, indeed, are expressly destined by the mortgage to be applied entirely in increasing the value of the security.... advances made under those clauses after notice of the subsequent mortgages were not designed or liable to diminish the value of the security given to the subsequent mortgagees. On the contrary, while the buildings are unfinished the security is incomplete. Completion of the buildings puts the mortgaged property into a saleable condition and serves the interests of all parties
+## Week 11: Easements
+
+- Types of Easements
+  - What is an easement?
+    - a right annexed to land to use the land of another in a particular manner (or, less commonly, to prevent another using her or his land in a particular manner)
+    - Incorporeal hereditament – rights over land rather than rights to land. Intangible. Inheritable
+    - Non-exclusive right
+  - A common easement: right of way
+    - Terminology:
+      - Dominant tenement
+      - Servient tenement
+      - Appurtenant
+  - 
+  - Positive and negative easements
+    - positive easements give rights of entry upon another person’s land to enable something to be done on that land.
+    - a negative easement is a right that prevents a landowner from using his or her land in a particular way.
+  - Characteristics of an easement
+    - 1. dominant and servient tenement
+    - 2. easement must accommodate the dominant tenement
+    - 3. the dominant and servient tenement must not be held and occupied by the same person
+    - 4. the right must be capable of forming the subject matter of a grant
+    - Key cases: Re Ellenborough Park; Clos Farming
+  - 1. A dominant and servient tenement
+    - There must be at least two lots of land – a DT and a ST.
+    - There can also be one DT and multiple STs or multiple DTs and one ST
+    - This means you that at common law you cannot have an easement in gross
+    - Some easements in gross are possible for the Crown, local councils or public utility providers: 88A(1A) CA
+  - 2. Easement must accommodate the DT
+    - It must make the dominant land a better and more convenient property
+    - does the right claimed as an easement have a connection with the land in the sense of being reasonably necessary for its better enjoyment as a parcel of land
+  - 3. The DT and ST must not be owned by the same person
+    - Or occupied
+    - If the easement was validly created originally it may be extinguished where the owner of the dominant and servient tenement become the same.
+    - But RPA s 47(7) - if it's recorded in the register it is not extinguished solely because the two lots come into common ownership
+  - 4. Must be capable of forming the subject matter of a grant
+    - Must not be too wide or vague. Must be able to define the right
+    - It is also necessary to assess the degree to which the rights conferred interfere with the servient owners' exclusive possession of the site
+  - Re Ellenborough Park
+    - In 1855 a large area of land was subdivided into lots. A central circular park was laid out and around it terrace houses. Part of a move to create higher spec higher density inner city dwellings for the newly affluent middle class. Some houses were contiguous, some not.
+    - The park was to be a ‘pleasure ground’ and each purchaser of a surrounding lot was give the right to use the park, subject to paying a fee for its maintenance.
+    - During WWII the park was requisitioned. The war office later was to pay compensation for its use to those with an interest. Did this extend to the non-contiguous properties.
+    - Which raised the question what was the nature of the interest they had? Was it an easement?
+  - And also the full enjoyment at all times hereafter in common with the other persons to whom such easements may be granted of the pleasure ground set out and made in front of the said plot of land-in the centre of the square called Ellenborough Park which said pleasure ground is divided by the said Walliscote Road but subject to the payment of a fair and just proportion of the costs charges and expenses of keeping in good order and condition the said pleasure ground.
+  - Whether it was an easement depended on criteria 2 and 4
+    - Did it accommodate the dominant tenement? Did it make it a better and more convenient property? Was there a natural connection with the land?
+    - Was it capable of forming the subject matter of a grant? Was the right too wide or too vague?
+  - Clos Farming
+    - Development in regional NSW
+    - 86 lots. The developer sold 80 of them and retained a number, including lot 86
+    - Together they made up a vineyard
+    - Each of lots 1-80 had a Part A (residential component) and a Part B (farming component)
+    - Lot 86 had a machinery shed, a chemical shed and a brick farm office block
+    - Each lot was sold subject to several restrictions.
+    - CA s 88B instrument
+  - Restriction 14: ‘Easement for vineyard’
+    - Free right for every person in whose favour this easement is created and every person authorised by him and either with or without vehicles, farming implements and machinery, to enter, go, pass, re-pass, turn around and remain upon that part of the lot burden marked "B" on the plan for the purpose of carrying vineyard establishment works, the planting and re-planting of grapevines and crops, the planting and harvesting of crops, spraying, slashing, vineyard and crop maintenance and the harvesting of grapes and crops together with the right from time to time to sell the produce of such harvest and to deduct therefrom and retain the costs of farm maintenance, harvesting, packaging, freight, agents commission, marketing and reasonable administration costs associated with such harvesting and the sale of such harvest.
+  - Was it an easement?
+    - Or was it something else? Was it a proprietary interest at all?
+    - This turned on restriction 14.
+    - Santow JA (NSWCA) held that while there is no reason that a novel arrangement such as this could not be an easement, it was not an easement as it failed the 2nd and 4th criteria in Re Ellenborough Park.
+  - Degree of interference
+    - An easement cannot amount to ownership or possession of the servient land. But the ambit of this is
+    - unclear.
+    - Reasonable use – degree or proportionality. Assessment of how much of the land is subject to the
+    - easement and for what periods of time??
+    - Key cases: Clos Farming; Batchelor v Marlow; JEA Holdings.
+  - JEA Holdings
+    - JEA was the RP of lot 4 which comprised 198 car parks and a telecommunications tower.
+    - Awar owned lot 5. It was adjacent to lot 4. There was a hotel on this lot.
+    - Awar claimed to have an easement over JEA’s land giving it right to use the 198 car parks for the benefit of the hotel.
+    - Proportionality test/reasonable use
+    - Owner of the ST does not need to have reasonable use of the ST in its entirety. This is a relevant consideration but it is also relevant to consider the extent of the interference with the rights of ownership on the part of the ST actually affected.
+- Creating Easements
+  - Creation
+    - Express grant / express reservation
+    - Implied grant or reservation
+    - Prescription or long user
+    - Approved plan of subdivision under s 88B CA
+    - Section 88K CA
+  - Express grant or reservation: at law
+    - Torrens: Registration of a dealing in the approved form: RPA s 46
+    - Where created by an instrument coming into effect on after 1 Jan 1931 must comply with s CA 88(1).
+    - Under RPA s 47(1) the Registrar-General shall record particulars of the dealing in the folio for both dominant and servient tenements
+  - Express grant: in equity
+    - CA s 23C + consideration or part performance
+    - CA 54A + consideration or part performance
+  - Implied Easements
+    - Rule in Wheeldon v Burrows
+    - By prescription
+    - Question: How do these relate to s 42 RPA?
+  - Rule in Wheeldon v Burrows
+    - Four things are required:
+      - 1. A severance or grant
+      - 2. At the time of severance the exercise of the quasi-easement is continuous and apparent
+      - 3. The easement is necessary for the reasonable enjoyment of the land benefitted
+      - 4. At the time of severance the quasi-easement has been used by the grantor for the benefit of the land
+  - Example 1
+    - Xavier owns a parcel of land. He has a house on the back and crosses the front of the lot to get to the road. He subdivides the land into two. He retains lot 2 and sells lot 1 to Yanni. They are both registered as proprietors of the newly created lots 1 and 2.
+    - If the 4 criteria in Wheeldon v Burrows are fulfilled then the common law will imply an easement in favour of Yanni over the land retained by Xavier.
+    - This is an unregistered legal interest. Yanni can enforce against Xavier in personam. The grantor will not be permitted to derogate from their grant. This is the ratio of Wheeldon v Burrows generally. And also underpins the in personam exception being available. Effectively Xavier is bound by the consequences of his own actions.
+    - 
+  - Example 2
+    - Xavier owns a parcel of land. He has a house on the back and crosses the front of the lot to get to the road. He subdivides the land into two. He retains lot 1 and sells lot 2 to Yanni. They are both registered as proprietors of the newly created lots 1 and 2.
+    - Here Wheeldon v Burrows will not imply an easement in favour of Xavier. If he wants to continue to use the easement he must expressly reserve an easement at the time of transfer of lot 2 to Yanni.
+    - So in this case they would need to create a written (and hence registered) easement as part of the transfer.
+  - Example 3
+    - Xavier owns a parcel of land. He has a house on the back and crosses the front of the lot to get to the road. He subdivides the land into two. He sells lot 1 to Abdul and sells lot 2 to Mariam. They are both registered as proprietors of the newly created lots 1 and 2. 
+    - If the 4 criteria in Wheeldon v Burrows are fulfilled then the common law will imply an easement in favour of Abdul over the land owned by Mariam.
+    - However, when Mariam registered the transfer a question of indefeasibility arises. Is Mariam bound by the unregistered easement? To allow this to be enforced otherwise would be to say that (in effect) a person who had checked the register and found nothing would be bound by an easement which they did not find.
+  - Prescription
+    - Long user
+    - Continuous, open (not secret or hidden) use
+    - Without permission
+      - for at least 20 years
+  - CA s 88B
+    - The registration of a plan of subdivision will create all the easements referred to in it and vest them in the land benefitted by the easement.
+  - CA s 88K
+    - Supreme Court can grant an easement over land if it is reasonably necessary for the effective use or development of other land.
+    - Used in two circumstances:
+      - 1. Where a private easement is needed and owner of the ST will not agree to an easement
+      - 2. By developers
+  - Easements and indefeasibility
+    - RPA s 42(1)(a1)
+    - Easements can be omitted or misdescribed in two ways:
+      - when old system title is converted to Torrens and an easement ‘subsisting immediately before’ is not recorded
+      - where an easement is validly created over land already Torrens but is not recorded on the folio.
+  - Easements and indefeasibility
+    - What is an “omitted easement”?
+      - Castle Constructions v Sahab Holdings; Jea Holdings.
+    - An omitted easement is one which has been ‘left off’. The supposition is that there is an existing easement which has been ‘left off’.
+  - The particular problem of implied easements and indefeasibility
+    - When can implied easements fit within the exception to indefeasibility in s 42(1)(a1)?
+  - Implied easements: Limb 1
+    - When can implied easements fit within the exception to indefeasibility in s 42(1)(a1)?
+    - During conversion to Torrens:
+      - Australian Hi-Fi v Gehl – this can include prescriptive, implied and express easements
+  - Implied easements: limb 2
+    - ‘Validly created’
+    - How do you ‘validly create’ an easement under Torrens?
+      - Must be in writing and registered.
+      - So, this cannot cover implied easements.
+  - Exceptions: in personam
+    - An easement can be protected if it comes within the personal equities/ in personam exception
+    - Eg a Bahr v Nicholay type scenario?
+    - This can protect express easements
+    - Can it protect other easements, such as implied (ie Wheeldon v Burrows type) easements or prescriptive easements?:
+      - McGrath v Campbell (Wheeldon v Burrows easement)
+      - Williams v State Transit Authority (prescriptive easements);
+- Scope of Easements + Profits à Prendre
+  - Construing easements
+    - Dockray v Chick
+      - ... and the registered proprietor or proprietors for the time being of [the dominant tenement] or any part thereof for his or their tenants servants agents workmen and visitors full and free right and liberty to go pass and repass at all times hereafter and for all purposes and either with or without horses or other animals carts or other carriages motor cars motor lorries and other vehicles into and out of and from such [dominant tenement] or any part thereof through over and along the strip of land thirty-eight links wide extending along the Eastern boundary of" [the land subject to the easement].
+    - Westfield v Perpetual Trustee
+      - Full and free right of carriageway for the grantee its successors in title and registered proprietors for the time being of an estate or interest in possession of the land herein indicated as the lots benefited or any part thereof with which the rights shall be capable of enjoyment and every person authorised by it, to go, pass and repass at all times and for all purposes with vehicles to and from the said lots benefited or any such part thereof across the lots burdened.
+  - The Westfield Easement
+    - 
+    - Westfield v Perpetual Trustees
+      - begin with the terms of the easement as they appear in the instrument.
+      - It is an error to look for the intention or contemplation of the parties to the grant of easement outside what is manifested by the terms of the grant.
+      - extrinsic evidence will only be permitted to the extent that it reinforces the registered agreement.
+      - to go, pass and repass at all times and for all purposes ... to and from the said lots benefited or any such part thereof across the lots burdened.
+  - What about bare easements?
+    - There is some very passing suggestion in Westfield that we can look at more. But it is not clear. Westfield has been applied in a number of NSW cases.
+    - In Sertari v Nirimba Developments the NSWCA took Westfield to mean that some attention could be paid to the physical characteristics of the DT and ST but rejected other material such as town planners’ reports etc.
+    - In Neighbourhood Association DP No. 285220 White J noted that the HCA did not actually discuss bare easements. He thought extrinsic evidence should be applied but was bound not to apply it by Sertari Developments
+  - Extent of user
+    - To be determined by the instrument in the first instance.
+    - So, for example, there is no obligation on the part of the grantor to construct or to maintain or repair an easement in the absence of an express provision: Newcomen v Coulson
+    - In which case there is an implied right on the part of the grantee to enter the ST to establish; repair and/or maintain: Clifford v Dove
+  - Change of User
+    - Construe the actual words of the grant so ‘go, pass and repass at all times for all purposes’ will be given a very broad construction - so change in use of the DT will not prevent a continued use of the easement as a right of way: White v Grand Hotel
+    - If the wording is broad, then a substantial increase in use is possible:
+      - to accept that the user under a registered easement may change with the nature of the benefited land, so long as the terms of the grant are sufficiently broad, does not violence to the principles of the Torrens system: Westfield v Perpetual Trustees
+  - Remedies
+    - Abatement (self help)
+    - Use an alternative route - go around it: Selby v Nettlefold; Treweekes
+    - Action for nuisance (why not trespass?) – requires substantial interference – damages / injunction
+  - Extinguishment
+    - Express release – registered transfer
+    -  Abandonment – common law and declaratory orders can be sought under CA s 89(3)
+    - CA s 89 – obsolescence; no substantial injury
+  - Profits à prendre
+    - Right to go onto someone else’s land and take the natural products of the land
+      - Key distinction with easements: always in gross
+      - Can be registered and receive indefeasibility under s 42(1)
+      - Exception to indefeasibility s 42(1)(b)
+      - Basically same law as for easements
+  - Clos Farms revisited
+    - Did restriction 14 create a profit a prendre?
+      - the restriction is far more extensive than allowing or requiring the Appellant to enter the land and take the natural products of the land from the property.
+      - they confer not just limited rights of entry to take away natural property, but include rights to enter and plant and tend the vines and the right to recover payment for the costs associated with such works and the sale of any produce.
+      - The rights considered as a whole are far greater than any rights contemplated in the traditional concept of a profit à prendre
+- Clos Farming Estates Pty Ltd v Easton and Anor [2002] NSWCA 389
+  - Court:
+    - Supreme Court of New South Wales – Court of Appeal
+  - Parties:
+    - Appellant: Clos Farming Estates Pty Ltd
+    - Respondents: Graham Rush Easton and Stephen Arthur Hibbert
+  - Procedural History:
+    - Appeal from the NSW Supreme Court (Bryson J) dismissing the appellant’s claim that the “easement for vineyard” was a valid easement or otherwise a caveatable interest in land.
+  - Facts:
+    - The appellant developed 80 residential/farming lots and retained Lot 86. Each lot included a burdened farming portion (Part B) over which a registered “easement for vineyard” granted rights to Clos Farming to enter, cultivate, harvest, and sell grapes. The appellant sought to protect its rights by lodging caveats. The respondents, owners of Lot 27, applied for removal of the caveat, arguing no valid easement or caveatable interest existed.
+  - Legal Issue:
+    - Whether the “easement for vineyard” created a valid easement or other proprietary interest capable of supporting a caveat.
+  - Decision:
+    - Appeal dismissed. The “easement for vineyard” was held to be invalid as an easement and not a caveatable interest.
+  - Ratio Decidendi:
+    - A valid easement must accommodate the dominant tenement (Re Ellenborough Park [1956] Ch 131); here, Lot 86 received no relevant benefit—it merely served as a convenient management hub.
+    - The rights conferred were so extensive that they effectively deprived the servient owners of proprietorship, violating the fourth Ellenborough criterion (rights must not confer joint occupation or exclusive possession).
+    - The arrangement was not a profit à prendre, as it involved cultivation and management rather than taking products naturally from the land (Permanent Trustee Australia Ltd v Shand (1992) 27 NSWLR 426).
+    - The right was not a licence coupled with a grant, nor a sui generis interest recognised in land law. Mere commercial intention cannot create a new proprietary category.
+    - Novelty alone is insufficient; legal substance and compliance with easement principles are required.
+  - Significance:
+    - This case reaffirms the limits of easements under Australian property law, especially the requirement that an easement must benefit land (not business) and not erode the servient owner's proprietary rights. It also confirms that intention or novelty cannot circumvent established land law categories under the Torrens system.
+- Registrar-General (NSW) v Jea Holdings (Aust) Pty Ltd [2015] NSWCA 74
+  - Procedural History:
+    - Appeal to the NSW Court of Appeal from Windeyer AJ in the Supreme Court of NSW, who had declared that Jea Holdings held its title to Lot 4 free of any easement or covenant under the 1963 memorandum of transfer (MT J493622). The Court of Appeal (Bathurst CJ, Beazley P, Basten JA) allowed the appeal.
+  - Original Dispute:
+    - Whether a parking easement contained in MT J493622 created a valid easement affecting Lot 4, despite never being recorded on its title, and whether it was “omitted” under s 42(1)(a1) Real Property Act 1900 (NSW) (RPA).
+  - Reason for Trial:
+    - To determine whether the Registrar-General could amend the title of Lot 4 to record an easement in favour of Lot 5 (owned by Awar Pty Ltd), or whether Jea Holdings (owner of Lot 4) held unencumbered title.
+  - Material Facts:
+    - In 1963, the Housing Commission transferred land to Green Valley Shopping Centre Pty Ltd via MT J493622, creating a covenant reserving Lot 4 for car parking benefitting Lot 5.
+    - The easement was recorded on the title of Lot 5 (dominant tenement) but not Lot 4 (servient tenement).
+    - Lot 4 was subsequently acquired by Jea Holdings in 2011; Awar acquired Lot 5 in 2001.
+    - In 2012, the Registrar-General notified Jea Holdings under s 12A RPA of its intention to record the easement on Lot 4’s title.
+    - Jea Holdings commenced proceedings to restrain this action.
+  - Issue Raised:
+    - 1. Was the covenant in MT J493622 capable of creating an easement?
+    - 2. Was the easement validly created under the Real Property Act 1900?
+    - 3. Did the omission of the easement from Lot 4’s title fall within s 42(1)(a1) RPA as an “omitted easement”?
+  - Law(s)/Statute(s) in Contention:
+    - Real Property Act 1900 (NSW), particularly ss 12, 12A, 32, 35, 37, 38, 41, 42(1)(a1), 46, 47
+    - Conveyancing Act 1919 (NSW), s 88 (argued but found irrelevant to creation under RPA)
+  - Precedents:
+    - Re Ellenborough Park [1956] Ch 131 — four elements of a valid easement
+    - Clos Farming Estates Pty Ltd v Easton [2002] NSWCA 389 — extent of proprietary interference
+    - Copeland v Greenhalf [1952] Ch 488 — excessive user precluding easement
+    - Moncrieff v Jamieson [2007] UKHL 42 — ouster principle in parking easements
+    - Dobbie v Davidson (1991) 23 NSWLR 625 — “omission” means simply “not there”
+    - Castle Constructions Pty Ltd v Sahab Holdings Pty Ltd (2013) 247 CLR 149 — omitted easement exception
+  - Tests:
+    - A valid easement must satisfy the four elements from Re Ellenborough Park:
+      - 1. Dominant and servient tenements
+      - 2. Easement accommodates dominant tenement
+      - 3. Tenements are in different ownership
+      - 4. Easement is capable of forming the subject matter of a grant (tested through degree of use/interference)
+  - Words and Phrases Considered:
+    - “Omission” — construed in Dobbie and affirmed in Castle Constructions to mean a right not entered on the title, irrespective of fault
+    - “Validly created” — requires registration in accordance with RPA at the time of dealing
+  - Arguments by Party:
+    - Jea Holdings: Easement was invalid because not recorded on Lot 4’s title; extensive user amounted to joint occupation; non-compliance with s 46 RPA formalities; not “validly created.”
+    - Registrar-General & Awar Pty Ltd: Easement was created upon registration on Lot 5’s title; omission from Lot 4 was rectifiable under s 42(1)(a1); s 35 registration satisfied by entry on dominant tenement.
+  - Judicial Opinions:
+    - Bathurst CJ & Beazley P (majority): Easement was validly created under s 35 RPA 1900 as registration occurred via memorial on Lot 5’s title; recording on servient tenement not a precondition for creation. The use of Lot 4 did not amount to an ouster.
+    - Windeyer AJ (at first instance): Easement not valid as it was never registered on the servient tenement; thus could not be “omitted.”
+  - Legal Reasoning:
+    - A right to park may form the subject matter of an easement if it does not exclude the servient owner from all use (Moncrieff; Clos Farming).
+    - Despite substantial use of Lot 4 by the dominant owner, Jea Holdings retained meaningful use: airspace, subterranean development, and shared parking.
+    - Under the 1964 RPA, valid registration only required notation on the dominant tenement (per s 35 and s 47 as interpreted).
+    - Castle Constructions confirmed that an easement may be validly created even if omitted from servient title.
+    - The easement was “validly created” at the time and simply “not recorded” on Lot 4’s title — satisfying the condition for rectification under s 42(1)(a1).
+  - Ratio Decidendi:
+    - An easement under the Real Property Act 1900 is validly created upon registration of a memorial on the dominant tenement's title (s 35), and failure to record it on the servient tenement’s title constitutes an “omission” within s 42(1)(a1), enabling correction by the Registrar-General.
+  - Result:
+    - Appeal allowed. The Court:
+      - Declared the easement over Lot 4 validly created by MT J493622
+      - Ordered the Registrar-General to record the easement on Lot 4’s title
+      - Awarded costs against Jea Holdings
+  - Relevance to Modern Law:
+    - This case affirms the continuing relevance of Re Ellenborough Park and Clos Farming to parking easements, clarifies the meaning of “validly created” under s 42(1)(a1), and confirms that under the pre-1995 RPA regime, registration on the dominant tenement suffices for easement creation. It also demonstrates the operation of the omission exception to indefeasibility under Torrens title.
+- Stolyar v Towers [2018] NSWCA 6
+  - Court:
+    - Supreme Court of New South Wales — Court of Appeal
+  - Parties:
+    - Appellants: Faina Stolyar and Ian Stolyar
+    - Respondents: Barrie and Celia Towers
+  - Procedural History:
+    - Appeal from decision of the Supreme Court (Darke J) in Towers v Stolyar [2017] NSWSC 526, where the easement was declared valid and enforceable.
+  - Facts:
+    - An easement granted in 1990 over the Stolyars’ land (Lot A, 2C Dumaresq Road, Rose Bay) allowed the Towers (Lot B) to park and garage vehicles. A garage had been erected on the easement strip and used by the Towers for over two decades. After purchasing the property in 2015, the Stolyars objected to the continued use of the easement, arguing that it deprived them of reasonable use of their land, particularly the ability to turn vehicles around to access their double garage.
+  - Legal Issue:
+    - Whether the easement granting rights to park and garage vehicles amounted to a degree of interference so substantial as to render the easement invalid under the fourth element of a valid easement (Re Ellenborough Park [1956] Ch 131).
+  - Decision:
+    - Appeal dismissed. Easement upheld as valid and enforceable.
+  - Ratio Decidendi:
+    - An easement granting rights to park and garage vehicles does not amount to joint occupation or deprive the servient owner of reasonable use unless it confers exclusive possession or substantially precludes use of the servient tenement (Clos Farming Estates Pty Ltd v Easton [2002] NSWCA 389; Registrar-General (NSW) v JEA Holdings (Aust) Pty Ltd (2015) 88 NSWLR 321). Here, although interference existed, the servient owner retained sufficient rights, including building over and using the land when not inconsistent with the easement’s terms.
+  - Significance:
+    - Confirms that rights to park or garage vehicles may constitute a valid easement in NSW if they do not confer exclusive possession or wholly exclude the servient owner. Reinforces the modern interpretation from Moncrieff v Jamieson [2007] UKHL 42 and its acceptance in NSW law, reflecting a shift towards upholding functional easements even where significant interference with the servient tenement occurs.
+- Castle Constructions Pty Ltd v Sahab Holdings Pty Ltd [2013] HCA 11
+  - Court:
+    - High Court of Australia
+  - Parties:
+    - Appellant: Castle Constructions Pty Ltd
+    - Respondents: Sahab Holdings Pty Ltd & Registrar-General of NSW
+  - Procedural History:
+    - Registrar-General removed an easement from the register at Castle’s request (servient tenement holder), with no objection from the then dominant tenement owners.
+    - Sahab, who later purchased the dominant tenement, sought to have the easement restored.
+    - Trial judge dismissed Sahab's claim; NSW Court of Appeal overturned and ordered restoration.
+    - Castle successfully appealed to the High Court.
+  - Facts:
+    - In 1921, an easement of way was created over the Sailors Bay land (now owned by Castle) in favour of the Strathallen land (later owned by Sahab). In 2001, Castle applied to have the easement removed, claiming it had expired. The Registrar-General notified the then-dominant owners, who did not object. The easement was removed. In 2007, Sahab acquired the dominant land and later sought to restore the easement, arguing it had been wrongfully removed.
+  - Legal Issue:
+    - Was the removal of the easement by the Registrar-General an “omission” within the meaning of s 42(1)(a1) of the Real Property Act 1900 (NSW), such that the easement continued to bind the servient tenement (Castle’s land)?
+  - Decision:
+    - Appeal allowed. The High Court held that the deliberate removal of the easement from the Register was not an “omission” within the meaning of s 42(1)(a1).
+  - Ratio Decidendi:
+    - The Torrens system is a system of title by registration; title is conferred by the register, not merely evidenced by it.
+    - A deliberate removal of an easement from the register is not an “omission” but an intentional alteration under the Real Property Act 1900 (NSW).
+    - Section 42(1)(a1) only applies where an easement continues to exist but was inadvertently left off the register.
+    - Because Sahab purchased the dominant tenement after the easement had been removed, it acquired only what was on the Register – which did not include the easement.
+  - Significance:
+    - This case confirms that indefeasibility of title under the Torrens system prevails where an interest such as an easement is deliberately removed from the register, even if the removal was based on a questionable assumption. It narrowed the interpretation of “omission” in s 42(1)(a1), reinforcing the finality and certainty of registered title and limiting retrospective recovery of removed interests. Also clarified the bar on actions against the Registrar-General under s 12A(3).
+- Westfield Management Ltd v Perpetual Trustee Co Ltd [2007] HCA 45
+  - Court:
+    - High Court of Australia
+  - Parties:
+    - Appellant: Westfield Management Ltd
+    - Respondent: Perpetual Trustee Co Ltd
+  - Procedural History:
+    - Supreme Court of NSW granted declaratory relief to Westfield regarding use of an easement.
+    - NSW Court of Appeal overturned that decision, finding error in reliance on extrinsic evidence to interpret the easement.
+    - Westfield appealed to the High Court.
+    - High Court dismissed the appeal unanimously (5:0).
+  - Facts:
+    - Westfield owned the dominant tenement (Skygarden), a commercial building. Perpetual owned the servient tenement (Glasshouse), also commercial. An easement granted access “to and from” Skygarden “for all purposes” across Glasshouse. Westfield later acquired neighbouring lots and wanted to use the easement over Glasshouse not just to access Skygarden, but also to enable access to and from the additional lots through Skygarden. They sought a declaration that the easement permitted this extended use.
+  - Legal Issue:
+    - Whether an easement granting access “to and from” a dominant tenement “for all purposes” included a right to pass over the dominant tenement to reach other (non-benefitted) land.
+  - Decision:
+    - Appeal dismissed. The High Court held that the easement did not extend to rights of access for other, non-dominant land.
+  - Ratio Decidendi:
+    - The phrase “to and from the dominant tenement” indicates that the easement is confined to access to and from the dominant land only, and not through it to reach other properties.
+    - The phrase “for all purposes” refers only to the purposes for which access to the dominant tenement is required, not purposes related to remoter land.
+    - Extrinsic evidence of the parties’ intention or post-grant conduct is not admissible to construe a registered easement, due to indefeasibility of title under the Torrens system. A third party should be able to rely solely on the register.
+  - Significance:
+    - This case affirms the strict approach to interpreting easements under the Torrens system, reinforcing that registered instruments are construed by their text alone. The decision limits expansive readings of easements and protects third parties by precluding reliance on extrinsic materials. It is now clear that easements do not extend beyond their express terms, and any ambiguity will be resolved in favour of certainty and registered title.
+- Treweeke v 36 Wolseley Road Pty Ltd (1973) 1 ALR 104:
+  - Court:
+    - High Court of Australia
+  - Parties:
+    - Appellant: Mrs Treweeke (owner of servient tenement)
+    - Respondent: 36 Wolseley Road Pty Ltd (owner of dominant tenement)
+  - Procedural History:
+    - Appellant sought orders under s 89(1)(b) and s 89(3) of the Conveyancing Act 1919 (NSW) in the NSW Supreme Court to extinguish or declare unenforceable a right of way.
+    - Trial judge (Hope J) refused application.
+    - Appeal to the High Court dismissed (2:1 majority — McTiernan and Mason JJ; Walsh J dissenting).
+  - Facts:
+    - A registered easement (right of way) created in 1927 over Treweeke’s land gave access to the waterfront for the benefit of 36 Wolseley Road.
+    - The easement was never made trafficable; parts were impassable due to natural terrain and later obstructed by bamboo, fences, a retaining wall, and a swimming pool.
+    - The dominant owners had never fully used the right of way and had alternative access routes.
+    - Treweeke applied to have the easement declared unenforceable or extinguished on the ground of abandonment.
+  - Legal Issue:
+    - Whether non-use, combined with acquiescence to obstructions, amounted to an abandonment of the easement justifying extinguishment under s 89(1)(b) of the Conveyancing Act 1919 (NSW).
+  - Decision:
+    - Appeal dismissed (McTiernan and Mason JJ in majority). The easement was not abandoned and remained enforceable.
+  - Ratio Decidendi:
+    - Under Conveyancing Act 1919 (NSW) s 89(1)(b), the easement may be extinguished only if acts or omissions by the dominant owner demonstrate an intention to abandon.
+    - Mere non-use, even over a long period, is not sufficient to infer abandonment: Ward v Ward (1852) 7 Ex 838.
+    - Acquiescence in obstructions (e.g., fencing, vegetation, pool) may support an inference of abandonment, but only if intent to relinquish the easement can be clearly inferred from all the circumstances.
+    - Here, the respondent and predecessors did not act inconsistently with retaining the easement, and alternative access existed, explaining non-use.
+    - A registered easement under the Torrens system is not extinguished simply by non-use or obstructions unless an intention to abandon is clearly established.
+  - Significance:
+    - The case sets a high threshold for proving abandonment of a registered easement. The decision affirms that:
+      - An easement under the Torrens system continues to bind the land until formally extinguished;
+      - Non-use and passive conduct (e.g., failure to object to obstructions) do not necessarily show abandonment;
+      - The burden of proof lies with the applicant to show acts or omissions from which abandonment can be reasonably inferred; and
+      - Registered title prevails unless clear statutory conditions (such as those in s 89) are met.
+## Week 12: Freehold Covenants
+
+- Freehold Covenants
+  - What is a covenant?
+    - A covenant is an agreement which regulates the use of land in some way. These can be restrictive or positive
+    - A freehold covenant regulates the use of freehold land (and to be distinguished from a leasehold covenant)
+    - Restrictive Covenant: A restrictive covenant restricts the use of land in some way; It does not involve the covenantor in paying any money to comply with the covenant
+    - Positive Covenant: requires something to be done, places a positive obligation, often involves the payment of money
+  - Examples of restrictive covenants
+    - Size or placing of buildings or walls or similar;
+    - Building materials and/or colours
+    - Landscaping
+    - Not to use the land for certain purposes
+    - Ancillary structures: size of shed/where can you place the clothesline/ what kind of letterbox
+  - Example of a restrictive or negative covenant: Ferella v Otvosi 2005
+    - 1. That not more than one main building shall be erected upon the said land and that such building shall not be more than two storeys in height.
+    - 2. That no walls of any such building shall be of any material other than stone or brick or of a combination of stone and brick.
+    - 3. That no roof (other than a flat one) of any such building shall be of material other than slates or tiles.
+    - 4. That no building erected upon the subject land shall at any time hereafter be used for any purposes other than as one or two private dwelling units
+  - Examples of a positive covenant
+    - To maintain or upkeep a road
+    - to construct and maintain a stormwater drain
+  - Terminology
+    - This example is of two neighbouring lots. The owner of lot 1 wants to ensure that the owner of lot 2 cannot build a house of more than one story and thus block her view.
+    - 
+Lot 1
+
+Covenantee
+
+Benefit
+
+Can enforce
+the covenant
+
+Lot 2
+
+Covenantor
+
+Burden
+
+Obligation to fulfil
+the covenant not to
+build a house of
+more than 1 story
+
+  - Contract and proprietary interest
+    - 1. A covenant begins life as a contract between two parties. In the previous diagram owners of lots A and B
+    - 2. But what happens when the land (either lot) is sold? Can the covenant be binding on third parties?
+    - 3. When does it ‘run with the land’
+    - 4. And what about indefeasibility?
+  - Contexts
+    - 1) Housing developments - 88B developments
+    - 2) Private agreements between private parties and non-88B developments
+  - Housing Developments – 88B
+    - Developers like to control how the development looks and how the land is used, including after all the lot has been sold. They regulate the quality of the build so as to ensure that the value of the remaining lots in the development is maintained.
+    - In addition, local councils also may impose restrictions on development approval which are also intended to ensure that building is of a standard (and often of a style).
+  - 1. Housing estates and restrictive covenants
+    - A good example of a housing estate incorporating restrictive covenants is Newpark, Marsden Park
+    - If you look at the photos in the Newpark brochure you will note that many of the houses are virtually identical; they have the same look and feel and there are a limited number of designs.
+  - Newpark
+    - As with most housing estates, Newpark incorporates ‘design guidelines’. Have a look at the these.
+    - These design guidelines take the legal form of restrictive covenants. So in the Newpark example, if you
+    - purchase a lot you will have entered into a number restrictive covenants.
+  - Creating restrictive covenants: Housing Developments	
+    - The appropriate way to create restrictive covenants in a housing development is under s88B
+    - Conveyancing Act 1919
+    - This requires:
+      - 1) Compliance with the provisions of s 88B
+      - 2) Approved form 10
+      - 3) A deposited plan. This is an example. It is the plan for Newpark (known often as a plan of subdivision)
+    - Note: section 88B came into force in 1964.
+  - Contracts for sale
+    - Registration of the s88B instrument creates the restrictive covenants.
+    - Each contract for sale for each lot will include the appropriate restrictive covenant. As they are part of an
+    - 88B development, they are binding on all purchasers and anyone who buys from them.
+  - Enforcement of covenants in 88B instruments
+    - Who can enforce the covenant?
+    - It is likely that if you breach the covenant that a wide range of parties can enforce the covenant against you:
+      - 1) The developer;
+      - 2) Your neighbours;
+      - 3) The local council (if it is either given the right in the instrument or it imposed the covenant as part of development approval)
+    - In order to be enforceable the covenant must:
+      - 1) Be restrictive;
+      - 2) Be in the plan of subdivision (the deposited plan)
+      - 3) comply with s 88(1)
+    - S 88(1) CA
+      - 1. The land to which the benefit is appurtenant
+      - 2. the land which is subject to the burden of the easement or restriction
+      - 3. the persons (if any) having the right to release, vary, or modify the restriction
+      - 4. the persons (if any) whose consent to a release, variation, or modification of the easement or restriction is stipulated for
+  - Private agreements and non-88B developments
+    - Restrictive covenants can also be entered into between private parties.
+    - Non-88B developments.
+    - While these are slightly different contexts, they raise the same issues of enforcement against successors in title (subsequent purchasers)
+  - Creation
+    - In NSW the covenant can be incorporated into the transfer
+    - Or otherwise by deed – 23B and ask the RG to note it on the folio for the burdened land 47(1) RPA requires the RG to record it in the folio of the burdened land
+    - 46A RPA – covenants can be created even though the same person owns the benefitted and burdened lands.
+  - Is there compliance with s 88(1)?
+    - Section 88(1) is required when you wish to enforcement against successors in title (not the original covenantee). Therefore where the burden of a covenant is being enforced against a successor in title the covenant must comply with these requirements to be enforceable.
+    - And the transferees covenants with the transferors and their heirs and successors in title and assigns that the transferees their executors administrators and assigns shall not at any time cause to be erected on the subject land a building having more than one story.. The land to which the benefit of the restriction is appurtenant is the land in Certificate of Title volume 7667 folio 29. The land which is subject to the burden of the restriction is the land referred to in Memorandum of Transfer namely Certificate of Title volume 7667 folio 31
+  - Restrictive covenants and Torrens
+    - Restrictive covenants cannot be registered
+      - CA s 88(3)
+        - (a) Registrar has the power to record the restriction on the folio of the burdened land. S 47(1) RPA the Registrar must record the restriction
+        - (b) a recording in the Register kept under that Act shall not give the restriction any greater operation than it has under the dealing creating it
+        - (c) where recorded the restriction is an ‘interest’ for s 42 RPA
+    - Here is an example of a CT which has a covenant recorded on the folio
+    - Remember that in order to see the actual terms of the covenant you would need to undertake a further search.
+  - Enforceability
+    - Given that RCs cannot be registered, how can they be enforced against subsequent registered proprietors?
+      - As between the original covenantor and covenantee the covenant is enforceable as a matter of contract law.
+      - As between successors in title to the original parties it’s a bit more complicated.... Recording for s 42 RPA is not enough by itself.
+      - Running the burden – here’s the practical issue as a whiteboard simulation.
+  - Burden cannot run at law
+    - Known as the Rule in Austerberry’s Case
+    - At common law there is an inflexible rule that the burden cannot run at law. The original agreement is enforceable as a matter of contract law, but not beyond that. This is so even if the covenant expressly says that it binds successors in title.
+    - This is not changed by s 70A(1) of the CA.
+  - The burden can run in equity
+    - The burden of a negative or restrictive covenant can run in equity. There are four requirements:
+      - 1) It must be negative or restrictive. The burden of a positive covenant can never run
+      - 2) The successor in title to the covenantee must have notice of the covenant
+      - 3) The burden must have been intended to run
+      - 4) The covenant must benefit the covenantee’s land
+  - The purchaser must take with notice
+    - The purchaser (successor in title to the covenantor) must take with notice: Tulk v Moxhay
+    - This is the original case that first allowed a contractual agreement to run with the land
+    - It concerned Leicester Square in London
+  - Notice and s 88(3)
+    - For Tulk v Moxhay what is required is notice
+    - Section 88(3) can provide that notice – the restrictive covenant is recorded on the folio
+    - What if the restrictive covenant is not recorded on the folio? Is there other evidence?
+  - Intention
+    - Intention is not a matter of subjective intention
+    - Intention is objective and is found in the words of the covenant.
+    - Covenantor covenants for: ‘himself, his heirs and assigns and successors in title’ or similar.
+    - If it (objectively) is personal to the covenantor it will not run.
+    - The covenant must be intended to run with the land of the covenantor – s 70A(1)
+    - “A covenant relating to any land of a covenantor ... shall, unless a contrary intention is expressed, be deemed to be made by the covenantor on behalf of himself or herself and the covenantor’s successors in title ... and ... shall have effect as if such successors ... were expressed”.
+    - Applies to covenants created after 1 January 1931
+  - The covenant must benefit the land of the covenantee at the date of creation
+    - This has three subparts:
+      - a) The covenant must ‘touch and concern’ the land – Rogers v Hosegood
+      - b) A covenant cannot touch and concern the land if the land to be benefitted is so large that it cannot be benefitted as a matter of fact: Re Ballard’s Conveyance
+      - c) The covenant must benefit the land of the covenantee at the date of creation: Kerridge v Foley
+  - The covenant must touch and concern
+    - Rogers v Hosegood:
+      - The language of equity is ‘benefitted’ – touch and concern is common law language.
+      - However the idea is the same.
+      - Test: the covenant must either affect the land as regards mode of occupation or must in itself affect the value of the land
+      - In Rogers v Hosegood a covenant not to build more than one dwelling house on the covenantor’s land was held to touch and concern
+  - Does the covenant benefit as a matter of fact?
+    - Unless...the covenant expresses an intention to annex the covenant to ‘each and every part of the covenantee’s land’ (or some equivalent words) – Marquess of Zetland
+      - Land burdened 18 acres
+      - Land benefitted
+      - 1700 acres
+  - The Kerridge v Foley problem
+    - Rudi is the Developer
+    - Divided into lots in 1959
+Lot 1
+
+Miriam
+Benefit
+burden
+
+Bought from
+Rudi in 1965
+Lot 2
+
+Abdul
+Benefit
+burden
+
+Bought from
+Rudi in 1966
+Lot 3
+
+Suzy
+Benefit
+burden
+
+Bought from
+Rudi in 1970
+Lot 4
+Lot 5
+Lot 6
+  - Kerridge v Foley
+    - The covenant must benefit the land of the covenantee at the date of creation
+    - Here covenantee therefore must mean the original covenantee.
+    - So the original covenantee must have held the land benefitted – ie must have owned the land of the person trying to enforce the covenant - at the date the original covenantee entered into the covenant with the owner of the land burdened.
+  - Schemes of development
+    - If a covenant in a non-88B development is not enforceable (because it does not comply with Kerridge v Foley) it may still be enforceable as a scheme of development
+    - This is an equitable mechanism. Where a scheme of development exists the covenants are mutually enforceable regardless of the date of transfer of the individual lots. 
+    - Getting very rare now.
+    - Originally held in Re Pirie that these could not exist on Torrens land but later determined in Re Louis that they could.
+  - Schemes of development: Elliston v Reacher
+    - 1. Both titles derived through a common vendor;
+    - 2. the common vendor laid out the Estate in lots subject to restrictions intended to be imposed on all the lots and that the restrictions are consistent only with some general Scheme of Development of the land;
+    - 3. the restrictions were intended to benefit all of the lots in the subdivision;
+    - 4. both the parties, or their predecessors in title, purchased their lots from the common vendor on the basis that the restrictions were to enure for the benefit of the other lots in the scheme
+  - Hosking v Haas
+    - Not an 88B development
+    - No covenants burdening lots 3, 4, 13, 20
+    - All estates had a restriction as to the type of materials to be used in the construction of the dwelling house
+    - Some lots allow garden sheds
+    - All allow a garage, but with three different sets of specifications
+    - Various owners described different understandings of the covenants
+    - All had seen the estate brochure
+    - That they were not all the same was not enough to stop it being a building development
+    - All were aware they at least had the benefit of the covenant for other lots in the estate (from their docs and the brochure)
+    - Fact that some lots were sold without covenants did not negative the existence of a scheme
+    - A scheme of development existed
+  - Enforcement: Summary
+    - What is the context?
+    - Is it an 88B development? → see simple rules on enforcement of 88B developments
+    - Is it a private agreement? → run the burden in equity
+    - Is it a non-88B development → run the burden in equity and/or look at schemes of development
+  - Covenants and Public Planning Controls
+    - Local councils can override restrictive covenants in certain circumstances.
+  - Lennard v Jessica Estates
+    - The Lennard’s purchased a lot in an 88B development.
+    - They were not the original owners.
+    - The 88B instrument had a restriction that no more than one dwelling could be built on burdened lots; there could be no semi-detached duplexes; and no subdivision of the land was possible.
+    - The local council approved a two-lot strata subdivision and the building of duplexes on the lot.
+    - The developer alleged breach of covenant and sought an injunction.
+    - Lennard’s claimed the restriction was overridden by cl 6 of the LEP.
+    - Cl 6 of the LEP stated:
+      - (1) If any agreement, covenant or similar instrument prohibits a land use allowed by this plan, then it shall not apply to that land use (to the extent necessary to allow that land use).
+      - This clause was made pursuant to s 28 (now 3.16) of the EPAA
+      - It was held that the effect of cl 6 was to override the covenant.
+      - But the exact words of the LEP mattered. What did they prohibit? A ‘land use’. So in the end the judgment turned on the construction of the words ‘land use’. The construction of a duplex and strata sub-division were a ‘development’ not a ‘land use’.
+      - The restrictive covenant remained enforceable.
+  - Extinguishment / modification
+    - Express release (by the person or all the persons entitled to the benefit) – deed of release with request to RG to have amend the register
+    - Section 89 CA – modify or extinguish on same grounds as easements: obsolete or that there will be no substantial injury
+- Hosking v Haas (2009) NSWSC 1328
+  - Court: Supreme Court of New South Wales
+  - Parties: Hosking and Anor v Haas and Anor (No 2) [2009] NSWSC 1328
+  - Procedural History: Second judgment following Hosking v Haas [2009] NSWSC 624, where the plaintiffs were initially unsuccessful in enforcing a restrictive covenant. 
+    - The plaintiffs subsequently sought to establish the existence of a common building scheme to ground enforcement.
+  - Facts: 
+    - Plaintiffs and defendants owned adjoining lots in a residential subdivision (River Park Estate). Plaintiffs sought an order requiring demolition of a detached shed built by the defendants, allegedly in breach of a restrictive covenant. The covenant arose from original transfer documents and governed outbuildings.
+  - Legal Issue:
+    - Does a common building scheme (or "scheme of development") exist over the River Park Estate such that the plaintiffs can enforce the covenant against the defendants?
+    - Are the covenants enforceable despite Torrens title and inconsistent application across lots?
+  - Decision: The court found that a common building scheme existed, and the plaintiffs were entitled to enforce the covenant. An order was made requiring the demolition of the offending structure.
+  - Ratio Decidendi:
+    - A building scheme may exist under Torrens title where mutual obligations are clear, even if covenants vary slightly or are absent from a few lots (Re Louis [1971] 1 NSWLR 164 applied; Re Martyn (1965) 65 SR (NSW) 387 distinguished).
+    - The four elements in Elliston v Reacher [1908] 2 Ch 374 were satisfied:
+      - 1. Common vendor (Mitmac);
+      - 2. Estate laid out in lots with consistent restrictions;
+      - 3. Intent that restrictions benefit all lots;
+      - 4. Purchasers bought on the footing the restrictions would be mutually enforceable.
+    - Slight variation or omission of covenants in a few lots does not destroy the scheme (Sutton v Shoppee [1963] SR (NSW) 853).
+  - Significance:
+    - Confirms building schemes can apply to Torrens title land in NSW if equitable mutuality exists.
+    - Reinforces the flexible, modern approach to Elliston v Reacher criteria (following commentary by Peter Butt and decisions such as Re Louis).
+    - Important authority on the enforceability of restrictive covenants under building schemes in NSW property law.
+- Pieper v Edwards (1982) 1 NSWLR 336
+  - Court: New South Wales Court of Appeal
+  - Parties: Pieper v Edwards (1982) 1 NSWLR 336
+  - Procedural History: 
+    - Appeal from a Supreme Court decision extinguishing an easement under s 89 of the Conveyancing Act 1919 (NSW)
+  - Facts:
+    - An easement remained registered on the servient land's title under the Real Property Act 1900 (NSW).
+    - A former owner of the dominant land had agreed to surrender the easement, but no formal extinguishment occurred.
+    - The servient land owner applied under s 89 of the Conveyancing Act 1919 to have the easement extinguished.
+  - Legal Issue:
+    - Does the Real Property Act 1900 bar the court’s jurisdiction under s 89 to extinguish a registered easement?
+    - Should the court exercise its discretion to extinguish the easement despite it being registered and the dominant owner objecting?
+  - Decision: Appeal dismissed. The easement was properly extinguished under s 89.
+  - Ratio Decidendi:
+    - (i) The indefeasibility of title under the Real Property Act 1900 does not preclude the court's power to extinguish an easement under s 89 Conveyancing Act 1919 (NSW) (per Samuels and Mahoney JJA)
+    - (ii) The court’s power under s 89 is discretionary, and in the circumstances, it was appropriately exercised to extinguish the easement (former owner's agreement and lack of practical benefit to dominant land).
+    - Hutley JA dissented, arguing the easement should not have been extinguished.
+  - Significance:
+    - Confirms that registered easements can be extinguished under Conveyancing Act 1919 (NSW), notwithstanding the indefeasibility provisions in the Real Property Act 1900.
+    - Illustrates the court’s discretionary power under s 89, especially where there is evidence of intent to surrender or where the easement no longer serves a practical purpose.
+- Elliston v Reacher (1908) 2 Ch 374
+  - Court: Court of Appeal (England and Wales)
+  - Parties: Elliston v Reacher (1908) 2 Ch 374
+  - Procedural History: Appeal concerning the enforceability of a restrictive covenant under a claimed building scheme
+  - Facts:
+    - A society subdivided land into numbered lots per an annexed plan and attached restrictive covenants to sale documents.
+    - Not all purchasers signed the same deed, but all purchased under the same terms and plan.
+    - One covenant prohibited use of lots for hotels, taverns, or manufacturing.
+    - A purchaser leased their lot, and the lessee operated a hotel.
+    - The plaintiff, another lot owner, sought to enforce the covenant.
+  - Legal Issue:
+    - Could the plaintiff enforce a restrictive covenant against another lot owner based on a general building scheme, despite no direct contractual privity? 
+  - Decision: 
+    - The court held that a general building scheme existed and the plaintiff could enforce the covenant.
+  - Ratio Decidendi:
+    - Parker J articulated the four criteria necessary to establish a building scheme (at 384–385):
+      - Common vendor for both plaintiff and defendant;
+      - Estate laid out in lots with consistent restrictions;
+      - Restrictions intended to benefit all lots in the scheme;
+      - Purchasers bought on the footing that such restrictions would mutually benefit and bind them.
+      - These conditions were satisfied; thus, equity recognised reciprocity of obligation, allowing enforcement of the covenant.
+  - Significance:
+    - Foundational authority on the doctrine of the common building scheme;
+    - Establishes that restrictive covenants may be enforceable in equity by and against purchasers of different lots even in the absence of privity, provided the four elements are met.
+- Tulk v Moxhay [1848] 41 ER 1143
+  - Court: High Court of Chancery (England)
+  - Parties: Tulk v Moxhay [1848] 41 ER 1143
+  - Procedural History: Suit in equity to restrain breach of a covenant concerning land use
+  - Facts:
+    - Tulk sold land in Leicester Square subject to a covenant that it would remain “uncovered with buildings” to preserve the open space.
+    - The land changed hands several times and was ultimately acquired by Moxhay, who had actual notice of the covenant.
+    - Moxhay intended to build on the land and argued the covenant was unenforceable against him as he was not a party to the original agreement.
+  - Legal Issue:
+    - Can an equitable covenant restricting the use of land bind subsequent purchasers who are not parties to the original contract?
+  - Decision: 
+    - Injunction granted — the covenant was enforceable against Moxhay.
+  - Ratio Decidendi:
+    - A restrictive covenant (i.e. one restraining land use) will bind a purchaser for value who has actual or constructive notice of it, even if they are not a party to the original agreement.
+    - Equity will not allow a person to act inconsistently with known equitable obligations attached to land (per Lord Cottenham LC).
+  - Significance:
+    - Landmark case establishing that equitable covenants can "run with the land" and be enforceable in equity against future purchasers with notice.
+    - Foundation of the modern law of restrictive covenants in equity.
+    - Distinguished from common law covenants, which could not bind successors absent privity.
+    - Remains central to equitable doctrine despite modern registration systems (e.g. Real Property Act 1900 (NSW)).
+- Kerridge v Foley (1964) 82 WN (NSW) 293
+  - Court: Supreme Court of New South Wales
+  - Parties: Kerridge v Foley (1964) 82 WN (NSW) 293
+  - Procedural History: 
+    - Dispute over enforceability of a restrictive covenant in equity
+  - Facts:
+    - A restrictive covenant was imposed over an 18-acre parcel of land (burdened land), intended to benefit a separate 1700-acre estate (allegedly benefitted land).
+    - The covenant’s enforceability was challenged on the basis that it did not sufficiently benefit the covenantee’s land at the time of creation.
+  - Legal Issue:
+    - Can a restrictive covenant be enforced in equity where it is not shown to benefit the covenantee's land at the time of creation?
+  - Decision: 
+    - Covenant not enforceable — it did not sufficiently benefit the covenantee’s land.
+  - Ratio Decidendi:
+    - A restrictive covenant must benefit the covenantee’s land at the time of creation for it to be enforceable in equity.
+    - The covenant must affect the land either by mode of occupation or by increasing its value — following the equity principle from Rogers v Hosegood [1900] 2 Ch 388.
+    - The term “touch and concern” is common law language; in equity, the test is whether the land is “benefitted as a matter of fact”.
+  - Significance:
+    - Reinforces that equitable covenants must benefit the dominant tenement to be enforceable — a key requirement under the doctrine of annexation.
+    - Clarifies that mere proximity or general advantage is insufficient; the benefit must be real, ascertainable, and attached to the land (cf Marquess of Zetland (1908) 1 Ch 190).
+    - Confirms NSW courts’ alignment with English equity principles for covenants affecting land.
