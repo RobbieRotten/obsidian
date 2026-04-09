@@ -1,0 +1,16 @@
+.DS_Store
+.gitignore
+node_modules
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
