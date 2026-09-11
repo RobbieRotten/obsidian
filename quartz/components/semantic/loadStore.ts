@@ -8,6 +8,7 @@ export type DocVectors = {
 }
 
 let centroidsPromise: Promise<DocCentroid[]> | null = null
+const docIndexCache = new Map<string, Promise<DocChunkMeta[]>>()
 const docVectorsCache = new Map<string, Promise<DocVectors>>()
 
 export function loadCentroids(): Promise<DocCentroid[]> {
@@ -24,6 +25,23 @@ export function loadCentroids(): Promise<DocCentroid[]> {
   return centroidsPromise
 }
 
+export function loadDocIndex(slug: string): Promise<DocChunkMeta[]> {
+  const cached = docIndexCache.get(slug)
+  if (cached) return cached
+
+  const shard = slug.replaceAll("/", "__")
+  const promise = fetch(`/static/sem/${shard}.idx.json`, { cache: "force-cache" }).then(
+    async (response) => {
+      if (!response.ok) throw new Error(`Semantic metadata unavailable for ${slug}`)
+      return (await response.json()) as DocChunkMeta[]
+    },
+  )
+
+  docIndexCache.set(slug, promise)
+  promise.catch(() => docIndexCache.delete(slug))
+  return promise
+}
+
 export function loadDocVectors(slug: string, dim = 384): Promise<DocVectors> {
   const cacheKey = `${slug}:${dim}`
   const cached = docVectorsCache.get(cacheKey)
@@ -31,16 +49,16 @@ export function loadDocVectors(slug: string, dim = 384): Promise<DocVectors> {
 
   const promise = (async () => {
     const shard = slug.replaceAll("/", "__")
-    const [binResponse, idxResponse] = await Promise.all([
+    const [binResponse, idx] = await Promise.all([
       fetch(`/static/sem/${shard}.bin`, { cache: "force-cache" }),
-      fetch(`/static/sem/${shard}.idx.json`, { cache: "force-cache" }),
+      loadDocIndex(slug),
     ])
 
-    if (!binResponse.ok || !idxResponse.ok) {
-      throw new Error(`Semantic shard unavailable for ${slug}`)
+    if (!binResponse.ok) {
+      throw new Error(`Semantic vector shard unavailable for ${slug}`)
     }
 
-    const [binBuf, idxJson] = await Promise.all([binResponse.arrayBuffer(), idxResponse.json()])
+    const binBuf = await binResponse.arrayBuffer()
     const vecs = new Float32Array(binBuf)
     if (vecs.length % dim !== 0) {
       throw new Error(`Corrupt semantic shard for ${slug}: ${vecs.length} values is not divisible by ${dim}`)
@@ -48,11 +66,7 @@ export function loadDocVectors(slug: string, dim = 384): Promise<DocVectors> {
 
     const rows = vecs.length / dim
     const rowAt = (i: number) => vecs.subarray(i * dim, (i + 1) * dim)
-    return {
-      rowAt,
-      rows,
-      idx: idxJson as DocChunkMeta[],
-    }
+    return { rowAt, rows, idx }
   })()
 
   docVectorsCache.set(cacheKey, promise)
