@@ -1,4 +1,4 @@
-import { rerankByCentroid, semanticSearch } from "../semantic/searchClient"
+import { rerankCandidates, semanticSearch } from "../semantic/searchClient"
 
 const semanticClass = "semantic-result"
 
@@ -56,7 +56,7 @@ document.addEventListener("nav", () => {
       )
 
       if (nativeCards.length > 1) {
-        const ranked = await rerankByCentroid(
+        const ranked = await rerankCandidates(
           query,
           nativeCards.map((card) => ({ url: card.href, title: card.querySelector("h3")?.textContent ?? "" })),
         )
