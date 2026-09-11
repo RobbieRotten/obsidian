@@ -1,7 +1,7 @@
 // quartz/components/semantic/searchClient.ts
 import { embed } from "./embed"
 import { cosine } from "./cosine"
-import { loadCentroids, loadDocVectors } from "./loadStore"
+import { loadCentroids, loadDocVectors, type DocChunkMeta } from "./loadStore"
 
 export type SemResult = {
   url: string
@@ -10,6 +10,35 @@ export type SemResult = {
   score: number
   where: string[]
 }
+
+const stopWords = new Set([
+  "a",
+  "an",
+  "and",
+  "are",
+  "as",
+  "at",
+  "be",
+  "by",
+  "for",
+  "from",
+  "how",
+  "in",
+  "is",
+  "it",
+  "of",
+  "on",
+  "or",
+  "the",
+  "to",
+  "what",
+  "when",
+  "where",
+  "which",
+  "who",
+  "why",
+  "with",
+])
 
 function byScoreDesc<T extends { score: number }>(a: T, b: T) {
   return b.score - a.score
@@ -33,8 +62,43 @@ function slugUrl(slug: string, anchor = ""): string {
   return `/${clean}${anchor}`
 }
 
-export async function semanticSearch(query: string, kDocs = 6, kChunks = 8): Promise<SemResult[]> {
+function meaningfulTerms(query: string): string[] {
+  const terms = query.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []
+  return [...new Set(terms.filter((term) => term.length > 1 && !stopWords.has(term)))]
+}
+
+function lexicalCoverage(meta: DocChunkMeta | undefined, terms: string[]): number {
+  if (!meta || terms.length === 0) return 0
+  const haystack = `${meta.hPath.join(" ")} ${meta.preview}`.toLowerCase()
+  const matched = terms.filter((term) => haystack.includes(term)).length
+  return matched / terms.length
+}
+
+async function bestChunkScore(
+  q: Float32Array,
+  slug: string,
+  terms: string[],
+): Promise<{ score: number; index: number }> {
+  const { rowAt, rows, idx } = await loadDocVectors(slug)
+  let bestScore = -1
+  let bestIndex = -1
+
+  for (let i = 0; i < rows; i++) {
+    const semantic = cosine(q, rowAt(i))
+    const lexical = lexicalCoverage(idx[i], terms)
+    const score = 0.82 * semantic + 0.18 * lexical
+    if (score > bestScore) {
+      bestScore = score
+      bestIndex = i
+    }
+  }
+
+  return { score: bestScore, index: bestIndex }
+}
+
+export async function semanticSearch(query: string, kDocs = 10, kChunks = 8): Promise<SemResult[]> {
   const q = await embed(query)
+  const terms = meaningfulTerms(query)
   const centroids = await loadCentroids()
   const rankedDocs = centroids
     .map((c) => ({ c, score: cosine(q, Float32Array.from(c.vec)) }))
@@ -44,12 +108,14 @@ export async function semanticSearch(query: string, kDocs = 6, kChunks = 8): Pro
   const out: SemResult[] = []
   for (const { c, score: docScore } of rankedDocs) {
     const { rowAt, rows, idx } = await loadDocVectors(c.slug)
-    const best: Array<{ score: number; i: number }> = []
+    const best: Array<{ score: number; semantic: number; i: number }> = []
 
     for (let i = 0; i < rows; i++) {
-      const score = cosine(q, rowAt(i))
+      const semantic = cosine(q, rowAt(i))
+      const lexical = lexicalCoverage(idx[i], terms)
+      const score = 0.82 * semantic + 0.18 * lexical
       if (best.length < kChunks) {
-        best.push({ score, i })
+        best.push({ score, semantic, i })
         continue
       }
 
@@ -57,7 +123,7 @@ export async function semanticSearch(query: string, kDocs = 6, kChunks = 8): Pro
       for (let j = 1; j < best.length; j++) {
         if (best[j].score < best[worst].score) worst = j
       }
-      if (score > best[worst].score) best[worst] = { score, i }
+      if (score > best[worst].score) best[worst] = { score, semantic, i }
     }
 
     best.sort(byScoreDesc)
@@ -68,7 +134,7 @@ export async function semanticSearch(query: string, kDocs = 6, kChunks = 8): Pro
         url: slugUrl(c.slug, meta.anchor || ""),
         title: c.title,
         snippet: meta.preview,
-        score: 0.75 * hit.score + 0.25 * docScore,
+        score: 0.88 * hit.score + 0.12 * docScore,
         where: meta.hPath.filter(Boolean),
       })
     }
@@ -85,19 +151,33 @@ export async function semanticSearch(query: string, kDocs = 6, kChunks = 8): Pro
   return unique
 }
 
-export async function rerankByCentroid(
+export async function rerankCandidates(
   query: string,
   candidates: { url: string; title?: string }[],
 ): Promise<Array<{ url: string; title?: string; score: number }>> {
   const q = await embed(query)
+  const terms = meaningfulTerms(query)
   const centroids = await loadCentroids()
   const bySlug = new Map(centroids.map((c) => [normalizeSlug(c.slug), c]))
 
-  return candidates
-    .map((candidate) => {
+  const scored = await Promise.all(
+    candidates.map(async (candidate, index) => {
       const centroid = bySlug.get(normalizeSlug(candidate.url))
-      const score = centroid ? cosine(q, Float32Array.from(centroid.vec)) : -1
+      if (!centroid) return { ...candidate, score: -1 }
+
+      const docScore = cosine(q, Float32Array.from(centroid.vec))
+      let chunkScore = docScore
+      try {
+        chunkScore = (await bestChunkScore(q, centroid.slug, terms)).score
+      } catch {
+        // A missing shard should not break the rest of hybrid search.
+      }
+
+      const nativePrior = candidates.length > 1 ? 1 - index / (candidates.length - 1) : 1
+      const score = 0.84 * chunkScore + 0.12 * docScore + 0.04 * nativePrior
       return { ...candidate, score }
-    })
-    .sort(byScoreDesc)
+    }),
+  )
+
+  return scored.sort(byScoreDesc)
 }
