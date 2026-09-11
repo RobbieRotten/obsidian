@@ -1,6 +1,7 @@
-import { rerankCandidates, semanticSearch } from "../semantic/searchClient"
+import { createSemanticQuery, rerankCandidates, semanticSearch } from "../semantic/searchClient"
 
 const semanticClass = "semantic-result"
+const semanticDebounceMs = 700
 
 function normalizePage(url: string): string {
   try {
@@ -37,41 +38,44 @@ document.addEventListener("nav", () => {
   if (!input) return
 
   let timer: number | undefined
-  let generation = 0
+  let inputVersion = 0
+  let running = false
+  let rerunRequested = false
 
-  const run = async () => {
-    const query = input.value.trim()
-    const myGeneration = ++generation
-
+  const runQuery = async (query: string, version: number) => {
     const resultsContainer = document.querySelector<HTMLElement>("#results-container")
     if (!resultsContainer) return
 
     resultsContainer.querySelectorAll(`.${semanticClass}`).forEach((el) => el.remove())
-
     if (query.length < 2 || query.startsWith("#")) return
 
     try {
       const nativeCards = Array.from(
         resultsContainer.querySelectorAll<HTMLAnchorElement>("a.result-card:not(.no-match)"),
       )
+      const candidates = nativeCards.map((card) => ({
+        url: card.href,
+        title: card.querySelector("h3")?.textContent ?? "",
+      }))
 
-      if (nativeCards.length > 1) {
-        const ranked = await rerankCandidates(
-          query,
-          nativeCards.map((card) => ({ url: card.href, title: card.querySelector("h3")?.textContent ?? "" })),
-        )
+      // Embed once, then reuse the vector for native reranking and semantic discovery.
+      const semanticQuery = await createSemanticQuery(query)
+      if (version !== inputVersion || input.value.trim() !== query) return
 
-        if (myGeneration !== generation || input.value.trim() !== query) return
+      const [ranked, semantic] = await Promise.all([
+        nativeCards.length > 1 ? rerankCandidates(semanticQuery, candidates) : Promise.resolve([]),
+        semanticSearch(semanticQuery),
+      ])
 
+      if (version !== inputVersion || input.value.trim() !== query) return
+
+      if (ranked.length > 0) {
         const byUrl = new Map(nativeCards.map((card) => [card.href, card]))
         for (const result of ranked) {
           const card = byUrl.get(result.url)
           if (card) resultsContainer.appendChild(card)
         }
       }
-
-      const semantic = await semanticSearch(query)
-      if (myGeneration !== generation || input.value.trim() !== query) return
 
       const existingPages = new Set(
         Array.from(resultsContainer.querySelectorAll<HTMLAnchorElement>("a.result-card:not(.no-match)"))
@@ -89,9 +93,31 @@ document.addEventListener("nav", () => {
     }
   }
 
+  const executeLatest = async () => {
+    if (running) {
+      rerunRequested = true
+      return
+    }
+
+    running = true
+    try {
+      do {
+        rerunRequested = false
+        const query = input.value.trim()
+        const version = inputVersion
+        await runQuery(query, version)
+      } while (rerunRequested)
+    } finally {
+      running = false
+    }
+  }
+
   const onInput = () => {
+    inputVersion++
     if (timer) window.clearTimeout(timer)
-    timer = window.setTimeout(run, 220)
+    timer = window.setTimeout(() => {
+      void executeLatest()
+    }, semanticDebounceMs)
   }
 
   input.addEventListener("input", onInput)
