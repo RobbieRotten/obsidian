@@ -14,12 +14,15 @@ async function getPipeline(): Promise<FeatureExtractionPipeline> {
       const { env, pipeline } = await import("@xenova/transformers")
 
       env.allowLocalModels = false
+      env.allowRemoteModels = true
       env.useBrowserCache = true
-      env.backends.onnx.wasm.wasmPaths =
-        "https://cdn.jsdelivr.net/npm/onnxruntime-web@1.18.0/dist/"
 
-      // Multi-threaded WASM requires cross-origin isolation. Use it when the
-      // deployment supports it, otherwise stay on the safe single-thread path.
+      // Do not override wasmPaths here. @xenova/transformers 2.17.2 pins
+      // onnxruntime-web 1.14.0 and already supplies matching precompiled WASM
+      // binaries from its CDN. Pointing the 1.14 runtime at 1.18 binaries causes
+      // the browser backend to fail during initialisation ("no available backend").
+      // We only choose the threading policy and let Transformers.js resolve its
+      // own runtime assets.
       const hardwareThreads = typeof navigator !== "undefined" ? navigator.hardwareConcurrency || 1 : 1
       env.backends.onnx.wasm.numThreads =
         typeof crossOriginIsolated !== "undefined" && crossOriginIsolated
@@ -30,6 +33,12 @@ async function getPipeline(): Promise<FeatureExtractionPipeline> {
         quantized: true,
       }) as Promise<FeatureExtractionPipeline>
     })()
+
+    // A transient CDN/runtime failure should not poison semantic search for the
+    // entire page lifetime. Let a later query retry model initialisation.
+    pipelinePromise.catch(() => {
+      pipelinePromise = null
+    })
   }
 
   return pipelinePromise
@@ -58,6 +67,10 @@ export async function warmEmbeddingModel(): Promise<void> {
       })
       tensorVector(output)
     })()
+
+    warmPromise.catch(() => {
+      warmPromise = null
+    })
   }
   return warmPromise
 }
