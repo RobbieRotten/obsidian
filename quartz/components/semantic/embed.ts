@@ -21,13 +21,20 @@ async function getPipeline(): Promise<FeatureExtractionPipeline> {
       // onnxruntime-web 1.14.0 and already supplies matching precompiled WASM
       // binaries from its CDN. Pointing the 1.14 runtime at 1.18 binaries causes
       // the browser backend to fail during initialisation ("no available backend").
-      // We only choose the threading policy and let Transformers.js resolve its
-      // own runtime assets.
       const hardwareThreads = typeof navigator !== "undefined" ? navigator.hardwareConcurrency || 1 : 1
       env.backends.onnx.wasm.numThreads =
         typeof crossOriginIsolated !== "undefined" && crossOriginIsolated
           ? Math.max(1, Math.min(4, hardwareThreads))
           : 1
+
+      // ONNX Runtime's proxy worker keeps WASM model initialisation/inference off
+      // the browser main thread. Without it, MiniLM's cold-start can make the
+      // Quartz tab unresponsive for several seconds even though deterministic
+      // results are otherwise ready. Keep the semantic layer, but do its heavy
+      // work in a Worker whenever the browser supports Workers.
+      if (typeof Worker !== "undefined") {
+        ;(env.backends.onnx.wasm as typeof env.backends.onnx.wasm & { proxy?: boolean }).proxy = true
+      }
 
       return pipeline("feature-extraction", MODEL_ID, {
         quantized: true,
