@@ -44,7 +44,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
           </div>
         </div>
         <script
-          type="application/javascript"
+          type="module"
           data-search-script="hybrid-v5"
           dangerouslySetInnerHTML={{ __html: script }}
         />
@@ -53,8 +53,8 @@ export default ((userOpts?: Partial<SearchOptions>) => {
   }
 
   // Search assets are deliberately embedded in the rendered component instead
-  // of relying on ComponentResources. This makes the v5 controller/style part
-  // of the page that contains the v5 markup and avoids stale/mismatched global
-  // search assets during Quartz rebuilds.
+  // of relying on ComponentResources. The bundled semantic client contains
+  // import.meta references from ONNX/Transformers, so it must execute as an ES
+  // module (Quartz's own postscript.js is also emitted as type="module").
   return Search
 }) satisfies QuartzComponentConstructor
