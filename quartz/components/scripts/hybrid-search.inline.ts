@@ -380,7 +380,9 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     card.classList.add("result-card")
     card.id = item.slug
     card.dataset.semanticAnchor = item.anchor ?? ""
-    card.href = `${resolveUrl(item.slug).toString()}${item.anchor ?? ""}`
+    const url = resolveUrl(item.slug)
+    if (item.anchor) url.hash = item.anchor.slice(1)
+    card.href = url.toString()
 
     const htmlTags = item.tags.length > 0 ? `<ul class="tags">${item.tags.join("")}</ul>` : ""
     card.innerHTML = `<h3>${item.title}</h3>${htmlTags}${
