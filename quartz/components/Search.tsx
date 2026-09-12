@@ -80,7 +80,7 @@ const passageJumpScript = String.raw`
       const existingAnchor = url.hash
         .replace(/^#/, "")
         .split(":~:text=")[0]
-      url.hash = `${existingAnchor}:~:text=${encodeURIComponent(target)}`
+      url.hash = existingAnchor + ":~:text=" + encodeURIComponent(target)
       card.href = url.toString()
       card.dataset.passageHref = "1"
       card.title = "Open and highlight this matched passage"
