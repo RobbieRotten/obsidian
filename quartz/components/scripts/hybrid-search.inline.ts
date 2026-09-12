@@ -86,13 +86,35 @@ function termVariants(term: string): string[] {
   return [...out].filter((variant) => variant.length >= 4 || variant === term)
 }
 
-function firstTermPosition(text: string, term: string): number {
-  let best = -1
+function allTermPositions(text: string, term: string): number[] {
+  const positions = new Set<number>()
   for (const variant of termVariants(term)) {
-    const position = text.indexOf(variant)
-    if (position >= 0 && (best < 0 || position < best)) best = position
+    let from = 0
+    while (from < text.length) {
+      const position = text.indexOf(variant, from)
+      if (position < 0) break
+      positions.add(position)
+      from = position + Math.max(1, variant.length)
+      if (positions.size >= 24) break
+    }
   }
-  return best
+  return [...positions].sort((a, b) => a - b)
+}
+
+function minimumTermSpan(positionSets: number[][]): number | null {
+  if (positionSets.length === 0 || positionSets.some((positions) => positions.length === 0)) return null
+
+  let best = Number.POSITIVE_INFINITY
+  const pointers = new Array(positionSets.length).fill(0)
+  while (true) {
+    const current = positionSets.map((positions, index) => positions[pointers[index]])
+    best = Math.min(best, Math.max(...current) - Math.min(...current))
+    let minIndex = 0
+    for (let i = 1; i < current.length; i++) if (current[i] < current[minIndex]) minIndex = i
+    pointers[minIndex]++
+    if (pointers[minIndex] >= positionSets[minIndex].length) break
+  }
+  return Number.isFinite(best) ? best : null
 }
 
 function lexicalDocumentScore(query: string, details: ContentDetails): number {
@@ -103,21 +125,19 @@ function lexicalDocumentScore(query: string, details: ContentDetails): number {
   const body = (details.content ?? "").toLowerCase()
   const combined = `${title}\n${body}`
 
-  const positions = terms.map((term) => firstTermPosition(combined, term))
-  const matched = positions.filter((position) => position >= 0).length
-  const titleMatched = terms.filter((term) => firstTermPosition(title, term) >= 0).length
+  const positionSets = terms.map((term) => allTermPositions(combined, term))
+  const matched = positionSets.filter((positions) => positions.length > 0).length
+  const titleMatched = terms.filter((term) => allTermPositions(title, term).length > 0).length
   const coverage = matched / terms.length
   const titleCoverage = titleMatched / terms.length
 
   let proximity = 0
-  if (matched === terms.length && positions.length > 1) {
-    const span = Math.max(...positions) - Math.min(...positions)
+  const span = minimumTermSpan(positionSets)
+  if (span !== null) {
     if (span <= 350) proximity = 1
     else if (span <= 1200) proximity = 0.7
     else if (span <= 3500) proximity = 0.35
     else proximity = 0.1
-  } else if (matched === terms.length) {
-    proximity = 1
   }
 
   const rawQuery = query.trim().toLowerCase()
@@ -269,7 +289,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
   searchLayout.appendChild(results)
   if (preview) searchLayout.appendChild(preview)
 
-  let searchType: SearchType = "basic"
   let currentSearchTerm = ""
   let currentHover: HTMLElement | null = null
   let timer: number | undefined
@@ -279,7 +298,7 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
 
   const warm = () => {
     void warmSemanticSearch().catch(() => {
-      // Native lexical fallback remains available if the model cannot warm.
+      // Lexical fallback remains available if the model cannot warm.
     })
   }
 
@@ -299,13 +318,11 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     removeAllChildren(results)
     if (preview) removeAllChildren(preview)
     searchLayout.classList.remove("display-results")
-    searchType = "basic"
     currentHover = null
     searchButton.focus()
   }
 
   function showSearch(type: SearchType) {
-    searchType = type
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
@@ -353,7 +370,7 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     }
 
     const highlights = [...preview.querySelectorAll(".highlight")].sort(
-      (a, b) => b.textContent!.length - a.textContent!.length,
+      (a, b) => (b.textContent?.length ?? 0) - (a.textContent?.length ?? 0),
     )
     highlights[0]?.scrollIntoView({ block: "start" })
   }
@@ -537,12 +554,10 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     }
 
     if (currentSearchTerm.startsWith("#")) {
-      searchType = "tags"
       void runTagSearch(currentSearchTerm, myGeneration)
       return
     }
 
-    searchType = "basic"
     const query = currentSearchTerm.trim()
     if (query.length < 2) {
       removeAllChildren(results)
