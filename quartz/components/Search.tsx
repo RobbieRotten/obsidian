@@ -24,6 +24,20 @@ const passageJumpScript = String.raw`
   if (window[stateKey]) return
   window[stateKey] = true
 
+  // Same-document text-fragment navigation is unreliable in Chromium: it can
+  // update the address bar without re-running the native fragment highlighter.
+  // A transient query parameter forces a true document navigation; remove it as
+  // soon as the destination document loads so copied URLs remain clean.
+  try {
+    const cleanUrl = new URL(window.location.href)
+    if (cleanUrl.searchParams.has("__qjump")) {
+      cleanUrl.searchParams.delete("__qjump")
+      window.history.replaceState(window.history.state, "", cleanUrl.toString())
+    }
+  } catch {
+    // Ignore URL cleanup failures; passage navigation can still work normally.
+  }
+
   const compact = (value) => (value || "").replace(/\s+/g, " ").trim()
 
   const targetFromSnippet = (card) => {
@@ -94,7 +108,7 @@ const passageJumpScript = String.raw`
   }
 
   const passageHref = (card) => {
-    if (card.dataset.passageHref === "2") return card.href
+    if (card.dataset.passageHref === "3") return card.href
 
     const target = targetFromSnippet(card)
     if (!target) return card.href
@@ -106,7 +120,7 @@ const passageJumpScript = String.raw`
         .split(":~:text=")[0]
       url.hash = existingAnchor + ":~:text=" + textDirective(target)
       card.href = url.toString()
-      card.dataset.passageHref = "2"
+      card.dataset.passageHref = "3"
       card.title = "Open and highlight this matched passage"
       return card.href
     } catch {
@@ -151,10 +165,24 @@ const passageJumpScript = String.raw`
         return
       }
 
-      // Force a real navigation for normal clicks. Quartz's SPA navigation does
-      // not invoke the browser's native Text Fragment highlighter reliably.
       event.preventDefault()
-      window.location.assign(href)
+      try {
+        const destination = new URL(href, window.location.href)
+        const current = new URL(window.location.href)
+        const sameDocument =
+          destination.origin === current.origin &&
+          destination.pathname === current.pathname &&
+          destination.search === current.search
+
+        if (sameDocument) {
+          destination.searchParams.set("__qjump", Date.now().toString(36))
+          window.location.assign(destination.toString())
+        } else {
+          window.location.assign(destination.toString())
+        }
+      } catch {
+        window.location.assign(href)
+      }
     },
     true,
   )
@@ -197,7 +225,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
           dangerouslySetInnerHTML={{ __html: script }}
         />
         <script
-          data-search-passage-jump="v2"
+          data-search-passage-jump="v3"
           dangerouslySetInnerHTML={{ __html: passageJumpScript }}
         />
       </div>
