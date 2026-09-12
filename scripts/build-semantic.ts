@@ -1,20 +1,34 @@
 /* eslint-disable no-console */
-import { readdirSync, readFileSync, mkdirSync, writeFileSync, statSync } from "fs"
-import { join, basename } from "path"
+import { mkdirSync, readFileSync, readdirSync, rmSync, statSync, writeFileSync } from "fs"
+import { basename, join, relative, sep } from "path"
 import { pipeline } from "@xenova/transformers"
 
-// ---------- Config ----------
 const CONTENT_DIR = join(process.cwd(), "content")
-const PUBLIC_DIR  = join(process.cwd(), "public")
-const SEM_DIR     = join(PUBLIC_DIR, "static", "sem")
-// good general model; stays on CPU for small corpora
-const MODEL_ID    = "Xenova/all-MiniLM-L6-v2"
+// Generate into Quartz's static source tree so a normal Quartz build copies the
+// semantic assets to /static/sem in the published site.
+const SEM_DIR = join(process.cwd(), "quartz", "static", "sem")
+const MODEL_ID = "Xenova/all-MiniLM-L6-v2"
+const DIM = 384
 
-// chunking
-const MAX_CHARS = 7000
-const OVERLAP   = 900
+// MiniLM only sees a few hundred word-pieces. Very large chunks silently throw
+// most of a section away at embedding time, which was making legal retrieval
+// unstable. Keep chunks close to the model's useful context window instead.
+const MAX_CHARS = 1200
+const OVERLAP = 180
 
-const slugify = (s: string) => s.trim().toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s+/g, "-")
+const slugify = (s: string) =>
+  s
+    .trim()
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/\s+/g, "-")
+
+type Chunk = { text: string; anchor?: string; hPath: string[] }
+type LexicalDocument = {
+  slug: string
+  title: string
+  chunks: Array<{ anchor: string; hPath: string[]; text: string }>
+}
 
 function listMarkdownFiles(dir: string): string[] {
   const out: string[] = []
@@ -27,26 +41,49 @@ function listMarkdownFiles(dir: string): string[] {
   return out
 }
 
-function chunkMarkdown(md: string) {
+function quartzSlug(file: string): string {
+  const rel = relative(CONTENT_DIR, file)
+    .split(sep)
+    .join("/")
+    .replace(/\.(md|mdx)$/i, "")
+    .replace(/\s+/g, "-")
+
+  return encodeURI(rel)
+}
+
+function chunkMarkdown(md: string): Chunk[] {
   const lines = md.split(/\r?\n/)
-  const chunks: { text:string; anchor?:string; hPath:string[] }[] = []
+  const chunks: Chunk[] = []
   let cur: string[] = []
   let hPath: string[] = []
   let lastAnchor: string | undefined
 
   const push = () => {
     if (cur.length === 0) return
-    let section = cur.join("\n").trim()
+    const section = cur.join("\n").trim()
+    if (!section) {
+      cur = []
+      return
+    }
+
     if (section.length > MAX_CHARS) {
       let start = 0
-      const add = () => {
-        const slice = section.slice(start, Math.min(section.length, start + MAX_CHARS))
-        chunks.push({ text: slice, anchor: lastAnchor, hPath: [...hPath] })
-      }
-      add()
-      while (start + MAX_CHARS < section.length) {
-        start = Math.max(0, start + MAX_CHARS - OVERLAP)
-        add()
+      while (start < section.length) {
+        let end = Math.min(section.length, start + MAX_CHARS)
+        // Prefer not to cut a word/list item in half when a nearby boundary is
+        // available. The fallback keeps progress guaranteed for pathological text.
+        if (end < section.length) {
+          const boundary = Math.max(
+            section.lastIndexOf("\n", end),
+            section.lastIndexOf(" ", end),
+          )
+          if (boundary > start + Math.floor(MAX_CHARS * 0.65)) end = boundary
+        }
+
+        const slice = section.slice(start, end).trim()
+        if (slice) chunks.push({ text: slice, anchor: lastAnchor, hPath: [...hPath] })
+        if (end >= section.length) break
+        start = Math.max(start + 1, end - OVERLAP)
       }
     } else {
       chunks.push({ text: section, anchor: lastAnchor, hPath: [...hPath] })
@@ -55,89 +92,134 @@ function chunkMarkdown(md: string) {
   }
 
   for (const line of lines) {
-    const m = /^(#{2,3})\s+(.*)$/.exec(line)
-    if (m) {
-      push()
-      const level = m[1].length
-      const title = m[2].trim()
-      const anc = slugify(title)
-      if (level === 2) hPath = [title], lastAnchor = `#${anc}`
-      else hPath = [hPath[0] || "", title], lastAnchor = `#${anc}`
+    const match = /^(#{2,3})\s+(.*)$/.exec(line)
+    if (!match) {
       cur.push(line)
-    } else {
-      cur.push(line)
+      continue
     }
+
+    push()
+    const level = match[1].length
+    const title = match[2].trim()
+    lastAnchor = `#${slugify(title)}`
+    hPath = level === 2 ? [title] : [hPath[0] || "", title]
+    cur.push(line)
   }
+
   push()
   return chunks
 }
 
+function cleanSearchText(text: string): string {
+  return text
+    .replace(/\s+/g, " ")
+    .replace(/[#*_`>]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+function tensorRows(output: unknown, expectedRows: number): number[][] {
+  const tensor = output as { data?: ArrayLike<number>; dims?: number[] }
+  if (!tensor.data) throw new Error("Embedding pipeline returned no tensor data")
+
+  const flat = Array.from(tensor.data)
+  const dims = tensor.dims ?? []
+  const width = dims.length > 0 ? dims[dims.length - 1] : DIM
+  if (width !== DIM) throw new Error(`Expected ${DIM}-dimensional embeddings, received ${width}`)
+  if (flat.length !== expectedRows * DIM) {
+    throw new Error(
+      `Expected ${expectedRows * DIM} embedding values, received ${flat.length}`,
+    )
+  }
+
+  const rows: number[][] = []
+  for (let i = 0; i < expectedRows; i++) {
+    rows.push(flat.slice(i * DIM, (i + 1) * DIM))
+  }
+  return rows
+}
+
 function meanL2(vectors: number[][]): Float32Array {
-  const d = vectors[0].length
-  const out = new Float32Array(d)
-  for (const v of vectors) for (let i=0;i<d;i++) out[i] += v[i]
+  const out = new Float32Array(DIM)
+  for (const vector of vectors) {
+    for (let i = 0; i < DIM; i++) out[i] += vector[i]
+  }
+
   const inv = 1 / vectors.length
-  for (let i=0;i<d;i++) out[i] *= inv
-  let norm = 0; for (let i=0;i<d;i++) norm += out[i]*out[i]
+  for (let i = 0; i < DIM; i++) out[i] *= inv
+
+  let norm = 0
+  for (let i = 0; i < DIM; i++) norm += out[i] * out[i]
   norm = Math.sqrt(norm) || 1
-  for (let i=0;i<d;i++) out[i] /= norm
+  for (let i = 0; i < DIM; i++) out[i] /= norm
   return out
 }
 
 async function main() {
+  rmSync(SEM_DIR, { recursive: true, force: true })
   mkdirSync(SEM_DIR, { recursive: true })
+
   console.log("Loading embedding pipeline:", MODEL_ID)
-  const embed = await pipeline("feature-extraction", MODEL_ID)
+  const embed = await pipeline("feature-extraction", MODEL_ID, { quantized: true })
 
   const files = listMarkdownFiles(CONTENT_DIR)
-  const centroids: { slug:string; title:string; vec:number[]; n:number }[] = []
+  const centroids: { slug: string; title: string; vec: number[]; n: number }[] = []
+  const lexicalDocuments: LexicalDocument[] = []
 
-  for (const f of files) {
-    const raw = readFileSync(f, "utf8")
+  for (const file of files) {
+    const raw = readFileSync(file, "utf8")
     if (!raw.trim()) continue
 
-   const base = basename(f).replace(/\.(md|mdx)$/i, "")
-  // Quartz turns spaces into hyphens for page slugs — mirror that here
-   const slug = encodeURI(base.replace(/\s+/g, "-"))
-    const m = /^#\s+(.+)$/.exec(raw) || /^title:\s*["']?(.+?)["']?\s*$/mi.exec(raw)
-    const title = m ? m[1].trim() : base
-
+    const base = basename(file).replace(/\.(md|mdx)$/i, "")
+    const slug = quartzSlug(file)
+    const titleMatch = /^#\s+(.+)$/m.exec(raw) || /^title:\s*["']?(.+?)["']?\s*$/im.exec(raw)
+    const title = titleMatch ? titleMatch[1].trim() : base
     const chunks = chunkMarkdown(raw)
     if (chunks.length === 0) continue
 
+    // One compact, deterministic chunk index gives the browser a single source
+    // for phrase/citation/proximity ranking. This avoids trying to infer a
+    // section from an entire note or from a 360-character preview.
+    const searchableChunks = chunks.map((chunk) => ({
+      anchor: chunk.anchor || "",
+      hPath: chunk.hPath,
+      text: cleanSearchText(chunk.text),
+    }))
+    lexicalDocuments.push({ slug, title, chunks: searchableChunks })
+
     const allVecs: number[][] = []
     const BATCH = 8
-    for (let i=0; i<chunks.length; i+=BATCH) {
-      const texts = chunks.slice(i, i+BATCH).map(c => c.text)
-      const outputs = await embed(texts, { pooling: "mean", normalize: true })
-      // @ts-ignore transformers returns nested arrays
-      const arr: number[][] = Array.isArray(outputs.data[0]) ? outputs.data : [outputs.data]
-      allVecs.push(...arr)
-      process.stdout.write(`\r${base}: ${Math.min(i+BATCH, chunks.length)}/${chunks.length}`)
+    for (let i = 0; i < chunks.length; i += BATCH) {
+      const texts = chunks.slice(i, i + BATCH).map((chunk) => chunk.text)
+      const output = await embed(texts, { pooling: "mean", normalize: true })
+      allVecs.push(...tensorRows(output, texts.length))
+      process.stdout.write(`\r${slug}: ${Math.min(i + BATCH, chunks.length)}/${chunks.length}`)
     }
     process.stdout.write("\n")
 
-    // shard
-    const d = allVecs[0].length
-    const bin = new Float32Array(allVecs.length * d)
-    for (let i=0;i<allVecs.length;i++) bin.set(allVecs[i], i*d)
-    writeFileSync(join(SEM_DIR, `${slug}.bin`), Buffer.from(bin.buffer))
+    const bin = new Float32Array(allVecs.length * DIM)
+    for (let i = 0; i < allVecs.length; i++) bin.set(allVecs[i], i * DIM)
+    writeFileSync(join(SEM_DIR, `${slug.replaceAll("/", "__")}.bin`), Buffer.from(bin.buffer))
 
-    // idx
-    const idx = chunks.map(c => ({
-      anchor: c.anchor || "",
-      hPath: c.hPath,
-      preview: c.text.slice(0, 360).replace(/\s+/g," ").replace(/[#*_`>]+/g,"").trim()
+    const idx = searchableChunks.map((chunk) => ({
+      anchor: chunk.anchor,
+      hPath: chunk.hPath,
+      preview: chunk.text.slice(0, 360),
     }))
-    writeFileSync(join(SEM_DIR, `${slug}.idx.json`), JSON.stringify(idx))
+    writeFileSync(join(SEM_DIR, `${slug.replaceAll("/", "__")}.idx.json`), JSON.stringify(idx))
 
-    // centroid
     const centroid = meanL2(allVecs)
     centroids.push({ slug, title, vec: Array.from(centroid), n: allVecs.length })
   }
 
   writeFileSync(join(SEM_DIR, "doc-centroids.json"), JSON.stringify(centroids))
-  console.log(`Wrote ${centroids.length} doc centroids and shards to ${SEM_DIR}`)
+  writeFileSync(join(SEM_DIR, "lexical-index.json"), JSON.stringify(lexicalDocuments))
+  console.log(
+    `Wrote ${centroids.length} semantic documents and ${lexicalDocuments.length} lexical documents to ${SEM_DIR}`,
+  )
 }
 
-main().catch(e => { console.error(e); process.exit(1) })
+main().catch((error) => {
+  console.error(error)
+  process.exit(1)
+})

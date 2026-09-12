@@ -24,12 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search({
-      enableKeywordUI: false,   // <-- turn OFF legacy script
-      enablePreview: true,      // keep the preview container if you want it
-      maxResults: 20,
-      minChars: 2,
-    }),
+    Component.Search({ enablePreview: false }),
     Component.Darkmode(),
     Component.Explorer(),
   ],
@@ -41,12 +36,7 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search({
-      enableKeywordUI: false,   // <-- here too
-      enablePreview: true,
-      maxResults: 20,
-      minChars: 2,
-    }),
+    Component.Search({ enablePreview: false }),
     Component.Darkmode(),
     Component.Explorer(),
   ],

@@ -19,12 +19,18 @@
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "build": "npx quartz build",
-    "build:sem": "ts-node --transpile-only scripts/build-semantic.ts",
-    "build:all": "npm run build && npm run build:sem"
+    "build:sem": "tsx scripts/build-semantic.ts",
+    "build:all": "npm run build:sem && npm run build"
   },
   "engines": {
     "npm": ">=9.3.1",
     "node": "20 || >=22"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.5.1": true,
+    "esbuild@0.25.11": true,
+    "protobufjs@6.11.6": true,
+    "sharp@0.32.6": true
   },
   "keywords": [
     "site generator",
