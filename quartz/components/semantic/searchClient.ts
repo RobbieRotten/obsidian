@@ -35,7 +35,7 @@ function meaningfulTerms(query: string): string[] {
 }
 
 export async function warmSemanticSearch(): Promise<void> {
-  // Deliberate no-op. Do not load the model or vector assets on the UI thread.
+  throw new Error("runtime semantic refinement disabled to protect search responsiveness")
 }
 
 export async function createSemanticQuery(text: string): Promise<SemanticQuery> {
