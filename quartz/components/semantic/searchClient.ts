@@ -1,5 +1,5 @@
 // quartz/components/semantic/searchClient.ts
-import { embed } from "./embed"
+import { embed, warmEmbeddingModel } from "./embed"
 import { cosine } from "./cosine"
 import { loadCentroids, loadDocIndex, loadDocVectors, type DocChunkMeta } from "./loadStore"
 
@@ -131,6 +131,10 @@ async function bestChunkScore(
   }
 
   return { score: bestScore, index: bestIndex }
+}
+
+export async function warmSemanticSearch(): Promise<void> {
+  await Promise.all([warmEmbeddingModel(), loadCentroids()])
 }
 
 export async function createSemanticQuery(text: string): Promise<SemanticQuery> {
