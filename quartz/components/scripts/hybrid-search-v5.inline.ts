@@ -59,7 +59,7 @@ type DisplayItem = {
 
 const RESULT_LIMIT = 8
 const TAG_LIMIT = 5
-const INPUT_DEBOUNCE_MS = 80
+const INPUT_DEBOUNCE_MS = 120
 const SEMANTIC_BUDGET_MS = 750
 const FALLBACK_CHUNK_CHARS = 1250
 const FALLBACK_OVERLAP = 180
@@ -606,8 +606,8 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
   const searchLayout = document.getElementById("search-layout")
   if (!container || !searchButton || !searchBar || !searchLayout) return
 
-  searchLayout.dataset.engine = "hybrid-v5"
-  console.info("[Quartz search] hybrid-v5 passage ranking active")
+  searchLayout.dataset.engine = "hybrid-v5-responsive"
+  console.info("[Quartz search] hybrid-v5 responsive deterministic ranking active")
 
   const results = document.createElement("div")
   results.id = "results-container"
@@ -638,9 +638,9 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     if (warmStarted) return
     warmStarted = true
     void warmSemanticSearch()
-      .then(() => console.info("[Quartz search] semantic model ready"))
+      .then(() => console.info("[Quartz search] semantic refinement ready"))
       .catch((error) => {
-        console.warn("[Quartz search] semantic model unavailable; deterministic search remains active", error)
+        console.info("[Quartz search] deterministic-only mode", error.message)
       })
   }
   const idleTimer = window.setTimeout(warm, 1100)
@@ -730,7 +730,7 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       const semanticQuery = await createSemanticQuery(query)
       const semanticResults = await semanticSearch(semanticQuery, 9, 2)
       if (myGeneration !== generation || searchBar.value.trim() !== query) return
-      if (performance.now() - started > SEMANTIC_BUDGET_MS) return
+      if (performance.now() - started > SEMANTIC_BUDGET_MS || semanticResults.length === 0) return
       const semantic = semanticByDocument(semanticResults)
       const bySlug = new Map(lexical.map((hit) => [normalizeSlug(hit.slug), hit]))
       const slugLookup = new Map(Object.keys(data).map((slug) => [normalizeSlug(slug), slug as FullSlug]))
@@ -765,7 +765,7 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       const ranked = pruneRankedHits([...bySlug.values()])
       displayResults(ranked.map((hit) => displayItem(hit, query, hit.evidence.tier <= 1 && !!hit.semantic)))
     } catch (error) {
-      console.warn("[Quartz search] semantic refinement skipped", error)
+      console.info("[Quartz search] semantic refinement skipped", error)
     }
   }
 
@@ -775,7 +775,9 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     if (myGeneration !== generation || searchBar.value.trim() !== query) return
     const lexical = rankLexical(query, docs)
     displayResults(lexical.map((hit) => displayItem(hit, query)))
-    void mergeSemantic(query, lexical, myGeneration, started)
+    requestAnimationFrame(() => {
+      void mergeSemantic(query, lexical, myGeneration, started)
+    })
   }
 
   function runTagSearch(rawQuery: string) {
