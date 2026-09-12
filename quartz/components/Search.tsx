@@ -39,7 +39,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               aria-label={i18n(cfg.locale).components.search.searchBarPlaceholder}
               placeholder={i18n(cfg.locale).components.search.searchBarPlaceholder}
             />
-            <div id="search-layout" data-preview={opts.enablePreview}></div>
+            <div id="search-layout" data-preview={opts.enablePreview} data-search-version="v5"></div>
           </div>
         </div>
       </div>
