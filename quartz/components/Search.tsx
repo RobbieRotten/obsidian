@@ -28,12 +28,12 @@ const passageJumpScript = String.raw`
 
   const targetFromSnippet = (card) => {
     const badge = compact(card.querySelector(".search-match-badge")?.textContent)
-    if (badge === "Tag match") return ""
+    if (badge === "Tag match") return null
 
     const snippet = card.querySelector(".search-snippet")
-    if (!snippet) return ""
+    if (!snippet) return null
     const text = compact(snippet.textContent)
-    if (!text) return ""
+    if (!text) return null
 
     const highlighted = [...snippet.querySelectorAll(".highlight")]
       .map((node) => compact(node.textContent))
@@ -47,30 +47,54 @@ const passageJumpScript = String.raw`
       ""
 
     const words = [...text.matchAll(/\S+/g)]
-    if (words.length === 0) return ""
+    if (words.length === 0) return null
 
-    if (!needle) {
-      return words.slice(0, Math.min(12, words.length)).map((match) => match[0]).join(" ")
+    let hit = 0
+    if (needle) {
+      const at = text.toLocaleLowerCase().indexOf(needle.toLocaleLowerCase())
+      if (at >= 0) {
+        const found = words.findIndex((match) => {
+          const start = match.index ?? 0
+          return start <= at && at < start + match[0].length
+        })
+        if (found >= 0) hit = found
+      }
     }
 
-    const at = text.toLocaleLowerCase().indexOf(needle.toLocaleLowerCase())
-    if (at < 0) {
-      return words.slice(0, Math.min(12, words.length)).map((match) => match[0]).join(" ")
+    // Keep the highlighted target itself short and exact. Two words before the
+    // discriminating term plus four after is enough to capture compact legal
+    // references such as "R v Brown [1994] 1 AC 212" without swallowing an
+    // unrelated preceding sentence. Add three-word prefix/suffix context using
+    // the native text-fragment disambiguation syntax, mirroring Chrome's own
+    // "Copy link to highlight" output.
+    const targetStart = Math.max(0, hit - 2)
+    const targetEnd = Math.min(words.length, hit + 5)
+    const prefixStart = Math.max(0, targetStart - 3)
+    const suffixEnd = Math.min(words.length, targetEnd + 3)
+
+    const joinWords = (start, end) =>
+      words.slice(start, end).map((match) => match[0]).join(" ")
+
+    const target = joinWords(targetStart, targetEnd)
+    if (!target) return null
+
+    return {
+      prefix: joinWords(prefixStart, targetStart),
+      target,
+      suffix: joinWords(targetEnd, suffixEnd),
     }
+  }
 
-    let hit = words.findIndex((match) => {
-      const start = match.index ?? 0
-      return start <= at && at < start + match[0].length
-    })
-    if (hit < 0) hit = 0
-
-    const start = Math.max(0, hit - 4)
-    const end = Math.min(words.length, hit + 9)
-    return words.slice(start, end).map((match) => match[0]).join(" ")
+  const textDirective = ({ prefix, target, suffix }) => {
+    let directive = ""
+    if (prefix) directive += encodeURIComponent(prefix) + "-,"
+    directive += encodeURIComponent(target)
+    if (suffix) directive += ",-" + encodeURIComponent(suffix)
+    return directive
   }
 
   const passageHref = (card) => {
-    if (card.dataset.passageHref === "1") return card.href
+    if (card.dataset.passageHref === "2") return card.href
 
     const target = targetFromSnippet(card)
     if (!target) return card.href
@@ -80,9 +104,9 @@ const passageJumpScript = String.raw`
       const existingAnchor = url.hash
         .replace(/^#/, "")
         .split(":~:text=")[0]
-      url.hash = existingAnchor + ":~:text=" + encodeURIComponent(target)
+      url.hash = existingAnchor + ":~:text=" + textDirective(target)
       card.href = url.toString()
-      card.dataset.passageHref = "1"
+      card.dataset.passageHref = "2"
       card.title = "Open and highlight this matched passage"
       return card.href
     } catch {
@@ -173,7 +197,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
           dangerouslySetInnerHTML={{ __html: script }}
         />
         <script
-          data-search-passage-jump="v1"
+          data-search-passage-jump="v2"
           dangerouslySetInnerHTML={{ __html: passageJumpScript }}
         />
       </div>
