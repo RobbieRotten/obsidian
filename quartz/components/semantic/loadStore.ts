@@ -1,6 +1,8 @@
 // quartz/components/semantic/loadStore.ts
 export type DocCentroid = { slug: string; title: string; vec: number[]; n: number }
 export type DocChunkMeta = { anchor: string; hPath: string[]; preview: string }
+export type LexicalChunk = { anchor: string; hPath: string[]; text: string }
+export type LexicalDocument = { slug: string; title: string; chunks: LexicalChunk[] }
 export type DocVectors = {
   rowAt: (i: number) => Float32Array
   rows: number
@@ -8,6 +10,7 @@ export type DocVectors = {
 }
 
 let centroidsPromise: Promise<DocCentroid[]> | null = null
+let lexicalIndexPromise: Promise<LexicalDocument[]> | null = null
 const docIndexCache = new Map<string, Promise<DocChunkMeta[]>>()
 const docVectorsCache = new Map<string, Promise<DocVectors>>()
 
@@ -23,6 +26,23 @@ export function loadCentroids(): Promise<DocCentroid[]> {
     )
   }
   return centroidsPromise
+}
+
+export function loadLexicalIndex(): Promise<LexicalDocument[]> {
+  if (!lexicalIndexPromise) {
+    lexicalIndexPromise = fetch("/static/sem/lexical-index.json", { cache: "force-cache" }).then(
+      async (response) => {
+        if (!response.ok) {
+          throw new Error(`Lexical chunk index unavailable (${response.status})`)
+        }
+        return (await response.json()) as LexicalDocument[]
+      },
+    )
+    lexicalIndexPromise.catch(() => {
+      lexicalIndexPromise = null
+    })
+  }
+  return lexicalIndexPromise
 }
 
 export function loadDocIndex(slug: string): Promise<DocChunkMeta[]> {
