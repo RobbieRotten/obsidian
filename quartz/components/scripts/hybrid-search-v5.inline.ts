@@ -116,14 +116,12 @@ function meaningfulTerms(value: string): string[] {
 
 function termVariants(term: string): string[] {
   const out = new Set<string>(aliases[term] ?? [term])
-
   if (/^\d+[a-z]$/i.test(term)) {
     out.add(term)
     out.add(`s ${term}`)
     out.add(`s${term}`)
     out.add(`section ${term}`)
   }
-
   if (term.length > 4 && term.endsWith("s")) out.add(term.slice(0, -1))
   if (term.length > 5 && term.endsWith("ed")) {
     out.add(term.slice(0, -1))
@@ -133,14 +131,12 @@ function termVariants(term: string): string[] {
     out.add(term.slice(0, -3))
     out.add(`${term.slice(0, -3)}e`)
   }
-
   return [...out]
 }
 
 function parseSection(query: string): string | null {
   const explicit = query.match(/(?:^|\s)(?:s|ss|section)\s*([0-9]+[a-z]?(?:\([0-9a-z]+\))?)(?=\s|$)/i)
   if (explicit?.[1]) return explicit[1].toLowerCase()
-
   if (/\bcla\b/i.test(query) || /\b[a-z]+(?:\s+[a-z]+){0,2}\s+act\b/i.test(query)) {
     const bare = query.match(/(?:^|\s)([0-9]+[a-z])(?=\s|$)/i)
     if (bare?.[1]) return bare[1].toLowerCase()
@@ -151,7 +147,6 @@ function parseSection(query: string): string | null {
 function parseStatutes(query: string): string[][] {
   const groups: string[][] = []
   if (/\bcla\b/i.test(query)) groups.push(["cla", "civil liability act"])
-
   const normalized = normalizeText(query)
   for (const match of normalized.matchAll(/\b([a-z][a-z-]*(?:\s+[a-z][a-z-]*){0,2})\s+act\b/g)) {
     const words = match[1].split(" ").filter((word) => !stopWords.has(word))
@@ -165,14 +160,11 @@ function parseStatutes(query: string): string[][] {
 
 function queryModel(query: string): QueryModel {
   const terms = meaningfulTerms(query)
-  const coreTerms = terms.filter(
-    (term) => !intentWords.has(term) && term !== "section" && term !== "ss",
-  )
+  const coreTerms = terms.filter((term) => !intentWords.has(term) && term !== "section" && term !== "ss")
   const hasIntent = terms.some((term) => intentWords.has(term))
   const doctrineTerms = coreTerms.filter(
     (term) => term !== "cla" && !/^\d+[a-z]?(?:\([0-9a-z]+\))?$/i.test(term),
   )
-
   return {
     raw: query,
     terms,
@@ -188,7 +180,6 @@ function phrasePositions(text: string, phrase: string): number[] {
   const normalized = ` ${normalizeText(text)} `
   const needle = ` ${normalizeText(phrase)} `
   if (needle.trim().length === 0) return []
-
   const out: number[] = []
   let from = 0
   while (from < normalized.length) {
@@ -221,13 +212,11 @@ function minimumSpan(positionSets: number[][]): number | null {
   const populated = positionSets.filter((positions) => positions.length > 0)
   if (populated.length === 0) return null
   if (populated.length === 1) return 0
-
   const pointers = new Array(populated.length).fill(0)
   let best = Number.POSITIVE_INFINITY
   while (true) {
     const current = populated.map((positions, index) => positions[pointers[index]])
     best = Math.min(best, Math.max(...current) - Math.min(...current))
-
     let minIndex = 0
     for (let i = 1; i < current.length; i++) {
       if (current[i] < current[minIndex]) minIndex = i
@@ -252,7 +241,6 @@ function sectionPositions(text: string, section: string | null): number[] {
 
 function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk): Evidence {
   if (model.terms.length === 0) return EMPTY_EVIDENCE
-
   const heading = chunk.hPath.filter(Boolean).join(" ")
   const text = normalizeText(`${title} ${heading} ${heading} ${chunk.text}`)
   const termSets = model.terms.map((term) => termPositions(text, term))
@@ -261,7 +249,6 @@ function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk):
   const coreMatched = coreSets.filter((positions) => positions.length > 0).length
   const coverage = matched / model.terms.length
   const coreCoverage = model.coreTerms.length > 0 ? coreMatched / model.coreTerms.length : coverage
-
   const span = minimumSpan(coreSets.filter((positions) => positions.length > 0))
   let proximity = 0
   if (span !== null) {
@@ -271,7 +258,6 @@ function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk):
     else if (span <= 1100) proximity = 0.32
     else proximity = 0.12
   }
-
   const exactPhrase = phrasePositions(text, model.raw).length > 0 ? 1 : 0
   const doctrineSignal = model.doctrine && phrasePositions(text, model.doctrine).length > 0 ? 1 : 0
   const intentSignal = model.hasIntent
@@ -279,24 +265,20 @@ function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk):
       ? 1
       : 0
     : 0
-
   const sectionHits = sectionPositions(text, model.section)
   const statuteHits = model.statutes.map((group) => groupPositions(text, group))
   const statuteMatched = statuteHits.filter((positions) => positions.length > 0).length
   const statuteSignal = model.statutes.length > 0 ? statuteMatched / model.statutes.length : 0
-
   let citation = 0
   if (model.section && sectionHits.length > 0 && statuteHits.some((positions) => positions.length > 0)) {
     const allStatutePositions = statuteHits.flatMap((positions) => positions)
     const citationSpan = minimumSpan([sectionHits, allStatutePositions])
     citation = citationSpan !== null && citationSpan <= 300 ? 1 : 0.94
   }
-
   const phrase = Math.max(exactPhrase, doctrineSignal && intentSignal ? 1 : doctrineSignal ? 0.82 : 0)
   const headingCoverage = model.coreTerms.length > 0
     ? model.coreTerms.filter((term) => termPositions(heading, term).length > 0).length / model.coreTerms.length
     : 0
-
   let tier = 0
   if (citation >= 0.94) tier = 10
   else if (model.doctrine && doctrineSignal === 1 && intentSignal === 1) tier = 9
@@ -307,17 +289,10 @@ function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk):
   else if (coreCoverage >= 0.75 && proximity > 0) tier = 4
   else if (coreCoverage >= 0.5) tier = 2
   else if (coverage > 0) tier = 1
-
   const score = Math.min(
     1,
-    0.32 * coverage +
-      0.25 * coreCoverage +
-      0.14 * proximity +
-      0.12 * phrase +
-      0.13 * citation +
-      0.04 * headingCoverage,
+    0.32 * coverage + 0.25 * coreCoverage + 0.14 * proximity + 0.12 * phrase + 0.13 * citation + 0.04 * headingCoverage,
   )
-
   return { tier, score, coverage, coreCoverage, proximity, citation, phrase }
 }
 
@@ -331,7 +306,6 @@ function documentCoverage(model: QueryModel, doc: LexicalDocument): number {
 function rankLexical(query: string, docs: LexicalDocument[]): RankedHit[] {
   const model = queryModel(query)
   const hits: RankedHit[] = []
-
   for (const doc of docs) {
     let best: RankedHit | null = null
     for (const chunk of doc.chunks) {
@@ -345,21 +319,12 @@ function rankLexical(query: string, docs: LexicalDocument[]): RankedHit[] {
         snippet: chunk.text.slice(0, 620),
         evidence,
       }
-      if (
-        !best ||
-        candidate.evidence.tier > best.evidence.tier ||
-        (candidate.evidence.tier === best.evidence.tier && candidate.evidence.score > best.evidence.score)
-      ) {
+      if (!best || candidate.evidence.tier > best.evidence.tier || (candidate.evidence.tier === best.evidence.tier && candidate.evidence.score > best.evidence.score)) {
         best = candidate
       }
     }
-
     if (!best) continue
-
     const docCoverage = documentCoverage(model, doc)
-    // Rescue queries whose discriminating clues are spread across adjacent or
-    // separate sections of the same note (for example a named case plus a
-    // statute/domain clue). This never beats an exact citation/doctrine tier.
     if (model.coreTerms.length >= 3 && docCoverage >= 0.75 && best.evidence.tier < 7) {
       best = {
         ...best,
@@ -373,13 +338,7 @@ function rankLexical(query: string, docs: LexicalDocument[]): RankedHit[] {
     }
     hits.push(best)
   }
-
-  return hits.sort(
-    (a, b) =>
-      b.evidence.tier - a.evidence.tier ||
-      b.evidence.score - a.evidence.score ||
-      a.title.localeCompare(b.title),
-  )
+  return hits.sort((a, b) => b.evidence.tier - a.evidence.tier || b.evidence.score - a.evidence.score || a.title.localeCompare(b.title))
 }
 
 function splitFallbackText(text: string): LexicalChunk[] {
@@ -387,7 +346,6 @@ function splitFallbackText(text: string): LexicalChunk[] {
   if (!clean) return []
   const chunks: LexicalChunk[] = []
   let start = 0
-
   while (start < clean.length) {
     let end = Math.min(clean.length, start + FALLBACK_CHUNK_CHARS)
     if (end < clean.length) {
@@ -458,25 +416,32 @@ function escapeHTML(value: string): string {
     .replaceAll("'", "&#039;")
 }
 
+function escapeRegex(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+}
+
 function highlight(query: string, value: string): string {
-  let escaped = escapeHTML(value)
   const terms = meaningfulTerms(query)
     .flatMap((term) => termVariants(term))
     .filter((term) => term.length >= 2 && !term.includes(" "))
     .sort((a, b) => b.length - a.length)
-
-  for (const term of [...new Set(terms)]) {
-    const safe = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-    escaped = escaped.replace(new RegExp(`(${safe})`, "gi"), '<span class="highlight">$1</span>')
+  if (terms.length === 0) return escapeHTML(value)
+  const matcher = new RegExp(`(${[...new Set(terms)].map(escapeRegex).join("|")})`, "gi")
+  let output = ""
+  let last = 0
+  for (const match of value.matchAll(matcher)) {
+    const index = match.index ?? 0
+    output += escapeHTML(value.slice(last, index))
+    output += `<span class="highlight">${escapeHTML(match[0])}</span>`
+    last = index + match[0].length
   }
-  return escaped
+  output += escapeHTML(value.slice(last))
+  return output
 }
 
 function displayItem(hit: RankedHit, query: string, semanticOnly = false): DisplayItem {
   const semantic = hit.semantic
-  const anchor = hit.evidence.tier >= 5
-    ? hit.anchor
-    : semanticAnchor(semantic) || hit.anchor
+  const anchor = hit.evidence.tier >= 5 ? hit.anchor : semanticAnchor(semantic) || hit.anchor
   const semanticPath = semantic?.where?.filter(Boolean).join(" › ") ?? ""
   const path = hit.hPath.filter(Boolean).join(" › ") || semanticPath
   const snippet = hit.snippet || semantic?.snippet || ""
@@ -528,7 +493,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     })
 
   const resolveUrl = (slug: FullSlug) => new URL(resolveRelative(currentSlug, slug), location.toString())
-
   const warm = () => {
     if (warmStarted) return
     warmStarted = true
@@ -536,7 +500,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       console.warn("[Quartz search] semantic model unavailable; deterministic search remains active", error)
     })
   }
-
   const idleTimer = window.setTimeout(warm, 1100)
   searchButton.addEventListener("pointerenter", warm)
   searchBar.addEventListener("focus", warm)
@@ -569,7 +532,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     const card = document.createElement("a")
     card.className = "result-card search-result-detailed"
     card.id = item.slug
-
     const url = resolveUrl(item.slug)
     if (item.anchor) url.hash = item.anchor.replace(/^#/, "")
     card.href = url.toString()
@@ -581,7 +543,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       ${item.path ? `<div class="search-match-path">${item.path}</div>` : ""}
       <p class="search-snippet">${item.snippet}</p>
     `
-
     const onClick = (click: MouseEvent) => {
       if (click.altKey || click.ctrlKey || click.metaKey || click.shiftKey) return
       hideSearch()
@@ -607,7 +568,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       currentFocus = null
       return
     }
-
     results.append(...items.map(resultToHTML))
     currentFocus = results.firstElementChild as HTMLElement | null
     currentFocus?.classList.add("focus")
@@ -622,22 +582,15 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     currentFocus = null
   }
 
-  async function mergeSemantic(
-    query: string,
-    lexical: RankedHit[],
-    myGeneration: number,
-    started: number,
-  ) {
+  async function mergeSemantic(query: string, lexical: RankedHit[], myGeneration: number, started: number) {
     try {
       const semanticQuery = await createSemanticQuery(query)
       const semanticResults = await semanticSearch(semanticQuery, 9, 2)
       if (myGeneration !== generation || searchBar.value.trim() !== query) return
       if (performance.now() - started > SEMANTIC_BUDGET_MS) return
-
       const semantic = semanticByDocument(semanticResults)
       const bySlug = new Map(lexical.map((hit) => [normalizeSlug(hit.slug), hit]))
       const slugLookup = new Map(Object.keys(data).map((slug) => [normalizeSlug(slug), slug as FullSlug]))
-
       for (const [normalized, sem] of semantic) {
         const slug = slugLookup.get(normalized)
         if (!slug) continue
@@ -645,10 +598,7 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
         if (existing) {
           existing.semantic = sem
           if (existing.evidence.tier < 5) {
-            existing.evidence = {
-              ...existing.evidence,
-              score: Math.min(1, 0.62 * existing.evidence.score + 0.38 * sem.score),
-            }
+            existing.evidence = { ...existing.evidence, score: Math.min(1, 0.62 * existing.evidence.score + 0.38 * sem.score) }
           }
         } else {
           const details = data[slug]
@@ -663,7 +613,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
           })
         }
       }
-
       const ranked = [...bySlug.values()]
         .sort((a, b) => b.evidence.tier - a.evidence.tier || b.evidence.score - a.evidence.score)
         .slice(0, RESULT_LIMIT)
@@ -677,13 +626,9 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     const started = performance.now()
     const docs = await lexicalDocsPromise
     if (myGeneration !== generation || searchBar.value.trim() !== query) return
-
     const lexical = rankLexical(query, docs)
     const visible = lexical.slice(0, RESULT_LIMIT)
     displayResults(visible.map((hit) => displayItem(hit, query)))
-
-    // Deterministic passage ranking is always useful immediately. Semantic
-    // search is an optional refinement and is never allowed to blank the UI.
     void mergeSemantic(query, visible, myGeneration, started)
   }
 
@@ -692,7 +637,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     const firstSpace = body.indexOf(" ")
     const tagQuery = (firstSpace >= 0 ? body.slice(0, firstSpace) : body).toLowerCase()
     const textQuery = firstSpace >= 0 ? body.slice(firstSpace + 1).trim() : ""
-
     const ranked = Object.entries(data)
       .map(([slug, details]) => {
         const tags = (details.tags ?? []).filter((tag) => tag.toLowerCase().includes(tagQuery))
@@ -707,17 +651,14 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       .filter((item): item is { slug: FullSlug; details: ContentDetails; tags: string[]; score: number } => item !== null)
       .sort((a, b) => b.score - a.score || (a.details.title ?? "").localeCompare(b.details.title ?? ""))
       .slice(0, RESULT_LIMIT)
-
-    displayResults(
-      ranked.map(({ slug, details, tags }) => ({
-        slug,
-        title: highlight(textQuery || tagQuery, details.title ?? slug),
-        anchor: "",
-        path: tags.slice(0, TAG_LIMIT).map((tag) => `#${tag}`).join(" · "),
-        snippet: highlight(textQuery, (details.content ?? "").slice(0, 620)),
-        badge: "Tag match",
-      })),
-    )
+    displayResults(ranked.map(({ slug, details, tags }) => ({
+      slug,
+      title: highlight(textQuery || tagQuery, details.title ?? slug),
+      anchor: "",
+      path: tags.slice(0, TAG_LIMIT).map((tag) => `#${tag}`).join(" · "),
+      snippet: highlight(textQuery, (details.content ?? "").slice(0, 620)),
+      badge: "Tag match",
+    })))
   }
 
   function onInput() {
@@ -726,24 +667,20 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     generation++
     const myGeneration = generation
     if (timer) window.clearTimeout(timer)
-
     if (!currentSearchTerm.trim()) {
       removeAllChildren(results)
       currentFocus = null
       return
     }
-
     if (currentSearchTerm.startsWith("#")) {
       runTagSearch(currentSearchTerm)
       return
     }
-
     const query = currentSearchTerm.trim()
     if (query.length < 2) {
       removeAllChildren(results)
       return
     }
-
     displaySearching()
     timer = window.setTimeout(() => {
       void runBasicSearch(query, myGeneration)
@@ -756,7 +693,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       container.classList.contains("active") ? hideSearch() : showSearch("basic")
       return
     }
-
     if (keyEvent.key.toLowerCase() === "k" && (keyEvent.ctrlKey || keyEvent.metaKey) && keyEvent.shiftKey) {
       keyEvent.preventDefault()
       if (container.classList.contains("active")) hideSearch()
@@ -766,17 +702,14 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       }
       return
     }
-
     if (!container.classList.contains("active")) return
     const cards = [...results.querySelectorAll<HTMLElement>("a.result-card")]
     if (cards.length === 0) return
-
     if (keyEvent.key === "Enter") {
       keyEvent.preventDefault()
       ;(currentFocus ?? cards[0]).click()
       return
     }
-
     if (keyEvent.key === "ArrowDown" || keyEvent.key === "ArrowUp") {
       keyEvent.preventDefault()
       const currentIndex = currentFocus ? cards.indexOf(currentFocus) : -1
@@ -794,13 +727,11 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
   document.addEventListener("keydown", shortcutHandler)
   searchButton.addEventListener("click", onSearchButtonClick)
   searchBar.addEventListener("input", onInput)
-
   window.addCleanup(() => {
     document.removeEventListener("keydown", shortcutHandler)
     searchButton.removeEventListener("click", onSearchButtonClick)
     searchBar.removeEventListener("input", onInput)
     if (timer) window.clearTimeout(timer)
   })
-
   registerEscapeHandler(container, hideSearch)
 })
