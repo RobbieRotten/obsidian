@@ -20,6 +20,7 @@ type QueryModel = {
   raw: string
   terms: string[]
   coreTerms: string[]
+  discriminatorTerms: string[]
   section: string | null
   statutes: string[][]
   doctrine: string | null
@@ -31,6 +32,7 @@ type Evidence = {
   score: number
   coverage: number
   coreCoverage: number
+  discriminatorCoverage: number
   proximity: number
   citation: number
   phrase: number
@@ -55,18 +57,20 @@ type DisplayItem = {
   badge: string
 }
 
-const RESULT_LIMIT = 10
+const RESULT_LIMIT = 8
 const TAG_LIMIT = 5
 const INPUT_DEBOUNCE_MS = 80
 const SEMANTIC_BUDGET_MS = 750
 const FALLBACK_CHUNK_CHARS = 1250
 const FALLBACK_OVERLAP = 180
+const SNIPPET_CHARS = 620
 
 const EMPTY_EVIDENCE: Evidence = {
   tier: 0,
   score: 0,
   coverage: 0,
   coreCoverage: 0,
+  discriminatorCoverage: 0,
   proximity: 0,
   citation: 0,
   phrase: 0,
@@ -162,15 +166,28 @@ function queryModel(query: string): QueryModel {
   const terms = meaningfulTerms(query)
   const coreTerms = terms.filter((term) => !intentWords.has(term) && term !== "section" && term !== "ss")
   const hasIntent = terms.some((term) => intentWords.has(term))
-  const doctrineTerms = coreTerms.filter(
-    (term) => term !== "cla" && !/^\d+[a-z]?(?:\([0-9a-z]+\))?$/i.test(term),
+  const statutes = parseStatutes(query)
+  const section = parseSection(query)
+  const statuteWords = new Set(
+    statutes.flatMap((group) => group.flatMap((phrase) => rawTokens(phrase))),
   )
+  if (/\bcla\b/i.test(query)) statuteWords.add("cla")
+  statuteWords.add("act")
+
+  const discriminatorTerms = coreTerms.filter(
+    (term) => term !== section && !statuteWords.has(term),
+  )
+  const doctrineTerms = coreTerms.filter(
+    (term) => term !== "cla" && term !== section && !/^\d+[a-z]?(?:\([0-9a-z]+\))?$/i.test(term),
+  )
+
   return {
     raw: query,
     terms,
     coreTerms,
-    section: parseSection(query),
-    statutes: parseStatutes(query),
+    discriminatorTerms,
+    section,
+    statutes,
     doctrine: hasIntent && doctrineTerms.length >= 1 ? doctrineTerms.join(" ") : null,
     hasIntent,
   }
@@ -239,16 +256,55 @@ function sectionPositions(text: string, section: string | null): number[] {
   return [...out].sort((a, b) => a - b)
 }
 
+function doctrineIntentRelation(text: string, model: QueryModel, doctrinePositions: number[], intentPositions: number[]): number {
+  if (!model.doctrine || !model.hasIntent || doctrinePositions.length === 0 || intentPositions.length === 0) return 0
+
+  const doctrine = normalizeText(model.doctrine)
+  const directPhrases = [
+    `${doctrine} elements`,
+    `elements of ${doctrine}`,
+    `${doctrine} requirements`,
+    `requirements of ${doctrine}`,
+    `${doctrine} test`,
+    `test for ${doctrine}`,
+    `${doctrine} criteria`,
+    `criteria for ${doctrine}`,
+  ]
+  if (directPhrases.some((phrase) => phrasePositions(text, phrase).length > 0)) return 1
+
+  const exclusions = [
+    `elements other than ${doctrine}`,
+    `requirements other than ${doctrine}`,
+    `elements except ${doctrine}`,
+    `requirements except ${doctrine}`,
+    `excluding ${doctrine}`,
+  ]
+  if (exclusions.some((phrase) => normalizeText(text).includes(phrase))) return 0.1
+
+  const relationSpan = minimumSpan([doctrinePositions, intentPositions])
+  if (relationSpan === null) return 0
+  if (relationSpan <= 55) return 0.94
+  if (relationSpan <= 120) return 0.78
+  if (relationSpan <= 240) return 0.52
+  return 0.2
+}
+
 function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk): Evidence {
   if (model.terms.length === 0) return EMPTY_EVIDENCE
   const heading = chunk.hPath.filter(Boolean).join(" ")
   const text = normalizeText(`${title} ${heading} ${heading} ${chunk.text}`)
   const termSets = model.terms.map((term) => termPositions(text, term))
   const coreSets = model.coreTerms.map((term) => termPositions(text, term))
+  const discriminatorSets = model.discriminatorTerms.map((term) => termPositions(text, term))
   const matched = termSets.filter((positions) => positions.length > 0).length
   const coreMatched = coreSets.filter((positions) => positions.length > 0).length
+  const discriminatorMatched = discriminatorSets.filter((positions) => positions.length > 0).length
   const coverage = matched / model.terms.length
   const coreCoverage = model.coreTerms.length > 0 ? coreMatched / model.coreTerms.length : coverage
+  const discriminatorCoverage = model.discriminatorTerms.length > 0
+    ? discriminatorMatched / model.discriminatorTerms.length
+    : 1
+
   const span = minimumSpan(coreSets.filter((positions) => positions.length > 0))
   let proximity = 0
   if (span !== null) {
@@ -258,13 +314,15 @@ function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk):
     else if (span <= 1100) proximity = 0.32
     else proximity = 0.12
   }
+
   const exactPhrase = phrasePositions(text, model.raw).length > 0 ? 1 : 0
-  const doctrineSignal = model.doctrine && phrasePositions(text, model.doctrine).length > 0 ? 1 : 0
-  const intentSignal = model.hasIntent
-    ? model.terms.some((term) => intentWords.has(term) && termPositions(text, term).length > 0)
-      ? 1
-      : 0
-    : 0
+  const doctrinePositions = model.doctrine ? phrasePositions(text, model.doctrine) : []
+  const doctrineSignal = doctrinePositions.length > 0 ? 1 : 0
+  const intentTerms = model.terms.filter((term) => intentWords.has(term))
+  const intentPositions = intentTerms.flatMap((term) => termPositions(text, term))
+  const intentSignal = model.hasIntent && intentPositions.length > 0 ? 1 : 0
+  const doctrineRelation = doctrineIntentRelation(text, model, doctrinePositions, intentPositions)
+
   const sectionHits = sectionPositions(text, model.section)
   const statuteHits = model.statutes.map((group) => groupPositions(text, group))
   const statuteMatched = statuteHits.filter((positions) => positions.length > 0).length
@@ -273,34 +331,106 @@ function passageEvidence(model: QueryModel, title: string, chunk: LexicalChunk):
   if (model.section && sectionHits.length > 0 && statuteHits.some((positions) => positions.length > 0)) {
     const allStatutePositions = statuteHits.flatMap((positions) => positions)
     const citationSpan = minimumSpan([sectionHits, allStatutePositions])
-    citation = citationSpan !== null && citationSpan <= 300 ? 1 : 0.94
+    if (citationSpan !== null && citationSpan <= 220) citation = 1
+    else if (citationSpan !== null && citationSpan <= 420) citation = 0.6
+    else citation = 0.25
   }
-  const phrase = Math.max(exactPhrase, doctrineSignal && intentSignal ? 1 : doctrineSignal ? 0.82 : 0)
+
+  const phrase = Math.max(
+    exactPhrase,
+    doctrineRelation,
+    doctrineSignal && intentSignal ? 0.45 : doctrineSignal ? 0.35 : 0,
+  )
   const headingCoverage = model.coreTerms.length > 0
     ? model.coreTerms.filter((term) => termPositions(heading, term).length > 0).length / model.coreTerms.length
     : 0
+
   let tier = 0
-  if (citation >= 0.94) tier = 10
-  else if (model.doctrine && doctrineSignal === 1 && intentSignal === 1) tier = 9
+  if (citation >= 0.95) tier = 10
+  else if (model.doctrine && doctrineRelation >= 0.78) tier = 9
   else if (exactPhrase === 1) tier = 8
-  else if (model.statutes.length > 0 && statuteSignal >= 0.99 && coreCoverage >= 0.5) tier = 7
+  else if (citation >= 0.6) tier = 6
+  else if (
+    model.statutes.length > 0 &&
+    !model.section &&
+    statuteSignal >= 0.99 &&
+    (model.discriminatorTerms.length === 0 || discriminatorCoverage >= 0.99)
+  ) tier = 7
   else if (coreCoverage === 1 && proximity >= 0.62) tier = 6
-  else if (model.doctrine && doctrineSignal === 1) tier = 5
+  else if (model.doctrine && doctrineSignal === 1 && doctrineRelation >= 0.5) tier = 5
   else if (coreCoverage >= 0.75 && proximity > 0) tier = 4
-  else if (coreCoverage >= 0.5) tier = 2
+  else if (coreCoverage >= 0.5 && discriminatorCoverage >= 0.5) tier = 2
   else if (coverage > 0) tier = 1
+
   const score = Math.min(
     1,
-    0.32 * coverage + 0.25 * coreCoverage + 0.14 * proximity + 0.12 * phrase + 0.13 * citation + 0.04 * headingCoverage,
+    0.26 * coverage +
+      0.22 * coreCoverage +
+      0.12 * discriminatorCoverage +
+      0.12 * proximity +
+      0.13 * phrase +
+      0.11 * citation +
+      0.04 * headingCoverage,
   )
-  return { tier, score, coverage, coreCoverage, proximity, citation, phrase }
+  return {
+    tier,
+    score,
+    coverage,
+    coreCoverage,
+    discriminatorCoverage,
+    proximity,
+    citation,
+    phrase,
+  }
 }
 
-function documentCoverage(model: QueryModel, doc: LexicalDocument): number {
-  if (model.coreTerms.length === 0) return 0
+function documentCoverage(model: QueryModel, doc: LexicalDocument, terms = model.coreTerms): number {
+  if (terms.length === 0) return 0
   const text = normalizeText(`${doc.title} ${doc.chunks.map((chunk) => chunk.text).join(" ")}`)
-  const matched = model.coreTerms.filter((term) => termPositions(text, term).length > 0).length
-  return matched / model.coreTerms.length
+  const matched = terms.filter((term) => termPositions(text, term).length > 0).length
+  return matched / terms.length
+}
+
+function centeredSnippet(query: string, text: string, maxChars = SNIPPET_CHARS): string {
+  const clean = text.replace(/\s+/g, " ").trim()
+  if (clean.length <= maxChars) return clean
+
+  const normalized = normalizeText(clean)
+  const positions = meaningfulTerms(query)
+    .map((term) => termPositions(normalized, term)[0])
+    .filter((position): position is number => typeof position === "number")
+    .sort((a, b) => a - b)
+
+  if (positions.length === 0 || normalized.length === 0) return `${clean.slice(0, maxChars).trim()}…`
+
+  const median = positions[Math.floor(positions.length / 2)]
+  const approximateRawCenter = Math.round((median / normalized.length) * clean.length)
+  let start = Math.max(0, approximateRawCenter - Math.floor(maxChars * 0.38))
+  start = Math.min(start, Math.max(0, clean.length - maxChars))
+  let end = Math.min(clean.length, start + maxChars)
+
+  if (start > 0) {
+    const nextSpace = clean.indexOf(" ", start)
+    if (nextSpace >= 0 && nextSpace - start < 50) start = nextSpace + 1
+  }
+  if (end < clean.length) {
+    const previousSpace = clean.lastIndexOf(" ", end)
+    if (previousSpace > start + Math.floor(maxChars * 0.7)) end = previousSpace
+  }
+
+  return `${start > 0 ? "…" : ""}${clean.slice(start, end).trim()}${end < clean.length ? "…" : ""}`
+}
+
+function pruneRankedHits(hits: RankedHit[]): RankedHit[] {
+  if (hits.length === 0) return hits
+  const sorted = [...hits].sort(
+    (a, b) => b.evidence.tier - a.evidence.tier || b.evidence.score - a.evidence.score || a.title.localeCompare(b.title),
+  )
+  const topTier = sorted[0].evidence.tier
+  const minimumTier = topTier >= 10 ? 7 : topTier >= 9 ? 6 : topTier >= 7 ? 4 : topTier >= 5 ? 2 : 1
+  return sorted
+    .filter((hit, index) => index === 0 || hit.evidence.tier >= minimumTier)
+    .slice(0, RESULT_LIMIT)
 }
 
 function rankLexical(query: string, docs: LexicalDocument[]): RankedHit[] {
@@ -316,29 +446,40 @@ function rankLexical(query: string, docs: LexicalDocument[]): RankedHit[] {
         title: doc.title,
         anchor: chunk.anchor || "",
         hPath: chunk.hPath,
-        snippet: chunk.text.slice(0, 620),
+        snippet: centeredSnippet(query, chunk.text),
         evidence,
       }
-      if (!best || candidate.evidence.tier > best.evidence.tier || (candidate.evidence.tier === best.evidence.tier && candidate.evidence.score > best.evidence.score)) {
+      if (
+        !best ||
+        candidate.evidence.tier > best.evidence.tier ||
+        (candidate.evidence.tier === best.evidence.tier && candidate.evidence.score > best.evidence.score)
+      ) {
         best = candidate
       }
     }
     if (!best) continue
+
     const docCoverage = documentCoverage(model, doc)
+    const discriminatorDocCoverage = documentCoverage(model, doc, model.discriminatorTerms)
     if (model.coreTerms.length >= 3 && docCoverage >= 0.75 && best.evidence.tier < 7) {
+      const fullDiscriminatorMatch = model.discriminatorTerms.length > 0 && discriminatorDocCoverage >= 0.99
       best = {
         ...best,
         evidence: {
           ...best.evidence,
-          tier: Math.max(best.evidence.tier, docCoverage === 1 ? 6 : 5),
-          score: Math.min(1, best.evidence.score + 0.18 * docCoverage),
+          tier: Math.max(
+            best.evidence.tier,
+            model.statutes.length > 0 && fullDiscriminatorMatch ? 7 : docCoverage === 1 ? 6 : 5,
+          ),
+          score: Math.min(1, best.evidence.score + 0.16 * docCoverage + 0.08 * discriminatorDocCoverage),
           coreCoverage: Math.max(best.evidence.coreCoverage, docCoverage),
+          discriminatorCoverage: Math.max(best.evidence.discriminatorCoverage, discriminatorDocCoverage),
         },
       }
     }
     hits.push(best)
   }
-  return hits.sort((a, b) => b.evidence.tier - a.evidence.tier || b.evidence.score - a.evidence.score || a.title.localeCompare(b.title))
+  return pruneRankedHits(hits)
 }
 
 function splitFallbackText(text: string): LexicalChunk[] {
@@ -496,9 +637,11 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
   const warm = () => {
     if (warmStarted) return
     warmStarted = true
-    void warmSemanticSearch().catch((error) => {
-      console.warn("[Quartz search] semantic model unavailable; deterministic search remains active", error)
-    })
+    void warmSemanticSearch()
+      .then(() => console.info("[Quartz search] semantic model ready"))
+      .catch((error) => {
+        console.warn("[Quartz search] semantic model unavailable; deterministic search remains active", error)
+      })
   }
   const idleTimer = window.setTimeout(warm, 1100)
   searchButton.addEventListener("pointerenter", warm)
@@ -591,6 +734,8 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       const semantic = semanticByDocument(semanticResults)
       const bySlug = new Map(lexical.map((hit) => [normalizeSlug(hit.slug), hit]))
       const slugLookup = new Map(Object.keys(data).map((slug) => [normalizeSlug(slug), slug as FullSlug]))
+      const strongDeterministic = lexical[0]?.evidence.tier ?? 0
+
       for (const [normalized, sem] of semantic) {
         const slug = slugLookup.get(normalized)
         if (!slug) continue
@@ -598,9 +743,12 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
         if (existing) {
           existing.semantic = sem
           if (existing.evidence.tier < 5) {
-            existing.evidence = { ...existing.evidence, score: Math.min(1, 0.62 * existing.evidence.score + 0.38 * sem.score) }
+            existing.evidence = {
+              ...existing.evidence,
+              score: Math.min(1, 0.62 * existing.evidence.score + 0.38 * sem.score),
+            }
           }
-        } else {
+        } else if (strongDeterministic < 7 || sem.score >= 0.72) {
           const details = data[slug]
           bySlug.set(normalized, {
             slug,
@@ -613,9 +761,8 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
           })
         }
       }
-      const ranked = [...bySlug.values()]
-        .sort((a, b) => b.evidence.tier - a.evidence.tier || b.evidence.score - a.evidence.score)
-        .slice(0, RESULT_LIMIT)
+
+      const ranked = pruneRankedHits([...bySlug.values()])
       displayResults(ranked.map((hit) => displayItem(hit, query, hit.evidence.tier <= 1 && !!hit.semantic)))
     } catch (error) {
       console.warn("[Quartz search] semantic refinement skipped", error)
@@ -627,9 +774,8 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     const docs = await lexicalDocsPromise
     if (myGeneration !== generation || searchBar.value.trim() !== query) return
     const lexical = rankLexical(query, docs)
-    const visible = lexical.slice(0, RESULT_LIMIT)
-    displayResults(visible.map((hit) => displayItem(hit, query)))
-    void mergeSemantic(query, visible, myGeneration, started)
+    displayResults(lexical.map((hit) => displayItem(hit, query)))
+    void mergeSemantic(query, lexical, myGeneration, started)
   }
 
   function runTagSearch(rawQuery: string) {
@@ -656,7 +802,7 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
       title: highlight(textQuery || tagQuery, details.title ?? slug),
       anchor: "",
       path: tags.slice(0, TAG_LIMIT).map((tag) => `#${tag}`).join(" · "),
-      snippet: highlight(textQuery, (details.content ?? "").slice(0, 620)),
+      snippet: highlight(textQuery, centeredSnippet(textQuery, details.content ?? "")),
       badge: "Tag match",
     })))
   }
