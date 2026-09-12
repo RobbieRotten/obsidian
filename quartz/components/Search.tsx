@@ -40,7 +40,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               aria-label={i18n(cfg.locale).components.search.searchBarPlaceholder}
               placeholder={i18n(cfg.locale).components.search.searchBarPlaceholder}
             />
-            <div id="search-layout" data-preview={opts.enablePreview} data-search-version="v5-responsive-2"></div>
+            <div id="search-layout" data-preview={opts.enablePreview} data-search-version="v5-responsive-3"></div>
           </div>
         </div>
         <script
@@ -53,8 +53,9 @@ export default ((userOpts?: Partial<SearchOptions>) => {
   }
 
   // Search assets are deliberately embedded in the rendered component instead
-  // of relying on ComponentResources. The active hotfix uses deterministic
-  // passage ranking only; semantic model/vector loading is disabled because it
-  // caused multi-second main-thread stalls while typing and pasting searches.
+  // of relying on ComponentResources. The active mode is deterministic-only:
+  // MiniLM and vector shard loading are disabled because they caused multi-second
+  // main-thread stalls while typing and pasting searches. Reintroduce semantic
+  // refinement only after it is moved off the UI thread.
   return Search
 }) satisfies QuartzComponentConstructor
