@@ -218,8 +218,6 @@ function chunkEvidence(query: string, docTitle: string, chunk: LexicalChunk): Ev
 
   const heading = chunk.hPath.filter(Boolean).join(" ")
   const body = chunk.text
-  // Repeat headings once so a close doctrinal heading meaningfully influences a
-  // chunk without allowing a generic note title to dominate.
   const text = `${docTitle} ${heading} ${heading} ${body}`
   const normalized = normalizeText(text)
   const positionSets = terms.map((term) => termPositions(normalized, term))
@@ -698,8 +696,6 @@ document.addEventListener("nav", async (event: CustomEventMap["nav"]) => {
     const anchored = (lexical[0]?.evidence.hardTier ?? 0) >= 3
     if (anchored) {
       await displayResults(lexical.slice(0, numSearchResults).map((hit) => formatItem(hit.slug, query, hit)))
-      // Semantic still participates when already warm/fast, but it cannot arrive
-      // many seconds later and replace a protected legal-identifier answer.
       void mergeSemantic(query, lexical, myGeneration, true, started)
     } else {
       displaySearching("Searching by meaning…")
