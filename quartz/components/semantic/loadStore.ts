@@ -14,9 +14,16 @@ let lexicalIndexPromise: Promise<LexicalDocument[]> | null = null
 const docIndexCache = new Map<string, Promise<DocChunkMeta[]>>()
 const docVectorsCache = new Map<string, Promise<DocVectors>>()
 
+// Semantic filenames are stable between note rebuilds. A browser or reverse
+// proxy can therefore hand a new search controller an old index/vector shard.
+// Give every full page load a fresh asset namespace while preserving in-session
+// caching through the promises/maps below.
+const semanticAssetVersion = Date.now().toString(36)
+const assetUrl = (path: string) => `${path}?v=${semanticAssetVersion}`
+
 export function loadCentroids(): Promise<DocCentroid[]> {
   if (!centroidsPromise) {
-    centroidsPromise = fetch("/static/sem/doc-centroids.json", { cache: "force-cache" }).then(
+    centroidsPromise = fetch(assetUrl("/static/sem/doc-centroids.json"), { cache: "no-cache" }).then(
       async (response) => {
         if (!response.ok) {
           throw new Error(`Semantic index unavailable (${response.status})`)
@@ -24,13 +31,16 @@ export function loadCentroids(): Promise<DocCentroid[]> {
         return (await response.json()) as DocCentroid[]
       },
     )
+    centroidsPromise.catch(() => {
+      centroidsPromise = null
+    })
   }
   return centroidsPromise
 }
 
 export function loadLexicalIndex(): Promise<LexicalDocument[]> {
   if (!lexicalIndexPromise) {
-    lexicalIndexPromise = fetch("/static/sem/lexical-index.json", { cache: "force-cache" }).then(
+    lexicalIndexPromise = fetch(assetUrl("/static/sem/lexical-index.json"), { cache: "no-cache" }).then(
       async (response) => {
         if (!response.ok) {
           throw new Error(`Lexical chunk index unavailable (${response.status})`)
@@ -50,7 +60,7 @@ export function loadDocIndex(slug: string): Promise<DocChunkMeta[]> {
   if (cached) return cached
 
   const shard = slug.replaceAll("/", "__")
-  const promise = fetch(`/static/sem/${shard}.idx.json`, { cache: "force-cache" }).then(
+  const promise = fetch(assetUrl(`/static/sem/${shard}.idx.json`), { cache: "no-cache" }).then(
     async (response) => {
       if (!response.ok) throw new Error(`Semantic metadata unavailable for ${slug}`)
       return (await response.json()) as DocChunkMeta[]
@@ -70,7 +80,7 @@ export function loadDocVectors(slug: string, dim = 384): Promise<DocVectors> {
   const promise = (async () => {
     const shard = slug.replaceAll("/", "__")
     const [binResponse, idx] = await Promise.all([
-      fetch(`/static/sem/${shard}.bin`, { cache: "force-cache" }),
+      fetch(assetUrl(`/static/sem/${shard}.bin`), { cache: "no-cache" }),
       loadDocIndex(slug),
     ])
 
@@ -85,6 +95,10 @@ export function loadDocVectors(slug: string, dim = 384): Promise<DocVectors> {
     }
 
     const rows = vecs.length / dim
+    if (idx.length !== rows) {
+      throw new Error(`Semantic shard/index mismatch for ${slug}: ${rows} vectors vs ${idx.length} metadata rows`)
+    }
+
     const rowAt = (i: number) => vecs.subarray(i * dim, (i + 1) * dim)
     return { rowAt, rows, idx }
   })()
