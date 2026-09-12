@@ -18,7 +18,8 @@ export default ((userOpts?: Partial<SearchOptions>) => {
 
   const Search: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     return (
-      <div class={classNames(displayClass, "search")}>
+      <div class={classNames(displayClass, "search")} data-search-component="hybrid-v5">
+        <style data-search-style="hybrid-v5" dangerouslySetInnerHTML={{ __html: style }} />
         <button class="search-button" id="search-button">
           <p>{i18n(cfg.locale).components.search.title}</p>
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
@@ -42,11 +43,18 @@ export default ((userOpts?: Partial<SearchOptions>) => {
             <div id="search-layout" data-preview={opts.enablePreview} data-search-version="v5"></div>
           </div>
         </div>
+        <script
+          type="application/javascript"
+          data-search-script="hybrid-v5"
+          dangerouslySetInnerHTML={{ __html: script }}
+        />
       </div>
     )
   }
 
-  Search.afterDOMLoaded = script
-  Search.css = style
+  // Search assets are deliberately embedded in the rendered component instead
+  // of relying on ComponentResources. This makes the v5 controller/style part
+  // of the page that contains the v5 markup and avoids stale/mismatched global
+  // search assets during Quartz rebuilds.
   return Search
 }) satisfies QuartzComponentConstructor
