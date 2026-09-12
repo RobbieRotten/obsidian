@@ -10,8 +10,11 @@ const SEM_DIR = join(process.cwd(), "quartz", "static", "sem")
 const MODEL_ID = "Xenova/all-MiniLM-L6-v2"
 const DIM = 384
 
-const MAX_CHARS = 7000
-const OVERLAP = 900
+// MiniLM only sees a few hundred word-pieces. Very large chunks silently throw
+// most of a section away at embedding time, which was making legal retrieval
+// unstable. Keep chunks close to the model's useful context window instead.
+const MAX_CHARS = 1200
+const OVERLAP = 180
 
 const slugify = (s: string) =>
   s
@@ -19,6 +22,13 @@ const slugify = (s: string) =>
     .toLowerCase()
     .replace(/[^\w\s-]/g, "")
     .replace(/\s+/g, "-")
+
+type Chunk = { text: string; anchor?: string; hPath: string[] }
+type LexicalDocument = {
+  slug: string
+  title: string
+  chunks: Array<{ anchor: string; hPath: string[]; text: string }>
+}
 
 function listMarkdownFiles(dir: string): string[] {
   const out: string[] = []
@@ -41,9 +51,9 @@ function quartzSlug(file: string): string {
   return encodeURI(rel)
 }
 
-function chunkMarkdown(md: string) {
+function chunkMarkdown(md: string): Chunk[] {
   const lines = md.split(/\r?\n/)
-  const chunks: { text: string; anchor?: string; hPath: string[] }[] = []
+  const chunks: Chunk[] = []
   let cur: string[] = []
   let hPath: string[] = []
   let lastAnchor: string | undefined
@@ -59,10 +69,21 @@ function chunkMarkdown(md: string) {
     if (section.length > MAX_CHARS) {
       let start = 0
       while (start < section.length) {
-        const slice = section.slice(start, Math.min(section.length, start + MAX_CHARS))
-        chunks.push({ text: slice, anchor: lastAnchor, hPath: [...hPath] })
-        if (start + MAX_CHARS >= section.length) break
-        start = Math.max(0, start + MAX_CHARS - OVERLAP)
+        let end = Math.min(section.length, start + MAX_CHARS)
+        // Prefer not to cut a word/list item in half when a nearby boundary is
+        // available. The fallback keeps progress guaranteed for pathological text.
+        if (end < section.length) {
+          const boundary = Math.max(
+            section.lastIndexOf("\n", end),
+            section.lastIndexOf(" ", end),
+          )
+          if (boundary > start + Math.floor(MAX_CHARS * 0.65)) end = boundary
+        }
+
+        const slice = section.slice(start, end).trim()
+        if (slice) chunks.push({ text: slice, anchor: lastAnchor, hPath: [...hPath] })
+        if (end >= section.length) break
+        start = Math.max(start + 1, end - OVERLAP)
       }
     } else {
       chunks.push({ text: section, anchor: lastAnchor, hPath: [...hPath] })
@@ -87,6 +108,14 @@ function chunkMarkdown(md: string) {
 
   push()
   return chunks
+}
+
+function cleanSearchText(text: string): string {
+  return text
+    .replace(/\s+/g, " ")
+    .replace(/[#*_`>]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
 }
 
 function tensorRows(output: unknown, expectedRows: number): number[][] {
@@ -135,6 +164,7 @@ async function main() {
 
   const files = listMarkdownFiles(CONTENT_DIR)
   const centroids: { slug: string; title: string; vec: number[]; n: number }[] = []
+  const lexicalDocuments: LexicalDocument[] = []
 
   for (const file of files) {
     const raw = readFileSync(file, "utf8")
@@ -146,6 +176,16 @@ async function main() {
     const title = titleMatch ? titleMatch[1].trim() : base
     const chunks = chunkMarkdown(raw)
     if (chunks.length === 0) continue
+
+    // One compact, deterministic chunk index gives the browser a single source
+    // for phrase/citation/proximity ranking. This avoids trying to infer a
+    // section from an entire note or from a 360-character preview.
+    const searchableChunks = chunks.map((chunk) => ({
+      anchor: chunk.anchor || "",
+      hPath: chunk.hPath,
+      text: cleanSearchText(chunk.text),
+    }))
+    lexicalDocuments.push({ slug, title, chunks: searchableChunks })
 
     const allVecs: number[][] = []
     const BATCH = 8
@@ -161,14 +201,10 @@ async function main() {
     for (let i = 0; i < allVecs.length; i++) bin.set(allVecs[i], i * DIM)
     writeFileSync(join(SEM_DIR, `${slug.replaceAll("/", "__")}.bin`), Buffer.from(bin.buffer))
 
-    const idx = chunks.map((chunk) => ({
-      anchor: chunk.anchor || "",
+    const idx = searchableChunks.map((chunk) => ({
+      anchor: chunk.anchor,
       hPath: chunk.hPath,
-      preview: chunk.text
-        .slice(0, 360)
-        .replace(/\s+/g, " ")
-        .replace(/[#*_`>]+/g, "")
-        .trim(),
+      preview: chunk.text.slice(0, 360),
     }))
     writeFileSync(join(SEM_DIR, `${slug.replaceAll("/", "__")}.idx.json`), JSON.stringify(idx))
 
@@ -177,7 +213,10 @@ async function main() {
   }
 
   writeFileSync(join(SEM_DIR, "doc-centroids.json"), JSON.stringify(centroids))
-  console.log(`Wrote ${centroids.length} semantic documents to ${SEM_DIR}`)
+  writeFileSync(join(SEM_DIR, "lexical-index.json"), JSON.stringify(lexicalDocuments))
+  console.log(
+    `Wrote ${centroids.length} semantic documents and ${lexicalDocuments.length} lexical documents to ${SEM_DIR}`,
+  )
 }
 
 main().catch((error) => {
