@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/search.scss"
 // @ts-ignore inline scripts are bundled to strings by Quartz
-import script from "./scripts/hybrid-search.inline"
+import script from "./scripts/hybrid-search-v2.inline"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
