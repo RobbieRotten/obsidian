@@ -1,9 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/search.scss"
 // @ts-ignore inline scripts are bundled to strings by Quartz
-import script from "./scripts/search.inline"
-// @ts-ignore inline scripts are bundled to strings by Quartz
-import hybridScript from "./scripts/sem-hybrid.inline"
+import script from "./scripts/hybrid-search.inline"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
@@ -48,7 +46,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
     )
   }
 
-  Search.afterDOMLoaded = `${script}\n${hybridScript}`
+  Search.afterDOMLoaded = script
   Search.css = style
   return Search
 }) satisfies QuartzComponentConstructor
