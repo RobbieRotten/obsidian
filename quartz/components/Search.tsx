@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/search.scss"
 // @ts-ignore inline scripts are bundled to strings by Quartz
-import script from "./scripts/hybrid-search-v5.inline"
+import script from "./scripts/hybrid-search-v6.inline"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
@@ -18,8 +18,8 @@ export default ((userOpts?: Partial<SearchOptions>) => {
 
   const Search: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     return (
-      <div class={classNames(displayClass, "search")} data-search-component="hybrid-v5">
-        <style data-search-style="hybrid-v5" dangerouslySetInnerHTML={{ __html: style }} />
+      <div class={classNames(displayClass, "search")} data-search-component="hybrid-v6">
+        <style data-search-style="hybrid-v6" dangerouslySetInnerHTML={{ __html: style }} />
         <button class="search-button" id="search-button">
           <p>{i18n(cfg.locale).components.search.title}</p>
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
@@ -40,12 +40,12 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               aria-label={i18n(cfg.locale).components.search.searchBarPlaceholder}
               placeholder={i18n(cfg.locale).components.search.searchBarPlaceholder}
             />
-            <div id="search-layout" data-preview={opts.enablePreview} data-search-version="v5"></div>
+            <div id="search-layout" data-preview={opts.enablePreview} data-search-version="v6"></div>
           </div>
         </div>
         <script
           type="module"
-          data-search-script="hybrid-v5"
+          data-search-script="hybrid-v6"
           dangerouslySetInnerHTML={{ __html: script }}
         />
       </div>
