@@ -24,6 +24,10 @@ async function getPipeline(): Promise<FeatureExtractionPipeline> {
   return pipelinePromise
 }
 
+export async function warmEmbeddingModel(): Promise<void> {
+  await getPipeline()
+}
+
 export async function embed(text: string): Promise<Float32Array> {
   const extractor = await getPipeline()
   const output = await extractor(text, {
